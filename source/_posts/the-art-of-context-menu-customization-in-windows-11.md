@@ -1,7 +1,7 @@
 ---
 title: The Art of Context Menu Customization in Windows 11
-date: 2024-09-17T00:01:22.089Z
-updated: 2024-09-21T22:47:15.945Z
+date: 2024-10-08T04:51:07.797Z
+updated: 2024-10-08T23:39:43.132Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,19 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
@@ -79,6 +92,14 @@ Once your PC has restarted:
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -89,6 +110,14 @@ Once your PC has restarted:
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -108,22 +137,15 @@ Once your PC has restarted:
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -142,5 +164,22 @@ Once your PC has restarted:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-easy-steps-to-document-video-calls/"><u>[New] 2024 Approved Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mambos-in-the-mangroves/"><u>[New] Mambos in the Mangroves</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>[New] Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/logging-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>[New] Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvd20234/"><u>最新DVDイメージファイル入手法：202([[34年分]について学ぶ完全解析</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-card-firmware-update-v2410/"><u>AMD Radeon Graphics Card Firmware Update V24.10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-window-11s-desktop-menu-add-ons/"><u>Customizing Window 11'S Desktop Menu Add-Ons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719311785872-fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-make-facetime-style-calls-using-windows-computers/"><u>How Can You Make FaceTime-Style Calls Using Windows Computers?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-11-pro-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 11 Pro Max on MetroPCS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-and-reinforcing-win-1011-menu-functionality/"><u>Reactivating and Reinforcing Win 10/11 Menu Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-file-lockdowns-access-restoration-on-pcs/"><u>Reversing File Lockdowns: Access Restoration on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-counteract-internal-error-with-remote-desktop/"><u>Strategies to Counteract Internal Error with Remote Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-windows-photos-apps-generative-erase-is-actually-great/"><u>The Windows Photos App's Generative Erase Is Actually Great</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-your-inboxes-connecting-gmail-with-windows-outlook-app/"><u>Uniting Your Inboxes: Connecting Gmail with Windows' Outlook App</u></a></li>
+</ul></div>
 

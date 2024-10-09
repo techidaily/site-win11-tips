@@ -1,7 +1,7 @@
 ---
 title: Tailoring Permanent Deletion to Your Windows PC's Dock
-date: 2024-09-28T21:20:59.092Z
-updated: 2024-10-03T20:41:27.091Z
+date: 2024-10-03T02:22:33.198Z
+updated: 2024-10-08T23:44:01.492Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -51,23 +58,9 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -105,19 +91,33 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
@@ -147,14 +147,20 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-stepwise-manual-harnessing-googles-automatic-conversion-service/"><u>[Updated] Stepwise Manual Harnessing Google's Automatic Conversion Service</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maintain-peaceful-posting-dismiss-ig-recommendations/"><u>2024 Approved Maintain Peaceful Posting Dismiss IG Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-window-file-tracking-on-windows/"><u>Effortless Window File Tracking on Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-choice-devices-turn-pics-to-films/"><u>In 2024, Prime Choice Devices Turn Pics to Films</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-class-nullifying-stealthy-windows-apps/"><u>Master Class: Nullifying Stealthy Windows Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-new-horizons-7-ways-artificial-intelligence-redefines-employment-landscapes/"><u>Navigating New Horizons: 7 Ways Artificial Intelligence Redefines Employment Landscapes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-in-a-world-of-chatgpt/"><u>Navigating Privacy in a World of ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshot-of-uac-dialogues/"><u>Navigating Windows Screenshot of UAC Dialogues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-unterminate-program-issue-in-windows/"><u>Solutions to Unterminate Program Issue in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[New] In 2024, How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-energy-efficient-laptops-with-gamers-features/"><u>2024 Approved Best Energy-Efficient Laptops with Gamers' Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>2024 Approved Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-setting-up-dns-on-windows-11/"><u>A Complete Walkthrough to Setting Up DNS on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-compute-with-essential-wintoy-tech/"><u>Accelerate Your Compute with Essential WinToy Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-ui-skills-with-windows-11-widgets/"><u>Accelerate Your UI Skills with Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-processing-closure-for-busy-windows-users/"><u>Batch-Processing Closure for Busy Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blues-swift-remedies-to-hypervisor-bsos-in-winxose/"><u>Beat the Blues: Swift Remedies to Hypervisor BSOS in WINXOSE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-gaming-performance-on-windows-updated-nvidia-graphics-drivers-available-now/"><u>Boost Gaming Performance on Windows: Updated NVIDIA Graphics Drivers Available Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-amd-graphics-efficiency-windows-11-updates-guide/"><u>Boosting AMD Graphics Efficiency: Windows 11 Updates Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-13-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 13 Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-user-interaction-with-windows-narrators-shortcuts/"><u>Optimizing User Interaction with Windows Narrator's Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266622683-rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-lost-pci-controller-in-windows/"><u>Restoring Lost PCI Controller in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/x-pen-drivers-step-by-step-tutorial-for-latest-installation/"><u>X-PEN Drivers - Step by Step Tutorial for Latest Installation</u></a></li>
 </ul></div>
 

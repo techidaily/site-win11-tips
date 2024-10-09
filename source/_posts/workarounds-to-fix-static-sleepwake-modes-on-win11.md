@@ -1,7 +1,7 @@
 ---
 title: Workarounds to Fix Static Sleep/Wake Modes on Win11
-date: 2024-09-16T22:19:58.785Z
-updated: 2024-09-21T18:12:44.258Z
+date: 2024-10-05T17:56:15.892Z
+updated: 2024-10-09T01:35:36.958Z
 tags:
   - windows10
   - windows11
@@ -46,8 +46,24 @@ Here is how you can proceed:
 3. In the following window, expand the**View by** category at the top and choose**Large icons** .  
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
@@ -67,6 +83,14 @@ Here is how you can run the troubleshooter:
 3. Click on**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
@@ -85,10 +109,10 @@ powercfg –restoredefaultscheme
 5. Once the command is executed, check if you can change the power mode successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -102,16 +126,16 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -140,5 +164,19 @@ Hopefully, this will resolve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools-for-2024/"><u>[New] Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>[New] How To Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ultimate-list-10-top-ae-text-ideas/"><u>[New] In 2024, Ultimate List 10 Top AE Text Ideas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] The Ascent of Jake Paul in Online Video Fame</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-overlocking-visuals-enabledisable-windows-spotlight/"><u>Control Overlocking Visuals: Enable/Disable Windows' Spotlight</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-hp-color-laserjet-pro-m477-printer-drivers-compatible-with-windows-and-macos/"><u>Free HP Color LaserJet Pro M477 Printer Drivers - Compatible with Windows & MacOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-nvidia-rtx-3080-ti-drivers-on-windows-available-for-windows-11-10-and-7/"><u>Install the Most Recent NVIDIA RTX 3080 Ti Drivers on Windows - Available for WINDOWS 11, 10 and 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-prtscr-a-gateway-to-windows-11s-snipping-tool-no/"><u>Is PrtScr a Gateway to Windows 11'S Snipping Tool? No</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-digital-community-maze-facebook-group-finds/"><u>Navigating the Digital Community Maze: Facebook Group Finds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win11s-gif-resizing-challenge-within-discord/"><u>Navigating Win11's GIF Resizing Challenge Within Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-play-old-championship-manager-for-zero-dollars/"><u>Unlock the Secrets: Play Old Championship Manager for Zero Dollars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-reimagined-streamlined-reset-techniques/"><u>Windows Reimagined: Streamlined Reset Techniques</u></a></li>
+</ul></div>
 

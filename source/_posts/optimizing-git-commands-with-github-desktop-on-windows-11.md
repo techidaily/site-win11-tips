@@ -1,7 +1,7 @@
 ---
 title: Optimizing Git Commands with GitHub Desktop on Windows 11
-date: 2024-09-30T16:08:23.301Z
-updated: 2024-10-03T22:59:09.765Z
+date: 2024-10-05T21:54:41.822Z
+updated: 2024-10-09T03:45:43.477Z
 tags:
   - windows10
   - windows11
@@ -60,11 +60,26 @@ To add an existing GitHub account to GitHub Desktop:
 2. Within GitHub Desktop, navigate to**File > Options > Accounts** .  
 ![github desktop signin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-desktop-signin-1.jpg)
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
 ## How to Use GitHub Desktop Like a Pro
 
  Now that you’ve configured GitHub Desktop on your Windows PC, you can use it in your daily workflow.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Clone a Repository Using GitHub Desktop on Windows
 
@@ -80,10 +95,10 @@ To add an existing GitHub account to GitHub Desktop:
 The project should then be accessible within the saved directory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a Branch in GitHub Desktop
@@ -96,13 +111,6 @@ To create a branch in GitHub desktop:
 2. Select the**Current repository** dropdown and choose the project you want to work on.  
 ![create branch github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-branch-1.jpg)
 3. Next, select the**Current branch** dropdown and click on**New branch** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
@@ -118,28 +126,22 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
-5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
-6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
+6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
 ### How to Push Code Using GitHub Desktop on Windows
 
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
@@ -160,21 +162,24 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] 2024 Approved Enhancing Quality without the Mic A Practical Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-formulating-attractive-instagram-story-captions/"><u>[Updated] 2024 Approved Formulating Attractive Instagram Story Captions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-blue-badge-on-facebook-your-pathway-unveiled-for-2024/"><u>[Updated] Blue Badge on Facebook Your Pathway Unveiled for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[Updated] Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-navigating-videos-sequentially-for-free-youtube-guide/"><u>2024 Approved Navigating Videos Sequentially for Free - YouTube Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>In 2024, Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/love-in-song-ultimate-listening-guide-to-proposals-for-2024/"><u>Love in Song Ultimate Listening Guide to Proposals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-to-resolve-update-failures-for-xbox-app/"><u>Method to Resolve Update Failures for Xbox App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-windows-camera-app-setback-with-ease/"><u>Overcome Windows Camera App Setback with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photobooth-glitch-unraveling-video-lags-for-2024/"><u>Photobooth Glitch Unraveling Video Lags for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-dormant-windows-key-status/"><u>Resurrecting Dormant Windows Key Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-shadows-reversing-a-devices-dark-mode/"><u>Switching Shadows: Reversing a Device's Dark Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-enabling-everlasting-file-removal-in-windows-11s-trash/"><u>The Ultimate Guide to Enabling Everlasting File Removal in Windows 11'S Trash</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-widget-redesign-improving-usability-and-performance/"><u>Windows 11 Widget Redesign: Improving Usability and Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-8-best-zombie-games/"><u>[Updated] 2024 Approved The 8 Best Zombie Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-behind-the-scenes-of-online-content-monetization/"><u>[Updated] In 2024, Behind the Scenes of Online Content Monetization</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-practices-for-documenting-lol-playthroughs/"><u>2024 Approved Best Practices for Documenting LOL Playthroughs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/compact-content-leading-5-services-to-compress-video-urls-for-2024/"><u>Compact Content Leading 5 Services to Compress Video URLs for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/did-your-contact-details-get-stolen-by-facebook-mistake/"><u>Did Your Contact Details Get Stolen by Facebook Mistake?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-optimize-your-windows-system-against-high-ums-use/"><u>Efficiency in Action: Optimize Your Windows System Against High UMS Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-vivetool-innovations/"><u>Elevate Your Windows Experience with ViVeTool Innovations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/entry-level-gamers-rejoice-discover-the-1629-asus-rog-nuc-with-powerful-core-ultra-cpu-and-rtx-gpu/"><u>Entry-Level Gamers Rejoice: Discover the $1,629 Asus ROG NUC with Powerful Core Ultra CPU and RTX GPU!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-and-msi-dissecting-software-package-variations/"><u>EXE and MSI: Dissecting Software Package Variations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-nullify-audio-amplification-in-windows/"><u>Guide to Nullify Audio Amplification in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-efficiently-expanding-on-stardews-ginger-isle/"><u>In 2024, Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-90-gt-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor 90 GT and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-ai-feature-on-windows-11-microsofts-taskbar-assistant-revolutionizes-productivity/"><u>New AI Feature on Windows 11: Microsoft's Taskbar Assistant Revolutionizes Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-wow-crash-132-a-guide-for-users/"><u>Preventing WoW Crash #132: A Guide for Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recommended-procedures-for-dying-wireless-controller/"><u>Recommended Procedures for Dying Wireless Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-greyed-out-waste-bin-icon-in-win11/"><u>Restoring Greyed Out Waste Bin Icon in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-top-laptop-picks-for-college-students-perfect-for-work-creativity-entertainment-etc/"><u>The Ultimate Guide to the Top Laptop Picks for College Students: Perfect for Work, Creativity, Entertainment, Etc.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-system-advanced-techniques-to-revise-the-windows-registry-in-command-prompt/"><u>Unlock Your System: Advanced Techniques to Revise the Windows Registry in Command Prompt</u></a></li>
 </ul></div>
 

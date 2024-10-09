@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: How to Lock Your Screen's Look"
-date: 2024-09-30T22:08:52.329Z
-updated: 2024-10-03T19:21:50.710Z
+date: 2024-10-05T20:34:32.163Z
+updated: 2024-10-08T18:30:49.189Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  If you’ve recently installed a new theme, it could be that it changes the background image after a while. You can use one of the[ways to switch your wallpaper on Windows 11](https://www.makeuseof.com/windows-11-change-desktop-wallpaper/) if you find this behavior distracting or undesirable. Hopefully, this will prevent the background from automatically changing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Slideshow in Personalization Settings
 
  If it’s not the theme that’s automatically changing the background on your Windows 11 PC, it could be that you’ve set your background to be a slideshow. A slideshow background will change its image after a set amount of time, like one minute, 30 minutes, or a day.
@@ -39,27 +46,20 @@ Here’s how you can stop that from happening:
 ![the windows 11 power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-start-power-menu.jpg)
 2. Head to**Personalize > Background** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. If it says**Slideshow** in the dropdown next to**Personalize your background** , click on it and select**Picture** or**Solid color** .  
 ![switching the background type on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/personalizing-bg-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now your background should remain fixed.
@@ -92,28 +92,28 @@ Here’s how to do that:
 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
 3. Follow the steps to set up your local account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now your Windows account on this computer will be isolated from the rest of your Windows devices, and the settings should no longer sync.
 
 ## 5\. Lock the Background Settings
 
  Sometimes, it’s not that Windows is changing the background so much as someone else is doing it when they use your computer. You can tell them to stop if you know who it is, but if many people use the PC, you can simply[disable your Windows background settings](https://www.makeuseof.com/stop-others-change-windows-desktop-background/) . This will prevent others from changing them.
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Uninstall the Most Recent Windows Update
 
  While keeping your computer updated is a good idea, if the background switching problem is too much of a nuisance, uninstalling a recent update can help get rid of the issue. If this is what you want to do, read our guide on the[ways you can uninstall updates on Windows](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now Your Background Should Stop Changing by Itself
@@ -137,22 +137,24 @@ Here’s how to do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-mental-armor-against-online-critics/"><u>[New] 2024 Approved Building Mental Armor Against Online Critics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/fficiency-in-action-rapid-removal-of-youtube-discussions-for-2024/"><u>[New] Efficiency in Action Rapid Removal of YouTube Discussions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tackling-fuzzy-visuals-on-online-video-platforms/"><u>[New] Tackling Fuzzy Visuals on Online Video Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-google-photos-and-your-creativity-quick-collages-made-simple-for-2024/"><u>[Updated] Google Photos & Your Creativity Quick Collages Made Simple for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-auto-recommended-games-in-windows-11/"><u>Cease Auto-Recommended Games in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-shutdownrestart-blockage-due-to-deceptive-apps-in-windows/"><u>Counteracting Shutdown/Restart Blockage Due to Deceptive Apps in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-system-tray-and-secret-icons-in-win11/"><u>Decoding System Tray & Secret Icons in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-functionality-reprogramming-fn-keys-on-modern-windows-pcs/"><u>Enhance Functionality: Reprogramming FN Keys on Modern Windows PCs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/examining-splitcam-top-video-recorder/"><u>Examining SplitCam Top Video Recorder?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-simple-fixes-for-your-non-operational-windows-notepad/"><u>Five Simple Fixes for Your Non-Operational Windows Notepad</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-find-x7-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Find X7 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>In 2024, Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719320946567-list-three-benefits-of-applying-a-cultural-relativist-approach-when-encountering-unfamiliar-customs-or-beliefs/"><u>List Three Benefits of Applying a Cultural Relativist Approach when Encountering Unfamiliar Customs or Beliefs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/problem-mit-hevc-videowiedergabe-in-windows-hier-sind-zwei-tipps-zur-fehlerbehebung-in-windows-1087/"><u>Problem Mit HEVC Videowiedergabe in Windows? Hier Sind Zwei Tipps Zur Fehlerbehebung in Windows 10/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-salvage-dormant-wsreset-service-on-windows/"><u>Steps to Salvage Dormant WSReset Service on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-repairing-razer-synapse-fixes-for-modern-oses/"><u>Swift Repairing: Razer Synapse Fixes for Modern OSes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[New] 2024 Approved From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-10-online-hubs-for-public-domain-music-in-games/"><u>[New] 2024 Approved Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-framebyframe-faceoff/"><u>[Updated] In 2024, FrameByFrame Faceoff</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-10-best-action-cameras-for-diving-or-snorkelling-2023-update/"><u>[Updated] In 2024, Top 10 Best Action Cameras For Diving Or Snorkelling -2023 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-operation-requirement-issues-on-windows-11-and-11/"><u>Demystifying Operation Requirement Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identity-infiltration-windows-fingerprints-in-the-crosshairs/"><u>Identity Infiltration: Windows Fingerprints in the Crosshairs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lenovo-thinkphonewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lenovo ThinkPhonewith/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-gionee-f3-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Gionee F3 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-change-new-directions-for-winadmin-access-control/"><u>Initiating Change: New Directions for WinAdmin Access Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-win-11-gaming-landscape-with-these-fps-counters/"><u>Mastering the Win 11 Gaming Landscape with These FPS Counters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-protocol-port-vulnerability-check-for-windows/"><u>Network Protocol Port Vulnerability Check for Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-skype-message-failure-effective-strategies-and-solutions/"><u>Overcoming Skype Message Failure - Effective Strategies and Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-overlapping-app-symbols-on-pc-screen/"><u>Rectifying Overlapping App Symbols on PC Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-narzo-n53-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme Narzo N53 Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-surprising-alerts-in-windows-security/"><u>Troubleshooting Surprising Alerts in Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-problematic-java-setup-on-windows-pcs/"><u>Unblocking Problematic Java Setup on Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Reno 11 Pro 5G.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-overcoming-windows-run-time-errors/"><u>Unraveling the Mystery: Overcoming Windows 'Run-Time Errors'</u></a></li>
 </ul></div>
 

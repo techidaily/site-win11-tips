@@ -1,7 +1,7 @@
 ---
 title: Reprogram RAM Settings for Maximum Performance in Win 11
-date: 2024-09-26T18:12:48.283Z
-updated: 2024-10-03T18:59:56.918Z
+date: 2024-10-07T07:42:53.184Z
+updated: 2024-10-09T03:47:19.838Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
  Let's now see how to reset Virtual Memory on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -48,15 +41,22 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 ![How to Reset Virtual Memory on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-reset-virtual-memory-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open up the Performance Options window, where you can manage virtual memory settings. For this, switch to the **Advanced** tab and click on **Change** in the Virtual Memory section.
 
 ![Reset Page Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-page-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next screen, uncheck the **Automatically manage paging file size for all drives** checkbox and select the drive you want to configure virtual memory. Normally, this will be the drive on which Windows is installed.
@@ -75,18 +75,18 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
 
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use Registry Editor
 
@@ -94,18 +94,18 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
 
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
 
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
 
  Next, double-click on the **ClearPageFileAtShutdown** key and set its value to **1**. Click on the **OK** button to save your changes.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Reset Virtual Memory To Get Better Performance
 
@@ -126,24 +126,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-focus-on-subjects-methods-for-editing-out-photography-backgrounds-for-2024/"><u>[New] Focus on Subjects Methods for Editing Out Photography Backgrounds for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-coders-showdown-which-codec-will-dominate-video-quality/"><u>[New] In 2024, Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-into-the-future-jaunt-vrs-potential-explored/"><u>[New] Into the Future Jaunt VR's Potential Explored</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[Updated] 2024 Approved AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>[Updated] The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222500223-mkvgif-movavi/"><u>費用不要なMKVからGIFへの自動変換 - Movaviを利用して簡単に</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726223515996-oggwmv-movavi/"><u>網路上無需付費，遞送Ogg格式到WMV - 利用Movavi轉檔工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-flv-movavi/"><u>網路直接 MP4 自由轉換成 FLV - 使用Movavi媒體編輯工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/choosing-the-right-video-editor-for-your-chromebook-the-ultimate-guide-to-top-9-options/"><u>Choosing the Right Video Editor for Your Chromebook: The Ultimate Guide to Top 9 Options</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>In 2024, The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/laying-the-foundation-of-zoom-room-use-for-2024/"><u>Laying the Foundation of Zoom Room Use for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/navigating-google-chromes-picture-in-picture-feature/"><u>Navigating Google Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-wma-in-3gp-verwisseling-met-movavi-vrijetjes/"><u>Online Gratuite WMA-In 3GP Verwisseling Met Movavi - Vrijetjes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-steps-to-reset-your-ipads-forgotten-passcode/"><u>Solving the Dilemma: Steps to Reset Your iPad's Forgotten Passcode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-10-methods-for-flawless-mp4-conversion-from-mkv-without-compromising-video-integrity/"><u>Top 10 Methods for Flawless MP4 Conversion From MKV Without Compromising Video Integrity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-16-livres-gravadores-de-video-mais-eficientes-para-o-ano-de-2024/"><u>Top 16 Livres Gravadores De Vídeo Mais Eficientes Para O Ano De 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-ogv-in-wmv-senza-costi-il-guida-completa-di-movavi/"><u>Trasforma I Tuoi File OGV in WMV Senza Costi: Il Guida Completa Di Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726225366597-mp2ogg-movavi/"><u>무료 인터넷 바이너리 전체 MP2/OGG 변환기 - Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pixel-pushers-boost-phone-photography-for-free/"><u>[New] 2024 Approved Pixel Pushers Boost Phone Photography for Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-achieving-visual-excellence-with-the-best-4k-monitors-on-the-market/"><u>[New] Achieving Visual Excellence with the Best 4K Monitors on the Market</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-breaking-down-the-barriers-effective-rtmp-streaming-in-premiere/"><u>[Updated] In 2024, Breaking Down the Barriers Effective RTMP Streaming in Premiere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-elevating-your-channel-brand-growth-in-viewers/"><u>[Updated] Step-by-Step Guide to Elevating Your Channel Brand, Growth in Viewers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tactics-for-effective-whatsapp-broadcast-with-facebook-videos/"><u>2024 Approved Tactics for Effective WhatsApp Broadcast with Facebook Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027736800-windows/"><u>動画ファイルを逆さまにしてみよう! Windows機で簡単な方法とトリック</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-system-insights-step-by-step/"><u>Accessing Windows System Insights Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-fatal-wow-bug-on-latest-windows-11-version/"><u>Addressing Fatal WoW Bug on Latest Windows 11 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-in-depth-look-at-windows-cab-and-its-functionality/"><u>An In-Depth Look at Windows CAB and Its Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insight-into-runtime-brokers-role-on-your-machine/"><u>An Insight Into Runtime Broker's Role on Your Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-fails-keeping-your-temp-folder-valid-in-win11/"><u>Avoiding Common Fails: Keeping Your Temp Folder Valid in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-windows-store-crash-code-error-0x80072efd/"><u>Banishing Windows Store Crash Code: Error 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-task-handling-a-guide-to-windows-11-mastery/"><u>Boosting Task Handling - A Guide to Windows 11 Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/chrome-alerts-get-notified-about-unused-credit-card-rewards-during-online-shopping/"><u>Chrome Alerts: Get Notified About Unused Credit Card Rewards During Online Shopping</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-learning-in-school-with-these-5-uses-of-chatgpt/"><u>Revolutionize Learning in School with These 5 Uses of ChatGPT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tactics-for-effective-whatsapp-broadcast-with-facebook-videos/"><u>Tactics for Effective WhatsApp Broadcast with Facebook Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Operational Volume Shadow Copies in Windows
-date: 2024-09-28T21:48:13.517Z
-updated: 2024-10-03T21:09:34.202Z
+date: 2024-10-08T02:10:20.245Z
+updated: 2024-10-08T21:35:26.895Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
  Corrupted system files can affect Windows services, such as Volume Shadow Copy. So, some users may need to repair system files to fix the Volume Shadow Copy Service when it’s not working. You can do that by running System File Checker and Deployment Image Servicing Management scans, as covered in this article about [repairing corrupt Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/).
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -66,6 +59,20 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
@@ -73,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
 
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
@@ -110,21 +110,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
  These solutions can potentially resolve many variable Volume Shadow Copy Service error messages and codes that pop up during system backup and restore operations. With Volume Shadow Copy fixed, you can back up and restore Windows with built-in system tools again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-filmographys-finest-shots-the-best-camera-and-lighting-tips/"><u>2024 Approved Filmography's Finest Shots The Best Camera & Lighting Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/a-comprehensive-review-of-the-lightroom-app-on-android-for-2024/"><u>A Comprehensive Review of the Lightroom App on Android for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bring-order-to-your-devices-6-methods-for-reliable-automatic-switching-of-airpods-with-apple-tech/"><u>Bring Order to Your Devices: 6 Methods for Reliable Automatic Switching of AirPods with Apple Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-wma-en-aac-facile-et-gratuite-sur-internet-audioconverterpro/"><u>Conversion WMA en AAC Facile Et Gratuite Sur Internet - AudioConverterPro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/debuter-avec-le-logiciel-gratuit-de-retouche-photo-movavi-essai-en-ligne/"><u>Débuter Avec Le Logiciel Gratuit De Retouche Photo Movavi : Essai en Ligne</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargue-su-clave-de-activacion-gratuita-para-el-convertidor-de-videos-de-movavi/"><u>Descargue Su Clave De Activación Gratuita Para El Convertidor De Videos De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960312330-get-the-latest-lenovo-t430-driver-updates-for-windows-operating-systems-windows-10-8-7-instantly/"><u>Get the Latest Lenovo T430 Driver Updates for Windows Operating Systems (Windows 10, 8, 7) Instantly!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-image-dimensions-the-ultimate-movavi-resize-tutorial/"><u>Mastering Image Dimensions: The Ultimate Movavi Resize Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-simples-pour-envoi-de-films-via-courriel/"><u>Techniques Simples Pour Envoi De Films via Courriel</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ideal-mac-sniping-software-here-are-5-picks-for-2024/"><u>The Ideal Mac Sniping Software - Here Are 5 Picks for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-swelling-youtube-supporters-for-2024/"><u>Unlocking the Secrets of Swelling YouTube Supporters for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +117,24 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-best-of-the-best-crafting-a-top-5-racing-game-selection-for-2024/"><u>[New] The Best of the Best Crafting a Top 5 Racing Game Selection for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-seamless-transition-of-photos-from-your-device-to-snapchat-for-2024/"><u>[Updated] How-To Seamless Transition of Photos From Your Device to Snapchat for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] In 2024, Voice Customization Leaders Beyond Echo Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-routes-to-rescue-your-stream-with-a-fixed-obs-link-on-windows/"><u>7 Routes to Rescue Your Stream with a Fixed OBS Link on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-precise-walkthrough-for-windows-update-resetting/"><u>A Precise Walkthrough for Windows Update Resetting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-issues-with-googles-nearby-sharing-on-desktop-pc/"><u>Addressing Issues with Google's Nearby Sharing on Desktop PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-windows-tactics-for-hardware-id-retrieval/"><u>Advanced Windows Tactics for Hardware ID Retrieval</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-generated-windows-keys-unveiling-potential-perils/"><u>AI-Generated Windows Keys: Unveiling Potential Perils</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/awaken-your-device-finding-and-fixing-muted-speaker-issues/"><u>Awaken Your Device – Finding & Fixing Muted Speaker Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-hot-40-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Hot 40 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-telegram-web-navigation/"><u>Mastering the Art of Telegram Web Navigation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pictorial-insight-mastery-of-vsco-tools/"><u>Pictorial Insight Mastery of VSCO Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-fix-for-chatgpt-and-plugin-service-interaction-errors/"><u>Step-by-Step Fix for ChatGPT and Plugin Service Interaction Errors</u></a></li>
+</ul></div>
+

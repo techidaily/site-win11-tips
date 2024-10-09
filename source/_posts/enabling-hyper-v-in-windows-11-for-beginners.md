@@ -1,7 +1,7 @@
 ---
 title: Enabling Hyper-V in Windows 11 for Beginners
-date: 2024-09-21T05:37:40.943Z
-updated: 2024-09-22T02:03:44.234Z
+date: 2024-10-04T20:32:13.189Z
+updated: 2024-10-09T03:06:11.663Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 5. Hit **Enter** and then select **Enabled**. Press **Enter** again to make the selection.
 6. Next, press **F10** to save the changes and exit **BIOS**.
 7. Your PC will restart with the Hardware Virtualization enabled. Now you can continue to install Hyper-V on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install Hyper-V on Windows 11 Home
 
@@ -95,8 +102,23 @@ pause`
 1. Press the **Win** key and type **cmd**. Then right-click on **Command Prompt** and select **Run as administrator.**  
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 2. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Hyper-V on Windows 11 Home
 
@@ -117,10 +139,10 @@ pause`
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run Hyper-V on Windows 11 Home
@@ -139,5 +161,26 @@ pause`
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-eclipsing-fears-in-your-first-10-videos/"><u>[New] In 2024, Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-prime-ways-from-video-links-to-audio-downloads/"><u>[New] In 2024, Prime Ways From Video Links to Audio Downloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-terminology-trek-through-the-virtual-landscape/"><u>[New] Terminology Trek Through the Virtual Landscape</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>[New] Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-thumbnail-magic-a-filmmakers-mobile-techniques-for-youtube/"><u>[Updated] 2024 Approved Thumbnail Magic A Filmmaker's Mobile Techniques for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamless-social-streams-link-instagram-and-facebook/"><u>[Updated] In 2024, Seamless Social Streams Link Instagram & Facebook</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-video-visibility-ethically-one-million-in-views-for-2024/"><u>Elevate Your Video Visibility Ethically One Million in Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-5-programs-for-a-smooth-transition-from-apples-macos/"><u>Essential 5 Programs for a Smooth Transition From Apple's MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-concept-to-code-establishing-individual-patterns-on-windows/"><u>From Concept to Code: Establishing Individual Patterns on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manually-apply-local-group-policies-to-single-windows-account/"><u>How to Manually Apply Local Group Policies to Single Windows Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-the-fax-cover-page-editor-in-windows-11/"><u>How to Open the Fax Cover Page Editor in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-12-mini-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 12 mini</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-theme-management-in-flipbook-pro-essential-guide/"><u>Mastering Theme Management in FlipBook Pro: Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-javascript-troubleshooting-with-discord/"><u>Navigating Through Windows' JavaScript Troubleshooting with Discord</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/premier-advice-superior-iphone-audio-artists-for-2024/"><u>Premier Advice Superior iPhone Audio Artists for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-pink-screen-woes-a-practical-approach/"><u>Resolving Pink Screen Woes: A Practical Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lost-sound-preferences-on-windows-os/"><u>Restoring Lost Sound Preferences on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-merging-data-on-modern-windows/"><u>The Art of Merging Data on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplug-plug-back-in-quick-tips-to-resurrect-your-usb-wi-fi-link/"><u>Unplug, Plug Back In! – Quick Tips to Resurrect Your USB Wi-Fi Link</u></a></li>
+</ul></div>
 

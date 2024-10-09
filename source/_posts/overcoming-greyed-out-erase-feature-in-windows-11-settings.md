@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed Out Erase Feature in Windows 11 Settings
-date: 2024-09-16T05:12:17.582Z
-updated: 2024-09-22T02:55:41.184Z
+date: 2024-10-05T23:51:28.345Z
+updated: 2024-10-09T06:22:13.849Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,21 @@ To remove PIN using forgot my PIN:
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's it! You have successfully removed the Windows Hello PIN.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
 
@@ -83,10 +97,16 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -99,10 +119,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -122,5 +142,20 @@ That's it! You have successfully removed the Windows Hello PIN.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[New] Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-expand-your-horizon-best-15-online-science-platforms/"><u>[Updated] In 2024, Expand Your Horizon Best 15 Online Science Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-technological-leap-in-home-camcorders-and-live-feeds/"><u>[Updated] The Technological Leap in Home Camcorders and Live Feeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/degrees-of-change-windows-11s-6-imageshift-strategies/"><u>Degrees of Change: Windows 11'S 6 Imageshift Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/high-performing-screenshot-software-post-windows-snipping-tool/"><u>High-Performing Screenshot Software, Post Windows Snipping Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphoneipad-dvd-itunes-imovieappletv/"><u>IPhone/iPad 対応無料DVD変換アプリダウンロード – iTunes, iMovie、AppleTV利用</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968690413-mrs-provides-metabolic-profiles-that-help-differentiate-between-types-of-brain-lesions-including-tumors-and-neurodegenerative-diseases/"><u>MRS Provides Metabolic Profiles that Help Differentiate Between Types of Brain Lesions, Including Tumors and Neurodegenerative Diseases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-file-exchanges-with-python-servers-on-windows-systems/"><u>Optimize Your File Exchanges with Python Servers on Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-guide-to-planning-google-meet-sessions-for-2024/"><u>Quick Guide to Planning Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-from-converting-images-into-webp-format-for-windows/"><u>Stop Chrome From Converting Images Into WebP Format for Windows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cutting-edge-audio-tricks-for-a-polished-imovie-experience-for-2024/"><u>Updated Cutting-Edge Audio Tricks for a Polished iMovie Experience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-slow-signal-boost-performance-with-these-8-remedies/"><u>Win11's Slow Signal? Boost Performance with These 8 Remedies</u></a></li>
+</ul></div>
 

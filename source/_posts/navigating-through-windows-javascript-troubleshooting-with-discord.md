@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' JavaScript Troubleshooting with Discord
-date: 2024-10-01T21:14:11.203Z
-updated: 2024-10-03T21:50:40.209Z
+date: 2024-10-04T03:01:33.782Z
+updated: 2024-10-09T01:22:46.933Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click**Uninstall** to finish.
 
 ## 3\. Delete Discord’s Data Folders
@@ -72,17 +65,18 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
@@ -95,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
@@ -127,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -145,22 +125,45 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
 
@@ -181,24 +184,21 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-minds-on-trial-select-escapes-that-challenge-you/"><u>[New] In 2024, Minds on Trial Select Escapes That Challenge You</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-closer-look-at-apples-m1-computing-powerhouse/"><u>[Updated] 2024 Approved A Closer Look at Apple’s M1 Computing Powerhouse</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-for-exceptional-tiktok-video-production/"><u>[Updated] Expert Tips for Exceptional TikTok Video Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-download-now/"><u>7 - Download Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/are-you-secure-with-obs-comprehensive-safety-tips-for-streaming-and-screen-capturing/"><u>Are You Secure with OBS?: Comprehensive Safety Tips for Streaming & Screen Capturing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desativar-sua-fala-os-melhores-metodos-para-silenciar-seu-vocal-online-em-apenas-11-passos/"><u>Desativar Sua Fala: Os Melhores Métodos Para Silenciar Seu Vocal Online Em Apenas 11 Passos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-top-13-best-youtube-to-mp3-converters-in-202/"><u>Discover the Top 13 Best YouTube to MP3 Converters in 202</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-mpow-bluetooth-drivers-for-smooth-connectivity-on-windows-1187-systems-free/"><u>Get Updated MPOW Bluetooth Drivers for Smooth Connectivity on Windows 11/8/7 Systems - FREE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-facil-de-pesar-a-pasos-como-desenfocar-videos-en-linea/"><u>Guía Fácil De Pesar a Pasos: Cómo Desenfocar Videos en Línea</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gunstige-online-konvertierung-von-webm-zu/"><u>Günstige Online-Konvertierung Von Webm Zu</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-use-microsoft-azure-speech-to-text-service-for-2024/"><u>How to Use Microsoft Azure Speech to Text Service for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v29-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V29 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-note-12-pro-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi Note 12 Pro 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-class-on-repairing-logitech-f710-drivers-for-windows-xp-vista-7-8-and-beyond/"><u>Master Class on Repairing Logitech F710 Drivers for Windows XP, Vista, 7, 8, and Beyond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-free-image-converter-convert-orf-files-to-jpeg-movavi/"><u>Online Free Image Converter: Convert ORF Files to JPEG - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-14-free-branding-software-picks-for-pc-professional-logo-design-tools/"><u>Top 14 Free Branding Software Picks for PC - Professional Logo Design Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-livekernelevent-error-144/"><u>Troubleshooting Steps for Correcting LiveKernelEvent Error 144</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-more-memory-a-guide-on-eliminating-redundant-data-for-extra-disk-capacity-featuring-movavi-insights/"><u>Unlock More Memory: A Guide on Eliminating Redundant Data for Extra Disk Capacity, Featuring Movavi Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-vr-to-shape-modern-business-practices/"><u>[New] Leveraging VR to Shape Modern Business Practices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-accessible-obs-presets-for-affordable-computers/"><u>2024 Approved Accessible OBS Presets for Affordable Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-essential-steps-to-clear-overflowing-c-drive-data/"><u>3 Essential Steps to Clear Overflowing C: Drive Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-access-boosting-morning-routine-and-note-openings/"><u>Accelerated Access: Boosting Morning Routine & Note Openings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-recently-used-windows-with-ease/"><u>Accessing Recently Used Windows with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-performance-with-powertoys-win11/"><u>Achieving Optimal Performance with PowerToys (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-deadlock-in-windows-desktop-menu-navigation/"><u>Avoiding Deadlock in Windows Desktop Menu Navigation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-setting-up-automatic-deletions-in-win11/"><u>Boost Productivity: Setting Up Automatic Deletions in Win11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boost-your-online-presence-with-facebook-linkedin-and-youtube-integration/"><u>Boost Your Online Presence with Facebook, LinkedIn & YouTube Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-on-windows-11-top-seven-tweaks-for-game-enthusiasts/"><u>Boosting Performance on Windows 11: Top Seven Tweaks for Game Enthusiasts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-video-marketing-how-to-plan-your-strategy-with-ideas/"><u>Instagram Video Marketing How to Plan Your Strategy with Ideas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-universe-discover-how-to-binge-watch-x-men-movies-correctly/"><u>Ordered Universe: Discover How to Binge-Watch X-Men Movies Correctly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-by-step-guide-integrating-sonys-ps5-controller-into-your-pc-gaming-experience-on-windows-10/"><u>Step-by-Step Guide: Integrating Sony's PS5 Controller Into Your PC Gaming Experience on Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-case-for-purchasing-the-apple-vision-pro-model/"><u>The Case for Purchasing the Apple Vision Pro Model</u></a></li>
 </ul></div>
 

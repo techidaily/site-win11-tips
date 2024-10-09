@@ -1,7 +1,7 @@
 ---
 title: Steps for Correcting MMC Snap Creation Issues
-date: 2024-10-02T19:51:57.737Z
-updated: 2024-10-03T17:55:48.996Z
+date: 2024-10-06T20:51:58.683Z
+updated: 2024-10-08T23:13:43.654Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable .NET Framework
@@ -69,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
@@ -92,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -118,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
 3. Click **Finish** to complete uninstallation. Repeat the process for all the Visual C++ Redistributable packages.
@@ -127,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
@@ -141,29 +135,6 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-video-playback-embrace-the-power-of-av1-in-youtube/"><u>[New] 2024 Approved Elevate Video Playback Embrace the Power of AV1 in YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-masterful-asmr-methods-by-leading-talents-for-2024/"><u>[New] Masterful ASMR Methods by Leading Talents for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp43gpmovavi/"><u>立即在线无偿将MP4转换为3GP：Movavi格式更改器</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726227279200-avi-wma-movavi/"><u>AVI를 WMA로 자유성 대기적으로 바꾸기: 온라인 도구 - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversor-de-audio-gratuito-e-simples-metodo-rapido-para-transformar-arquivos-ogg-em-mp3-com-o-movavi/"><u>Conversor De Áudio Gratuito E Simples: Método Rápido Para Transformar Arquivos OGG Em MP3 Com O Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-avi-files-to-wmv-format-for-free-a-comprehensive-guide-using-the-online-movavi-video-converter/"><u>Convert AVI Files to WMV Format for Free: A Comprehensive Guide Using the Online Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-raw-to-jpeg-image-converter-simple-and-fast/"><u>Efficient RAW to JPEG Image Converter - Simple and Fast</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-disparity-between-nvidia-and-windows-11/"><u>Fixed Disparity Between NVIDIA & Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-mov-to-wav-converter-moveavee/"><u>Free Online MOV to WAV Converter - Moveavee</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hdr-revolutionizes-gaming-with-new-update-on-dolphin-emulator-for-wiigamecube-classics/"><u>HDR Revolutionizes Gaming with New Update on Dolphin Emulator for Wii/GameCube Classics</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-note-50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Note 50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-para-mp3-em-segundo-plano-facil-livre-e-direto-com-o-movavi-perfeito-para-todos/"><u>Mp4 Para Mp3 Em Segundo Plano: Fácil, Livre E Direto Com O Movavi - Perfeito Para Todos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-driver-upgrade-for-the-microsoft-sculpt-ergonomic-keyboard/"><u>Quick and Easy Driver Upgrade for the Microsoft Sculpt Ergonomic Keyboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformar-video-3gpp-a-mov-directamente-desde-la-web-por-nada-tecnica-facil-con-movavi/"><u>Transformar Video 3GPP a MOV Directamente Desde La Web Por Nada, Técnica Fácil Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-libre-de-raw-a-ligne-claire-avec-movavi/"><u>Transformation Libre De RAW À Ligne Claire Avec Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-exact-specifications-of-your-macbook-through-its-model-number/"><u>Unveiling the Exact Specifications of Your MacBook Through Its Model Number</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726218550581-movavi/"><u>탁이기 쉬운 영상 조인트 프로세스 | Movavi 대화형 가이드</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +142,19 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ensuring-total-sound-from-partially-muted-fb-media/"><u>[Updated] In 2024, Ensuring Total Sound From Partially Muted FB Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-easy-tips-for-memo-making-in-windows/"><u>7 Easy Tips for Memo-Making in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-windows-11-and-parallels-confluence-in-macos/"><u>Achieving Windows 11 and Parallels Confluence in MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-winrars-summation-anomalies-with-six-fixes/"><u>Addressing WinRAR's Summation Anomalies with Six Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719278811623-bypassing-chrome-block-strategies-for-w11-users/"><u>Bypassing Chrome Block: Strategies for W11 Users.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/gaming-frontier-exploration-premium-oculus-players-guide/"><u>Gaming Frontier Exploration Premium Oculus Players Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-broadcast-podcast-episode-via-insta-story/"><u>In 2024, Broadcast Podcast Episode via Insta Story</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-s18-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo S18 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-web-of-connections-understanding-facebook-twitter-instagram-and-youtube/"><u>Mastering the Web of Connections: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gaming-experience-free-nvidia-gtx-980-ti-graphics-drivers-for-enhanced-performance/"><u>Ultimate Gaming Experience: Free Nvidia GTX 980 Ti Graphics Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/what-are-the-best-websites-to-download-amusing-and-funny-ringtones-for-2024/"><u>What Are the Best Websites to Download Amusing and Funny Ringtones for 2024</u></a></li>
+</ul></div>
+

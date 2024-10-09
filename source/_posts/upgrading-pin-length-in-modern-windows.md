@@ -1,7 +1,7 @@
 ---
 title: Upgrading PIN Length in Modern Windows
-date: 2024-09-28T17:23:49.160Z
-updated: 2024-10-03T20:04:16.569Z
+date: 2024-10-07T05:49:19.737Z
+updated: 2024-10-09T00:00:33.830Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -80,35 +80,42 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -119,25 +126,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-camstudios-enhanced-screen-capturing-for-a-seamless-2023-experience/"><u>[New] CamStudio's Enhanced Screen Capturing for a Seamless 2023 Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-choreographing-ideal-canon-time-lapse-shots/"><u>[Updated] Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-read-only-mode-for-windows-folders/"><u>Deactivating Read-Only Mode for Windows Folders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vering-and-perfecting-your-individual-style-for-2024/"><u>Discovering & Perfecting Your Individual Style for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-7-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 7 Plus on MetroPCS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>In 2024, Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/most-durable-and-stylish-raspberry-pi-housing-options/"><u>Most Durable & Stylish Raspberry Pi Housing Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-google-home-app-for-pc-users-tips-and-tricks/"><u>Navigating the Google Home App for PC Users: Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-problem-of-unresponsive-onlinevideoconvertercom-a-comprehensive-guide/"><u>Solving the Problem of Unresponsive OnlineVideoConverter.com: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-chrome-files-not-saving-on-windows/"><u>Strategies to Rectify Chrome Files Not Saving on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-messaging-with-emoji-15-on-windows-11/"><u>Streamline Messaging with Emoji 15 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-word-docs-converting-to-pdfs-with-windows-11/"><u>Streamline Your Word Docs: Converting to PDFs with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-tech-troubles-stopping-abrupt-program-quits-in-windows/"><u>Tackling Tech Troubles: Stopping Abrupt Program Quits in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visionaries-window-transforming-windows-next-era/"><u>Visionaries' Window: Transforming Windows Next Era</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +133,20 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram-for-2024/"><u>[New] Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-computer-management-not-opening-on-windows-11/"><u>5 Ways to Fix Computer Management Not Opening on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-online-engagements-the-ultimate-guide-to-slack-and-filmora-for-2024/"><u>Elevate Your Online Engagements The Ultimate Guide to Slack & Filmora for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-netwtw04sys-blue-screen-windows-10/"><u>Fix Netwtw04.sys Blue Screen Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-ace-3-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Ace 3? Try These Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-10-pricing-with-smart-key-acquisition/"><u>Mastering Windows 10 Pricing with Smart Key Acquisition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/minify-window-dimensions-in-win-10/"><u>Minify Window Dimensions in WIN 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnections-windows-and-printers/"><u>Overcoming Disconnections: Windows & Printers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-building-a-universal-linux-usb-installer-using-balenas-etcher-tool/"><u>Step-by-Step Guide to Building a Universal Linux USB Installer Using Balena's Etcher Tool</u></a></li>
+<li><a href="https://driver-error.techidaily.com/strategies-to-tackle-intel-mmc-errors/"><u>Strategies to Tackle Intel MMC Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-store-clearing-error-code-x80072f30/"><u>Troubleshoot Windows Store: Clearing Error Code X80072F30</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mending Audacity's Audio Failure on Windows 11 Devices
-date: 2024-09-29T00:27:44.398Z
-updated: 2024-10-03T20:25:38.235Z
+date: 2024-10-04T02:45:33.327Z
+updated: 2024-10-09T02:07:23.945Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable the Windows Audio and Endpoint Builder Services
 
  Many Audacity users have confirmed enabling and running disabled Windows Audio and Endpoint Builder services can fix the Internal PortAudio error. So, this troubleshooting method will likely work if one of those services is disabled on your PC. This is how you can check and enable those services in Windows 11/10:
@@ -60,27 +53,27 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
 
  If you find the above services to be enabled and running, restarting them could also feasibly fix the issue. To do that, click Stop in their properties windows and select**Yes** to confirm. Then click their**Start** options to restart them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Manually Enable all Playback and Recording Devices
 
@@ -93,18 +86,33 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 5. Right-click any disabled playback device and select**Enable** . Repeat this step for all disabled devices listed.  
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Select the Rescan Audio Devices
 
@@ -130,19 +138,6 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
@@ -156,16 +151,16 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Audacity
 
@@ -196,14 +191,16 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-full-gaming-potential-with-fbx-capturing/"><u>[Updated] 2024 Approved Unlocking Full Gaming Potential with FBX Capturing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-the-science-of-verbal-recording/"><u>[Updated] In 2024, Mastering the Science of Verbal Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-new-cycle-begins-without-maintenance-updates-to-windows-xp781/"><u>A New Cycle Begins Without Maintenance Updates to Windows XP/7/8.1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-the-uninitialized-drive-message-on-pc/"><u>Dealing with the 'Uninitialized Drive' Message on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-windows-11-the-exciting-features-in-feb-2023-patch/"><u>Inside Windows 11 - The Exciting Features in FEB 2023 Patch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-your-w11-browser-by-altering-startup/"><u>Personalize Your W11 Browser by Altering Startup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-crashed-game-windowsminecraft-fix/"><u>Revive Crashed Game: Windows/Minecraft Fix</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1726222186389-aiffaac-movavi/"><u>オンラインで無料: AIFF形式からAACへの簡単変換 - Movavi音楽ソフト</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-preserve-the-blue-band-promise-with-these-ideas/"><u>[New] In 2024, Preserve the Blue Band Promise with These Ideas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obs-high-encoding-how-to-fix-for-2024/"><u>[New] OBS High Encoding - How to Fix for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-joy-with-9-complete-uncut-films-celebrating-christmas-day-online/"><u>[New] Unleash Joy with 9 Complete, Uncut Films Celebrating Christmas Day Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-brightening-up-your-youtube-pixels/"><u>[Updated] In 2024, Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-instantly-engage-in-video-talks-using-whatsapp-web-from-your-laptop/"><u>2024 Approved Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-budget-friendly-android-chat-services/"><u>Best Budget-Friendly Android Chat Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-adding-portable-apps-menus/"><u>Enhancing Windows Interface: Adding Portable Apps Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-system-stability-automatic-updates-plus-amd-video-replacement/"><u>Improve System Stability: Automatic Updates + AMD Video Replacement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-evolves-spotlight-on-new-updates-capabilities/"><u>Windows 11 Evolves: Spotlight on New Updates' Capabilities</u></a></li>
 </ul></div>
 

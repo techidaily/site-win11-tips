@@ -1,7 +1,7 @@
 ---
 title: Efficiently Manage Multilingual Keystrokes in Windows 11
-date: 2024-10-02T18:41:26.610Z
-updated: 2024-10-03T22:28:08.231Z
+date: 2024-10-04T06:30:55.244Z
+updated: 2024-10-09T02:56:22.982Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Keyboard Layout in Windows 11
 
  Multiple keyboard layouts are already installed for your preferred language. To add them to it, follow the steps below:
@@ -37,20 +44,21 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 2. Click the three-dot icon next to your preferred language (the one on top) and select **Language Options**.  
 ![The Language Options on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/language-region-keyboard-options-windows.jpg)
 3. In the **Keyboards** section, click **Add a Keyboard**, and select a different keyboard key layout from the available options.  
-![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
 
  You can get more keyboard layouts by adding a new language. However, this requires the internet to download the new language. So, [make sure you're connected to the internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/), and follow the steps below:
 
@@ -60,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 3. Click **Install** for Windows 11 to download and install the new language.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Follow steps #2 and #3 above to add a new keyboard layout to the language you just installed.
@@ -76,21 +84,7 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 ![the language switcher in windows 11 with canadian english selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/english-canada-keyboard-layout-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Remove a Keyboard Layout in Windows 11
 
@@ -107,28 +101,18 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 2. Click the three-dot icon next to the language you want to remove and click **Remove**.  
 ![Removing a language on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-language-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The language and its associated keyboard layout will now be removed from your computer.
 
  If you want a quick way to [remap the Windows keyboard](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/), just change its layout. You don't have to be stuck with the default layout if it doesn't serve your needs. Furthermore, the layouts are flexible, and can be used on a physical keyboard or the [on-screen touch keyboard](https://www.makeuseof.com/windows-11-enable-customize-touch-keyboard/).
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-effortless-and-secure-transferring-of-huge-files-iphone-to-macos/"><u>[New] Effortless & Secure Transferring of Huge Files IPhone to macOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>2024 Approved Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
-<li><a href="https://driver-install.techidaily.com/beat-the-competition-revamp-with-updated-focusrite-driver/"><u>Beat the Competition: Revamp with Updated Focusrite Driver</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-art-of-effective-web-browsing-navigating-search-pages-with-ease/"><u>Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-calendar-look-with-outlook-customization-tricks/"><u>Elevate Your Calendar Look with Outlook Customization Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11-task-manager-with-a-search-tool/"><u>How to Enhance Windows 11 Task Manager with a Search Tool</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-7-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 7 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 14</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-thumb-button-clicks-in-windows-11/"><u>Mastering Mouse Thumb Button Clicks in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-non-operational-printer-feature-via-wwinplusp-in-windows/"><u>Navigating and Fixing Non-Operational Printer Feature via WWin+P in Windows.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unknown-disk-error-in-windows/"><u>Overcoming Unknown Disk Error in Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pro-color-grading-simplify-your-workflow-for-2024/"><u>Updated Final Cut Pro Color Grading Simplify Your Workflow for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +121,27 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevating-the-impact-of-your-instagram-videos/"><u>[New] In 2024, Elevating the Impact of Your Instagram Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-the-essence-of-kinemaster-and-evaluate-10-leading-online-game-alternatives-for-2024/"><u>[Updated] Discover the Essence of KineMaster and Evaluate 10 Leading Online Game Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-a-comprehensive-approach-to-live-video-on-websites/"><u>[Updated] In 2024, A Comprehensive Approach to Live Video on Websites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-shorts-issue-fixed-now-visible-on-youtube/"><u>[Updated] Shorts Issue Fixed – Now Visible on YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-for-selecting-the-perfect-fitness-tracker/"><u>Crucial Considerations for Selecting the Perfect Fitness Tracker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-ai-powered-scribes-sparking-imagination-in-5-unique-ways/"><u>Discover the Best AI-Powered Scribes Sparking Imagination in 5 Unique Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-defective-gestures-in-microsofts-os/"><u>Fixing Defective Gestures in Microsoft's OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-and-resolving-windows-11-thumbnail-missing-issue/"><u>Identifying & Resolving Windows 11 Thumbnail Missing Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-14-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 14 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-perfect-pairing-sound-and-imagery-in-media-production/"><u>In 2024, Perfect Pairing Sound & Imagery in Media Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-power-to-edit-and-markup-in-windows-based-pdfs/"><u>Regain Power to Edit and Markup in Windows-Based PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-system-freeze-operation-failed-code-0x0000011b/"><u>Resolving System Freeze: Operation Failed Code 0X0000011B</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-silent-audio-devices-pc-edition/"><u>Revive Silent Audio Devices – PC Edition</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/staphylococcus-aureus/"><u>Staphylococcus Aureus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-keep-windows-sound-preferences-intact/"><u>Strategies to Keep Windows Sound Preferences Intact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-explore-conceal-and-reveal-folders/"><u>Streamlining Windows Explore: Conceal and Reveal Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-window-11-interface-for-maximum-efficiency-and-satisfaction/"><u>Tailor Your Window 11 Interface for Maximum Efficiency and Satisfaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ten-clear-indicators-of-pc-needs-a-factory-start/"><u>Ten Clear Indicators of PC Needs a Factory Start</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-excellence-started-with-quality-cameras-and-lenses-for-2024/"><u>Video Excellence Started with Quality Cameras and Lenses for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Permanent Delete: Configuring Windows Trash Bin"
-date: 2024-09-26T21:00:42.787Z
-updated: 2024-10-03T16:31:38.213Z
+date: 2024-10-01T23:10:23.742Z
+updated: 2024-10-08T17:12:40.325Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -72,14 +65,14 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
- You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -96,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
@@ -113,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
@@ -130,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -152,21 +146,18 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-find-videos-on-facebook/"><u>[Updated] How to Find Videos on Facebook?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>2024 Approved Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-leading-selections-ultimate-mac-video-grabber-devices/"><u>2024 Approved Leading Selections Ultimate Mac Video Grabber Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-screenplay-editing-solutions-for-apps-for-2024/"><u>Elite Screenplay Editing Solutions for Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-control-running-task-manager-with-admin-rights-in-win11/"><u>Enhance Control: Running Task Manager with Admin Rights in Win11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/enhancing-video-presentation-utilize-bb-and-lc-techniques-on-facebook-for-2024/"><u>Enhancing Video Presentation Utilize BB and LC Techniques on Facebook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-iphone-photo-import-errors-on-computers/"><u>How to Handle iPhone Photo Import Errors on Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-dark-theme-in-windows-calculator/"><u>Implementing Dark Theme in Windows Calculator</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brief-blueprints-sending-ios-videos-and-images/"><u>In 2024, Brief Blueprints Sending iOS Videos & Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-guide-to-adding-a-link-in-your-tiktok-profile/"><u>In 2024, The Comprehensive Guide to Adding a Link in Your TikTok Profile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-automatic-lock-settings/"><u>Mastery over Windows Automatic Lock Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-3-windows-group-policy-approaches/"><u>Navigating 3 Windows Group Policy Approaches</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-tag-management-made-easy-top-editors-for-windows-and-mac/"><u>New 2024 Approved Video Tag Management Made Easy Top Editors for Windows and Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-unseen-networks-a-win11-guide/"><u>Reviving Unseen Networks: A Win11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-shopping-microsoft-store-error-0x80072f30-cure/"><u>Simplify Your Shopping: Microsoft Store Error 0X80072F30 Cure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-logitech-mouse-drivers-a-step-by-step-guide/"><u>Updating Logitech Mouse Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-swift-tactics-for-slideshow-storage/"><u>[New] In 2024, Swift Tactics for Slideshow Storage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[Updated] 2024 Approved Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peak-visionary-suite-feedback/"><u>[Updated] Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-warning-indicators-that-call-for-a-full-reboot/"><u>5 Warning Indicators That Call For a Full Reboot</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-default-settings-keep-your-usb-running-on-windows-11/"><u>Disable Default Settings - Keep Your USB Running on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-webp-visualization-with-these-excellent-tools/"><u>Enhance WebP Visualization with These Excellent Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exploring-the-new-features-and-enhancements-in-microsoft-surface-pro-7-performance-vs-innovation-balance/"><u>Exploring the New Features and Enhancements in Microsoft Surface Pro 7: Performance vs Innovation Balance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-move-and-copy-to-folder-context-menu-options-in-windows-11-and-11/"><u>How to Add a Move and Copy to Folder Context Menu Options in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-bluetooth-pin-verification-hitch-on-win11w10-pcs/"><u>How To Fix Bluetooth PIN Verification Hitch on Win11/W10 PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Phone without PIN</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>In 2024, A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-up-with-microsoft-sql-on-malwarebytes-after-disconnect/"><u>Syncing Up with Microsoft SQL on Malwarebytes After Disconnect</u></a></li>
 </ul></div>
 

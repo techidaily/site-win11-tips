@@ -1,7 +1,7 @@
 ---
 title: Windows Update Halted in 4 Easy Ways
-date: 2024-09-14T18:56:23.290Z
-updated: 2024-09-21T16:12:42.753Z
+date: 2024-10-03T18:55:31.987Z
+updated: 2024-10-08T20:05:18.937Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 3. Select**Advanced options** .
 4. Disable the toggle next to**Receive updates for other Microsoft products** .  
 ![Stop Automatic Office Updates Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Stop Automatic Office Updates Using One of Its Apps
 
@@ -79,12 +86,27 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 4. Double-click the**Enable Automatic Updates** policy on your right.  
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
 5. Select the**Disabled** option.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
 8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 9. Type**gpupdate /force** in the console and hit**Enter** to apply the Group Policy changes.
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
@@ -112,26 +134,13 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 9. Click**OK** .  
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
@@ -151,5 +160,23 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigate-the-world-of-tags-for-superior-content-performance/"><u>[Updated] 2024 Approved Navigate the World of Tags for Superior Content Performance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-fast-lanes-migrating-iphone-media-to-a-desktop/"><u>2024 Approved Fast Lanes Migrating iPhone Media to a Desktop</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-introduction-to-windows-exepe-file-formats/"><u>An Introduction to Windows EXE/PE File Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-subnet-tweak-for-experienced-users-win11/"><u>Effortless Subnet Tweak for Experienced Users, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/envisioning-the-ideal-user-experience-in-windows-11/"><u>Envisioning the Ideal User Experience in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fists-fighting-for-fame-versus-follower-frenzy-for-2024/"><u>Fists Fighting For Fame Versus Follower Frenzy for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jokesterjigsaw-toolkit/"><u>JokesterJigsaw Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-forward-in-windows-video-management-integrate-tdarrs-distributed-capabilities/"><u>Leap Forward in Windows Video Management: Integrate Tdarr's Distributed Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-files-disabling-read-only-status/"><u>Manipulating Windows Files: Disabling Read-Only Status</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-image-retrieval-on-pexels-a-step-by-step-guide-for-2024/"><u>Mastering Image Retrieval on Pexels A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-dsc-w800-explored-high-functionality-attractive-pricing-showcased/"><u>Sony DSC-W800 Explored - High Functionality, Attractive Pricing Showcased</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-error-0xa00f425d-in-windows-camera/"><u>Steps to Eliminate Error 0xA00F425D in Windows Camera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-ahead-with-verizons-cutting-edge-5g-connectivity/"><u>What's Ahead with Verizon's Cutting-Edge 5G Connectivity</u></a></li>
+</ul></div>
 

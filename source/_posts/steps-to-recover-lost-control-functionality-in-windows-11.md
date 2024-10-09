@@ -1,7 +1,7 @@
 ---
 title: Steps to Recover Lost Control Functionality in Windows 11
-date: 2024-09-21T01:34:50.887Z
-updated: 2024-09-21T23:35:16.561Z
+date: 2024-10-05T03:15:36.516Z
+updated: 2024-10-09T03:45:28.327Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
 ## 3\. Use the Windows Troubleshooter
@@ -62,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 3. Choose **Other troubleshooters.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Run** button next to Keyboard.  
@@ -88,23 +101,17 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 1. Open Settings, choose **Accessibility** from the left sidebar, and select **Keyboard** from the right pane.  
 ![Keyboard option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-option.jpg)
 2. Turn off the toggle next to the **Sticky keys** and **Filter keys**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Keyboard Driver
 
@@ -119,14 +126,14 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 5. Click **Uninstall** to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Download the Latest Windows Update
 
@@ -135,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Run SFC and DISM Scans
@@ -155,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
  If the Ctrl key functions properly in the clean boot state, it indicates that one of the services you deactivated is responsible for the problem. To pinpoint the culprit, slowly reactivate each service until the Ctrl key becomes nonfunctional again. Once the troublesome service is identified, either download its update or remove it from your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Quickly Fix the Ctrl Key on Windows
 
  Depending on your situation, rectifying the Ctrl key issue can be as simple as cleaning it or downloading an available Windows update. However, if none of the aforementioned solutions prove effective, it's likely that the Ctrl key on your keyboard is damaged and necessitates repair.
@@ -169,5 +183,24 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-messenger-video-guide-dimensions-file-type-elapsed/"><u>[New] 2024 Approved Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-guidehow-to-stream-on-discord/"><u>[New] In 2024, [Step-by-Step Guide]How to Stream on Discord</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-fullscreen-capturing-software-pcmac-edition-for-2024/"><u>[New] Top Fullscreen Capturing Software, PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-alter-twitter-video-glimpse-artwork/"><u>[Updated] In 2024, Alter Twitter Video Glimpse Artwork</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-seconds-timelapse-shooter/"><u>[Updated] In 2024, Top 5-Seconds Timelapse Shooter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-best-video-formats-for-your-youtube-channel/"><u>[Updated] Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-apps-to-increase-the-volume-beyond-100-percent-in-windows/"><u>4 Apps to Increase the Volume Beyond 100 Percent in Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/a-comprehensive-guide-installing-the-cinematech-hd-movie-player-on-pcmac-for-enhanced-viewing-experience/"><u>A Comprehensive Guide: Installing the Cinematech HD Movie Player on PC/Mac for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-win-hardware-testing-with-these-premier-graphics-tools/"><u>Ace Win Hardware Testing with These Premier Graphics Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-file-locks-turn-off-read-only-windows-mode/"><u>Altering File Locks: Turn Off Read-Only Windows Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-saved-audio-configurations-winvolume-hacks/"><u>Bring Back Saved Audio Configurations: WinVolume Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-compatibility-with-windows-11-explained/"><u>Chrome Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-code-effective-techniques-to-neutralize-wacatacbml/"><u>Deciphering the Code: Effective Techniques to Neutralize Wacatac.B!ml</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tech-a-dive-into-toms-hardware-selection/"><u>Discovering Top Tech: A Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-qualcomms-clandestine-collaboration-how-their-joint-effort-with-samsung-and-google-is-shaping-the-future-of-mixed-reality-smart-glasses-exclusive-ins15/"><u>Inside Qualcomm's Clandestine Collaboration: How Their Joint Effort with Samsung & Google Is Shaping the Future of Mixed Reality Smart Glasses – Exclusive Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepad-woes-on-pc-7-steps-to-reopen-the-favorite-text-editor/"><u>Notepad Woes on PC: 7 Steps to Reopen the Favorite Text Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-playnite-integrating-virtual-game-archives/"><u>Winning Playnite: Integrating Virtual Game Archives</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Measuring Space: Understanding App Impact on Windows"
-date: 2024-09-26T23:28:16.636Z
-updated: 2024-10-03T16:06:16.282Z
+date: 2024-10-04T21:48:24.568Z
+updated: 2024-10-08T20:36:41.055Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
  Although Microsoft is gradually transitioning from the Control Panel to the modern Settings app, the Control Panel still remains accessible in all versions of Windows, including Windows 11\. So, if you prefer using the Control Panel, use these steps to check how much storage your apps or programs are using on Windows.
@@ -47,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
@@ -58,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
@@ -76,17 +89,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -95,21 +101,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tech-revival.techidaily.com/44cm44oe44kk44oq44k544oi44cn44oh44o844k44ks5ywo6yoo57ay576f44gx44gm44cb44ol44kz44ol44kz5yuv55s744gl44kj44oq44od44ob44gn5lplusd5a2y44gz44kl44og44kv44ol44od4465/"><u>「マイリスト」データを全部網羅して、ニコニコ動画からバッチで保存するテクニック</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark Go (2023) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-xs-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone XS iCloud Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-and-enjoy-the-definitive-guide-to-coordinated-viewing-parties-on-netflix/"><u>Connect & Enjoy: The Definitive Guide to Coordinated Viewing Parties on Netflix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-bring-back-missing-windows-patch-service/"><u>Methods to Bring Back Missing Windows Patch Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-domain-services-printing-issues-in-windows-oses/"><u>Navigating Through Domain Services Printing Issues in Windows OSes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/opting-for-hdri-a-better-step-forward-in-video-production/"><u>Opting for HDRI A Better Step Forward in Video Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-sail-away-from-marooned-xbox-issue-on-windows-11/"><u>Setting Sail Away From Marooned Xbox Issue on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spiritual-command-center-unveiled-windows-11-edition/"><u>Spiritual Command Center Unveiled: Windows 11 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-motherboards-compare-by-socket-type-and-chipset/"><u>Top-Rated Gaming Motherboards : Compare by Socket Type & Chipset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-wow-fatal-crash-fix-guide/"><u>Winning the Battle Against WOW Fatal Crash: Fix Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +108,25 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] 2024 Approved Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-affordable-digital-screen-recorders-reviewed-and-rated-for-2024/"><u>[New] Affordable Digital Screen Recorders Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-auditory-artifacts-essential-ringtone-archives-online/"><u>2024 Approved Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-cmd-guru-understand-these-20-crucial-commands/"><u>Become a CMD Guru: Understand These 20 Crucial Commands</u></a></li>
+<li><a href="https://solve-help.techidaily.com/cost-free-mkv-to-wav-conversion-step-by-step-instructions-to-do-it-with-ease/"><u>Cost-Free MKV to WAV Conversion: Step-by-Step Instructions to Do It with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-insider-tips-on-wintools/"><u>Elevate PC Performance: Insider Tips on WinTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-share-cant-be-opened-issues-in-geforce/"><u>Eliminating Share Can't Be Opened Issues in GeForce</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-tp-link-av130t-wireless-repeater-does-it-live-up-to-expectations/"><u>Evaluating the TP-Link AV130t Wireless Repeater: Does It Live Up to Expectations?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-teaching-the-art-of-wholesome-cooking/"><u>How Effective Is ChatGPT in Teaching the Art of Wholesome Cooking?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-iphone-image-import-something-went-wrong-error-in-windows-10-and-11/"><u>How to Fix the iPhone Image Import “Something Went Wrong” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-stunning-bokeh-top-mobile-apps-for-ios-and-android-users/"><u>New 2024 Approved Unlock Stunning Bokeh Top Mobile Apps for iOS and Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ps4-remote-link-eliminating-random-drops-in-connection/"><u>Secure Your PS4 Remote Link: Eliminating Random Drops in Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-performance-essential-strategies-with-windows-11/"><u>Skyrocket Your Performance: Essential Strategies with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+</ul></div>
+

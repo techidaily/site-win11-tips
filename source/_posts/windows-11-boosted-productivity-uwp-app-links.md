@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Boosted Productivity: UWP App Links"
-date: 2024-09-27T16:07:37.395Z
-updated: 2024-10-03T18:33:55.095Z
+date: 2024-10-03T02:30:21.182Z
+updated: 2024-10-08T22:55:19.567Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,23 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
@@ -64,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This method will add a URL (web document) shortcut for opening the app to the desktop. These are some of the URIs with which you can create UWP desktop shortcuts:
@@ -92,33 +105,20 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
  You can select to pin UWP apps to the taskbar with their desktop shortcuts. To do so, right-click the UWP app’s desktop shortcut and select**Show more options** \>**Pin to taskbar** . Then you can open the app from the taskbar instead.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
- Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the**Pin to taskbar** option.
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
@@ -149,20 +149,18 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-deletion-methods-for-youtubes-backlogged-video-collection-for-2024/"><u>[New] Deletion Methods for YouTube's Backlogged Video Collection for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-50plus-engaging-phrases-that-will-take-your-tiktok-to-new-heights/"><u>[Updated] 2024 Approved 50+ Engaging Phrases That Will Take Your TikTok to New Heights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/discover-the-leading-edge-the-ultimate-guide-to-20-superior-metadata-editors-including-movavis-expertise/"><u>Discover the Leading Edge: The Ultimate Guide to 20 Superior Metadata Editors , Including Movavi's Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-interactive-exchanges-chatgpt-meets-mac/"><u>Elevate Interactive Exchanges: ChatGPT Meets Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-application-launch-halt-due-to-qt-deficiency/"><u>Guiding Through Resolving Application Launch Halt Due to Qt Deficiency</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixing-system-crashes-in-windows-based-offices/"><u>Quick Guide to Fixing System Crashes in Windows-Based Offices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-your-lost-ark-game-fixing-the-server-connection-error-easily/"><u>Resolve Your Lost Ark Game: Fixing the Server Connection Error Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/simplify-crafting-effective-youtube-subscription-buttons/"><u>Simplify Crafting Effective YouTube Subscription Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-repairing-error-0xc0000098-on-your-pc/"><u>Solving the Mystery: A Step-by-Step Guide to Repairing Error 0xC0000098 on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-pinnacle-of-productivity/"><u>Surface Studio 2 Review: Closer to the Pinnacle of Productivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-low-cost-windows-11-licenses/"><u>The Insider's Guide to Low-Cost Windows 11 Licenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwavering-file-elimination-in-windows-11s-trash-bin-setup/"><u>Unwavering File Elimination in Windows 11'S Trash Bin Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-solutions-for-streamlining-windows-display-issues/"><u>5 Solutions for Streamlining Windows Display Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-15-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 15 Plus Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-network-settings-a-guide-for-win11/"><u>Adjust Network Settings: A Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-win11-notepad-with-genius-mentor/"><u>Augment Win11 Notepad with Genius Mentor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-persistent-edge-shortcuts/"><u>Avoiding Persistent Edge Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-performance-with-these-12-unneeded-windows-programs/"><u>Boost Performance with These 12 Unneeded Windows Programs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/harmonious-hits-where-to-find-rare-ringtone-files-for-2024/"><u>Harmonious Hits Where to Find Rare Ringtone Files for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-cellular-connection-fast-follow-these-essential-tips-for-enhanced-performance/"><u>Improve Cellular Connection Fast - Follow These Essential Tips for Enhanced Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a34-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A34 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-7-ultimates-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 7 Ultimates Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-asus-pce-ac56-driver-setup-a-step-by-step-guide-for-windows-1087-users/"><u>Mastering ASUS PCE-AC56 Driver Setup: A Step-by-Step Guide for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974533632-transform-your-pc-visual-experience-by-updating-intels-graphics-software-in-windows-10/"><u>Transform Your PC Visual Experience by Updating Intel's Graphics Software in Windows 10.</u></a></li>
 </ul></div>
 

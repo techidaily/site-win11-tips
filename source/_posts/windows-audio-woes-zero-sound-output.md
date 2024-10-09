@@ -1,7 +1,7 @@
 ---
 title: "Windows Audio Woes: Zero Sound Output"
-date: 2024-09-15T03:19:45.777Z
-updated: 2024-09-21T16:16:53.078Z
+date: 2024-10-06T18:31:39.136Z
+updated: 2024-10-08T23:00:18.755Z
 tags:
   - windows10
   - windows11
@@ -65,12 +65,27 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 3. Check the **Show compatible hardware** option**.**  
 ![audio device driver generic device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/audio-device-driver-generic-device-manager.jpg)
 4. Next, select **Generic software device** and click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait for Windows to finish installing the drivers for the device.
 6. Close the Device Manager and check for any improvements.
 
  If updating the audio device driver didn't help, check your audio device manufacturer’s website to find updated drivers. If you are using a laptop, visit your computer manufacturer’s website to find the latest drivers for your computer.
 
 ![Hp support assistant diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/hp-support-assistan-diagnostic-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Additionally, if you are using a laptop, try to use the troubleshooting option available in your system management utility. For example, the **HP Support Assistant** app can check HP laptops for various issues, including audio problems.
 
@@ -93,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ![device manager select the driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-select-the-driver-you-want-to-install-for-this-hardware.jpg)
 8. Once installed, close **Device Manager**. This should fix the error and restore audio on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Install the Generic Audio Device Driver Using Device Manager
 
  You can also install the generic USB audio device driver using the "Add legacy hardware" option in Device Manager. Here’s how to do it.
@@ -108,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
 2. Click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under **Common hardware types**, scroll down and select **Sound, video and game controllers.**  
 ![device manager add legacy hardware common hardware types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-add-legacy-hardware-common-hardware-types.jpg)
 4. Click **Next**.
@@ -123,8 +138,22 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ![device manager generic usb device audio legacy hardware add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-generic-usb-device-audioi-legacy-hardware-add.jpg)
 6. Click **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Next** once again to confirm the action.
 8. Wait for the installation to complete and click **Finish**. Restart your PC and check if your audio device is detected and working again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check if Your Audio Device Is Disabled
 
@@ -142,10 +171,10 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 6. Restart your PC and check if the no audio output device is installed error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check if the Audio Services are Running
@@ -160,10 +189,10 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 3. Next, locate and right-click on **Windows Audio Endpoint Service Builder.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Properties** from the context menu.  
@@ -181,16 +210,16 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
  To fix the problem, disable or remove any driver update utility such as Avast Driver Updater installed on your PC. Then run the audio troubleshooter again to see if that helps resolve the issue. Sometimes, you may need to remove the updater app to disable it completely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Repair the Windows Image With DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/dism-scan-health-restore-health-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Deployment Image Service Management (DISM) is a built-in Windows image repair command-line utility. If the audio problem is triggered by an issue with your system image, this tool can repair the image to restore the audio functionality on your PC.
 
@@ -206,13 +235,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 6. This process may take some time, so wait for it to complete.
 7. Once the restore operation is complete, close the Command Prompt and restart your PC.
 8. After the restart, check if your audio device is working.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix the "No Audio Output Device Is Installed" Error
 
@@ -232,5 +254,20 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/fixed-8-fixes-for-marvels-guardians-of-the-galaxy-crashing-on-pc/"><u>[Fixed] 8 Fixes for Marvel’s Guardians of the Galaxy Crashing on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-50plus-overlays-for-engaging-media-content/"><u>[New] 2024 Approved Top 50+ Overlays for Engaging Media Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bridging-devices-move-images-and-videos-from-pc/"><u>[New] Bridging Devices Move Images & Videos From PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-8-image-collections-for-macbook-screens/"><u>[Updated] Innovative 8 Image Collections for MacBook Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-tips-for-the-best-pc-snipping-software-of-today/"><u>2024 Approved Pro Tips for the Best PC Snipping Software of Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-the-live-view-of-task-manager-in-win-11/"><u>Enhance the Live View of Task Manager in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-a-user-friendly-update-alert-feature-in-windows-11plus11/"><u>Implementing a User-Friendly Update Alert Feature in Windows 11+11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-video-coders-on-a-microsoft-os/"><u>Mastering Video Coders on a Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/open-the-door-to-win11s-password-protection-with-these-11-pro-tips/"><u>Open the Door to Win11's Password Protection with These 11 Pro Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-code-xc0000142-in-windows-oses/"><u>Overcoming Code XC0000142 in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-updating-windows-group-policies/"><u>The Ultimate Guide for Updating Windows Group Policies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-gaming-experience-samsung-ue590-freesync-screen-for-2024/"><u>Ultimate Gaming Experience Samsung UE590 FreeSync Screen for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-evolution-a-comprehensive-guide-to-google-hangouts/"><u>Understanding the Evolution: A Comprehensive Guide to Google Hangouts</u></a></li>
+</ul></div>
 

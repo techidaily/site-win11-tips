@@ -1,7 +1,7 @@
 ---
 title: Unlocking Solutions to Fix Any Installer Fiasco in Win11
-date: 2024-09-20T01:37:03.847Z
-updated: 2024-09-21T17:04:23.909Z
+date: 2024-10-05T01:10:39.376Z
+updated: 2024-10-09T06:01:14.576Z
 tags:
   - windows10
   - windows11
@@ -29,11 +29,25 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  The setup file you’ve downloaded could be damaged in some way. So, try downloading a fresh setup file for the software you can’t install. Select to download the installer file to a different folder on your hard drive and then have another go at installing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Admin Rights on Your User Account
 
  Make sure you’re using an administrative user account. You can set admin rights for a user account with one of the methods in this guide to [changing your user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/). Then sign out of your account and log back in.
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/administrator-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, select to run the setup file with admin rights. To do that, right-click the installer file for the software you can’t install and select **Run as administrator**.
 
@@ -48,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 3. Go to the folder in which your browser usually downloads and double-click **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab**.  
 ![The Program Install and Uninstall troubleshooter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-program-install-and-uninstall-option.jpg)
 4. Then select the troubleshooter’s **Next** button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Installing** to view a list of programs.  
 ![The Installing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-option.jpg)
 6. Select either the software you cannot install or **Not listed** and click **Next**.
@@ -67,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 5. Select **runas** and double-click on its **(Default)** string.  
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Input **Install as &administrator** inside the **Value data** box and select **OK**.  
 ![The Edit String window for the runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/an-edit-string-window.jpg)
@@ -104,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
 5. Select **Apply** to set new permission settings then OK out of all windows.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Repair the Apple Software Update App
 
  This potential resolution is only related if the error occurs when installing iTunes. Users of iTunes confirm they were able to fix that error by repairing the Apple Software Update program. This is how you can repair Apple Software Update:
@@ -113,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 3. Then click the **Repair** option for Apple Software Update.  
 ![The Repair option for Apple Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-apple-software-update-window.jpg)
 4. Try installing iTunes after repairing Apple Software Update.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restart the Windows Installer Service
 
@@ -132,10 +153,17 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![The Start option for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-service-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Re-Register the Windows Installer Service
@@ -151,15 +179,22 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![The unregister service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-unregister-command.jpg)
 4. Execute this command for re-registering Windows Installer:  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `msiexec.exe /regserver`  
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
 5. Check the Windows Installer service is running and start it again if necessary, as covered in the earlier resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Perform a Windows Clean Boot
@@ -169,19 +204,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  You can disable startup services and apps via MSConfig and Task Manager, as instructed in our article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC after setting up the clean boot. Then have another go at installing the affected software packages.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
 
@@ -199,5 +221,24 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-android-photography-excellence-tips-and-tools/"><u>[New] 2024 Approved Android Photography Excellence Tips and Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-picks-6-superior-background-cleaners-for-your-photos/"><u>[Updated] Pro's Picks – 6 Superior Background Cleaners for Your Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[Updated] Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-sightgraph-assessment-center/"><u>2024 Approved SightGraph Assessment Center</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beginners-handbook-to-pokemon-go-step-by-step-tips-and-tricks-for-mastering-the-augmented-reality-adventure/"><u>Beginner's Handbook to Pokémon GO: Step-by-Step Tips & Tricks for Mastering the Augmented Reality Adventure</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-full-system-access-through-cmd-elevation/"><u>Gain Full System Access Through CMD Elevation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-flush-the-steam-dns-cache-on-windows/"><u>How to Flush the Steam DNS Cache on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-way-a-guide-to-mapping-drives-on-windows-11/"><u>Navigate Your Way: A Guide to Mapping Drives on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-absence-of-tab-functionality-in-os-x/"><u>Navigating the Absence of Tab Functionality in OS X</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-a-comprehensive-walkthrough-on-how-to-reset-it/"><u>Reviving Your iPhone 15: A Comprehensive Walkthrough on How to Reset It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-unrecoverable-windows-errors/"><u>Solutions to Unrecoverable Windows Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-in-outriders-a-comprehensive-guide/"><u>Solving Audio Problems in Outriders: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-multitasking-with-windows-11-in-mac-os-using-parallels/"><u>Unlock Full Potential: Multitasking with Windows 11 in Mac OS Using Parallels</u></a></li>
+</ul></div>
 

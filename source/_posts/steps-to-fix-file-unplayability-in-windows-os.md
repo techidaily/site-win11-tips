@@ -1,7 +1,7 @@
 ---
 title: Steps to Fix File Unplayability in Windows OS
-date: 2024-09-15T18:31:30.455Z
-updated: 2024-09-22T03:37:51.970Z
+date: 2024-10-05T22:27:05.519Z
+updated: 2024-10-08T23:29:07.742Z
 tags:
   - windows10
   - windows11
@@ -68,9 +68,24 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the Media Player troubleshooter does not help, we suggest running the Video Playback troubleshooter and see if that makes any difference.
 
@@ -84,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check for File Corruption
 
  There is also a chance that the file you are trying to play is dealing with a corruption error, which has made it unreadable and unusable. Typically, in cases such as this one, the users are able to play other similar files without any problems.
@@ -91,19 +113,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
  File corruption can easily be fixed by scanning for viruses using an up-to-date antivirus program. If your security program identifies the file as corrupt and cannot fix it, you can consider checking for a backup or alternative version of the file from another source. Alternatively, you can look for an online media repair tool to fix it.
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use a Different Media Player
 
@@ -134,5 +143,26 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] 2024 Approved The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-language-learning-with-chatgpt-plus-unveiling-its-benefits/"><u>Accelerate Your Language Learning with ChatGPT Plus: Unveiling Its Benefits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissolving-onedrive-and-microsoft-id-integration-on-pcs/"><u>Dissolving OneDrive and Microsoft ID Integration on PCs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-edits-the-beginners-insider-look-at-editing-techniques-for-2024/"><u>Elevate Your Edits The Beginner's Insider Look at Editing Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-unknown-hardware-in-windows-1011-os/"><u>How to Tackle Unknown Hardware in Windows 10/11 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-11x-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme 11X 5G FRP Bypass</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-features-and-performance-of-the-samsung-qn55q6f-smart-tv-in-4k-hdr-clarity/"><u>In-Depth Look at the Features and Performance of the Samsung QN55Q6F Smart TV in 4K HDR Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-effortlessly-bypass-pin-in-windows-11-projections/"><u>Navigate Effortlessly: Bypass PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-offline-windows-enhancements/"><u>Navigating Offline Windows Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-experience-settings-retrieval-issues/"><u>Overcoming GeForce Experience Settings Retrieval Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-pilgrimages-a-top-9-travelers-guide-to-games/"><u>Pixel Pilgrimages: A Top 9 Traveler's Guide to Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vpn-connections-failed-on-windows/"><u>Troubleshooting VPN Connections Failed on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/venturing-into-the-visual-void-ms-paints-dark-mode-guide/"><u>Venturing Into the Visual Void: MS Paint's Dark Mode Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-14-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-next-chapter-begins-with-moment-22h2s-features/"><u>Windows 11'S Next Chapter Begins With Moment #22H2's Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Open the Window Explorer of Characters
-date: 2024-09-27T18:47:25.651Z
-updated: 2024-10-03T20:42:06.344Z
+date: 2024-10-04T18:09:10.784Z
+updated: 2024-10-08T16:58:45.803Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Character Map Using the Run Dialog
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Character Map From the Start Menu
 
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 5. Click twice on the**Character Map** . It will take you to the Character Map utility page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Character Map Using the Control Panel
@@ -78,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 ![Open Character Map Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Start-Menu.jpg)
 5. Double-click on the**Character Map** to open the utility.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. How to Open Character Map Through Task Manager
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
@@ -104,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Character Map Via File Explorer
@@ -126,6 +112,14 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 2. In the "Create Shortcut" window, type "charmap.exe."  
 ![Create Desktop Shortcut of Character Map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-Character-Map.jpg)
 3. Click**Next** and then give your shortcut a name.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
 
@@ -148,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
 
  Furthermore, you can also pin the Character Map application to the taskbar for easy access. Follow these steps to take so:
@@ -156,14 +157,14 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 2. Under Character Map, select**Pin to taskbar** on the right side.  
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This way you can now easily access the tool from the taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open a Character Map in a Snap
 
@@ -184,22 +185,21 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-videography-space-capacities-and-limits-of-64128gb-units-for-2024/"><u>[New] Videography Space Capacities and Limits of 64/128GB Units for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-archive-powerpoint-into-video-repository/"><u>[Updated] 2024 Approved Archive PowerPoint Into Video Repository</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-peeking-into-instagram-stories-what-viewers-dont-know/"><u>[Updated] In 2024, Peeking Into Instagram Stories What Viewers Don’t Know</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ios-focused-techniques-downloading-and-saving-youtube-video-for-2024/"><u>[Updated] IOS-Focused Techniques Downloading and Saving YouTube Video for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-para-cambiar-tu-fotografia-de-alta-calidad-dng-a-jpg-gratuito-usando-la-herramienta-en-linea-de-movavi/"><u>Guía Para Cambiar Tu Fotografía De Alta Calidad: DNG a JPG Gratuito Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4r-a-wav-sin-costo-el-poder-de-la-conversion-online-por-movavi/"><u>M4R a WAV Sin Costo: El Poder De La Conversión Online Por Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-flac-mp3/"><u>Movavi의 웹사이트에서 FLAC 파일을 MP3로 가용성 향상: 원격 무료 바이트 정렬과 전환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-and-gratis-omzetten-van-ogg-naar-webm-mit-movavi-efficient-professioneel/"><u>Online & Gratis Omzetten Van OGG Naar WEBM Mit Movavi - Efficiënt Professioneel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risk-of-leveraging-ai-language-models-like-chatgpt-for-malware-generation/"><u>The Risk of Leveraging AI Language Models Like ChatGPT for Malware Generation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/universal-video-format-compatibility-in-windows-media-player-for-win10-win8-and-win7/"><u>Universal Video Format Compatibility in Windows Media Player for Win10, Win8 & Win7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmv-online-mjpeg-converter/"><u>WMV 이미지/비디오를 자동화된 바이트 스트림으로 무료로 변환: Online MJPEG Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ogg-aiff-movavi/"><u>제인드콤프리즈에서 비용 없이 OGG, AIFF 역학을 연결하기 위한 Movavi의 유일한 해결책</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp4-wmv/"><u>최선의 MP4, WMV 바인딩: 영상 변환에 대한 전문가 권장</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-basic-routes-to-sync-obs-with-zoom-for-2024/"><u>[New] The Basic Routes to Sync OBS with Zoom for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transitioning-from-rgb-to-srgb/"><u>[New] Transitioning From Rgb to Srgb</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>[Updated] 2024 Approved Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-fbx-gametime-tracking-solutions/"><u>[Updated] Innovative FBX Gametime Tracking Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-creative-potential-in-asmr-content-advanced-techniques-for-2024/"><u>[Updated] Unlocking Creative Potential in ASMR Content – Advanced Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-pixelplay-logger-analysis/"><u>2024 Approved PixelPlay Logger Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tical-equipment-items-to-start-your-channel-right-for-2024/"><u>5 Critical Equipment Items to Start Your Channel Right for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-lightweight-windows-browsers-tested-for-ram-usage-which-is-the-best/"><u>7 Lightweight Windows Browsers Tested for RAM Usage: Which Is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-workflow-efficient-redo-keys-on-windows/"><u>Ace Your Workflow: Efficient Redo Keys on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-administrative-control-settings-in-windows-11-devices/"><u>Addressing Administrative Control Settings in Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-install-net-now-demands-from-apps/"><u>Addressing Install .NET Now Demands From Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-the-role-and-safety-profile-of-aggregatorhostexe-in-windows/"><u>Assessing the Role and Safety Profile of AggregatorHost.exe in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-productivity-with-wordpad-embedding-commands-into-context-menus/"><u>Boosting Productivity with WordPad: Embedding Commands Into Context Menus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-world-of-hardware-with-toms-tech-advice-and-reviews/"><u>Master the World of Hardware with Tom's Tech Advice & Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381461685-unlock-hidden-features-in-windows-snipping-tool-for-flawless-screen-shots/"><u>Unlock Hidden Features in Windows Snipping Tool for Flawless Screen Shots</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme/"><u>Updated Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme ?</u></a></li>
 </ul></div>
 

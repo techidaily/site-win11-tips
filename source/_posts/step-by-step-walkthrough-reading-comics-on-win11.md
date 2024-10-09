@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Walkthrough: Reading Comics on Win11"
-date: 2024-09-16T21:37:03.143Z
-updated: 2024-09-22T07:22:15.973Z
+date: 2024-10-08T01:01:57.045Z
+updated: 2024-10-09T07:39:34.471Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Read Comic Books With Cover
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
@@ -89,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
@@ -102,10 +123,17 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
@@ -122,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -145,5 +173,22 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>[New] In 2024, The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-filmmakers-guide-to-visual-impact-mastering-these-essential-grading-styles/"><u>[Updated] A Filmmaker’s Guide to Visual Impact Mastering These Essential Grading Styles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-how-to-use-luts-in-after-effect/"><u>[Updated] How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-reset-failure-count-for-incorrect-login-attempts-on-windows-11/"><u>Configuring the Reset Failure Count for Incorrect Login Attempts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-win-pcs-voice-input-problems/"><u>Diagnosing Win PCs' Voice Input Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>In 2024, A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-s17-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo S17 Pro?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-windows-free-software-your-safety-priority-list/"><u>Secure Windows Free Software: Your Safety Priority List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-music-librarys-mp3-files-to-windows-audible-cds-with-imgburn/"><u>Streamlining Your Music Library's MP3 Files to Windows' Audible CDs with ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-wsl-factor-in-the-linux-desktop-landscape/"><u>The WSL Factor in the Linux Desktop Landscape</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-what-to-anticipate-with-the-discontinuation-of-its-taskbar-chatting-feature/"><u>Windows 11: What to Anticipate With the Discontinuation of Its Taskbar Chatting Feature</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-anomaly-handling-guide-fix-519/"><u>WoW Anomaly Handling Guide: Fix #519</u></a></li>
+</ul></div>
 

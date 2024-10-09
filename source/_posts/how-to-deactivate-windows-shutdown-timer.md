@@ -1,7 +1,7 @@
 ---
 title: How to Deactivate Window's Shutdown Timer
-date: 2024-09-27T19:02:37.339Z
-updated: 2024-10-03T23:09:13.522Z
+date: 2024-10-03T17:48:22.813Z
+updated: 2024-10-08T20:29:23.843Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Windows From Automatically Locking Itself
@@ -49,13 +49,6 @@ You can stop Windows from automatically locking itself by:
 * Editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) to disable auto-locking.
 
 Now that we know how to do it, let's dive into the steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disabling Windows Sign-In
 
@@ -78,10 +71,10 @@ Now that we know how to do it, let's dive into the steps.
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
@@ -90,6 +83,13 @@ Now that we know how to do it, let's dive into the steps.
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
 
@@ -105,14 +105,14 @@ So, edit Windows Registry only when nothing else works.
 
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
 
-Finally, restart your computer to see if a lock screen appears.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Finally, restart your computer to see if a lock screen appears.
 
 ## Use Windows Hello to Make Windows’ Auto-Locking Bearable
 
@@ -135,24 +135,20 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-initiating-conversations-with-google-meet/"><u>[New] 2024 Approved Initiating Conversations with Google Meet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-asus-proart-review-a-visual-spectacle-unveiled-for-2024/"><u>[New] ASUS ProArt Review A Visual Spectacle Unveiled for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-windows-audio-suite/"><u>[Updated] Ultimate Windows Audio Suite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-keeping-your-samsung-smart-tvs-system-current-and-secure/"><u>Easy Steps for Keeping Your Samsung Smart TV's System Current and Secure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-back-to-normal-overcoming-safe-mode-outlook/"><u>Getting Back to Normal: Overcoming Safe Mode Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/grasping-how-windows-handles-preemptive-memory/"><u>Grasping How Windows Handles Preemptive Memory</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/notepaddarkmodesettingguidewin/"><u>NotepadDarkModeSettingGuideWin</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidias-latest-geforce-driver-release-fast-and-smooth-gaming-on-your-windows-computer/"><u>NVIDIA's Latest GeForce Driver Release: Fast and Smooth Gaming on Your Windows Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-retro-elements-reviving-classic-vhs-tricks-for-2024/"><u>Prime Retro Elements Reviving Classic VHS Tricks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pursuing-mac-os-aesthetics-for-windows-5-must-try-methods/"><u>Pursuing Mac OS Aesthetics for Windows: 5 Must-Try Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-intermittent-wireless-mouse-issues-in-windows-10-and-11-expert-solutions-unveiled/"><u>Resolving Intermittent Wireless Mouse Issues in Windows 10 and 11: Expert Solutions Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-no-hypervisor-issue-on-windows-sandbox/"><u>Resolving No Hypervisor Issue on Windows Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sifting-through-nvidia-drivers-to-find-best-suit-for-you/"><u>Sifting Through Nvidia Drivers to Find Best Suit For You</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-to-acquiring-free-recovery-media-for-your-pc-dell-hp-lenovo-or-surface-using-windowslinux-insights-by-zdnet/"><u>Step-by-Step Guide to Acquiring Free Recovery Media for Your PC (Dell, HP, Lenovo or Surface) Using Windows/Linux | Insights by ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-0x80860010-error-streamlining-windows-app-functionality/"><u>Taming the 0X80860010 Error: Streamlining Windows App Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-context-menu-customization-in-windows-11/"><u>The Art of Context Menu Customization in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricking-tpm-and-secure-boot-a-guide-to-rufus-usage/"><u>Tricking TPM and Secure Boot: A Guide to Rufus Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-cheap-windows-key-savings-may-not-pay-off/"><u>Why Cheap Windows Key Savings May Not Pay Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-audiophiles-guide-download-and-review-sound-files/"><u>[New] Audiophile's Guide Download & Review Sound Files</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-stardom-in-snapshot-vimeo-insight/"><u>[Updated] In 2024, Stardom in Snapshot - Vimeo Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfect-habits-to-embrace-with-podcasts-playing/"><u>[Updated] Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-index-performance-on-your-pc/"><u>Enhancing Index Performance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-utilizing-dism-for-win11-fixes/"><u>Expert Insights Into Utilizing Dism for Win11 Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>In 2024, Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-master-plugins-for-final-cut-pro/"><u>In 2024, Top 10 Master Plugins for Final Cut Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovations-in-podcasting-generating-custom-rss-files/"><u>Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11-search-quick-fixes-to-follow/"><u>Mastery of Windows 11 Search: Quick Fixes to Follow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-understanding-openais-push-for-enhanced-ai-governance/"><u>Navigating the Future: Understanding OpenAI's Push for Enhanced AI Governance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-troubleshooting-windows-1011-file-issues/"><u>Strategies for Troubleshooting Windows 10/11 File Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-tools-focused-uninstall-strategies-for-windows-1011/"><u>Tailored Tools: Focused Uninstall Strategies for Windows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-narzo-n53-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme Narzo N53 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-vignette-apps-for-ios-and-android-users/"><u>Unleash Your Creativity Best Vignette Apps for iOS and Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-frozen-opera-downloads-in-windows-sphere/"><u>Unlock Frozen Opera Downloads in Windows Sphere</u></a></li>
 </ul></div>
 

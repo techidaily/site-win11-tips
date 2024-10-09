@@ -1,7 +1,7 @@
 ---
 title: "Win XP Woes: Salvaging Lost Snap-Ins in MMC"
-date: 2024-09-30T21:06:33.254Z
-updated: 2024-10-03T22:10:04.247Z
+date: 2024-10-07T17:00:15.029Z
+updated: 2024-10-08T20:23:38.293Z
 tags:
   - windows10
   - windows11
@@ -46,15 +46,22 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
  Microsoft recommends running its built-in Windows image check and repair utility, Deployment Image Servicing and Management (DISM), before running the System File Checker utility.
@@ -80,28 +94,15 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -126,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
  This error is triggered when a snap-in malfunctions, which is often a case of broken registry configuration. To fix the issue, you can delete the broken registry sub-key for the affected snap-in. Additionally, enable/re-enable the .NET Framework 3.5\. If not, scan the system for file integrity issues with the DISM and System File Checker utility.
@@ -141,27 +135,6 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-methods-for-capturing-sound-in-windows-11/"><u>[New] Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-toddler-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>[Updated] 2024 Approved Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gateways-to-googles-advertising-on-youtube-platforms/"><u>[Updated] In 2024, Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-no-cost-recording-solutions-windows-tech-hacks/"><u>[Updated] No-Cost Recording Solutions Windows Tech Hacks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-common-windows-10-photos-display-problems/"><u>2024 Approved Overcoming Common Windows 10 Photos Display Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-raspberry-pi-pico/"><u>Essential Gadgets for Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-window-11-barriers-to-installing-your-clipchamp-effectively/"><u>Fix Window 11 Barriers to Installing Your ClipChamp Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-missing-action-buttons-on-microsoft-written-language-english/"><u>How to Fix Missing Action Buttons on Microsoft' Written Language: English</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-itunesfinder-when-it-wont-detect-your-iphone/"><u>How to Troubleshoot iTunes/Finder When It Won't Detect Your iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-google-pixel-8-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Google Pixel 8 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-outlook-issue-on-your-pc/"><u>Overcoming Outlook Issue on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-and-solving-intruder-exception-bsod-in-w10w11/"><u>Preventing and Solving Intruder Exception BSOD in W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-your-preferred-windows-lock-time/"><u>Setting Your Preferred Window's Lock Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spin-the-picture-show-6-methods-in-windows-11/"><u>Spin the Picture Show: 6 Methods in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-reverse-jvm-setup-failure-issue/"><u>Tactics to Reverse JVM Setup Failure Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-discord-updates-on-pcs/"><u>Troubleshooting Failed Discord Updates on PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-must-try-video-editing-apps-for-kids-featuring-free-and-paid-choices/"><u>Updated 10 Must-Try Video Editing Apps for Kids, Featuring Free and Paid Choices</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,3 +142,25 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>[Updated] Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonyhub-combining-ios-and-macos-photo-videos/"><u>2024 Approved HarmonyHub Combining iOS & macOS Photo-Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assisting-users-with-erratic-gesture-inputs-in-windows/"><u>Assisting Users with Erratic Gesture Inputs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-window-lock-out-duration-in-windows/"><u>Customize Window Lock-Out Duration in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-wont-start-clear-your-cache-and-initialize-successfully/"><u>Destiny 2 Won't Start? Clear Your Cache and Initialize Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-troubleshooting-winning-against-camera-app-failures/"><u>Effortless Troubleshooting: Winning Against Camera App Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-access-to-top-7-highly-rated-cost-free-pc-passwords/"><u>Exclusive Access to Top 7 Highly Rated, Cost-Free PC Passwords</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remedy-disconnected-windows-11-printers/"><u>Guide to Remedy Disconnected Windows 11 Printers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/los-mejores-convertidores-de-video-para-macos-guia-completa-gratuita-de-202e3/"><u>Los Mejores Convertidores De Vídeo Para macOS - Guía Completa Gratuita De 202E3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-mouse-cursor-stand-out-on-windows-devices/"><u>Making Your Mouse Cursor Stand Out on Windows Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-setting-up-unique-youtube-shorts-thumbnails-for-2024/"><u>Step-by-Step Setting Up Unique YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workspace-tackling-screen-lag-in-windows/"><u>Streamline Your Workspace: Tackling Screen Lag in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-11-most-motivating-films-guaranteed-to-boost-your-spirit/"><u>Top 11 Most Motivating Films Guaranteed to Boost Your Spirit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/topo-10-conversionistas-de-video-premium-y-gratuito-para-computadoras/"><u>Topo 10 Conversionistas De Video Premium Y Gratuito Para Computadoras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr-for-2024/"><u>Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-your-pcs-true-wired-capability-through-win11-connectivity-tweaks/"><u>Unveil Your PC’s True Wired Capability Through Win11 Connectivity Tweaks</u></a></li>
+</ul></div>
+

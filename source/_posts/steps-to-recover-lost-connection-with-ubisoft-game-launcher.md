@@ -1,7 +1,7 @@
 ---
 title: Steps to Recover Lost Connection with Ubisoft Game Launcher
-date: 2024-09-28T21:33:32.528Z
-updated: 2024-10-03T21:03:21.619Z
+date: 2024-10-05T21:31:16.512Z
+updated: 2024-10-09T07:11:51.928Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 
 ![Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So, make sure you’re running Ubisoft Connect with admin rights. It’s better to permanently set the Ubisoft client to run with elevated rights instead of selecting the**Run as administrator** context menu option for that software. Our[how-to always run Windows apps as an administrator guide](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set programs to run with elevated permissions.
 
 ## 3\. Run the Affected Game in Compatibility Mode
@@ -53,18 +60,19 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 ![The Quit option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/quit-option.jpg)
 2. Click the folder library taskbar button for opening File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Bring up the Ubisoft Game Launcher installation folder. This is the default installation directory for that Ubisoft software:  
 `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher`
 4. Next, click the cache folder with the mouse’s right button to select**Rename** .  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-option.jpg)
 5. Change the folder’s name to cache\_backup and press**Return** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then launch the Ubisoft Connect software.
 
  In addition, select to delete game installer files within a cache subfolder. You can do that by clicking the menu button in the top-left corner of Ubisoft Connect to select**Settings** and**Downloads** . Press the**Download** tab’s**Delete all game installers** button.
@@ -77,22 +85,16 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 
 ![Windows Security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-security-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users who’ve installed third-party security software packages will need to disable their protection features. To do that, right-click an antivirus icon inside the Windows system tray to view its context menu. Then select an option for temporarily disabling the antivirus on that menu.
 
  When you’ve disabled antivirus shields, start the affected game again. It’s not recommended to leave antivirus shields permanently turned off if this potential solution works. Instead, add the game’s installation folder to your antivirus tool’s exceptions list.
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Game
 
@@ -105,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 4. Restart Ubisoft Connect after removing the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then select the**Download** option for the uninstalled game in Ubisoft Connect.
@@ -122,28 +124,15 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 ![The Programs and Features uninstaller applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/programs-and-feaures-applet.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After uninstalling the gaming client, go to this[Ubisoft site](https://ubisoftconnect.com/en-GB/) . Click the**Download for PC** button on that age. Open Explorer and the folder in which your browser software downloads files; then double-click the**UbisoftConnectInstaller.exe** file to open the Ubisoft Connect installer, and go through the gaming client’s setup wizard to reinstall Ubisoft Connect.
 
  It’s also recommended to disable antivirus software while reinstalling Ubisoft Connect. So, temporarily turn off the Windows Security or third-party antivirus protection, as discussed in resolution six, before opening the Ubisoft Connect installer. Then restore the antivirus shield after reinstalling.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Your Ubisoft Games Again
 
@@ -164,14 +153,21 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-from-screen-to-disk-techniques-for-effortless-internet-show-recording-for-2024/"><u>[Updated] From Screen To Disk Techniques for Effortless Internet Show Recording for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deciding-between-wirecast-and-obs-for-professional-streaming/"><u>Deciding Between Wirecast & OBS For Professional Streaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-the-value-of-different-windows-n-models/"><u>Investigating the Value of Different Windows N Models</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-cross-platform-communication-twitch-and-whatsapp-synergy-for-2024/"><u>Mastering Cross-Platform Communication Twitch & WhatsApp Synergy for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-cpu-cost-of-ntoskrnlexe-tasks/"><u>Minimizing CPU Cost of Ntoskrnl.exe Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-wow-offline-pc-lol-solutions/"><u>Overcoming WoW Offline: PC LoL Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-tutorial-on-reverting-app-settings-in-windows/"><u>The Ultimate Tutorial on Reverting App Settings in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dive-deep-into-tiktoks-pfp-symbol-your-complete-guide/"><u>[New] Dive Deep Into TikTok’s PFP Symbol - Your Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-wonders-of-vita-video-editing-comprehensive-guide-2024/"><u>[Updated] Unveiling the Wonders of Vita Video Editing Comprehensive Guide, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-with-style-customizing-themes-for-an-improved-win11-experience/"><u>Decorate with Style: Customizing Themes for an Improved Win11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-component-services-access-in-windows-11/"><u>Demystifying Component Services Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-management-follies-steering-clear-of-windows-11-errors/"><u>File Management Follies: Steering Clear of Windows 11 Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-asus-audio-hardware-up-to-speed-with-new-driver-packs/"><u>Get Your ASUS Audio Hardware Up to Speed with New Driver Packs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-windows-11-language-line-from-status-bar/"><u>Hide Windows 11 Language Line From Status Bar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-netgear-a6100-drivers-on-a-windows-pc/"><u>How to Find & Update Netgear A6100 Drivers on a Windows PC</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oneplus-nord-ce-3-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from OnePlus Nord CE 3 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-original-terminals-in-win11/"><u>Regaining Original Terminals in Win11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-list-of-must-watch-historical-youtubes-for-students-for-2024/"><u>The Ultimate List of Must-Watch Historical YouTubes for Students for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-ssd-drives-of-2024/"><u>Top Rated Portable SSD Drives of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-random-restarts-on-windows-11-systems/"><u>Troubleshoot Random Restarts on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-java-vm-creation-failed-in-windows/"><u>Troubleshooting Java VM Creation Failed in Windows</u></a></li>
 </ul></div>
 

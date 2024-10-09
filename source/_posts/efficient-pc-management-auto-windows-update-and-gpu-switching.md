@@ -1,7 +1,7 @@
 ---
 title: "Efficient PC Management: Auto Windows Update & GPU Switching"
-date: 2024-09-17T20:22:29.094Z
-updated: 2024-09-22T00:36:54.071Z
+date: 2024-10-05T19:14:33.670Z
+updated: 2024-10-08T23:49:11.652Z
 tags:
   - windows10
   - windows11
@@ -60,6 +60,14 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 2. Next, double-click to run the**Setup.exe** file.  
 ![run amd setup exe repair graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-amd-setup-exe-repair-graphics-driver.jpg)
 3. In the**AMD Radeon Software Installer** dialog, select the driver version to install.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Install** and wait for the driver to install.
 
  If you encounter an AMD error 195, temporarily[disable Windows Defender Firewall](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and**Real-Time Threat Protection** and try again.
@@ -85,13 +93,6 @@ To uninstall the AMD graphics driver:
 ![unisntall amd graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unisntall-adm-graphics-driver.jpg)
 4. Click**Uninstall** and then**Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**AMD Radeon Graphics** and click**Uninstall** .
 
  The AMD Software will start removing the driver from your computer. This process may take some time, and your monitor or display may flicker during the process. If it does, don't fret; it's just Windows getting used to the changes to your display drivers.
@@ -101,6 +102,13 @@ To uninstall the AMD graphics driver:
  When you uninstall a display driver, your secondary monitor can stop working. This will happen if your monitor's HDMI cable is directly connected to the port on your dedicated graphics unit. Your secondary display should work again as you reinstall the graphics driver.
 
  After the restart, you can[update your AMD Radeon graphics driver](https://www.makeuseof.com/update-amd-radeon-graphics-driver-windows-11/) using AMD Software. Install the driver and restart your PC to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use a System Restore Point
 
@@ -119,10 +127,10 @@ To undo the recent changes using a restore point:
 5. Read the description and click**Finish** .
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. System Restore will restart and restore your PC to the state it was in before the date of the selected restore point.
@@ -144,5 +152,24 @@ To undo the recent changes using a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts-for-2024/"><u>[New] Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>[New] Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-detailed-walkthrough-of-androids-photography-suite-lightroom-for-2024/"><u>[Updated] A Detailed Walkthrough of Android’s Photography Suite, Lightroom for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-asmr-and-you-understanding-its-healing-power/"><u>[Updated] ASMR and You Understanding Its Healing Power</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-capture-and-transfer-igtv-videos-on-handheld-tech-for-2024/"><u>[Updated] Capture and Transfer IGTV Videos on Handheld Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>[Updated] In 2024, Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mitigating-virtual-reality-nausea/"><u>[Updated] Mitigating Virtual Reality Nausea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>2024 Approved The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-prime-8-video-cutter-tools-on-windows/"><u>Discover the Prime 8 Video Cutter Tools on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-savings-with-w11-pro-key-access-prime-deals/"><u>Elevate Savings with W11 Pro Key: Access Prime Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-work-with-multiple-displays-in-win11/"><u>Elevate Your Work with Multiple Displays in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-a-parallels-driven-path-for-windows-11-installation/"><u>Embark on a Parallels-Driven Path for Windows 11 Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-of-lock-screen-delay-on-pcs/"><u>Regaining Control of Lock Screen Delay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-wobbling-keyboard-arrows-in-windows-environments/"><u>Revive Wobbling Keyboard Arrows in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-dolby-atmos-installation-in-windows-1111/"><u>Seamless Dolby Atmos Installation in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-connections-how-to-clear-dns-in-steam-settings/"><u>Streamline Connections: How to Clear DNS in Steam Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11s-operation-elevation-issue-740/"><u>Troubleshooting Windows 11'S Operation Elevation Issue #740</u></a></li>
+</ul></div>
 

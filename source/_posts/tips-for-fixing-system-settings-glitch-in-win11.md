@@ -1,7 +1,7 @@
 ---
 title: Tips for Fixing System Settings Glitch in Win11
-date: 2024-10-01T22:54:15.833Z
-updated: 2024-10-03T21:28:05.807Z
+date: 2024-10-06T22:11:55.134Z
+updated: 2024-10-09T02:29:16.627Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
  Corruption in the important system files is another major reason behind the error at hand. You can quickly detect and eliminate corruption by[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . However, if the SFC scan was unable to solve the issue,[run a DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) to resolve the error.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove Viruses & Malware From Your Computer
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 4. Select the**Full scan** bulletin and click the**Scan Now** button.  
 ![Full scan option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, wait till the scanning process is complete. It can take up to one hour, so keep patience. Once done, check out how to[remove found threats from your Windows PC](https://www.makeuseof.com/microsoft-defender-antivirus-found-a-threat/) .
 
 ## 3\. Temporarily Disable Your Antivirus
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
  To disable the Windows Security app, check our guide on[temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11\. However, if you're using a third-party antivirus program, check its user manual to know about its disabling process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Create a New User Account
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 ![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Creating a new user account is another solution to fix the SystemSettings.exe system error. This approach is particularly helpful if the issue is being caused by corruption in your current account.
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
  System Restore is an incredibly useful Windows feature that enables you to undo changes that have caused issues to your computer. You can[use System Restore](https://www.makeuseof.com/use-system-restore-windows/) to send your Windows PC to the time when you were not facing the SystemSettings.exe system error.
 
  It's important to keep in mind that restoring your system to a previous restore point will undo any changes made after the selected restore point. Therefore, make sure to[back up your data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) before proceeding with the restoration process.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the SystemSettings.exe Error on Windows
 
@@ -120,20 +120,19 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-chuckle-inducing-cover-versions-for-2024/"><u>[New] Chuckle-Inducing Cover Versions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-snapshot-an-all-encompassing-2023-vlog-collection/"><u>[Updated] 2024 Approved Social Snapshot An All-Encompassing 2023 Vlog Collection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-apples-m1-performance-enhancing-video-editing/"><u>[Updated] Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-approaches-to-documenting-facetime-talks-for-2024/"><u>[Updated] Innovative Approaches to Documenting FaceTime Talks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-ideal-screen-dimensions-win11s-guide/"><u>Configuring Ideal Screen Dimensions: Win11's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-pink-screen-errors/"><u>Eliminating Windows Pink Screen Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-save-movs-on-windows-10/"><u>In 2024, Step-by-Step Save MOVs on Windows 10</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>New 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/open-sticky-notes-in-windows-11-with-precision/"><u>Open Sticky Notes in Windows 11 with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-server-access-denial-windows-wise/"><u>Overcoming Server Access Denial Windows-Wise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolving-isdonedll-problems-in-w10w11/"><u>Quick Guide to Resolving ISDone.dll Problems in W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-hardware-interactions-discover-4-windows-11-disk-management-actions/"><u>Supercharge Hardware Interactions: Discover 4 Windows 11 Disk Management Actions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/transform-your-snap-game-with-these-top-tips-for-2024/"><u>Transform Your Snap Game with These Top Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-a-comprehensible-solution-manual/"><u>WinError 0xC0000005: A Comprehensible Solution Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-snap-uac-dialogues/"><u>A Step-by-Step Guide to Snap UAC Dialogues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/boost-your-czech-skills-with-easy-digital-methods/"><u>Boost Your Czech Skills with Easy Digital Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-detox-dilemnas-discover-10-valid-excuses-for-quitting-facebook/"><u>Digital Detox Dilemnas? Discover 10 Valid Excuses for Quitting Facebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fintie-vs-competitors-unmatched-durability-and-value-in-macbook-pro-n13-cases/"><u>Fintie vs Competitors: Unmatched Durability and Value in MacBook Pro N13 Cases</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/latest-solution-to-minecraft-native-launcher-not-updating-problem-what-works/"><u>Latest Solution to Minecraft Native Launcher Not Updating Problem – What Works?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-mobile-app-positions-in-windows-ui/"><u>Mastery Over Mobile App Positions in Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-windows-11-licensing-expiration/"><u>Overcoming the Challenges of Windows 11 Licensing Expiration</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/g-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-badge-indicators-on-taskbars/"><u>Restoring Badge Indicators on Taskbars</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revisiting-the-legend-an-in-depth-analysis-of-ratchet-and-clanks-revamped-journey/"><u>Revisiting the Legend: An In-Depth Analysis of Ratchet & Clank's Revamped Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-win11-to-new-subnets-easily/"><u>Shifting Win11 to New Subnets Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resume-windows-netflix-playback/"><u>Strategies to Resume Windows Netflix Playback</u></a></li>
 </ul></div>
 

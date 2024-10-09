@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Disk Unknown Not Initialized” Issue on Windows
-date: 2024-09-19T19:47:29.453Z
-updated: 2024-09-21T19:22:47.369Z
+date: 2024-10-03T16:38:30.277Z
+updated: 2024-10-08T17:12:44.880Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 ![Close-up picture of a Laptop’s USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pexels-castorly-stock-4065705.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A faulty USB port can also prevent your system from detecting the hard drive, resulting in the issue under discussion. Hence, it's imperative to ensure that the USB port is functioning correctly. To confirm that, just swap ports, i.e., plug the external drive into a different port than where it was connected before.
 
  If the external drive starts working immediately after switching ports, the port it was connected to earlier is either incompatible with your drive or has a problem. Thus, you should either keep using the other USB port or apply the fixes covered in our guide on [how to fix USB port issues on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) to make the faulty port work again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Scan and Resolve Hard Drive Issues
 
@@ -55,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 ![Scanning the Bad Disk Sectors Using the CHKDSK Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scanning-the-bad-disk-sectors-using-the-chkdsk-command-in-command-prompt.jpg)
 
- Ensure you enter the correct drive letter for the scan to work.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Ensure you enter the correct drive letter for the scan to work.
 
 ## 4\. Update the Disk Drive Drivers
 
@@ -72,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 2. Expand the **Disk drives** category.
 3. Right-click on your desired drive and click **Update driver**.  
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
 
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 4. Right-click on the problematic disk and select **Initialize to MBR Disk**. Then, click **Apply**.  
 ![Click on Initialize to MBR Disk in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-initialize-to-mbr-disk-in-the-minitool-partition-wizard.jpg)
 5. Right-click on the disk again, and then click **Rebuild MBR**. Then, click **Apply** once more.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Click on Rebuild MBR in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-rebuild-mbr-in-the-minitool-partition-wizard.jpg)
 6. Right-click the disk again and select **Create**. Then, click **OK**.
@@ -106,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
@@ -121,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
  If the external drive presenting the error under discussion contains essential data, you shouldn't format it, as you'll lose data this way. Before taking this route, keep that in mind.
 
  Some [data recovery tools](https://www.makeuseof.com/best-data-recovery-software/) allow you to recover deleted files from formatted drives. If you need to format your external hard drive containing important data as a last resort, you can use these tools to retrieve your deleted data. However, they may not work in every situation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bring Your Disk Drive Back to Life
 
@@ -138,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-loom-essentials-perfecting-the-art-of-screen-recording/"><u>[New] In 2024, Loom Essentials Perfecting the Art of Screen Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamlined-sound-conversion-for-tweeted-content/"><u>[Updated] In 2024, Streamlined Sound Conversion for Tweeted Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1724765617353-dvd/"><u>「今なお人気! DVDコピーリッピングソフトをご検討ください - 新しいバージョンで特集」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>2024 Approved Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-vidma-to-go-screen-record-and-beyond-alternatives/"><u>2024 Approved Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-11-experience-advanced-run-configuration/"><u>Empower Your Windows 11 Experience: Advanced Run Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-taskbar-notifications-in-windows/"><u>Fixing Missing Taskbar Notifications in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-speak-with-ease-top-10-accessible-languages-guide/"><u>Global Speak with Ease: Top 10 Accessible Languages Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-block-windows-from-default-cmos-access-on-start/"><u>How to Block Windows From Default CMOS Access on Start</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-huawei-p60-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Huawei P60 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-third-party-av-solutions-amidst-microsoft-guard/"><u>Unlocking Third-Party AV Solutions Amidst Microsoft Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-apple-m4-chip-details-on-launch-date-and-technical-specifications/"><u>Unveiling the Apple M4 Chip: Details on Launch Date & Technical Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-custom-inactive-period-setting/"><u>Windows: Custom Inactive Period Setting</u></a></li>
+</ul></div>
 

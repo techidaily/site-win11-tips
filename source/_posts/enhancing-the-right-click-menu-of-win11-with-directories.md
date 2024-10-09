@@ -1,7 +1,7 @@
 ---
 title: Enhancing the Right-Click Menu of Win11 with Directories
-date: 2024-09-28T17:12:27.702Z
-updated: 2024-10-03T18:13:17.859Z
+date: 2024-10-04T23:57:21.584Z
+updated: 2024-10-09T02:54:17.112Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
@@ -60,13 +67,6 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -86,6 +86,14 @@ Once your PC has restarted:
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -96,6 +104,14 @@ Once your PC has restarted:
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -103,13 +119,6 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -121,22 +130,15 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -158,15 +160,22 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-strategies-for-identifying-lowest-cloud-data-rates/"><u>[New] In 2024, Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beginners-guide-video-setup-must-haves/"><u>[Updated] In 2024, Beginner's Guide Video Setup Must-Haves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/qtmp3-movavi/"><u>「お金を費やさずにQT音楽MP3形式コンバート可能 – Movaviの使い方」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aprenda-a-alterar-o-tamanho-de-seu-video-com-essas-9-ferramentas-mais-utilizadas/"><u>Aprenda a Alterar O Tamanho De Seu Vídeo Com Essas 9 Ferramentas Mais Utilizadas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-your-files-from-m1v-to-mp4-with-ease-movavi/"><u>Free Online Converter: Transform Your Files From M1V to MP4 with Ease - Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-update-for-intels-wi-fi-6-ax200-drivers-on-windows-11-or-windows-10-systems/"><u>Get the Newest Update for Intel's Wi-Fi 6 AX200 Drivers on Windows 11 or Windows 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-online-transformador-de-videos-para-convertir-wmv-en-webm-moviwizard/"><u>Gratuito Online: Transformador De Vídeos Para Convertir WMV en WebM - MoviWizard</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-integrating-your-photos-smart-transfers-from-iphone-to-snapchat/"><u>In 2024, Integrating Your Photos Smart Transfers From iPhone to Snapchat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-why-your-computer-speakers-arent-producing-sound-after-being-connected/"><u>Solution Guide: Why Your Computer Speakers Aren't Producing Sound After Being Connected</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-performance-the-best-8k-camera-technology/"><u>[New] Pinnacle Performance The Best 8K Camera Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-online-bazaars-how-to-buy-your-favorite-youtube-ringtone/"><u>[Updated] Top Online Bazaars How to Buy Your Favorite YouTube Ringtone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-microsofts-bluetooth-app/"><u>A Step-by-Step Guide to Using Microsoft's Bluetooth App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-valorant-setup-with-these-tips/"><u>Accelerate Your Valorant Setup with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-a00f4289-for-windows-11-webcam/"><u>Addressing Error Code A00F4289 for Windows 11 Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-error-dxgierrordevicehunk-on-windows/"><u>Addressing the HANG Error: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audacity-sound-error-step-by-step-windows-fix-guide/"><u>Audacity Sound Error: Step-by-Step Windows Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-worlds-the-best-6-android-apps-for-an-advanced-window-11-experience/"><u>Blend Worlds: The Best 6 Android Apps for an Advanced Window 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-browser-performance-fix-youtube-delays/"><u>Boosting Browser Performance: Fix YouTube Delays</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-web-performance-through-cookiebot-integration/"><u>Enhanced Web Performance Through Cookiebot Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-hands-on-gpt-4-without-spending-a-penny-heres-how/"><u>Get Your Hands on GPT-4 Without Spending a Penny - Here's How!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-broadcasting-uncovered-master-platform-selection/"><u>In 2024, Live Broadcasting Uncovered Master Platform Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-launch-details-cost-free-update-key-enhancements-and-latest-announcements/"><u>IOS 18 Launch Details: Cost-Free Update, Key Enhancements & Latest Announcements</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-strengths-of-apcs-back-ups-pro-1500va-exceptional-capacity-extensive-ports-and-swappable-batteries-for-convenience/"><u>Unveiling the Strengths of APC's Back-UPS Pro 1500VA - Exceptional Capacity, Extensive Ports and Swappable Batteries for Convenience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-webcams-revolutionized-discover-how-manycam-elevates-your-live-video-creations/"><u>Virtual Webcams Revolutionized: Discover How ManyCam Elevates Your Live Video Creations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Empty Windows Directories: A Complete Removal Guide"
-date: 2024-10-03T00:59:15.277Z
-updated: 2024-10-03T21:44:14.116Z
+date: 2024-10-07T07:39:57.344Z
+updated: 2024-10-08T18:00:26.966Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  Once you've signed in as an administrator and revealed the hidden folders, it's time to delete the empty folders.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Find and Delete Empty Folders Using Windows PowerShell
 
  If you only want to declutter a few folders, such as the ones containing your college data, there is no need to use third-party software. Interestingly, the Windows PowerShell utility can help you wipe out empty folders with just one command. Here's how:
@@ -50,18 +57,34 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 2. Type**"Windows PowerShell"** into Windows Search, right-click on the**Windows PowerShell** app, then click**Run as administrator** .  
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
 4. PowerShell will display all empty subfolders within that folder in a few seconds. Be patient if it takes a while.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Successfully Locating All Empty Folders and Subfolders Using Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-successfully-locating-all-empty-folders-and-subfolders-using-windows-powershell-app.jpg)
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
@@ -75,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
  Similarly, you can use the above method to find empty folders on crowded drives and delete them. However, this method is limited because it doesn't allow you to delete some empty folders, leaving others intact selectively.
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
@@ -104,22 +120,8 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 ![Checking the Boxes for All Empty Files and Folders by Clicking on Select All Button in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/10-checking-the-boxes-for-all-empty-files-and-folders-by-clicking-on-select-all-button-in-empty-folder-cleaner-software.jpg)
 5. In the top-left corner, right next to**Scan** , click**Delete Empty Folders** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Once the warning pop-up appears, select**Yes** to delete all empty folders successfully.  
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
 
@@ -144,20 +146,24 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>[Updated] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/18-engaging-duet-conversations-texting-fun-hits-two/"><u>18 Engaging Duet Conversations: Texting Fun Hits Two!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maximize-google-photos-for-photography-enthusiasts/"><u>2024 Approved How to Maximize Google Photos for Photography Enthusiasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-videos-that-vibe-a-novices-roadmap-on-a-mac-and-youtube/"><u>2024 Approved Videos That Vibe A Novice's Roadmap on a Mac and YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-strategies-to-tackle-delay-in-typing-windows-11s-keyboard/"><u>8 Strategies to Tackle Delay in Typing Windows 11'S Keyboard</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-x50i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor X50i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-repeated-team-sign-ins-on-windows-systems/"><u>Bypassing Repeated Team Sign-Ins on Windows Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/comprehending-variants-in-windows-movie-maker-software-for-2024/"><u>Comprehending Variants in Windows Movie Maker Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-experience-implementing-superior-run-capabilities/"><u>Elevate Your Windows 11 Experience: Implementing Superior Run Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-usb-device-recognition-on-windows-10-with-proven-solutions/"><u>Mastering USB Device Recognition on Windows 10 with Proven Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-page-lockout-in-windows-systems/"><u>Overcoming Page Lockout in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surreptitious-shutdown-strategy-for-windows-11/"><u>Surreptitious Shutdown Strategy for Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-realme-gt-3-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme GT 3 Android SIM Unlock APK</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-routes-to-windows-control-panel-entry/"><u>Unveiling the Routes to Windows Control Panel Entry</u></a></li>
-<li><a href="https://facebook.techidaily.com/verified-identities-meta-gold-or-twitters-silver-tie/"><u>Verified Identities: Meta Gold or Twitter's Silver Tie?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-windows-10-seamless-media-importation-techniques/"><u>[New] 2024 Approved Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-camera-and-accessories-guide-for-travel-vids/"><u>[New] Camera & Accessories Guide for Travel Vids</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>[New] In 2024, Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovative-methods-for-creating-luts/"><u>2024 Approved Innovative Methods for Creating LUTs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-venture-validation-benchmarking-against-business-rivals/"><u>2024 Approved Video Venture Validation Benchmarking Against Business Rivals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-caps-lock-and-numeric-status-on-taskbar-tray-of-win11/"><u>Displaying Caps Lock & Numeric Status on Taskbar Tray of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-full-use-of-the-control-key-in-windows-11/"><u>Enabling Full Use of the Control Key in Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-leading-edge-of-web-browsing-the-data-you-need-to-see-powered-by-zdnet-analysis/"><u>Exploring the Leading Edge of Web Browsing : The Data You Need to See | Powered by ZDNet Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-mass-downloading-a-complete-look-at-tiktok-archives-for-2024/"><u>Guide to Mass Downloading A Complete Look at TikTok Archives for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f04-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F04 To Phone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restoring-power-solutions-for-a-non-responsive-laptop-or-desktop/"><u>Restoring Power: Solutions for A Non-Responsive Laptop or Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-effortless-transitions-into-game-fullscreen/"><u>Secrets to Effortless Transitions Into Game FullScreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-playback-launching-windows-media-player/"><u>Streamline Playback: Launching Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-typing-snippets-and-hotkeys-on-windows/"><u>Streamline Your Typing: Snippets & Hotkeys on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-innovators-guide-leveraging-windows-11-widgets/"><u>Tech Innovators Guide: Leveraging Windows 11 Widgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-hands-ifa-2023-displays/"><u>The Future in Your Hands - IFA 2023 Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-ftdibussys-its-impact-on-windows-memory-protocols/"><u>Unraveling ftdibus.sys: Its Impact on Windows Memory Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-typical-windows-rainmeter-setbacks-and-how-to-overcome-them/"><u>Unraveling Typical Windows Rainmeter Setbacks and How to Overcome Them</u></a></li>
 </ul></div>
 

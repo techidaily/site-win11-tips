@@ -1,7 +1,7 @@
 ---
 title: "Reclaiming Classics: A Win 11 Reboot Plan"
-date: 2024-09-30T20:43:16.535Z
-updated: 2024-10-03T19:09:54.722Z
+date: 2024-10-04T01:40:39.069Z
+updated: 2024-10-09T03:35:54.236Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
  Now you’ll see the classic File Explorer from Windows 10 that incorporates a tab bar. You’ll always need to open the Control Panel first to access classic File Explorer through it. So, consider [setting up a Control Panel shortcut](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) in Windows 11 to give you more direct access.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Manually Edit the Registry
 
  Users utilizing Windows 11 21H2 or earlier versions can restore the classic File Explorer ribbon by manually tweaking the registry. However, the same registry tweak will not work in Windows 11 22H2 or later builds. This is how you can restore the classic File Explorer ribbon interface by manually editing the registry:
@@ -53,26 +60,26 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 ![The string value for restoring File Explorer's ribbon UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-string-value.jpg)
 7. Then you'll need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or Windows 11 for the registry tweak to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now press the **File Explorer** taskbar button to see the change. Or open that file manager app with any other method you prefer to [open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/). The File Explorer that opens will have the tabbed ribbon interface from Windows 10\.
 
 ![The tabbed ribbon interface in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-tabbed-ribbon-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you ever want to go back to the original command bar, delete the string you added. To do so, right-click **{e2bf9676-5f8f-435c-97eb-11607a5bedf7}** within the **Blocked** key and select **Delete**. Click **Yes** when asked to confirm deletion.
 
 ![The Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Execute a Registry Command via Command Prompt
@@ -86,19 +93,6 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 `reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32" /f /ve`  
 ![The command for restoring File Explorer's ribbon UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/restore-classic-file-explorer-ribbon-command.jpg)
 3. You can bring back the command bar by executing this command:  
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `reg delete "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}" /f`
 
@@ -122,16 +116,10 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 7. Click **Restart File Explorer** on the Properties window.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ExplorerPatcher might also automatically apply changes to the Start menu and taskbar when installed. You can restore the original Windows 11 taskbar by selecting the **Windows 11 (default)** option on the **Taskbar** tab. To restore the original menu, select **Windows 11 (default)** for ExplorerPatcher’s **Start menu style** setting.
@@ -150,23 +138,6 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
  Do you prefer the tabbed File Explorer in Windows 10? If so, you don’t have to stick with File Explorer’s command bar in Windows 11\. This is how you can restore Explorer’s classic ribbon interface on a Windows 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever/"><u>[New] 2024 Approved Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-sj-cam-s6-review-the-pros-guide/"><u>[New] 2024 Approved Ultimate SJ-CAM S6 Review The Pro's Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-a-list-guide-to-instagram-photo-mastery/"><u>[New] In 2024, The A-List Guide to Instagram Photo Mastery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-smooth-art-of-mov-saving-a-win10-insight-for-2024/"><u>[New] The Smooth Art of MOV Saving A Win10 Insight for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-made-simple-mastering-ps4-captures-using-obs-for-2024/"><u>[Updated] Live Streaming Made Simple Mastering PS4 Captures Using OBS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-advice-for-overcoming-iphone-images-not-uploading-problem/"><u>Comprehensive Advice for Overcoming iPhone Images Not Uploading Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guaranteeing-winrar-compression-validity-with-corrected-sums/"><u>Guaranteeing WinRAR Compression Validity with Corrected Sums</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-application-couldnt-start-error-xc000003e-in-win11/"><u>How to Unblock The Application Couldn't Start: Error Xc000003e in Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-androids-leading-collage-tools-the-ultimate-list/"><u>In 2024, Android's Leading Collage Tools The Ultimate List</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-advanced-techniques-for-efficient-qr-code-scanning-in-windows-systems/"><u>Navigating Advanced Techniques for Efficient QR Code Scanning in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweaking-pixel-density-on-win11/"><u>Tweaking Pixel Density on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -174,3 +145,24 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/learfocuscutout-how-to-blur-your-youtube-videos-background-for-2024/"><u>[New] ClearFocusCutOut How to Blur Your YouTube Video's Background for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cutting-tactics-shrinking-vids-for-instagram-mac-edition/"><u>[New] In 2024, Cutting Tactics Shrinking Vids for Instagram, Mac Edition</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/download-and-convert-audiovideo-files-from-wav-to-wmv-online-at-no-cost-movavi-converter/"><u>Download and Convert Audio/Video Files From WAV to WMV Online at No Cost - Movavi Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-fixing-fall-guys-link-failures-windows-wise/"><u>Essential Steps for Fixing Fall Guys Link Failures Windows-Wise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-and-enjoy-ebooks-using-the-ios-books-app-a-users-guide/"><u>How to Get and Enjoy eBooks Using the iOS Books App - A User's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-save-windows-spotlight-pictures-to-use-as-wallpapers-when-you-want/"><u>How to Save Windows Spotlight Pictures to Use as Wallpapers When You Want</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-moto-g23-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola Moto G23 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-moto-e13-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola Moto E13 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-chat-apps-to-replace-zoom-on-desktopmobile-devices/"><u>In 2024, Leading Chat Apps to Replace Zoom on Desktop/Mobile Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-video-cutting-solutions-on-your-windows-11-system/"><u>Masterful Video Cutting Solutions on Your Windows 11 System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/music-for-imovie/"><u>Music for iMovie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quelling-win1011-screen-glitches-with-ease/"><u>Quelling WIN10/11 Screen Glitches with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-troubled-windows-11-calendars/"><u>Resetting Techniques for Troubled Windows 11 Calendars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-implement-without-obstacles-win11-version-22h2-update/"><u>Tactics to Implement Without Obstacles: Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
+</ul></div>
+

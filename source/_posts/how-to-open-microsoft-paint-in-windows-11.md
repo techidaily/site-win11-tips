@@ -1,7 +1,7 @@
 ---
 title: How to Open Microsoft Paint in Windows 11
-date: 2024-09-27T20:39:17.795Z
-updated: 2024-10-03T16:46:15.495Z
+date: 2024-10-06T17:00:42.083Z
+updated: 2024-10-08T22:58:04.190Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 3. Clicking on the Paint icon will launch the program immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Open Microsoft Paint Using a Run Command
@@ -48,6 +48,20 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 ![Open Paint Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-run-command.jpg)
 3. This will launch Microsoft Paint within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Open Microsoft Paint From Start Menu
 
  Alternatively, you could also look through the list of apps under All Apps if you know where it is located in your OS folder structure. To do this in Windows 11, simply follow these instructions:
@@ -58,20 +72,13 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 ![Open Paint From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-from-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're having trouble finding it, try typing "Paint" into the Start menu search bar; this should narrow down the results.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. How to Open Microsoft Paint From File Explorer
 
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 2. In the File Explorer address bar, type**mspaint** , and press**Enter** .
 
 Now that Microsoft Paint is open, you can start working.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Open Microsoft Paint Through Command Prompt
 
@@ -101,13 +101,6 @@ Now that Microsoft Paint is open, you can start working.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
 
  PowerShell is a command-line shell and associated scripting language that automates tasks and manages configurations. You can use this tool to access Windows applications on your device.
@@ -118,6 +111,13 @@ To open the Microsoft Paint application, follow the steps below:
 2. In the Run dialog box, type**PowerShell** and press**Ctrl + Shift + Enter** . This will open Windows PowerShell as an administrator.
 3. Once you're in the PowerShell window, type**mspaint** and press the**Enter** key.  
 ![Open Paint Via Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-via-windows-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Microsoft Paint application will appear on your screen.
 
@@ -156,13 +156,6 @@ Here's how you can use this tool to open the Paint application:
 
  A desktop shortcut will appear on your computer. Double-clicking it will open the Paint application
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. How to Open Microsoft Paint via a Shortcut Key
 
  If you prefer using keyboard shortcuts, you can create a shortcut key to open Microsoft Paint in Windows 11\. The steps are as follows:
@@ -173,6 +166,19 @@ Create a desktop shortcut as explained above.
 2. As a shortcut, type any letter or number in the**Shortcut** field.
 3. To save your selections, click**Apply > OK** .  
 ![Create Shortcut key of Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-shortcut-key-of-paint.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Press**Ctrl + Alt** and then type the letter or number you want as a shortcut. For example, if you select**8** , then you can press**Ctrl + Alt + 8** on your keyboard to open Microsoft Paint.
 
@@ -195,24 +201,24 @@ Create a desktop shortcut as explained above.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-tactics-for-gameplay-screen-captures/"><u>[Updated] In 2024, Top Tactics for Gameplay Screen Captures</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-investing-time-wisely-on-cover-art-creation/"><u>[Updated] Investing Time Wisely on Cover Art Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-transforming-business-with-metaverse-ideas/"><u>2024 Approved Transforming Business with Metaverse Ideas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-sound-lags-simple-tips-and-tricks-to-enhance-your-listening-experience/"><u>Beat Bluetooth Sound Lags: Simple Tips & Tricks to Enhance Your Listening Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-remedying-frozen-asana-windows-instances/"><u>Diagnosing and Remedying Frozen Asana Windows Instances</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-pc-security-without-bitlocker-top-4-methods/"><u>Ensuring PC Security without BitLocker: Top 4 Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-using-ping-in-windows-environments/"><u>Essential Guide to Using Ping in Windows Environments</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-acquire-user-sids-in-windows-11/"><u>Navigating the Maze: Acquire User SIDs in Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-8-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 8 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-office-excel-scroll-hiccups-windows/"><u>Overcome Office Excel Scroll Hiccups (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-unable-to-open-error-in-geforce-experience/"><u>Remedy for Unable to Open Error in GeForce Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-preferred-ms-store-programs-on-windows-devices/"><u>Restore Your Preferred MS Store Programs on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-stalled-file-downloads-on-windows-11-and-11/"><u>Solutions for Stalled File Downloads on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-lack-of-access-to-network-router-site/"><u>Tackling Lack of Access to Network Router Site</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-8-techniques-for-freeing-yourself-from-drm-a-guide-to-legally-ripping-copyrighted-dvds/"><u>Top 8 Techniques for Freeing Yourself From DRM: A Guide to Legally Ripping Copyrighted DVDs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/universal-accessibility-for-win11s-sticky-notes-feature/"><u>Universal Accessibility for Win11's Sticky Notes Feature</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-comprehensive-guide-to-using-luts-in-video-editing/"><u>[New] 2024 Approved The Comprehensive Guide to Using LUTs in Video Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-effortless-screen-capture-in-dota-2-matches/"><u>[New] Effortless Screen Capture in Dota 2 Matches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-augmented-reality-on-android-a-step-towards-future-viewing/"><u>[New] In 2024, Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ease-into-listening-apple-podcasts-on-your-device-for-2024/"><u>[Updated] Ease Into Listening Apple Podcasts on Your Device for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-shake-free-video-post-capture-tips-and-tricks/"><u>[Updated] Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>[Updated] The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/battle-of-the-readers-which-is-superior-ipad-kindle-or-nook/"><u>Battle of the Readers: Which Is Superior - iPad, Kindle, or Nook?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-valorants-audio-sync-on-microsoft-devices/"><u>Correcting Valorant's Audio Sync on Microsoft Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-the-haze-9-tips-for-crystal-clear-pc-monitors/"><u>Cutting Through the Haze: 9 Tips for Crystal-Clear PC Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-note-clarity-obsidian-canvas-methods/"><u>Enhancing Note Clarity: Obsidian Canvas Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-7-prime-free-password-generators-for-pcs/"><u>Explore 7 Prime Free Password Generators for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-setting-up-a-taskbar-on-windows-11-tablets/"><u>Guide to Setting Up a Taskbar on Windows 11 Tablets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-installation-of-auto-gpt-on-ubuntu-with-these-expert-tips/"><u>Master the Installation of Auto-GPT on Ubuntu with These Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-rockalldlldll-disappearance-issue-windows/"><u>Rectifying Rockalldll.dll Disappearance Issue (Windows)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-a-stolen-or-hidden-ios-gadget-using-apples-find-my-app/"><u>Track Down a Stolen or Hidden iOS Gadget Using Apple's Find My App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x80070570-file-corruption-in-windows-11/"><u>Troubleshooting Code 0X80070570 File Corruption in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-winerror-0x80071a90-in-windows/"><u>Understanding & Resolving WinError: 0X80071a90 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unified-tech-experience-windows-pc-and-galaxy-device-flow/"><u>Unified Tech Experience – Windows PC & Galaxy Device Flow</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Address Phantom Devices in PCs
-date: 2024-09-29T19:38:12.793Z
-updated: 2024-10-03T23:16:16.455Z
+date: 2024-10-04T00:25:47.694Z
+updated: 2024-10-09T02:30:59.454Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
@@ -66,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 
 `chkdsk D: /f /r`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Try Changing the Drive’s Letter
 
  Changing the affected drive’s letter is a potential fix that users have confirmed to work. You can change the drive’s letter with the Disk Management tool like this:
@@ -82,19 +69,20 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 3. Right-click the affected drive and select**Change Drive Letter and Paths** .  
 ![The Change Drive Letter and Paths option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-paths.jpg)
 4. Press the**Change** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Change Drive Letter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-window.jpg)
 5. Click the drop-down menu for the**Assign the following drive lette** r option.  
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
 6. Select a drive letter that you’ve never used.
 7. Click**OK** on the Change Drive Letter or Path window.
 8. Select**Yes** on the Disk Management confirmation dialog.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Rescan a Drive
 
@@ -118,16 +106,23 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 4. Click the drive’s**Security** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. If the**Full control** option isn’t ticked, click the**Edit** button.
 6. Select the**Allow** box for the**Full control** option.  
 ![The Full control option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/full-control-checkbox.jpg)
 7. Click**Apply** \>**OK** on the drive’s permissions window.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Drive
 
@@ -145,10 +140,10 @@ Insert the affected drive into one of your PC’s USB ports.
 6. Plug the drive back into the computer to reinstall its driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update Your Motherboard’s Chipset Driver
@@ -161,27 +156,27 @@ Insert the affected drive into one of your PC’s USB ports.
 ![Baseboard specs in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-specs.jpg)
 4. [Open the Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) if the System Information app doesn’t include a serial number for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Execute this baseboard command:  
 `wmic baseboard get product,Manufacturer,version,serialnumber`  
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
  The driver package might be included within a ZIP archive, which you’ll need to extract as outlined within this guide to[unzipping files in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Your Drive Again on Windows
@@ -203,22 +198,22 @@ Insert the affected drive into one of your PC’s USB ports.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dell-p2715q-4k-monitor-review/"><u>[Updated] 2024 Approved Dell P2715Q 4K Monitor Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>[Updated] 2024 Approved From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-creating-metaverse-laughter/"><u>[Updated] From Novice to Pro Creating Metaverse Laughter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-reactivating-deactivated-voice-command/"><u>Addressing Windows 11: Reactivating Deactivated Voice Command</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-the-variance-in-procedures-for-local-and-remote-windows-reinstallations/"><u>Analyzing the Variance in Procedures for Local and Remote Windows Reinstallations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/craft-your-contents-voyage-from-camera-to-instagram-tv-for-2024/"><u>Craft Your Content's Voyage From Camera to Instagram TV for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-scripts-the-winexe-transformation-tutorial/"><u>Elevate Your Scripts: The WinEXE Transformation Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cing-views-with-these-premium-tools-for-youtube-seo/"><u>Enhancing Views with These Premium Tools for YouTube SEO</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-epson-printer-running-smoothly-update-drivers-in-windows-10/"><u>Get Your Epson Printer Running Smoothly: Update Drivers in Windows 10</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Pro Max Waze | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-stuck-windows-enter-function/"><u>Mending the Stuck Windows 'Enter' Function</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-camera-to-computer-editing-sony-camcorder-videos-with-ease/"><u>New From Camera to Computer Editing Sony Camcorder Videos with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-checklist-longer-pins-in-windows-11-and-11/"><u>The Ultimate Checklist: Longer PINs in Windows 11 and 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-insights/"><u>The Ultimate Resource for Tech Enthusiasts - Tom's Hardware Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-microsofts-ai-assistive-functions/"><u>Understanding Microsoft's AI Assistive Functions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-use-of-obs-studio-for-android-devices-for-2024/"><u>[New] Efficient Use of OBS Studio for Android Devices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-digital-delinquency-games-comparable-to-gta-v/"><u>[Updated] Digital Delinquency Games Comparable to GTA V</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-create-a-youtube-channel-today/"><u>[Updated] How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-quality-on-a-shoe-string-10-best-free-lut-picks/"><u>2024 Approved Selecting Quality on a Shoe String 10 Best Free LUT Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-put-a-windows-computer-to-sleep/"><u>9 Ways to Put a Windows Computer to Sleep</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-discover-the-top-9-chatgpt-integrations-for-instant-impact/"><u>Boost Productivity: Discover the Top 9 ChatGPT Integrations for Instant Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-and-customize-like-a-pro-with-these-8-editing-tools-iphoneandroid/"><u>Capture & Customize Like a Pro with These 8 Editing Tools (iPhone/Android)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/eden-echoes-best-rural-role-playing-realms/"><u>Eden Echoes Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-tips-for-youtube-thumbnail-size/"><u>Essential Tips for YouTube Thumbnail Size</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-eliminate-path-error-in-windows/"><u>Guide to Eliminate PATH Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-multimonitor-setup-in-windows-11/"><u>Navigating The Complexities of Multimonitor Setup in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stuck-battlenet-login-screen/"><u>Solutions for Stuck Battle.net Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-colorful-screen-on-windows-pc-via-remote-access/"><u>Steps to Restore Colorful Screen on Window's PC via Remote Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-tremor-in-windows-11/"><u>Stop Screen Tremor in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-operations-7-easy-tips-for-advanced-windows-11-users/"><u>Streamline Operations: 7 Easy Tips for Advanced Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-anticipate-sudo/"><u>Why Windows Users Should Anticipate Sudo</u></a></li>
 </ul></div>
 

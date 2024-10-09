@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Internal System Configurations on Windows 11
-date: 2024-09-18T06:15:28.124Z
-updated: 2024-09-21T16:59:40.898Z
+date: 2024-10-06T20:29:08.031Z
+updated: 2024-10-08T22:24:06.954Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ Let's now see how to fix this problem.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the Third-Party Application
 
  If you've recently added any third-party application installed on your Windows PC, it could be the cause of this issue. Uninstalling such applications can solve the problem.
@@ -67,14 +74,14 @@ Let's now see how to fix this problem.
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
 
@@ -92,16 +99,17 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
@@ -119,10 +127,10 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 5. Then right-click on it and choose**Delete** from the context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
@@ -146,5 +154,22 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[New] In 2024, Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-crypto-clout-how-much-does-the-youtube-gamer-make/"><u>[Updated] In 2024, Crypto Clout How Much Does the YouTube Gamer Make?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-game-changer-review-dji-mavic-air-takes-on-spark/"><u>[Updated] In 2024, Game Changer Review DJI Mavic Air Takes on Spark</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pulse-of-the-population-vllo-analysis/"><u>2024 Approved The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024windows-1011dvd/"><u>2024年対応の安心セキュリティ付きWindows 10/11用フリーDVDプレイヤー推薦</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-quick-escape-tarkov-glitch-resolution/"><u>AMD's Quick Escape: Tarkov Glitch Resolution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-every-detail-advanced-skype-calls-recording-methods-for-2024/"><u>Capture Every Detail Advanced Skype Calls Recording Methods for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-storage-demands-on-windows-os/"><u>Decoding the Storage Demands on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discreet-deletion-of-email-after-signing-in-windows/"><u>Discreet Deletion of Email After Signing In Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-restore-your-microsoft-store-registrations-win-11/"><u>Fix and Restore Your Microsoft Store Registrations (Win 11)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rhythms-companion-finding-premium-club-vids/"><u>In 2024, Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-directdraw-crashes-in-win11-a-step-by-step-guide/"><u>Solving DirectDraw Crashes in Win11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-the-endless-cycle-of-windows-ui-issues/"><u>Stop the Endless Cycle of Windows UI Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wrinkle-free-up-operator-installation/"><u>Windows Wrinkle? Free Up Operator Installation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Distorted to Dazzling: A Guide to Win11 Display Correction"
-date: 2024-09-27T23:18:10.291Z
-updated: 2024-10-03T16:49:44.388Z
+date: 2024-10-01T18:23:30.292Z
+updated: 2024-10-08T19:23:41.590Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
  Before trying out any major troubleshooting method, restart your system. Restarting your computer can fix common issues with services and background programs. Press**Alt + F4** and select the**Restart** option from the list. After the computer restarts, launch any program and check if the blurriness issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Tweak the Display Resolution and Scaling
 
  Lower screen resolution settings can make the screen element look grainy. However, low scaling settings on a high-resolution display can make matters even worse. So, you need to adjust these two display settings.
@@ -65,6 +58,13 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 4. Repeat this process for all text samples.
 5. Lastly, click on the**Finish** button to apply the new text rendering settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Change Application Graphics Preference
 
  If you experience blurriness with a specific app, you can adjust the graphics settings to solve the issue. It will drive more GPU power to the app and improve its visual appearance.
@@ -77,14 +77,15 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 4. Now, click on the**High Performance** radio button.  
 ![Change Application Graphics Preference in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-application-graphics-preference-in-windows-11.jpg)
 5. Lastly, click on the**Save** button to save the new graphics settings.
-6. Run the app and check if the screen element appears blurry or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Run the app and check if the screen element appears blurry or not.
 
 ### 5\. Switch to the Best Appearance Settings
 
@@ -99,10 +100,16 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 4. Finally, click on the**OK** button and exit the System Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Adjust App DPI Settings
@@ -119,6 +126,13 @@ Retrace the following steps to adjust the app DPI settings:
 ![Adjust App DPI Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjust-app-dpi-settings-in-windows-11.jpg)
 6. Lastly, click on the**OK** button and close the Properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Update Your Graphics Driver
 
  An outdated GPU driver can run into compatibility issues with programs. Updating the GPU drivers can resolve the issue. Here’s how to update the GPU drivers on your system:
@@ -128,15 +142,23 @@ Retrace the following steps to adjust the app DPI settings:
 3. Right-click on the GPU and select the**Update driver** option from the list.  
 ![Update the GPU Driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-the-gpu-driver-in-windows-11.jpg)
 4. Click on the**Search automatically for drivers** option and wait for the utility to download and install the latest GPU drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your system and run an app to check if the screen elements appear sharp or not.
 
  Device Manager isn't the best for finding new drivers, so if the above trick doesn't work out, check out[how to update AMD graphics cards](https://www.makeuseof.com/how-to-update-amd-graphics-card-drivers-windows/) or[how to update Nvidia graphics cards](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) , depending on your GPU's model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Roll Back the Latest Windows Update
@@ -151,13 +173,6 @@ Here’s how to roll back a recent Windows update:
 4. Scroll down and locate the most recent update installation.
 5. Then, click on the**Uninstall** button and follow the onscreen prompts to remove the update from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Use System Restore or Reset Your PC
 
  System Restore lets you roll back Windows to a previous state. If you encounter a screen blur issue after a recent program installation or update, you can use system restore to roll back to a state where things worked better. However, your system needs to have existing restore points saved to use this feature.
@@ -165,13 +180,6 @@ Here’s how to roll back a recent Windows update:
  If you don’t see any restore points available in the System Restore utility, then resetting Windows 11 is your last resort. Ensure that you back up all your data or use the in-place upgrade to keep all your files intact.
 
  You can check out how to do both of these in our guide on[how to factory reset Windows or use System Restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Blurry Windows 11 Blur Issue, Fixed
 
@@ -192,19 +200,20 @@ Here’s how to roll back a recent Windows update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-depth-steps-using-mobizen-for-smooth-screen-recording-for-2024/"><u>[New] In-Depth Steps Using Mobizen for Smooth Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>[Updated] Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[Updated] In 2024, No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-steps-to-confirm-video-compliance-before-tiktok-posting/"><u>[Updated] Steps to Confirm Video Compliance Before TikTok Posting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-vibes-photos-with-a-soundtrack-twist/"><u>2024 Approved Cinematic Vibes Photos with a Soundtrack Twist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultraview-app-functionality-survey/"><u>2024 Approved UltraView App Functionality Survey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-these-6-gpt-powered-tools-for-a-better-tech-experience/"><u>Avoid These 6 GPT-Powered Tools for a Better Tech Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-volume-transitions-keyframe-techniques-in-filmora-mac/"><u>In 2024, Mastering Volume Transitions Keyframe Techniques in Filmora (Mac)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-unresponsive-powershell-in-windows/"><u>Navigating Through Unresponsive PowerShell in Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-essentials-for-launching-a-youtube-success-story-for-2024/"><u>Top Essentials for Launching a YouTube Success Story for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-wow-voice-chat-heres-how-you-can-get-it-working-again/"><u>Trouble with WoW Voice Chat? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unauthorized-access-swiftly-severing-user-ties-in-windows-11/"><u>Unauthorized Access: Swiftly Severing User Ties in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-nvidia-cp-not-opening-quick-fixes-guide/"><u>Windows 11 Nvidia CP Not Opening: Quick Fixes Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-quick-epic-games-downloads-made-easy/"><u>Winning at Quick: Epic Games Downloads Made Easy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-data-safe-and-sound-top-pricing-of-clouds-for-2024/"><u>[New] Data Safe & Sound Top Pricing of Clouds for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fast-track-to-flawless-podcast-live-for-2024/"><u>[New] Fast Track to Flawless Podcast Live for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-selection-of-360-videography-tools/"><u>[New] Prime Selection of 360° Videography Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-verdict-on-your-next-step-with-youtube-mncs/"><u>[Updated] The Verdict on Your Next Step with YouTube MNCs</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/maiaabbyy-flexicapture-abbyy/"><u>高精度文字認識への道:株式会社MAIAが開発したABBYY FlexiCapture向け人工知能ラーニングソリューション - ABBYY最新情報</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-the-ideal-placement-for-onedrive-on-windows-11/"><u>Crafting the Ideal Placement for OneDrive on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-out-the-webp-savings-in-google-chrome-for-windows/"><u>Cutting Out the WebP Savings in Google Chrome for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fix-them-instantly-with-these-simple-steps/"><u>Fortnite Voice Communication Issues? Fix Them Instantly with These Simple Steps!</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-v29-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-sandbox-no-hypervisor-was-found-0xc0351000-error/"><u>How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-fixing-nvidia-cp-error-in-ws1110/"><u>Methodical Approach: Fixing Nvidia CP Error in WS11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-dxgi-error-messages-windows-1011/"><u>Navigating Through DXGI Error Messages (Windows 10/11)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stronger-defense-through-longer-passcodes-windows-11-and-11-tips/"><u>Stronger Defense Through Longer Passcodes: Windows 11 and 11 Tips</u></a></li>
 </ul></div>
 

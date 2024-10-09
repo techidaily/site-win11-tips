@@ -1,7 +1,7 @@
 ---
 title: Maximizing System Control via CMD
-date: 2024-10-02T18:16:01.123Z
-updated: 2024-10-03T18:32:44.338Z
+date: 2024-10-08T06:59:05.130Z
+updated: 2024-10-09T04:00:58.973Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Run Command Prompt Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Run-Command.jpg)
 3. This will open Command Prompt with administrative privileges. From here, you can enter any commands that you need to run.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
 
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
@@ -58,13 +65,21 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 2. Then select **Terminal (Admin)** from the menu that appears.  
 ![Run Command Prompt Via Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Via-Quick-Access-Menu.jpg)
 3. If you see a User Account Control message, click **Yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
@@ -78,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 4. Now right-click on Command Prompt and select **Run as administrator**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
@@ -99,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Open Command Prompt Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-Task-Manager.jpg)
 4. Click **OK** to launch the command prompt as an administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. How to Run Command Prompt as an Administrator Using the Control Panel
 
  Another way to run Command Prompt as an administrator is by using the Control Panel. You can do this by performing these steps:
@@ -117,17 +125,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
@@ -140,6 +141,20 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 4. Once you find the executable file, right-click on it and select **Run as administrator**.  
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
@@ -170,21 +185,7 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This way you will never have to worry about finding it again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. How to Run Command Prompt as an Administrator Using a Keyboard Shortcut
 
@@ -195,17 +196,18 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Create Command Prompt Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-command-prompt-shortcut.jpg)
 3. On the next screen, give a name to this shortcut and click **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Now right-click on the shortcut and select **Properties**.
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Make sure to check the **Run as administrator** box and click **OK**.
 8. Finally, click **Apply** \> **OK**, and your shortcut will be ready to use.
 
@@ -221,27 +223,6 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  Some commands, however, require administrator-level privileges to run properly. As such, here are some quick and easy ways to open Command Prompt as an administrator in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-boutonniere-bookmarks-casino-critique/"><u>[New] 2024 Approved BOUTONNIERE BOOKMARKS Casino Critique</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-flipbook-of-facebook-feeds/"><u>[New] Flipbook of Facebook Feeds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtubes-creative-commons-license-explained-simply/"><u>2024 Approved YouTube's Creative Commons License Explained Simply</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-legjobb-ip-cameras-and-their-complementary-free-software-for-seamless-streaming/"><u>Best Legjobb IP Cameras and Their Complementary Free Software for Seamless Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-income-with-movavis-rewarding-affiliate-network/"><u>Boost Your Income with Movavi's Rewarding Affiliate Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargue-y-convierte-archivos-ogv-a-formatos-wmv-sin-coste-alguno-con-movavi/"><u>Descargue Y Convierte Archivos OGV a Formatos WMV Sin Coste Alguno Con Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-smooth-printing-download-the-2024-version-of-hp-officejet-4500-driver-today/"><u>Ensure Smooth Printing: Download the 2024 Version of HP Officejet 4500 Driver Today!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-760-no-more-complicated-driver-changes/"><u>GTX 760: No More Complicated Driver Changes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your HTC U23 FRP Locks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>In 2024, Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing-for-2024/"><u>Is Aurora HDR a Step Forward in Quality Viewing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloses-online-umwandeln-von-ogg-in-ogv-mit-movavi-media-converter/"><u>Kostenloses Online-Umwandeln Von OGG in OGV Mit Movavi Media Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-guide-to-no-cost-wma-to-aiff-file-conversions-on-the-web/"><u>Movavi's Guide to No-Cost WMA to AIFF File Conversions on the Web</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nsvmp3-movavi/"><u>NSV到MP3無成本上線即可 - 以Movavi進行轉換方便多了</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scopri-i-primissimi-software-per-lettorieditor-pdf-una-lista-dei-migliori-6-alternative-per-i-tuoi-bisogni-digitali/"><u>Scopri I Primissimi Software per Lettori/Editor PDF: Una Lista Dei Migliori 6 Alternative Per I Tuoi Bisogni Digitali</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-z-fold-5-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy Z Fold 5 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-aiff-flac/"><u>무료 Movavi 사용자 지정: AIFF 파일에서 FLAC로 원형 바꾸기 온라인</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -249,3 +230,21 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unleash-creativity-with-customizable-animated-subscribers-on-youtube-filmora/"><u>[New] 2024 Approved Unleash Creativity with Customizable Animated Subscribers on YouTube (Filmora)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-compreomed-approach-for-making-tiktok-songs-your-ringtone-for-2024/"><u>[New] A Compreomed Approach for Making TikTok Songs Your Ringtone for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-maximize-your-podcast-earning-potential/"><u>[New] How to Maximize Your Podcast Earning Potential</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-advanced-editing-for-published-youtube-videos-for-2024/"><u>[Updated] Advanced Editing for Published YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-recovering-cortana-insights-on-pcs/"><u>A Guide to Recovering Cortana Insights on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-speech-converter-transcribe-talk-with-whisper-in-windows/"><u>Become a Speech Converter: Transcribe Talk with Whisper in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-edge-leveraging-chatgpts-capabilities/"><u>Creative Edge: Leveraging ChatGPT's Capabilities</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for 12 Pro+ 5G</u></a></li>
+</ul></div>
+

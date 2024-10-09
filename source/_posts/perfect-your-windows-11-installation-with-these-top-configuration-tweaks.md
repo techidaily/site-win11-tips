@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Windows 11 Installation with These Top Configuration Tweaks
-date: 2024-09-15T21:49:58.082Z
-updated: 2024-09-21T19:32:38.899Z
+date: 2024-10-05T17:27:57.268Z
+updated: 2024-10-08T16:04:07.328Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Up Nearby Sharing
 
 ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
@@ -54,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable Storage Sense to Manage Your Memory Better
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
@@ -62,22 +88,15 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Find My Device to Track Your PC
 
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out[how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
@@ -91,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
 ## 7\. Set Active Hours
@@ -111,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  If you used Windows 10 previously, you might already be familiar with Active hours. The feature is meant to give you more control over Windows updates.
 
 ![Active Hours](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-active-hours-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
@@ -135,7 +134,27 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 ![Dark Mode toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dark-mode-toggle-edit.jpg)
 4. In**Choose your mode** radio menu, select**Dark** .
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Are Better Off Enabling the Above Windows 11 Settings
 
@@ -154,5 +173,21 @@ Here is how you can enable Dark mode on your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfect-your-recording-a-comparison-guide-for-30-vs-60fps/"><u>[New] 2024 Approved Perfect Your Recording A Comparison Guide for 30 Vs. 60FPS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1717086805762-new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[New] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-sims-4-live-action-gaming-capture-essentials/"><u>[Updated] In 2024, Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-correcting-stuck-batch-files-on-windows/"><u>Comprehensively Correcting Stuck Batch Files on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-best-approach-for-managing-cc-rights-and-usage/"><u>In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c32-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C32 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-pc-video-cuts-with-inshot/"><u>In 2024, Streamlining PC Video Cuts with Inshot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 mini</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrives-blob-tag-issue-a-windows-based-solution-guide/"><u>OneDrive's Blob Tag Issue: A Windows-Based Solution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-pc-reset-virtual-memory/"><u>Optimize Your PC: Reset Virtual Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-windows-speaker-crackle-problems-windows-117-audio-tips-and-tricks/"><u>Ultimate Fix for Window's Speaker Crackle Problems - Windows 11/7 Audio Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-hidden-disk-space-with-windows-1011s-deletion-automation/"><u>Unlock Hidden Disk Space with Windows 10/11'S Deletion Automation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-earnings-go-up-with-500-subs/"><u>YouTube's Earnings Go Up With 500 Subs</u></a></li>
+</ul></div>
 

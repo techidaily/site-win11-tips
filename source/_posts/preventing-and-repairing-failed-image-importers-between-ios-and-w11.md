@@ -1,7 +1,7 @@
 ---
 title: Preventing and Repairing Failed Image Importers Between iOS & W11
-date: 2024-09-27T23:21:34.714Z
-updated: 2024-10-03T16:12:07.048Z
+date: 2024-10-02T04:31:53.056Z
+updated: 2024-10-09T06:59:24.005Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,21 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
 6. Choose some images to transfer and click the**Import** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Apple Mobile Device Service
@@ -60,16 +68,32 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Stop** to halt the service.  
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Hardware Acceleration in Photos
@@ -81,6 +105,14 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
@@ -94,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
@@ -108,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Close the OneDrive App
 
@@ -129,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
@@ -147,26 +158,13 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Import Images From Your iPhone on Windows Again
 
@@ -189,18 +187,20 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-integrating-technology-effective-school-vid-eds/"><u>[Updated] 2024 Approved Integrating Technology Effective School Vid Eds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-capturing-with-camstudio-complete/"><u>[Updated] 2024 Approved Mastering Capturing with CamStudio Complete</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-raw-to-ready-a-compreenass-guide-to-video-crop-on-instagram/"><u>[Updated] In 2024, From Raw to Ready A Compreenas's Guide to Video Crop on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-visual-language-warp-the-photographic-transformers-guide-for-2024/"><u>[Updated] Visual Language Warp The Photographic Transformer's Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12plus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12+ 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/could-meta-shatter-the-dominance-of-facebook-and-instagram-in-europe/"><u>Could Meta Shatter the Dominance of Facebook & Instagram in Europe?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-differences-a-comparative-look-at-local-and-microsoft-windows-logins/"><u>Delving Into Differences: A Comparative Look at Local & Microsoft Windows Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-way-past-windows-exe-opening-blocks/"><u>Ease Your Way Past Windows Exe Opening Blocks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/locate-and-rectify-hidden-storage-on-pc/"><u>Locate and Rectify Hidden Storage on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-cure-for-onedrives-0x8004dec5-sign-in-crisis-in-windows/"><u>Mastering the Cure for OneDrive's 0X8004DEC5 Sign In Crisis in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-crash-problem-for-dragon-age-origins-on-windows-11-a-step-by-step-guide/"><u>Solving the Crash Problem for Dragon Age: Origins on Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos-for-2024/"><u>The Complete Guide to Downloading, Setting up and Using OBS on macOS for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-unleash-creativity-with-free-text-visualizers-online-for-2024/"><u>Top Picks Unleash Creativity with Free Text Visualizers Online for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hannel-makeovers-made-easy-top-10-online-tools-for-artists-for-2024/"><u>[New] Channel Makeovers Made Easy - Top 10 Online Tools for Artists for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-olympic-freeze-frame-figure-skating-best-of-2022/"><u>[New] In 2024, Olympic Freeze-Frame Figure Skating Best of 2022</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-routines-to-pause-windows-and-office-software-updates/"><u>4 Routines to Pause Windows & Office Software Updates</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-content-id-alerts-strategies-on-youtube/"><u>Avoiding Content ID Alerts Strategies on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-right-video-coding-technique-for-win-os-users/"><u>Deciphering the Right Video Coding Technique for Win OS Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-terminal-restart-on-win11/"><u>Guiding Users Through Terminal Restart on Win11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-intels-nic-drivers-step-by-step-guide-for-quick-setup/"><u>Installing Intel's NIC Drivers: Step-by-Step Guide for Quick Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-steam-symbols-on-pc/"><u>Resetting Steam Symbols on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-your-online-storage-onedrive-and-microsoft-ids/"><u>Separate Your Online Storage: OneDrive & Microsoft IDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-procedure-for-gpu-detection-in-windows-11/"><u>Speedy Procedure for GPU Detection in Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-troubleshooting-tips-for-playing-mp4-movies-on-your-computer-or-laptop/"><u>Ultimate Troubleshooting Tips for Playing MP4 Movies on Your Computer or Laptop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/windows-videography-embrace-hdr-magic-for-2024/"><u>Windows Videography Embrace HDR Magic for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tips-to-safeguard-sticky-notes-on-pc/"><u>Winning Tips to Safeguard Sticky Notes on PC</u></a></li>
 </ul></div>
 

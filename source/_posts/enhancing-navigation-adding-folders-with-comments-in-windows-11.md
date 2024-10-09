@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Navigation: Adding Folders with Comments in Windows 11"
-date: 2024-09-26T19:29:37.246Z
-updated: 2024-10-03T19:04:29.021Z
+date: 2024-10-03T16:21:23.381Z
+updated: 2024-10-09T05:16:03.145Z
 tags:
   - windows10
   - windows11
@@ -46,16 +46,17 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 2. Select **Options** to bring up a window that includes folder settings.  
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
 3. Click **View** to access advanced Explorer settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Select **Apply** to save the new Explorer settings.
 2. Click the Folder Options window’s **OK** button.
@@ -64,20 +65,22 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 5. Click **Change Icon** to view an icon selection window.  
 ![The Change Icon button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-button.jpg)
 6. Choose a different icon for the folder and select **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Change Icon window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-window3.jpg)
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
@@ -92,28 +95,22 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
 5. Click Notepad’s **File** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
 7. Click Exit on Notepad’s **File** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Finally, restart the Windows Explorer process with a method in this guide to restarting File Explorer.
 
  Return to the directory that includes the folder to which you’ve just added a comment. You’ll see the custom comment for the folder in the **Comments** column. You can add comments to many more folders by changing their icons and editing the desktop.ini files in them. Note that you’ll also need to enable the **Comments** column for each directory.
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
 
@@ -123,24 +120,6 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-2019-evolution-of-vegaspro/"><u>[New] 2024 Approved The 2019 Evolution of VegasPro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-xiaomi-11-a-new-era-of-high-fidelity-video-recording-for-2024/"><u>[New] Xiaomi 11 A New Era of High Fidelity Video Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-every-moment-on-mac-free/"><u>[Updated] 2024 Approved Capture Every Moment on Mac, FREE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-every-angle-not-just-a-single-plane/"><u>[Updated] Capturing Every Angle, Not Just a Single Plane</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-photo-browser-with-lightning-speed-for-2024/"><u>[Updated] Top Photo Browser with Lightning Speed for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-voiceover-vitality-energizing-your-powerpoint-presentations-for-2024/"><u>[Updated] Voiceover Vitality Energizing Your PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-note-50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme Note 50 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-in-australie-verwijderen-van-au-naar-gg-webadres-kostenloos-bij-movavi/"><u>Gratuit Gebaseerd in Australië: Verwijderen Van .au Naar .gg Webadres - Kostenloos Bij Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lut-2024-7/"><u>LUT 색상 수정 기술: 2024년 가장 효과적인 7가지 프로그램 선보기</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4b-vers-naar-wav-online-convertereen-vrije-dienst-met-movavi/"><u>M4B Vers Naar WAV Online Convertereen - Vrije Dienst Met Movavi</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-professional-grade-hd-video-editors-our-top-5-for-2024/"><u>New Professional-Grade HD Video Editors Our Top 5 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-swf-file-transformation-no-cost-easy-steps-by-movavi/"><u>Online SWF File Transformation: No Cost, Easy Steps by Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixing-update-loop-problems/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixing Update Loop Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windowshoz-atlagos-kepernyokep-keszitesi-rendszer-movavi-17-edekot-legjobb-gyermeki-szemugyek-vedoi/"><u>Windowshoz: Átlagos Képernyőkép Készítési Rendszer Movavi, 17 Edeköt Legjobb Gyermeki Szemügyek Védői</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -148,3 +127,22 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[New] 2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-covert-story-consumption-5-must-try-apps/"><u>[New] In 2024, Covert Story Consumption 5 Must-Try Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-scripts-across-eight-film-categories/"><u>[New] Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-smooth-photo-and-video-flow-pc-to-iphone-upload/"><u>[Updated] 2024 Approved Smooth Photo & Video Flow PC-to-iPhone Upload</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-speakers-file-extract-and-analysis/"><u>[Updated] In 2024, Speaker's File Extract & Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-cool-folder-tips-youll-love-using-on-windows/"><u>5 Cool Folder Tips You'll Love Using on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-establish-java-development-kit-in-windows-11/"><u>A Complete Walkthrough to Establish Java Development Kit in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-disabling-chrome-tab-clones/"><u>A Step-by-Step Approach to Disabling Chrome Tab Clones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-hello-compatible-scanner-glitch/"><u>Addressing Windows Hello Compatible Scanner Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginner-friendly-guide-setting-up-the-jdk-on-windows-11/"><u>Beginner-Friendly Guide: Setting Up the JDK on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-mfc-l2740dw-driver-software-for-your-pc/"><u>Get the Latest Brother MFC-L2740DW Driver Software for Your PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/iphone-x-versus-iphone-7-an-in-depth-head-to-head-review/"><u>IPhone X versus iPhone 7: An In-Depth Head-to-Head Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
+</ul></div>
+

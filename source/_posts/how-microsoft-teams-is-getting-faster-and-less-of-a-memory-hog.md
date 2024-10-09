@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Teams Is Getting Faster and Less of a Memory Hog
-date: 2024-09-18T20:10:45.257Z
-updated: 2024-09-22T06:19:17.533Z
+date: 2024-10-06T17:09:45.832Z
+updated: 2024-10-09T00:39:44.729Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Features That Boost Collaboration and Productivity in Teams
 
  Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
@@ -45,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
@@ -66,10 +87,10 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -91,5 +112,20 @@ To set the Update policy and enable public preview:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigating-legal-aspects-of-recording-whatsapp-talks/"><u>[New] 2024 Approved Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams-for-2024/"><u>[Updated] Unlocking the Full Potential of Apple TV with FB Video Streams for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-advanced-photo-editing-canvas-backdrop-eradication/"><u>2024 Approved Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-manual-for-individualized-keybindings-in-win11/"><u>A Detailed Manual for Individualized Keybindings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-mouseclicklock-usability-on-windows-systems/"><u>Boosting MouseClickLock Usability on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-personalized-windows-11-interface-with-enlarged-icons/"><u>Crafting a Personalized Windows 11 Interface with Enlarged Icons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-evolution-of-ai-from-gpt-1-to-gpt-4-a-comprehensive-guide/"><u>Exploring the Evolution of AI: From GPT-1 to GPT-4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exquisite-innovations-in-desktop-tech-for-2024/"><u>Exquisite Innovations in Desktop Tech for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-product-activation-failed-error-on-microsoft-office-apps-for-windows/"><u>How to Fix the Product Activation Failed Error on Microsoft Office Apps for Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-time-rewind-mastery-in-media-refreshes/"><u>In 2024, YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora/"><u>Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-mechanism-behind-windows-sound-graph-isolation/"><u>The Mechanism Behind Windows Sound Graph Isolation</u></a></li>
+</ul></div>
 

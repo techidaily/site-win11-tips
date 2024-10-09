@@ -1,7 +1,7 @@
 ---
 title: Enhancing Taskbar Functionality with New Contextual Folders
-date: 2024-10-01T01:23:43.966Z
-updated: 2024-10-04T01:25:26.467Z
+date: 2024-10-03T22:39:01.932Z
+updated: 2024-10-09T01:04:49.340Z
 tags:
   - windows10
   - windows11
@@ -59,14 +59,14 @@ Once your PC has restarted:
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
- To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -97,13 +97,6 @@ Once your PC has restarted:
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -113,10 +106,10 @@ Once your PC has restarted:
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
@@ -129,15 +122,22 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -159,18 +159,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-capture-your-best-moments-top-8-mirrorless-cameras-for-you/"><u>[New] 2024 Approved Capture Your Best Moments Top 8 Mirrorless Cameras For You</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-blueprint-for-channel-empowerment-via-studio-mastery/"><u>2024 Approved The Blueprint for Channel Empowerment via Studio Mastery</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>2024 Approved The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correct-camera-omission-from-windows-dm-display/"><u>Correct Camera Omission From Windows' DM Display</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-compelling-thumbnails-to-captivate-youtube-viewers-and-encourage-clicks/"><u>Crafting Compelling Thumbnails to Captivate YouTube Viewers and Encourage Clicks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-fixing-windows-error-code-0xc00000f-instantly/"><u>Guidelines to Fixing Windows Error Code 0Xc00000f Instantly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6s-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6s Plus</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-consistent-viewing-automatic-youtube-video-playback-on-tv/"><u>In 2024, Consistent Viewing Automatic YouTube Video Playback on TV</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-virtualbox-usb-connection-issue-on-windows-devices/"><u>Overcoming VirtualBox USB Connection Issue on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-managing-win11-applications-via-winget/"><u>The Complete Guide to Managing Win11 Applications via Winget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-intel-unison-for-windows-11-calling/"><u>The Ultimate Guide to Intel Unison for Windows 11 Calling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tech-marvels-top-picks-for-everyone-for-2024/"><u>Ultimate Tech Marvels Top Picks for Everyone for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps/"><u>[New] 2024 Approved The Race for Screen Capture Excellence Who's Leading? – OBS or Fraps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-hangout-history-top-4-strategies/"><u>[Updated] In 2024, Hangout History Top 4 Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-supreme-writing-talents-through-genre-lenses-for-2024/"><u>[Updated] Supreme Writing Talents Through Genre Lenses for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-creative-commons-key-to-video-content-sharing/"><u>2024 Approved YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-simple-steps-for-overcoming-windows-onedrive-glitches/"><u>5 Simple Steps for Overcoming Windows OneDrive Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-non-successful-updates-in-windows-discord/"><u>Dealing with Non-Successful Updates in Windows Discord</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-potential-of-new-chip-architecture-with-amds-zen-5-compact-cores-slashed-by-a-quarter-in-size-alongside-fresh-soc-solutions-featuring-double-cc74/"><u>Discover the Potential of New Chip Architecture with AMD's Zen 5 - Compact Cores Slashed by a Quarter in Size, Alongside Fresh SoC Solutions Featuring Double CCX Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluating-the-need-for-maintaining-pagefilesys-filespace/"><u>Evaluating the Need for Maintaining Pagefile.sys Filespace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-0x0000004e-in-windows-a-quick-guide/"><u>Fixing Error 0X0000004E in Windows: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-speed-up-epic-games-launcher-downloads-on-windows/"><u>How to Speed Up Epic Games Launcher Downloads on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-proplus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c110-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C110 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-find-feature-in-windows-11-taskbar-activation-guide/"><u>Instant Find Feature in Windows 11 Taskbar – Activation Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-work-with-microsoft-word-at-no-charge-heres-what-you-need-to-know/"><u>Is It Possible to Work with Microsoft Word at No Charge? Here's What You Need to Know!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recognizing-unseen-sd-card-fix-for-windows-explorer/"><u>Recognizing Unseen SD Card: Fix for Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-captioning-hurdles-on-windows-10-devices/"><u>Solving Common Captioning Hurdles on Windows 10 Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/athway-to-youtube-prosperity-a-comprehensive-guide-for-2024/"><u>The Pathway to YouTube Prosperity - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-your-onedrive-to-a-desired-spot-on-win10/"><u>Transitioning Your OneDrive to a Desired Spot on Win10</u></a></li>
 </ul></div>
 

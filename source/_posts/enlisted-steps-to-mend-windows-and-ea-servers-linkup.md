@@ -1,7 +1,7 @@
 ---
 title: Enlisted Steps to Mend Windows and EA Servers Linkup
-date: 2024-09-19T19:45:56.987Z
-updated: 2024-09-21T20:20:48.542Z
+date: 2024-10-02T02:39:58.243Z
+updated: 2024-10-09T07:14:29.945Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
 ![Check the Server Status of FIFA 23 for All Gaming Platforms on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-server-status-of-fifa-23-for-all-platforms-on-ea-website-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  Your device needs to be connected to a reliable internet connection to connect to EA servers successfully. Before investigating the issue further, check whether the internet is even connected.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
  If it is, check the stability of your internet connection. Try any of the[best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there is a huge difference between the speed test results versus what you "should" get, your connection is probably unstable. In that case, take these steps (if applicable):
 
@@ -58,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
  Afterward, repeat the internet speed test. If the connection remains unstable, there is something wrong with it. Therefore, you should notify your ISP or temporarily switch to a different internet connection.
 
  However, if your device is connected to the internet and the connection is stable, it's time to try other things.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Account Hasn't Been Banned
 
@@ -88,16 +109,16 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
  If none of the above checks resolves the problem, it's time for some Windows-based fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform Some Generic Windows-Based Networking Fixes
 
  Now that we know your internet is fine and your EA account is in good standing, it's time to try some Windows-based fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Change Your DNS
 
@@ -112,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
 
  If things don't look right, check out[how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Connected to EA's Servers Again
 
@@ -139,5 +153,26 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ethical-approaches-to-extract-mp4-from-youtube/"><u>[New] 2024 Approved Ethical Approaches to Extract MP4 From YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-android-sound-logging-without-rooting-need/"><u>[Updated] Android Sound Logging - Without Rooting Need</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-virtual-racing-for-cyclists-for-2024/"><u>[Updated] Best Virtual Racing for Cyclists for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-detailed-review-the-ultimate-5-low-frame-rate-gear/"><u>[Updated] Detailed Review The Ultimate 5 Low Frame Rate Gear</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-selecting-the-best-ten-spotify-recording-software/"><u>[Updated] In 2024, Selecting the Best Ten Spotify Recording Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pugilism-vs-players-battle-for-supremacy/"><u>[Updated] Pugilism vs Players Battle for Supremacy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-utorrent-installation-issues-on-windows-based-laptopstablets/"><u>Handling uTorrent Installation Issues on Windows-Based Laptops/Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-well-need-your-current-windows-password-error-on-windows-10-and-11/"><u>How to Fix the “We’ll Need Your Current Windows Password” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-examination-of-simple-hdr-methods/"><u>In 2024, A Comprehensive Examination of Simple HDR Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-permanent-delete-configuring-windows-trash-bin/"><u>Mastering Permanent Delete: Configuring Windows Trash Bin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-dont-obstruct-one-antivirus-is-enough-in-windows/"><u>Protect, Don’t Obstruct: One Antivirus Is Enough in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-access-to-elusive-5ghz-network-on-windows-11-with-these-tips/"><u>Regain Access to Elusive 5GHz Network on Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/slideshow-creation-software-movavi-free-download/"><u>Slideshow Creation Software Movavi - FREE Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-zero-error-absence-of-hypervisor-on-sandbox/"><u>Solutions for Zero Error - Absence of Hypervisor on Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unsyncd-sticky-notes-in-win11/"><u>Tackling Unsync'd Sticky Notes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-list-for-11-windows-11-problems/"><u>The Ultimate Fix-List for 11 Windows 11 Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-evolution-four-alternatives-to-cortana/"><u>Windows Aid Evolution, Four Alternatives to Cortana</u></a></li>
+</ul></div>
 

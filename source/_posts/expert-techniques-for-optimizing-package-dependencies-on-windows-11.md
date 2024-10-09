@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques for Optimizing Package Dependencies on Windows 11
-date: 2024-09-15T03:56:36.439Z
-updated: 2024-09-22T00:29:49.361Z
+date: 2024-10-08T06:59:46.527Z
+updated: 2024-10-08T17:08:39.660Z
 tags:
   - windows10
   - windows11
@@ -77,10 +77,10 @@ Some examples of popular package managers include:
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Install Winget Through PowerShell
@@ -91,6 +91,13 @@ Some examples of popular package managers include:
 2. In the command line, paste the below command and press**Enter**  
 `Invoke-WebRequest -Uri https://aka.ms/winget -OutFile winget.zip; Expand-Archive winget.zip -DestinationPath $Env:ProgramFiles\WindowsPowerShell\Modules\`
 3. Once the installation is completed, type the following command and press**Enter** to verify your installation.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Winget on Windows 11
 
@@ -110,6 +117,13 @@ To download an application using winget, use the following command:
 
 ![winget search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, to search for zipping programs, you can type:
 
 `winget search zip`
@@ -122,22 +136,15 @@ For example, to search for zipping programs, you can type:
 
 `winget list`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. How to View Application Details
 
 ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To look into the installation details and software version of a specific app, you can use the following command:
@@ -145,10 +152,10 @@ For example, to search for zipping programs, you can type:
 `winget show <APP_NAME>`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Package Managers Worth the Hassle on Windows?
@@ -168,5 +175,24 @@ For example, to search for zipping programs, you can type:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-jotunheim-raid-the-war-of-the-worlds-for-2024/"><u>[New] Jotunheim Raid The War of the Worlds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-qanda-guide-for-attractive-podcasts/"><u>[New] Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-playback-speed/"><u>[Updated] Boosting Vimeo Playback Speed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-efficient-image-hopping-android-to-iphone-process/"><u>[Updated] In 2024, Efficient Image Hopping Android to iPhone Process</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/movmovavivob/"><u>簡單指南：在家中無需支付，利用MOV與Movavi進行VOB格式轉換</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-format-changers-from-dvd-and-avi-to-mp4-on-windows-11-2024-rankings/"><u>Best Video Format Changers From DVD & AVI to MP4 on Windows 11 (2024 Rankings)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-oculus-setup-issues-windows-11-and-10-solutions/"><u>Combat Oculus Setup Issues: Windows 11 & 10 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-directory-capacity-assessment-via-windows-powershell/"><u>Demystifying Directory Capacity Assessment via Windows PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-your-windows-11-administrative-credentials/"><u>Efficiently Manage Your Windows 11 Administrative Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unbootable-windows-vms-via-vmware-in-win11/"><u>Eliminating Unbootable Windows VMs via VMware in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-editing-the-windows-registry-via-terminal/"><u>Essential Tips for Editing the Windows Registry via Terminal</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme V30 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-controller-reviving-it-from-steams-oblivion/"><u>Master the Controller: Reviving It From Steam's Oblivion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-a-lasting-deletion-toolbar-on-windows-systems/"><u>Personalizing a Lasting Deletion Toolbar on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-malfunction-troubleshooting-and-fixes/"><u>Razer Kraken Microphone Malfunction: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-creation-ten-advances-by-ai/"><u>Revolutionizing Creation: Ten Advances by AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-file-access-fixing-onedrive-glitches/"><u>Uninterrupted File Access: Fixing OneDrive Glitches</u></a></li>
+</ul></div>
 

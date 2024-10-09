@@ -1,7 +1,7 @@
 ---
 title: "Slash Clutter: A Fast Way to Remove Bloatware in Win11"
-date: 2024-09-16T06:56:14.589Z
-updated: 2024-09-21T16:17:12.512Z
+date: 2024-10-08T06:53:28.651Z
+updated: 2024-10-08T16:15:13.289Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Uninstall Bloatware Using Windows 11 Settings
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 2. In the sidebar, click **Apps,** then choose **Installed apps**.  
 ![Windows 11 Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-menu.jpg)
 3. Under the **Installed apps** window, find the app you want to remove.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
@@ -88,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remove Bloatware Using Win11Debloat
 
  Manually choosing and uninstalling bloatware is easy for those familiar with such apps. However, if you’re unsure which apps to remove or want to automate removing bloatware, the Win11Debloat app will help you:
@@ -112,6 +98,19 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try a Clean Install of Windows 11
 
  If your computer has a particularly bad case of bloatware and you think Win11Debloat won’t work, a Windows 11 clean install will remove most unwanted apps. This is especially true if your computer comes with a ton of third-party apps that your PC’s manufacturer added from the factory.
@@ -125,32 +124,53 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
 3. Click on **Reset PC**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
 7. If you have any unwanted apps installed on other drives, ensure that the slider under **Delete files from all drives?** is set to **Yes, all drives**. Be careful though, as this will erase all drives connected to your PC. Don't accidentally erase external drives where you store pictures and the like!  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
 8. Once you’ve confirmed this setting, hit **Next**.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you click the reset button, your computer will execute a Windows 11 clean install. This will remove most third-party bloatware, although you’ll still need to remove unwanted Windows apps manually. Alternatively, you can [cleanly install Windows 11 from an ISO](https://www.makeuseof.com/how-to-clean-install-windows-11/) file to ensure a truly fresh installation.
 
@@ -164,5 +184,21 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-blurface-secrets-clean-up-your-photos-quickly/"><u>[New] Blurface Secrets Clean Up Your Photos Quickly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>[Updated] Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-harmonized-technology-judgments-by-experts/"><u>[Updated] In 2024, Harmonized Technology Judgments by Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-5-tools-for-viewing-insta-stories-unseen/"><u>[Updated] Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-fixes-for-no-server-found-on-apex-legends-tips-and-tricks-(156-chars/"><u>8 Fixes for 'No Server Found' On Apex Legends: Tips and Tricks (<156 Chars)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-note-30-vip-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Note 30 VIP FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-powertoys-for-faster-copy-pasting/"><u>Dive Into PowerToys for Faster Copy-Pasting</u></a></li>
+<li><a href="https://solve-news.techidaily.com/essential-insights-into-advanced-4k-hevc-video-compression/"><u>Essential Insights Into Advanced 4K HEVC Video Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-marketplace-fails-error-0x80073cf3/"><u>Guiding Through Windows Marketplace Fails (Error 0X80073CF3)</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-11-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-streamlining-with-new-folder-placement/"><u>Step-by-Step Guide to Streamlining with New Folder Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-live-service-disruptions-on-pcs/"><u>Troubleshooting Xbox Live Service Disruptions on PCs</u></a></li>
+</ul></div>
 

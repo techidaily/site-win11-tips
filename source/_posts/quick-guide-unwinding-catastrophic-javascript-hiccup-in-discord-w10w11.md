@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Unwinding Catastrophic Javascript Hiccup in Discord W10/W11"
-date: 2024-09-26T21:52:41.554Z
-updated: 2024-10-03T18:32:20.797Z
+date: 2024-10-03T21:36:03.670Z
+updated: 2024-10-08T22:40:25.936Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 7. Choose a**Discord** version.
 8. Click**Uninstall** to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Delete Discord’s Data Folders
 
  The fatal Javascript error often arises because of corrupted Discord cache data. Fortunately, erasing a couple of Discord data folders will clear out any corruption.
@@ -69,21 +62,7 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -101,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Any Third-Party Antivirus Tools
 
  Conflicting third-party antivirus tools can also cause the fatal Javascript error by blocking some of Discord’s files. Avast Antivirus is one such utility known to conflict with Discord. If you’ve got that third-party software installed or another alternative, try disabling its shield before attempting to start (or install) Discord.
@@ -115,14 +101,28 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -139,25 +139,33 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 6. Press the service’s**Start** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
@@ -179,19 +187,19 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-digital-decoder-masterful-online-tv-recording-methods/"><u>[Updated] 2024 Approved Digital Decoder Masterful Online TV Recording Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disabled-pin-deletion-option-in-windows-11-settings/"><u>Fixing Disabled PIN Deletion Option in Windows 11 Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-pen-tabs-picking-best-from-a-sea-of-options/"><u>Ideal Pen Tabs: Picking Best From a Sea of Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-capture-motion-blur-photos-with-iphone/"><u>In 2024, How to Capture Motion Blur Photos with iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>New In 2024, Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-samsung-galaxy-a15-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Samsung Galaxy A15 5G has been deleted.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-hello-authentication-failure/"><u>Resolving Windows Hello Authentication Failure</u></a></li>
-<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-services-for-mac-thoroughly-tested-and-comprehensive-reviews-zdnet/"><u>Top-Rated VPN Services for Mac: Thoroughly Tested & Comprehensive Reviews | ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/uncovering-hidden-wellsprings-of-free-graphic-designs-for-2024/"><u>Uncovering Hidden Wellsprings of Free Graphic Designs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-swift-speed-mastering-steam-on-windows-systems/"><u>Unlocking Swift Speed: Mastering Steam on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-sticky-note-functionality/"><u>Unveiling Windows 11'S Sticky Note Functionality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fresh-topics-to-cover-in-your-vlogs/"><u>[New] 2024 Approved Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-expertise-within-polarrs-photography-suite/"><u>[New] Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-10-tips-to-make-your-youtube-shorts-channels-stand-out-for-2024/"><u>[Updated] 10 Tips to Make Your YouTube Shorts Channels Stand Out for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>[Updated] Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-minecraft-shapes-magic-creating-perfect-circles-spheres/"><u>[Updated] In 2024, Minecraft Shapes Magic Creating Perfect Circles, Spheres</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/constructing-home-made-vr-headgear-with-google-cards/"><u>Constructing Home-Made VR Headgear with Google Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-visual-impact-a-guide-to-jump-cut-techniques/"><u>In 2024, Enhancing Visual Impact A Guide to Jump Cut Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-prioritize-disk-format-in-windows-errors/"><u>Resolving Prioritize Disk Format in Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-google-drives-synced-files-with-7-key-steps/"><u>Reviving Google Drive's Synced Files with 7 Key Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-combat-gaming-induced-laptop-overheating/"><u>Steps to Combat Gaming-Induced Laptop Overheating</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-lost-reddit-content-instant-access-techniques/"><u>Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
 </ul></div>
 

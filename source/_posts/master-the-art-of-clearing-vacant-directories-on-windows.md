@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Clearing Vacant Directories on Windows
-date: 2024-09-26T17:01:30.146Z
-updated: 2024-10-04T00:46:53.341Z
+date: 2024-10-07T03:12:43.914Z
+updated: 2024-10-08T18:22:12.826Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 2. Type**"Windows PowerShell"** into Windows Search, right-click on the**Windows PowerShell** app, then click**Run as administrator** .  
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -60,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![Deleting the Empty Folders by Running the Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-deleting-the-empty-folders-by-running-the-command-in-windows-powershell-app.jpg)
 6. Hit**Enter** and the empty subfolders will be automatically deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's a catch, though. If you delete the empty subfolder in a folder that previously contained only that empty subfolder, the main folder also becomes empty. If you delete that empty folder by executing the command a second time, perhaps another parent folder in the tree may also become empty.
 
  To prevent this issue, run the above command three to four times until the command that finds the empty folders does not reveal any remaining empty subfolders in PowerShell.
@@ -74,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
  Similarly, you can use the above method to find empty folders on crowded drives and delete them. However, this method is limited because it doesn't allow you to delete some empty folders, leaving others intact selectively.
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
@@ -89,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![Checking the Boxes for Drives or Folders to Scan in the Empty Folder Cleaner Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/8-checking-the-boxes-for-drives-or-folders-to-scan-in-the-empty-folder-cleaner-software-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. When you have selected the drives and folders you want to scan for empty folders, click on the**Scan** button in the top-left corner.  
@@ -103,24 +111,17 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![Checking the Boxes for All Empty Files and Folders by Clicking on Select All Button in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/10-checking-the-boxes-for-all-empty-files-and-folders-by-clicking-on-select-all-button-in-empty-folder-cleaner-software.jpg)
 5. In the top-left corner, right next to**Scan** , click**Delete Empty Folders** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Once the warning pop-up appears, select**Yes** to delete all empty folders successfully.  
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
 
- There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
 
 ## Don't Let Empty Folders Clog Up Your Device's Organization
 
@@ -143,17 +144,24 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>[New] 2024 Approved Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-financial-scale-one-million-youtube-viewers-pay/"><u>[New] In 2024, The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-tips-to-sharpen-video-calls-with-zoom-in-teams/"><u>[Updated] 2024 Approved Expert Tips to Sharpen Video Calls with ZOOM in Teams</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>[Updated] 2024 Approved Trending Tweets Triumph Identifying Today's Highest-Viewed Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-100-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/correction-of-inaccessible-device-path-issue-in-win/"><u>Correction of Inaccessible Device Path Issue in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-dot-designers-8-stick-to-your-screen-app-reviews/"><u>Desktop Dot Designers: 8 Stick-to-Your-Screen App Reviews</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-social-media-presence-with-these-5-igtv-tips-for-2024/"><u>Elevate Your Social Media Presence with These 5 IGTV Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-issues-top-8-strategies/"><u>Navigating Windows Issues: Top 8 Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-engineering-failed-vm-start-on-pc/"><u>Reverse-Engineering Failed VM Start on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-stalled-or-non-functional-desktop-menus/"><u>Solutions for Stalled or Non-Functional Desktop Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-wi-fi-connectivity-issues-in-minecraft-pc/"><u>Solving Wi-Fi Connectivity Issues in Minecraft, PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-searchingforsmartercameraspost-mycam/"><u>[New] SearchingForSmarterCamerasPost-MyCam</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamlined-webp-to-jpg-conversion-methods/"><u>[Updated] Streamlined WebP to JPG Conversion Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-rendering-cutting-down-lag-time/"><u>Enhancing Real-Time Rendering: Cutting Down Lag Time</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-unexpected-depths-of-yokus-island-express-an-enchanting-journey-revealed/"><u>Exploring the Unexpected Depths of Yoku's Island Express – An Enchanting Journey Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-loading-device-drivers-on-windows-11/"><u>Fixing Non-Loading Device Drivers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solidify-the-save-feature-on-nvidias-windows-control-center/"><u>How to Solidify the Save Feature on NVidia's Windows Control Center</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-t2x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo T2x 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-play-8t-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Play 8T</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-pova-5-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Pova 5 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>In 2024, Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-video-drivers-errors/"><u>Mastering the Art of Fixing Video Drivers Errors</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-computers-top-8-windows-tricks/"><u>Reinvigorating Computers: Top 8 Windows Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-webp-to-jpegpng-conversion-with-dall-e-3/"><u>Simplifying WebP to JPEG/PNG Conversion with DALL-E 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-windows-11-default-applications/"><u>Step-by-Step: Changing Windows 11 Default Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unnoticed-slowdown-agents-innocent-looking-apps-for-windows-11/"><u>Unnoticed Slowdown Agents: Innocent-Looking Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
 </ul></div>
 

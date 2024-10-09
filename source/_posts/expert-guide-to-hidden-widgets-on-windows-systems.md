@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Hidden Widgets on Windows Systems
-date: 2024-09-30T19:52:51.802Z
-updated: 2024-10-04T00:32:56.411Z
+date: 2024-10-01T17:50:51.380Z
+updated: 2024-10-08T20:57:55.537Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Click on the **Apply** button.
@@ -86,17 +86,17 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -105,23 +105,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-empower-your-filmmaking-skills-using-phone-cameras-for-recording/"><u>[New] In 2024, Empower Your Filmmaking Skills Using Phone Cameras for Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-streamlined-process-adding-youtube-videos-into-slate-decks/"><u>[New] In 2024, Streamlined Process Adding YouTube Videos Into Slate Decks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[Updated] Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premier-tools-upload-and-convert-vids-for-tweeting-for-2024/"><u>[Updated] Premier Tools Upload & Convert Vids for Tweeting for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyward-savings-affordable-drones-below-a-hundred/"><u>2024 Approved Skyward Savings Affordable Drones Below a Hundred$</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222742531-movaviwavogg/"><u>線上免費Movavi音效格式轉換：如何由wav改為ogg</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-tu-fotografia-de-alta-calidad-sin-costo-convertir-raw-a-tiff-en-linea-mediante-imagemaster-pro/"><u>Cambia Tu Fotografía De Alta Calidad Sin Costo: Convertir RAW a TIFF en Línea Mediante ImageMaster Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-convert-nsv-video-format-to-mpeg-free-with-movavis-web-tools/"><u>How to Convert NSV Video Format to MPEG FREE with Movavi's Web Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimizing-fade-infade-out-routines/"><u>Optimizing Fade-In/Fade-Out Routines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-webm-to-gif-converter-for-free-at-movavis-web-service/"><u>Quick & Easy Webm to Gif Converter for FREE at Movavi's Web Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-simple-guide-to-downloading-mp3s-from-your-videos-gratis/"><u>Quick and Simple Guide to Downloading MP3s From Your Videos, Gratis!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-wmv-a-la-norme-vob-sur-internet-avec-movavi/"><u>Transformation Gratuite De Fichiers WMV À La Norme VOB Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-full-media-potential-with-funimate-tools-for-2024/"><u>Unlock Full Media Potential with Funimate Tools for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +112,23 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-invisible-recorder-how-to-save-online-music-streams/"><u>[New] In 2024, The Invisible Recorder How to Save Online Music Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>[New] Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-gaming-potential-top-30-strategies-to-increase-video-popularity/"><u>[New] Unleash Gaming Potential Top 30 Strategies to Increase Video Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719333011753-4-proven-strategies-for-enhancing-window-shot-taking-on-windows-os/"><u>4 Proven Strategies for Enhancing Window Shot Taking on Windows OS.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-hibernate-mode-not-working-on-windows/"><u>4 Ways to Fix Hibernate Mode Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-remedies-for-vmware-stop-at-boot-on-windows-11/"><u>8 Remedies for VMware Stop at Boot on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-using-dism-on-win11-systems/"><u>A Comprehensive Guide to Using Dism on Win11 Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/access-unrestricted-hd-movies-with-our-top-torrent-player-download-cost-free/"><u>Access Unrestricted HD Movies with Our Top Torrent Player Download (Cost Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-delays-when-integrating-an-additional-screen-to-windows/"><u>Avoiding Delays When Integrating an Additional Screen to Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-winerror-740-easy-to-follow-tips-for-windows-users/"><u>Avoiding WinError 740: Easy-to-Follow Tips for Windows Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/interactive-vs-passive-content-consumption-twitch-vs-youtube-for-2024/"><u>Interactive vs Passive Content Consumption Twitch Vs YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-landscapes-with-authority-through-toms-evaluations/"><u>Navigating Tech Landscapes with Authority Through Tom's Evaluations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-for-your-purchase-a-checklist-of-5-crucial-points-about-smartwatches/"><u>Preparing for Your Purchase: A Checklist of 5 Crucial Points About Smartwatches</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-inner-cartoon-best-mobile-apps-for-photo-transformation-for-2024/"><u>Unleash Your Inner Cartoon Best Mobile Apps for Photo Transformation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-ultra-fast-gaming-a-guide-to-hitting-120-fps-on-the-ps5/"><u>Unlocking Ultra-Fast Gaming: A Guide to Hitting 120 FPS on the PS5</u></a></li>
+</ul></div>
+

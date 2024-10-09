@@ -1,7 +1,7 @@
 ---
 title: "Understanding User Discontent: Insights on Windows 11"
-date: 2024-10-02T22:50:42.118Z
-updated: 2024-10-03T16:46:00.799Z
+date: 2024-10-05T05:23:28.569Z
+updated: 2024-10-09T05:39:03.447Z
 tags:
   - windows10
   - windows11
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process
 
 ![windows 11 login problems](https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You get a lot of benefits if you use Microsoft Account with your Windows 11 PC. Microsoft recommends a Microsoft account to make the most of Windows 11, though it's not mandatory to use it over a local account.
 
@@ -50,32 +50,51 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  Many users feel that Microsoft should bring back the old system where a Microsoft account was not mandatory during the setup process.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Windows 11 Does Not Offer Significant Benefits Over Windows 10 for Many
 
  For Many people, Windows 11 is worth the upgrade because of its plethora of new features, design changes, and improvements. But for many people, the changes are not practical and are something they will never use. Also, Windows 10 gives users a sense of familiarity because they have been using it for a long time.
 
 ![A Windows 11 laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-windows-11-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are[the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
 
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Changing Default Apps Is Too Hard
 
 ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft came under fierce criticism for making it harder to change default apps. In Windows 10, you have a Default apps interface on the Settings page for configuring default apps for email, music, photo viewing, web browser, and more. All it requires is a couple of clicks to change the default apps in Windows 10.
@@ -89,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
  Users have also raised complaints about the limited functionality of the Windows 11 taskbar. It is currently missing popular features like the "never combine" option, which shows a more informative taskbar button. Windows 11 users have also criticized Microsoft for not allowing the taskbar to move to the sides or the top of the screen. Users want both these taskbar functionalities back in Windows 11\. Beyond these two, there are other[ways Microsoft can improve the Windows 11 taskbar](https://www.makeuseof.com/microsoft-improve-windows-11-taskbar/) .
 
  In what could be a relief to many Windows 11 users, Microsoft is working on adding the never combine app icons option to the OS. Twitter user Albacore spotted the capability in Windows 11 Insider builds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 11 Has Flaws, but Every Other OS Has Them Too
 
@@ -118,18 +130,24 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/est-10-youtube-volume-boosters-for-windows-macos-android-and-iphone-for-2024/"><u>[New] Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-construct-chuckles-adobe-meme-creation/"><u>[Updated] Construct Chuckles Adobe Meme Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-customized-obs-guide-for-budget-builds/"><u>[Updated] In 2024, Customized OBS Guide for Budget Builds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-essentials-and-competitive-analyses-for-2024/"><u>[Updated] Screen Recording Essentials and Competitive Analyses for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-zero-to-art-starting-up-ms-paint-in-win11/"><u>From Zero to Art: Starting up MS Paint in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-repair-windows-11-assistance-tool/"><u>Guide to Repair Windows 11 Assistance Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-your-digital-environment-windows-11-default-actions/"><u>Guide to Tweaking Your Digital Environment: Windows 11 Default Actions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-your-pcs-aware-elements-during-sleep/"><u>Guiding Your PC's Aware Elements During Sleep</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-facebooks-video-evolution/"><u>In 2024, Navigating Facebook’s Video Evolution</u></a></li>
-<li><a href="https://facebook.techidaily.com/modify-contact-settings-in-facebook-account/"><u>Modify Contact Settings in Facebook Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-login-req-issue-in-windows-11/"><u>Overcoming Windows Login Req Issue in Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unique-identity-on-snapchat-inspiration-from-more-than-120-private-snap-ideas/"><u>Unique Identity on Snapchat Inspiration From More Than 120 Private Snap Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-hardware-problem-detectors-in-windows/"><u>Unraveling Hardware Problem Detectors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-media-screening-an-insightful-critique/"><u>Digital Media Screening - An Insightful Critique</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-10-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientes-video-rendering-mit-adobe-after-effects-professionelle-tipps-zur-exportierung/"><u>Effizientes Vidéo-Rendering Mit Adobe After Effects - Professionelle Tipps Zur Exportierung</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-guide-transforming-mkv-files-into-mp3-with-ease-using-the-movavi-tool/"><u>Free Online Guide: Transforming MKV Files Into MP3 with Ease - Using the Movavi Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancing-powered-by-ai-6-ways-to-master-chatgpt-tools/"><u>Freelancing Powered by AI: 6 Ways to Master ChatGPT Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a54-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A54 5G Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-picpinch-a-study-of-micro-recording-tools/"><u>In 2024, PicPinch A Study of Micro-Recording Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tap-out-of-high-contrast-in-windows-environment/"><u>Tap Out of High Contrast in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-permanent-file-disposal-via-custom-trash-bin-setup/"><u>Windows 10/11: Permanent File Disposal via Custom Trash Bin Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-print-bridge-trouble-shooting-guide/"><u>Windows Print Bridge: Trouble Shooting Guide</u></a></li>
 </ul></div>
 

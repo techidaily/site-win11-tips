@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Window Experience: Integrate Additional Menus"
-date: 2024-09-28T18:40:22.124Z
-updated: 2024-10-04T01:14:07.228Z
+date: 2024-10-01T22:39:38.080Z
+updated: 2024-10-08T19:34:34.342Z
 tags:
   - windows10
   - windows11
@@ -60,16 +60,10 @@ Now it's time to get SyMenu up and running:
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
@@ -77,16 +71,10 @@ Now it's time to get SyMenu up and running:
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
@@ -123,31 +111,31 @@ Now it's time to get SyMenu up and running:
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
@@ -159,25 +147,25 @@ Now it's time to get SyMenu up and running:
 
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -198,18 +186,17 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-list-lovers-handbook-for-crafting-youtube-music-selections/"><u>[New] The Ultimate List Lover's Handbook for Crafting YouTube Music Selections</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-beginners-guide-to-best-entry-level-cams-2024/"><u>[Updated] Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-power-of-podcasts-15-tips-for-multitasking-and-growth/"><u>[Updated] Unlock the Power of Podcasts 15 Tips for Multitasking and Growth</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-simplified-approach-to-broadcasting-recorded-vids-on-social-media/"><u>2024 Approved Simplified Approach to Broadcasting Recorded Vids on Social Media</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-silence-solutions-for-forza-horizon-4-audio-issues/"><u>Fixing the Silence: Solutions for 'Forza Horizon 4' Audio Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-remedying-devastating-discord-browser-error-on-win-based-systems/"><u>Guide to Remedying Devastating Discord Browser Error on Win-Based Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-vivo-y27-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Vivo Y27 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-troubleshooting-maze-for-your-inked-device-on-windows/"><u>Navigating the Troubleshooting Maze for Your Inked Device on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-projects-with-top-8-windows-video-tools/"><u>Perfecting Projects with Top 8 Windows Video Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/settingdarkmodeinnotepadwinoses/"><u>SettingDarkModeInNotepadWinOSes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-search-your-ultimate-guide/"><u>Tailoring Windows 11'S Search: Your Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-commanding-dialogue-in-windows-11/"><u>The Art of Commanding Dialogue in Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-masterful-methods-for-attaching-fb-story-links/"><u>[New] Masterful Methods for Attaching FB Story Links</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-the-best-live-tv-streaming-services-with-local-channels-2024/"><u>[New] The Best Live TV Streaming Services With Local Channels 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-atmospheres-with-cinematic-hues/"><u>[Updated] Crafting Atmospheres with Cinematic Hues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-tackling-large-storage-consumers-in-windows/"><u>Cut Down Clutter: Tackling Large Storage Consumers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-resolving-windows-error-code-0xc0000001/"><u>Expert Advice on Resolving Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-into-lost-ark-diagnosing-and-repairing-server-connection-failures/"><u>Get Back Into Lost Ark: Diagnosing and Repairing Server Connection Failures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-experience-recap-for-2024/"><u>GoPro Hero5 Experience Recap for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-steps-to-correct-windows-operating-system-office-errors/"><u>Immediate Steps to Correct Windows Operating System Office Errors</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/insightful-strategies-on-customer-knowledge-by-abbyy-presented-at-the-2017-aiim-conference/"><u>Insightful Strategies on Customer Knowledge by ABBYY Presented at the 2017 AIIM Conference</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-secret-techniques-for-a-transparent-windows-11-title-bar/"><u>The Secret Techniques for a Transparent Windows 11 Title Bar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-picks-for-trusted-free-software-downloads-on-windows/"><u>Top Picks for Trusted, Free Software Downloads on Windows</u></a></li>
 </ul></div>
 

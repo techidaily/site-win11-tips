@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Windows 11'S 0X800f0922 Upgrade Issue
-date: 2024-09-29T16:43:52.195Z
-updated: 2024-10-03T22:46:23.310Z
+date: 2024-10-05T20:10:05.715Z
+updated: 2024-10-08T16:07:12.483Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 
  The troubleshooter window will appear, and start scanning your computer for available issues. After the scan is complete, the troubleshooter will show the changes made to your computer or ask your permission to apply the fix. Grant it, and check if it resolves your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Clean Up Your Disk Drive
 
  Your computer must have enough space to download and install the Windows updates. If this isn't the case, you will likely face different issues, including the update error 0x800f0922.
@@ -70,15 +63,16 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 3. Click the**Clean up system files** button.  
 ![Clean up system files option in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clean-up-system-files.jpg)
 4. Under the**Files to delete** section, select the files you want to delete and click**OK.**  
-![OK button in the Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ok-button.jpg)
-5. Click the**Delete Files** option in the prompt that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![OK button in the Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ok-button.jpg)
+5. Click the**Delete Files** option in the prompt that crops up.
 
  That's it. You have gained some space in the OS drive. If you want to create more space, you can remove unnecessary folders from the OS drive.
 
@@ -87,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
  There's no harm in deleting this folder, but make sure you only do it when you have no plans to return to Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Update Components
@@ -115,13 +109,6 @@ net start cryptsvc`
 
  After that, restart your computer and check whether you can update Windows 11 again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the Status of Important Services
 
  There are certain Windows services that must be running in the background if you want to update Windows. These services are**Windows event collector** ,**App readiness** ,**App optimization** , and**Geolocalization** .
@@ -137,6 +124,13 @@ net start cryptsvc`
 
 Next, repeat the above steps for other mentioned services as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Manually Download and Install Updates
 
  If updating Windows through the Settings app is throwing an error, you can download and install updates[using the Microsoft update catalog](https://www.makeuseof.com/tag/microsoft-windows-update-catalog/) . You can do it by following the below instructions:
@@ -147,6 +141,13 @@ Next, repeat the above steps for other mentioned services as well.
 4. In the result window, you'll get two options –**ARM64** and**x64.** Click the**Download** button next to the system type you're using.  
 ![Different download option in Update catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/different-download-option.jpg)
 5. A new window will appear, right-click on the download link, choose the**Save link as,** and select the folder where you want to download the update package.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, open the location where you have downloaded the update package and double-click on it to begin the installation.
 
@@ -171,18 +172,22 @@ Next, repeat the above steps for other mentioned services as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-bright-potential-in-your-android-videos/"><u>[New] Unleash Bright Potential in Your Android Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023/"><u>[Updated] Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-savvy-taking-screenshots-on-windows/"><u>[Updated] Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-editors-toolkit-elevating-your-youtube-videos-via-windows-pc/"><u>2024 Approved The Editor's Toolkit Elevating Your YouTube Videos via Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-chrome-alerts-on-windows-pc/"><u>Disabling Chrome Alerts on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-macos-with-windows-based-tools-and-applications/"><u>Enhancing macOS with Windows-Based Tools and Applications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a78-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A78 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-resolve-the-unrecognizable-260ci-wia-driver-error-with-usb-troubleshooting-steps/"><u>How to Resolve the Unrecognizable 260Ci WIA Driver Error with USB Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerpoint-savings-survival-guide-top-6-tips-for-win11-users/"><u>Powerpoint Savings Survival Guide: Top 6 Tips for Win11 Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reliable-media-management-apps-for-macos-discover-the-best-pick-movavi/"><u>Reliable Media Management Apps for macOS: Discover the Best Pick - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-avoid-file-lock-issues-on-windows-11-devices/"><u>Steps to Avoid File Lock Issues on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-high-quality-free-media-players-on-windows-pcs/"><u>Top 7: High-Quality, FREE Media Players on Windows PCs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-cinematic-slow-motion-top-video-editors-for-dramatic-effects/"><u>Updated 2024 Approved Cinematic Slow Motion Top Video Editors for Dramatic Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beginners-guide-adding-text-overlays-on-youtube/"><u>[New] In 2024, Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unmissable-titles-in-the-sandbox-genre/"><u>[New] In 2024, Unmissable Titles in the Sandbox Genre</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-achieving-financial-freedom-joshis-youtube-tactics-for-2024/"><u>[Updated] Achieving Financial Freedom Joshi’s YouTube Tactics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-to-audio-quick-download-process/"><u>2024 Approved FB Video to Audio Quick Download Process</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-multi-image-melding-on-computers/"><u>2024 Approved Mastering Multi-Image Melding on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-analysis-of-windows-lav-filter-usage-and-outputs/"><u>A Comprehensive Analysis of Windows LAV Filter Usage and Outputs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-vivobook-s-15-a-comprehensive-compromise-of-design/"><u>ASUS Vivobook S 15 - A Comprehensive Compromise of Design</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blues-fixing-football-manager-2021-crashes-on-your-desktop-pc/"><u>Beat the Blues: Fixing Football Manager 2021 Crashes on Your Desktop PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-non-starting-adobe-photoshopping-in-windows-11/"><u>How to Enable Non-Starting Adobe Photoshopping in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor FRP?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-smart-growth-metropolis-balancing-development-and-nature/"><u>In 2024, Smart Growth Metropolis Balancing Development and Nature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-your-windows-11-explore-with-ease/"><u>Reactivate Your Windows 11 Explore with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-tips-for-sticky-note-backup/"><u>The Essential Tips for Sticky Note Backup</u></a></li>
 </ul></div>
 

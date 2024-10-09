@@ -1,7 +1,7 @@
 ---
 title: Solutions for Non-Responsive Folders in WinXP/XO11
-date: 2024-09-16T03:02:36.966Z
-updated: 2024-09-22T07:21:30.094Z
+date: 2024-10-03T17:25:02.212Z
+updated: 2024-10-09T02:14:19.522Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 4. Next, click the **Additional mouse** options in Settings.  
 ![The Additional mouse settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/additional-mouse-settings.jpg)
 5. Drag the **Double-click speed** bar’s slider left to slow it down.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Double-click speed setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/double-click-speed-setting.jpg)
 6. Select **Apply** and click **OK** to set the new double-click speed.
 
@@ -63,10 +71,17 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Shell Registry Key
@@ -85,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 6. Click **OK** to save the new **(Default)** string value.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
@@ -110,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
  When you’ve finished adjusting those string values, exit the Registry Editor and restart your PC. If you find all those strings are already set to four, you don’t need to change them.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn Off Controlled Folder Access
 
  Some users have said they fixed the double-clicking of folders not working by turning off controlled folder access. Controlled folder access is the Windows Security feature that blocks unauthorized apps from modifying contents inside protected directories. Thus, enabling that feature restricts folder access.
@@ -121,30 +143,16 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 ![The tab sidebar in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-security-s-tab-sidebar.jpg)
 3. Scroll down a little and click on **Manage ransomware protection**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
 4. Click the **Controlled folder access** toggle switch to turn off that setting.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
@@ -175,5 +183,20 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-vlog-versus-channels-choosing-between-obs-and-twitch/"><u>[New] 2024 Approved Vlog Versus Channels Choosing Between OBS & Twitch</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-way-to-perform-obs-streaming/"><u>[Updated] Best Way to Perform OBS Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ten-titles-that-triumph-top-8-apps-to-gain-facebook-likeability-for-2024/"><u>[Updated] Ten Titles That Triumph Top 8 Apps to Gain Facebook Likeability for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>2024 Approved Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia 105 Classic without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/composing-the-unseen-background-sounds-for-movie-teasers/"><u>Composing the Unseen Background Sounds for Movie Teasers</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevate-yi-4k-shots-with-premium-add-ops/"><u>Elevate YI 4K Shots with Premium Add-Ops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-peeling-back-layers-of-vivas-video-features/"><u>In 2024, Peeling Back Layers of Viva's Video Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-high-usage-by-user-mode-services-in-windows-environments/"><u>Mitigating High Usage by User-Mode Services in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-quickly-curtail-user-access-in-windows-11/"><u>Step-by-Step: Quickly Curtail User Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-experience-with-startup-settings-mastery/"><u>Tailoring Your Windows Experience with Startup Settings Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-your-hyperx-cloud-alpha-mic-malfunction/"><u>Troubleshooting Tips: Fixing Your HyperX Cloud Alpha Mic Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-hdr-features-through-practical-tips/"><u>Understanding Windows 11’S HDR Features Through Practical Tips</u></a></li>
+</ul></div>
 

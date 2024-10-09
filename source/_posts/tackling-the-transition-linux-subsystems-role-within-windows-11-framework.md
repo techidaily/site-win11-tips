@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Transition: Linux Subsystem's Role Within Windows 11 Framework"
-date: 2024-09-21T06:54:39.306Z
-updated: 2024-09-21T16:16:47.612Z
+date: 2024-10-03T23:37:56.616Z
+updated: 2024-10-09T04:34:58.670Z
 tags:
   - windows10
   - windows11
@@ -50,12 +50,26 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
 
 1. Search for**Turn Windows features on or off** and click the search result.
 2. In Windows Features, scroll down to find**Virtual Machine Platform** and**Windows Hypervisor Platform** .
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair the Linux Distribution App
 
@@ -67,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
@@ -90,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
@@ -104,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing WSL After Upgrading to Windows 11
@@ -127,5 +141,19 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-syncopated-sounds-discovering-crossfades-for-2024/"><u>[New] Syncopated Sounds Discovering Crossfades for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-heavy-duty-drone-powerhouses/"><u>[Updated] The Ultimate Guide to Heavy-Duty Drone Powerhouses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-onedrive-invalid-tag-error-in-windows-file-system/"><u>Eliminating the OneDrive Invalid Tag Error in Windows File System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-hard-drives-performance-defrag-guide-for-win11/"><u>Enhance Hard Drives Performance: Defrag Guide for Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel Fix 2024 | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-12-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi 12 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-transcription-experience-with-whisper-desktop/"><u>Instantaneous Transcription Experience with Whisper Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-your-windows-hurdles-and-complications/"><u>Quick Fixes for Your Windows Hurdles & Complications!</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-realtek-device-driver-for-windows-10-download-here/"><u>Update to Newest Realtek Device Driver for Windows 10 – Download Here</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-xml-essentials-unlocking-the-power-of-xml/"><u>Updated In 2024, FCPX XML Essentials Unlocking the Power of XML</u></a></li>
+</ul></div>
 

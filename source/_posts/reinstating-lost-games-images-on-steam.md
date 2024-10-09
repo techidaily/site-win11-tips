@@ -1,7 +1,7 @@
 ---
 title: Reinstating Lost Games Images on Steam
-date: 2024-10-02T20:23:28.559Z
-updated: 2024-10-03T17:27:06.774Z
+date: 2024-10-05T02:37:40.083Z
+updated: 2024-10-08T17:15:50.915Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
  If you have missing or blank Steam icons, you should verify the integrity of the game files to repair them, delete the icon cache to create a fresh image, restart Windows Explorer, and relocate the game files to the old directory. When all else fails, you can manually recreate the icons on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Preliminary Checks
 
  Apply the following preliminary checks before moving on to the main fixes:
@@ -64,22 +57,35 @@ To restart Windows Explorer, follow the below steps:
 5. Click**OK** after typing**"explorer.exe."**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Running the Explorer.exe Process Directly in the Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-running-the-explorer-exe-process-directly-in-the-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If restarting the Windows Explorer process fails to fix the Steam games icons, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Verify the Integrity of Game Files
 
@@ -92,14 +98,14 @@ To restart Windows Explorer, follow the below steps:
 5. Click on**Verify integrity of game files** .  
 ![Clicking on the Verify Integrity of Game Files under Local Files of Properties Window of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Verify-Integrity-of-Game-Files-under-Local-Files-of-Properties-Window-of-a-Game-in-Steam.jpg)
 
- Let the process complete and check whether it has returned the game icons to normal. If it makes no difference, go to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Let the process complete and check whether it has returned the game icons to normal. If it makes no difference, go to the next fix.
 
 ## 3\. Delete the IconCache File
 
@@ -117,6 +123,13 @@ To restart Windows Explorer, follow the below steps:
 If rebuilding the icon cache doesn't work, try the next fix.
 
  The AppData folder in Windows is often hidden, so you should unhide the files before deleting the IconCache file. Those unfamiliar with the process will find our[guide to on how to show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) helpful.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restore the Icons Manually
 
@@ -136,13 +149,6 @@ If rebuilding the icon cache doesn't work, try the next fix.
 ![Clicking on the Change Icon Button in the Properties Window of the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/6-clicking-on-the-change-icon-button-in-the-properties-window-of-the-game.jpg)
 5. Click on the**Browse** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Paste the copied path and select the game's .exe file.  
 ![Selecting the Game’s Executive File After Pasting the Copied Path in the Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/7-selecting-the-game-s-executive-file-after-pasting-the-copied-path-in-the-address-bar.jpg)
 7. Then click**Ok** and**Apply** .
@@ -160,18 +166,19 @@ If rebuilding the icon cache doesn't work, try the next fix.
 3. Right-click on the game that has disappeared and go to**Manage > Uninstall.**  
 ![Uninstalling the Game by Right-clicking on the Game in Steam Library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/9-uninstalling-the-game-by-right-clicking-on-the-game-in-steam-library.jpg)
 4. In the confirmation pop-up, click**Uninstall** again.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then, delete the remaining files from the game's directory.
 
  After deleting the existing installation, reinstall the game. When you do that, check the box for**Create desktop shortcut** .
 
 ![Checking the Box for Create Desktop Shortcut Option in Game Installation Window in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-checking-the-box-for-create-desktop-shortcut-option-in-game-installation-window-in-steam-client.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a result, Steam will automatically create a desktop shortcut for your game, allowing you to access it more easily.
 
@@ -194,20 +201,24 @@ If rebuilding the icon cache doesn't work, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[New] 2024 Approved Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[New] In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-15-best-facebook-analyzers-to-increase-sales/"><u>[Updated] 15 Best Facebook Analyzers to Increase Sales</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-live-photography-essentials-for-iphone-users/"><u>[Updated] 2024 Approved Live Photography Essentials for iPhone Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-plain-screenshot-software-for-windows-10/"><u>[Updated] 2024 Approved Plain Screenshot Software for Windows 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-cut-beyond-youtube-unveiling-the-top-5-video-editor-options-for-2024/"><u>[Updated] Cut Beyond Youtube Unveiling the Top 5 Video Editor Options for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-illuminating-your-content-youtube-video-lighting-secrets/"><u>In 2024, Illuminating Your Content YouTube Video Lighting Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-high-resource-demand-in-device-to-device-interaction-windows/"><u>Lowering High Resource Demand in Device-to-Device Interaction Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigate-the-digital-landsncape-efficiently-powered-by-innovative-cookiebot-tools/"><u>Navigate the Digital Landsncape Efficiently Powered by Innovative Cookiebot Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x00000709/"><u>Resolving Windows Error Code 0X00000709</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synching-gmail-with-outlook-app-for-windows-users/"><u>Synching Gmail with Outlook App for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-time-out-top-strategies-to-jumpstart-windows-installation/"><u>Tackling the Time-Out: Top Strategies to Jumpstart Windows Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-speakers-in-windows-1011/"><u>Troubleshooting Silent Speakers in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-the-secrets-of-windows-flexible-fax-interface/"><u>Unveil the Secrets of Windows' Flexible Fax Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-dissecting-its-enhanced-data-preservation-system/"><u>Windows 11: Dissecting Its Enhanced Data Preservation System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cinematic-chronicles-in-depth-video-tech-reviews/"><u>[Updated] In 2024, Cinematic Chronicles In-Depth Video Tech Reviews</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-simplifying-the-process-of-deleting-youtube-files/"><u>[Updated] Simplifying the Process of Deleting YouTube Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-8-ways-to-iis-explorer/"><u>A Step-by-Step Approach: 8 Ways to IIS Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-additional-views-in-win-11s-context-menu/"><u>Eliminating Additional Views in Win 11'S Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-4-strategies-for-mac-address-extraction-in-windows-11/"><u>Exploring 4 Strategies for MAC Address Extraction in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-unopenable-windows-folders-click-doubled-down/"><u>Fixes for Unopenable Windows Folders, Click-Doubled Down</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/folders-and-files-in-the-spotlight-6-access-techniques/"><u>Folders and Files in the Spotlight: 6 Access Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-lost-ethernet-connection-fixes/"><u>Guiding You Through Lost Ethernet Connection Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-conjoin-windows-serial-numbers-and-microsoft-accounting/"><u>How to Conjoin Windows Serial Numbers & MICROSOFT ACCOUNTING</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-robloxs-error-277-on-your-windows-pc/"><u>How to Overcome Roblox's Error 277 on Your Windows PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-care-essentials-scanning-and-securing-vintage-prints/"><u>In 2024, Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-strategies-for-unrestricted-space-allocation/"><u>Superior Strategies for Unrestricted Space Allocation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y77t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y77t to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-iphone-charger-issues-expert-solutions-and-tips/"><u>Troubleshooting iPhone Charger Issues: Expert Solutions & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-siri-for-text-reading-features-on-your-iphone-and-macbook/"><u>Unlock the Power of Siri for Text-Reading Features on Your iPhone and MacBook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12-4g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12 4G Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-configurations-restarted-a-triad-of-tips/"><u>Win11 Configurations Restarted: A Triad of Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-s-mode-a-safe-choice-for-beginners/"><u>Windows 11 S Mode: A Safe Choice for Beginners?</u></a></li>
 </ul></div>
 

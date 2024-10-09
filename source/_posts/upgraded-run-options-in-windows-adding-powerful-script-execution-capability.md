@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Run Options in Windows: Adding Powerful Script Execution Capability"
-date: 2024-09-30T19:27:08.032Z
-updated: 2024-10-03T20:51:04.442Z
+date: 2024-10-05T20:24:10.577Z
+updated: 2024-10-09T08:00:54.061Z
 tags:
   - windows10
   - windows11
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
@@ -99,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -117,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
@@ -129,22 +136,15 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
@@ -171,22 +171,22 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-platform-preference-opting-for-obstwitch-live/"><u>[New] 2024 Approved Platform Preference Opting for OBS/Twitch Live</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-ultimate-immersive-vr-video-hits/"><u>[Updated] 2024 Approved 10 Ultimate Immersive VR Video Hits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[Updated] In 2024, The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-professional-videos-with-free-intros/"><u>2024 Approved Craft Professional Videos with Free Intros</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-key-to-captivating-audiences-crafting-fb-slideshows/"><u>2024 Approved The Key to Captivating Audiences Crafting FB Slideshows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-top-ausruster-von-4k-uhd-videoplayer-auf-pcmac-downloads-testberichte-and-empfehlungen-der-experten/"><u>Die Top-Ausrüster Von 4K UHD Videoplayer Auf PC/Mac - Downloads, Testberichte & Empfehlungen Der Experten</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-the-load-strategies-to-reduce-ums-impact-on-your-system/"><u>Lowering the Load: Strategies to Reduce UMS Impact on Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-7-techniques-to-revitalize-stubborn-windows-services-mgmt-tool/"><u>Mastering 7 Techniques to Revitalize Stubborn Windows Services Mgmt Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-how-to-address-undetected-files-in-systems-solution-provided/"><u>Mastering How to Address Undetected Files in Systems [Solution Provided]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-visuals-adjust-win11-scaling/"><u>Maximize Visuals: Adjust Win11 Scaling</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-browser-barriers-when-internet-explorer-fails-to-load-sites/"><u>Overcoming Browser Barriers: When Internet Explorer Fails to Load Sites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pros-approach-key-techniques-to-mastering-wsl-2/"><u>Pro's Approach: Key Techniques to Mastering WSL 2</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/remote-free-solutions-mastering-your-roku-tv-with-keyboard-commands/"><u>Remote-Free Solutions: Mastering Your Roku TV with Keyboard Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-11-menus-interactive-functionality/"><u>Restoring Windows 11 Menus' Interactive Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80041015-in-ms-office-for-windows-users/"><u>Unlocking Error 0X80041015 in MS Office for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-guide-simple-steps-for-telnet-use/"><u>Win11 Guide: Simple Steps for Telnet Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-lit-tales-in-just-a-minute/"><u>[New] In 2024, Lit Tales in Just a Minute</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-free-desktop-and-web-based-video-trimmers-of-2024-top-picks/"><u>Best Free Desktop & Web-Based Video Trimmers of 2024: Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-pcs-for-students-proven-choices-for-study-designing-playing-and-beyond/"><u>Best PCs for Students: Proven Choices for Study, Designing, Playing, and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-most-effective-win-video-codecs/"><u>Demystifying the Most Effective Win Video Codecs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-different-ways-to-tailor-windows-11-search/"><u>Explore Different Ways to Tailor Windows 11 Search</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gmail-vs-outlook-comparing-top-email-services-to-find-the-ultimate-winner/"><u>Gmail vs Outlook: Comparing Top Email Services to Find the Ultimate Winner</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-and-attend-to-hidden-storage/"><u>How to Uncover and Attend to Hidden Storage?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/icon-position-correction-made-simple/"><u>Icon Position Correction Made Simple</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>In 2024, Dive Into 360 Videos IPhone Edition for Facebook Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-updates-on-the-playstation-5-slim-pricing-and-launch-details/"><u>Latest Updates on the PlayStation 5 Slim - Pricing & Launch Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-future-microsofts-copilot-key-and-windows-11-revolution/"><u>Navigating the Future: Microsoft's Copilot Key and Windows 11 Revolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/proton-vpn-launches-wider-anti-censorship-initiative-across-additional-nations/"><u>Proton VPN Launches Wider Anti-Censorship Initiative Across Additional Nations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-order-in-windows-registry-through-repair-methods/"><u>Restoring Order in Windows Registry Through Repair Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/track-lost-friends-on-instagram-for-2024/"><u>Track Lost Friends on Instagram for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-mov-format-changer-simplify-your-mov-file-conversions-on-windows-systems/"><u>Ultimate MOV Format Changer – Simplify Your MOV File Conversions on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-roblox-needs-to-close-windows-errors/"><u>Winning Against Roblox Needs to Close Windows Errors</u></a></li>
 </ul></div>
 

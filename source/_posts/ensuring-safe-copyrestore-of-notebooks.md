@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safe Copy/Restore of Notebooks
-date: 2024-10-01T20:45:40.845Z
-updated: 2024-10-04T00:54:17.726Z
+date: 2024-10-01T19:55:09.684Z
+updated: 2024-10-09T05:05:10.343Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -63,20 +63,26 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -90,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -102,27 +108,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-apex-newcomer-catalogue-panzoid-edition/"><u>[New] Apex Newcomer Catalogue Panzoid Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-alternative-video-recording-software/"><u>[New] Premier Alternative Video Recording Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discover-the-magic-behind-effective-youtube-short-videos-for-2024/"><u>[Updated] Discover the Magic Behind Effective YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-critical-considerations-when-buying-a-windows-laptop/"><u>Guide to Critical Considerations When Buying a WIndows Laptop</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-obstructed-calendarmail-access-on-w11/"><u>How to Overcome Obstructed Calendar/Mail Access on W11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-note-30-vip-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Note 30 VIP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>In 2024, Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-tasks-essential-cmd-command-knowledge/"><u>Mastering Windows Tasks: Essential CMD Command Knowledge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x800704b3-on-your-win1011-machine/"><u>Overcoming Error 0X800704B3 on Your Win10/11 Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-dormant-recyclebin-icon-in-windows-11/"><u>Reviving Dormant Recyclebin Icon in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snippet-savvy-crafting-custom-keybinds-for-speed-and-precision-in-win11/"><u>Snippet Savvy: Crafting Custom Keybinds for Speed & Precision in Win11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/soundscape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-pc-hurdles-steadying-cpu-load-in-rm-toolkit/"><u>Troubleshoot PC Hurdles: Steadying CPU Load in RM Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-elusive-results-in-your-windows-1011-search/"><u>Uncovering Elusive Results in Your Windows 10/11 Search</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +115,25 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>[New] Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-isolating-image-moments-from-videos-using-windows-photos-software/"><u>[Updated] Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-short-form-trimming-videos-for-youtube/"><u>[Updated] Mastering Short-Form Trimming Videos for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-non-crashy-windows-user-experience/"><u>Ensure Non-Crashy Windows User Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/exploring-powershell-understanding-the-command-options-interface/"><u>Exploring PowerShell: Understanding the Command Options Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-youtube-playback-speed-delays-in-chrome/"><u>Fixing YouTube Playback Speed Delays in Chrome</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-htc-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on HTC ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-choose-and-set-your-favorite-command-prompt/"><u>How to Choose and Set Your Favorite Command Prompt</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/installing-your-favorite-streams-a-comprehensive-walkthrough-for-the-ccloud-addon-on-kodi-leia-update/"><u>Installing Your Favorite Streams: A Comprehensive Walkthrough for the cCloud Addon on Kodi Leia Update</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-6-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 6 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-faulty-troubleshooters-in-windows-os/"><u>Reinvigorating Faulty Troubleshooters in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-15-activities-perfect-for-podcast-lovers/"><u>Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-windows-print-management-interface/"><u>Understanding the Role of Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-multiscreen-woes/"><u>Understanding Windows Multiscreen Woes</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo F23 5G | Dr.fone</u></a></li>
+</ul></div>
+

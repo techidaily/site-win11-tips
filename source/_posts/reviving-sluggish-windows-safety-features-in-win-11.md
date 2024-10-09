@@ -1,7 +1,7 @@
 ---
 title: Reviving Sluggish Windows Safety Features in Win 11
-date: 2024-10-01T21:02:51.318Z
-updated: 2024-10-03T17:26:06.539Z
+date: 2024-10-03T23:17:46.261Z
+updated: 2024-10-09T02:51:59.936Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  The Windows Security app will be enabled instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update Windows 11
 
  How long has it been since you last updated your Windows? If it’s been a while, it might be a good time to brush off the dust from your updates.
@@ -59,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![windows update section in the settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-update-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable Third-Party Antivirus
 
@@ -78,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
 
- The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
 
 ## 4\. Reset the Windows Security App
 
@@ -146,13 +139,20 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![security services process in the services app on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-app-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Your PC
 
@@ -172,10 +172,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
  The whole process is fairly straightforward, but if you face any difficulties during the reset, make sure you go through a [complete guide on Windows 10 factory reset](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) and verify if you're making any slip-ups in between the steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the Issues With Windows Security
@@ -186,22 +186,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  It's therefore crucial that Windows security is working at its best; this will keep your computer security airtight. In this article, we’ve laid down some of the best tricks that will help you fix Windows Security on your Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elite-group-chat-and-webcams-the-best-selection/"><u>[New] In 2024, Elite Group Chat & Webcams The Best Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-scooping-tech-step-by-step-guide-to-screen-recording/"><u>[New] In 2024, Scooping Tech Step-by-Step Guide to Screen Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-navigating-around-youtubes-restrictions-for-2024/"><u>[Updated] Navigating Around Youtube's Restrictions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>2024 Approved SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-for-command-line-system-exploration/"><u>Easy Steps for Command-Line System Exploration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-microphonecamera-access-in-edge-guards/"><u>Empowering Microphone/Camera Access in Edge Guards</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-deal-with-storahcisys-blue-screen-of-death-bsod/"><u>Expert Tips to Deal with Storahci.sys Blue Screen of Death (BSoD)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v29-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V29 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-gmail-with-outlook-on-windows-a-step-by-step-guide/"><u>Integrating Gmail with Outlook on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-tribes-of-midgard-effective-strategies-to-overcome-game-disruptions-and-crashes/"><u>Mastering 'Tribes of Midgard': Effective Strategies to Overcome Game Disruptions and Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-total-windows-screen-capturing-with-these-4-tips/"><u>Mastering the Art of Total Windows Screen Capturing with These 4 Tips.</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,3 +193,21 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-selecting-superior-audio-our-picks-for-the-top-6-live-stream-enhancers/"><u>[New] Selecting Superior Audio Our Picks for the Top 6 Live-Stream Enhancers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-lustrous-frameworks-structuring-illumination-in-film/"><u>[Updated] 2024 Approved Lustrous Frameworks Structuring Illumination in Film</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>2024 Approved The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cut-the-red-tape-easy-memes-via-kinemaster/"><u>In 2024, Cut the Red Tape Easy Memes via KineMaster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-in-windows/"><u>Mastering Map Integration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-restoring-lost-sync-credentials-effectively/"><u>Microsoft To-Do: Restoring Lost Sync Credentials Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-onedrive-errors-an-easy-guide/"><u>Overcoming Windows OneDrive Errors: An Easy Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/portability-meets-precision-in-sabrents-wireless-travel-mouse-with-retractable-cord/"><u>Portability Meets Precision in Sabrent's Wireless Travel Mouse with Retractable Cord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-server-disruptions-and-ms-store-issues-on-windows-11-and-11/"><u>Remedy for Server Disruptions and MS Store Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-how-to-excel-in-pokemon-unite-gaming/"><u>Step-by-Step Strategies: How to Excel in Pokémon Unite Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-guide-to-podcast-scriptwriting-including-free-samples-for-2024/"><u>The Artisan's Guide to Podcast Scriptwriting (Including Free Samples) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/visual-victory-amd-radeon-evolution/"><u>Visual Victory AMD Radeon Evolution</u></a></li>
+</ul></div>
+

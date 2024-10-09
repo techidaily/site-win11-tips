@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Sleep on New Windows: Keys & Mice"
-date: 2024-09-09T23:09:05.346Z
-updated: 2024-09-17T04:36:34.749Z
+date: 2024-10-07T22:37:44.282Z
+updated: 2024-10-08T18:38:29.302Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -63,13 +70,20 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
@@ -77,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
@@ -102,5 +116,24 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-render-and-upload-your-youtube-video-faster-for-2024/"><u>[New] How to Render and Upload Your YouTube Video Faster for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-pursuit-of-perfection-a-complete-sj-cam-s6-review/"><u>[New] In Pursuit of Perfection A Complete SJ-CAM S6 Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-googles-quick-fix-for-photo-collage-enthusiasts/"><u>[Updated] Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accurate-timekeeping-at-your-fingertips-winning-windows-timers/"><u>Accurate Timekeeping at Your Fingertips: Winning Windows Timers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-do-not-have-sufficient-access-to-uninstall-error-in-windows-11-and-11/"><u>How to Fix the “Do Not Have Sufficient Access to Uninstall” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-15-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 15 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-transcription-with-whisper-voice-to-text-guide/"><u>Instant Transcription with Whisper: Voice to Text Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-steps-just-admin-command-prompt-anytime-now/"><u>Skip Steps, Just Admin Command Prompt Anytime Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-downloading-the-arduino-mega-2560-compatible-drivers-quickly/"><u>Step-by-Step Tutorial on Downloading the Arduino Mega 2560 Compatible Drivers Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-creation-studio-test-for-2024/"><u>Supreme Creation Studio Test for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365974672-ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/undisclosed-snapshotting-mastering-invisible-image-capture-on-snapchat/"><u>Undisclosed Snapshotting Mastering Invisible Image Capture on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-mobile-audio-a-comprehensive-guide-to-handling-m4a-files-on-iphone-devices/"><u>Unlocking the Secrets of Mobile Audio: A Comprehensive Guide to Handling M4A Files on iPhone Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
+</ul></div>
 

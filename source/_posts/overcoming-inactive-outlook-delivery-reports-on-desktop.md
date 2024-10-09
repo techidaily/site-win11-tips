@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inactive Outlook Delivery Reports on Desktop
-date: 2024-09-30T22:06:34.445Z
-updated: 2024-10-03T17:32:21.981Z
+date: 2024-10-02T21:31:44.542Z
+updated: 2024-10-09T07:14:40.084Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ You can fix this by disabling offline mode in Outlook:
 2. Click the option that says**Work Offline** to disable it.  
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Outlook's In-App Notification Settings
 
  If Outlook fails to send notifications even when it is online, you should check Outlook’s in-app notification settings to make sure email alerts aren't disabled.
@@ -54,20 +47,14 @@ Follow these steps to check Outlook’s notification settings:
 4. Under the**Message arrival** section, enable desktop and sound alerts by checking the corresponding boxes. Then, hit**OK** to save changes.  
 ![Mail tab in Outlook Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Outlook-In-App-Notification-Settings-1.jpg)
 
- Once you complete the above steps, you should start receiving Outlook notifications on Windows.
-
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
@@ -81,13 +68,6 @@ Follow these steps to check Outlook’s notification settings:
 
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -97,14 +77,14 @@ Follow these steps to check Outlook’s notification settings:
 3. Turn off the toggle next to**Do not distrub** .  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Battery Saver
 
@@ -116,10 +96,10 @@ Follow these steps to check Outlook’s notification settings:
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check Outlook's Rules
@@ -134,10 +114,10 @@ Here's how you can access Outlook's rules:
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Clear the Outlook Cache
@@ -162,10 +142,10 @@ Follow these steps to delete Outlook's cache data on Windows:
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
@@ -181,6 +161,19 @@ Follow these steps to delete Outlook's cache data on Windows:
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Repair the Microsoft Office Suite
 
  Microsoft Office comes with a handy repair tool that can prove useful when Office apps fail to work correctly. You can repair the Microsoft Office suite in case the above solutions don't help. Here’s what you’ll need to do.
@@ -192,6 +185,13 @@ Follow these steps to delete Outlook's cache data on Windows:
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
 
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Never Miss an Outlook Notification Again
 
@@ -214,24 +214,20 @@ Follow these steps to delete Outlook's cache data on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>[Updated] 2024 Approved Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-science-education-through-yt-channels-for-2024/"><u>[Updated] Cutting Edge Science Education Through YT Channels for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-youtube-writers-workshop-space/"><u>2024 Approved A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-deciphering-digital-marketing-the-power-of-youtube-keywords/"><u>2024 Approved Deciphering Digital Marketing The Power of YouTube Keywords</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mp4-videos-to-gifs-fast-movavis-top-ranking-online-and-free-tool/"><u>Convert MP4 Videos to GIFs Fast - Movavi's Top-Ranking Online and Free Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-for-making-slideshows-with-movavi-on-macos-systems-no-iwork-required/"><u>Easy Steps for Making Slideshows with Movavi on macOS Systems (No iWork Required)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evaluating-video-coders-are-you-team-av1-or-vp9-in-2024/"><u>Evaluating Video Coders Are You Team Av1 or VP9, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-a-bargain-on-movavi-claim-your-10-discount-using-our-special-promo-code/"><u>Get a Bargain on Movavi: Claim Your 10% Discount Using Our Special Promo Code!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-omzetten-van-caf-naar-mp3-met-movavi-voorlopig-makkelijk-en-efficient/"><u>Gratis Online Omzetten Van CAF Naar MP3 Met Movavi - Voorlopig Makkelijk en Efficiënt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-wegwijzer-om-ts-in-wmv-te-konverteren-onlinelastig/"><u>Gratuit Wegwijzer Om TS in WMV Te Konverteren - Onlinelastig</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100 To Phone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-visuals-the-power-of-customized-luts/"><u>In 2024, Transforming Visuals The Power of Customized LUTs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a25-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A25 5G Phone FRP Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/navigating-the-digital-world-through-toms-hardware-analysis/"><u>Navigating the Digital World Through Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-konvertieprogramma-van-af-naar-wav-zonder-ongelders-professioneel-aanpakken-met-movavi/"><u>Online Konvertieprogramma Van AF Naar WAV Zonder Ongelders - Professioneel Aanpakken Met Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-premium-brain-boosting-apps-discover-the-worlds-top-6-for-intellectual-growth/"><u>The Ultimate Selection of Premium Brain Boosting Apps: Discover the World's Top 6 for Intellectual Growth</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-100-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor 100</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-images-seamlessly-convert-jpgs-to-gifs-at-no-cost-using-movavi/"><u>Transform Your Images Seamlessly: Convert JPGs to GIFs at No Cost Using Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforme-seu-png-em-jpeg-rapidamente-com-o-conversor-da-movavi-simplicidade-guiada/"><u>Transforme Seu PNG Em JPEG Rapidamente Com O Conversor Da Movavi - Simplicidade Guiada</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[New] A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-snaprecorder-expert-breakdowns/"><u>[Updated] 2024 Approved SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-soundscapes-perfected-selecting-microphones-that-resonate-with-youtubers-for-2024/"><u>[Updated] Soundscapes Perfected Selecting Microphones That Resonate With YouTubers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-easy-steps-to-resolve-windows-interface-errors-quickly/"><u>5 Easy Steps to Resolve Windows' Interface Errors Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-battery-performance-add-custom-alerts-to-windows-11/"><u>Accelerating Battery Performance: Add Custom Alerts to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-control-display-settings-for-windows-11-users/"><u>Advanced Control: Display Settings for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-to-executable-guide-for-windows-users/"><u>Batch-to-Executable Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-real-time-task-tracker-on-windows-11-os/"><u>Boosting Real-Time Task Tracker on Windows 11 OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-s23-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel S23 FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-all-you-want-to-know-for-2024/"><u>New How to Translate TikTok Videos? All You Want to Know for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-find-download-and-update-netgear-wna3100-drivers-today/"><u>Simple Steps: Find, Download & Update Netgear WNA3100 Drivers Today!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-take-your-editing-to-the-next-level-5-final-cut-pro-hacks/"><u>Updated In 2024, Take Your Editing to the Next Level 5 Final Cut Pro Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/venturing-beyond-reality-understanding-vr-basics-for-2024/"><u>Venturing Beyond Reality Understanding VR Basics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719262774069-your-on-premise-window-to-a-costless-chatgpt-clone-via-gpt4all/"><u>Your On-Premise Window to a Costless ChatGPT Clone via GPT4All.</u></a></li>
 </ul></div>
 

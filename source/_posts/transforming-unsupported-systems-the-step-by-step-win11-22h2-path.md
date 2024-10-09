@@ -1,7 +1,7 @@
 ---
 title: "Transforming Unsupported Systems: The Step-by-Step Win11 22H2 Path"
-date: 2024-09-29T01:26:05.011Z
-updated: 2024-10-03T16:32:44.708Z
+date: 2024-10-02T02:22:27.475Z
+updated: 2024-10-08T19:32:19.448Z
 tags:
   - windows10
   - windows11
@@ -49,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 8. Media Creation Tool will start downloading the ISO to your local drive. This process may take some time, depending on your Internet connection. So wait for the download to complete.
 9. Once the download is complete, click**Finish** and follow the next step to download Windows 10 ISO.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Download a Windows 10 ISO
 
 ![windows 10 download ISO preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-10-download-iso-preference.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll need to modify the Windows 11 ISO by replacing the appraiserress.dll with a version available in Windows 10 ISO. This DLL file is responsible for performing a hardware check during an upgrade.
 
@@ -84,72 +84,82 @@ To download Windows 10 ISO:
 ![mount windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mount-windows-10-iso.jpg)
 2. Open the**Sources** folder and locate the**appraiserres.dll** file. Copy the**DLL** file and move it to a different folder.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
 3. Next, extract the Windows 11 ISO to a different folder. You can[use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![extract windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-windows-11-iso.jpg)
 4. Open the Windows 11 ISO's extracted folder and then the**Source** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, copy and paste the**appraiserres.dll** file copied from Windows 10 ISO into Windows 11 ISO's**Sources** folder.
 
 1. Select**Replace the file in the destination** to confirm the action.  
 ![replace the file in the destination appraiserrs ll windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/replace-the-file-in-the-destination-appraiserrs-ll-windows-11-iso.jpg)
 2. Next, disconnect your PC from the Internet. This prevents the setup from downloading updated files during installation and overwriting the modified dll file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the Internet is disabled, open the extracted Windows 11 ISO folder and double-click on the**Setup file** . Click**Yes** if prompted by UAC.
 4. In the**Windows 11 Setup** dialog, click on**Change how Setup downloads updates.**  
 ![windows 11 setup not right now updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-not-right-now-updates.jpg)
 5. Next, select**Note right now.** This will prevent the Windows setup from finding and installing newer updates causing the upgrade process to fail on unsupported hardware.  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![windows 11 setup choose what to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-choose-what-to-install.jpg)
 6. In the**Choose what to keep** screen, select**Keep personal files and apps.**
 7. Click**Next** and then click on**Accept** .  
 ![windows 11 setup ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-ready-to-install.jpg)
 8. Next, click on**Install** to install Windows 11 version 22H2 while keeping your personal files and apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Leave your computer idle until the installation process is complete. After the restart, you’ll have the latest Windows 11 22H2 running on your computer.
 
 To check your Windows specification:
 
 ![check windows specification windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-windows-specification-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**About** .
 3. Under Windows specifications, you’ll see**Version 22H2** if the upgrade was successful.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Go Back to the Previous Version
 
 ![go back windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/go-back-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into an issue after the upgrade, you can use the**Go back** option to undo the update and restore the earlier version of Windows 11\. However, the "Go back" option is only available for seven days since the upgrade. After that, the option will be greyed out.
@@ -181,18 +191,20 @@ To go back to the previous version:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-conquer-video-production-obs-studio-and-android/"><u>[New] Conquer Video Production OBS Studio and Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-characters-animation-basics-in-wmm/"><u>[New] In 2024, Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-youtube-networking-creating-powerful-channel-backlinks/"><u>[New] In 2024, Navigating YouTube Networking Creating Powerful Channel Backlinks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-a-viral-youtube-sensation-simplified-action-plan/"><u>[Updated] 2024 Approved Creating a Viral YouTube Sensation Simplified Action Plan</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-whos-following-amazon-prime-series-with-the-highest-tweets-2023-for-2024/"><u>[Updated] Who's Following? Amazon Prime Series with the Highest Tweets, 2023 for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-learning-the-art-of-softly-amplifying-audio-tracks/"><u>In 2024, Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagining-visuals-deletion-power-in-windows-photos/"><u>Reimagining Visuals: Deletion Power in Windows Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-roblox-crashes-and-errors/"><u>Steps to Prevent Roblox Crashes and Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-experience-altering-fn-keys-on-windows-11/"><u>Transform Your Experience: Altering FN Keys on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disallowed-user-access-on-your-win-pc/"><u>Troubleshooting Disallowed User Access on Your Win PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-dvd-media-effective-methods-for-stripping-drm-on-windows-and-mac-computers/"><u>Unlocking Your DVD Media: Effective Methods for Stripping DRM on Windows and Mac Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10win11-install-issue-fixing-the-open-package-fail/"><u>Win10/Win11 Install Issue: Fixing the 'Open Package' Fail</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[Updated] 2024 Approved Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-junior-jams-and-junction-gaming-for-2024/"><u>[Updated] Junior Jams & Junction Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-check-for-open-tcpip-ports-on-windows/"><u>3 Ways to Check for Open TCP/IP Ports on Windows</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech-for-2024/"><u>Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/bypassing-blockbusters-2023-indie-favorites-for-2024/"><u>Bypassing Blockbusters 2023 Indie Favorites for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-non-changeable-sleepwake-modes-in-windows-11/"><u>Circumventing Non-Changeable Sleep/Wake Modes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-your-computing-conduct-setting-active-hours-to-mitigate-updates-in-windows-11/"><u>Customize Your Computing Conduct: Setting Active Hours to Mitigate Updates in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easily-improve-compatibility-with-new-windows-11-driver-updates/"><u>Easily Improve Compatibility with New Window's 11 Driver Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-fix-windows-error-code-0x800704b3/"><u>Effective Strategies to Fix Windows' Error Code: 0X800704B3</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-wont-let-you-sign-in-try-these-fixes/"><u>Microsoft Store Won’t Let You Sign In? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/msix-extension-mastery-a-practical-guide-to-microsoft-store-add-ons/"><u>MSIX Extension Mastery: A Practical Guide to Microsoft Store Add-Ons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pcx-bestandsen-omzetten-naar-online-versie-gratis-zoek-niet-naar-movavi/"><u>PCX-Bestandsen Omzetten Naar Online Versie Gratis - Zoek Niet Naar Movavi</u></a></li>
 </ul></div>
 

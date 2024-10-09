@@ -1,7 +1,7 @@
 ---
 title: Resolving Camera App Crash Code on Windows OS
-date: 2024-09-10T06:55:07.602Z
-updated: 2024-09-17T08:30:41.364Z
+date: 2024-10-06T22:39:38.524Z
+updated: 2024-10-09T00:08:08.207Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,14 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 2. Then double-click**Audio inputs and outputs** to view all devices associated with that category.  
 ![The Audio inputs and output category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-inputs-and-outputs.jpg)
 3. Right-click your PC’s device and select**Enable device** if it’s disabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
 5. Click**Microphone** to access settings for that device.
@@ -60,9 +68,23 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Plug an External Webcam Into an Alternative USB Port
 
  This potential error 0xA00F425D fix is for users who utilize external webcams with the Camera app. Some people have said they resolved error 0xA00F425D by plugging their external webcams into an alternative USB 2.0 port on their PCs. It's worth a try if you use an external camera for recording.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Registry’s Platform Keys
 
@@ -81,23 +103,18 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Erase the current registry location in the address bar, and input the following alternative path there:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Your Webcam’s Driver
 
@@ -107,27 +124,27 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/driver-booster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clean Boot Your PC
 
  To prevent software conflicts that could potentially cause error 0xA00F425D, try setting Windows 11/10 to clean boot. Doing so will disable third-party apps and services from starting with Windows. Check out our guide about[clean booting on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for details about how to apply this potential solution by disabling such startup items with Task Manager and MSConfig.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
 
@@ -136,13 +153,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Deleting your PC’s most recent Windows update would fix the error if that’s the case. You can apply such a potential resolution by manually uninstalling the latest update listed in the Control Panel’s Programs and Features applet. Our guide to[uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) includes step-by-step instructions for how to do that.
 
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record Videos With the Camera App Again
 
@@ -161,5 +171,17 @@ This is how you can run those troubleshooters in Windows 10 and 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-fix-to-spot-instagram-disconnects/"><u>[New] Quick Fix to Spot Instagram Disconnects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-experts-manual-to-efficient-screencasting/"><u>[New] The Expert's Manual to Efficient Screencasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023-play-facebook-videos-on-tv/"><u>[Updated] 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-sounds-unlimited-grab-and-go/"><u>[Updated] FB Sounds Unlimited Grab & Go</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-shifting-your-powertoys-profile-to-another-pc/"><u>Efficiently Shifting Your PowerToys Profile to Another PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-resolving-rdp-errors-in-windows-11/"><u>Essential Tips for Resolving RDP Errors in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>In 2024, Navigating Best Options Expert Picks From Top 9 Free Logomakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-a-light-on-your-content-creation-for-2024/"><u>Shine a Light on Your Content Creation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-uninstall-restrictions-on-win-11/"><u>Troubleshooting: Overcoming Uninstall Restrictions on Win 11</u></a></li>
+</ul></div>
 

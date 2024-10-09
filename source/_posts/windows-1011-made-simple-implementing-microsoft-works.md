@@ -1,7 +1,7 @@
 ---
 title: "Windows 10/11 Made Simple: Implementing Microsoft Works"
-date: 2024-09-29T20:54:27.827Z
-updated: 2024-10-03T20:32:37.477Z
+date: 2024-10-04T21:45:31.694Z
+updated: 2024-10-09T07:10:36.392Z
 tags:
   - windows10
   - windows11
@@ -50,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
@@ -70,68 +57,60 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
 ![The Microsoft Works suite window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll also notice that the window includes a calendar on which you can view appointments. To do so, you’ll need to add appointments inside the Works Calendar app. You can launch that software by clicking the **Open Calendar** button. To add an event, select a day within the Calendar app and then input a note for it at a time on the **My Calendar** tab.
 
 ![The Microsoft Works Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-calendar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the **Templates** tab at the top of Microsoft Works to access the pre-made templates. There you can select template categories for creating newsletters, flyers, cards, home budgeting, travel, and sports documents in Works. Then choose a template to open within the MS Works word processor, spreadsheet, or database software.
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Discover Microsoft Works 9 in the Modern Era
 
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-untouched-live-visual-recorders/"><u>[New] 2024 Approved Untouched Live Visual Recorders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-cost-effective-tactics-in-video-promotions/"><u>[New] Cost-Effective Tactics in Video Promotions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-expert-advice-how-to-share-your-imovie-videos-on-vimeo/"><u>[New] Expert Advice How to Share Your iMovie Videos on Vimeo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-hot-40i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Hot 40i Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-code-0x887a0006-for-gpu-stalls-windows/"><u>Addressing Code 0X887A0006 for GPU Stalls Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-ages-in-a-windows-configuration/"><u>Decoding Ages in a Windows Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-process-how-to-use-system-restore-correctly/"><u>Decoding the Process: How to Use System Restore Correctly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fehlerbehebung-und-losungen-fur-herunterladen-von-dvds-in-formaten-wie-mp4-avi-auf-iphone-oder-ipad/"><u>Fehlerbehebung Und Lösungen Für Herunterladen Von DVDs in Formaten Wie MP4, AVI Auf IPhone Oder iPad</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-7-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 7 Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-column-addition-solutions-for-excel-windows-problems/"><u>Mastering Column Addition: Solutions for Excel Windows Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-device-connectivity-errors-in-modern-windows/"><u>Overcome Device Connectivity Errors in Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80d03801-on-microsoft-pcs/"><u>Overcoming Error 0X80D03801 on Microsoft PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-profits-top-5-productivity-apps-for-windows-11/"><u>Skyrocket Profits: Top 5 Productivity Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-fixes-bypassing-windows-black-screen-woes/"><u>Top Fixes: Bypassing Windows Black-Screen Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-audio-woes-zero-sound-output/"><u>Windows Audio Woes: Zero Sound Output</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-success-top-10-steps-to-stand-out-for-2024/"><u>Youtube Shorts Success - Top 10 Steps to Stand Out for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +119,19 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>[New] 2024 Approved Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-perfect-your-unboxing-game-8-tips-from-experts/"><u>[New] In 2024, Perfect Your Unboxing Game 8 Tips From Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>2024 Approved The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-stacked-icons-on-operating-system-ui/"><u>Disentangling Stacked Icons on Operating System UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxvk-transforming-windows-gaming-experience-for-the-better/"><u>DXVK: Transforming Windows Gaming Experience for the Better</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-the-default-folder-cooking-a-comprehensive-guide/"><u>Methods to Reactivate the Default Folder' Cooking: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-music-for-free-top-10-recording-software-options/"><u>New 2024 Approved Create Music for Free Top 10 Recording Software Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-wows-fatal-issue-132-in-win-1011/"><u>Strategies to Eradicate WoW's Fatal Issue #132 in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-configuring-script-policies-in-ps/"><u>The Definitive Guide to Configuring Script Policies in PS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-seat-of-arbitration-determines-the-procedural-law-that-governs-the-arbitration-process-and-can-affect-the-degree-of-court-intervention/"><u>The Seat of Arbitration Determines the Procedural Law that Governs the Arbitration Process and Can Affect the Degree of Court Intervention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-advanced-language-models-like-chatgpt-disrupt-current-search-engine-giants/"><u>Will Advanced Language Models Like ChatGPT Disrupt Current Search Engine Giants?</u></a></li>
+</ul></div>
+

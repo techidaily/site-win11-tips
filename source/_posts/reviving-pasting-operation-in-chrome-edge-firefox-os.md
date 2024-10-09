@@ -1,7 +1,7 @@
 ---
 title: Reviving Pasting Operation in Chrome, Edge, Firefox OS
-date: 2024-10-02T18:40:32.078Z
-updated: 2024-10-03T18:17:14.382Z
+date: 2024-10-07T23:11:11.889Z
+updated: 2024-10-09T04:47:45.552Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 
  If none of the above basic checks help, it's time to move on to the other fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check How Widespread the Issue Is
 
  Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 ## 3\. Check for Problems With Your Keyboard
 
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -73,24 +73,38 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 
 ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Clipboard Cache and History
 
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
 
@@ -101,20 +115,6 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 3. Navigate to the **Appearance** tab on the left.
 4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Check for Browser Interference
 
@@ -133,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
@@ -151,24 +151,6 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discover-the-best-snapchat-video-edits-on-android-and-iphone/"><u>[New] 2024 Approved Discover the Best Snapchat Video Edits on Android and iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-seamlessly-sync-your-ideas-on-mematic-for-2024/"><u>[New] Seamlessly Sync Your Ideas on Mematic for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>[Updated] A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aac-m4r-mp3-moveavi/"><u>AAC M4R 음성 파일에서 MP3로의 무료 인터넷 전송 변환: MoveAVi</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/analyzing-public-sentiment-for-vllo-for-2024/"><u>Analyzing Public Sentiment for VLLO for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-des-images-bmp-vers-ligne-movavi/"><u>Conversion Gratuite Des Images BMP Vers Ligne - Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/delving-deep-into-whatsapps-voice-chat-processes/"><u>Delving Deep Into WhatsApp's Voice Chat Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-kobo-nia-how-it-stacks-up-against-kindle-on-amazon/"><u>Evaluating the Kobo Nia - How It Stacks Up Against Kindle on Amazon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-vob-files-to-high-quality-flac-format-with-ease/"><u>Free Online Converter: Transform VOB Files to High-Quality FLAC Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-video-converter-convert-mka-and-aac-files-using-movavi/"><u>Free Online Video Converter - Convert MKA & AAC Files Using Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/from-novice-to-proficient-the-path-with-zoom-webinars/"><u>From Novice to Proficient The Path with Zoom Webinars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-pathway-to-identifying-cybersecurity-risks-on-desktops/"><u>Personalized Pathway to Identifying Cybersecurity Risks on Desktops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-freeware-top-ranked-mp4-video-transcoder-without-cost/"><u>Ultimate Freeware: Top-Ranked MP4 Video Transcoder without Cost</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +158,25 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-and-share-screencast-tips-from-ezvide-expertise-for-2024/"><u>[New] Record and Share Screencast Tips From EZvide Expertise for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-experts-choice-best-free-video-tools-listing/"><u>[Updated] 2024 Approved Expert's Choice Best Free Video Tools Listing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-leading-apps-to-create-professional-youtube-intros/"><u>[Updated] In 2024, 5 Leading Apps to Create Professional YouTube Intros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pc-editors-a-compilation-without-inshot/"><u>[Updated] PC Editors A Compilation Without Inshot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-clear-the-microsoft-defender-protection-history-on-windows-11-and-11/"><u>4 Ways to Clear the Microsoft Defender Protection History on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-enabling-imessage-on-non-ios-devices/"><u>A Deep Dive Into Enabling iMessage on Non-iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-overcoming-cannot-find-gpeditmsc/"><u>A Step-by-Step Guide to Overcoming Cannot Find Gpedit.msc</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-software/"><u>Adapting Oculus Quest 2 for Windows VR Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-issue-of-erased-typing-on-windows-systems/"><u>Addressing the Issue of Erased Typing on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-virtual-disk-startup-issues-in-windows-disk-manager/"><u>Addressing Virtual Disk Startup Issues in Windows Disk Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-service-non-response-overcome-error-1053-quickly/"><u>Addressing Windows Service Non-Response: Overcome Error 1053 Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-pc-a-guide-to-setting-up-hyper-v-on-win-11-home/"><u>Boost Your PC: A Guide to Setting Up Hyper-V on Win 11 Home</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262388179-the-epic-showdown-amds-epyc-processors-vs-nvidias-arm-powered-grace-who-wins-on-performance-double-the-speed-revealed/"><u>The Epic Showdown: AMD's EPYC Processors Vs. Nvidia's ARM-Powered Grace - Who Wins on Performance? Double the Speed Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-youtube-rank-tracker-tools-unveiled-for-2024/"><u>Top 8 YouTube Rank Tracker Tools Unveiled for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win1110-nat-transition-altering-type-effectively/"><u>Win11/10 NAT Transition: Altering Type Effectively</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Guide to Reviving Deadlocked Downloads in Windows 11 (3)
-date: 2024-09-14T16:51:33.395Z
-updated: 2024-09-22T02:27:30.690Z
+date: 2024-10-02T06:32:03.141Z
+updated: 2024-10-08T21:49:04.821Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Select a Different Download Location in Your Browser
 
  Most Windows browsers download files to the Downloads user folder by default. There could be an issue with that folder. In this case, selecting a different download location with browser settings might work for some users.
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -60,26 +81,19 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -90,22 +104,15 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
@@ -117,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -143,6 +150,14 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 2. Click **Reset settings** in the sidebar.  
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Reset** inside the confirmation prompt.
 
 ## 9\. Factory Reset Window
@@ -169,5 +184,22 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-3d-software-for-youtube-intro-creators/"><u>[Updated] The Best 3D Software for YouTube Intro Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-photography-using-hdr/"><u>2024 Approved Expert iPhone Photography Using HDR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-pairing-your-apple-homepod-with-your-tv-setup/"><u>Complete Instructions on Pairing Your Apple HomePod with Your TV Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-visibility-of-clock-on-windows-11-bar/"><u>Controlling Visibility of Clock on Windows 11 Bar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-functionality-of-chatgpt-shared-links/"><u>Exploring the Functionality of ChatGPT Shared Links</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-honor-100-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Honor 100 Pro.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-your-steam-symbols/"><u>How to Reinstate Your Steam Symbols</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-windows-emailcalendar-pop-infuse-it-with-pics/"><u>Make Windows Email/Calendar Pop: Infuse It With Pics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rallying-colombo-support-with-dannys-foundation/"><u>Rallying Colombo Support with Danny's Foundation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-disabled-radeon-software-on-windows-computers/"><u>Solutions for Disabled Radeon Software on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/struggling-with-windows-11-upgrade-heres-what-you-can-do-instead/"><u>Struggling with Windows 11 Upgrade? Here’s What You Can Do Instead</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-high-energy-spikes-a-guide-for-windows-users/"><u>Taming High Energy Spikes: A Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-techniques-for-an-improved-start-screen-in-windows-11/"><u>Top Techniques for an Improved Start Screen in Windows 11</u></a></li>
+</ul></div>
 

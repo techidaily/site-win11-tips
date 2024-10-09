@@ -1,7 +1,7 @@
 ---
 title: "Managing Virtual Memory: A Comprehensive Guide for Win 11"
-date: 2024-10-01T21:54:26.971Z
-updated: 2024-10-03T18:46:07.735Z
+date: 2024-10-04T02:56:45.590Z
+updated: 2024-10-08T16:35:21.161Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
  Let's now see how to reset Virtual Memory on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -48,15 +41,22 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
 ![How to Reset Virtual Memory on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-reset-virtual-memory-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open up the Performance Options window, where you can manage virtual memory settings. For this, switch to the **Advanced** tab and click on **Change** in the Virtual Memory section.
 
 ![Reset Page Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-page-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next screen, uncheck the **Automatically manage paging file size for all drives** checkbox and select the drive you want to configure virtual memory. Normally, this will be the drive on which Windows is installed.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
  After following the above steps, click **OK** to save your changes. Now close the System Properties and Settings windows and restart your computer. The new virtual memory settings should now be in effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use Group Policy Editor
@@ -82,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
@@ -100,6 +93,13 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
  If you don't have access to the Local Group Policy Editor, you can also use the Registry Editor to reset virtual memory settings on Windows. Before proceeding, you should [create a backup of the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) in case something gets wrong.
 
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
 
@@ -126,24 +126,18 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-crafting-the-podcast-intros-captivating-your-audience-from-the-start-for-2024/"><u>[New] Crafting the Podcast Intros Captivating Your Audience From the Start for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-android-non-root-audio-capture-4-easy-methods/"><u>[New] In 2024, Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-android-and-ios-prime-asmr-software-options/"><u>[Updated] 2024 Approved Android & iOS Prime ASMR Software Options</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1716069724974-updated-in-2024-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[Updated] In 2024, Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-best-audio-changing-software-for-virtual-artists-success/"><u>2024 Approved Best Audio-Changing Software for Virtual Artists' Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/booking-your-visit-a-step-by-step-guide-to-scheduling-at-the-genius-bar/"><u>Booking Your Visit: A Step-by-Step Guide to Scheduling at the Genius Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-to-text-in-real-time-with-whisper-desktop/"><u>How to Turn Your Voice to Text in Real Time With Whisper Desktop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-7-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 7 Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/latency-free-leap-essential-tips-for-clean-video-windows-streams/"><u>Latency-Free Leap: Essential Tips for Clean Video Windows Streams</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mastering-sonic-modifications-the-5-most-popular-tools-for-2024/"><u>Mastering Sonic Modifications The 5 Most Popular Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reset-and-reactivate-a-windows-users-guide-for-ms-store/"><u>Reset and Reactivate: A Windows User's Guide for MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-deleted-input-strategies-for-windows-computers/"><u>Reviving the Deleted Input: Strategies for Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-display-embrace-tiled-workspace/"><u>Streamline Your Display: Embrace Tiled Workspace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-wi-fi-signal-boosters/"><u>Top Rated Wi-Fi Signal Boosters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-instagram-silent-spots-how-to-make-every-frame-loud-and-clear/"><u>[New] 2024 Approved Instagram Silent Spots - How to Make Every Frame Loud and Clear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716042022241-updated-in-2024-top-6-minecraft-house-ideas-for-beginners/"><u>[Updated] In 2024, Top 6 Minecraft House Ideas [for Beginners]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beatwave-visuals-instagram-videos-set-to-soundtracks-for-2024/"><u>Beatwave Visuals Instagram Videos Set to Soundtracks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-windows-security-pin-made-simple/"><u>Changing Windows Security PIN Made Simple</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-windowed-app-relocations/"><u>Methods to Prevent Windowed App Relocations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-wi-fi-setup-woes-reconciling-missing-steps-in-prompts/"><u>Navigating Wi-Fi Setup Woes: Reconciling Missing Steps in Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rushing-past-stuck-warcraft-64-patches/"><u>Rushing Past Stuck Warcraft 6.4 Patches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-6-revealed-discover-pricing-availability-dates-and-cutting-edge-specifications/"><u>Samsung Galaxy Z Fold 6 Revealed! Discover Pricing, Availability Dates & Cutting-Edge Specifications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-edge-browser-msedgeexe-malfunctions-for-a-smooth-computing-session/"><u>Solving Edge Browser MsEdge.exe Malfunctions for a Smooth Computing Session</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-repairing-failed-logins-to-user-profile-service-an-in-depth-tutorial/"><u>Successfully Repairing Failed Logins to User Profile Service: An In-Depth Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/they-are-suited-for-large-volumes-of-low-viscosity-fluids-at-lower-pressures/"><u>They Are Suited for Large Volumes of Low-Viscosity Fluids at Lower Pressures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284663391-version-compatibility/"><u>Version Compatibility:</u></a></li>
 </ul></div>
 

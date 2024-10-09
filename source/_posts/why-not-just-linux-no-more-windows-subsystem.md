@@ -1,7 +1,7 @@
 ---
 title: Why Not Just Linux? No More Windows Subsystem
-date: 2024-09-27T23:02:56.719Z
-updated: 2024-10-03T16:53:50.862Z
+date: 2024-10-07T17:05:21.087Z
+updated: 2024-10-09T06:28:48.209Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
  WSL was mainly designed with web developers in mind. Many developers work on Linux, but they need to test their websites on Windows to make sure they look right. WSL lets them do this without needing to switch back and forth between operating systems. It also provides access to a full version of Bash (which is the default shell for many Linux distros), as well as its underlying toolset.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are the Advantages of WSL?
 
  As much as you don't need WSL, there are some upsides to using it.
@@ -44,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 * It's easy to install: If installing WSL wasn't already simple enough, Microsoft has made it even easier by providing an installer that guides users through each step needed before installing WSL on their computers--and even includes troubleshooting tips if something goes wrong during the installation process!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disadvantages of WSL
@@ -65,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
  Your[system PATHs are also completely separate](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) when using WSL. So if you install a program like Node just on the Windows side, none of the commands will work in WSL unless you separately install Node on Linux.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Alternatives to WSL?
 
 ![Git bash move to destination directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/git-bash-move-to-directory.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're an experienced Linux user unfamiliar with the Windows command line, there are other options for running Linux/Bash on your Windows machine.
 
@@ -89,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 * **Linux in a VM:** There are many virtualization programs out there. You could install the[VMware Workstation Player](https://www.vmware.com/uk/products/workstation-player.html) free edition ($0) or[VirtualBox](https://www.virtualbox.org/) ($0) on your PC then download an ISO image file containing Ubuntu 18 LTS (or whatever flavor appeals most).
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WSL Is a Nice Feature... but It Isn’t Essential
@@ -122,22 +122,19 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-boost-engagement-on-instagram-stories-mastering-multi-image-techniques-for-2024/"><u>[Updated] Boost Engagement on Instagram Stories Mastering Multi-Image Techniques for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-filmopedia-answer-to-inquiries/"><u>2024 Approved FilmoPedia Answer to Inquiries</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/animal-antics-live-familys-happiness-source/"><u>Animal Antics Live: Family's Happiness Source</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-insignia-vga-adapter-software-for-usb-connection/"><u>Download and Setup: Insignia VGA Adapter Software for USB Connection</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-the-smart-photo-editor-by-anthropics-is-it-worth-your-time/"><u>Expert Insights on the Smart Photo Editor by Anthropics - Is It Worth Your Time?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-functionality-to-flair-windows-10s-transition-to-11/"><u>From Functionality to Flair: Windows 10'S Transition to 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-dream-laptop-with-these-ifa-2023-picks/"><u>Get Your Dream Laptop with These IFA 2023 Picks</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-an-end-task-option-on-the-windows-11-taskbar/"><u>How to Enable an End Task Option on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-c53-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme C53 Location | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-windows-11-search-woes/"><u>Quick Guide to Rectify Windows 11 Search Woes</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-pc-without-bitlockers-help-on-windows/"><u>Safeguard Your PC Without BitLocker's Help on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shortcuts-for-skipping-windows-sign-in-requirements/"><u>Shortcuts for Skipping Windows Sign-In Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unanticipated-security-alerts-in-win10win11/"><u>Troubleshooting Unanticipated Security Alerts in Win10/Win11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-12-html5-videophones-for-optimal-viewing/"><u>[New] 2024 Approved Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-picture-perfection-expert-tips-unveiled/"><u>[Updated] Mastering Instagram Picture Perfection Expert Tips Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-instagrams-repost-policy/"><u>[Updated] Navigating Instagram's Repost Policy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-available-device-driver-issue-in-os-update/"><u>Addressing 'No Available' Device Driver Issue in OS Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-1drive-errors-steps-to-success-in-w11/"><u>Addressing 1Drive Errors: Steps to Success in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-to-the-latest-windows-11-maintain-linux-subsystem-efficiency/"><u>Adjusting to the Latest Windows 11, Maintain Linux Subsystem Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aid-for-absconded-hardware-recognition-in-winos/"><u>Aid for Absconded Hardware Recognition in WinOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-12-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 12 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-your-steam-profile-tracking-gametime-and-awards/"><u>Explore Your Steam Profile: Tracking Gametime and Awards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-synergy-leveraging-facebook-linkedin-and-youtube-for-maximum-reach/"><u>Social Synergy: Leveraging Facebook, LinkedIn, and YouTube for Maximum Reach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363489312-solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-quick-mov-to-wmv-conversions-discover-the-best-techniques-for-pcs-and-macs-ranked-1-5/"><u>The Ultimate Guide to Quick MOV to WMV Conversions – Discover the Best Techniques for PCs and Macs, Ranked #1-#5</u></a></li>
 </ul></div>
 

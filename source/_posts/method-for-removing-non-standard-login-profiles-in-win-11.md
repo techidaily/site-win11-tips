@@ -1,7 +1,7 @@
 ---
 title: Method for Removing Non-Standard Login Profiles in Win 11
-date: 2024-10-02T18:11:12.251Z
-updated: 2024-10-03T17:44:27.675Z
+date: 2024-10-05T21:29:22.902Z
+updated: 2024-10-08T23:39:48.192Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To sign out other users on Windows 11, you can use Task Manager, Command Prompt, or Process Explorer.
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 * Be sure to consider any unsaved work before logging off a user.
 
  Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Sign Out Other Users Using the Task Manager
 
@@ -55,22 +55,36 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 2. In Task Manager, open the **Users** tab in the left pane which displays the number of users currently logged in. If not visible, click the **Open Navigation** button (three horizontal bars) in the top left corner.  
 ![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
 3. In the **Users** tab, locate the account you want to sign off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on the user account and select **Sign off**.  
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -91,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Log Off Other Users Using Process Explorer
 
  Process Explorer is part of [Windows Sysinternal Tools, a suite of system administration utilities](http://www.makeuseof.com/windows-sysinternals-guide/) from Microsoft. Though the freeware is popular among developers and system admins, anyone can use Process Explorer to use some of its advanced features.
@@ -110,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
@@ -124,27 +124,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Ask Other Users Before You Sign Them Out
 
  When you log off other users, any unsaved work in their accounts is lost. So do consider that before you apply the above methods. Logging off from a Windows account in a multi-user PC is a good habit because it reduces the chance of data loss and frees up the computer's resources for others. Always request others to sign off when their work is finished.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>[New] 2024 Approved Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-the-new-apeaksoft-screenscape-capture/"><u>[New] Unveiling the New Apeaksoft Screenscape Capture</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[Updated] Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-exclusive-list-of-leading-free-video-editing-programs/"><u>[Updated] Exclusive List of Leading Free Video Editing Programs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-replay-retro-thrills-top-5-ps1-game-emulators-reviewed-for-pc/"><u>2024 Approved Replay Retro Thrills - Top 5 PS1 Game Emulators Reviewed for PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-editing-speed-with-powertoys-features/"><u>Enhance Editing Speed with PowerToys Features</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-zero-5g-2023-turbo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Zero 5G 2023 Turbo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prime-windows-platforms-superior-nintendo-switch-simulators/"><u>Prime Windows Platforms: Superior Nintendo Switch Simulators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-miscalculated-cpu-percentages-on-task-manager-window/"><u>Rectifying Miscalculated CPU Percentages on Task Manager Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-default-settings-in-windows-11/"><u>Reinstating Default Settings in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-bluetooth-on-your-computers-system-manager/"><u>Step-by-Step Solution: Restoring Bluetooth on Your Computer's System Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-framing-speed-for-enhanced-victory/"><u>Streamline Framing Speed for Enhanced Victory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-steam-cloud-functionality/"><u>Streamlining Steam Cloud Functionality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +142,25 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-compreayers-guide-to-video-refinement-from-standard-definition-to-dynamic-range-zenith/"><u>[New] A Compreayer's Guide to Video Refinement From Standard Definition to Dynamic Range Zenith</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-spectacular-free-image-editors-the-new-era-for-2024/"><u>[New] Spectacular Free Image Editors The New Era for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>[Updated] 2024 Approved A Tech-Savvy Approach Securely Storing Snapchat Photos on Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-peek-into-the-heart-of-youtubes-video-operations-for-2024/"><u>[Updated] A Peek Into the Heart of YouTube's Video Operations for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-revealing-the-top-10-secret-story-admirers/"><u>[Updated] Revealing the Top 10 Secret Story Admirers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyys-smart-intelligence-catalyzing-enterprise-digitization-and-streamlining-processes/"><u>ABBYY's Smart Intelligence: Catalyzing Enterprise Digitization and Streamlining Processes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieve-wider-exposure-by-transferring-twitch-broadcasts-to-youtube/"><u>Achieve Wider Exposure by Transferring Twitch Broadcasts to YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-movecopy-tasks-to-windows-explorers-context-menu/"><u>Adding Move/Copy Tasks to Windows Explorer's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/copilot-disappearance-in-ws11-quick-fixes-guide/"><u>Copilot Disappearance in WS11: Quick Fixes Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-tips-to-address-and-correct-recurring-gameplay-interruptions-in-palworld/"><u>Essential Tips to Address & Correct Recurring Gameplay Interruptions in Palworld</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-camera-app-f429f-hiccup/"><u>How to Rectify Windows 11 Camera App F429F Hiccup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-roblox-error-262-instantly/"><u>Overcoming Roblox Error 262 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-onedrive-errors-on-windows-effective-fixes/"><u>Tackling OneDrive Errors on Windows: Effective Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-modern-standby-gets-a-bad-rap-in-windows/"><u>Why Modern Standby Gets a Bad Rap in Windows</u></a></li>
+</ul></div>
+

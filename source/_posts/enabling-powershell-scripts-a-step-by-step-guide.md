@@ -1,7 +1,7 @@
 ---
 title: "Enabling PowerShell Scripts: A Step-by-Step Guide"
-date: 2024-09-20T04:47:06.945Z
-updated: 2024-09-21T23:57:14.912Z
+date: 2024-10-02T02:58:15.680Z
+updated: 2024-10-09T07:19:38.376Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -76,15 +83,22 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
@@ -99,10 +113,10 @@ To disable script execution using PowerShell:
 4. The above command will disable script execution for**CurrentUser** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
@@ -154,5 +168,24 @@ The below table briefly explains all the execution policy scopes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[New] 2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-window-capture-suite-pro-xp/"><u>[Updated] In 2024, Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-free-legal-chants-and-sounds-for-meditation-practice/"><u>10 Free Legal Chants and Sounds for Meditation Practice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hps-color-expertise-in-full-display-the-z32x-review/"><u>2024 Approved HP's Color Expertise in Full Display The Z32X Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advance-your-tech-comparisons-utilizing-geekbenchs-cutting-edge-benchmarking-features-for-devices/"><u>Advance Your Tech Comparisons: Utilizing Geekbench's Cutting-Edge Benchmarking Features for Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-internal-failure-in-win11win10-connections/"><u>Correcting Internal Failure in Win11/Win10 Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-functionality-with-new-contextual-folders/"><u>Enhancing Taskbar Functionality with New Contextual Folders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 11 Pro Max and iPad?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-13-ultra-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi 13 Ultra Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-full-load-in-windows-chatgpt/"><u>Mitigating Full Load in Windows ChatGPT</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mobile-access-made-easy-how-to-enjoy-your-digital-albums-on-smartphones-via-flipbuilders-platform/"><u>Mobile Access Made Easy: How to Enjoy Your Digital Albums on Smartphones via FlipBuilder's Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-100-obstacle-in-windows-update-processes/"><u>Overcome the 100% Obstacle in Windows Update Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-phantom-devices-in-pcs/"><u>Strategies to Address Phantom Devices in PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-for-tackling-windows-camera-errors/"><u>Swift Strategies for Tackling Windows Camera Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reigniting-winget-in-windows-11/"><u>Troubleshooting: Reigniting Winget in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsticking-windows-update-quick-repair-tips/"><u>Unsticking Windows Update: Quick Repair Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/visionary-auto-crypto-analysts-2024-prospectus/"><u>Visionary Auto Crypto Analysts, 2024 Prospectus</u></a></li>
+</ul></div>
 

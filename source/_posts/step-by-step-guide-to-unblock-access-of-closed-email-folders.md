@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Unblock Access of Closed Email Folders
-date: 2024-09-15T23:49:43.748Z
-updated: 2024-09-22T02:03:00.491Z
+date: 2024-10-02T22:10:31.639Z
+updated: 2024-10-08T23:05:40.675Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,20 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 3. Go to **Mail (Microsoft Outlook)**.  
 ![Go to Mail Option in the Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-go-to-mail-option-in-the-windows-control-panel.jpg)
 4. Click the **Data Files...** button.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the OST file location and click **Open File Location...**  
 ![Click the Open File Location Button After Selecting the OST File in the Data Files Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-click-the-open-file-location-button-after-selecting-the-ost-file-in-the-data-files-tab.jpg)
 6. Right-click the file in the **File Explorer** and select **Properties**. If the file type is **OST**, the file is in the right place, and no action is needed.  
@@ -71,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
  To ensure that the OST file is not corrupt, copy it to a safe location outside the Outlook installation folder. Then, right-click and delete the main OST file.
 
  After that, restart Outlook, and it will automatically recreate the OST file and download the data from the Exchange Server. If you decide to go this route, remain connected to the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check for Issues With Your Outlook Profile
 
@@ -101,15 +108,22 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 ![Run a Command to Reset the Navigation Pane in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-run-a-command-to-reset-the-navigation-pane-in-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, relaunch Outlook. If resetting the navigation pane doesn't work, you should delete the XML file manually. To do this, press **Win + R**, type **"%localappdata%\\Microsoft\\Outlook"** and hit **Enter**. After that, delete any XML files you find in this folder.
 
  Then, restart Outlook from scratch, and it will recreate the XML file with default settings. There's a good chance that it will resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Outlook PST Files
 
@@ -121,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 3. Click **Browse**, paste the path from the error window into the **Inbox Repair** tool, and click Start.  
 ![Click Start After Pasting the Path From the Error Window into the Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-click-start-after-pasting-the-path-from-the-error-window-into-the-inbox-repair-tool.jpg)
 4. Then, click the **Repair** button to complete the repair.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can't locate the Outlook folder in the path mentioned above, see our [guide on repairing the PST file](https://www.makeuseof.com/repair-pst-without-scanpst/) for the exact path.
 
@@ -138,13 +159,20 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 ![Click Next After Selecting Outlook From the List of Apps in the Microsoft Support and Recovery Assistant Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-click-next-after-selecting-outlook-from-the-list-of-apps-in-the-microsoft-support-and-recovery-assistant-window.jpg)
 6. Then, follow the on-screen instructions to carry out the repair.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If any underlying problem with the Outlook client contributed to this issue, running this tool will most likely resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run Outlook on Windows Without a Hitch
@@ -161,5 +189,17 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/aim-for-excellence-prime-iphone-angles-for-professional-shots-for-2024/"><u>Aim for Excellence Prime iPhone Angles for Professional Shots for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extend-windows-security-integrating-firewalls-into-context-menus/"><u>Extend Window's Security: Integrating Firewalls Into Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-gift-windows-apps-on-christmas-via-the-microsoft-store/"><u>How to Gift Windows Apps on Christmas via the Microsoft Store</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-parrot-mambo-complete-review/"><u>In 2024, Parrot Mambo Complete Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-netflixs-innovative-split-screen-tech-for-2024/"><u>Mastering Netflix's Innovative Split Screen Tech for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-multimonitor-setup-in-win11/"><u>Navigating Through the Complexities of Multimonitor Setup in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-step-by-step-guide-to-unstick-your-pc-during-windows-configuration/"><u>Resolved: Step-by-Step Guide to Unstick Your PC During Windows Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-access-control-system-glitches/"><u>Tackling Windows Access Control System Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721397530658-tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered.</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-microsofts-new-ai-feature-revolutionize-your-workflow-with-their-innovative-copy-and-paste-functionality-insider-tips-on-usage-techcrunch/"><u>Unveiling Microsoft's New AI Feature: Revolutionize Your Workflow with Their Innovative Copy-and-Paste Functionality - Insider Tips on Usage | TechCrunch</u></a></li>
+</ul></div>
 

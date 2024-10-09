@@ -1,7 +1,7 @@
 ---
 title: Correcting Black Screen Issue in Windows Remote PC
-date: 2024-09-26T18:13:53.180Z
-updated: 2024-10-03T18:24:39.940Z
+date: 2024-10-02T16:57:49.870Z
+updated: 2024-10-08T19:08:52.423Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 
  While setting the screen resolution is important, you can't ignore the other display settings. Move to the below steps to learn more about tweaking the display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Adjust the Remote Desktop Display Settings
 
  Adjusting your remote desktop display settings can easily help you fix the black screen issue.
@@ -63,12 +56,40 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 2. Type**mstsc** in the search box and press the**enter** key.  
 ![Opening RDC From Windows Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-rdc-from-windows-run-dialog.jpg)
 3. Click the**Show Options** button in the bottom-left corner and head towards the**Display** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under**Colors** , select**High Color (16 bit)** from the dropdown. Note that a higher number means better display quality. But, a lower number can help you out in the case of a black screen.  
 ![RDC Display Color Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-dispaly-color-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check for the error now by connecting to your remote desktop. If it is not working, you can try changing the color depth to**Highest Quality (32 bit)** .
 
  Note that black screen issues can have various causes, and the solution may not always be adjusting the display settings. If your issue is still unresolved, proceed to the advanced troubleshooting steps given below.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update Your Computer's Graphics Driver
 
@@ -77,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
  If you’re not a geek, we’ve covered a guide on[updating your GPU driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
 
  Before moving forward, make sure you[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) on your desktop. It'll give you a safer side if your system gets corrupt or the GPU drivers behave weirdly after updating.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restart the Remote Desktop Service
 
@@ -88,20 +116,6 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 3. Right-click on**Remote Desktop Services** and select the**Restart** option.  
 ![RDC Service Restart Option In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restarting-the-rdc.jpg)
 4. You can now restart your computer to ensure the changes are correctly applied.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Bitmap Caching
 
@@ -118,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 
  Note that once you disable it, the images will not be stored (or cached) locally. It means you may experience slightly slower performance while interacting with the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Enable WDDM Graphics Display Driver
 
  The WDDM (Windows Display Driver Model) is a special type of display driver. It helps your graphics card work more efficiently, improving your computing experience.
@@ -139,19 +146,27 @@ Follow the below steps to enable WDDM for remote desktop connections:
 ![Local Group Policy Editor In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-local-group-policy-editor-from-run-dialog.jpg)
 2. Within the**Local Group Policy Editor** window, head over to**Computer Configuration** . Next, move on to**Administrative Templates > Windows Components** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Double-click on**Remote Desktop Services** and then go to **Remote Desktop Session Host > Remote Session Environment** .  
 ![Remote Desktop Services In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remote-desktop-services-in-gpe.jpg)
 4. Double-click the **Use WDDM graphics display driver for Remote Desktop Connections** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select or check the**Enabled** option to enable this policy.  
 ![WDDM Settings In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wddm-settings-in-gpe.jpg)
 6. Click the**Apply** button, and after that, select**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will force Remote Desktop Connection to utilize WDDM for all the RDC sessions.
 
@@ -171,19 +186,6 @@ Follow the below steps to enable WDDM for remote desktop connections:
 5. Click**Hide Options** and enter the remote computer's name and username. You're now ready to connect to your remote computer.
 
  Overall, the above settings may vary depending on your needs and computer specifications. So, we recommend that you test each setting to see which one works best for you.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Your Remote Desktop Back in Action
 
@@ -206,22 +208,22 @@ Follow the below steps to enable WDDM for remote desktop connections:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-investigating-competitors-to-manycam-better-choices/"><u>[New] Investigating Competitors to ManyCam Better Choices?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>[New] The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-all-round-kinetics-examination-2023/"><u>[Updated] All-Round Kinetics Examination 2023</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-wealth-through-instagrams-revenue-avenues/"><u>[Updated] In 2024, Unlocking Wealth Through Instagram's Revenue Avenues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-online-media-crafter-for-2024/"><u>[Updated] Online Media Crafter for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-to-turn-off-or-not-navigating-through-your-off-facebook-activities/"><u>2024 Approved To Turn Off or Not Navigating Through Your Off-Facebook Activities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wmvogvmovavi/"><u>免費在線WMV和OGV間的格式轉換：一探Movavi技術</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-archivos-mp3-al-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos MP3 Al Formato 3GP Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-transform-rmvb-videos-into-high-quality-m4v-with-movavis-free-online-tool/"><u>Effortlessly Transform RMVB Videos Into High-Quality M4V with Movavi's Free Online Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-online-omzetten-van-ogg-naar-wav-movavi/"><u>Gratuit Online Omzetten Van Ogg Naar Wav - Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-oferece-conversao-webp-para-tiff-sem-custo-funcionando-na-internet/"><u>Movavi Oferece Conversão Webp Para Tiff Sem Custo - Funcionando Na Internet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp3-wav-mpg-movavi-aac/"><u>MP3, WAV 등 MPG 애드셋을 제공하는 Movavi에서 간단한 방법: AAC 무료 변환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/omzetten-mmf-bestandjes-online-zonder-mijotoen-movavi/"><u>Omzetten MMF-Bestandjes Online Zonder Mijotoen - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformacion-sin-costes-como-convertir-mpg-en-mp4-usando-el-conversor-online-y-gratis-de-movavi/"><u>Transformación Sin Costes: Cómo Convertir MPG en MP4 Usando El Conversor Online Y Gratis De Movavi.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-finest-affordable-webm-players-on-market-for-2024/"><u>Unveiling the Finest Affordable WebM Players on Market for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-video-visibility-with-strategic-youtube-links/"><u>[New] In 2024, Enhancing Video Visibility with Strategic YouTube Links</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-innovation-in-action-youtube-split-screen-techniques/"><u>[New] In 2024, Innovation in Action YouTube Split-Screen Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-video-data-use-in-a-full-day-watch/"><u>[Updated] Calculating Video Data Use in a Full-Day Watch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-whats-fresh-with-facebook-latest-info-here-for-2024/"><u>[Updated] What’s Fresh with Facebook? Latest Info Here for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-podcast-release-schedules/"><u>2024 Approved Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-text-in-the-windows-snip-tool/"><u>Advanced Techniques for Text in the Windows Snip Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-tactics-skirting-windows-account-sign-ins/"><u>Avoidance Tactics: Skirting Windows Account Sign-Ins</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-missing-pages-in-microsoft-store-windows/"><u>Dealing with Missing Pages in Microsoft Store Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-to-run-this-application-you-must-install-net-core-error/"><u>How to Fix the Windows “To Run This Application, You Must Install .NET Core” Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>In 2024, Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-keyscalyping-restore-your-arrows-now/"><u>Keyboard Keyscalyping? Restore Your Arrows Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-windows-11-character-map/"><u>Step-by-Step to Windows 11 Character Map</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-eliminating-nvidia-experience-disconnect-issues/"><u>Strategies for Eliminating Nvidia Experience Disconnect Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-access-and-manage-gpo-settings-in-win11/"><u>Swiftly Access and Manage GPO Settings in Win11</u></a></li>
 </ul></div>
 

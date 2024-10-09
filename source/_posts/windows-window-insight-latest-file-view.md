@@ -1,7 +1,7 @@
 ---
 title: "Windows Window Insight: Latest File View"
-date: 2024-09-16T16:42:08.364Z
-updated: 2024-09-21T20:28:13.557Z
+date: 2024-10-08T06:59:32.260Z
+updated: 2024-10-09T05:13:33.358Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  While Quick Access shows only a few files opened recently (approx. 20), the Recent Items folder keeps a history of files and folders opened many days ago. So, a user can go back to check which files were opened on a particular day, even a week or month ago.
 
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to View Recently Opened Files in Quick Access
 
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View Recently Opened Files for Specific Apps on Windows
 
  Although most apps allow users to view recently opened files within the app, Windows also keeps track of recently opened files in most cases.
@@ -82,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
@@ -101,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Recently Opened Files With Ease
@@ -126,5 +140,16 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-launch-clarified-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla Launch Clarified – Here's What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-rpc-fails-on-windows-os/"><u>Essential Steps to Resolve RPC Fails on Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-a-must-have-scanner-for-home-office-and-small-business-needs/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400: A Must-Have Scanner for Home Office & Small Business Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-your-ideal-phone-case/"><u>How to Choose Your Ideal Phone Case</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-brush-up-your-youtube-videos-with-color-correction/"><u>In 2024, Brush Up Your Youtube Videos with Color Correction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-windows-experience-with-customized-fn-keys-settings/"><u>Tailor Your Windows Experience with Customized FN Keys Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-managing-wins-ram-cache/"><u>Understanding and Managing Win's RAM Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-diablo-secrets-basic-techniques/"><u>Unlocking Diablo Secrets: Basic Techniques</u></a></li>
+</ul></div>
 

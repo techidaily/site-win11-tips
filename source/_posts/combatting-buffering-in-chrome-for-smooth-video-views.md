@@ -1,7 +1,7 @@
 ---
 title: Combatting Buffering in Chrome for Smooth Video Views
-date: 2024-09-29T19:39:19.429Z
-updated: 2024-10-03T23:19:35.657Z
+date: 2024-10-06T21:30:56.994Z
+updated: 2024-10-08T20:21:27.067Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
  If the above fixes don't resolve the issue and the lag persists, it's time for some more complex ones.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Free Up Your RAM
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  Once your RAM is freed up, try playing YouTube videos again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Close Resource-Hogging Chrome Processes
 
  If freeing up your memory doesn't reduce the video lag, look for memory-hogging Chrome processes and temporarily close them. Using Chrome's Task Manager can help you do this.
@@ -80,21 +73,22 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 3. Look at the processes with the most **memory footprint**, such as tabs, extensions, and other processes.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. End all processes you don't want to continue running or extensions straining your memory the most. To end any process, select it and click **End task**.
 
  Now try to play videos again and see if they lag.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the Chrome Performance Settings
 
@@ -109,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 3. Turn the toggle next to **Energy Saver** off and the toggle next to **Memory Saver** on.  
 ![Turn on Memory Saver and Disable Energy Saver in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-memory-saver-and-disable-energy-saver-in-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if this reduces Chrome's RAM footprint.
 
 ## 5\. Reduce the Video Quality
@@ -129,14 +116,20 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 3. Click **Quality** and select a lower quality than the current one.  
 ![Reduce the Quality of YouTube Video in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-reduce-the-quality-of-youtube-video-in-chrome.jpg)
 
- The video won't look as good now, but it should play better.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The video won't look as good now, but it should play better.
 
 ## 6\. Check Your Internet Connection
 
@@ -155,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 3. Go to **Graphics** and click on the **Change default graphics settings** button.  
 ![Click on the Change Default Graphics Settings Button in Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-click-on-the-change-default-graphics-settings-button-in-graphics-settings-of-the-windows-settings-app.jpg)
 4. Here, enable **hardware-accelerated GPU scheduling**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now anything that uses your GPU should run better. If you notice things working worse instead, deactivate the setting.
 
@@ -182,10 +182,10 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 ![Ensure the Chrome Browser is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-ensure-the-chrome-browser-is-up-to-date.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Binge Watch YouTube Videos Once Again
@@ -198,22 +198,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-7-packet-opening-experience-hacks-for-2024/"><u>[Updated] Top 7 Packet Opening Experience Hacks for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>2024 Approved Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-no-sound-issue-from-connected-hardware-in-windows/"><u>Clearing Up No Sound Issue From Connected Hardware in WINDOWS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-progress-in-5g-technology-with-a-focus-on-verizon-services/"><u>Exploring the Progress in 5G Technology with a Focus on Verizon Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-bring-back-your-pcs-bluetooth-in-windows-11-with-these-9-tips/"><u>How to Bring Back Your PC’s Bluetooth in Windows 11 with These 9 Tips</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-viral-cuisine-discover-the-top-15-most-popular-tiktok-food-videos-yet/"><u>In 2024, Viral Cuisine Discover the Top 15 Most Popular TikTok Food Videos Yet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-persistent-windows-10-bsod-problems/"><u>Solutions for Persistent Windows 10 BSOD Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-overlapping-camera-usage-on-your-pc/"><u>Solving Overlapping Camera Usage on Your PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/teenyscreenmugger-evaluation-insights-for-2024/"><u>TeenyScreenMugger Evaluation Insights for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insight-into-devhome-for-seamless-win11-experience/"><u>The Insight Into DevHome for Seamless Win11 Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-os-x-mavericks-mp4-editor-trim-cut-and-enhance-your-videos/"><u>Updated In 2024, OS X Mavericks MP4 Editor Trim, Cut, and Enhance Your Videos</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -221,3 +205,27 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-slicedmedia-studio/"><u>[New] 2024 Approved SlicedMedia Studio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visualsizetweak-mastering-your-instagram-media-for-2024/"><u>[New] VisualSizeTweak Mastering Your Instagram Media for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-breakdown-of-cloud-storage-pricing-expert-analysis-and-top-deals-for-2024/"><u>[Updated] Breakdown of Cloud Storage Pricing Expert Analysis & Top Deals for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-step-by-step-approach-to-yt-channel-descriptors/"><u>[Updated] In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-integrating-websites-into-your-instagram-presence/"><u>2024 Approved Integrating Websites Into Your Instagram Presence</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-creature-companions-best-animal-titles-on-android/"><u>In 2024, Creature Companions Best Animal Titles on Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-lava-yuva-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Lava Yuva 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-itel-s23-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Itel S23 Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-linkage-airpods-and-windows-harmony/"><u>Master the Linkage: AirPods & Windows Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vac-rejection-in-steam-windows-gameplay/"><u>Overcoming VAC Rejection in Steam Windows Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-success-starting-windows-and-accessing-notepad-quickly/"><u>Sync Success: Starting Windows and Accessing Notepad Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Guarded Data Flows: Safeguarding Network Drives in WinOS"
-date: 2024-09-17T00:03:12.604Z
-updated: 2024-09-21T23:30:34.252Z
+date: 2024-10-06T23:16:27.889Z
+updated: 2024-10-08T19:00:54.216Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `list volume`  
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
@@ -76,16 +84,24 @@ Here's what you need to do:
 5. Double-click the**Hide these specified drives in My Computer** policy on your right.  
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
@@ -107,14 +123,14 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
@@ -141,5 +157,26 @@ Here's what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-photographic-expression-through-snapchat-edits-for-2024/"><u>[New] Enhancing Photographic Expression Through Snapchat Edits for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prove-your-skills-fast-and-precise-video-edits-on-windows-11/"><u>[New] Prove Your Skills Fast & Precise Video Edits on Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[Updated] Gaining Ground on the Groundswell of Online Viewers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-basic-routes-to-sync-obs-with-zoom/"><u>[Updated] The Basic Routes to Sync OBS with Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cut-the-limitations-transitioning-from-32-bit-win10-to-64-bit/"><u>Cut the Limitations: Transitioning From 32-Bit Win10 to 64-Bit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-approaches-to-adjacent-and-distinct-windows-partition-merging/"><u>Cutting-Edge Approaches to Adjacent and Distinct Windows Partition Merging</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-new-possibilities-in-relationships-via-facebooks-platform/"><u>Discovering New Possibilities in Relationships via Facebook's Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-terminal-usage-make-it-primary-choice/"><u>Elevate Your Terminal Usage: Make It Primary Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-your-onedrive-on-a-windows-machine/"><u>How To Unlock Your OneDrive on a Windows Machine</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>In 2024, Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-comprehensive-vlc-use-manual-for-mac-users/"><u>In 2024, Comprehensive VLC Use Manual for Mac Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>In 2024, Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-insightful-revelations-instagram-snapshot-audiences/"><u>In 2024, Unlock Insightful Revelations Instagram Snapshot Audiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-epic-launcher-sign-in-on-pc/"><u>Mastering the Art of Epic Launcher Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-geforce-now-error-xc0f1103f/"><u>Tackling Windows 11'S GeForce Now Error Xc0f1103f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-running-imessage-on-windows/"><u>Uncovering the Secrets of Running iMessage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Secure Storage: Integrating Passwords with Win OSes"
-date: 2024-09-15T06:32:20.179Z
-updated: 2024-09-22T00:14:59.352Z
+date: 2024-10-06T00:06:32.815Z
+updated: 2024-10-09T06:03:20.769Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With Secure Edit
 
  Like LockNote, Secure Edit incorporates password and encryption features into your text file. However, it also lets you add images in PNG and BMP format. So, this is how you can add passwords to Windows text files with Secure Edit.
@@ -94,9 +101,23 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
@@ -127,6 +148,14 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
 
@@ -137,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
@@ -161,5 +190,18 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-image-jest-inc-punpictures-pro/"><u>[New] Image Jest Inc PunPictures Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac-for-2024/"><u>[Updated] Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/67962671-2024-approved-elevate-your-videos-with-complimentary-banners-here/"><u>2024 Approved Elevate Your Videos with Complimentary Banners, Here!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>2024 Approved Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-improved-windows-tiling/"><u>Boost Productivity with Improved Windows Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-window-11-style-hacks-and-themes/"><u>Exclusive Window 11 Style Hacks & Themes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-introduction-to-effective-telegram-promotion-for-rookies/"><u>In 2024, Introduction to Effective Telegram Promotion for Rookies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-format-missing-error-on-pc-windows/"><u>Overcoming 'Format Missing' Error on PC Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125167851-unbelievable-bargain-alert-get-your-hands-on-the-budget-friendly-thrifty-beginner-4k-resin-printer-for-just-half-price-this-black-friday/"><u>Unbelievable Bargain Alert: Get Your Hands On The Budget-Friendly 'Thrifty Beginner 4K Resin' Printer for Just Half Price This Black Friday!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-accessibility-issues-of-purchased-software-on-ms-marketplace/"><u>Unlocking Accessibility Issues of Purchased Software on MS Marketplace</u></a></li>
+</ul></div>
 

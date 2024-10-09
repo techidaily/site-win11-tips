@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Handle Missing Updates on Windows 10/8
-date: 2024-09-29T01:10:29.665Z
-updated: 2024-10-03T16:55:54.592Z
+date: 2024-10-07T17:13:06.067Z
+updated: 2024-10-08T18:18:38.886Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 4. The Windows Update service and other relevant services required by the system to install the pending updates are disabled or have become corrupt. In this case, you can simply restart the services to resolve the issue.
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Delete the Contents of the DataStore Folder
 
@@ -71,36 +78,22 @@ Here is all that you need to do:
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
- While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
 ## 3\. Repair the Update Components
 
@@ -133,10 +126,23 @@ net start appidsvc`
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Missing Update Files Back on Windows
@@ -158,22 +164,19 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterful-use-of-digital-boards-in-web-meetings-across-appleandroid-and-laptops/"><u>[New] 2024 Approved Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>[New] From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-into-the-world-of-fraps-screenshots/"><u>[Updated] Into the World of Fraps Screenshots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/12-best-free-video-compression-programs-top-picks-for-seamless-media-management/"><u>12 Best Free Video Compression Programs: Top Picks for Seamless Media Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-m4b-aac/"><u>最新の無料方法で：オンラインMovavi M4B AAC ビデオコンバートガイド</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/confirming-youtube-pro-rated-earnings-for-2024/"><u>Confirming YouTube Pro-Rated Earnings for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-fixes-for-bypassing-csgo-login-problems-get-playing-now/"><u>Expert Fixes for Bypassing CSGO Login Problems - Get Playing Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-crop-tool-edit-your-videos-with-ease/"><u>Free Online Crop Tool: Edit Your Videos with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-zero-5g-2023-turbo-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Zero 5G 2023 Turbo Without Password | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/motorcycle-video-magic-best-cam-hats-of-2023-selection-for-2024/"><u>Motorcycle Video Magic Best Cam Hats of 2023 Selection for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-vrijetijdige-mp4-in-m4a-vervanger-movavi-expertise-voor-duurzaamheid/"><u>Online Vrijetijdige MP4 in M4A Vervanger Movavi: Expertise Voor Duurzaamheid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swf-webm/"><u>SWF WebM 전환기 - 웹에서 자원공유 용이: 실시간 코어 리소스를 모바일에 가장 적합한 형식으로 쉽게 전환</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-convertisseurs-mov-gratuits-pour-mac-windows-et-en-ligne-comparatif-complet/"><u>Top 11 Convertisseurs MOV Gratuits Pour Mac, Windows Et en Ligne : Comparatif Complet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-wma-in-formato-3gp-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi Video WMA in Formato #3GP Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-standard-image-dimensions-expert-tips-from-movavi/"><u>Ultimate Guide to Standard Image Dimensions - Expert Tips From Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-top-7-crypto-creators-for-nft-conversion/"><u>Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-android-apps-that-youd-actually-want-to-install-on-windows-11/"><u>6 Android Apps That You’d Actually Want to Install on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-optimum-ssd-speed-on-windows-via-ssdfresh/"><u>Achieve Optimum SSD Speed on Windows via SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-reset-account-lockouts-after-failed-logins-in-windows-11/"><u>Adjusting Reset Account Lockouts After Failed Logins in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alteration-of-login-failure-counter-windows-11-user-guide/"><u>Alteration of Login Failure Counter: Windows 11 User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-delay-in-sw-top-tips-to-speed-up-your-bf2-gameplay/"><u>Beat Delay in SW: Top Tips to Speed Up Your BF2 Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-terminal-as-favorite-app/"><u>Boost Productivity with Terminal as Favorite App</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-g54-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola G54 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013514968-diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-huawei-p60-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Huawei P60 to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-harnessing-techniques-for-superior-pics-free-of-charge/"><u>In 2024, Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/irql-not-less-or-equal-windows-7-solved/"><u>IRQL NOT LESS OR EQUAL Windows 7 [SOLVED]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/proven-recorders-ioss-leading-screenshot-tools-for-2024/"><u>Proven Recorders IOS's Leading Screenshot Tools for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-the-complete-image-enhancement-capabilities-with-polarr-for-2024/"><u>Unveiling the Complete Image Enhancement Capabilities with Polarr for 2024</u></a></li>
 </ul></div>
 

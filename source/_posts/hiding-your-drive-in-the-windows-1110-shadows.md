@@ -1,7 +1,7 @@
 ---
 title: Hiding Your Drive in the Windows 11/10 Shadows
-date: 2024-10-01T00:39:21.167Z
-updated: 2024-10-03T20:19:43.511Z
+date: 2024-10-05T04:39:46.918Z
+updated: 2024-10-08T16:50:04.545Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
@@ -66,10 +59,10 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
@@ -93,23 +86,16 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -129,7 +115,28 @@ Here's what you need to do:
 8. In the**Edit DWORD (32-bit) Value** dialog box, select**Decimal** as the Base.  
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
@@ -158,17 +165,22 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>[New] 2024 Approved Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-efficient-subtitling-strategies-for-facebook-media-posts/"><u>[New] In 2024, Efficient Subtitling Strategies for Facebook Media Posts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cost-effective-techniques-in-text-animations/"><u>[New] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-facile-de-fichiers-flv-en-gif-sans-frais-movavi/"><u>Conversion Facile De Fichiers FLV en GIF Sans Frais - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversor-en-linea-gratuito-para-convertir-aac-a-wav-con-movavi-sin-costo/"><u>Conversor en Línea Gratuito Para Convertir AAC a WAV Con Movavi - Sin Costo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crear-una-introduccion-impactante-en-movavi-para-tus-videos-de-youtube/"><u>Crear Una Introducción Impactante en Movavi Para Tus Videos De Youtube</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-ps5-fun-key-player-insights/"><u>Enhance PS5 Fun: Key Player Insights</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 5 Lite FRP</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-transformare-il-tuo-sito-web-online-gratuitamente-con-convertitore-di-immagini/"><u>Movavi: Transformare Il Tuo Sito Web Online Gratuitamente Con Convertitore Di Immagini</u></a></li>
-<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-error-guide-overcoming-errgfxstate-hurdles/"><u>Red Dead Redemption 2 Visual Error Guide - Overcoming ERR_GFX_STATE Hurdles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-right-path-to-precise-speech-to-text-with-google-app-for-2024/"><u>The Right Path to Precise Speech-to-Text with Google App for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-steps-for-high-quality-twitch-broadcasts/"><u>[New] In 2024, Essential Steps for High-Quality Twitch Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>[Updated] In 2024, Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-premium-subscription-should-you-get-one/"><u>[Updated] YouTube Premium Subscription - Should You Get One?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-invisible-hardware-on-microsoft-oses/"><u>Addressing Invisible Hardware on Microsoft OSes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations-for-2024/"><u>Exclusive Techniques for Monitoring and Logging WhatsApp Conversations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-fixes-dealing-with-directdraw-glitches-in-win1011/"><u>Fast-Track Fixes: Dealing with DirectDraw Glitches in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/feature-context-menu-alert-for-windows-updates-in-win11plus11/"><u>Feature: Context Menu Alert for Windows Updates in Win11+11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Phone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/introducing-the-latest-features-in-revo-uninstaller-pro-5-software-suite/"><u>Introducing the Latest Features in Revo Uninstaller Pro 5 Software Suite</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-free-wmv-video-assembly-tools-for-seamless-playback/"><u>New Top Free WMV Video Assembly Tools for Seamless Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-office-error-0x80041015-in-ms-word-and-excel/"><u>Overcoming Office Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pedal-to-the-metal-mastering-crossfade-techniques-for-2024/"><u>Pedal to the Metal Mastering Crossfade Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-combination-of-files-in-windows-1011/"><u>Seamless Combination of Files in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-to-windows-birthplace-points/"><u>Trailblazing to Windows' Birthplace Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhindered-wi-fi-on-your-desktop-9-strategies-for-win11-users/"><u>Unhindered Wi-Fi on Your Desktop: 9 Strategies for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-top-5-grievances-from-windows-11-users/"><u>Unveiling the Top 5 Grievances From Windows 11 Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-vs-dailymention-identifying-key-variations/"><u>YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
 </ul></div>
 

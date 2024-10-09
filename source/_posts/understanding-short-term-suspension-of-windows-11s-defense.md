@@ -1,7 +1,7 @@
 ---
 title: Understanding Short-Term Suspension of Windows 11'S Defense
-date: 2024-10-01T23:30:11.817Z
-updated: 2024-10-03T21:34:21.192Z
+date: 2024-10-07T01:41:11.695Z
+updated: 2024-10-08T21:34:49.134Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 ![Disabling Real-time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Temporarily Disable Windows Security Using the Registry Editor
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 2. Click**OK** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Check the **Replace all child object permission entries with inheritable permission entries from this object** box.  
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 6. Click**Apply** \>**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Right-click on the blank space in the right pane, and create three**DWORD (32-bit) Value** with the following names:  
@@ -104,6 +104,13 @@ ServiceStartStates`
 8. Double-click on each value, type**1** in**Value data,** and click**OK.**
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable Windows Security Using the Local Group Policy Editor
 
@@ -117,7 +124,21 @@ Restart your computer for the changes to take effect.
 ![Enabled option in LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabled-option.jpg)
 5. Click**Apply** \>**OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your work is done, you can enable Windows Security by choosing**Disabled** for the Turn off Microsoft Defender Antivirus policy.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Windows Security Using Autoruns
 
@@ -132,39 +153,12 @@ Restart your computer for the changes to take effect.
 ![Run option for Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option.jpg)
 5. Click**Agree** in the**Autoruns Licence Agreement window** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. In the Autoruns window, click**Options** and uncheck**Hide Windows Entries.**  
 ![Hide Microsoft Entries option in Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-microsoft-enteries.jpg)
 7. Click**Services.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Uncheck the**WinDefend** box and then close the Autoruns window.  
 ![Disabling WinDefend in Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windefend.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, to boot in normal mode, open the**System Configuration** window, select**Normal startup,** and then**OK.**
 
@@ -187,17 +181,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-professional-video-finishing-touches-device-based-filters/"><u>[New] Professional Video Finishing Touches Device-Based Filters</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unveiling-hidden-tiktok-ban-criteria/"><u>[Updated] In 2024, Unveiling Hidden TikTok Ban Criteria</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-5-proven-ways-to-improve-windows-11-search-success/"><u>Discover 5 Proven Ways to Improve Windows 11 Search Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ek-direct-die-aio-cooler-delivers-stellar-performance-boost-your-13900ks-with-up-to-20-degrees-of-improved-cooling-efficiency/"><u>EK Direct Die AiO Cooler Delivers Stellar Performance: Boost Your 13900KS with Up to 20 Degrees of Improved Cooling Efficiency</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y27s-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y27s Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp3and/"><u>MP3変換&保存できず、クリップボックスの詳細解明：究極の回避方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-ms-store-error-0x80073d26-on-windows-11/"><u>Resolving MS Store Error 0X80073d26 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-file-format-adaptability-with-windows-expertise/"><u>Securing File Format Adaptability with Windows Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/selecting-premium-steadicams-to-improve-your-dslr-videos/"><u>Selecting Premium Steadicams to Improve Your DSLR Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-mitigate-temp-file-extraction-problem-in-windows/"><u>Strategies to Mitigate 'Temp File Extraction Problem' In Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-happens-when-a-windows-discord-update-fails-fixing-it/"><u>What Happens When a Windows Discord Update Fails? Fixing It</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[New] 2024 Approved Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time-for-2024/"><u>[New] Duality in Display Rotating Videos on Instagram, One Click at a Time for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-tiktok-with-bigger-head-vfx-3-effective-ways/"><u>[New] In 2024, Elevate Your TikTok with Bigger-Head VFX (3 Effective Ways)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primes-peak-performers-highest-tweets-and-viewing-numbers/"><u>[New] In 2024, Prime’s Peak Performers Highest Tweets & Viewing Numbers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-gopro-editors-blueprint-to-stunning-colored-images/"><u>[Updated] In 2024, The GoPro Editor's Blueprint to Stunning Colored Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfecting-your-pics-kinemaster-methods/"><u>2024 Approved Perfecting Your Pics KineMaster Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/buy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-efficient-windows-menu-for-software-alerts/"><u>Crafting an Efficient Windows Menu for Software Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/standardizing-your-windows-system-backups/"><u>Standardizing Your Windows System Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-game-launch-freezes-steps-to-mend-windows-11-steam/"><u>Troubleshooting Game Launch Freezes: Steps to Mend Windows 11 Steam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleashing-creativity-a-guide-to-innovative-gopro-video-editing-for-2024/"><u>Unleashing Creativity A Guide to Innovative GoPro Video Editing for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Unsync'd Sticky Notes in Win11
-date: 2024-10-01T21:41:38.748Z
-updated: 2024-10-03T23:22:47.341Z
+date: 2024-10-05T02:00:00.538Z
+updated: 2024-10-08T23:46:36.280Z
 tags:
   - windows10
   - windows11
@@ -43,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 5. Press **Win + S** to open Windows Search. Type Sticky Notes and press the **Enter** key to relaunch the app.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Complete Shutdown
@@ -69,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 3. Now, type the following command and press the **Enter** key to execute it: **shutdown /s /f /t 0**  
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 4. Your PC will take slightly longer than usual to shut down.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Power on your PC and log in. Check if the Sticky Notes app and its sync feature work properly or not.
 
  If the app now works fine, check out [what Fast Startup is and how to disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) so you can turn it off.
@@ -86,14 +87,20 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 6. Select the Microsoft account you use on your PC and click on the **Continue** button.  
 ![Sign Out and Sign In Again 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again-2.jpg)
 
- Now, make changes to any note in the app and check if the sync issues persist or not.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, make changes to any note in the app and check if the sync issues persist or not.
 
 ## 5\. Allow Sticky Notes Through the Windows Firewall
 
@@ -117,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ![Manually Sync the Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-sync-the-notes.jpg)
 4. Check if the notes sync and are available on another device or by opening the Outlook account in the web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Update Sticky Notes
 
  You cannot directly check for updates or update the Sticky Notes app using its settings section. Since it is a Microsoft app, you must use the Microsoft Store to check for updates and download and install them. Here’s how to do it:
@@ -127,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 4. Then, click on the **Update** button next to the Sticky Notes app to download and install the latest update.  
 ![Update Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-sticky-notes.jpg)
 5. Close the Microsoft Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run the Windows Store Apps Troubleshooter
 
@@ -147,26 +154,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ![Run the Microsoft Store Apps Troubleshooter 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter-2.jpg)
 5. Close the troubleshooter window.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Repair or Reset Sticky Notes
 
  Sticky Notes comes pre-installed inWindows and also has an advanced settings page. So, you can repair the app to fix issues with it or reset it to wipe its cache and personal data. Here’s how to do it:
@@ -179,10 +166,16 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ![Repair or Reset Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-or-reset-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Reinstall Sticky Notes
@@ -195,34 +188,25 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ![Reinstall sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reinstall-sticky-notes.jpg)
 4. Visit the [Microsoft Sticky Notes page on the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW). Download and install it on your PC and then sign in to your account.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Make the Sticky Notes Sync Feature Functional Again
 
  These were the best methods to resolve the sync issues with Sticky Notes. Start with preliminary fixes and rule out network and firewall issues. Manually sync your data and update the app. Lastly, try out the advanced options and reinstall the app.
 
  But some users face an issue with the app, and their notes do not automatically sync in Windows 11\. The potential reasons for this issue can be internet issues, misconfigured app settings, or a corrupt or outdated app version. Try these methods to make the Sticky Notes sync feature functional again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-top-ideas-to-spice-up-your-daily-snapchat-routine/"><u>[New] 2024 Approved Top Ideas to Spice Up Your Daily Snapchat Routine</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-10-mobile-apps-for-immediate-sports-action-access/"><u>[New] Leading 10 Mobile Apps for Immediate Sports Action Access</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/astering-video-content-insights-into-effective-keywords-for-2024/"><u>[New] Mastering Video Content Insights Into Effective Keywords for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-whatsapp-call-recording-techniques/"><u>2024 Approved Mastering WhatsApp Call Recording Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/abruptly-quell-windows-11-interruptions/"><u>Abruptly Quell Windows 11 Interruptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-the-restricted-world-of-windows-11/"><u>Delving Into the Restricted World of Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/e-identity-evolution-crafting-an-animated-persona-for-2024/"><u>E-Identity Evolution Crafting an Animated Persona for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resurrect-lost-keyboard-erase-functionality/"><u>How to Resurrect Lost Keyboard Erase Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-shades-core-methods-for-photos/"><u>In 2024, Mastering Shades Core Methods for PHOTOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-terminal-guide-to-gb-advance-games/"><u>Linux Terminal Guide to GB Advance Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lost-in-5ghz-revive-your-connection-with-these-fixes-for-windows-11/"><u>Lost in 5GHz? Revive Your Connection with These Fixes for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-window-11-with-these-6-desirable-android-apps/"><u>Maximize Window 11 With These 6 Desirable Android Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-command-prompt-landscape-for-admin-tasks/"><u>Navigating the Command Prompt Landscape for Admin Tasks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-unboxers-the-ultimate-channel-selection-guide-2024-edition/"><u>Prime Unboxers The Ultimate Channel Selection Guide, 2024 Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/quick-fix-valorant-thumbnails-professionally-done-now-in-2024/"><u>Quick-Fix Valorant Thumbnails Professionally Done Now, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-unwanted-camera-request-errors-code-0xa00f4243/"><u>Removing Unwanted Camera Request Errors (Code 0xA00F4243)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-11-sign-in-errors/"><u>Strategies for Bypassing Windows 11 Sign-In Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-off-windows-upgrade-notifications/"><u>Turn Off Windows Upgrade Notifications</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-x6-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find X6 Pro Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -231,3 +215,25 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-chromatic-confluence-music-and-photography-online/"><u>[New] Chromatic Confluence Music & Photography Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>[Updated] 2024 Approved Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-is-inshot-superior-detailed-app-review-unveiled/"><u>[Updated] In 2024, Is InShot Superior? Detailed App Review Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sound-syncing-simplified-for-inshot-edits-for-2024/"><u>[Updated] Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>2024 Approved Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-professional-filmmaking-skills-within-xp/"><u>2024 Approved Unlock Professional Filmmaking Skills Within XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-heart-of-your-system-pc-manager-for-w11/"><u>Configuring the Heart of Your System: PC Manager for W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-excel-skills-3-powerful-uses-of-chatgpt/"><u>Enhancing Your Excel Skills: 3 Powerful Uses of ChatGPT</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-administrative-roadblocks-during-software-setup/"><u>Navigating Administrative Roadblocks During Software Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-lowered-cpu-demand-for-windows-hosts/"><u>Navigating Lowered CPU Demand for Windows Hosts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-to-standard-power-plans-guide-for-win-11/"><u>Rebooting to Standard Power Plans: Guide for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-common-snip-and-sketch-screenshot-hurdles-4-fixes/"><u>Sidestep Common Snip & Sketch Screenshot Hurdles: 4 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-update-processes-context-menu-update-option-for-win11-users/"><u>Streamlining Update Processes: Context Menu Update Option for Win11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-windows-11-24h2-upgrade-on-nas-drive-stability-and-performance/"><u>Understanding the Impact of Windows 11 24H2 Upgrade on NAS Drive Stability and Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-smartphone-potential-as-windows-microphone/"><u>Unlocking Smartphone Potential as Windows Microphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-cant-you-see-a-drive-letter-on-your-windows-machine/"><u>Why Can't You See a Drive Letter on Your Windows Machine?</u></a></li>
+</ul></div>
+

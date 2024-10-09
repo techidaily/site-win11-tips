@@ -1,7 +1,7 @@
 ---
 title: Decrypting Windows 11'S Concealed Theme Settings via Registry
-date: 2024-09-27T23:59:40.098Z
-updated: 2024-10-03T18:36:30.471Z
+date: 2024-10-04T23:37:01.124Z
+updated: 2024-10-08T21:14:26.277Z
 tags:
   - windows10
   - windows11
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  As such, never tweak a Registry setting without proper care, and be sure to read[how not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) to learn more.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. How to Get Windows 11's Secret Educational Themes
@@ -52,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![check-windows-version-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re running an older version, click the**Get update** button. If you don’t have the time right now to install the update, you can schedule it for later.
 
  Once you’ve installed the update, there’s one Registry tweak to make, so you can enable Windows 11's secret themes. Check out[how to enable education themes on Windows 11](https://www.makeuseof.com/enable-education-themes-windows-11/) for steps on how to do this.
@@ -59,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  Once your computer boots up, you should be able to use the new themes Go to**Settings > Personalization > Themes** and use one of the new themes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Adjust the Color of Inactive Title Bars
@@ -71,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  To do this, check out[how to set the colors for active and inactive title bars](https://www.makeuseof.com/windows-11-active-inactive-title-bar-colors/) for in-depth steps.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Enable or Disable Transparency Effects for Specific Apps
 
  Windows 11 comes with the ability to enable or disable the transparency effects system-wide, but what if you only want it to affect some apps? While Windows 11's Settings panel doesn't feature the ability to do this on an app-by-app basis, you can use the Registry to do the job instead.
@@ -85,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  Check out t[he ways to enable or disable transparency effects in Windows 11](https://www.makeuseof.com/windows-11-disable-transparency-effects/) to learn more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Personalize Windows With Hidden Themes
@@ -112,20 +118,20 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-18-tips-for-free-online-event-streaming-techniques/"><u>[Updated] 18 Tips for Free Online Event Streaming Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[Updated] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conserve-power-implementing-idle-shutdown-on-windows-11-pcs/"><u>Conserve Power: Implementing Idle Shutdown on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-6-lite-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 6 Lite Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-winstall-to-batch-install-apps-in-windows-11/"><u>How to Use Winstall to Batch Install Apps in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-system-incompatibility-issues-caused-by-intel-hd-graphics/"><u>Mending System Incompatibility Issues Caused by Intel HD Graphics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-how-to-seamlessly-transform-your-mts-videos-into-mp4-format-on-pc-and-mac/"><u>Simple Methods: How to Seamlessly Transform Your MTS Videos Into MP4 Format on PC and Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oppo-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-wintoys-unleashing-the-full-potential-of-a-powerful-windows-app/"><u>The Complete Guide to WinToys: Unleashing the Full Potential of a Powerful Windows App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-huawei-p20-pro-a-masterpiece-of-photographic-excellence-on-an-exceptional-phone/"><u>Unboxing the Huawei P20 Pro: A Masterpiece of Photographic Excellence on an Exceptional Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/vobmkv3/"><u>VOBファイルから簡単にMKVへの変換手順:3ステップガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-pro-streamers-choice-the-top-5-gaming-webcams-to-own/"><u>[New] 2024 Approved Pro Streamer's Choice The Top 5 Gaming Webcams to Own</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[New] High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-secrets-of-youtube-shorts-success/"><u>[New] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-make-the-windows-terminal-your-default-terminal-app/"><u>3 Ways to Make the Windows Terminal Your Default Terminal App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-10-step-guide-to-windows-health-reports/"><u>A 10-Step Guide to Windows Health Reports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-printer-frustration-in-the-latest-os-win11-guide/"><u>Avoid Printer Frustration in the Latest OS: Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-organization-in-windows-discover-5-key-folder-insights/"><u>Boost Organization in Windows - Discover 5 Key Folder Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-outlook-speed-quick-tricks-for-win/"><u>Boost Your Outlook Speed: Quick Tricks for WIN</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/estimating-youtube-advertising-costs/"><u>Estimating YouTube Advertising Costs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/experiencia-de-suporte-elevada-no-centro-de-ajuda-do-movavi-atendimento-direcionado-e-conveniente/"><u>Experiência De Suporte Elevada No Centro De Ajuda Do Movavi – Atendimento Direcionado E Conveniente</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-key-components-to-a-smooth-watching-experience-facebook-livestream/"><u>In 2024, Key Components to a Smooth Watching Experience Facebook Livestream</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spectacular-gaming-capture-options-for-2024/"><u>Spectacular Gaming Capture Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719301459575-the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleashing-the-power-of-creativity-increase-viewership-in-youtube-shorts/"><u>Unleashing the Power of Creativity Increase Viewership in YouTube Shorts</u></a></li>
 </ul></div>
 

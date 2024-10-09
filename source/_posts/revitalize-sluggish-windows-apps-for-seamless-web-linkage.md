@@ -1,7 +1,7 @@
 ---
 title: Revitalize Sluggish Windows Apps for Seamless Web Linkage
-date: 2024-10-03T00:27:54.391Z
-updated: 2024-10-03T18:44:56.066Z
+date: 2024-10-07T17:24:44.137Z
+updated: 2024-10-08T16:46:40.622Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run Windows Troubleshooters
 
  Windows 10 and 11 include a few troubleshooters that can automatically detect and resolve common system-level issues. Running the Windows Store Apps troubleshooter should resolve any issues with your apps and restore their ability to connect to the internet.
@@ -58,14 +65,20 @@ To run Windows Store Apps troubleshooter:
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
 
- Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
 ## 4\. Reset Microsoft Store Cache
 
@@ -78,13 +91,6 @@ To run Windows Store Apps troubleshooter:
 3. Click**OK** .
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Automatic Proxy Detection
 
@@ -109,13 +115,6 @@ To run Windows Store Apps troubleshooter:
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset Network Settings
 
  If the problem persists, you can perform a full network configuration reset on Windows. There's a chance that one of the network settings on Windows is conflicting with your apps and preventing them from accessing the internet.
@@ -133,10 +132,10 @@ To reset network settings on Windows:
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
@@ -146,6 +145,13 @@ To reset network settings on Windows:
  In a clean boot state, Windows only runs with essential drivers and programs. This can help you determine if a third-party app or service is causing trouble.
 
  If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Your Window Apps Back Online
 
@@ -168,24 +174,22 @@ To reset network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>[New] 2024 Approved Enhancing Selfie Impact on Instagram The Zoom Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-platforms-for-digital-graffiti-fonts/"><u>[New] Leading Platforms for Digital Graffiti Fonts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-free-console-reproduction-devices/"><u>[Updated] 2024 Approved Leading Free Console Reproduction Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-bandicams-new-features-the-2023-breakdown/"><u>[Updated] Navigating Bandicam's New Features – The 2023 Breakdown</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-earnings-standards-new-rules-and-tips/"><u>[Updated] YouTube Earnings Standards New Rules & Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apple-writes-a-new-chapter-m1-pro-vs-m1-max-analysis/"><u>2024 Approved Apple' Writes a New Chapter M1 Pro Vs. M1 Max Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-tools-for-system-fixes-scan-disk-sysprep-vs-chkdsk-and-dissect/"><u>Comparing Tools for System Fixes: Scan Disk, Sysprep Vs. CHKDSK and Dissect</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-mac-with-windows-11-the-parallels-technique/"><u>Conquering Mac with Windows 11: The Parallels Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispelling-the-windows-access-control-chaos/"><u>Dispelling the Windows Access Control Chaos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-the-extra-speed-deactivating-mouse-accel-on-windows-11/"><u>End the Extra Speed: Deactivating Mouse Accel on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-6s-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 6s Plus to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-is-consumer-feedback-compensated-in-vlogs/"><u>In 2024, Is Consumer Feedback Compensated in Vlogs?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-linux-side-of-windows-uninterrupted-by-win-11/"><u>Keeping Linux Side of Windows Uninterrupted by Win 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-user-rights-management-for-common-windows-accounts/"><u>Modifying User Rights Management for Common Windows Accounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-operational-failure-in-win11-code-0x0000011b/"><u>Overcoming Operational Failure in Win11 (Code 0X0000011B)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ranking-win11s-best-no-cost-screen-recording-software-for-2024/"><u>Ranking Win11's Best No-Cost Screen Recording Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivation-protocol-for-microsoft-store-apps-windows-11/"><u>Reactivation Protocol for Microsoft Store Apps (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-bios-optimizing-thermal-management/"><u>Windows BIOS: Optimizing Thermal Management</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-reinstate-fb-watch-video-tile/"><u>[Updated] Reinstate FB Watch Video Tile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/budget-beware-top-7-hazards-with-sub-standard-windows-licenses/"><u>Budget Beware: Top 7 Hazards with Sub-Standard Windows Licenses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy A15 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diy-disk-clone-mastery-for-pc-enthusiasts/"><u>DIY Disk Clone Mastery for PC Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-8t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 8T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-image-perfection-with-windows-photos-app/"><u>Effortless Image Perfection with Windows Photos App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-for-microsoft-pc-manager-on-w11/"><u>Essential Guide for Microsoft PC Manager on W11</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-the-invisible-side-of-online-connections/"><u>Exploring the 'Invisible' Side of Online Connections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-v30t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme V30T To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-sony-xperia-1-v-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Sony Xperia 1 V online without jailbreak</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-6970-updated-drivers-for-windows-computers-how-to-download-and-install-them-easily/"><u>HP OfficeJet Pro 6970 - Updated Drivers for Windows Computers: How to Download and Install Them Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-x9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor X9a to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-htc-u23-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-websites-windows-programs-a-tutorial/"><u>Making Websites Windows Programs: A Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-workflow-with-aero-shake-w11-tech/"><u>Optimizing Your Workflow with Aero Shake W11 Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-expiring-notifications-on-win11/"><u>Strategies to Prevent Expiring Notifications on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-deskanywhere-failures-in-windows-11/"><u>Troubleshooting DeskAnywhere Failures in WIndows 11</u></a></li>
 </ul></div>
 

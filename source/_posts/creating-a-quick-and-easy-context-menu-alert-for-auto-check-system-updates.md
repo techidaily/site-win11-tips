@@ -1,7 +1,7 @@
 ---
 title: Creating a Quick & Easy Context Menu Alert for Auto-Check System Updates
-date: 2024-09-26T22:47:49.556Z
-updated: 2024-10-03T17:56:09.046Z
+date: 2024-10-03T01:30:01.690Z
+updated: 2024-10-09T02:38:51.316Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
  Winaero Tweaker is a freely available customization software for Windows with which you can customize the context menu in many ways. That software has an option you can select to add a **Windows Update** submenu to the context menu, which includes a **Check for updates** shortcut. This is how you can add a **Check for updates** shortcut to the desktop’s right-click menu with Winaero Tweaker:
@@ -81,22 +88,15 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 6. Select the **Add Windows Update submenu to Desktop context menu** option.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now look at the new Windows Update submenu on the desktop’s context menu. Press **Shift** \+ **F10** to view the classic context menu. Move the cursor over the **Windows Update** submenu to view its options. There you can select a **Check for updates** option to bring up the **Check for updates** button.
 
 ![The Windows Update submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-windows-update-submenu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Windows Update** submenu also has four other shortcuts to update settings. Click **Update history** to view the installed update list. Or select **Advanced options** to bring up the additional settings for updates. The **Restart options** shortcut opens the settings for scheduling update times.
 
@@ -104,28 +104,22 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
 ![The Add Windows Update to Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-control-panel-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then you’ll see a **Windows Update** shortcut within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click the **System and Security** category. Clicking the **Windows Update** shortcut there will open the **Settings** tab with the **Check for updates** button.
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep an Eye Out For New Windows Updates
@@ -136,29 +130,6 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[New] In 2024, 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-media-marketing-essential-ig-video-editors/"><u>[New] Mastering Media Marketing Essential IG Video Editors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-perfecting-ipad-display-recordings/"><u>[New] Perfecting iPad Display Recordings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] Foremost Guide to YouTube Equipment for Rookies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>2024 Approved The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-wow-frame-rate-top-fixes-and-hacks-for-optimizing-performance/"><u>Boost Your WoW Frame Rate: Top Fixes & Hacks for Optimizing Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-access-issues-fixing-the-no-write-allowed-error/"><u>Dealing with Access Issues: Fixing the No Write Allowed Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-os-maintenance-what-distinguishes-dissect-from-chkdsk/"><u>Deciphering OS Maintenance: What Distinguishes Dissect From Chkdsk?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-jpeg-converter-convert-arw-format-to-jpg-with-movavi/"><u>Free Online JPEG Converter - Convert ARW Format to JPG with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-through-win-settings-unearthing-group-policies/"><u>Journey Through Win Settings: Unearthing Group Policies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-java-rapid-android-studio-compilation-in-windows/"><u>Jumpstart Java: Rapid Android Studio Compilation in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-a-unique-win11-screener-display/"><u>Setting Up a Unique Win11 Screener Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-windows-task-movements/"><u>Techniques to Halt Windows Task Movements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tick-tock-troubles-in-wintime-calibrate-now/"><u>Tick-Tock Troubles in WinTime? Calibrate Now</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-final-usb-device-fails-and-is-ignored-by-windows/"><u>Troubleshooting Steps When Your Final USB Device Fails & Is Ignored by Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-taskbar-issues-in-windows-11/"><u>Troubleshooting Taskbar Issues in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-unhandled-exception-in-windows-apps/"><u>Troubleshooting: Resolving 'Unhandled Exception' In Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-users-create-a-self-hosted-free-chatgpt-copy-with-gpt4all/"><u>Windows Users, Create a Self-Hosted Free ChatGPT Copy with GPT4All</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +137,23 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streamlining-youtube-videos-for-facebook-circulation/"><u>[New] 2024 Approved Streamlining YouTube Videos for Facebook Circulation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[Updated] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-addressing-critical-app-issues/"><u>Approaches to Addressing Critical App Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-the-ice-and-converse-professionally-in-english/"><u>Break The Ice & Converse Professionally in English</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-touch-input-in-windows-enabledisable-steps/"><u>Configure Touch Input in Windows: Enable/Disable Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-c33-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme C33 2023 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New 2024 Approved From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-30015-26-in-m365-for-windows-computers/"><u>Resolving Error Code 30015-26 in M365 for Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-best-ai-chatbots-excellent-alternates-to-chatgpt/"><u>Top 10 Best AI Chatbots: Excellent Alternates to ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-folder-customization-adding-movecopy-context-functionality/"><u>Windows 11 Folder Customization - Adding Move/Copy Context Functionality</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tricking TPM and Secure Boot: A Guide to Rufus Usage"
-date: 2024-09-16T07:00:57.976Z
-updated: 2024-09-21T21:02:51.443Z
+date: 2024-10-08T04:56:03.335Z
+updated: 2024-10-08T20:33:51.640Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 
  Apart from these two tweaks, Rufus can also speed up the installation process by avoiding the setup pages for tracking, [disabling BitLocker encryption](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/), and settings the same language and region options as the computer you are using to create a bootable USB drive. So, you can prepare a Windows 11 bootable drive that takes less time to install and set up on a new system.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Bootable USB Drive Which Bypasses Windows 11 Requirements Using Rufus
 
  Firstly, you need to [download the latest version of Rufus](https://rufus.ie/). It is available on Microsoft Store, GitHub and even has an official website where they post the details about new and upcoming releases. We suggest you download the portable version of Rufus to avoid the installation process altogether. You will also need the latest version of the Windows 11 ISO image file. Visit the official Microsoft webpage and [download the ISO file](https://www.microsoft.com/en-in/software-download/windows11) from there.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 ![Create a Bootable USB Drive Using Rufus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-3.jpg)
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install the Modified Windows 11 on Your System
 
  Repeat the following steps to install Windows 11 while bypassing its system requirements:
@@ -65,6 +79,14 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 4. Click on the **I don’t have the product key** option.  
 ![Install the Modified Windows 11 on Your System 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-2.jpg)
 5. Select the version of Windows 11 you want to install (Home, Pro, Enterprise, or Education) and click on **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
 
 1. Accept the EULA and click on the **Next** button. Then, click on the **Custom** option.
@@ -75,19 +97,21 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
 5. Enter your **Name** and select **three security questions** and their answers as well. Click on **Next**.  
 ![Install the Modified Windows 11 on Your System 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-5.jpg)
 6. Windows will prepare your system for the first boot. After a short while you will boot to the desktop.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
@@ -99,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
  But you can avoid all these things by selecting the **Disable data collection (Skip privacy questions)** checkbox in Rufus. If you want to keep the PC name and region settings on the target system the same as your primary system, you can select the **Set regional options to the same values as this user’s** and **Create a local account with username** checkboxes.
 
  However, you will need to set up a new PIN if you plan to inherit the same username and region options as your main Windows computer. Otherwise, you won’t be able to log in.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Frictionless Windows 11 Installation With Rufus
 
@@ -121,5 +138,24 @@ thumbnail: https://thmb.techidaily.com/0a9719ddcbae5c52ddb9477f8674bda6f7443fbaa
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-practices-for-organizing-online-video-stories-for-2024/"><u>[New] Best Practices for Organizing Online Video Stories for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-efficient-methods-for-video-to-dvd-conversion-in-macos/"><u>[Updated] Efficient Methods for Video-to-DVD Conversion in MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-closure-of-a-linkedin-account-the-how-to-guide/"><u>[Updated] Swift Closure of a LinkedIn Account The How-To Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-step-by-step-for-delving-into-fb-archives/"><u>2024 Approved A Step-by-Step for Delving Into FB Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-pre-vista-password-recall-on-w10w11/"><u>Addressing the “Pre-Vista Password Recall on W10/W11”</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Xiaomi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-11-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme 11 Pro Without PUK Codes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-visual-storytelling-on-instagram/"><u>Mastering Visual Storytelling on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/rapidrecord-fullscreen-feature/"><u>RapidRecord Fullscreen Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-needed-parts-error-on-windows-1011-systems/"><u>Solving Needed Parts Error on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-solutions-for-we-encountered-an-error-during-oculus-install/"><u>Step-By Step Solutions for We Encountered an Error During Oculus Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-multiple-users-ms-logins-on-pc/"><u>Tackling Multiple Users' MS Logins on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-secrets-of-fixing-and-enhancing-images-with-stellars-photo-8-windows-guide-an-in-depth-overview/"><u>Unlock the Secrets of Fixing and Enhancing Images with Stellar's Photo 8 Windows Guide: An In-Depth Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-cross-device-note-utilization-guide/"><u>Windows 11 Cross-Device Note Utilization Guide</u></a></li>
+</ul></div>
 

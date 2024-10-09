@@ -1,7 +1,7 @@
 ---
 title: Regaining Windows' Original Sleep/Wake Patterns
-date: 2024-09-26T23:11:54.160Z
-updated: 2024-10-03T23:42:35.943Z
+date: 2024-10-05T23:32:09.588Z
+updated: 2024-10-09T01:06:09.377Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
  If you are looking for a way to swiftly switch between power plans, don't miss our guide on the best [ways to change power plans on Windows](https://www.makeuseof.com/windows-11-change-power-plan/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reset Power Plans to Default With Command Prompt or Windows PowerShell
@@ -69,19 +69,25 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 ![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that’s about it. Once you run the above command, Windows will reset all the power plans to their default settings. For more such useful commands, why not check our guide on the [most useful CMD commands for Windows](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resetting Windows Power Plans to Default Settings
@@ -92,21 +98,6 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 
  Whether you want to troubleshoot power-related issues or simply start afresh, resetting power plans on your Windows 10 or 11 PC is fairly straightforward. There are a couple of ways you can go about this. Let’s go through them one at a time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-revolutionize-your-sites-personalization-and-analytics-effortlessly/"><u>Cookiebot: Revolutionize Your Site's Personalization and Analytics Effortlessly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f04-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F04 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-xs-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone XS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/innovative-4-ai-based-tools-for-crafting-engaging-stories/"><u>Innovative 4 AI-Based Tools for Crafting Engaging Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-win-graphics-capabilities-with-these-1-6-stress-testers/"><u>Navigating Win Graphics Capabilities with These #1-#6 Stress Testers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-web-resources-curated-alarm-tones-for-2024/"><u>Premium Web Resources Curated Alarm Tones for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-windows-steam-streams/"><u>Solutions for Unresponsive Windows Steam Streams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-solving-the-mystery-of-win11-installer-errors/"><u>Step-by-Step: Solving the Mystery of Win11 Installer Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-for-repairing-non-displayed-logins/"><u>The Essential Guide for Repairing Non-Displayed Logins</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation-for-2024/"><u>The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -114,3 +105,21 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[Updated] 2024 Approved From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-unlocking-the-potential-twitter-to-snapchat-video-exchange/"><u>[Updated] In 2024, Unlocking the Potential Twitter to Snapchat Video Exchange</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus/"><u>Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-in-minutes-command-line-steps/"><u>Exploring Windows in Minutes: Command Line Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/freedom-from-filmage-tiktok-videos-without-stickers/"><u>Freedom From Filmage TikTok Videos Without Stickers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-yuva-2-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Yuva 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-voice-typing-problems-error-code-0x80049dd3-in-windows-11/"><u>Remedying Voice Typing Problems (Error Code: 0X80049DD3) in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cket-your-channels-reach-with-smart-backlink-strategies-for-2024/"><u>Skyrocket Your Channel's Reach with Smart Backlink Strategies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-bargain-hunts-at-best-buy-in-june-2024-exclusive-offers-featured-by-zdnet/"><u>Top Bargain Hunts at Best Buy in June 2024 - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+</ul></div>
+

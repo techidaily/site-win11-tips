@@ -1,7 +1,7 @@
 ---
 title: "Tackling the 0X8007045D Win11 Crash: A Practical Approach"
-date: 2024-09-29T01:04:07.191Z
-updated: 2024-10-03T16:50:55.744Z
+date: 2024-10-04T04:20:50.085Z
+updated: 2024-10-09T07:35:22.895Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  When you're done, check and see if the 0x8007045d error persists.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart Your PC
 
  Using one of the many[ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) is often recommended for troubleshooting. It's one of the easiest ways to rid of strange Windows glitches, and for good reason. Put briefly, a simple restart flushes your RAM, clearing away all the programs that might be eating your memory. So make sure you restart your PC before moving to complex solutions.
@@ -66,11 +59,25 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
@@ -94,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
 
@@ -113,20 +120,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the 0x8007045d Error on Your Windows PC
 
@@ -149,24 +149,22 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-youtube-image-branding/"><u>[Updated] 2024 Approved A Step-by-Step Guide to YouTube Image Branding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-best-free-methods-for-transforming-your-avi-files-into-a-playable-dvd-format/"><u>5 Best Free Methods for Transforming Your AVI Files Into a Playable DVD Format</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/7-premier-windows-10-friendly-password-protectors-enhancing-your-digital-security/"><u>7 Premier Windows 10-Friendly Password Protectors: Enhancing Your Digital Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226878276-3gpswf-movavi/"><u>網路直接無成本自動轉換3GP到SWF - 使用Movavi的方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-a70-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel A70 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aif-mov-url/"><u>AIF MOV 파일을 제공하는 URL로 원격에서 무료 바이트열 변환 - 모바비</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asfavi/"><u>ASF形式の動画をAVIに変換する自由なオンラインツール - 快適で使いやすくて安全な方法!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-mp4-upgrade-from-ogg-utilize-movavis-no-cost-online-service/"><u>Effortless MP4 Upgrade From OGG - Utilize Movavi's No-Cost Online Service</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-conversion-change-your-audio-file-from-aac-to-mp4-with-movavi/"><u>Free Online Conversion: Change Your Audio File From AAC to MP4 with Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-sony-xperia-1-v-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Sony Xperia 1 V by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-pcs-potential-a-step-by-step-guide-to-flattening-windows-11-and-boosting-speed/"><u>Maximizing Your PC's Potential: A Step-by-Step Guide to Flattening Windows 11 and Boosting Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-cloud-storage-enhance-your-data-management-with-centrum-podpory/"><u>Movavi Cloud Storage: Enhance Your Data Management with Centrum Podpory</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-tarkovs-challenges-in-depth-instructions-for-fixing-error-103003/"><u>Navigating Tarkov's Challenges: In-Depth Instructions for Fixing Error 103003</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-wijzer-om-gratis-raam-in-wmv-formaat-te-veranderen-de-meest-gewone-movavi-oplage/"><u>Online Wijzer Om Gratis RAAM in WMV Formaat Te Veranderen - De Meest Gewone Movavi Oplage</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-technical-issues-in-insurgency-solving-the-ongoing-sandstorm-crash-problem/"><u>Overcoming Technical Issues in Insurgency: Solving the Ongoing 'Sandstorm' Crash Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tv-mp4avi-mpe/"><u>오토바이오어 TV를 전자보간용 영상으로 자유소부터 MP4/AVI 변환 - MPE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviwebm-to-ogg/"><u>ウィスパーオーディオファイルにリアルタイム変換! - Movaviの無料オンラインWEBM to OGG</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726222567091-webmgif-movavi/"><u>オンラインで簡単にWebMへのGIF変換が可能! 無料サービス - Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-extensions-for-after-effects-magic/"><u>[New] Premium Extensions for After Effects Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-videocapture-clash-royale/"><u>[Updated] VideoCapture Clash Royale</u></a></li>
+<li><a href="https://blog-min.techidaily.com/pcmovmp4/"><u>【PC/スマートフォン用】無料でMOVファイルをMP4に効果的変換手順集</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>2024 Approved From Doodles to Success Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-for-rectifying-windows-display-defects/"><u>7 Strategies for Rectifying Windows Display Defects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-prevent-and-repair-vmstart-errors-in-wm11os/"><u>8 Ways to Prevent and Repair VMstart Errors in WM11OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-beginners-path-to-mastering-mouse-controls-on-win11/"><u>A Beginner's Path to Mastering Mouse Controls on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-symphony-of-sounds-taming-irq-noise/"><u>A Symphony of Sounds: Taming IRQ Noise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-directories-to-w11s-right-click-menu-steps/"><u>Adding Directories to W11's Right-Click Menu Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-epic-game-launcher-stubbornness-on-w11-computers/"><u>Avoid Epic Game Launcher Stubbornness On W11 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-system-mastering-windows-11-efficiency/"><u>Boost Your System: Mastering Windows 11 Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-free-car-racing-games/"><u>Discover the Ultimate List: Free Car Racing Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719292800016-host-free-windows-based-gpt-clones-using-gpt4all/"><u>Host Free Windows-Based GPT Clones Using GPT4All.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-the-top-10-youtube-to-mp3-services/"><u>In 2024, Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-sync-up-songs-and-screenshots-on-snapchat/"><u>In 2024, Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-thriving-in-twitter-live-tv-mode/"><u>In 2024, Thriving in Twitter Live TV Mode</u></a></li>
 </ul></div>
 

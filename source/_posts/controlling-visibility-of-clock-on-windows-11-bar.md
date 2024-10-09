@@ -1,7 +1,7 @@
 ---
 title: Controlling Visibility of Clock on Windows 11 Bar
-date: 2024-09-30T23:08:04.981Z
-updated: 2024-10-03T23:29:58.605Z
+date: 2024-10-03T18:46:50.481Z
+updated: 2024-10-09T01:06:22.357Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  To enable them again, head towards the above settings again and enable the toggle.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Hide or Show the Clock and Date from the Taskbar by Using the Local Group Policy Editor
 
  The next utility that will help you hide or show the clock and date from the taskbar is the Local Group Policy Editor. You can use this utility to manage Windows features, sign-in and shutdown processes, and more.
@@ -63,15 +70,28 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next,[restart your computer](https://www.makeuseof.com/windows-restart-methods/) for changes to take effect.
 
  If you want to add the clock and date again to the taskbar, open the edit window of the Remove Clock from the system notification area policy, choose the Disabled option and save the settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Hide or Show the Clock and Date from the Taskbar Using the Registry Editor
 
@@ -87,40 +107,20 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![Creating new key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-new-key.jpg)
 5. In the Explorer key, right-click on the blank space, and choose**New** \>**DWORD (32-bit Value)** .
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Name the value**HideClock** and press Enter.
 7. Right-click on the HideClock value, type**1** in the**Value data** section, and click**OK.**  
 ![Modifying HideClock Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/modifying-hideclock-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Close the Registry Editor window, and you'll see that the clock and date have disappeared from the taskbar.
 
  To reverse the changes, type**0** in the Value data section of HideClock value and click OK.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Remove Any Distraction from the Taskbar
 
@@ -141,22 +141,17 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[New] Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-quantum-hdr-simplified-a-photographers-guide/"><u>[New] In 2024, Quantum HDR Simplified A Photographer's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-metaverse-humor-generating-unique-memes/"><u>[New] Innovative Metaverse Humor Generating Unique Memes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[Updated] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleepy-tales-in-visual-format-analysis/"><u>[Updated] Sleepy Tales in Visual Format Analysis</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-achieving-perfect-silence-swaps-with-reaper/"><u>2024 Approved Achieving Perfect Silence Swaps with Reaper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m1vmpeg-movavi/"><u>無料で簡単な動画編集: M1VからMPEGへの変換ツール - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-step-by-step-tutorial-on-recording-google-meet-sessions-with-movavi/"><u>Comprehensive Step-by-Step Tutorial on Recording Google Meet Sessions with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-archivos-de-animacion-gif-gratis-al-formato-mpeg-usando-movavi-en-linea/"><u>Convertir Archivos De Animación (GIF) Gratis Al Formato MPEG Usando Movavi en Línea</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crear-cine-gratuito-las-mejores-opciones-en-linea-para-desarrolladores-sin-finanzas-top-11/"><u>Crear Cine Gratuito: Las Mejores Opciones en Línea Para Desarrolladores Sin Finanzas (Top 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decouvrez-des-idees-creatives-pour-une-visite-medicale-enjouee/"><u>Découvrez Des Idées Créatives Pour Une Visite Médicale Enjouée</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuite-convertisseur-video-en-ligne-pour-convertir-des-fichiers-mp4-et-mov-avec-movavi/"><u>Gratuité: Convertisseur Vidéo en Ligne Pour Convertir Des Fichiers MP4 Et MOV Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratis-flac-naar-wmv-omzetten-met-de-hulpprofielen-van-movavi-vrijetijdsbestedende-informatica/"><u>Online Gratis FLAC Naar WMV Omzetten Met De Hulpprofielen Van Movavi - Vrijetijdsbestedende Informatica</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-swf-file-creation-from-mkv-cost-free-converter-by-movavi/"><u>Online Swf File Creation From Mkv - Cost-Free Converter by Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/spanish-starts-small-from-preschoolers-to-fifth-graders/"><u>Spanish Starts Small: From Preschoolers To Fifth Graders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-global-earning-creator/"><u>The Ultimate Global Earning Creator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221740994-top-13/"><u>TOP 13 가장 좋은 무료 화면 녹화 소피처: 제가 구현한 전공 기술</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-voice-logging-on-apples-facetime-service/"><u>[New] Navigating Voice Logging on Apple's FaceTime Service</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] 2024 Approved Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-breaking-into-the-world-of-youtube-stellar-intros-in-imovie-for-2024/"><u>[Updated] Breaking Into the World of YouTube Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/9-ultimate-tools-for-perfectly-timed-posts/"><u>9 Ultimate Tools for Perfectly Timed Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits/"><u>Beyond the Buzz A Ranked Guide to Non-Vimeo Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-writable-memory-protection/"><u>Correcting Windows 11' Writable Memory Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80070141-making-unreachable-devices-connectable/"><u>Eliminating Error Code 0X80070141: Making Unreachable Devices Connectable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flattening-the-cornered-look-of-win11/"><u>Flattening the Cornered Look of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-error-code-0x80-point-to-point-link-failure-on-windows/"><u>How to Handle Error Code: 0X80 Point-to-Point Link Failure on Windows</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-top-5-best-websites-to-add-emojis-to-photo-online/"><u>New In 2024, Top 5 Best Websites to Add Emojis to Photo Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speedy-engagement-the-how-to-for-video-speed-in-stories/"><u>Speedy Engagement The How-To for Video Speed in Stories</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
 </ul></div>
 

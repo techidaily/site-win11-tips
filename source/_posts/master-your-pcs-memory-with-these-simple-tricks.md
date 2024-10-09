@@ -1,7 +1,7 @@
 ---
 title: Master Your PC's Memory with These Simple Tricks
-date: 2024-09-18T00:20:39.852Z
-updated: 2024-09-21T20:21:29.954Z
+date: 2024-10-01T22:32:37.556Z
+updated: 2024-10-09T05:19:13.174Z
 tags:
   - windows10
   - windows11
@@ -54,9 +54,23 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 `Get-CimInstance -ClassName Win32_PhysicalMemory | Format-Table SMBIOSMemoryType`  
 ![Check RAM Type Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-ram-type-using-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under the **SMBIOSMemoryType** column, note down the code number and compare it with the following table to determine the RAM type.
 
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Check the RAM Type Using the Task Manager App
 
@@ -69,13 +83,26 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 3. Select **Memory** from the left pane. You should see the amount and type of RAM your PC has in the top right corner of the screen.  
 ![Check Memory Type Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows Task Manager does more than show hardware information. You also use it to manage running programs, end tasks, and view resource usage. To learn more, read our guide on the best [Windows Task Manager tips that you may not know](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Check the RAM Type Using CPU-Z
@@ -85,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  Download and open the [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) app on your PC. Click on the **Memory** tab to get a detailed breakdown of the installed RAM. Under the **General** section, look for the value in the **Type** field to know the type of RAM installed on your PC.
 
 ![Check Memory Type Using CPU-Z App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-cpu-z-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Know the Type of RAM Installed on Your Windows PC
 
@@ -107,5 +127,18 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-highlighted-are-there-limitations-to-aurora-hdrs-performance-in-2024/"><u>[Updated] Highlighted Are There Limitations to Aurora HDR's Performance, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-zoom-techniques-for-tiktok-engagement/"><u>[Updated] Perfecting Zoom Techniques for TikTok Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seeking-outtop-8-android-apps-for-cost-effective-video-tile-creation/"><u>[Updated] Seeking Outtop 8 Android Apps for Cost-Effective Video Tile Creation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-by-step-guide-to-brightening-gopro-footage-for-2024/"><u>[Updated] Step-by-Step Guide to Brightening GoPro Footage for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-visibility-using-cookiebot-technology/"><u>Boosting Visibility Using Cookiebot Technology</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-enhanced-optimized-experience-tailored-by-advanced-tracking/"><u>Cookiebot-Enhanced: Optimized Experience Tailored By Advanced Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-aesthetics-activating-color-management-in-win11/"><u>Empowering Aesthetics: Activating Color Management in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-tablet-navigation-a-guide-to-windows-11s-taskbar/"><u>Optimizing Tablet Navigation: A Guide to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wmvavi-videonator/"><u>オンラインで簡単にWMV/AVIビデオを変換:無料の変換サービス | Videonator</u></a></li>
+</ul></div>
 

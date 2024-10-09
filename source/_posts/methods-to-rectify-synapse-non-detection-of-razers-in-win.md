@@ -1,7 +1,7 @@
 ---
 title: Methods to Rectify Synapse Non-Detection of Razers in Win
-date: 2024-10-01T21:54:18.013Z
-updated: 2024-10-03T20:00:24.282Z
+date: 2024-10-05T00:37:12.625Z
+updated: 2024-10-09T01:21:12.001Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Select Synapse’s Repair Option
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
@@ -65,29 +72,22 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 4. Select the**Repair** option in the window that opens.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Razer Synapse
@@ -112,26 +112,19 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
 1. Click**Download Now** on the[Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
 2. Double-click the downloaded**RazerSynapseInstaller\_V1.12.0.385.exe** file to open the setup wizard.  
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
 
@@ -143,6 +136,14 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 4. Right-click a Razer mouse and select**Uninstall device** \>**Uninstall** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-option.jpg)
 5. Repeat the previous step for all HID mice devices listed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then double-click the**Keyboards** category.  
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
@@ -154,14 +155,14 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
- Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
 ## Configure Your Razer Devices in Synapse Again on Windows
 
@@ -182,20 +183,24 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-content-delivery-spectrum-vimeo-and-youtube-reviewed/"><u>[New] In 2024, The Content Delivery Spectrum Vimeo & YouTube Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-psychology-of-persuasion-in-subscription-growth/"><u>[New] The Psychology of Persuasion in Subscription Growth</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-step-by-step-guide-embedding-vimeo-videos-into-presentations/"><u>[Updated] Step-by-Step Guide Embedding Vimeo Videos Into Presentations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-quiet-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars/"><u>2024 Approved Quiet Your Screen Three Strategies to Slow YouTube Videos Down (57 Chars)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/auto-gpt-setup-simplified-your-ultimate-step-by-step-installation-instructions/"><u>Auto-GPT Setup Simplified: Your Ultimate Step-by-Step Installation Instructions</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-on-converting-dav-video-files-to-avi/"><u>Complete Guide on Converting DAV Video Files to AVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-disk-space-graph-in-windows-explorer-context/"><u>Creating a Disk Space Graph in Windows Explorer Context</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-solutions-to-rectify-iomap64-freeze-error-in-winos/"><u>Easy Solutions to Rectify IOMap64 Freeze Error in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-pc-management-auto-windows-update-and-gpu-switching/"><u>Efficient PC Management: Auto Windows Update & GPU Switching</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-disk-unknown-not-initialized-issue-on-windows/"><u>How to Fix the “Disk Unknown Not Initialized” Issue on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>How to Fix Your Webcam Showing a Black Screen on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-meizu-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Meizu ?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-multiple-close-down-in-one-swift-action-on-windows/"><u>Master Multiple Close-Down in One Swift Action on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lost-ark-launch-problems-effective-solutions-updated-for-2025-mastering-the-fixes-for-when-lost-ark-wont-open-tips-and-tricks/"><u>Overcoming 'Lost Ark' Launch Problems: Effective Solutions Updated for 202#5 Mastering the Fixes for When Lost Ark Won't Open - Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>[Updated] Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailor-the-rhythm-of-youtube-videos-desktopmobile-way/"><u>[Updated] In 2024, Tailor the Rhythm of YouTube Videos - Desktop/Mobile Way</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamline-your-soundscape-best-free-apps-to-download-youtube-songs-on-android-for-2024/"><u>[Updated] Streamline Your Soundscape Best Free Apps to Download YouTube Songs on Android for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-close-up-views-in-google-meet/"><u>2024 Approved Mastering Close-Up Views in Google Meet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-secrets-behind-successful-hd-videos-on-social-networks/"><u>2024 Approved The Secrets Behind Successful HD Videos on Social Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaching-windows-login-restrictions-a-quick-guide/"><u>Breaching Windows Login Restrictions: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-self-scrolled-windows-with-ease-and-precision/"><u>Fix Self-Scrolled Windows with Ease and Precision</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-oppo-find-x7-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Find X7 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-improving-win11-point-accuracy-and-size/"><u>Guide to Improving Win11' Point Accuracy & Size</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-hubs-for-finding-googles-ad-sponsors-on-video/"><u>In 2024, Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mirth-merger-image-composer/"><u>Mirth Merger Image Composer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-effortless-transition-in-windows-terminals-attention-mode/"><u>Quick Fix: Effortless Transition in Windows Terminal’s Attention Mode</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y200-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y200</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-gpos-a-step-by-step-guide-for-windows-users/"><u>Revamping GPOs: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-backup-with-windows-11/"><u>Streamlining File Backup with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workspace-win-11s-finest-productivity-tools/"><u>Transform Your Workspace: Win 11'S Finest Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Guide to Mouse Gesture Setup for Windows 11'S Microsoft Edge
-date: 2024-09-17T02:37:51.815Z
-updated: 2024-09-21T23:08:20.050Z
+date: 2024-10-02T23:00:18.790Z
+updated: 2024-10-08T17:34:33.089Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  You can also use the **Reset all gestures** option to restore all the gestures to their default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Quickly Navigate Between Pages Using Mouse Gestures on Edge for Windows 11
 
  The mouse gesture feature in Edge makes browsing the web more fluid and efficient. You can quickly enable this feature using the above steps and perform various browser actions using simple mouse movements.
@@ -63,12 +70,24 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-stepwise-process-for-capturing-live-soundtracks-online/"><u>[New] In 2024, Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srgb-adoption-over-traditional-rgb-techniques/"><u>[New] Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-stop-blank-screen-problems-with-obs-applications/"><u>2024 Approved Stop Blank Screen Problems with OBS Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-web-speed-contrast-in-your-tech-world/"><u>Addressing the Web Speed Contrast in Your Tech World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-gaps-preventing-video-holds-in-photoshoots-for-2024/"><u>Bridging Gaps Preventing Video Holds in Photoshoots for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-life-with-precision-an-overview-of-advanced-camera-modes-for-2024/"><u>Capturing Life with Precision An Overview of Advanced Camera Modes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-g42-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia G42 5G Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-access-to-your-visual-data-with-windows-11/"><u>Immediate Access to Your Visual Data with Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-prevent-freezing-of-streamed-videos-in-chrome/"><u>In 2024, Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-f25-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo F25 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-intel-wireless-network-adapter-drivers-on-windows-11-10-or-7-immediate-access/"><u>Install Intel Wireless Network Adapter Drivers on Windows 11, 10 or 7 - Immediate Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-winerror-xc004f050/"><u>Mastering Fix for WinError Xc004f050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-microsoft-store-fault-error-0x0-in-windows/"><u>Strategies to Resolve Microsoft Store Fault: Error 0X0 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x887a0006-for-gpu-hangs/"><u>Tackling Windows Error 0X887A0006 for GPU Hangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-ignoring-restricted-feature-on-windows-software/"><u>Tips for Ignoring Restricted Feature on Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-issue-insufficient-it-admin-rights/"><u>Troubleshooting Windows Issue: Insufficient IT Admin Rights</u></a></li>
+</ul></div>
 

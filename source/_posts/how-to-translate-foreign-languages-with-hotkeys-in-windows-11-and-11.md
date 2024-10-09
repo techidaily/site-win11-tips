@@ -1,7 +1,7 @@
 ---
 title: How to Translate Foreign Languages With Hotkeys in Windows 11 & 11
-date: 2024-09-28T22:18:23.117Z
-updated: 2024-10-03T20:24:18.096Z
+date: 2024-10-07T18:42:40.879Z
+updated: 2024-10-08T23:24:30.523Z
 tags:
   - windows10
   - windows11
@@ -48,24 +48,18 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
@@ -73,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -103,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
@@ -121,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
@@ -146,22 +140,24 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix-for-2024/"><u>[New] From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>[Updated] Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-virtual-journey-past-to-present/"><u>[Updated] The Virtual Journey Past to Present</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-explore-twitter-videos-in-high-fidelity-format/"><u>2024 Approved Explore Twitter Videos in High Fidelity Format</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>2024 Approved Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/asian-talking-points-ranks-and-last-access-feature/"><u>Asian Talking Points: Ranks & Last Access Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-images-with-win11s-photos-building-slideshows-and-perfecting-spots/"><u>Effortless Images with Win11's Photos: Building Slideshows & Perfecting Spots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-errors-in-windows-11s-trash-functionality/"><u>Fixing Errors in Windows 11'S Trash Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-utorrent-sync-troubles-on-pcs/"><u>Guiding Through uTorrent Sync Troubles on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 10 & 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-p55t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel P55T?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-issues-resolved-rehab-your-keystrokes-in-win10/"><u>Keyboard Issues Resolved: Rehab Your Keystrokes in Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-hardware-usage-visibility-through-windows-panels/"><u>Optimize Hardware Usage Visibility Through Windows Panels</u></a></li>
-<li><a href="https://article-files.techidaily.com/portrait-perfection-free-official-passport-image-generator-download-for-2024/"><u>Portrait Perfection Free, Official Passport Image Generator Download for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-ea-servers-not-connecting-errors/"><u>Strategies to Rectify EA Servers Not Connecting Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-quiet-command-conductive-windows-11-halt/"><u>The Quiet Command: Conductive Windows 11 Halt</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-multiframe-storytelling-using-picture-in-picture-in-final-cut-pro-for-2024/"><u>Updated The Art of Multiframe Storytelling Using Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-youtube-calendar-events-beyond-vidcon/"><u>[New] In 2024, The Ultimate Youtube Calendar Events Beyond VidCon</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-signal-of-a-block-missed-snaps-and-none-left/"><u>[New] Signal of a Block Missed Snaps and None Left</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-combining-visual-and-auditory-elements-in-the-windows-photos-app/"><u>[Updated] Combining Visual and Auditory Elements in the Windows Photos App</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unraveling-the-best-solo-play-strategies-for-apex-legends/"><u>2024 Approved Unraveling the Best Solo Play Strategies for Apex Legends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-exception-interrupted-glitches-in-windows-systems/"><u>Combat 'Exception Interrupted' Glitches in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-batch-script-execution-power/"><u>Elevate Your Batch Script Execution Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-full-screen-freezes-in-sonic-on-w11/"><u>Eliminating Full-Screen Freezes in Sonic on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-friendly-forecast-tools/"><u>Essential Windows-Friendly Forecast Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 7 | Stellar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-telegram-web-potentials-a-practical-guide/"><u>In 2024, Unlocking Telegram Web Potentials A Practical Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-video-recovery-recover-deleted-videos-from-infinix-by-fonelab-android-recover-video/"><u>Infinix Video Recovery - Recover Deleted Videos from Infinix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-edge-always-active-on-windows-11-guide/"><u>Is Edge Always Active on Windows 11? Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavigif/"><u>MovaviでシームレスなオンラインGIFファイル変換: 完全無料サービス</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/office-integration-a-concise-guide-to-windows-1011/"><u>Office Integration: A Concise Guide to Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005949703-ps4-malfunction-heres-how-to-fix-those-irritating-freezes/"><u>PS4 Malfunction? Here's How to Fix Those Irritating Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-needs-user-id-login-failures/"><u>Troubleshooting Windows Needs User ID Login Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultra-quick-turn-off-windows-11-dings/"><u>Ultra-Quick Turn Off Windows 11 Dings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
 </ul></div>
 

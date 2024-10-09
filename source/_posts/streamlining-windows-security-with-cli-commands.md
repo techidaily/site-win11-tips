@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows Security with CLI Commands
-date: 2024-09-15T09:19:02.610Z
-updated: 2024-09-17T04:08:25.777Z
+date: 2024-10-06T03:37:23.582Z
+updated: 2024-10-09T01:19:26.295Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,29 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
  Now net user will remove the account from the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -80,10 +100,16 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable and Disable a Domain User Account
@@ -95,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 `net user Username /domain /active:no`
 
  If you want to enable an account on a domain, just use the **/active:yes** switch in the above command structure instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set User Account Login Times
 
@@ -125,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
 `net user Username /expires:DD/MM/YYYY`
@@ -141,19 +167,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
  The beauty of it is that you can also use it to change passwords for multiple accounts without leaving the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the Password of a Domain User Account
 
  You can also change the password of a user on a domain by appending the **/domain** switch at the end of the command for changing a user account. The syntax for this is as follows:
@@ -161,6 +174,13 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 `net user Username NewPassword /domain`
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Set a Password Policy for Users
 
@@ -175,13 +195,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 `net user Jack /passwordchg:yes`
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
 
@@ -203,8 +216,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +223,25 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-streamlining-video-transfer-from-imovie-to-youtube-platform/"><u>[New] In 2024, Streamlining Video Transfer From iMovie to YouTube Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-to-the-upcoming-sudo-integration/"><u>Adapting to the Upcoming Sudo Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-xiaomi-redmi-k70-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discovering-if-your-windows-device-is-under-group-policy-management-by-the-organization/"><u>Discovering If Your Windows Device Is Under Group Policy Management by the Organization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pc-tune-ups-wins-prime-performance-hacks/"><u>Essential PC Tune-Ups: Win's Prime Performance Hacks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a1x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A1x 5G FRP Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xs-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XS? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>In 2024, Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-art-microsoft-paints-latest-enhancements/"><u>Mastering Art: Microsoft Paint's Latest Enhancements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/most-efficient-cable-modemrouter-combinations-available/"><u>Most Efficient Cable Modem/Router Combinations Available</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-top-rated-online-animation-software-for-video-making-for-2024/"><u>New Unleash Your Creativity Top-Rated Online Animation Software for Video Making for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/premier-window-warriors-championing-stronger-passwords-today/"><u>Premier Window Warriors: Championing Stronger Passwords Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-lockout-count-after-sign-in-failures/"><u>Resetting Windows Lockout Count After Sign-In Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-dns-strategies-for-windows-11-enthusiasts/"><u>Tailor-Made DNS Strategies for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-dietary-patterns-with-ai-assistance/"><u>Tailoring Dietary Patterns With AI Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-gits-full-potential-with-github-desktop-on-windows/"><u>Unlocking Git's Full Potential with GitHub Desktop on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-woes-cure-non-responsive-f-keys-now/"><u>Windows 10 Woes? Cure Non-Responsive F-Keys Now</u></a></li>
+</ul></div>
+

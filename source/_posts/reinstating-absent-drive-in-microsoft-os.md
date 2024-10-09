@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent Drive in Microsoft OS
-date: 2024-09-28T21:45:52.979Z
-updated: 2024-10-04T00:13:33.028Z
+date: 2024-10-04T04:03:48.375Z
+updated: 2024-10-09T03:57:46.351Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
  Also, if your drive doesn't pop up right away, you can try [using a System Restore point to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) back to a point in time when it was showing. If that doesn't work, it could be that the virus corrupted the hard drive's files, and you can easily fix this by [running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Try Changing the Drive's Name
 
  Sometimes, a glitch can cause Windows to no longer recognize the drive. By [renaming the drive on Windows](https://www.makeuseof.com/change-volume-label-windows-11/), you can trigger a refresh of the operating system's recognition system so that the drive reappears.
@@ -60,21 +53,34 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 4. Click **Action** in the top menu and select **Rescan Disks**.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, check to see if you can see the drive again and if you can access it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update the Disk's Driver
@@ -84,10 +90,16 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 ![updating a disk drive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/updating-a-disk-drive-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Afterward, you can check if the drive has reappeared in File Explorer and the Send to menu.
@@ -108,27 +120,6 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
  Rest assured, the drive didn't magically disappear from your computer. It's just that Windows cannot recognize it for some reason, and we're going to show you how to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-professionals-guide-to-precision-with-morphvox-technology/"><u>[New] A Professional's Guide to Precision with MorphVOX Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rapidly-enhance-your-content-reach-with-simple-steps/"><u>[New] In 2024, Rapidly Enhance Your Content Reach with Simple Steps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>[New] Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-shopping-journey-to-visual-storytelling-hauling-edition/"><u>[Updated] 2024 Approved Shopping Journey to Visual Storytelling Hauling Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-timestamped-media-on-the-gotube-platform/"><u>2024 Approved The Art of Timestamped Media on the GoTube Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/coding-excellence-face-off-which-is-superior-chatgpt-or-gemini/"><u>Coding Excellence Face-Off: Which Is Superior, ChatGPT or Gemini?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-dark-scheme-in-windows-calculation-app/"><u>Enable Dark Scheme in Windows Calculation App</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-fixing-system-pte-misuse-causing-blue-screens/"><u>Expert Advice on Fixing SYSTEM PTE MISUSE Causing Blue Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-11-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme 11 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-well-need-your-current-windows-password-error-on-windows-11-and-11/"><u>How to Fix the “We’ll Need Your Current Windows Password” Error on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secret-passages-to-your-pc-mastering-rdp-on-win-11/"><u>Secret Passages to Your PC: Mastering RDP on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-your-skills-in-wsl-2-for-smarter-docker-execution/"><u>Sharpen Your Skills in WSL 2 for Smarter Docker Execution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strategic-hashing-techniques-for-success-in-youtube-game-vids-for-2024/"><u>Strategic Hashing Techniques for Success in YouTube Game Vids for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-winning-over-credential-vault/"><u>Strategies for Winning Over Credential Vault</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-shave-time-off-epic-launcher-downloads/"><u>Strategies to Shave Time Off Epic Launcher Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-store-apps-secure-directory-entry/"><u>Unlocking Store Apps: Secure Directory Entry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-writers-choice-for-best-video-edits/"><u>Windows 11' Writers’ Choice for Best Video Edits</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +127,23 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-guide-to-screen-capturing-in-minecraft/"><u>[Updated] Complete Guide to Screen Capturing in Minecraft</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-personalize-your-mobile-experience-with-inshot/"><u>[Updated] In 2024, Personalize Your Mobile Experience with InShot</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-go-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark Go (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-14-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 14 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-program-harmony-in-os-with-win-pct-wisdom/"><u>Master Program Harmony in OS with Win-PCT Wisdom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-kinemaster-wisely-skills-and-top-ranked-digital-counterparts-for-2024/"><u>Navigating KineMaster Wisely Skills and Top-Ranked Digital Counterparts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cleanup-automating-deletion-of-files-in-windows/"><u>Quick Cleanup: Automating Deletion of Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-administrative-controls-on-windows-defense-measures/"><u>Reversing Administrative Controls on Windows Defense Measures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sequel-of-seconds-measuring-20mb-footage/"><u>Sequel of Seconds Measuring 20MB Footage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-recover-accidentally-deleted-voicemail-messages-from-your-iphone/"><u>Steps to Recover Accidentally Deleted Voicemail Messages From Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-should-you-care-about-runtime-brokers-on-your-system/"><u>Why Should You Care About Runtime Brokers on Your System?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-clearing-windowss-prior-passcode/"><u>Winning Back Access: Clearing “Windows's Prior Passcode”</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Techniques to Maintain an Operational Windows Notepad
-date: 2024-09-29T18:31:12.207Z
-updated: 2024-10-04T00:42:53.552Z
+date: 2024-10-06T19:47:36.190Z
+updated: 2024-10-08T22:26:48.789Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 
  Note that this is just a temporary fix that you can use if you don’t have time to figure out what’s causing the problem. To resolve the underlying issue for good, it's time to dive into the potential root causes of this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair the Notepad App
 
  Both Windows 10 and 11 include a repair feature that can help fix problems with your apps and programs without affecting your data. You can try using this feature to repair the Notepad app and see if it resolves the abrupt crashes.
@@ -48,26 +55,19 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 ![Repair the Notepad App on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-notepad-app-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Notepad App
 
@@ -81,20 +81,13 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 4. Select **Uninstall** to confirm.  
 ![Uninstall Notepad App From Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-notepad-app-from-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Generic Fixes
@@ -106,26 +99,18 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 * **Install the latest Windows updates:** If you are experiencing similar app crashes with other apps as well, there may be an issue with the Windows build your PC is running. Try [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and see if that fixes the problem.
 * **Create another user account:** If nothing else works, your current user account may be at fault. In that case, you will have to [create a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to get Notepad working again.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Start Using Notepad Again on Windows
 
  Notepad is a handy app for jotting down notes and editing text files on your Windows computer. However, your experience while using it may not always be without problems. Hopefully, one of the above suggestions has helped you fix Notepad crashes on Windows, and things are back to normal.
 
  If the Notepad app is constantly closing or crashing on your Windows 10 or 11 PC, don’t fret. Here are some tips that should help fix the problem.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-fullscreen-capturing-software-pcmac-edition/"><u>[Updated] In 2024, Top Fullscreen Capturing Software, PC/Mac Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/combat-chronicles-leading-10-battle-royale-games/"><u>Combat Chronicles Leading 10 Battle Royale Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-minmax-cpu-values-through-windows-menus/"><u>Deciphering Min/Max CPU Values Through Windows Menus</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram/"><u>Elevating Your Visual Storytelling Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enduring-techniques-for-inhibiting-windows-defender/"><u>Enduring Techniques for Inhibiting Windows Defender</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-performance-in-naraka-bladepoint-game-crashes-fixed-now/"><u>Enhanced Performance in Naraka: Bladepoint - Game Crashes Fixed Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c02-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C02 to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigating-networked-video-streams-with-precision-using-vlc/"><u>Navigating Networked Video Streams with Precision Using VLC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-firewall-a-step-by-step-approach/"><u>Overhauling Firewall: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-methods-reopen-closed-nvidia-control-panel-windows-11/"><u>Quick Methods: Reopen Closed Nvidia Control Panel, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/three-easy-steps-to-remove-store-app-from-win11/"><u>Three Easy Steps to Remove Store App From Win11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,3 +119,18 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-stopcapture-screen-freeze-assist/"><u>[New] StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-chase-laughter-and-tears-on-instagram-with-these-10-feeds-for-2024/"><u>[Updated] Chase Laughter & Tears on Instagram with These 10 Feeds for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-deals-bf-black-friday-612-win10-for-life/"><u>Best Deals: BF Black Friday - $6.12 Win10 for Life</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easy-to-follow-guide-leveraging-mobizen-screensaver-for-2024/"><u>Easy-to-Follow Guide Leveraging Mobizen Screensaver for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-local-security-not-functioning-warning/"><u>Immediate Actions for 'Local Security Not Functioning' Warning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-efficient-and-creative-website-creation/"><u>Leveraging ChatGPT for Efficient and Creative Website Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-notepads-display-from-light-to-dark-theme-win-11/"><u>Transitioning Notepad's Display From Light to Dark Theme (Win 11)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unmatched-clarity-our-choice-of-the-top-10-camera-lenses/"><u>Unmatched Clarity Our Choice of the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726227462551-wmaogg-movavi/"><u>열린 웹 사이트에서 자연스럽게 WMA/OGG로 영상/음성 큐브를 전환하는 방법: Movavi 도구</u></a></li>
+</ul></div>
+

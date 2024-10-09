@@ -1,7 +1,7 @@
 ---
 title: "Turbocharge Your Excel: Addressing Windows Speed Issues"
-date: 2024-09-28T20:14:24.899Z
-updated: 2024-10-03T23:50:57.544Z
+date: 2024-10-04T03:17:38.009Z
+updated: 2024-10-08T16:54:56.359Z
 tags:
   - windows10
   - windows11
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 4. Click **OK** and restart Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable Manual Calculation
@@ -82,16 +82,17 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Size of Your Excel File
@@ -100,23 +101,9 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
 
@@ -126,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -143,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the above tips help, you can try some generic fixes to speed up Excel’s performance on Windows.
@@ -158,29 +145,18 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Experience a Lag-Free Excel Again on Windows
 
  It can be frustrating if Excel runs slowly and constantly lags on your Windows computer. However, you don't have to put up with such a poor experience. Applying the above tips should speed up Excel’s performance on your PC and put you at ease.
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-optimize-your-phones-soundplay-with-top-10/"><u>[New] Optimize Your Phone's Soundplay With Top 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-activatingdeactivating-picture-in-picture-feature-for-2024/"><u>[Updated] Activating/Deactivating Picture-in-Picture Feature for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-foremost-video-starters-the-leading-16-youtube-openers/"><u>2024 Approved Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015592668-audio-service-malfunctions-heres-how-you-can-restore-them-successfully/"><u>Audio Service Malfunctions? Here's How You Can Restore Them Successfully</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-your-windows-experience-effective-cmd-shortcuts-in-win11/"><u>Command Your Windows Experience: Effective Cmd Shortcuts in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-smart-7-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Smart 7 Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-win11s-msresourcetext-problem/"><u>How to Tackle Win11's MsResource/Text Problem</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-iphones-best-camera-combo-utilities/"><u>In 2024, IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-x100-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo X100 for Parents | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-web-expeditions-top-7-browser-options-with-lower-ram-demands/"><u>Minimalist Web Expeditions: Top 7 Browser Options With Lower RAM Demands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-workflow-with-essential-command-shortcuts-for-win11-users/"><u>Optimize Workflow with Essential Command Shortcuts for Win11 Users</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073cf3-on-win1111/"><u>Troubleshooting Microsoft Store Error 0X80073cf3 on Win11/11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,3 +165,18 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revitalize-disappearing-watch-thumbnail/"><u>[Updated] 2024 Approved Revitalize Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instasaver-the-leading-videophoto-downloaders-round-up/"><u>[Updated] In 2024, InstaSaver The Leading Video/Photo Downloaders Round-Up</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone SE Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y17s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y17s</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-phone-call-basics-with-intel-unison/"><u>Mastering Windows 11: Phone Call Basics with Intel Unison</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985918324-quick-solutions-no-more-control-crashing-troubles/"><u>Quick Solutions - No More Control Crashing Troubles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-the-process-solving-hidden-logins-on-windows-11/"><u>Reboot the Process: Solving Hidden Logins on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-pin-removal-switch-in-windows-11/"><u>Unlocking Hidden Pin Removal Switch in Windows 11</u></a></li>
+</ul></div>
+

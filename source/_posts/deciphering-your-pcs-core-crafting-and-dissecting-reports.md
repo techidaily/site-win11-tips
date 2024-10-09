@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Your PC's Core: Crafting and Dissecting Reports"
-date: 2024-09-16T22:20:41.302Z
-updated: 2024-09-22T05:37:44.243Z
+date: 2024-10-05T17:13:37.824Z
+updated: 2024-10-08T19:22:25.037Z
 tags:
   - windows10
   - windows11
@@ -36,8 +36,23 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 1. Press **Win + R** to bring up the Windows Run dialog box, enter **msinfo** in the text box, and then hit the **Enter** key to bring up System Information.  
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
 3. Choose a location where you want to save the file and click **Save**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can open the system report or send it to a technician to analyze and find out what is wrong with your computer.
 
@@ -48,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  Once it loads, you will land on **System Summary** in the navigation panel on the left, and it will show you an overview of your PC in the right panel. On top of information about your OS (name and version) and system (motherboard manufacturer, computer's model number, and processor type), you'll also find other obscure information, such as your BIOS mode (whether it's UEFI or not) and the [size and location of pagefile.sys](https://www.makeuseof.com/windows-pagefile-sys-guide/).
 
 ![Ensuring Our PC Supports Secure Boot in the System Information Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Within **System Summary** in the navigation pane, you'll find subsections that contain even more detailed information, with the first one being **Hardware Resources**. Here, you'll find information about the hardware currently installed on your system and how it's functioning.
 
@@ -65,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
  So that's all you need to know to get started with the system report.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Search for Information in the System Report
 
  If you have an idea of what you're looking for, you can use the search tool at the bottom of the System Information window in the report to find it faster. Just click on the text box, enter what you're searching for (we've entered **drive** in our example), and hit the **Enter** key on your keyboard or click **Find Next**.
@@ -85,10 +94,16 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 ![the Drives section of the system report on Windows after performing a search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/drives-section-system-report-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you don't have to open many sections just to find what you need, making the search function a huge time saver.
@@ -109,5 +124,16 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-self-filmed-brilliance-secrets-for-youtube-success/"><u>[Updated] Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-traversing-youtube-dialogue-pathways-for-2024/"><u>[Updated] Traversing YouTube Dialogue Pathways for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-workday-unleashing-the-power-of-chatgpt-for-personalized-professional-assistance/"><u>Ace Your Workday: Unleashing the Power of ChatGPT for Personalized Professional Assistance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-black-screen-issue-when-launching-monster-hunter-world/"><u>Fixing the 'Black Screen' Issue When Launching Monster Hunter: World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-installer-failures-on-modern-windows/"><u>Navigating Through Installer Failures on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-for-purging-ms-defender-logs-in-win-1111/"><u>Top Strategies for Purging MS Defender Logs in Win 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-power-top-5-windows-pc-enhancements/"><u>Unleashing Power: Top 5 Windows PC Enhancements</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel P40+ | Dr.fone</u></a></li>
+</ul></div>
 

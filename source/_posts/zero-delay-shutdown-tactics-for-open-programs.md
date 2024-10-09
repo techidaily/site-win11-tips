@@ -1,7 +1,7 @@
 ---
 title: Zero-Delay Shutdown Tactics for Open Programs
-date: 2024-09-14T21:30:58.643Z
-updated: 2024-09-22T06:04:41.489Z
+date: 2024-10-06T23:03:56.343Z
+updated: 2024-10-09T01:50:16.808Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 2. Check the boxes of all the apps you want to re-open.
 3. Right-click on one of the results and select **Resume Process**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
@@ -76,22 +83,29 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
 taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
@@ -115,13 +129,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, follow these steps:
 
 1. Press the **File** tab in the top-left corner of the text file.
@@ -136,6 +143,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 3. Click the **Close Multiple Apps Simultaneously.bat** batch file.
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can add as many apps as you want to your batch script.
 
@@ -157,13 +171,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
  It’s always frustrating when your Windows device suddenly becomes slow or buggy. In most cases, such issues are caused by running tons of apps simultaneously.
@@ -183,5 +190,19 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-jumpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators/"><u>[New] Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>[New] Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-transforming-audio-the-top-8-methods-to-convert-m4a-to-wma/"><u>1. Transforming Audio: The Top 8 Methods to Convert M4A to WMA</u></a></li>
+<li><a href="https://fox-http.techidaily.com/charting-a-new-course-for-creative-vr-content-for-2024/"><u>Charting a New Course for Creative VR Content for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-wireless-drivers-for-windows-pcs/"><u>Download HP Wireless Drivers for Windows PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-five-game-changing-updates-from-facebook/"><u>In 2024, Top Five Game-Changing Updates From Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-troubled-waters-in-windows-mail-app-with-0x800713f/"><u>Navigating Through Troubled Waters in Windows Mail App with 0X800713F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-pc-identifying-the-7-most-suspicious-windows-processes/"><u>Protect Your PC: Identifying the 7 Most Suspicious Windows Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-broken-system-defragmenter-execution/"><u>Rectifying Broken System Defragmenter Execution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-enhancing-your-acer-nitro-5-with-the-latest-driver-updates/"><u>Step-by-Step Tutorial: Enhancing Your Acer Nitro 5 with the Latest Driver Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-your-way-through-windows-application-hiccups-7-tips/"><u>Troubleshoot Your Way Through Windows Application Hiccups (7 Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-media-maker-tool-error-x90017-on-windows/"><u>Unraveling Media Maker Tool Error X.90017 On Windows</u></a></li>
+</ul></div>
 

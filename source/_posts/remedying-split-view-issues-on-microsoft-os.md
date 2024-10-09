@@ -1,7 +1,7 @@
 ---
 title: Remedying Split View Issues on Microsoft OS
-date: 2024-10-03T01:47:43.659Z
-updated: 2024-10-03T18:12:57.051Z
+date: 2024-10-02T06:23:24.282Z
+updated: 2024-10-09T05:41:46.666Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. There are also some generic solutions you can try that fix Windows-specific errors. These include [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) and Deployment Image Servicing and Management. Running these utilities [clears out corrupted or missing system files](https://www.makeuseof.com/windows-built-in-repair-tools/) and replaces them with new ones.
 3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
 4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Make Sure "Snap Windows" Is Enabled
 
@@ -78,7 +64,21 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restart Windows Explorer
 
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. Now click **Run new task** at the top of the Task Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
@@ -128,44 +128,15 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
  Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-optimize-vertical-or-horizontal-vids-on-fb/"><u>[New] How To Optimize Vertical or Horizontal Vids On FB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cut-the-clutter-polishing-videos-using-enhancer-22/"><u>[New] In 2024, Cut the Clutter Polishing Videos Using Enhancer 2.2</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ee-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>[New] See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-tricks-for-swift-vimeo-watch/"><u>[New] Tricks for Swift Vimeo Watch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-top-10-rated-gopro-cases-revisited/"><u>2024 Approved Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp2mp3-movavi/"><u>優化MP2為MP3的無限制線上移動 - 運用Movavi 解決方案</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-transformer-facilement-un-video-mkv-en-format-avi/"><u>Comment Transformer Facilement Un Vidéo MKV en Format AVI?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-gifs-from-3gp-files-without-cost-quick-and-easy-video-editing-by-movavi/"><u>Create GIFs From 3GP Files Without Cost - Quick & Easy Video Editing by Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-magic-6-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor Magic 6 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flvmpeg-movavi/"><u>FLVからMPEGへの無料で簡単なオンライン変換 - Movavi</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-effective-advertising-on-youtube-is-being-undermined-by-rising-adblocker-usage/"><u>How Effective Advertising on YouTube Is Being Undermined by Rising Adblocker Usage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726030143125-macdvd-dvd/"><u>MacでDVDファイルへの変換手順 - DVD取り込みガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-nastinovy-skoleni-podrobna-postupy-a-vikna-pro-starsich-hracici/"><u>Movavi Nástinový Školení: Podrobná Postupy a Víkna Pro Starších Hracíči</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-bmp-to-png-conversion-by-movavi-get-it-free/"><u>Online BMP to PNG Conversion by Movavi: Get It FREE!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screenprime-pro-for-advanced-users/"><u>ScreenPrime Pro for Advanced Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-12-caddy-per-display-per-computer-portatili-suggerimenti-e-consigli-di-ottimizzazione-seo/"><u>Top 12 Caddy Per Display Per Computer Portatili: Suggerimenti E Consigli Di Ottimizzazione SEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transcodificador-de-video-sin-coste-online-como-cambiar-m4v-a-mpeg-con-movavi-gratis/"><u>Transcodificador De Video Sin Coste Online: Cómo Cambiar M4V a MPEG Con Movavi Gratis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-wma-in-ogg-gratuitamente-online-utilizzando-movavi/"><u>Trasforma I Tuoi WMA in Ogg Gratuitamente Online Utilizzando Movavi!</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +145,27 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-metaverse-laughs-a-guide-to-personal-memes/"><u>[New] 2024 Approved Essential Metaverse Laughs A Guide to Personal Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] 2024 Approved From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-compreehed-guide-to-online-identity-youtube-account-setup-for-2024/"><u>[New] A Compreehed Guide to Online Identity YouTube Account Setup for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-professional-camera-spin-360-edition-2023/"><u>[Updated] Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>2024 Approved Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-reset-folder-view-settings-to-default-in-windows-11/"><u>3 Ways to Reset Folder View Settings to Default in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-denied-seven-windows-workarounds-for-web-site-woes/"><u>Access Denied? Seven Windows Workarounds for Web Site Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/androidwindows-twinning-effortless-sync-instructions/"><u>Android/Windows Twinning: Effortless Sync Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999539113-bluestacks-stability-boosted-in-just-5-quick-and-easy-steps/"><u>BlueStacks Stability Boosted in Just 5 Quick and Easy Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-system-safety-wins-7-top-rated-zero-cost-pass-gen-software/"><u>Boost System Safety: Win's 7 Top Rated Zero-Cost Pass Gen Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-brainpower-the-ultimate-8-windows-guide-to-studying/"><u>Boost Your Brainpower: The Ultimate 8 Windows Guide to Studying</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-usb-and-serial-connections-smoothly/"><u>Bridge USB and Serial Connections Smoothly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/building-an-empire-in-space-an-expert-review-of-the-offworld-trading-company-gameplay/"><u>Building an Empire in Space: An Expert Review of the Offworld Trading Company Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000714706-football-manager-2022-wont-launch-heres-why-and-how-its-fixed/"><u>Football Manager 2022 Won't Launch? Here's Why and How It's Fixed</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 9A | Dr.fone</u></a></li>
+</ul></div>
+

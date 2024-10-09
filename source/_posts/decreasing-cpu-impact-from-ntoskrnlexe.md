@@ -1,7 +1,7 @@
 ---
 title: Decreasing CPU Impact From Ntoskrnl.exe
-date: 2024-10-02T16:53:01.109Z
-updated: 2024-10-03T21:40:13.780Z
+date: 2024-10-03T05:42:25.277Z
+updated: 2024-10-09T06:23:35.753Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 
  When your computer restarts, it clears out system memory and refreshes its processes. The system stops running unnecessary programs and reboots the operating system. As a result, Ntoskrnl.exe's high CPU usage may subside and return to normal levels after restart.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable the Windows Search Service
 
  Windows Search Service is a system process that constantly indexes files and folders on your computer to speed up searching. However, it can sometimes cause Ntoskrnl.exe to use high CPU resources. In this case, you can disable the service temporarily and check if the CPU usage decreases.
@@ -75,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 ![Disable Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-search-service.jpg)
 6. Click on **Apply** and then **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you disable Windows Search Service, restart your computer and check if Ntoskrnl.exe's CPU usage has decreased.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the Device Drivers
 
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
  After updating your device drivers, restart your computer and see if it changes Ntoskrnl.exe's CPU usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Scan for Malicious Program
@@ -108,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 
  If you prefer command-line tools, you can also perform a system scan and [remove malware or viruses using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). However, it requires some technical knowledge to use PowerShell effectively. Therefore, sticking to a [reputable antivirus program](https://www.makeuseof.com/windows-11-antivirus-apps/) is recommended for most users.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Use Windows Performance Toolkit
 
  If all else fails and Ntoskrnl.exe still uses abnormal CPU resources, you can try the Windows Performance Toolkit. It is a built-in diagnostic and performance management tool that identifies and troubleshoots system resource issues.
@@ -119,24 +133,10 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 ![Use Windows Performance Toolkit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-windows-performance-toolkit.jpg)
 3. In the Command Prompt window, type the following command and hit Enter:  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Circular && timeout -1 && xperf -d cpuusage.etl
 4. Wait for the process to complete. It may take some time.
 
  After the process ends, restart your computer and [open the System32 Folder in File Explorer](https://www.makeuseof.com/windows-11-open-system32/). Look for a file named **cpuusage.etl**. This is the report generated by the Windows Performance Toolkit. Double-click on it to open and analyze the report. It may provide insight into what's causing Ntoskrnl.exe to use high CPU resources.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Ntoskrnl.Exe's High CPU Usage on Windows
 
@@ -146,25 +146,6 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
 
  Let's explore what Ntoskrnl.exe is and how to fix its high CPU usage on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pro-tips-to-elevate-your-headline-game-for-2024/"><u>[New] Pro Tips to Elevate Your Headline Game for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-monetization-changes-500-subscribers-now-eligible/"><u>[Updated] 2024 Approved YouTube Monetization Changes 500 Subscribers Now Eligible</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-editors-for-youtube-writers-and-creators-all-free/"><u>[Updated] Top Editors for YouTube' Writers and Creators - All Free</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-efficient-techniques-for-editing-account-numbers-on-tiktok/"><u>2024 Approved Efficient Techniques for Editing Account Numbers on TikTok</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-gionee-f3-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Gionee F3 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/developing-an-in-context-notifier-for-automatic-software-updates-in-win11/"><u>Developing an In-Context Notifier for Automatic Software Updates in Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-v30-lite-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo V30 Lite 5G Device SIM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-extend-your-win11-menu-with-portables/"><u>Effortlessly Extend Your Win11 Menu With Portables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-or-remove-the-run-as-different-user-option-to-start-on-windows-11/"><u>How to Add or Remove the “Run as Different User” Option to Start on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-app-youre-trying-to-install-isnt-a-microsoft-verified-app-warning-on-windows/"><u>How to Fix “The App You’re Trying to Install Isn’t a Microsoft-Verified App” Warning on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-minimize-windows-sound-effects-override/"><u>How To Minimize Windows Sound Effects Override</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-prolific-mobile-video-makers-iphone-and-android/"><u>In 2024, Prolific Mobile Video Makers (iPhone & Android)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-c300-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after C300 has been deleted</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovery-guide-missing-d3dx939-dll-in-win11/"><u>Recovery Guide: Missing D3DX9_39 DLL in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-defective-zip-operations-in-win-11-os/"><u>Tackling Defective ZIP Operations in Win 11 OS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +153,20 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>[Updated] 2024 Approved Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-administered-window-on-os-x/"><u>Guidelines for Administered Window on OS X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-noctua-deals-with-feedback-investigating-rattling-sound-issues-in-their-latest-nh-d15-g2-cooling-solution/"><u>How Noctua Deals with Feedback: Investigating Rattling Sound Issues in Their Latest NH-D15 G2 Cooling Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-must-know-facts-for-asmr-content-lovers/"><u>In 2024, Must-Know Facts for ASMR Content Lovers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y78-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y78 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-subnet-shift-a-guide-to-win11-networks/"><u>Master the Subnet Shift: A Guide to Win11 Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lan-access-blockades-in-winmc/"><u>Overcoming LAN Access Blockades in WinMC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-system-controls-learn-how-to-use-4-techniques-for-disk-editor-on-win11/"><u>Seamless System Controls: Learn How to Use 4 Techniques for Disk Editor on Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-computer-says-msvcr7dll-is-missing/"><u>Solutions for When Your Computer Says 'MSVCR7#.dll Is Missing'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-authorization-snags-head-on/"><u>Tackling Windows Authorization Snags Head-On</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+</ul></div>
+

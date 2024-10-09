@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows Access Control System Glitches
-date: 2024-10-02T23:32:07.556Z
-updated: 2024-10-03T16:27:02.926Z
+date: 2024-10-05T21:43:31.867Z
+updated: 2024-10-09T01:33:30.405Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  The above-mentioned tools are [built into Windows to help repair corrupt or damaged files](https://www.makeuseof.com/windows-built-in-repair-tools), and you should familiarize yourself with how and when to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Close All Universal Windows Platform (UWP) Apps
 
  Sometimes, UWP apps can lock resources when they're running in their sand-boxed environment. They're not supposed to, but when they do, you can get the “access control entry is corrupt” error message. To fix this, close the UWP app you suspect is the culprit and then update or reinstall it.
@@ -53,15 +46,16 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 2. Select the **Security** tab and then click on **Advanced** at the bottom to open the **Advanced Securities** window for the file.  
 ![the Security tab of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-security-tab-of-a-file-on-windows.jpg)
 3. Next to the **Owner**, check to see if your username is listed as the owner of the file or folder. If it isn't, that may be the problem. So, click on the **Change** link next to it to open the Select User or Group window.  
-![the Advanced Settings window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-settings-window-of-a-file-on-windows.jpg)
-4. Click **Advanced** to open the **Select User or Group (Advanced)** window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![the Advanced Settings window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-settings-window-of-a-file-on-windows.jpg)
+4. Click **Advanced** to open the **Select User or Group (Advanced)** window.  
 
 ![the Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-select-user-or-group-window-of-a-file-on-windows.jpg)
 5. Click **Find Now** to search for the available users on your Windows computer.  
@@ -69,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 6. In the search results at the bottom, select your username and click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the advanced Select User or Group window of a file on Windows with a list user on the PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-with-a-list-of-users-on-windows.jpg)
@@ -81,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  Now that you've changed ownership, try accessing the file or folder again and see if the error still shows up.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Try Accessing the File or Folder From a Different User Account
 
  Sometimes, the error pops up because your user account is corrupt, meaning that all the fixes above will most likely fail. What you can do is [create another user account on Windows for troubleshooting purposes](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/).
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Try to access the file or folder (provided it is in a publicly available directory), and if the error doesn't pop up, you can migrate the necessary files from the old account to the new one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restore the Access Control List
@@ -106,20 +107,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-dynamic-duels-ranking-the-top-street-fighter-titles-for-2024/"><u>[New] Dynamic Duels Ranking the Top Street Fighter Titles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-video-mastery-a-comprehensible-guide/"><u>[Updated] Funimate Video Mastery A Comprehensible Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-edge-40-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Edge 40 is off? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>In 2024, Elevating Your Instagram Presence A Guide to Smart Hashtag Use</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-online-free-file-converter-compatible-with-all-formats/"><u>Movavi Online Free File Converter - Compatible with All Formats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-ts-naar-mpeg-convertor-movavi/"><u>Online Gratuite TS Naar MPEG Convertor - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transferer-un-fichier-wav-a-format-ogg-en-ligne-sans-frais-tutorial-de-conversion-avec-movavi/"><u>Transférer Un Fichier WAV À Format Ogg En Ligne Sans Frais - Tutorial De Conversion Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-de-archivos-raf-en-imagenes-jpg-por-movavi/"><u>Transformación Gratuita De Archivos RAF en Imágenes JPG Por Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862829204-unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -127,3 +114,23 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-discovering-and-dominating-unique-segments-in-youtube-for-2024/"><u>[New] Discovering and Dominating Unique Segments in YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-much-money-do-podcasters-spend/"><u>[New] How Much Money Do Podcasters Spend?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-quintessential-guide-to-selecting-premium-drone-engines/"><u>[Updated] 2024 Approved The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/png-to-jpeg-movavi/"><u>無償のオンライン画像変換: PNG to JPEG - Movaviの簡単方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-vlc-input-compatibility-faults/"><u>Correcting Windows VLC Input Compatibility Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-correcting-xbox-game-pass-fatal-error-in-windows-11/"><u>Guide to Correcting Xbox Game Pass Fatal Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-win11-connectivity-options/"><u>Guide to Tweaking Win11 Connectivity Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F54 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immediate-rectification-of-diagonal-distortion/"><u>Immediate Rectification of Diagonal Distortion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-guide-to-choosing-a-high-performance-dell-xps-13-2-in-1-laptop-for-professionals/"><u>The Definitive Guide to Choosing a High-Performance Dell XPS 13 2-in-1 Laptop for Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-flip-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Flip 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
+

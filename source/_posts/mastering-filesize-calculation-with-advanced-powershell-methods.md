@@ -1,7 +1,7 @@
 ---
 title: Mastering Filesize Calculation with Advanced Powershell Methods
-date: 2024-09-27T17:42:44.183Z
-updated: 2024-10-03T21:34:39.118Z
+date: 2024-10-08T00:52:33.034Z
+updated: 2024-10-09T02:06:08.097Z
 tags:
   - windows10
   - windows11
@@ -67,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
  Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get the Subfolder Size Using PowerShell
 
 ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
@@ -87,22 +94,21 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the Subfolder Size in a Table Format Using PowerShell
 
 ![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.
 
@@ -113,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 2. Next, copy and paste the following command into the PowerShell ISE console. Make sure to change the directory from c:\\ to your preferred directory.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `$targetfolder = 'C:\'  
@@ -146,26 +152,6 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-change-default-image-savings-in-os-x/"><u>[New] 2024 Approved Change Default Image Savings in OS X</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-optimize-your-teams-virtual-meetings-for-2024/"><u>[New] How to Optimize Your Team's Virtual Meetings for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-vlogging-tools-for-beginners-for-2024/"><u>[Updated] Essential Vlogging Tools for Beginners for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>[Updated] In 2024, Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expediting-torrent-downloads-windows-solutions/"><u>Expediting Torrent Downloads: Windows Solutions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-90-gt-by-drfone-android/"><u>How to Bypass FRP on Honor 90 GT?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-z50-ultra-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Z50 Ultra.</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-migration-your-tunes-across-platforms/"><u>In 2024, Melodic Migration Your Tunes Across Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interface-innovations-dissecting-changes-from-w10-to-w11/"><u>Interface Innovations: Dissecting Changes From W10 to W11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-mobvoe-ticwatch-e2-worth-it-an-affordable-smartwatch-review/"><u>Is Mobvoe TicWatch E2 Worth It? An Affordable Smartwatch Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-personalization-tips-and-tricks/"><u>Mastering Windows 11 Personalization: Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-corrections-overcoming-frequent-freezes-in-wwe-games/"><u>Quick Corrections: Overcoming Frequent Freezes in WWE Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-unable-to-manage-default-audio-device/"><u>Remedying 'Windows Unable to Manage Default Audio Device'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-solution-tackling-unrecognized-disk-in-windows-11-environment/"><u>Stepwise Solution: Tackling 'Unrecognized Disk' In Windows 11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-task-managers-cpu-statistics-with-clarity/"><u>Understanding Task Manager's CPU Statistics with Clarity</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +159,20 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-must-have-talker-alteration-tech-for-content-makers/"><u>[Updated] 2024 Approved Must-Have Talker Alteration Tech for Content Makers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>[Updated] How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>Customizing Your Channel Icon, Banner & Thumbnail Ideas</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-to-break-free-from-endless-reboots-on-your-windows-10-system/"><u>Expert Advice to Break Free From Endless Reboots on Your Windows 10 System</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-smooth-audio-transmission-in-steam/"><u>Guaranteeing Smooth Audio Transmission in Steam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-complete-system-restore-on-windows-7-without-using-a-disc/"><u>How to Perform a Complete System Restore on Windows 7 Without Using a Disc</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shake-it-off-best-phones-for-unshakable-visual-experience/"><u>In 2024, Shake It Off! Best Phones for Unshakable Visual Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sound-control-with-windows-11-volume-tools/"><u>Mastering Sound Control with Windows 11 Volume Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-access-regulation-for-everyday-windows-pcs/"><u>Mastering User Access Regulation for Everyday Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-blocking-self-starting-windows-store/"><u>Strategies for Blocking Self-Starting Windows Store</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-defender-smartscreen-temporarily-unavailable-troubleshooting-steps/"><u>Windows Defender SmartScreen Temporarily Unavailable - Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-software-windows-best-photo-arrangers-reviewed/"><u>Winning Software: Windows' Best Photo Arrangers Reviewed</u></a></li>
+</ul></div>
+

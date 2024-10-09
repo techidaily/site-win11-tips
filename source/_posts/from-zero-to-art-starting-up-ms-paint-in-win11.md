@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Art: Starting up MS Paint in Win11"
-date: 2024-09-15T02:49:33.323Z
-updated: 2024-09-21T19:59:27.046Z
+date: 2024-10-03T04:43:51.002Z
+updated: 2024-10-09T03:35:11.992Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 2. Search for "Paint" in the search box, and you will see all the results that relate to Microsoft Paint.  
 ![Open Paint Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-windows-search.jpg)
 3. Clicking on the Paint icon will launch the program immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Microsoft Paint Using a Run Command
 
@@ -69,15 +76,28 @@ Now that Microsoft Paint is open, you can start working.
 2. In the Command Prompt, type**mspaint** and press**Enter** .  
 ![Open Paint Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Microsoft Paint program will launch immediately and be ready for use.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
@@ -109,10 +129,10 @@ The Microsoft Paint application will appear on your screen.
 The Microsoft Paint application should now be open and ready to use!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. How to Open Microsoft Paint Using a Desktop Shortcut
@@ -126,13 +146,6 @@ Here's how you can use this tool to open the Paint application:
 ![Open Paint With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-with-desktop-shortcut.jpg)
 3. You can then give your shortcut a name (like Paint).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To save the changes, click**Finish** .
 
  You can also create a desktop shortcut using Windows File Explorer. Here's how:
@@ -144,10 +157,10 @@ Here's how you can use this tool to open the Paint application:
  A desktop shortcut will appear on your computer. Double-clicking it will open the Paint application
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. How to Open Microsoft Paint via a Shortcut Key
@@ -162,6 +175,13 @@ Create a desktop shortcut as explained above.
 ![Create Shortcut key of Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-shortcut-key-of-paint.jpg)
 
  Press**Ctrl + Alt** and then type the letter or number you want as a shortcut. For example, if you select**8** , then you can press**Ctrl + Alt + 8** on your keyboard to open Microsoft Paint.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Access to Microsoft Paint Easily
 
@@ -180,5 +200,18 @@ Create a desktop shortcut as explained above.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-guide-effortless-ipad-screen-recording-techniques/"><u>[New] Simplified Guide Effortless iPad Screen Recording Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>[Updated] Dominate IGTV With Follower Growth Essential Techniques Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-time-and-clutter-with-multi-folder-creation-techniques-in-windows-1011/"><u>Cut Down Time and Clutter with Multi-Folder Creation Techniques in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-power-the-art-of-appbrowser-control-in-winos/"><u>Directing Power: The Art of App/Browser Control in WinOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-c67-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme C67 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-download-land-free-photo-frames/"><u>Navigating Download Land Free Photo Frames</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-integrating-invisible-drop-downs-in-win-oses/"><u>Stealth Mode: Integrating Invisible Drop-Downs in Win OSes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-collection-s-best-podcasts-on-leveraging-social-media-for-marketing-success-for-2024/"><u>The Ultimate Collection S Best Podcasts on Leveraging Social Media for Marketing Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-dailymotion-videos-into-multiple-formats-including-mp4-and-extended-graphics-array/"><u>Ultimate Guide to Converting DailyMotion Videos Into Multiple Formats Including MP4 and eXtended Graphics Array</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-dialer-interface-effortlessly/"><u>Unlock Windows 11 Dialer Interface Effortlessly</u></a></li>
+</ul></div>
 

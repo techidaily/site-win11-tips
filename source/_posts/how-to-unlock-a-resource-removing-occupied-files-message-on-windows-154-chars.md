@@ -1,7 +1,7 @@
 ---
 title: "How to Unlock a Resource: Removing Occupied Files Message on Windows (154 Chars)"
-date: 2024-09-17T22:56:39.531Z
-updated: 2024-09-22T03:56:12.442Z
+date: 2024-10-01T18:44:14.878Z
+updated: 2024-10-08T21:05:05.486Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,21 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -71,10 +85,23 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -98,6 +125,14 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
@@ -109,20 +144,6 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
  The "Reset this PC" utility lets you factory reset Windows 11 and 10\. That tool includes an option you can select to stop the reset deleting user files. Our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) guide provides detailed guidelines for resetting the platform.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
@@ -138,5 +159,24 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[New] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficient-transfer-of-movie-maker-videos-to-vimeo/"><u>[New] In 2024, Efficient Transfer of Movie Maker Videos to Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-photography-with-canons-complimentary-luts/"><u>[New] In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-youtube-markets-the-quest-for-a-targeted-niche-for-2024/"><u>[New] Navigating YouTube Markets The Quest for a Targeted Niche for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-crafting-gopro-time-lapses/"><u>[New] The Art of Crafting GoPro Time-Lapses</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-about-to-expire-message-in-win11/"><u>Circumventing the 'About To Expire' Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-package-could-not-be-registered-errors-in-win-os/"><u>Counteracting 'Package Could Not Be Registered' Errors in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-access-to-the-insider-builds-in-windows-11/"><u>How to Prevent Access to the Insider Builds in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-address-translation-adjusting-types-for-windows-oses/"><u>Mastering Network Address Translation: Adjusting Types for Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-classics-a-win-11-reboot-plan/"><u>Reclaiming Classics: A Win 11 Reboot Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-desktop-icon-look-in-windows/"><u>Restoring Desktop Icon Look in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-winning-giveaway-posts-on-facebook-for-2024/"><u>The Art of Crafting Winning Giveaway Posts on Facebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-consequences-of-disabling-windows-11-notifications/"><u>Understanding the Consequences of Disabling Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-untimely-sse-windows-issues/"><u>Unraveling Untimely SSE Windows Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-magix-video-pro-x-is-a-game-changer/"><u>Why Magix Video Pro X Is a Game-Changer</u></a></li>
+</ul></div>
 

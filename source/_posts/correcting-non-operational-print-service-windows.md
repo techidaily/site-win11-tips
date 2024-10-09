@@ -1,7 +1,7 @@
 ---
 title: Correcting Non-Operational Print Service Windows
-date: 2024-09-30T23:02:02.179Z
-updated: 2024-10-03T23:54:42.981Z
+date: 2024-10-03T20:45:27.210Z
+updated: 2024-10-09T07:11:44.800Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
  Whichever error you encounter, the solutions for fixing them are the same.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run the Printer Troubleshooter
 
  The built-in Printer troubleshooter in Windows 10 and 11 lets you [find and fix printing problems](http://www.makeuseof.com/windows-11-printer-not-working/). The troubleshooter scans the system for common print problems and automatically resolves them. It can check and restart the print spooler service if stopped.
@@ -44,21 +51,35 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 ![windows 11 troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-troubleshoot.jpg)
 4. Next, click on **Other troubleshooters.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, click the **Run** button for the **Printer** option. The troubleshooter will scan the system and try to detect any issues.  
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
 6. Select the printer you want to troubleshoot and click **Next**.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
 ## 2\. Restart Print Spooler Service
 
 ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can check and rerun the print spooler service in the Services snap-in to fix the print spooler service is not running error. Here's how to do it:
 
@@ -69,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 5. Give a new print job and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set the Print Spooler Service Startup Type to Automatic
@@ -86,6 +107,14 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 3. Here, locate the **Print Spooler** service.  
 ![print spooler service properties services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services.jpg)
 4. Right-click on **Print Spooler** and select **Properties**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the pop-up dialog that opens, click the drop-down for **Startup type** and select **Automatic.**  
 ![print spooler service properties services startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services-startup-type-automatic.jpg)
 6. Click **Apply** and **OK** to save the changes.
@@ -93,19 +122,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 8. Now open the Print Spooler service properties and set the **Startup type** to **Automatic**.
 9. Click **OK** and **Apply** to save the changes.
 10. Close the Services snap-in and restart your PC. Next, create a print job and check if the error printer spooler service is not running is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Clear the Print Spooler Files
 
@@ -138,16 +154,17 @@ C:\Windows\System32\spool\PRINTERS
 3. Next, click on **Windows Security.**  
 ![Open Windows Security Windows 11 Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Windows-Security-Windows-11-Settings-1.jpg)
 4. Finally, click on **Open Windows Security.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the **Firewall & network protection** tab in the left pane.  
 ![firewall and network protection windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/firewall-and-network-protection-windows-defender.jpg)
 6. Click on your currently active network **(Public / Private).**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Toggle the switch under **Microsoft Defender Firewall** to turn off **Firewall**. Click **Yes** if prompted by **UAC**.  
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
@@ -161,10 +178,10 @@ C:\Windows\System32\spool\PRINTERS
 ![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Outdated or corrupted [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) can cause your connected device to malfunction. Try updating your printer driver to see if that helps resolve the error. You can update the generic printer driver using the Device Manager. Here’s how to do it.
@@ -176,13 +193,6 @@ C:\Windows\System32\spool\PRINTERS
 5. Next, select **Search automatically for drivers**. Windows will scan for a new driver update and download and install it if available.
 
  If no new updates are available, use your printer manufacturer’s website to download the latest driver for your printer model.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Printer Driver
 
@@ -196,10 +206,10 @@ C:\Windows\System32\spool\PRINTERS
 3. Next, click on **Printers & scanners.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Now locate and click on your printer.  
@@ -208,38 +218,11 @@ C:\Windows\System32\spool\PRINTERS
 
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing the "Print Spooler Service Is Not Running" Error
 
  Often you can fix issues with the print spooler service by restarting the service or deleting the print queue files. However, if the issue persists, investigate your system for new changes, such as Windows updates or system file corruption.
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-capturing-moving-images-mirrorless-versus-dslr-for-2024/"><u>[New] Capturing Moving Images Mirrorless Versus DSLR for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exploring-the-limits-full-potential-of-screenflow-v4-on-macos/"><u>[Updated] 2024 Approved Exploring the Limits Full Potential of ScreenFlow v4 on macOS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jaunt-vr-uncovered-a-comprehensive-look/"><u>[Updated] Jaunt VR Uncovered A Comprehensive Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-windows-errors-for-wow-updates/"><u>Clearing Windows Errors for WoW Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-change-cr2-files-to-jpg-using-windows/"><u>Efficiently Change CR2 Files to JPG Using Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/hasten-artistic-touch-ups-on-windows-10-photos-for-2024/"><u>Hasten Artistic Touch-Ups on Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c67-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C67 5G Phone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-youtube-scriptwriting-for-viral-impact/"><u>Mastering YouTube Scriptwriting for Viral Impact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-update-efficiency-after-error-0xca00a009/"><u>Restoring Windows Update Efficiency After Error 0xCA00A009</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-pairing-of-airpods-with-windows-os/"><u>Seamless Pairing of AirPods with Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-reading-comics-on-win11/"><u>Step-by-Step Walkthrough: Reading Comics on Win11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-stutters-and-improve-frame-rate-on-naraka-bladepoint/"><u>Ultimate Guide to Resolving Stutters & Improve Frame Rate on Naraka: Bladepoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicated-system-management-in-w11-via-shortcut-buttons-guide/"><u>Uncomplicated System Management in W11 via Shortcut Buttons Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-8-study-approaches-for-windows-aficionados/"><u>Unlock Potential: 8 Study Approaches for Windows Aficionados</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -248,3 +231,18 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-start-now-best-online-learning-for-new-youtubers/"><u>[New] Start Now Best Online Learning for New YouTubers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-home-studio-ready-essential-webcam-recorders-reviewed-for-2024/"><u>[Updated] Home Studio Ready Essential WebCam Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-fresh-windows-11-approach-to-system-cleanliness/"><u>A Fresh Windows 11 Approach to System Cleanliness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rescue-your-vscode-session-w11/"><u>How to Rescue Your VSCode Session W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-audiovisual-hints-pack/"><u>In 2024, Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-linkedin-education-programs-to-boost-your-career/"><u>Leading LinkedIn Education Programs to Boost Your Career</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ornate-asian-dwellings-for-your-next-build-off/"><u>Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweak-windows-11-shutdown-procedure-for-active-operations/"><u>Tweak Windows 11 Shutdown Procedure for Active Operations</u></a></li>
+</ul></div>
+

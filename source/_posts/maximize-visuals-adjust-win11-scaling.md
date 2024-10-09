@@ -1,7 +1,7 @@
 ---
 title: "Maximize Visuals: Adjust Win11 Scaling"
-date: 2024-09-21T06:53:37.339Z
-updated: 2024-09-21T17:30:47.635Z
+date: 2024-10-02T20:01:27.361Z
+updated: 2024-10-08T19:40:35.404Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling Using the Registry Editor
 
  If the Settings app isn't working, or you don't have access to it, you can change the scaling through the Registry Editor. But keep in mind that it can be a bit tricky, and you should[back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -60,6 +67,14 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 1. Choose one of the following Value data fields and set the base to**Decimal** .  
 ![Change Display DPI Scaling in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-in-windows.jpg)  
 | Value data | DPI scale                  |  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 | ---------- | -------------------------- |  
 | 96         | Smaller 100% (Recommended) |  
 | 120        | Medium 125%                |  
@@ -73,15 +88,29 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scale the Display DPI on Windows
@@ -101,5 +130,23 @@ HKEY_CURRENT_USER\Control Panel\Desktop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exclusive-downloads-top-8-stealthy-tools/"><u>[New] 2024 Approved Exclusive Downloads Top 8 Stealthy Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-overcome-sound-absence-on-tweeted-film-rolls/"><u>[Updated] In 2024, Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-inverting-image-hues-in-photoshop-for-2024/"><u>[Updated] Inverting Image Hues in Photoshop for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-soundtrack-of-your-phone-classic-tones-download-site-guide-for-2024/"><u>[Updated] The Soundtrack of Your Phone Classic Tones Download Site Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-pc-and-phone-using-unison-w11/"><u>How to Effortlessly Connect Your PC and Phone Using Unison W11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-lava-yuva-3-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Lava Yuva 3 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-folder-synchronization-step-by-step-tips-for-a-harmonized-digital-experience/"><u>Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-games-three-windows-methods-for-directory-access/"><u>Navigating Games: Three Windows Methods for Directory Access</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-world-of-business-facebook-client-partnerships/"><u>Navigating the World of Business-Facebook Client Partnerships</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-misalignment-of-dual-apps-on-pc/"><u>Overcoming Misalignment of Dual Apps on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-1drive-errors-on-windows-11/"><u>Resolving 1Drive Errors on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-connectivity-woes-solutions-for-attempt-errors/"><u>Sidestep Connectivity Woes: Solutions for 'Attempt' Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-setup-how-to-get-microsoft-keyboard-4000-driver-software-quickly/"><u>Simple Setup: How to Get Microsoft Keyboard 4000 Driver Software Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-window-experience-integrate-additional-menus/"><u>Transform Your Window Experience: Integrate Additional Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-elevating-valorant-gameplay/"><u>Winning Strategies: Elevating Valorant Gameplay</u></a></li>
+</ul></div>
 

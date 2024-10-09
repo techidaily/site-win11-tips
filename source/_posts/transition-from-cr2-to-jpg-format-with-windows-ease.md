@@ -1,7 +1,7 @@
 ---
 title: Transition From CR2 to JPG Format with Windows Ease
-date: 2024-09-29T22:42:29.401Z
-updated: 2024-10-03T17:28:06.780Z
+date: 2024-10-05T21:06:57.566Z
+updated: 2024-10-08T22:31:08.672Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  Now open the output folder you selected. There you’ll find a converted JPG file for the RAW image you selected. Double-click on that JPG file to open it within your default image viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Convert CR2 Files to JPG With the Image Converter App
 
  Image Converter is a Microsoft Store app that supports numerous RAW formats, such as CR2, ARW, RAF, and RW2\. So, you can [convert various RAW formats to JPEG](https://www.makeuseof.com/how-to-convert-raw-files-to-jpeg-on-mac/) (JPG), TIFF, BMP, GIF, and PNG files with Image Converter. This is how you can convert your CR2 photos to JPG with Image Converter:
@@ -56,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 2. Click **Get in Store** app to bring up a prompt for [opening the Microsoft Store app](https://www.makeuseof.com/windows-open-microsoft-store/).  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-get-in-store-app-option.jpg)
 3. Select Open Microsoft Store to access a **Download** option for Image Converter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click Image Converter’s **Install** option.
 5. Select **Open** to bring up Image Converter.
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 7. Wait for the conversion tool to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Then open the converted JPG image from the folder you selected to save it in.
@@ -94,19 +94,20 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
 3. Select a CR2 file and click **Open**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
 ![The Convert option in FreeConvert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/convert-option.jpg)
 6. Press the web app’s **Download** option.  
 ![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Convert CR2 Images to JPG With IrfanView
 
@@ -117,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 3. Then click the **IrfanView All Plugins – 64-bit Windows Installer** download link.  
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Go to the directory that the IrfanView files were downloaded to.
 
@@ -140,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can open CR2 images in IrfanView, you don’t need to convert them to JPG. However, it’s still better to do so because JPG images have smaller file sizes than CR2 photos. So, you can save some drive space by converting a CR2 image to JPG and then erasing the original file. This is how you can convert a CR2 photo to JPG in IrfanView:
@@ -155,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select your CR2 file and click **Add**.
 6. Click on the **Output format** drop-down menu to select JPG.  
 ![The Output format options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/output-format-option.jpg)
@@ -170,7 +157,21 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
 9. Click **Exit** in the "Batch Conversion done" window.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Convert Your CR2 Photos to JPG Images
 
@@ -180,25 +181,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-webcasts-without-payment-fees/"><u>[Updated] In 2024, Capturing Webcasts Without Payment Fees</u></a></li>
-<li><a href="https://win-unique.techidaily.com/discover-the-features-of-windows-11s-new-ai-integrated-update-launching-today-an-expert-breakdown-zdnet/"><u>Discover the Features of Windows 11'S New AI-Integrated Update Launching Today - An Expert Breakdown | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-improving-your-audio-experience-while-playing-outriders/"><u>Easy Fixes for Improving Your Audio Experience While Playing Outriders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-clarity-top-windows-11-display-tweaks/"><u>Enhancing Clarity: Top Windows 11 Display Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacks-for-finding-perfect-spot-for-gaming-drivers/"><u>Hacks for Finding Perfect Spot for Gaming Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-remove-your-email-address-from-the-login-screen-in-windows/"><u>How to Remove Your Email Address From the Login Screen in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-11-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>In 2024, In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-a59-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo A59 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-complex-windows-partition-unification/"><u>Navigating Complex Windows Partition Unification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-function-keys-on-windows-10-pcs/"><u>Restore Function Keys on Windows 10 PCs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/silly-satirical-fun-plants-vs-zombies-battle-for-neighborville-game-review/"><u>Silly, Satirical Fun - Plants Vs. Zombies: Battle for Neighborville Game Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-avert-black-screens-during-win-games/"><u>Solutions to Avert Black Screens During WIN Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-video-sharing-zoom-and-tiktok-harmony-for-2024/"><u>Streamlining Video Sharing Zoom and TikTok Harmony for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-false-device-recognition-errors-windows-edition/"><u>Troubleshooting False Device Recognition Errors, WIndows Edition</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -206,3 +188,19 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-for-flawless-audio-transitions-with-audacity/"><u>[New] In 2024, Step-by-Step for Flawless Audio Transitions with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-vigilance-tracking-top-7-potential-infection-pathways/"><u>Essential Windows Vigilance: Tracking Top 7 Potential Infection Pathways</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-apple-photo-imports-that-go-wrong-on-pcs-windows/"><u>How to Handle Apple Photo Imports That Go Wrong on PCs (Windows)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-visuals-in-ae-selecting-excellent-plugin-choices/"><u>In 2024, Crafting Visuals in AE Selecting Excellent Plugin Choices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-controller-detection-errors-in-steam-on-a-windows-platform/"><u>Overcoming Controller Detection Errors in Steam on a Windows Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-operation-failure-in-windows-11-error-0x0000011b/"><u>Overcoming Operation Failure in Windows 11 (Error 0X0000011B)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creative-potential-large-scale-workflow-via-canva-and-chatgpt/"><u>Unleash Creative Potential - Large-Scale Workflow via Canva & ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unlock Windows Free Up Space, No More Temp Files!
-date: 2024-09-19T04:48:52.067Z
-updated: 2024-09-21T20:02:30.129Z
+date: 2024-10-07T02:51:53.321Z
+updated: 2024-10-08T23:21:11.284Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
 
  Wait for the above command to run and delete the temporary files.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Empty the SoftwareDistribution Folder
 
  Windows saves all the downloaded update files in the SoftwareDistribution folder before installing them. If a [Windows system update gets stuck](https://www.makeuseof.com/tag/windows-update-stuck/), the OS will not delete the temporary files associated with it.
@@ -74,6 +81,13 @@ C:\Windows\SoftwareDistribution\Download
 
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Edit Registry Files
 
  By default, the Disk Cleanup utility does not delete temporary files that are less than seven days old. This is because Windows marks these files as active. However, if you want to delete all the temporary files, regardless of their age, you can make changes to the Windows Registry.
@@ -89,26 +103,13 @@ C:\Windows\SoftwareDistribution\Download
 7. Click **OK**.  
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC after this and try to delete temporary files once again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Boot Into Safe Mode
@@ -116,6 +117,13 @@ C:\Windows\SoftwareDistribution\Download
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
 
@@ -133,5 +141,24 @@ C:\Windows\SoftwareDistribution\Download
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-phantoms-time-recapture/"><u>[Updated] Mastering the Art of Phantom's Time Recapture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-changes-in-instagrams-algorithm-user-perspectives/"><u>2024 Approved Changes in Instagram's Algorithm User Perspectives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-lenovo-simple-recording-techniques/"><u>2024 Approved Lenovo Simple Recording Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-full-screen-windows-alignment-in-windows/"><u>Achieving Full-Screen Windows Alignment in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-your-win11-boot-experience-steps-to-optimize-service-setups/"><u>Craft Your Win11 Boot Experience: Steps to Optimize Service Setups</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earnings-expansion-on-glamour-channels-for-2024/"><u>Earnings Expansion on Glamour Channels for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-methods-for-eliminating-the-persistent-unwanted-auto-play-audio-malware/"><u>Effective Methods for Eliminating the Persistent Unwanted Auto-Play Audio Malware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-shortcuts-for-power-users-on-windows/"><u>Essential Shortcuts for Power Users on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-calendar-usage/"><u>Essential Tips for Windows 11 Calendar Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-nvidia-graphics-card-drivers-rtx-2080-super-for-a-smooth-gaming-experience-in-windows-1011/"><u>Get the Most Recent NVIDIA Graphics Card Drivers (RTX 2080 Super) for a Smooth Gaming Experience in Windows 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-t430-windows-driver-pack-compatible-with-windows-1187-easy-downloading-options/"><u>Lenovo T430 Windows Driver Pack: Compatible with Windows 11/8/7 - Easy Downloading Options</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/modernizing-a-classic-the-revamped-demons-souls-with-impressive-graphical-fidelity/"><u>Modernizing a Classic: The Revamped Demon's Souls with Impressive Graphical Fidelity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-open-secrets-of-windows-11-sticky-notes/"><u>Navigating the Open Secrets of Windows 11 Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-dawn-for-old-gameshells-atlasos/"><u>New Dawn For Old Gameshells - AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-maintain-saving-windows-audio-configuration/"><u>Strategies to Maintain Saving Windows Audio Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-display-experience-shift-to-adaptive-layouts/"><u>Upgrade Display Experience: Shift to Adaptive Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-settings-returning-to-initial-touch-keyboard-configuration/"><u>Win 11 Settings: Returning to Initial Touch Keyboard Configuration</u></a></li>
+</ul></div>
 

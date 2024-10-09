@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Programs: Size Control on Win11"
-date: 2024-09-15T22:45:23.521Z
-updated: 2024-09-21T16:43:21.613Z
+date: 2024-10-05T06:45:38.735Z
+updated: 2024-10-09T03:52:38.447Z
 tags:
   - windows10
   - windows11
@@ -70,6 +70,20 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -77,6 +91,14 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -85,6 +107,13 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -97,6 +126,13 @@ Now it's time to use WinSize2 to size our windows:
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
 
@@ -115,12 +151,19 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-digital-imagery-with-musical-twist/"><u>[New] Digital Imagery with Musical Twist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-path-to-flawless-streams-a-guide-to-recording-on-steam-for-2024/"><u>[Updated] The Path to Flawless Streams A Guide to Recording on Steam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027742203-powerpoint/"><u>「PowerPointスライドを動画にするための新しいテクニック：詳細解説とその仕組み」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-common-steam-broadcasting-issues-on-windows/"><u>How to Fix Common Steam Broadcasting Issues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-office-error-0x80041015-on-windows/"><u>How to Fix the Microsoft Office Error 0X80041015 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-connection-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Connection on Your Dell Device – A Step-by-nStep Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y36i-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y36i</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-secure-your-videos-with-free-image-savers/"><u>In 2024, Secure Your Videos with FREE Image Savers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reprogram-ram-settings-for-maximum-performance-in-win-11/"><u>Reprogram RAM Settings for Maximum Performance in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-outlook-safe-mode-only-on-windows-issue/"><u>Resolving Outlook: Safe Mode Only on Windows Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/retro-gaming-review-reliving-childhood-with-the-super-mario-bros-on-nintendo-game-and-watch/"><u>Retro Gaming Review: Reliving Childhood with the Super Mario Bros. On Nintendo Game & Watch</u></a></li>
+</ul></div>
 

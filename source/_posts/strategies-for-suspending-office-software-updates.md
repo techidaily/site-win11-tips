@@ -1,7 +1,7 @@
 ---
 title: Strategies for Suspending Office Software Updates
-date: 2024-09-29T17:27:40.637Z
-updated: 2024-10-03T20:23:16.520Z
+date: 2024-10-08T02:30:42.191Z
+updated: 2024-10-09T07:35:41.411Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
  Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -60,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![Download Office Administrative Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-office-administrative-templates.jpg)
 2. Double-click the downloaded**EXE file** to run it.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Accept the license terms and click the**Continue** button.
 4. The installer will prompt you for a location to extract the contents. Select an empty folder and hit**OK** .
 5. Go to the location where you extracted the files and open the**admx** folder.
@@ -81,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
 9. Return to the folder where you extracted the files and open the**admx** folder again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
@@ -101,6 +88,14 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 4. Double-click the**Enable Automatic Updates** policy on your right.  
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
 5. Select the**Disabled** option.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
 8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
@@ -123,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
 3. Rename the key as**16.0** .
@@ -134,20 +136,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 9. Click**OK** .  
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
@@ -169,24 +164,18 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-engaging-vlogger-subjects-each-day/"><u>[New] 2024 Approved Engaging Vlogger Subjects Each Day</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-macos-11-big-sur-system-details/"><u>[New] 2024 Approved Navigating MacOS 11 Big Sur - System Details</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-no-more-queasiness-in-vr-worlds/"><u>[New] No More Queasiness in VR Worlds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-websites-reviewed-secure-purchase-of-custom-youtube-soundtracks-for-2024/"><u>[Updated] Best Websites Reviewed Secure Purchase of Custom YouTube Soundtracks for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-leap-into-broadcasting-effortless-setup-for-your-mobile-youtube-ventures-for-2024/"><u>[Updated] Leap Into Broadcasting Effortless Setup for Your Mobile YouTube Ventures for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1080p-vs-4k-quels-sont-les-avantages-de-la-video-en-haute-definition-et-comment-upscaler-a-partir-de-1080p/"><u>1080P vs 4K : Quels Sont Les Avantages De La Vidéo en Haute Définition Et Comment Upscaler À Partir De 1080P</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aif-to-mp4-online-aif/"><u>AIF to MP4 : 원탁한 컴퓨터 없이 Online AIF 변환 서비스</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-mac-based-video-conversion-programs-find-download-compare-and-utilize-professional-software/"><u>Comprehensive Guide to Mac-Based Video Conversion Programs: Find, Download, Compare, and Utilize Professional Software!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-mp2-audio-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Change MP2 Audio Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wmv-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Change WMV Files Into High-Quality FLAC Format with Ease</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-nokia-xr21-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Nokia XR21.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-sin-costo-para-cambiar-mpg-a-3gp-facilmente-en-linea/"><u>Móvavi - Convertidor Sin Costo Para Cambiar MPG a 3GP Fácilmente en Línea</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviflv3gp/"><u>Movaviで簡単にフリーオンライン変換:FLVを3GPに</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scambia-il-tuo-file-video-tta-con-un-formato-flac-senza-costi-usando-leditor-di-codici-video-online-movavi-passaggi-semplici-per-tutti/"><u>Scambia Il Tuo File Video TTA Con Un Formato FLAC Senza Costi Usando L'editor Di Codici Video Online Movavi - Passaggi Semplici per Tutti</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-not-found-device-issue-code-24-on-microsoft-windows-versions-11-8-and-7/"><u>Solving the ‘Not Found’ Device Issue - Code 24 on Microsoft Windows Versions 11, 8 & 7</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y17s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y17s Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/veelvoudig-maken-van-flac-liedjes-in-mp4-online-gratis-movavi-online-konverter/"><u>Veelvoudig Maken Van FLAC-Liedjes in MP4 Online, Gratis - Movavi Online Konverter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quality-improvement-for-skype-video-calls/"><u>[New] 2024 Approved Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-best-text-effects-of-psd/"><u>[New] Best Text Effects of PSD</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/"><u>[New] In 2024, Seamless Strategies Downloading Graphics Images From Facebook & Beyond</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-insiders-look-at-top-9-free-platforms-for-designing-youtube-logos/"><u>[New] Insider's Look at Top 9 FREE Platforms for Designing YouTube Logos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-calendar-revolution-customizing-your-scheduling-tool-on-windows-pc/"><u>A Calendar Revolution: Customizing Your Scheduling Tool on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-insufficient-installation-privilege-issue-on-win-1011/"><u>Addressing Insufficient Installation Privilege Issue on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-spooler-service-error-on-windows-systems/"><u>Addressing Spooler Service Error on Windows Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-unwanted-termination-messages-in-roblox-games/"><u>Avoiding Unwanted Termination Messages in Roblox Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-11-lock-screen-effortlessly/"><u>Avoiding Windows 11 Lock Screen Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lenovo-thinkphone-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lenovo ThinkPhone Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-your-mac-computer-to-your-tv-a-comprehensive-walkthrough-of-using-airplay-connections/"><u>Syncing Your Mac Computer to Your TV: A Comprehensive Walkthrough of Using AirPlay Connections</u></a></li>
 </ul></div>
 

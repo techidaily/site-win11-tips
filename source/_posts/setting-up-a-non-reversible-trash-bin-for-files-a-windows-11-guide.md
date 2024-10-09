@@ -1,7 +1,7 @@
 ---
 title: "Setting up a Non-Reversible Trash Bin for Files: A Windows 11 Guide"
-date: 2024-10-02T00:06:49.466Z
-updated: 2024-10-03T18:27:22.306Z
+date: 2024-10-01T23:37:37.274Z
+updated: 2024-10-09T06:20:28.500Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
@@ -66,20 +73,13 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -94,6 +94,14 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
@@ -104,25 +112,18 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
- Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -145,24 +146,14 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-social-snapshot-saver-tool/"><u>[New] Social Snapshot Saver Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-superior-quality-drones-on-sale-for-2024/"><u>[Updated] Superior Quality Drones on Sale for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-profits-the-essential-3-step-guide-for-gauging-youtube-earnings/"><u>[Updated] Unlocking Profits The Essential 3-Step Guide for Gauging YouTube Earnings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ving-youtube-earnings-excellence-strategies-and-beyond-for-2024/"><u>Achieving YouTube Earnings Excellence - Strategies and Beyond for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-display-settings-error-with-nvidia-control-panel/"><u>Fixing Missing Display Settings Error with Nvidia Control Panel</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-the-persistent-xbox-game-pass-error-0x000-in-windows-11/"><u>How To Eradicate the Persistent Xbox Game Pass Error 0X000_ in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-syma-x8c-evaluation/"><u>In 2024, In-Depth Syma X8C Evaluation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-masterclass-choose-your-development-stage/"><u>In 2024, YouTube Masterclass Choose Your Development Stage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-review-of-netgears-powerline-series-ac1200-does-size-compromise-connection-speed/"><u>In-Depth Review of Netgear's Powerline Series AC1200 – Does Size Compromise Connection Speed?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-batch-heic-to-jpeg-on-windows-11-systems/"><u>Navigating Batch HEIC to JPEG on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-noisy-speakers-settings-in-windows/"><u>Navigating Noisy Speakers Settings in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-narzo-60-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme Narzo 60 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-plugged-inspection-failure-for-windows-users/"><u>Reversing Plugged Inspection Failure for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-the-not-responding-spotify-issue-in-win-oses/"><u>Solutions for the Not Responding Spotify Issue in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-setup-for-using-android-as-a-second-screen-in-w11/"><u>The Ultimate Setup for Using Android as a Second Screen in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-disconnected-pc-accessories/"><u>Troubleshooting Steps for Disconnected PC Accessories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-enterprise-restricted-chromeedge-settings-on-desktop-pcs/"><u>Addressing Enterprise-Restricted Chrome/Edge Settings on Desktop PCs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/connect-your-tiktok-creativity-to-twitter-for-2024/"><u>Connect Your TikTok Creativity to Twitter for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-guide-downloading-tbs-content-from-your-pc-or-mac/"><u>Easy Guide: Downloading TBS Content From Your PC or MAC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-video-processing-on-windows-embrace-distributed-power-via-tdarr/"><u>Elevate Video Processing on Windows: Embrace Distributed Power via Tdarr</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-itel-s23plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel S23+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy XCover 7 ?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-5-techniques-for-recording-sounds-on-windows-11-for-2024/"><u>Innovative Approaches 5 Techniques for Recording Sounds on Windows 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-intel-unison-for-convenient-windows-11-calls/"><u>Making the Most of Intel Unison for Convenient Windows 11 Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-snip-tool-text-edits-on-win-11/"><u>Perfecting Snip Tool Text Edits on Win 11</u></a></li>
 </ul></div>
 

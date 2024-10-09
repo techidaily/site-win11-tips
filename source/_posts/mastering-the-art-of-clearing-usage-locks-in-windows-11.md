@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Clearing Usage Locks in Windows 11
-date: 2024-09-26T17:55:32.921Z
-updated: 2024-10-03T16:08:38.878Z
+date: 2024-10-04T17:18:03.295Z
+updated: 2024-10-08T17:34:40.436Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
  If that doesn’t work, go into Task Manager and close superfluous third-party app background processes. Our guide to [fixing too many background processes on Windows](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides further instructions for how you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable File Explorer’s Preview Pane
 
  Many users have fixed the “requested resource is in use” error by disabling File Explorer’s preview pane. That preview pane can hinder the file copy operation. You can disable File Explorer’s preview pane in Windows 11 as follows:
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 5. Then try moving or copying your files again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
@@ -65,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -74,29 +74,23 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
 
@@ -119,9 +113,24 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -131,34 +140,11 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
  The potential solutions covered here are widely confirmed to resolve the “requested resource is in use” error. If it’s not caused by malware, disabling Explorer’s preview pane, as covered in resolution two, will usually fix the issue. Users confirm running an antivirus scan in safe mode (solution three) can fix the “required resource is in use” error when caused by malware.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-everything-about-facebook-live-split-screen-you-should-know/"><u>[New] 2024 Approved Everything About Facebook Live Split Screen You Should Know</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/elevate-site-engagement-using-the-advanced-capabilities-of-cookiebot-technology/"><u>Elevate Site Engagement Using the Advanced Capabilities of Cookiebot Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-performance-with-simple-steps-keeping-your-samsung-tv-current/"><u>Enhance Performance with Simple Steps: Keeping Your Samsung TV Current</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finders-folio-the-top-6-strategies-for-capturing-folder-and-file-paths-in-win11/"><u>Finder's Folio: The Top 6 Strategies for Capturing Folder & File Paths in Win11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-this-article-points-out-the-key-differences-between-after-effects-and-premiere-to-get-a-clearer-understanding-of-what-is-best-for-2024/"><u>New This Article Points Out the Key Differences Between After Effects and Premiere to Get a Clearer Understanding of What Is Best for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-deactivated-keys-in-win11-os/"><u>Rectifying Deactivated Keys in Win11 OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-deactivation-of-windows-11-notifications/"><u>Speedy Deactivation of Windows 11 Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-startup-screen-wont-show-displays/"><u>Tackling Windows Error: Startup Screen Won't Show Displays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-discords-inconsistent-gaming-detection-issue/"><u>Tips for Resolving Discord's Inconsistent Gaming Detection Issue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-9-complimentary-christmas-films-on-youtube-for-2024/"><u>Top 9 Complimentary Christmas Films on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-with-dynamic-clock-screensavers-using-these-5-apps/"><u>Transform Your Desktop with Dynamic Clock Screensavers Using These 5 Apps</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -167,3 +153,21 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-timing-what-you-need-to-know-for-2024/"><u>[New] Instagram Video Timing What You Need To Know for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-youtube-snippets-for-captivating-ig-stories/"><u>[Updated] In 2024, YouTube Snippets for Captivating IG Stories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-whos-following-amazon-prime-series-with-the-highest-tweets-2023/"><u>[Updated] Who's Following? Amazon Prime Series with the Highest Tweets, 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-beyond-the-numbers-narrative-the-impact-of-fake-likes/"><u>2024 Approved Beyond the Numbers Narrative The Impact of Fake Likes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-se-2022-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a1x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A1x 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>Magix Music Maker 2024 Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-computers-ip-and-mac-with-powershell/"><u>Navigate Your Computer's IP and MAC with Powershell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/previewing-windows-wonders-with-vivetool-capabilities/"><u>Previewing Windows Wonders with ViVeTool Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-copilot-from-your-windows-environment/"><u>Removing Copilot From Your Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-up-sync-automatic-windows-entry-with-sticky-notes/"><u>Start-Up Sync: Automatic Windows Entry with Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-user-rights-configuration-in-terminal/"><u>Troubleshooting User Rights Configuration in Terminal</u></a></li>
+</ul></div>
+

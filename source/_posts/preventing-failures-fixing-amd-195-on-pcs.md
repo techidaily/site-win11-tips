@@ -1,7 +1,7 @@
 ---
 title: "Preventing Failures: Fixing AMD 195 on PCs"
-date: 2024-09-18T03:31:59.460Z
-updated: 2024-09-22T06:17:44.854Z
+date: 2024-10-05T06:35:37.827Z
+updated: 2024-10-09T03:43:26.855Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  To disable Malwarebytes, right-click the app icon in the system tray and select**Quit Malwarebytes** . Run the installer and check if the error is resolved. Relaunch Malwarebytes again to enable protection. Other antivirus programs, including AVG and Avast, allow you to disable the antivirus for a few hours without closing the app completely.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off or Reconfigure Your Firewall
 
  Similar to your antivirus, a firewall can also block inbound and outbound connections and prevent the installer from downloading necessary files. You can disable your firewall temporarily to determine if your firewall setting is triggering the error.
@@ -51,9 +58,23 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  If the issue persists, run the installer after disabling both Windows Defender and Windows Firewall. Make sure to re-enable the services after installing AMD Radeon software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Install the AMD Software Driver Manually
 
 ![download amd radeon software driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-amd-radeon-software-driver-manually.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the auto detector tool is not working, you can manually install AMD Radeon Adrenalin Edition drivers from the website. Follow these steps to download AMD drivers manually:
 
@@ -67,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 ## 4\. Install an Older Version of AMD Software
 
 ![radeon software update graphics driver version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-software-update-graphics-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, the AMD error 195 may be triggered due to a buggy installer or incompatibility issues. To fix the problem, try to install the older version of the software.
 
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 * Perform a clean install – If the error occurs when performing an update, try to[clean install your GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) . You can uninstall the AMD graphics driver using Device Manager, the AMD Radeon Software, and Display Driver Uninstaller (DDU).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the ADM Error 195 on Windows
@@ -117,5 +131,24 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-watch-facebook-videos-on-my-apple-tv/"><u>[New] How to Watch Facebook Videos on My Apple TV?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rolling-back-macos-sierra-to-el-capitan-version/"><u>[New] Rolling Back MacOS Sierra to El Capitan Version</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-set-up-facebook-cover-videos-for-2024/"><u>[New] Set up Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-farm-games-for-social-play-with-peers-for-2024/"><u>[Updated] Top Farm Games for Social Play with Peers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-bending-words-altering-text-images/"><u>2024 Approved Bending Words Altering Text Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-data-security-activating-controlled-folder-access/"><u>Achieve Data Security: Activating Controlled Folder Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-w11-issues-with-csgo/"><u>Addressing W11 Issues with CS:GO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-task-automation-tackling-scheduler-issues/"><u>Enhance Task Automation: Tackling Scheduler Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-terminal-settings-on-windows-pc/"><u>Optimizing Terminal Settings on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-activate-hyper-v-in-windows-11/"><u>Quick Guide to Activate Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-event-viewer-usability/"><u>Restoring Windows Event Viewer Usability</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/sharpen-your-content-for-unlimited-youtube-exposure-for-2024/"><u>Sharpen Your Content for Unlimited YouTube Exposure for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-through-efficiency-top-7-strategies-with-windows-11-39/"><u>Skyrocketing Through Efficiency: Top 7 Strategies with Windows 11 (39)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-picks-for-optimal-cloud-space-solutions-for-2024/"><u>Top Picks for Optimal Cloud Space Solutions for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win 11 Errors: Navigating and Resolving O365 Glitches"
-date: 2024-09-26T20:12:51.747Z
-updated: 2024-10-03T18:54:20.885Z
+date: 2024-10-02T16:40:20.046Z
+updated: 2024-10-09T05:43:38.261Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Free Up Hard Drive Space
 
  Error 0x80070185 can arise when there’s very little free space available on the local drive. As such, your PC’s hard drive may have insufficient space for the larger files in your OneDrive cloud storage.
@@ -53,13 +66,20 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset the OneDrive App
 
@@ -71,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
@@ -93,23 +106,9 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
@@ -123,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -141,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall OneDrive
 
  Reinstalling OneDrive is a solution that’s worked for some users. This will give you a completely fresh and up-to-date OneDrive app. These are the steps for uninstalling and reinstalling OneDrive:
@@ -157,6 +156,14 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
@@ -164,10 +171,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 8. Click**Get** to reinstall OneDrive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
@@ -189,24 +196,17 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-tiktok-production-zooms-role/"><u>[New] 2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-customer-driven-marketing-through-authenticity-in-video/"><u>[New] Customer-Driven Marketing Through Authenticity in Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>[New] The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-engaging-content-the-ultimate-6-video-strategies/"><u>[Updated] In 2024, Engaging Content The Ultimate 6 Video Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>2024 Approved Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-scheduling-combining-to-do-and-ifttt-services/"><u>Efficient Scheduling: Combining To-Do and IFTTT Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-tackle-disallowed-sign-ins-on-win/"><u>Essential Strategies to Tackle Disallowed Sign-Ins on Win</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-and-installing-rtx-2070-super-graphics-card-drivers-on-your-pc-with-windows-1011/"><u>Getting & Installing RTX 2070 Super Graphics Card Drivers on Your PC with Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-power-schemes-back-to-windows-default/"><u>How To Reset Power Schemes Back to Window's Default</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S23 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-disk-space-via-archiving-in-windows-11/"><u>Maximize Disk Space via Archiving in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/memory-matters-quick-ways-to-check-your-pcs-ram-on-windows/"><u>Memory Matters: Quick Ways to Check Your PC's RAM on Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preserving-past-a-guide-to-digitally-archiving-faded-prints-for-2024/"><u>Preserving Past A Guide to Digitally Archiving Faded Prints for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-unblock-valorants-in-game-voice-channel-windows/"><u>Quick Steps to Unblock Valorant's In-Game Voice Channel (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-functional-lock-screen-wait-period-in-windows/"><u>Reinstating Functional Lock Screen Wait Period in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-11-way-mastery-of-software-uninstallation/"><u>The Windows 11 Way: Mastery of Software Uninstallation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-windows-potential-with-powerrename-tool/"><u>Unleash Windows Potential with PowerRename Tool</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-delving-into-mr-beasts-economic-dominance/"><u>[New] In 2024, Delving Into Mr. Beast's Economic Dominance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elite-commanders-showdown-the-pinnacle-total-war-clashes/"><u>[Updated] In 2024, Elite Commanders' Showdown The Pinnacle Total War Clashes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-free-youtube-image-saver-compilation/"><u>[Updated] In 2024, Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-interactions-in-virtuosity-the-top-30-quotes/"><u>[Updated] Innovative Interactions in Virtuosity The Top 30 Quotes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approach-to-reveal-hidden-drives-on-windows/"><u>Approach to Reveal Hidden Drives on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augmenting-desktop-interactivity-the-widget-approach-in-win-11/"><u>Augmenting Desktop Interactivity: The Widget Approach in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-editing-setup-office-products-word-for-text-only-opened-attachments/"><u>Avoid Editing: Setup Office Products (Word) for Text Only Opened Attachments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-visual-clutter-inside-windows-search/"><u>Avoiding Visual Clutter Inside Windows Search</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-experience-essential-tips-to-fix-low-fps-problems-in-valheim-during-2024/"><u>Elevate Your Gameplay Experience: Essential Tips to Fix Low FPS Problems in Valheim During 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/structured-eating-schemes-inspired-by-gpt/"><u>Structured Eating Schemes Inspired by GPT</u></a></li>
 </ul></div>
 

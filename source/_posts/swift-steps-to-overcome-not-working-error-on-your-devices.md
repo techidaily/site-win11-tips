@@ -1,7 +1,7 @@
 ---
 title: Swift Steps to Overcome 'Not Working' Error on Your Devices
-date: 2024-09-28T19:54:39.613Z
-updated: 2024-10-03T19:42:04.411Z
+date: 2024-10-03T18:22:31.686Z
+updated: 2024-10-08T16:57:08.162Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  To restart your device, open the Start menu. Then select the Power icon and click **Restart**. You can also use the keyboard shortcut **Ctrl + Alt + Del** to open the same window. After restarting, try installing the app again and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the Microsoft Store Cache
 
  If restarting your device does not help, the next step is to clear the Microsoft Store cache. This process removes any temporary files that might cause this issue. Clearing the cache removes unnecessary files and speeds up the browsing experience. Here’s how to clear the Microsoft Store cache.
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check for Microsoft Store Updates
 
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 3. Next, click the **Get updates** button to check for available updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If updates are available, click **Update all** to download and install them.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
  After following the steps above, restart your computer and see if it resolves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Store Apps Troubleshooter
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  After performing the instructions, try launching the app again and see if it works. If not, you can try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Restart the Application Identity Service
 
  Application Identity service determines and verifies the identity of Windows Store apps. So, if it’s not running correctly, you may run into this error. To restart this service, do the following:
@@ -104,10 +97,31 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 3. Scroll down to find the **Application Identity** service and double-click on it.  
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
 
  Now, restart your computer and check if the error has been resolved. If not, proceed to the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Your Antivirus Program
 
@@ -122,14 +136,14 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 6. Turn off the **Real-time protection** toggle.  
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
 
- Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
 
 ## 7\. Enable Hyper-V in Windows Features
 
@@ -152,38 +166,11 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/cono-audio-amps-for-youtubers-with-limited-dough/"><u>[New] Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>[Updated] 2024 Approved Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>[Updated] Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere/"><u>[Updated] In 2024, Free Converters at Your Fingertenaside Download & Enjoy Videos Anywhere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-further-the-revolutionary-lg-360-vr-headset-reviewed-for-2024/"><u>A Step Further The Revolutionary LG 360 VR Headset Reviewed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-connect-airpods-to-windows-machines/"><u>Effortlessly Connect AirPods to Windows Machines</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-glitch-recent-purchase-no-display/"><u>Graphics Glitch: Recent Purchase No Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-new-m1-chip-redefines-performance-in-apples-latest-13-inch-macbook-pro-a-comprehensive-review/"><u>How the New M1 Chip Redefines Performance in Apple's Latest 13-Inch MacBook Pro: A Comprehensive Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-empower-your-taskbar-with-new-features/"><u>How to Empower Your Taskbar with New Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-unreadable-source-issue-on-your-windows-pc/"><u>How to Fix ‘Unreadable Source’ Issue on Your Windows PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-server-issues-fixes-and-tips-for-apex-on-windows-(156-chars/"><u>Overcoming 'No Server' Issues: Fixes and Tips for Apex on Windows (<156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-hidden-time-display-on-windows-bar/"><u>Setting Up Hidden Time Display on Window's Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-internal-audio-error-in-audacity-win-11-and-11/"><u>Tackling Internal Audio Error in Audacity, Win 11 & 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +179,23 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-10-game-changing-ways-for-designing-cover-art/"><u>[New] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-propel-your-skills-with-the-finest-android-drawing-software/"><u>[New] 2024 Approved Propel Your Skills with the Finest Android Drawing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-marketing-brilliance-top-10-innovative-approaches-for-video-ads-for-2024/"><u>[New] Insta-Marketing Brilliance Top 10 Innovative Approaches for Video Ads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-inactive-windows-11-wi-fi-hotspot/"><u>Breathing Life Into Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determine-disk-technology-in-windows-1011/"><u>Determine Disk Technology in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-laptop-keys-on-windows-solutions-for-win10-8-and-7/"><u>Fixing Unresponsive Laptop Keys on Windows: Solutions for Win10, 8 & 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a38-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A38 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-15-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 15 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-meme-crafters-guide-to-kinemaster/"><u>In 2024, Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-winscomrssvsvc-error-on-initial-startup/"><u>Mitigating WinscomrssvSvc Error on Initial Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-operating-systems-state-a-windows-1011-reboot-guide/"><u>Overhauling Your Operating System's State: A Windows 10/11 Reboot Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-switch-the-best-windows-apps-for-ex-mac-users/"><u>Smooth Switch: The Best Windows Apps for Ex-Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-trio-top-apps-making-pc-switch-easier/"><u>Transition Trio: Top Apps Making PC Switch Easier</u></a></li>
+<li><a href="https://facebook.techidaily.com/wipe-your-facebook-traces-on-android-devices/"><u>Wipe Your Facebook Traces on Android Devices</u></a></li>
+</ul></div>
+

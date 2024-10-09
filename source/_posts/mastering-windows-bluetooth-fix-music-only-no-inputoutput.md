@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Bluetooth Fix: Music Only, No Input/Output"
-date: 2024-09-30T19:42:51.797Z
-updated: 2024-10-03T23:12:21.309Z
+date: 2024-10-06T16:34:59.789Z
+updated: 2024-10-09T02:25:53.957Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
  Let the Get Help app try all available fixes until the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Bluetooth Services in Device Properties
 
  Your headset or speaker offers distinct services which are enabled by default. However, if disabled, one or more Bluetooth functions can stop working for your audio device. To fix the issue, open the Bluetooth device properties using the Control Panel and review the services.
@@ -54,22 +61,15 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Alternatively, copy and paste the following in the **Run** dialog to open **Device and Printers**.  
 `shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`
@@ -104,10 +104,10 @@ Bluetooth User Support Service`
 5. Once done, check the other two services. If not running, restart the services one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Close the Services snap-in and check for any improvements.
@@ -115,10 +115,10 @@ Bluetooth User Support Service`
  If the issue persists, [disable any audio enhancements on Windows](https://www.makeuseof.com/disable-audio-enhancements-windows/). While intended to improve your listening experience, these enhancements can also cause audio issues. Turning off these enhancements can help you resolve the problem with your audio devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check Your Bluetooth Device Driver for Issues
@@ -154,24 +154,6 @@ Bluetooth User Support Service`
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>[New] Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v/"><u>[New] In Pursuit of Quality A Deep Dive Into Sony's X1000V</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-simple-steps-making-your-channels-subscription-button-stand-out-for-2024/"><u>[Updated] Simple Steps Making Your Channel's Subscription Button Stand Out for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-trendsetters-pictures-origins-explored/"><u>[Updated] Trendsetters' Pictures Origins Explored</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elite-gaming-setup-essentials-revealed/"><u>2024 Approved Elite Gaming Setup Essentials Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enrich-your-environment-adding-tasks-to-folder-context-menus/"><u>Enrich Your Environment: Adding Tasks to Folder Context Menus</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G73 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-zero-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Zero 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-steam-not-functioning-for-game-launch-on-windows-11/"><u>Resolving Steam Not Functioning for Game Launch on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-file-management-adding-custom-movecopy-menus/"><u>Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-alert-7-symptoms-needed-a-fresh-start/"><u>Windows Alert: 7 Symptoms Needed a Fresh Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +161,22 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-camcorder-for-wildlife-documenting/"><u>2024 Approved Best Camcorder for Wildlife Documenting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hidden-recycling-bin-icon-on-windows-11/"><u>Activating Hidden Recycling Bin Icon on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-nvidia-best-gpus-for-enthusiasts/"><u>Beyond Nvidia: Best GPUs for Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-perfect-shots-with-ios-a-guide-to-iphone-cropping-features/"><u>In 2024, Perfect Shots with iOS A Guide to iPhone Cropping Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-access-download-your-brother-printer-drivers-today/"><u>Quick Access: Download Your Brother Printer Drivers Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-ace-2-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Ace 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-launch-problems-with-saints-row-on-your-windows-pc-a-step-by-step-fix/"><u>Solved: Overcoming Launch Problems with Saints Row on Your Windows PC – A Step-by-Step Fix</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-removing-a-filmora-watermark-without-paying/"><u>Step-by-Step Guide: Removing a Filmora Watermark Without Paying</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strengthening-game-accessibility-winning-over-ea-errors/"><u>Strengthening Game Accessibility: Winning Over EA Errors</u></a></li>
+</ul></div>
+

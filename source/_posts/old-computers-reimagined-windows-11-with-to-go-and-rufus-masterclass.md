@@ -1,7 +1,7 @@
 ---
 title: "Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass"
-date: 2024-09-14T17:16:37.529Z
-updated: 2024-09-21T22:03:13.624Z
+date: 2024-10-02T20:47:36.621Z
+updated: 2024-10-08T16:25:57.126Z
 tags:
   - windows10
   - windows11
@@ -104,14 +104,14 @@ Close
 
 ![Screenshot showing selection of Windows version from the version list in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/11-screenshot-showing-selection-of-windows-version-from-the-version-list-in-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot showing customization of Windows installation in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/12-screenshot-showing-customization-of-windows-installation-in-rufus.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -120,26 +120,13 @@ Close
 ![Screenshot showing warning that all data in the USB SSD will be destroyed and to click OK to confirm in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/13-screenshot-showing-warning-that-all-data-in-the-usb-ssd-will-be-destroyed-and-to-click-ok-to-confirm-in-rufus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot showing Rufus applying the Windows 11 Disk Image to the USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/14-screenshot-showing-rufus-applying-the-windows-11-disk-image-to-the-usb-ssd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Screenshot showing that Rufus completed applying the Windows 11 Disk Image to the USB SSD and is ready for boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-screenshot-showing-that-rufus-completed-applying-the-windows-11-disk-image-to-the-usb-ssd-and-is-ready-for-boot.jpg)
 
@@ -147,18 +134,18 @@ Close
 
  When done, close Rufus. If you are going to use Windows To Go on the same computer, reboot it. If you want to use it on another computer, eject the USB device and connect it to the target computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Set Up Windows 11 to Boot
 
 [Enter the UEFI or BIOS menu](https://www.makeuseof.com/tag/enter-bios-computer/), it is usually the DEL key on desktops and F2 key on laptops. The screens vary between different computers, adapt these instructions as needed. Go to the **Boot** tab and set the USB drive as the first boot device. **Save and Exit** (usually F10).
 
 ![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer will boot into Windows To Go. The screen shows that the computer’s **Secure Boot** is off, it does not have the TPM either.
 
@@ -169,10 +156,10 @@ Close
 ![Screenshot showing Windows 11 setting everything up after boot of USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/18-screenshot-showing-windows-11-setting-everything-up-after-boot-of-usb-ssd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, you have Windows 11, completely functional on a computer that does not meet the minimum system requirements. It will still run A-OK!
@@ -189,9 +176,23 @@ Close
 
 ![Screenshot showing Windows 11 telling us to set a password to the Local account after reboot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/21-screenshot-showing-windows-11-telling-us-to-set-a-password-to-the-local-account-after-reboot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Right Hardware for Windows To Go
 
  Windows 11 on a USB drive will work well, exactly as it would on an internal drive, provided the disk speeds are up to the mark. As such, it's a good idea to ensure you're using the right ports and drives to ensure the quickest experience possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### SSDs Are Always a Better Choice
 
@@ -201,9 +202,23 @@ Close
 
  Operating systems use plenty of small files, and SSDs shine at the read/write speed of these files. Hard disks, in contrast, need more time to seek the files. This is shown via the access time of each drive; SSDs take 1ms, and hard disks take 20ms. As such, you should always choose an SSD to store your operating system if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### USB 3.0 Is 10 Times Faster Than 2.0
 
 ![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  USB 3.0 read/writes at 5Gbps compared to USB 2.0 which can do only 480Mbps. So, you should use a USB 3.0 to SATA adapter.
 
@@ -235,5 +250,23 @@ Close
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-joke-to-jest-constructing-impactful-social-media-memes/"><u>[New] 2024 Approved From Joke to Jest Constructing Impactful Social Media Memes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-cutting-room-floor-experts-share-tips-on-video-editing/"><u>[Updated] 2024 Approved The Cutting Room Floor Experts Share Tips on Video Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube/"><u>[Updated] 2024 Approved The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-the-best-tools-for-snapshots-and-video-capture-for-2024/"><u>[Updated] Exploring the Best Tools for Snapshots and Video Capture for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-things-to-try-when-prime-videos-subtitles-arent-working-on-windows-11/"><u>4 Things to Try When Prime Video's Subtitles Aren't Working on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangle-onedrive-and-microsoft-account-on-windows-machine/"><u>Disentangle OneDrive & Microsoft Account on Windows Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-windows-media-player-a-comprehensive-guide/"><u>Fixing Silent Windows Media Player: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>In 2024, Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-discord-setup-failures-on-windows-1011/"><u>Mastery Over Discord Setup Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-iomap64-system-freezes-and-bsods/"><u>Overcoming Windows IOMap64 System Freezes and BSODs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-fingerprint-scanner-compatibility-problem-in-windows/"><u>Solving Fingerprint Scanner Compatibility Problem in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-ancient-game-visuals-using-retroarch-shader-magic/"><u>Transforming Ancient Game Visuals Using RetroArch Shader Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-key-distinctions-between-mac-and-pc-systems-explained/"><u>Uncovering the Key Distinctions Between Mac & PC Systems Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vanishing-act-taskview-on-taskbar-hiding/"><u>Vanishing Act: TaskView on Taskbar Hiding</u></a></li>
+</ul></div>
 

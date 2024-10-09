@@ -1,7 +1,7 @@
 ---
 title: "Title: Adjusting Icons' Distance on Windows 11/10"
-date: 2024-09-29T17:13:23.564Z
-updated: 2024-10-03T18:11:16.387Z
+date: 2024-10-06T01:42:52.068Z
+updated: 2024-10-09T07:28:24.275Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
@@ -71,14 +71,15 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
-![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
@@ -95,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Press the**Apply changes** button.
@@ -131,19 +132,19 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -164,19 +165,19 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-efficiency-with-best-heavy-haulers-drone/"><u>[New] 2024 Approved Elevating Efficiency with Best Heavy Haulers Drone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-master-of-mayhem-top-10-roguelites/"><u>[Updated] 2024 Approved Master of Mayhem Top 10 Roguelites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-screen-capture-in-linux-with-these-tools/"><u>[Updated] Mastering Screen Capture in Linux with These Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audience-engagement-strategies-for-compelling-screencast-videos/"><u>2024 Approved Audience Engagement Strategies for Compelling Screencast Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-wows-critical-failure-code-with-precision/"><u>Eliminating WoW's Critical Failure Code with Precision</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-pixel-fold-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Pixel Fold</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-gt-neo-5-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme GT Neo 5 Phone When You Forget the Password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-strategies-for-updating-surface-computers-software/"><u>Simplified Strategies for Updating Surface Computers' Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/smooth-operations-at-low-cost-leverage-w11-pro-key/"><u>Smooth Operations at Low Cost: Leverage W11 Pro Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-loading-errors-in-discord-app/"><u>Steps to Overcome Loading Errors in Discord App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-failed-connections-with-nvidias-geforce-app/"><u>Strategies to Rectify Failed Connections with NVIDIA's GeForce App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-global-potential-with-advanced-in-depth-powertoy-mouse-skills/"><u>Unleash Global Potential with Advanced, In-Depth PowerToy Mouse Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prime-fareless-streaming-and-recording-software-for-2024/"><u>[New] Prime Fareless Streaming & Recording Software for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expertise-in-covert-sound-suppression-with-audacity-for-2024/"><u>[Updated] Expertise in Covert Sound Suppression with Audacity for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>2024 Approved Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-clearer-journey-the-art-of-annotating-folders-on-windows-11/"><u>A Clearer Journey: The Art of Annotating Folders on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/accelerate-the-performance-of-your-instagram-videos/"><u>Accelerate the Performance of Your Instagram Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-moment-right-smartphones-that-deliver-video-stability-mastery-for-2024/"><u>Capture the Moment Right Smartphones That Deliver Video Stability Mastery for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-for-quake-via-windows-terminal/"><u>Command Line for Quake via Windows Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nomad-insights-optimal-gaming-trips/"><u>Digital Nomad Insights: Optimal Gaming Trips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
+<li><a href="https://article-files.techidaily.com/harnessing-background-video-to-enrich-primary-scenes-for-2024/"><u>Harnessing Background Video to Enrich Primary Scenes for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-polishing-profile-vids-tips-and-tricks/"><u>In 2024, Polishing Profile Vids Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-device-synergy-samsung-dex-for-galaxy-users/"><u>Streamlining Device Synergy: Samsung DeX for Galaxy Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-extracting-device-ids-in-windows/"><u>Unleashing the Power: Extracting Device IDs in Windows</u></a></li>
 </ul></div>
 

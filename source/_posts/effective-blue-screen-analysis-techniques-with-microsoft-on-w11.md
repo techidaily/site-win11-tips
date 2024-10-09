@@ -1,7 +1,7 @@
 ---
 title: Effective Blue Screen Analysis Techniques with Microsoft on W11
-date: 2024-09-27T21:41:18.747Z
-updated: 2024-10-04T00:06:12.690Z
+date: 2024-10-03T20:14:48.747Z
+updated: 2024-10-09T01:23:33.208Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
@@ -55,10 +48,17 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 6. Then, click on the**Rename** option from the context menu. Type**Err** and press the enter key to rename the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Placing the Tool in a Convenient Location
@@ -71,13 +71,6 @@ Here’s how to do it:
 2. Go to the C drive and paste the tool. Grant permissions to place the tool in C drive.  
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
@@ -93,13 +86,6 @@ Here’s how to do it:
 ![Checking an Error Code in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-an-error-code-in-microsoft-error-lookup-tool.jpg)
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
 ## How to Export the Output of Microsoft Error Code Tool
@@ -114,22 +100,37 @@ Repeat the following steps:
 4. So, your final command will become:**Err 0x80070490 > D:\\error.txt** .  
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
-![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
+
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
  Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a[new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
 
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lookup Error Details With Ease
 
@@ -150,24 +151,19 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rafting-effective-ads-a-cost-free-guide-to-youtube-videos-for-2024/"><u>[New] Crafting Effective Ads A Cost-Free Guide to YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-gamers-paradise-our-candidate-7-best-fps-titles-for-2024/"><u>[New] Gamer's Paradise Our Candidate 7 Best FPS Titles for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-countering-harshness-maintaining-poise-online/"><u>[Updated] In 2024, Countering Harshness Maintaining Poise Online</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-essential-tools-for-motion-artwork/"><u>2024 Approved Essential Tools for Motion Artwork</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726222597690-movavi/"><u>如何抗水印？专业指南：Movavi 编辑器和更多应用产品</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5lia6bo06ama5lq677ya55so5ycs6l2j5oqa6kgt5oplusq6auy5b2x54mh5yig5p6qic0g57ch5zau5oyh5y2x5zkm5lil6lyj5bel5yw3/"><u>一鳴驚人：用倒轉技術提高影片分析 - 簡單指南和下載工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/au-movavi/"><u>Au音楽ファイルを自由に変換! Movaviオンライン無料ツール</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-video-player-platforms-reviewed-from-desktops-to-smartphones-unveiled/"><u>Best Video Player Platforms Reviewed: From Desktops to Smartphones Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-buying-v-bucks-via-playstation-console/"><u>Gamers' Guide: Buying V-Bucks via PlayStation Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuite-de-conversion-en-gif-outils-video-en-ligne-moovit/"><u>Gratuité De Conversion en GIF : Outils Vidéo en Ligne - Moov.it</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuito-convertisseur-video-avi-en-ligne-moviwizard/"><u>Gratuito Convertisseur Vidéo AVI en Ligne - MoviWizard</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-c32-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia C32 Phones? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-gt-10-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix GT 10 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/most-popular-teen-movies-for-watch-on-netflix/"><u>Most Popular Teen Movies for Watch on Netflix</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-grabacion-de-telefono-movil-gsm-a-formato-video-mp4-en-un-solo-click/"><u>Transforma Grabación De Teléfono Móvil GSM a Formato Video MP4 en Un Solo Click</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-mov-en-ligne-moovavi/"><u>Transformer Gratuitement Un Fichier AVI en Format MOV en Ligne - Moovavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavim4v/"><u>ダイナミックなビデオ変換: MovaviスウィフトからM4Vへ、無償でオンライン実行可能!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-discover-the-joy-of-customized-messaging-downloading-and-tailoring-whatsapp-ringtones-on-mobile-for-2024/"><u>[New] Discover the Joy of Customized Messaging Downloading & Tailoring WhatsApp Ringtones on Mobile for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices/"><u>[New] Easy Steps to Personalize Google Meet on Laptops & Mobile Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[New] From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlined-strategies-for-gaming-screen-recording/"><u>[New] In 2024, Streamlined Strategies for Gaming Screen-Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-syncing-muted-voices-with-obs-streams/"><u>[Updated] 2024 Approved Syncing Muted Voices with OBS Streams</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dynamic-website-content-incorporating-youtube-playlists/"><u>[Updated] Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-low-cost-options-for-acquiring-gopro-cameras/"><u>[Updated] Low-Cost Options for Acquiring GoPro Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-routes-to-reviving-the-elusive-windows-terminal/"><u>5 Routes to Reviving the Elusive Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-get-started-with-windows-11s-widgets/"><u>7 Ways to Get Started With Windows 11'S Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/earn-money-by-using-bing-unveiling-my-experience-with-microsofts-lucrative-offer/"><u>Earn Money by Using Bing? Unveiling My Experience with Microsoft's Lucrative Offer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719335028418-stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now</u></a></li>
 </ul></div>
 

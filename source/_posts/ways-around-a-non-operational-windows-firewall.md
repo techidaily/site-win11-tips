@@ -1,7 +1,7 @@
 ---
 title: Ways Around a Non-Operational Windows Firewall
-date: 2024-09-20T16:01:36.965Z
-updated: 2024-09-21T23:19:42.517Z
+date: 2024-10-05T04:26:57.720Z
+updated: 2024-10-09T02:49:07.964Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 4. Click on **System and Security** \> **Windows Defender Firewall**.  
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
 
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
@@ -91,24 +99,38 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
 3. Under "Group or user names", click on **Add**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **Apply** to save the changes and check if the issue is now resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
 
@@ -117,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 * **Ensure relevant services are running**: Windows Firewall relies on several services to function properly. Ensure that the Windows Defender Firewall, Windows Defender Advanced Threat Protection, Windows Defender Antivirus Network Inspection, and Windows Defender Antivirus services are working fine in the Windows Services utility.
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Your System With Windows Firewall
 
@@ -139,5 +154,20 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-audio-quality-during-video-calls-on-win11/"><u>2024 Approved Optimizing Audio Quality During Video Calls on Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/desarrollo-de-comprension-animales-espanoles/"><u>Desarrollo De Comprensión: Animales Españoles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-extra-choose-cleanliness-with-win11/"><u>Eliminate Extra: Choose Cleanliness with Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-steam-from-interfering-with-game-play-in-11/"><u>How To Stop Steam From Interfering With Game Play in 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-a-beginners-primer-on-essential-camera-movements-in-film/"><u>In 2024, A Beginner's Primer on Essential Camera Movements in Film</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia XR21 Phone?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-9-best-free-mp4-video-cutters/"><u>New 2024 Approved Top 9 Best Free MP4 Video Cutters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-persistent-blue-screen-error-0x8007007e/"><u>Overcoming the Persistent Blue Screen Error 0X8007007E</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-wacom-intuos-pro-driver-download-for-windows-10-users/"><u>Quick & Simple Wacom Intuos Pro Driver Download for Windows 10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absent-screen-glitches-fix-windows-rdp-issue/"><u>Resolving Absent Screen Glitches: Fix Windows RDP Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x887a0006-for-gpu-issue-windows/"><u>Troubleshooting Code 0X887A0006 for GPU Issue Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-addressing-unallocated-drive-letters-on-windows-os/"><u>Understanding and Addressing Unallocated Drive Letters on Windows OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/why-does-imovie-enforce-dimensions-in-2024/"><u>Why Does iMovie Enforce Dimensions, In 2024</u></a></li>
+</ul></div>
 

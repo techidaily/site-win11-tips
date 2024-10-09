@@ -1,7 +1,7 @@
 ---
 title: "Discover the Terminal's Magic: Five Playful Powers"
-date: 2024-09-15T23:42:02.335Z
-updated: 2024-09-21T17:06:14.864Z
+date: 2024-10-04T22:05:58.800Z
+updated: 2024-10-09T04:30:47.350Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
  In order to watch Star Wars on Command Prompt (and for one other item on this list) you'll need to enable a service called Telnet.
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
  However, there are actually a few more fun things command prompt can through this connection, and it's definitely worth playing around with.
@@ -68,23 +82,9 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -104,9 +104,29 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
@@ -128,5 +148,21 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[New] 2024 Approved Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-effortless-technique-access-mac-via-apple-watch/"><u>[New] Effortless Technique Access Mac via Apple Watch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-sonys-x1000v-hd-recorder/"><u>2024 Approved In-Depth Look at Sony's X1000V HD Recorder</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitfort-fractured-stay-the-course-before-change/"><u>BitFort Fractured: Stay the Course Before Change</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c12-plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C12 Plus Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y27-4g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y27 4G FRP Without Computer</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-evaluation-of-googles-voice-calling-features/"><u>In-Depth Evaluation of Google's Voice Calling Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/um-5-noise-canceling-gaming-mics-for-2024/"><u>Premium 5 Noise-Canceling Gaming Mics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-problems-addressing-frequent-ps4-disconnection-in-pc/"><u>Unplugging Problems: Addressing Frequent PS4 Disconnection in PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mysteries-of-microsofts-copilot-key-in-windows-11/"><u>Unveiling the Mysteries of Microsoft's Copilot Key in Windows 11</u></a></li>
+</ul></div>
 

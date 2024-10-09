@@ -1,7 +1,7 @@
 ---
 title: Manipulate Your Search & Highlight Settings in Windows 11
-date: 2024-09-30T22:36:50.117Z
-updated: 2024-10-04T00:44:26.221Z
+date: 2024-10-02T23:36:38.084Z
+updated: 2024-10-09T02:28:12.278Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
  You should no longer see search lights now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn Search Highlights On and Off in the Local Group Policy Editor
 
  Press **Win + R** to open the Windows Run dialog box, type **gpedit.msc** in the text box, and then hit the **Enter** key. For more ways to launch the tool, read our guide on [ways to open the Local Group Policy Editor on Windows 11](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
@@ -52,24 +45,37 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
 ![the Local Group Policy Editor on Windows with the Allow search highlights policy highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lgpe-windows-allow-search-highlights-policy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To show search highlights, make sure the **Not Configured** or **Enabled** radio button is checked, and then click **OK**.
 
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To disable search highlights, check the **Disabled** radio button, and then click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
@@ -87,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 ![creating a dword value in the Windows registry for the SearchSettings key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/creating-dword-windows-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the right panel, double-click **IsDynamicSearchBoxEnabled** (the value you just created) and then enter **1** in the **Value data** text box to turn search highlights on. Then, click **OK** to apply the change.
@@ -105,21 +111,6 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
 
  So, keep on reading to find out three ways to turn search highlights on and off.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-encompassing-views-vs-enhanced-visual-depth/"><u>[New] In 2024, Encompassing Views vs Enhanced Visual Depth</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-global-voyages-for-discovery-enthusiasts/"><u>[New] In 2024, Top 10 Global Voyages for Discovery Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes-for-2024/"><u>[Updated] Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-top-infinite-storage-providers/"><u>2024 Approved Selecting the Top Infinite Storage Providers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-download-to-use-chrome-in-windows-11-world/"><u>From Download to Use: Chrome in Windows 11 World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-audacitys-unresponsive-error-in-win-oses/"><u>Guiding Through Audacity's Unresponsive Error in Win OSes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-fix-windows-operating-pause-issues/"><u>How to Stop and Fix Windows Operating Pause Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-microsofts-artificomedial-intelligence-hub/"><u>Navigating Through Microsoft's Artificomedial Intelligence Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-silent-sleep-in-w10w11-machines/"><u>Unlock the Secrets of Silent Sleep in W10/W11 Machines</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -127,3 +118,27 @@ thumbnail: https://thmb.techidaily.com/b9ef13db0d4015b8f432338d38cc3c79dffc2187f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-extensive-review-the-hero4-black-journey/"><u>[Updated] Extensive Review The Hero4 Black Journey</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-overcoming-full-screen-issues-in-obs/"><u>[Updated] In 2024, Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ranking-10-best-iphoneandroid-apps-for-video-enthusiasts/"><u>[Updated] In 2024, Ranking 10 Best iPhone/Android Apps for Video Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-the-endgame-struggle-ultimate-fixes-for-finals-keeps-crashing-on-pc/"><u>End the Endgame Struggle: Ultimate Fixes for 'Finals Keeps Crashing on PC'</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-seamless-hd-streaming-with-our-picks-for-the-best-free-hardware-boosted-video-players/"><u>Enjoy Seamless HD Streaming with Our Picks for the Best FREE Hardware-Boosted Video Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-no-network-reachable-errors-win/"><u>Eradicating No Network Reachable Errors (WIN)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-immediately-ending-non-responsive-programs-in-windows-11-pcs/"><u>Expert Advice on Immediately Ending Non-Responsive Programs in Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-effortlessly-pairing-your-logitech-wireless-keyboard/"><u>Guide: Effortlessly Pairing Your Logitech Wireless Keyboard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-amd-installer-crash-in-windows/"><u>Quick Fixes for the AMD Installer Crash in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-restarting-non-responsive-resource-monitors-in-windows-11/"><u>Strategies for Restarting Non-Responsive Resource Monitors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-successful-java-setup-in-windows/"><u>Strategies for Successful Java Setup in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-pc-vram-with-windows-1011-tips-and-tricks/"><u>Turbocharging PC VRAM with Windows 10/11 Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-rotation-tools-flip-spin-and-rotate-your-videos-online/"><u>Updated In 2024, Top Video Rotation Tools Flip, Spin, and Rotate Your Videos Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-resource-tracking-efficiency-via-windows-interfaces/"><u>Upgrade Resource Tracking Efficiency via Window's Interfaces</u></a></li>
+</ul></div>
+

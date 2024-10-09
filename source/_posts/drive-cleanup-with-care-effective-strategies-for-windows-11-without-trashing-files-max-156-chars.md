@@ -1,7 +1,7 @@
 ---
 title: "Drive Cleanup with Care: Effective Strategies for Windows 11 Without Trashing Files (Max 156 Chars)"
-date: 2024-09-20T19:10:02.620Z
-updated: 2024-09-22T02:10:24.196Z
+date: 2024-10-02T16:07:35.776Z
+updated: 2024-10-08T21:13:31.335Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable System Restore
 
  System Restore is a troubleshooting tool for restoring Windows to saved system snapshots (restore points). Restore points consume gigabytes of hard drive space, even when set to low usage. Disabling System Restore will stop that utility from saving further restoration points, which will free up space on your C: drive in the future. This is how you can disable System Restore:
@@ -45,6 +52,14 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 5. Click the **Disable system protection** option.  
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
@@ -67,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
  JPG is like the image equivalent of the MP4 format with its lossy compression. Image files with the JPG format are typically smaller than the PNG of BMP alternatives. If your C: drive includes many PNG or BMP images, converting them to JPGs will probably also free up a significant amount of storage space.
@@ -81,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
  You can convert image files to JPG with the [Online image converter to JPEG app](https://image.online-convert.com/convert-to-jpg) on the Online-Convert site as instructed for the video files in the previous method. To maximize the compression, select the **Smallest File** option. Alternatively, drag the **Quality** bar’s slider there left to increase compression.
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
 
@@ -101,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -108,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
  Windows 11 includes options for creating ZIP archives. You can set up a ZIP with one of the six methods in our article about [creating ZIP files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/). If you ever need to access an archive’s contents, check out this guide to [unzipping ZIP files](https://www.makeuseof.com/unzip-files-windows-10/).
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
 
@@ -125,16 +126,17 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
@@ -144,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
  The Google Docs, Slides, and Sheets web apps are decent productivity alternatives to Microsoft Word, PowerPoint, and Excel. Canva is a great online graphics design app. Plus, you can utilize many online image editors and file conversion web apps.
 
 ![The Google DOCs web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-docs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
@@ -165,5 +174,24 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-tutorial-effective-screenshot-practices-on-lenovo-for-2024/"><u>[Updated] In-Depth Tutorial Effective Screenshot Practices on Lenovo for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-worldwide-rich-list-top-earning-youtubers/"><u>[Updated] Worldwide Rich List Top Earning YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-techniques-to-increase-disk-size-without-costing-a-penny-on-windows/"><u>Free Techniques to Increase Disk Size Without Costing a Penny on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-missing-powershell-errors-in-windows/"><u>Guide to Resolve Missing PowerShell Errors in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-14-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 14 or iPad?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-0x87e00017-when-downloading-or-updating-xbox-games/"><u>How to Fix the Microsoft Store Error 0X87e00017 When Downloading or Updating Xbox Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y55s-5g-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y55s 5G (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 11 Pro Max or iPad?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-marketing-spells-20-must-use-terms/"><u>In 2024, Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-find-x6-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Find X6 Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-every-second-boost-windows-11s-launch-time/"><u>Make the Most of Every Second: Boost Windows 11'S Launch Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-most-of-widgets-activate-them-in-windows-11/"><u>Making Most of Widgets: Activate Them in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-install-of-acer-predator-xb271hu-graphics-drivers-get-started-now/"><u>Quick & Effortless Install of Acer Predator XB271HU Graphics Drivers – Get Started Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-error-for-windows-users/"><u>Resolving Inaccessible Roblox Game Error for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-connection-with-ubisoft-game-launcher/"><u>Steps to Recover Lost Connection with Ubisoft Game Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-addressing-windows-faults-with-easy-fixes/"><u>Swiftly Addressing Windows Faults with Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1727790813820-top-rated-water-resistant-wearables-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Water Resistant Wearables - Comprehensive Reviews by Tech Experts</u></a></li>
+</ul></div>
 

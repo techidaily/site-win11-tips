@@ -1,7 +1,7 @@
 ---
 title: How to Change the Location of Your OneDrive Folder in Windows 11
-date: 2024-09-19T03:18:07.437Z
-updated: 2024-09-22T01:09:21.258Z
+date: 2024-10-02T03:44:48.840Z
+updated: 2024-10-09T05:21:49.516Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Moving Your OneDrive Folder
 
 With that done, you can now relocate your OneDrive folder.
@@ -51,6 +58,19 @@ With that done, you can now relocate your OneDrive folder.
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
 ### 3\. Re-Linking OneDrive
@@ -63,16 +83,17 @@ With that done, you can now relocate your OneDrive folder.
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
@@ -80,10 +101,16 @@ With that done, you can now relocate your OneDrive folder.
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
@@ -103,5 +130,18 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-prime-tools-for-pro-video-creation-on-android-windows-for-2024/"><u>[New] Prime Tools for Pro Video Creation on Android, Windows for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-assessing-tseries-financial-outcomes-from-youtube-presence/"><u>2024 Approved Assessing TSeries’ Financial Outcomes From YouTube Presence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-custom-audio-cds-integrating-imgburn-with-windows-and-mp3-files/"><u>Crafting Custom Audio CDs: Integrating ImgBurn with Windows and MP3 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-media-experience-no-cost-players-reviewed/"><u>Elevate Your Media Experience: No-Cost Players Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keys-for-the-modern-office-warrior-on-windows/"><u>Essential Keys for the Modern Office Warrior on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultra-30-action-cam-the-essential-review-of-the-virb-series/"><u>In 2024, Ultra 30 Action Cam The Essential Review of the VIRB Series</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-steps-for-windows-repair-utility/"><u>Navigating the Steps for Windows Repair Utility</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-clash-with-edge-for-top-gaming-browser-ranking/"><u>Opera GX Clash with Edge for Top Gaming Browser Ranking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Find X7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
+</ul></div>
 

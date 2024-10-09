@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Network Adapter Error 31 on Windows
-date: 2024-10-01T00:49:37.310Z
-updated: 2024-10-03T19:56:53.908Z
+date: 2024-10-03T02:25:05.925Z
+updated: 2024-10-08T22:52:28.837Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,16 @@ To perform a network driver rollback:
 8. Once the driver rollback is complete, check if the problem is resolved. If not, check if you can perform another rollback for the network device driver to see if that helps.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Network Reset
@@ -70,35 +76,41 @@ To perform a network reset:
  Next, click on**Network reset** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
 
@@ -116,6 +128,13 @@ To perform a network reset:
 
  Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
@@ -129,10 +148,10 @@ To perform a network reset:
 5. Click**Uninstall** to confirm the action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
@@ -157,13 +176,6 @@ To perform a restore point:
 
  If the restore process fails, try it again. At times, it may take more than one attempt to get it right. If the computer is restored, it should hopefully restore the old network driver configuration and fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix the Network Adapter Code 31 Error on Windows
 
  Network adapter code 31 is one of the many errors that can cause your network adapter to malfunction. To fix the error, check if you have the latest network adapter driver installed. If necessary, perform a driver rollback, clean up corrupt registry value or perform a system restore.
@@ -183,16 +195,18 @@ To perform a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-12plus-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 12+ 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/acid-pro-analysis-and-related-tools-reviewed/"><u>ACID Pro Analysis and Related Tools Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/direct-access-linux-forget-wsl/"><u>Direct Access: Linux, Forget WSL</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco X6 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-data-integration-merge-onedrive-windows-id/"><u>Masterful Data Integration: Merge OneDrive, Windows ID</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quieting-chrome-ads-and-alerts-on-windows-machines/"><u>Quieting Chrome Ads & Alerts on Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-run-history-loss-issue/"><u>Resetting Run History Loss Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-the-low-usb-availability-dilemma/"><u>Solving the Low USB Availability Dilemma</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-delay-shutdown-tactics-for-open-programs/"><u>Zero-Delay Shutdown Tactics for Open Programs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-filmmakers-checklist-on-the-go-gear-guide-for-2024/"><u>[New] Filmmaker's Checklist On-the-Go Gear Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-customizing-ae-title-designs-for-2024/"><u>[Updated] Customizing AE Title Designs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-steadicams-for-exceptional-aerial-shots-with-drones/"><u>2024 Approved Top Steadicams for Exceptional Aerial Shots with Drones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/camera-excellence-the-top-10-4k-ready-shoulder-rigs-for-2024/"><u>Camera Excellence The Top 10 4K-Ready Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-stuttering-challenges-enhancing-warhammer-40k-experience/"><u>Conquer Stuttering Challenges: Enhancing Warhammer 40K Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ensuring-file-security-avoid-common-pitfalls-in-microsoft-onedrive/"><u>Ensuring File Security: Avoid Common Pitfalls in Microsoft OneDrive</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-game-fixes-insufficient-memory-error-problem/"><u>God of War Game Fixes 'Insufficient Memory Error' Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s24-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S24 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-ringtones-selection-high-quality-sites/"><u>In 2024, Elite Ringtones Selection High-Quality Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-errors-a-guide-to-fs-repair-in-win11/"><u>Mending Errors: A Guide to FS Repair in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719242997504-navigate-past-chrome-hiccups-fixes-for-w11-users/"><u>Navigate Past Chrome Hiccups: Fixes for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-memory-use-on-win-11-os/"><u>Revamping Memory Use on Win 11 OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-video-capture-solutions/"><u>Top-Rated Video Capture Solutions</u></a></li>
 </ul></div>
 

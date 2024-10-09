@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Missing PowerShell Errors in Windows
-date: 2024-09-26T17:04:36.878Z
-updated: 2024-10-03T21:19:38.464Z
+date: 2024-10-04T06:08:58.948Z
+updated: 2024-10-08T16:25:19.883Z
 tags:
   - windows10
   - windows11
@@ -41,20 +41,33 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
 
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create a Desktop Shortcut for PowerShell
 
@@ -66,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 4. Open the WindowsPowerShell folder and go to the**v1.0** folder.
 5. Double-click on the PowerShell executable file and see if it works. If it does, right-click on it and select**Send to > Desktop (create shortcut)** .  
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
@@ -91,20 +111,13 @@ To run the SFC scan on Windows:
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
 
@@ -118,13 +131,6 @@ To update PowerShell on Windows:
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
@@ -166,19 +172,18 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playbook-for-facebook-videos-to-attract-more-viewers-for-2024/"><u>[New] The Ultimate Playbook for Facebook Videos to Attract More Viewers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/3g23g-mp4/"><u>専門家がお勧めする3G2ビデオ変換ソフトウェア：3G ファイルからMP4に簡単に変更してみませんか？</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-11-cannot-open-file-issue-for-writing/"><u>Counteracting Windows 11: Cannot Open File Issue for Writing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-revival-improving-computerized-vhs-visuals/"><u>Digital Revival Improving Computerized VHS Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-space-management-in-windows-revealed/"><u>Efficient Space Management in Windows, Revealed</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-paid-android-video-editing-apps-compared-top-10/"><u>In 2024, Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-facebook-live-with-dji-drones-a-step-by-step-guide/"><u>In 2024, Mastering Facebook Live with DJI Drones A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>In 2024, Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritizing-safety-in-windows-11-service-management/"><u>Prioritizing Safety in Windows 11 Service Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remote-pc-management-via-ios-and-android/"><u>Remote PC Management via iOS and Android</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-siri-issues-top-7-fixes-for-when-it-wont-work-on-your-ios-device/"><u>Solving Siri Issues: Top 7 Fixes for When It Won't Work on Your iOS Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-control-functionality-in-windows-11/"><u>Steps to Recover Lost Control Functionality in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-the-lifecycle-of-windows-movie-maker-releases/"><u>Unraveling the Lifecycle of Windows Movie Maker Releases</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wildwood-lake-park/"><u>Wildwood Lake Park</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-preeminent-sites-to-amplify-youtube-traffic/"><u>[Updated] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-tech-experience-launch-of-intels-new-ultra-series-processors-based-on-innovative-lunar-lake-design-set-to-arrive-early-september/"><u>Elevate Your Tech Experience: Launch of Intel's New Ultra Series Processors, Based on Innovative Lunar Lake Design – Set to Arrive Early September</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-windows-error-0xc00000f-efficiently/"><u>Expert Tips to Resolve Windows Error 0Xc00000f Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-guide-to-zero-cost-win-media-tools/"><u>Explore the Ultimate Guide to Zero-Cost Win Media Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-latest-drivers-for-your-hp-mfp-m477-color-laserjet-pro-now-expert-guide/"><u>Find & Install the Latest Drivers for Your HP MFP M477 Color Laserjet Pro Now - Expert Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premier-stream-gear-with-superior-360-degree-cameras/"><u>In 2024, Premier Stream Gear with Superior 360-Degree Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-of-7-exceptional-vids-on-mac/"><u>In 2024, Ultimate List of 7 Exceptional Vids on Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/from-youtube-to-dailymotion-with-ease/"><u>Leap From YouTube to Dailymotion with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/izing-impact-with-youtube-micro-videos/"><u>Maximizing Impact with YouTube Micro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lost-steam-games-iconage/"><u>Solutions for Lost Steam Games Iconage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-code-0x0001-problem-in-ge-for-windows/"><u>Steps to Resolve Code 0X0001 Problem in GE for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-eliminating-webcam-dark-screen/"><u>Techniques for Eliminating Webcam Dark Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F54 5G</u></a></li>
 </ul></div>
 

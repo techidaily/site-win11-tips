@@ -1,7 +1,7 @@
 ---
 title: Overcome Mouse Freeze-Up While Scaling Sheets in Excel
-date: 2024-09-29T00:18:33.993Z
-updated: 2024-10-03T16:13:19.560Z
+date: 2024-10-03T17:46:19.764Z
+updated: 2024-10-09T04:55:02.687Z
 tags:
   - windows10
   - windows11
@@ -64,17 +64,17 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable Scroll Bars
@@ -88,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AutoFit Row Height in Excel
 
  Several Excel users reported fixing the scrolling issue by formatting all the cells in the sheet with the AutoFit Row Height feature. You can also give this method a shot.
@@ -99,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
@@ -114,14 +121,14 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
 
@@ -134,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 5. Click the **Change** button at the top.
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
 
@@ -162,25 +162,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-brief-cinematic-story-outline/"><u>[New] 2024 Approved Brief Cinematic Story Outline</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-breaking-down-the-hype-around-recordcast-for-2024/"><u>[New] Breaking Down the Hype Around RecordCast for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>[New] Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-boundaries-of-ae-type-design-for-2024/"><u>Exploring the Boundaries of AE Type Design for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-gif-to-jpeg-image-transformation-with-movavi/"><u>Free Online Conversion - GIF to JPEG Image Transformation with Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-pair-your-airpods-with-a-nintendo-switch/"><u>How To Pair Your AirPods With A Nintendo Switch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-magic-vs-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor Magic Vs 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-9a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 9A to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4vavimovavi/"><u>M4V與AVI間自由過渡：Movavi影片格式變更器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-audio-extractor-transform-your-mpeg-tapes-into-high-quality-m4a-file/"><u>Online Audio Extractor - Transform Your MPEG Tapes Into High-Quality M4A File</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/phasing-out-how-netflix-leaves-behind-certain-vintage-televisions/"><u>Phasing Out: How Netflix Leaves Behind Certain Vintage Televisions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-the-aukey-usb-hub-30-combining-high-speed-transfer-with-modern-style/"><u>The Essential Guide to the Aukey USB Hub 3.0: Combining High-Speed Transfer with Modern Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-streaming-services-for-never-ending-tv-series-entertainment/"><u>Top 8 Streaming Services for Never-Ending TV Series Entertainment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726227046478-aiffmov-movavi/"><u>オープンソースのAIFFフォーマットへのシームレスMOVコンバージョン - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726226147380-m4a-flac-movavi/"><u>フリーミュージックコンバーター：無料オンラインM4A を FLAC へ Movaviで簡単変換!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +169,27 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-insiders-manual-to-upload-content-to-igtv/"><u>[New] 2024 Approved The Insider's Manual to Upload Content to IGTV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-emerging-realities-speak-top-30-metaverse-expressions-arvr/"><u>[New] In 2024, Emerging Realities Speak Top 30 Metaverse Expressions [AR/VR]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[Updated] In 2024, Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-insufficient-ram-issues-on-windowsvmware-platforms/"><u>Addressing Insufficient RAM Issues on Windows/VmWare Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-leaders-at-play-examining-palm-2-and-gpt-4/"><u>AI Leaders at Play: Examining PaLM 2 and GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-run-pcs-leveraging-the-power-of-key-optimization-tools/"><u>Efficiently Run PCs: Leveraging the Power of Key Optimization Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-adobe-reader-setup-on-ms-store/"><u>Effortless Adobe Reader Setup on MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-using-windows-file-browsing-in-place-of-ls/"><u>Expert Tips for Using Windows File Browsing in Place of LS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-lava-blaze-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Lava Blaze Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-lamicall-s-tablet-support-where-functionality-leads/"><u>In-Depth Analysis of Lamicall S Tablet Support: Where Functionality Leads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-path-setting-up-google-maps-on-windows-pcs/"><u>Navigating the Path: Setting up Google Maps on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-tips-navigating-and-using-file-explorer-on-windows-11-seamlessly/"><u>Quick Tips: Navigating and Using File Explorer on Windows 11 Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-dilemma-obs-not-opening-on-windows/"><u>Resolving the Dilemma: OBS Not Opening on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-windows-11-widget-techniques/"><u>Revamp Your Workspace: Windows 11 Widget Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rust-display-issues-addressed-eliminating-pixelation-and-distortion-problems/"><u>Rust Display Issues Addressed - Eliminating Pixelation and Distortion Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steer-clear-of-stuck-arrows-in-windows/"><u>Steer Clear of Stuck Arrows in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-nikons-1j5-a-4k-video-masterpiece-for-2024/"><u>Unveiling Nikon's 1J5 A 4K Video Masterpiece for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-s-mode-imply-in-windows-11-upgrade/"><u>What Does 'S Mode' Imply in Windows 11 Upgrade?</u></a></li>
+</ul></div>
+

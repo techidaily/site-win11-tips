@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus"
-date: 2024-09-17T00:29:19.052Z
-updated: 2024-09-21T20:44:16.006Z
+date: 2024-10-03T19:42:12.902Z
+updated: 2024-10-08T22:03:22.173Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Copy to Folder Context Menu Option
 
  The Windows context menu includes a**Copy** option, but that doesn’t enable you to select a destination for pasting the file. Thus, users must manually paste copied items into different folders after selecting that option. However, you can add a better**Copy to folder** context menu option that brings up a destination folder selection window like this:
@@ -66,6 +73,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Registry Editor app’s window.
 
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
@@ -97,6 +118,14 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 3. Click the**Copy to** checkbox to select that option.  
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
 6. Minimize or exit the WinBubble window.
@@ -106,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
@@ -129,5 +158,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-getting-started-in-google-meet-on-computersphone/"><u>[New] Getting Started in Google Meet on Computers/Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[Updated] In 2024, The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/automating-youtube-playback-in-social-networks-a-focus-on-facebook/"><u>Automating Youtube Playback in Social Networks A Focus on Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/boosting-your-competitive-edge-with-custom-vocalization-techniques-in-free-fire-gaming-free-solution-included-for-2024/"><u>Boosting Your Competitive Edge with Custom Vocalization Techniques in Free Fire Gaming (Free Solution Included) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-lightweight-browser-ram-optimizers/"><u>Discovering the Most Lightweight Browser Ram Optimizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-system-restore-error-0x80042306-in-windows/"><u>How to Fix the System Restore Error 0X80042306 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-lsa-unavailable-alert-in-os/"><u>How to Overcome LSA Unavailable Alert in OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-video-dimensionssize-guide-for-upload-settings/"><u>In 2024, YouTube Video Dimensions/Size [Guide for Upload Settings]</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-parent-lock-configurations/"><u>Mastering Windows 11 Parent Lock Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/newcomers-niche-rapid-folder-formation-in-win11/"><u>Newcomer's Niche: Rapid Folder Formation in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-deactivated-volume-shadow-copies-on-pcs/"><u>Reinstating Deactivated Volume Shadow Copies on PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-comprehensive-directory-for-got-ringtones-download/"><u>The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-amd-195-installation-hiccups/"><u>Troubleshooting AMD 195 Installation Hiccups</u></a></li>
+</ul></div>
 

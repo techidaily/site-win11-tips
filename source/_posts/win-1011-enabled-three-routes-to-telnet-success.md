@@ -1,7 +1,7 @@
 ---
 title: "Win 10/11 Enabled: Three Routes to Telnet Success"
-date: 2024-09-30T22:32:13.073Z
-updated: 2024-10-03T16:12:33.698Z
+date: 2024-10-08T04:09:18.424Z
+updated: 2024-10-09T03:55:27.076Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ If you need to disable Telnet:
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
 
 To enable Telnet using Windows PowerShell:
@@ -64,15 +71,28 @@ To enable Telnet using Windows PowerShell:
 6. Close PowerShell and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -89,41 +109,21 @@ Follow these steps to install Telnet using Command Prompt:
 7. Type**exit** and press**Enter** to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check the Telnet Client Status on Your PC
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
@@ -146,22 +146,21 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfect-for-every-task-our-choice-in-8-5k-displays/"><u>[New] 2024 Approved Perfect for Every Task Our Choice in 8 5K Displays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leading-websites-for-free-game-of-thrones-ringtones/"><u>[New] Leading Websites for Free Game of Thrones Ringtones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-harmonyhook-tracker-extracting-sound-and-insights/"><u>[Updated] HarmonyHook Tracker Extracting Sound & Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>[Updated] In 2024, Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-entrepreneurship-building-a-recognizable-brand/"><u>[Updated] In 2024, YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-to-the-ifunny-meme-application/"><u>[Updated] Quick Guide to the iFunny Meme Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-the-frustration-of-inaccessible-windows-commands/"><u>Avoiding the Frustration of Inaccessible Windows Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-path-to-seamless-update-in-win11/"><u>Clearing Path to Seamless Update in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/directing-changes-to-user-profiles-in-w11-os/"><u>Directing Changes to User Profiles in W11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-for-inadequate-screen-shots-in-windows-snip-and-sketch-app/"><u>Fixes for Inadequate Screen Shots in Windows’ Snip & Sketch App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-shipping-secrets-to-surprises-unveiling-new-strategies-for-2024/"><u>From Shipping Secrets to Surprises Unveiling New Strategies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-11-installation-rejection-issues/"><u>Guiding Through Windows 11 Installation Rejection Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-video-edits-leveraging-kinemasters-techniques/"><u>In 2024, Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-moving-windows-11-folders-with-tabs/"><u>Maximizing Efficiency: Moving Windows 11 Folders with Tabs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/run-a-local-and-free-chatgpt-clone-on-your-windows-pc-with-gpt4all/"><u>Run a Local and Free ChatGPT Clone on Your Windows PC With GPT4All</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-amplify-vram-in-windows-os/"><u>Strategies to Amplify VRAM in Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views/"><u>[New] 2024 Approved Path to YouTube Prosperity Unlocking Monetization with 500+ Views</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ignite-a-sensation-how-to-have-your-video-go-viral/"><u>[New] In 2024, Ignite a Sensation How to Have Your Video Go Viral</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-5-hd-cameras-to-enhance-your-twitch-experience/"><u>[New] In 2024, Leading 5 HD Cameras to Enhance Your Twitch Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-time-is-money-the-best-facebook-schedulers-reviewed/"><u>[New] Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-staking-haven-evalutations/"><u>2024 Approved HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-the-onedrive-symbol-from-windows-11-filesystem/"><u>Eradicating the OneDrive Symbol From Windows 11 Filesystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studio-not-launching-on-windows/"><u>How to Fix OBS Studio Not Launching on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C12 Plus</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-operating-environment-for-device-interfaces/"><u>Optimizing Windows Operating Environment for Device Interfaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-steam-file-sync-problem-in-windows-environment/"><u>Overcoming Steam File Sync Problem in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-safety-invest-heavily-in-research-to-develop-advanced-safety-features-that-reduce-potential-risks-associated-with-drone-operations-such-as-collis31/"><u>Prioritize Safety: Invest Heavily in Research to Develop Advanced Safety Features that Reduce Potential Risks Associated with Drone Operations, Such as Collision Avoidance Technology, Redundant System Architectures, and Thorough Pre-Flight Checks.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-organized-with-automatic-files-deletion-in-win11/"><u>Stay Organized with Automatic Files Deletion in Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719334227097-windows-transcends-platforms-iphoneipadmacpc-compatibility-announced/"><u>Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced!</u></a></li>
 </ul></div>
 

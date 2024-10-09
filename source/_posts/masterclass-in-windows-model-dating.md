@@ -1,7 +1,7 @@
 ---
 title: Masterclass in Windows Model Dating
-date: 2024-09-20T16:56:15.541Z
-updated: 2024-09-21T16:14:27.082Z
+date: 2024-10-03T05:04:56.101Z
+updated: 2024-10-08T16:45:11.908Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ wmic bios get serial number
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
  To check the BIOS version:
@@ -81,28 +88,15 @@ systeminfo.exe
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
@@ -112,6 +106,13 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
@@ -119,6 +120,13 @@ systeminfo | find /I "install date"
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
@@ -128,18 +136,18 @@ systeminfo | find /I "install date"
 
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Tell Your Desktop Computer Age
 
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -160,5 +168,19 @@ systeminfo | find /I "install date"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>[New] 2024 Approved How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>[New] Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-the-art-of-trailer-sound-design/"><u>2024 Approved Mastering the Art of Trailer Sound Design</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-solution-when-you-encounter-missing-or-not-found-msxml4-dll-files/"><u>Complete Solution: When You Encounter Missing or Not Found MsXML4 DLL Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-laptops-showcase-at-ifa-2023/"><u>Cutting-Edge Laptops Showcase at IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-multilingual-keystrokes-in-windows-11/"><u>Efficiently Manage Multilingual Keystrokes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unable-to-open-on-ge-share-menu/"><u>Eliminating Unable to Open on GE Share Menu</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-methods-to-keep-your-amd-ryzen-drivers-updated/"><u>Trouble-Free Methods to Keep Your AMD Ryzen Drivers Updated</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A1 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-step-by-step-guide-for-triggering-system-restore-in-windows-11/"><u>Your Step-by-Step Guide for Triggering System Restore in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-users-focus-enforcing-group-policy-on-individual-profiles/"><u>Zero-Users Focus: Enforcing Group Policy on Individual Profiles</u></a></li>
+</ul></div>
 

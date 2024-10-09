@@ -1,7 +1,7 @@
 ---
 title: Reviving Stalled Photoshop on Win
-date: 2024-10-02T21:50:38.803Z
-updated: 2024-10-03T20:10:38.837Z
+date: 2024-10-06T04:22:45.383Z
+updated: 2024-10-09T03:52:53.231Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  This is just an overview of the minimum system requirements for Adobe Photoshop. As you work with larger files or more complex Photoshop projects, upgrading your hardware can improve your experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some General Fixes
 
  We have some quick fixes for you to try to fix some common Adobe Photoshop issues on Windows:
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  Consider trying more specific solutions if these general fixes don't solve your Photoshop problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete All Third-Party Plugins
@@ -89,24 +82,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![Adobe Photoshop Update Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-update-option.jpg)
 3. From the drop-down list, select the **Updates** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If an update is available, it'll prompt you to update. Follow the prompts on the update wizard to replace the outdated Adobe Photoshop version.
 5. Once you update Adobe Photoshop, close it and open it again.
 
  Now start creating a new project first and then saving it. If you face an error while doing so, please move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check for the Corrupted Presets
 
@@ -121,7 +100,21 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 3. Select all the preset folders that you've recently installed and delete them. This action will remove the presets from Adobe Photoshop.  
 ![Adobe Photoshop Presets Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-presets-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. If Photoshop operates normally with presets removed, it indicates that a corrupted preset is at fault.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use the Adobe Creative Cloud Cleaner Tool
 
@@ -140,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Similarly, follow the on-screen instructions to clean up the installation records of Adobe Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset the Adobe Photoshop Settings
 
  Adobe Photoshop offers many settings to tweak the app for better performance and usability. So, If the software is crashing or [Photoshop files aren't opening](https://www.makeuseof.com/how-to-fix-photoshop-program-error-when-opening-files/), you may have tweaked the wrong setting.
@@ -152,28 +152,34 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![Windows Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-run-dialog-box.jpg)
 2. Press **Enter** to execute the command via Run. This will open the Windows File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Double-click on the folder that shows your current Adobe Photoshop version. We're using the **2023** version for this guide.  
 ![Adobe Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-folder-in-file-explorer.jpg)
 4. Again, double-click on the folder that says **Adobe Photoshop \[version\] Settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Press **Ctrl + A** to select and delete all the files inside the settings folder. This will reset your Adobe Photoshop settings to their default state.  
 ![Adobe Photoshop Settings Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-settings-folder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using the beta version, please remove it altogether. Beta versions offer some features in development, but this sometimes introduces new bugs and glitches!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Tweak the Windows Services
 
@@ -195,24 +201,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Often, it's not Adobe Photoshop but your Windows system causing such issues. So, let's explore some effective methods to solve Adobe Photoshop-related problems on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-boosting-reliability-verify-age-on-tiktok/"><u>[Updated] Boosting Reliability Verify Age on TikTok</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leading-audio-transformation-software-listings-for-2024/"><u>[Updated] Leading Audio Transformation Software Listings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[Updated] Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/web-mkvwavmovavi/"><u>完全無料のWeb MKV/WAVファイル変換ツール：Movaviで簡単な操作</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviweb-png/"><u>無料で使えるMovaviのWeb-ベースPNG画像編集・変換ツール - 詳しく見てみませんか？</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cambia-i-file-wma-in-formato-webm-gratuitamente-su-internet-guida-rapida-di-movavi/"><u>Cambia I File WMA in Formato WebM Gratuitamente Su Internet: Guida Rapida Di Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-nord-n30-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Nord N30 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mov-files-to-ogg-format-for-free-online-expert-results-with-movavi/"><u>Convert MOV Files to OGG Format for Free Online - Expert Results with MOVAVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/geevensamenvoeging-waardevollen-gratuite-programmas-en-apps-voor-beste-resultaten-online-of-desktop-gebruikers/"><u>Geevensamenvoeging Waardevollen Gratuite Programma's en Apps Voor Beste Resultaten, Online of Desktop-Gebruikers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-video-timestamps-on-youtube/"><u>In 2024, Navigating the World of Video Timestamps on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-13-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 13 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/moviva-la-solucion-perfecta-para-cambiar-tu-video-swf-al-formato-avi-rapidamente-y-sin-gastar-dinero/"><u>MoviVa: La Solución Perfecta Para Cambiar Tu Vídeo SWF Al Formato AVI Rápidamente Y Sin Gastar Dinero.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-screenplay-creation-hub/"><u>Top Screenplay Creation Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforma-tu-fotografia-raw-a-png-de-manera-gratuita-y-facil-con-la-ayuda-de-movavi/"><u>Transforma Tu Fotografía RAW a PNG De Manera Gratuita Y Fácil Con La Ayuda De Movavi</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -220,3 +208,24 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/oddler-tycoon-turned-teen-titan-the-income-of-a-kid-star-for-2024/"><u>[New] Toddler Tycoon Turned Teen Titan The Income of a Kid Star for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-creative-methods-for-cooling-your-pc/"><u>8 Creative Methods for Cooling Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-surface-laptop-studio-2s-creative-edge/"><u>A Deep Dive Into Surface Laptop Studio 2’S Creative Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-way-to-view-your-files-noteworthy-updates-in-windows-11/"><u>A New Way to View Your Files: Noteworthy Updates in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-sync-and-conquer-to-dot-and-ifttt/"><u>Automate, Sync, and Conquer: To-Dot & IFTTT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-mobile-with-instant-windows-apks/"><u>Boost Your Mobile with Instant Windows APKs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/effortless-large-file-sharing-iphone-to-mac-streamlined-guide-for-2024/"><u>Effortless Large File Sharing IPhone to Mac Streamlined Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-edits-made-easy-a-newbies-guide-to-video-trimming-and-enhancing/"><u>In 2024, Top Edits Made Easy A Newbie's Guide to Video Trimming & Enhancing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-at-the-impressive-specs-and-features-of-the-compact-cost-effective-samsung-galaxy-s10e/"><u>Inside Look at the Impressive Specs & Features of the Compact, Cost-Effective Samsung Galaxy S10e</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719275215540-reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stealth-strategies-how-google-and-meta-clandestinely-marketed-to-young-audiences/"><u>Stealth Strategies: How Google & Meta Clandestinely Marketed to Young Audiences</u></a></li>
+<li><a href="https://driver-install.techidaily.com/understanding-hardware-support-through-drivers/"><u>Understanding Hardware Support Through Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719383078548-unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list-for-2024/"><u>Updated Looking For the Best VHS Video Effect Makers? Get To Know the Top List for 2024</u></a></li>
+</ul></div>
+

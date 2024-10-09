@@ -1,7 +1,7 @@
 ---
 title: Resurrecting Search Bar Performance in Windows 11
-date: 2024-10-02T20:47:35.120Z
-updated: 2024-10-03T17:41:32.318Z
+date: 2024-10-06T00:29:44.582Z
+updated: 2024-10-09T00:49:24.297Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  If you're having issues typing in the search bar, there are a whole slew of things you can try to fix this specific problem. Fortunately, we have a guide on [fixing Windows Search when it doesn't let you type](https://www.makeuseof.com/windows-11-search-bar-cant-type/), so check that out for more details.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check If the Windows Search Bar Is Enabled
 
  While the Search bar comes enabled by default on your Windows 11, it's possible to disable it manually. If you share your PC with other people or if you have tinkered with the settings in the past, it's likely that the search bar might have been disabled. If you're not sure, we suggest you first verify if that's indeed the case.
@@ -55,7 +42,21 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 ![enable windows search from settings on windows 11 to get it working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-search-bar-not-working-enabled.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that the search bar doesn't appear as a bar on Windows 11 like it does on Windows 10\. It appears as a button with a search icon next to the Windows button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
 
@@ -87,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Once you've ended the task, click on the search button in the Windows 11 taskbar (the magnifying glass). Hopefully, it should work now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Restart the Windows Search Service
 
  If your Windows search bar still doesn't work, restarting the Windows Search service may fix the issue. Follow these steps to continue:
@@ -104,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 4. Click on the **Stop** button. Once the service stops, click on the **Start** button.
 
 ![restarting the windows search bar service by clicking stop button and then start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/restart-windows-search-bar-service.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try using the search bar now and see if it works.
 
@@ -130,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 ![navigating to the searching windows option in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/searching-windows-settings-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![rebuilding the search index by clicking on the rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/rebuild-index-windows-search.png)
@@ -153,6 +140,13 @@ Close
 
 ![click on the run button to run the built-in troubleshooter for search issues in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/search-bar-troubleshooter-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the troubleshooter launches, Windows will ask you to select the issues you're facing from a list. Check the boxes for the issues you're facing and click on the **Next** button.
 
  If the troubleshooter finds any issues, it will fix them for you or let you know that they can't be fixed automatically.
@@ -170,10 +164,17 @@ Close
 ![resetting cortana](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/cortana-reset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Reset Windows Search Using Windows PowerShell
@@ -199,10 +200,10 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
  Press **Y** and then **Enter** to continue. Exit the PowerShell window and try using Windows search now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Reset Windows Search Service by CMD
@@ -219,13 +220,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 ![executing the cmd commands to restart the search service on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you've reset the service, go ahead and check if the search bar is working normally.
 
 ## 11\. Reset Windows
@@ -236,14 +230,20 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 ![clicking on the reset pc button to start the process of resetting windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/reset-windows.png)
 
- You'll now be asked if you want to remove all files or keep them. If you want your Windows in mint condition, select the **Remove everything** option. Otherwise, select the **Keep my files** option.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You'll now be asked if you want to remove all files or keep them. If you want your Windows in mint condition, select the **Remove everything** option. Otherwise, select the **Keep my files** option.
 
 ## Did You Fix the Windows Search Not Working Issue?
 
@@ -253,27 +253,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  When the Windows search bar doesn't work as it should, it can be a result of several things. But before you troubleshoot the Windows 11 search bar not working fiasco, let's see if it's enabled in your Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[New] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-is-aurora-hdr-setting-photography-trends-in-2024/"><u>[New] Is Aurora HDR Setting Photography Trends, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-your-first-sound-recording-guide-in-audacity-on-a-mac-for-2024/"><u>[New] Your First Sound Recording Guide in Audacity on a Mac for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-listening-made-easy-with-direct-recording/"><u>[Updated] 2024 Approved YouTube Listening Made Easy with Direct Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-the-default-paths-of-windows-11-accounts/"><u>Customizing the Default Paths of Windows 11 Accounts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tless-sound-sourcing-the-top-15-freebie-audiosites/"><u>Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-flawless-clipchamp-integration-on-newest-win11-version/"><u>Enable Flawless ClipChamp Integration on Newest Win11 Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-genuine-errors-for-unlicensed-adobe/"><u>Halt Genuine Errors for Unlicensed Adobe</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-deep-with-these-immersive-vr-clips/"><u>In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pro-rated-cameras-for-windows-11-the-top-lineup-reviewed-for-2024/"><u>Pro-Rated Cameras for Windows 11 - The Top Lineup Reviewed for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-the-error-when-your-usb-device-wont-install-access-denied/"><u>Resolve the Error When Your USB Device Won't Install - 'Access Denied'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-no-sound-recognition-by-windows-operating-system/"><u>Reversing No Sound Recognition by Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-system-mastering-three-windows-restarts/"><u>Revitalize Your System: Mastering Three Windows Restarts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-bsod-fix-in-windows-vmware-edition/"><u>Steps for BSOD Fix in Windows: VMware Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-saving-procedures-in-windows-for-pubg/"><u>Streamlining Saving Procedures in Windows for PUBG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-truth-behind-primes-subtitle-misfires-on-windows-11/"><u>Uncover the Truth Behind Prime's Subtitle Misfires on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-t2x-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo T2x 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -281,3 +260,22 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-guide-to-free-youtube-downloads-without-apps/"><u>[New] 2024 Approved Step-by-Step Guide to Free YouTube Downloads Without Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac/"><u>[New] Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-laptop-keyboard-not-working/"><u>[Solved] Laptop Keyboard Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-common-complaints-users-have-about-windows-11/"><u>5 Common Complaints Users Have About Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/50plus-innovative-ideas-to-customize-your-windows-11-layout/"><u>50+ Innovative Ideas to Customize Your Windows 11 Layout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-windows-iscsi-initiator/"><u>A Step-by-Step Guide to Using Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-thoroughly-detailed-guide-to-windows-boot-options/"><u>A Thoroughly Detailed Guide to Windows Boot Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-call-productivity-on-windows-11-with-the-intel-unison-app/"><u>Boosting Call Productivity on Windows 11 with the Intel Unison App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-best-oled-display-lg-g4-versus-samsung-s95d-a-comprehensive-guide-for-consumers/"><u>Choosing the Best OLED Display: LG G4 versus Samsung S95D – A Comprehensive Guide for Consumers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-exceptions-on-windows-7-comprehensive-guide/"><u>Resolving System Service Exceptions on Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719276426207-saving-the-day-with-win1011s-recycle-bin-corruption-fixed/"><u>Saving the Day with Win10/11's Recycle Bin Corruption Fixed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-a-dive-into-toms-hardware-analysis/"><u>Unveiling the Latest in Technology: A Dive Into Tom's Hardware Analysis</u></a></li>
+</ul></div>
+

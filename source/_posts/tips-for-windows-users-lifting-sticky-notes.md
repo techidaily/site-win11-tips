@@ -1,7 +1,7 @@
 ---
 title: "Tips for Windows Users: Lifting Sticky Notes"
-date: 2024-09-29T23:50:16.393Z
-updated: 2024-10-03T21:06:39.315Z
+date: 2024-10-03T02:26:06.764Z
+updated: 2024-10-08T18:01:29.868Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -72,33 +65,40 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -120,24 +120,18 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-wedding-countdown-clock-apps-top-10-picks-androidios/"><u>[Updated] 2024 Approved Essential Wedding Countdown Clock Apps Top 10 Picks (Android/iOS)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>[Updated] In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-srt-file-makers-handbook/"><u>[Updated] The Complete SRT File Maker's Handbook</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-12-prowindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 12 Pro/Windows/Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-13-pro-max-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 13 Pro Max and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multilingual-mastery-harnessing-the-power-of-hotkey-translations-in-windows-11/"><u>Multilingual Mastery: Harnessing the Power of Hotkey Translations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-microsofts-windows-1111-shop-hurdle/"><u>Overcoming Microsoft's Windows 11/11 Shop Hurdle</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477942523-perfect-your-profile/"><u>Perfect Your Profile:</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-proxy-settings-glitch/"><u>Quick Fix for Windows Proxy Settings Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-virtual-memory-for-performance-gain/"><u>Revamping Virtual Memory for Performance Gain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-techniques-for-scrubbing-windows-safety-files/"><u>Simplified Techniques for Scrubbing Windows' Safety Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-directx-download-errors-on-windows/"><u>Tackling DirectX Download Errors on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-backups-to-original-win-standards/"><u>Tailoring Your Backups to Original Win Standards</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-better-performance-discover-the-7-crucial-windows-configurations-that-must-stay-on-for-optimal-use/"><u>Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unraveling-the-best-viewing-experience-dvd-blu-ray-or-streaming-your-ultimate-guide-to-optimal-ownership/"><u>Unraveling the Best Viewing Experience: DVD, Blu-Ray or Streaming? Your Ultimate Guide to Optimal Ownership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwrapping-the-truth-behind-windows-error-code-0x80073d26/"><u>Unwrapping the Truth Behind Windows' Error Code 0X80073D26</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-trim-vlc-videos-like-a-pro-on-mac-no-quality-degradation-guaranteed/"><u>Updated 2024 Approved Trim VLC Videos Like a Pro on Mac No Quality Degradation Guaranteed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-weekly-windows-file-backups-matter/"><u>Why Weekly Windows File Backups Matter</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>[Updated] 2024 Approved Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-going-back-in-space-and-time-rewind-your-instagram-video-for-2024/"><u>[Updated] Going Back in Space and Time Rewind Your Instagram Video for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-disk-space-safely-preserving-data-on-your-windows-11-local-drive-max-156-chars/"><u>Boost Your Disk Space Safely: Preserving Data on Your Windows 11 Local Drive (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-confusion-a-guide-to-reinstalling-store-software/"><u>Clearing Up Confusion: A Guide to Reinstalling Store Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-admin-level-execution-woes/"><u>Guiding Users Through Admin-Level Execution Woes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock Verizon iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-vocal-navigator-discovering-premium-online-text-to-speech-providers/"><u>New 2024 Approved The Vocal Navigator Discovering Premium Online Text to Speech Providers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scrolls-in-windows-11-solutions-and-fixes/"><u>Troubleshooting Unresponsive Touchpad Scrolls in Windows 11 - Solutions & Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webcam-wizardry-crafting-ultimate-gamer-footage/"><u>WebCam Wizardry Crafting Ultimate Gamer Footage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-coming-with-the-apple-watch-series-8-find-out-release-timeline-technical-specifications-and-pricing-range/"><u>What's Coming with the Apple Watch Series 8? Find Out Release Timeline, Technical Specifications & Pricing Range</u></a></li>
 </ul></div>
 

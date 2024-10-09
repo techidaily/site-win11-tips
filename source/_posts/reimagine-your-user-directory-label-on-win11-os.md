@@ -1,7 +1,7 @@
 ---
 title: Reimagine Your User Directory Label on Win11 OS
-date: 2024-09-27T21:47:54.598Z
-updated: 2024-10-03T21:52:11.676Z
+date: 2024-10-03T04:39:51.000Z
+updated: 2024-10-09T07:51:54.378Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
  Also, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and exercise extreme caution while changing your user name folder. Incorrect modification to the Windows Registry can cause serious issues and may require reinstallation of the operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a New Administrator User Account in Windows 11
 
  To change your current user profile name, log into a different administrator account. You cannot modify an existing user account profile path from the same account.
@@ -62,14 +55,14 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click on **Add a user** **without a Microsoft account.**
 2. Type a name for the user account. Leave the password field empty and click **Next**.
@@ -94,20 +87,41 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
 
@@ -127,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Click away and then click **Continue** to save the changes.
@@ -139,35 +153,9 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
  Next, log out from your current account and sign in to the user account with the new user folder name. Open File Explorer and navigate to **C:\\Users\\**, and you should be able to use the previous profile with the new pathname.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Renaming the Default User Profile Folder in Windows 11, Made Easy
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revitalize-disappearing-watch-thumbnail/"><u>[New] 2024 Approved Revitalize Disappearing Watch Thumbnail</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-combining-gopro-with-time-lapse-shooting-techniques/"><u>[Updated] Pro Tips Combining GoPro with Time-Lapse Shooting Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2023windows-movie-maker11/"><u>2023年最好的免费Windows Movie Maker替代品：探索11种功能丰富的视频编辑工具</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effektivt-bearbetar-audiofilmer-ivan-med-movavi-din-gamla-ljudbittarrat-ratt-utanfor-tiden/"><u>Effektivt Bearbetar Audiofilmer - Ivån Med Movavi: Din Gamla Ljudbittarrat Rätt Utanför Tiden</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-launch-windows-11-on-mac-through-parallels/"><u>Essential Steps to Launch Windows 11 on Mac Through Parallels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-kitchen-combatants-30-pugnacious-food-show-titles/"><u>In 2024, Kitchen Combatants 30 Pugnacious Food Show Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mxf-movavi-0/"><u>MOV 파일을 MXF로 이식: MOVavi에서 비용 0%의 온라인 제공</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-ferramenta-online-gratuita-para-transformar-mp4-em-formato-3gp-com-facilidade/"><u>Móvavi: Ferramenta Online Gratuita Para Transformar MP4 Em Formato 3GP Com Facilidade!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mpg-conversion-of-ram-a-complimentary-online-service-with-moveai-tech-solutions/"><u>MPG Conversion of RAM: A Complimentary Online Service with MoveAI Tech Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-unresponsive-gameplay-no-more-freezes-in-warframe/"><u>Solution for Unresponsive Gameplay - No More Freezes in Warframe</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-pro-9015-get-the-newest-printer-software-here/"><u>Update Your HP OfficeJet Pro ˈ9015: Get the Newest Printer Software Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/veelvoulend-ongemakkooptje-qt-naar-mp4-omzetten-met-movavi-gratis-en-direct-op-internet/"><u>Veelvoulend Ongemakkooptje: QT Naar MP4 Omzetten Met Movavi, Gratis en Direct Op Internet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aiff-m4amp3/"><u>무료 AIFF 매니페스트를 M4A/MP3로 바꾸기 - 이식센터에서 원통</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -176,3 +164,23 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>[New] 2024 Approved Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gamers-guide-expert-advice-on-capturing-your-minecraft-adventures/"><u>[New] Gamer's Guide Expert Advice on Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-lost-frames-during-video-capture-in-obs-for-2024/"><u>[Updated] Avoiding Lost Frames During Video Capture in OBS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-command-routes-for-fast-diagnostic-center-entry/"><u>10 Command Routes for Fast Diagnostic Center Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-straightforward-steps-to-engage-repair-tool/"><u>10 Straightforward Steps to Engage Repair Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-camon-20-premier-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Camon 20 Premier 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjustments-for-a-seamless-integration-of-wsl-in-win-11/"><u>Adjustments for a Seamless Integration of WSL in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artificinas-intelligence-microsofts-innovative-ai-addition-to-windows-11-taskbar/"><u>Artificinas Intelligence: Microsoft’s Innovative AI Addition to Windows 11 Taskbar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-15-tools-for-downloading-high-quality-audio-from-youtube/"><u>Best 15 Tools for Downloading High-Quality Audio From YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719225198037-epic-launcher-removal-woes-in-windows-11-fix-now/"><u>Epic Launcher Removal Woes in Windows 11: Fix Now</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-free-content-creation-blending-text-and-video/"><u>In 2024, Unlocking Free Content Creation Blending Text & Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locate-a-missing-or-stolen-iphone-a-step-by-step-guide-with-find-my/"><u>Locate a Missing or Stolen iPhone: A Step-by-Step Guide with Find My</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-camon-20-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Camon 20 Pro 5G has been deleted</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sites-where-virtual-worlds-come-alive-for-2024/"><u>Sites Where Virtual Worlds Come Alive for 2024</u></a></li>
+</ul></div>
+

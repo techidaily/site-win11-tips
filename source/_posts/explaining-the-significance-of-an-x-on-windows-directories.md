@@ -1,7 +1,7 @@
 ---
 title: Explaining the Significance of an “X” On Windows Directories
-date: 2024-10-01T18:24:30.756Z
-updated: 2024-10-03T22:45:10.458Z
+date: 2024-10-06T18:59:35.110Z
+updated: 2024-10-08T16:56:03.798Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
  If the above checks do not assist in pinpointing the cause, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Log Into OneDrive and Begin Syncing
 
  Find the OneDrive icon at the right end of the taskbar, also known as the notification area or system tray. Seeing a red cross or slanted dash on the OneDrive icon means you are no longer logged in to OneDrive, and your files are not being synced. So, you'll need to sign in again to begin syncing. To do that, follow these steps:
@@ -55,37 +48,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 ![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
 4. Choose a OneDrive folder location or click**Next** to use the default location.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
 5. Then, follow a few on-screen instructions to log into OneDrive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After logging in, reboot your device. Hopefully, a fresh sync will resolve the issue with the folder icons. But how do you proceed if you're already logged in to OneDrive?
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Relink Your OneDrive Account
 
@@ -99,9 +65,24 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. After unlinking the account, open Windows File Explorer or the folder where you see a red circle with a white cross.
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
 
@@ -113,12 +94,34 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 2. On the left sidebar, right-click on**OneDrive** and click**Show more options** .  
 ![Click on the Show More Options to Expand Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-the-show-more-options-to-expand-context-menu.jpg)
 3. Select**Settings** from the context menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Ensure OneDrive Has Enough Space Free
 
@@ -128,16 +131,16 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ![Go to Options From the Settings Menu of OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-go-to-options-from-the-settings-menu-of-onedrive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the OneDrive storage is full, you will need to delete some of your data stored there, or you will need to uncheck some of the folders in OneDrive to stop them from syncing. Furthermore, if you're using a free plan with 5GB of free storage, which is not enough to accommodate your data, you should consider upgrading.
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Restart the Windows Explorer Process
 
@@ -153,27 +156,20 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 ![Go to Installed Apps in Apps Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/11-go-to-installed-apps-in-apps-tab-of-windows-settings-app.jpg)
 4. In the**Search apps** field, type**"OneDrive."**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
 6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Rid of Red Circles on Your Windows Folders
 
@@ -194,22 +190,16 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-polka-dotted-parakeet-party-for-2024/"><u>[Updated] Polka-Dotted Parakeet Party for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>2024 Approved How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>2024 Approved Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-visual-impact-blueprint-for-success-in-instagram-video-campaigns/"><u>2024 Approved Visual Impact Blueprint for Success in Instagram Video Campaigns</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-windows-it-tn-side-by-side-error-step-by-step-solutions-for-smooth-operation/"><u>Correcting Windows ˈiːtʃ Tɛn Side-by-Side Error: Step-by-Step Solutions for Smooth Operation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-affordable-windows-10-licenses/"><u>Exclusive Guide to Affordable Windows 10 Licenses</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-f34-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-running-the-sfc-command-in-windows/"><u>Guide to Running the SFC Command in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-permit-or-block-usb-devices-on-windows-pcs/"><u>Guidelines to Permit or Block USB Devices on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-battlenet-launcher-malfunctions-in-windows-operating-systems/"><u>How to Resolve Battlenet Launcher Malfunctions in Windows Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-your-windows-apps-with-swift-internet-solutions/"><u>Ignite Your Windows Apps with Swift Internet Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-vscode-running-smoothly-w11-style/"><u>Keeping VSCode Running Smoothly W11-Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-past-notpads-blockade-with-these-7-effective-fixes-in-windows/"><u>Navigate Past Notpad's Blockade with These 7 Effective Fixes in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-with-simple-app-resets/"><u>Optimizing Windows 11 with Simple App Resets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-zeroxc000003e-windows-error-in-software-launching/"><u>Overcoming ZeroXc000003e Windows Error in Software Launching</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-microsoft-sculpt-ergonomic-keyboard-driver-enhancements-how-to-update-with-ease/"><u>Seamless Microsoft Sculpt Ergonomic Keyboard Driver Enhancements – How to Update with Ease</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[New] In 2024, From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revolutionizing-video-content-analyzing-tiktok-and-snapchats-innovation/"><u>[New] Revolutionizing Video Content Analyzing TikTok and Snapchat’s Innovation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-top-10-non-vimeo-editors-for-user-generated-content/"><u>[Updated] In 2024, Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-collection-must-try-virtual-reality-games-for-google-cardboard/"><u>2024 Approved Prime Collection Must-Try Virtual Reality Games for Google Cardboard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-webpages-entirety-on-screen/"><u>Capture Webpage's Entirety on Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-for-clearing-false-device-error-on-pcs/"><u>Expert Guide for Clearing False Device Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-msvcrt120dll-on-your-computer/"><u>Overcoming Missing Msvcrt120dll on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-gaming-e84-fix-for-steam-windows/"><u>Streamline Your Gaming: E84 Fix for Steam Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-libgdk-win32-20-0dll-not-found-windows-issues/"><u>Troubleshooting and Fixing 'libgdk-win32-2.0-0.dll Not Found' Windows Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-efficiency-mastering-ms-projectenaside-from-what-ive-provided-please-give-me-5-new-book-titles-related-to-ai-in-healthcare/"><u>Unlock Efficiency: Mastering MS Project'enaside From What I've Provided, Please Give Me 5 New Book Titles Related to AI in Healthcare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-non-displaying-storepages-on-win-10/"><u>Unveiling Fixes for Non-Displaying Storepages on Win 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dissecting and Overcoming Windows Audiotrack Error Code 9999
-date: 2024-10-01T00:23:53.366Z
-updated: 2024-10-04T00:35:46.761Z
+date: 2024-10-02T03:22:24.849Z
+updated: 2024-10-09T00:24:59.616Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Close All Communication Apps Before Running Audacity
 
  Error 9999 can arise because of other messaging and video conference apps, such as Skype, Teams, Google Meet, and Zoom, using the microphone. Such apps can run in the background when you’re utilizing Audacity on the taskbar. If you have other communication apps installed that can potentially conflict with Audacity, try closing them like this:
@@ -61,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 6. Then open Audacity and try recording something again.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Microphone Access for Audacity
@@ -76,8 +75,23 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
 
@@ -89,22 +103,15 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
@@ -125,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
 ## 8\. Reinstall Audacity
@@ -133,20 +147,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-programs-and-features-applet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** option there.[Open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and double-click the**audacity-win-3.2.4-x64.exe** file in whatever folder includes it. Then you can go through the setup wizard to reinstall Audacity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Record Audio in Audacity Again
@@ -168,24 +175,15 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[New] 2024 Approved Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-mastery-elevate-your-content-with-smart-tag-techniques/"><u>[New] 2024 Approved YouTube Mastery Elevate Your Content with Smart Tag Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free/"><u>[New] How to View Instagram Stories Anonymously on PC, Android and iPhone [Free]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>[New] In 2024, Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-in-the-classroom-best-practices-and-tips-for-educators/"><u>[New] YouTube in the Classroom Best Practices and Tips for Educators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-image-fusion-merging-photos-into-one-masterpiece-for-2024/"><u>[Updated] Image Fusion Merging Photos Into One Masterpiece for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intuitive-steps-for-photo-integration-in-instagram/"><u>[Updated] Intuitive Steps for Photo Integration in Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-hyper-v-on-windows-11/"><u>Deactivating Hyper-V on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-deescalating-high-cpu-use-in-modern-hosts/"><u>Decoding and Deescalating High CPU Use in Modern Hosts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-modify-internal-and-external-page-backgrounds-in-your-epub-file-with-flipbuilder/"><u>How to Modify Internal and External Page Backgrounds in Your ePub File with FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-start-menu-experience-in-windows-11/"><u>Maximize Your Start Menu Experience in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-v27-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo V27 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1111-store-error-x800704cf/"><u>Overcoming Windows 11/11 Store Error X800704CF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-your-system-for-effortless-file-disposal-in-windows/"><u>Set Your System for Effortless File Disposal in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-typing-potential-hotkey-setup-guide-to-text-snapping-in-win11/"><u>Unleash Typing Potential: Hotkey Setup Guide to Text Snapping in Win11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unlocking-sound-customization-adjusting-loudness-in-videoaudio-archives-for-2024/"><u>Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-next-after-a-non-successful-update-on-windows-discord/"><u>What Next After a Non-Successful Update on Windows Discord?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ancestry-the-surviving-features-from-the-seventh-era/"><u>Windows Ancestry: The Surviving Features From the Seventh Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-access-fixing-past-login-phrase-problem/"><u>Winning Back Access: Fixing Past Login Phrase Problem</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-instagram-presence-optimal-tracking-tools-revealed/"><u>[New] Boost Your Instagram Presence Optimal Tracking Tools Revealed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/deciphering-youtubes-cc-policy-for-video-makers/"><u>Deciphering YouTube's CC Policy for Video Makers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-locate-the-lost-feature-in-windows-11/"><u>Enhance Your Experience: Locate the Lost Feature in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-effortless-extraction-of-twitter-jokes-3-ways/"><u>In 2024, Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-network-router-page-on-windows/"><u>Methods to Revive Network Router Page on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professionals-choice-best-drone-gimbals/"><u>Professional's Choice Best Drone Gimbals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-setup-failure-windows-11-edition/"><u>Resolving GeForce Experience Setup Failure, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-windows-11-interface-with-these-tips/"><u>Revitalize Your Windows 11 Interface with These Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securely-store-and-download-linkedin-videos-heres-the-top-6-list-for-2024/"><u>Securely Store & Download LinkedIn Videos - Here's the Top 6 List for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-digitalize-your-dvds-a-beginners-guide-to-conversion/"><u>Updated In 2024, Digitalize Your DVDs A Beginners Guide to Conversion</u></a></li>
 </ul></div>
 

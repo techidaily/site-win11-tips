@@ -1,7 +1,7 @@
 ---
 title: Essential Windows Shortcuts to Enhance Efficiency
-date: 2024-10-01T18:34:37.040Z
-updated: 2024-10-04T00:28:55.292Z
+date: 2024-10-01T23:50:47.192Z
+updated: 2024-10-08T17:55:21.593Z
 tags:
   - windows10
   - windows11
@@ -52,16 +52,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Handy Windows Shortcuts for Common Actions
@@ -77,29 +71,24 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control Your System Volume With Your Mouse Wheel
@@ -107,19 +96,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
 
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Select Text Easily on Documents
 
@@ -129,26 +105,18 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 2. Hold the **Shift** key down. Then use the **right or left arrow keys** and the text will start getting highlighted and selected.
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions/"><u>[New] 2024 Approved Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfect-mac-video-capturer/"><u>[New] In 2024, Perfect Mac Video Capturer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-silence-issue-fixing-audio-absence-in-obs-for-2024/"><u>[New] Silence Issue Fixing Audio Absence in OBS for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-evaluating-cost-effectiveness-in-youtube-promotions-for-2024/"><u>[Updated] Evaluating Cost Effectiveness in YouTube Promotions for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a15-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A15 4G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-zoom-issues-resolving-code-1132-on-windows-11/"><u>Overcoming Common Zoom Issues: Resolving Code 1132 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-non-responsive-folders-in-winxpxo11/"><u>Solutions for Non-Responsive Folders in WinXP/XO11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/synchronizing-tracks-through-effective-crossfading-for-2024/"><u>Synchronizing Tracks Through Effective Crossfading for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-windows-extender-cpu/"><u>Understanding and Reducing Windows Extender CPU</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-mystery-of-windows-error-messages/"><u>Unlocking the Mystery of Windows Error Messages</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +125,27 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/xcellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[New] Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-kick-start-your-digital-broadcast-today/"><u>[Updated] How to Kick-Start Your Digital Broadcast Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-supercharge-videos-download-premium-effs/"><u>[Updated] In 2024, Supercharge Videos - Download Premium Effs!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>[Updated] In 2024, The Simple Guide Making Your Window's Computer Speak Like a Fish</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>2024 Approved Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-v-purse-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor V Purse Pattern Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007709964-step-by-step-solutions-stop-nioh-2-from-crashing-on-any-device/"><u>Step-by-Step Solutions: Stop Nioh 2 From Crashing on Any Device!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-startup-issues-with-granblue-fantasy-focus-on-relink-launch-problems/"><u>Troubleshooting Startup Issues with Granblue Fantasy - Focus on ReLink Launch Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
+</ul></div>
+

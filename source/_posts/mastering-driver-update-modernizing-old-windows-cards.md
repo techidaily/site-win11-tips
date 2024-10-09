@@ -1,7 +1,7 @@
 ---
 title: "Mastering Driver Update: Modernizing Old Windows Cards"
-date: 2024-09-15T16:15:39.633Z
-updated: 2024-09-22T05:32:23.284Z
+date: 2024-10-05T22:21:05.362Z
+updated: 2024-10-08T22:16:46.521Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![device manager driver details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/device-manager-driver-details.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method is great if you only need to check a handful of drivers, but it's a bit tedious if you want to see all your drivers. In that case, use an alternative method detailed below.
 
 ### 2\. Use DriverView
@@ -54,18 +61,18 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![DriverView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/driverview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DriverView is a simple program, but it has some handy features, such as:
 
 * To adjust the table, select **View** from the toolbar and use options like **Mark Non-Microsoft Drivers** and **Choose Columns** as needed.
 * Export the data via **File > Save Selected Items** or **View > HTML Report** (then save the page).
 * If you require additional information about a driver, select the row and go to **File > Google Search**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use Command Prompt
 
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
  To get the information in a handy text file that you can refer to later, type **driverquery > driver.txt**. The file saves wherever your Command Prompt path is set. See [Microsoft's driverquery page](https://learn.microsoft.com/windows-server/administration/windows-commands/driverquery) for more advanced parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Update Outdated Windows Drivers
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![windows 11 windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can [disable automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) if you want, perhaps if the latest version is causing trouble, but generally you should let Windows Update do its thing.
 
  Windows Update also provides some drivers as optional downloads—in other words, the drivers aren't automatically updated. Generally, you should only install optional driver updates if you have a specific problem. To do that, from the Windows Update page:
@@ -115,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 4. Click **Download and install**.
 
 ![windows 11 view optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-view-optional-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use the Manufacturer's Website
 
@@ -152,5 +159,18 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] In 2024, Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-amateur-to-expert-iphones-audio-recording-journey/"><u>[Updated] From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-25-hashtags-that-will-make-you-a-social-media-star-on-instagram/"><u>[Updated] In 2024, Top 25 Hashtags That Will Make You a Social Media Star on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-10-essentials-in-livestreaming-platform-selection/"><u>2024 Approved Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-microsoft-can-improve-windows-11-widgets/"><u>8 Ways Microsoft Can Improve Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-insufficient-access-block-during-uninstalls/"><u>Bypassing Windows' Insufficient Access Block During Uninstalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-language-shifts-hotkey-techniques-for-multilingual-translation-in-windows-11/"><u>Master Language Shifts: Hotkey Techniques for Multilingual Translation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-switch-off-microsofts-assistant/"><u>Techniques to Switch Off Microsoft's Assistant</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/voice-cloning-in-descript-features-guide-and-alternatives-for-2024/"><u>Voice Cloning in Descript Features, Guide & Alternatives for 2024</u></a></li>
+</ul></div>
 

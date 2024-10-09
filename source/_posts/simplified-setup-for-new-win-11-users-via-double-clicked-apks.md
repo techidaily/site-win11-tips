@@ -1,7 +1,7 @@
 ---
 title: Simplified Setup for New Win 11 Users via Double-Clicked APKs
-date: 2024-09-15T02:25:39.547Z
-updated: 2024-09-22T02:25:06.982Z
+date: 2024-10-04T02:40:48.627Z
+updated: 2024-10-08T21:32:03.430Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
 ![screenshot of wsa quickinstall drag and drop functionality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_drag_and_drop.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Setting up WSA-QuickInstall is easy. Once extracted, you'll have two files and a folder. Keep them all together, but pay attention to**install.exe** , as this will be the executable that we use to actually sideload and install the apps.
 
  To make sure WSA-QuickInstall is working correctly, drag any APK file you have onto install.exe.
@@ -45,9 +58,23 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  That's all good and well, but how do we enable the seamless double-click install functionality?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up the Default Program for APK Files
 
 ![screenshot of changing default program in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_change_default_program.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First, make sure you have an APK file handy to install. Then, follow these steps:
 
@@ -60,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
  It's as easy as that. Now, whenever you double-click on an APK file, Windows will automatically install it for you, hassle-free.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Installing APK Files Easier
@@ -85,5 +112,19 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-analyzing-multi-angle-video-technology-trends-today/"><u>[Updated] Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovating-conference-calls-with-google-meet-backdrop-shuffling/"><u>[Updated] In 2024, Innovating Conference Calls with Google Meet Backdrop Shuffling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ancient-pc-modern-atlasos/"><u>Ancient PC, Modern AtlasOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-wsappx-strategies-to-reduce-disk-space-and-cpu-consumption/"><u>Decoding WSAPPX: Strategies to Reduce Disk Space and CPU Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defend-with-confidence-top-4-password-protectors-for-win-11-users/"><u>Defend With Confidence: Top 4 Password Protectors for Win 11 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/explore-5-premier-mac-cam-recording-software-beyond-bandicam-for-2024/"><u>Explore 5 Premier Mac Cam Recording Software Beyond Bandicam for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-ultradriver-software-ultimate-aux-control/"><u>Free M-Audio UltraDriver Software - Ultimate AUX Control</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-newbie-vlogger-tips-simple-video-concepts/"><u>In 2024, Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-reinstalling-microsofts-mspm/"><u>Master the Art: Reinstalling Microsoft's MSPM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-advanced-strategies-for-eliminating-your-games-crash-errors/"><u>Trouble-Free Gaming: Advanced Strategies for Eliminating Your Games' Crash Errors</u></a></li>
+</ul></div>
 

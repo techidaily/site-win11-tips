@@ -1,7 +1,7 @@
 ---
 title: Enhancing Browsing Speeds with Microsoft Edge, Win10/W11
-date: 2024-09-19T04:02:16.490Z
-updated: 2024-09-22T02:21:42.763Z
+date: 2024-10-07T17:53:04.571Z
+updated: 2024-10-09T03:13:06.676Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,20 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
 3. Launch Microsoft Edge and see if it works okay.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Update Edge
 
  Outdated programs such as Microsoft Edge can lead to a slow user experience. This is because developers introduced new updates to address several bugs and issues. If you don’t update it, the problems present on the app will stay and hamper your usage.
@@ -61,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
  Relaunch Microsoft Edge and check if it works faster.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Change the Tracking Prevention Setting
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 5. ![Edge tracking pervention settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-tracking-protocol-1.jpg)  
  Lastly, check if this changes speeds up Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
 ### 6\. Clear Cache and Cookies
@@ -109,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
  Then, press **See all cookies and site data**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 
@@ -123,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
  Check your browser and see if the issue persists.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Disable Browser Extensions
@@ -143,14 +144,15 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 2. From the Extensions page, manually disable all the extensions you have installed by switching the button off found on the right side of each extension.
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
-4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
 ## 8\. Flush Edge DNS
 
@@ -161,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 ![Flush Edge DNS cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flush-dns-cache-1.jpg)
 
  Restart your browser and check if this solution improved its performance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Repair Microsoft Edge
 
@@ -182,5 +191,24 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-winning-scenarios-prime-video-recording-software-for-windows/"><u>[New] Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-skyrocket-fb-engagement-enhancing-page-rankings/"><u>[Updated] In 2024, Skyrocket FB Engagement Enhancing Page Rankings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-recorders-eye-a-snapshot-of-best-tools/"><u>[Updated] In 2024, The Recorder's Eye A Snapshot of Best Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-hidden-functionalities-of-instagrams-question-marker-for-2024/"><u>[Updated] Unveiling Hidden Functionalities of Instagram’s Question Marker for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-electric-car-charging-stages-a-comparison-of-level-1-to-3/"><u>Demystifying Electric Car Charging Stages: A Comparison of Level 1 to 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-iphones-capabilities-with-advanced-gif-use/"><u>Elevate Your iPhone's Capabilities with Advanced GIF Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-superior-10-audio-enhancement-solutions-your-guide-to-richer-mobile-sound/"><u>Updated In 2024, Superior 10 Audio Enhancement Solutions Your Guide to Richer Mobile Sound</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+</ul></div>
 

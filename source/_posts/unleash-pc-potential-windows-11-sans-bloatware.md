@@ -1,7 +1,7 @@
 ---
 title: "Unleash PC Potential: Windows 11, Sans Bloatware"
-date: 2024-09-19T23:42:12.023Z
-updated: 2024-09-22T03:06:20.078Z
+date: 2024-10-07T20:41:42.025Z
+updated: 2024-10-09T04:19:58.769Z
 tags:
   - windows10
   - windows11
@@ -49,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Installing Tiny11
 
@@ -69,14 +69,22 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 3. Windows Installer will launch. Select the appropriate region, keyboard layout, and time and language format, and click on the**Next** button.  
 ![Select Language and Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-language-and-region.jpg)
 4. Accept the EULA by clicking on the checkbox at the bottom of the page, and then click on**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
@@ -84,32 +92,33 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 3. Click on the**I don’t have internet** option. Then click on**Continue with limited setup** option.  
 ![Installing Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-windows-11.jpg)
 4. Type in your device name and enter a password for the same. Click on the**Next** button and re-enter your password.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After that, select any three security questions, type in their corresponding answers, and click on the**Next** button.
 6. On the Privacy settings for your device page,**uncheck** all the options and click on the**Next** button.
 
 ![Windows 11 by Tiny11 in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-by-tiny11-in-action.jpg)
 
- The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
 
 ## Tiny11: The Good Points
 
  When the system booted to the desktop for the first time, it was difficult to notice any visual difference. But as soon as you press the Start button, you will notice the difference. The start menu is almost blank with only a few basic apps like Notepad, Microsoft Store, Calculator, File Explorer, Photos, and Settings.
 
 ![List of installed apps in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/list-of-installed-apps-in-tiny11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use[a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like[Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
 
@@ -140,5 +149,26 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-zero-to-zoom-expert-launching-successful-webinars/"><u>[New] 2024 Approved From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-complete-handbook-of-gopro-time-lapse-photography-excellence/"><u>[New] 2024 Approved The Complete Handbook of GoPro Time-Lapse Photography Excellence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-youtube-timestamp-addition-for-desktop-and-mobile-devices/"><u>[New] In 2024, Mastering YouTube Timestamp Addition for Desktop & Mobile Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-fusing-melody-with-moments-music-and-voiceovers-in-reels/"><u>2024 Approved Fusing Melody with Moments Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-the-premier-smart-automation-ally-of-arsenal-ladies-fans/"><u>ABBYY: The Premier Smart Automation Ally of Arsenal Ladies Fans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-operators-downloading-deadlock-in-windows/"><u>Break Free From Operator's Downloading Deadlock in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktops-uncluttered-remove-win11s-spotlight-symbol/"><u>Desktops Uncluttered: Remove Win11's Spotlight Symbol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-game-pass-access-restoration-in-win-oses/"><u>Mastering Game Pass Access Restoration in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor X50</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-for-non-functional-windows-alt-codes-49-characters/"><u>Quick Remedies for Non-Functional Windows Alt Codes (49 Characters)</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-non-responsive-services-on-windows-pcs/"><u>Steps to Rectify Non-Responsive Services on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-start-troubles-in-csgo-and-w11/"><u>Tackling Non-Start Troubles in CS:GO & W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformacion-avanzada-avi-a-mp3-sin-costo-el-conversor-en-linea-ideal-para-escuchas-gratuitas-movavi-solutions/"><u>Transformación Avanzada Avi a MP3 Sin Costo: El Conversor en Línea Ideal Para Escuchas Gratuitas - Movavi Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-upgrade-error-xc004f050-code/"><u>Unblocking Windows Upgrade Error Xc004f050 Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
+</ul></div>
 

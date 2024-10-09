@@ -1,7 +1,7 @@
 ---
 title: "Enrich Your Environment: Adding Tasks to Folder Context Menus"
-date: 2024-09-15T21:43:54.465Z
-updated: 2024-09-21T19:53:07.589Z
+date: 2024-10-05T18:33:02.890Z
+updated: 2024-10-09T00:03:52.804Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 4. Type**Copy to folder** inside the text box for the new key.  
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
@@ -73,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
@@ -92,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
 3. Click the**Copy to** checkbox to select that option.  
@@ -99,18 +121,19 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
@@ -129,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-art-of-matchmaking-in-the-youtube-collaboration-arena-for-2024/"><u>[New] The Art of Matchmaking in the YouTube Collaboration Arena for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-building-bonds-youtube-and-brands-in-unity-for-2024/"><u>[Updated] Building Bonds YouTube and Brands in Unity for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dish-to-screen-your-recipe-video-blueprint-for-2024/"><u>[Updated] Dish to Screen Your Recipe Video Blueprint for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-the-realm-of-sponsorships-on-instagram-influencer-edition/"><u>2024 Approved Navigating the Realm of Sponsorships on Instagram Influencer Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/creating-partial-screen-dumps-on-windows-11-a-step-by-step-guide/"><u>Creating Partial Screen Dumps on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-safety-masterful-firewall-configuration/"><u>Enhancing Safety: Masterful Firewall Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-managing-users-in-the-cli/"><u>Expert Tips on Managing Users in the CLI</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-mute-non-stop-fb-video-ad-content-for-2024/"><u>How to Mute Non-Stop FB Video Ad Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-in-windows-11-avoid-these-slips/"><u>Navigating New Horizons in Windows 11: Avoid These Slips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-notes-top-7-windows-tech-choices/"><u>Navigating Notes: Top 7 Windows Tech Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-pausefreeze-in-windows-environment/"><u>Overcoming uTorrent Pause/Freeze in Windows Environment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pixelated-prowess-celebrating-the-best-shooter-classics/"><u>Pixelated Prowess Celebrating the Best Shooter Classics</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-critical-stop-error-blue-screen-with-code-0x00000133-in-windows-10/"><u>Resolving the Critical Stop Error: Blue Screen with Code 0X00000133 in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-your-cortana-experiences-step-by-step-guide/"><u>Saving Your Cortana Experiences: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-solving-windows-errors-top-8-methods/"><u>Swiftly Solving Windows Errors: Top 8 Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-simplified-image-editing-in-windows-photos/"><u>The Art of Simplified Image Editing in Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-customize-windows-1011-icons-with-spacing-tweaks/"><u>Title: Customize Windows 10/11 Icons with Spacing Tweaks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-smart-7-hd-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Smart 7 HD Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-video-rotation-tools-flip-spin-and-rotate-your-videos-online/"><u>Updated Top Video Rotation Tools Flip, Spin, and Rotate Your Videos Online</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Microsoft Store Crash: Overcoming Server Hiccups on Windows 11"
-date: 2024-09-26T18:07:57.612Z
-updated: 2024-10-03T18:18:26.497Z
+date: 2024-10-05T01:13:46.914Z
+updated: 2024-10-08T19:25:32.291Z
 tags:
   - windows10
   - windows11
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  The steps for opening the same troubleshooter in Windows 10 aren’t exactly the because of the Settings app’s different layout. You’ll need to click**Update & Security** \>**Troubleshoot** \>**Additional Troubleshooters** in Windows 10’s Settings app. Click Windows Store Apps to press a**Run the troubleshooter** button that opens that troubleshooting tool.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check the Date & Time Settings on Your PC
 
  Date & time discrepancies on your PC can cause Microsoft Store connectivity issues like the “server stumbled” error to arise. Check the time zone you’ve got set matches up with your PC’s regional configuration. You can verify your PC’s time by selecting to sync its clock. This is how you can check the time configuration within Settings:
@@ -75,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 4. Select**Automatic** if any other option is set on the**Startup** type drop-down menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then click the service’s**Start** option if Windows Update is stopped.
@@ -91,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Microsoft Store Cache
@@ -112,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![The wsreset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Proxy Server Settings
@@ -127,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set Up a Connection to Google's DNS Servers
@@ -160,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![The TLS checkboxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tls-settings.jpg)
 5. Press**Apply** in the Internet Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**OK** to exit Internet Properties.
 
 ## 9\. Reregister the Microsoft Store
@@ -176,6 +150,20 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
  Our article about[reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download and Install Apps From the Microsoft Store Again
 
@@ -196,20 +184,19 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-launchpad-to-success-the-youtube-entrepreneurs-guide-for-2024/"><u>[Updated] Launchpad to Success The YouTube Entrepreneur's Guide for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-tactical-co-creation-youtube-and-brand-joint-efforts/"><u>[Updated] Tactical Co-Creation YouTube and Brand Joint Efforts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-x-audiomaster-personal-computing/"><u>[Updated] X-AudioMaster Personal Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-promotion-essentials/"><u>2024 Approved Metaverse Promotion Essentials</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-leading-platforms-facebook-tweeter-graffiti-tubeyou/"><u>Connect and Engage on Leading Platforms: Facebook, Tweeter, Graffiti, TubeYou</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/delving-into-vidmas-toolkit-for-digital-recording-for-2024/"><u>Delving Into Vidma’s Toolkit for Digital Recording for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-active-directory-printer-fails/"><u>How to Rectify Windows 11 Active Directory Printer Fails</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-boost-your-video-virality-essential-tiktok-lyrics/"><u>In 2024, Boost Your Video Virality Essential TikTok Lyrics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-interaction-connect-winpc-and-galaxy-phones-flow/"><u>Innovating Interaction - Connect WinPC and Galaxy Phones Flow</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-narzo-n53-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme Narzo N53 on Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-windows-view-overcoming-overscan-issues/"><u>Streamline Windows View: Overcoming Overscan Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/successful-execution-of-amd-195-on-your-os/"><u>Successful Execution of AMD 195 on Your OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-changing-your-home-screen-picture-on-pc/"><u>The Art of Changing Your Home Screen Picture on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-shadowy-taskbar-snoop-in-windows-11/"><u>Unveiling the Shadowy Taskbar Snoop in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-mac-capturing-apps-beyond-the-traditional-bandicam/"><u>[New] 2024 Approved Essential Mac Capturing Apps Beyond the Traditional Bandicam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-overwatch-video-preservation-techniques/"><u>[New] In 2024, Mastering Overwatch Video Preservation Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pro-editor-tips-cropping-and-export-your-videos-for-instagram-success/"><u>[Updated] 2024 Approved Pro Editor Tips Cropping & Export Your Videos for Instagram Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-capturing-the-moment-advanced-tips-for-iphone-silhouettes-for-2024/"><u>[Updated] Capturing the Moment Advanced Tips for iPhone Silhouettes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>[Updated] Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-trust-chatgpt-under-openais-current-oversight/"><u>Can We Trust ChatGPT Under OpenAI's Current Oversight?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-iomap64-syscall-failures-on-windows-pcs/"><u>Essential Fixes for IOMap64 Syscall Failures on Windows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-flashlight-failures-a-comprehensive-guide-to-12-remedies/"><u>Fixing iPhone Flashlight Failures: A Comprehensive Guide to 12 Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-window-11-settings-for-clear-prime-video-texts/"><u>Harmonize Window 11 Settings for Clear Prime Video Texts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-microsoft-edges-from-popping-up/"><u>How to Stop Microsoft Edges From Popping Up</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-image-vision-mastering-hdr-in-photoshop/"><u>Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-books-8-effective-studying-tips-on-windows/"><u>Mastering the Books: 8 Effective Studying Tips on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-signature-rejection-on-pcs/"><u>Strategies for Removing Signature Rejection on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shutdown-playbook-avoiding-windows-11-activities/"><u>The Shutdown Playbook: Avoiding Windows 11 Activities</u></a></li>
 </ul></div>
 

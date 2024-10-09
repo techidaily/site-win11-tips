@@ -1,7 +1,7 @@
 ---
 title: Restoring Vintage BOOT Settings on Windows
-date: 2024-09-16T01:13:30.412Z
-updated: 2024-09-22T06:57:23.580Z
+date: 2024-10-08T06:22:54.309Z
+updated: 2024-10-08T19:19:27.236Z
 tags:
   - windows10
   - windows11
@@ -52,9 +52,24 @@ To disable secure boot:
 5. Next, click on**UEFI Firmware Settings.**  
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
@@ -76,16 +91,16 @@ To disable secure boot:
 5. Press**F10** to save the change and exit.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Modern Standby
@@ -95,10 +110,10 @@ To disable secure boot:
  To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
@@ -118,5 +133,20 @@ To disable secure boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-capture-cinematic-motion-smear-in-adobe/"><u>[New] Capture Cinematic Motion Smear in Adobe</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nopriceplaybacks-securely-save-your-games-anytime/"><u>[New] NoPricePlaybacks Securely Save Your Games Anytime</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Defy 2 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v27e-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V27e Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-pova-6-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Pova 6 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/influence-of-seo-on-youtube-video-popularity/"><u>Influence of SEO on YouTube Video Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-scripts-error-resolution-made-easy/"><u>Mastering Windows Scripts: Error Resolution Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-sluggish-windows-apps-for-seamless-web-linkage/"><u>Revitalize Sluggish Windows Apps for Seamless Web Linkage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-missing-device-driver-warning-during-upgrade/"><u>Solutions for Missing Device Driver Warning During Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-efficiency-top-strategies-for-mastering-windows-file-organization/"><u>Streamlined Efficiency: Top Strategies for Mastering Windows File Organization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-try-outlook-update/"><u>Why Windows Users Should Try Outlook Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-setup-made-easy-enable-hyper-v-now/"><u>Win11 Setup Made Easy: Enable Hyper-V Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-pathway-to-stunning-timelapses-using-gopro-hero5-black/"><u>Your Pathway to Stunning Timelapses Using GoPro Hero5 Black</u></a></li>
+</ul></div>
 

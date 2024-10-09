@@ -1,7 +1,7 @@
 ---
 title: Fixing Absent Application Issue on Windows Devices
-date: 2024-09-19T00:32:43.421Z
-updated: 2024-09-21T23:14:49.546Z
+date: 2024-10-03T02:32:58.466Z
+updated: 2024-10-08T18:25:55.145Z
 tags:
   - windows10
   - windows11
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -82,6 +75,14 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 1. Type**"regedit"** in Windows Search and open the**Registry Editor** .  
 ![Open Registry Editor App From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-1.jpg)
 2. Paste the path below into the address bar of Registry Editor.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
@@ -91,23 +92,23 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 5. If the string value is already there, right-click on it and select**Delete** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart your device once after that.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -115,6 +116,13 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 * Restart File Explorer (see[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for tips).
 * If you're opening a folder by searching it in Windows Search or Quick Access, consider opening it directly from File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Apps or Games? Try These Tips
 
@@ -141,5 +149,26 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>[Updated] 2024 Approved Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-live-viewers-choice-obs-or-shadowtoolkit/"><u>2024 Approved Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-affordable-online-passport-photo-services/"><u>2024 Approved The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-explorer-tooltips-with-auto-update-notifications/"><u>Amplifying Explorer Tooltips with Auto-Update Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-robloxs-access-denied-error-403/"><u>How to Eradicate Roblox's Access Denied (Error 403)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-6-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-a60s-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Itel A60s Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/kid-friendly-tablets-rating-guide-what-the-experts-parents-say-on-zdnet/"><u>Kid-Friendly Tablets Rating Guide: What the Experts (Parents) Say on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-presentations-physical-form-essential-strategies-for-prints-in-windows/"><u>Mastering Your Presentations' Physical Form: Essential Strategies for Prints in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-docker-with-wsl-2/"><u>Navigating the Complexities of Docker with WSL 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/phoenix-point-crash-dilemma-heres-how-you-can-get-back-on-track/"><u>Phoenix Point Crash Dilemma? Here's How You Can Get Back on Track</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-methods-to-address-windows-activation-failure-code-0x803f700f/"><u>Precise Methods to Address Windows Activation Failure Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-instant-addition-problems-with-windows-onedrive-a-compreenhensive-guide/"><u>Resolving Instant Addition Problems with Windows OneDrive - A Compreenhensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-successful-installation-in-the-windows-store/"><u>Securing Successful Installation in the Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-printer-linkup/"><u>Streamlining Windows Printer Linkup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-verdict-on-screen-recording-does-obs-surpass-fraps/"><u>The Verdict on Screen Recording Does OBS Surpass Fraps?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-into-macos-style-ui-these-5-tips-to-try/"><u>Transforming Windows Into MacOS Style UI: These 5 Tips to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-pubg-loads-failure-for-in-game-structures/"><u>Troubleshooting PUBG Loads Failure for In-Game Structures</u></a></li>
+</ul></div>
 

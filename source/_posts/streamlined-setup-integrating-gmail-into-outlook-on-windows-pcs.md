@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Setup: Integrating Gmail Into Outlook on Windows PCs"
-date: 2024-09-28T23:32:47.676Z
-updated: 2024-10-03T18:21:43.177Z
+date: 2024-10-07T06:40:43.977Z
+updated: 2024-10-08T16:39:37.146Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Gmail Account to Outlook
@@ -53,27 +53,34 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -107,21 +114,18 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-most-effective-10-sound-recorders-for-spotify-fans/"><u>[New] 2024 Approved The Most Effective 10 Sound Recorders for Spotify Fans</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>[New] In 2024, The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-solo-artists-roadmap-to-auditory-fame/"><u>In 2024, The Solo Artist's Roadmap to Auditory Fame</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-tactics-to-remove-tpm-on-modern-windows/"><u>Innovative Tactics to Remove TPM on Modern Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-update-process-latest-techniques-for-dell-docking-station-drivers-upgrade/"><u>Master the Update Process: Latest Techniques for DELL Docking Station Drivers Upgrade</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography/"><u>Masterful Marketing Tactics 11 Ways to Amplify Your Facebook Videography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-audio-control-slider-problems/"><u>Overcoming Disabled Audio Control Slider Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pioneering-the-path-to-perfect-windows-registry-maintenance/"><u>Pioneering the Path to Perfect Windows Registry Maintenance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-methods-for-disabling-windows-11-security-features/"><u>Quick Methods for Disabling Windows 11 Security Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-and-simplifying-docker-operations-on-windows/"><u>Streamlining and Simplifying Docker Operations on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-undetected-supports-on-fb/"><u>The Art of Undetected Supports on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-portable-windows-preservation-guide-143-chars/"><u>The Portable Windows Preservation Guide (143 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-troubleshooting-windows-mouse-problems/"><u>The Ultimate Guide to Troubleshooting Windows Mouse Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-must-have-software-from-a-windows-to-an-android/"><u>Top 8 Must-Have Software From a Windows to an Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visionary-chip-uninterrupted-editing-on-the-newest-tech-for-2024/"><u>Visionary Chip Uninterrupted Editing on the Newest Tech for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-compre-points-with-perfect-pictures-snap-techniques-for-teams/"><u>[New] Compre Points with Perfect Pictures Snap Techniques for Teams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-20-great-tools-for-live-streaming-and-webcam-recordings/"><u>[Updated] 20 Great Tools for Live Streaming & Webcam Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-desktop-icon-chaos-in-windows/"><u>Avoid Desktop Icon Chaos in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-experience-our-criteria-for-best-free-drivers/"><u>Boost Your Windows Experience: Our Criteria for Best Free Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-downloads-for-toshibas-official-bluetooth-device-driver/"><u>Free Downloads for Toshiba's Official Bluetooth Device Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-god-of-war-high-cpu-usage/"><u>How to Fix God of War High CPU Usage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-60-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo 60 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-machine-prepared-to-run-newest-windows-os/"><u>Is Your Machine Prepared to Run Newest Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/most-effective-social-sites-for-senior-users/"><u>Most Effective Social Sites For Senior Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-ignoring-license-expires-messages-in-win11/"><u>Quick Tips: Ignoring ‘License Expires’ Messages in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-workflow-why-the-latest-windows-outlook-matters/"><u>Revolutionize Your Workflow: Why the Latest Windows' Outlook Matters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-performance-replacing-aged-technology/"><u>Streamlining Windows Performance: Replacing Aged Technology</u></a></li>
 </ul></div>
 

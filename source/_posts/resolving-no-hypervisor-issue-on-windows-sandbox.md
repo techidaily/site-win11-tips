@@ -1,7 +1,7 @@
 ---
 title: Resolving No Hypervisor Issue on Windows Sandbox
-date: 2024-09-17T19:44:13.345Z
-updated: 2024-09-21T20:44:11.396Z
+date: 2024-10-04T02:02:51.702Z
+updated: 2024-10-09T04:42:38.711Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ To check the virtualization status:
 
  Wait for your computer to restart. Open Task Manager to see the Virtualization status in the CPU tab. If it says "Enabled," try to open Windows Sandbox to see if it works without the error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Virtual Machine Platform Features
 
  Windows Sandbox is available as an optional feature that you can install from the Windows Features dialog, and we've covered how to do this in our guide on[how to enable and set up Windows Sandbox in Windows 11](https://www.makeuseof.com/enable-set-up-windows-sandbox-windows-11/) . Similarly, you may need to enable a few additional optional features essential to run the virtualization tool successfully.
@@ -67,10 +74,33 @@ To enable virtualization features:
 2. Type**appwiz.cpl** and click**OK** to open**Control Panel.**  
 ![turn windows features on off windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-featureson-off-windows-11-control-panel.jpg)
 3. In the left pane, click on**Turn Windows features on or off.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn on virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. In the**Windows Features** dialogue, scroll down and locate**Virtual Machine Platform** and**Windows Hypervisor Platform.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select both options and click**OK** .
 6. Windows will start installing the necessary files. So, wait for the process to complete. Once done, click on**Restart Now** to restart your system and apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set Hypervisor to Run at System Startup
 
@@ -95,13 +125,6 @@ To set Hypervisor to launch at system startup:
 
 Once done, restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Set With Your Sandbox Again
 
  While only available on the Pro, Enterprise, and Education editions of the Windows 10 and 11 running systems, Sandbox is an excellent lightweight virtualization solution to test unsafe files and apps on your PC.
@@ -121,5 +144,17 @@ Once done, restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>2024 Approved Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-toms-hardware-guides/"><u>Exploring Computer Components - Tom's Hardware Guides</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-corsair-icue-setup-program-download-now-windows-11-and-10-supported/"><u>Get Your New Corsair iCUE Setup Program – Download Now (Windows 11 & 10 Supported)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-edthemes-in-windows-11/"><u>Implementing EdThemes in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsoft-pc-manager-bar-tools-on-w11/"><u>Navigating Microsoft PC Manager Bar Tools on W11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr/"><u>Professional's Choice Top 10 Camera Gimbals Compared - iPhone, Android, DSLR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-internal-builds-in-windows-11/"><u>Safeguarding Internal Builds in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-turn-off-lurking-apps-in-window-11/"><u>Secrets to Turn Off Lurking Apps in Window 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-meizu-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Meizu Phone</u></a></li>
+</ul></div>
 

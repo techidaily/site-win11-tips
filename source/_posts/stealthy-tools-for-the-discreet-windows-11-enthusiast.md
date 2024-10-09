@@ -1,7 +1,7 @@
 ---
 title: Stealthy Tools for the Discreet Windows 11 Enthusiast
-date: 2024-09-28T23:10:01.546Z
-updated: 2024-10-03T20:26:50.443Z
+date: 2024-10-04T19:09:00.997Z
+updated: 2024-10-09T06:00:09.065Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Click on the **Apply** button.
@@ -86,17 +86,23 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -105,27 +111,6 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-blurred-lines-the-art-of-anonymizing-youtube-content-for-2024/"><u>[New] Blurred Lines The Art of Anonymizing YouTube Content for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-ipad-recording-tools-3-edition/"><u>[New] In 2024, Essential iPad Recording Tools #3 Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-methods-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>[New] Methods to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conquering-the-pitch-black-problem-expert-advice-for-addressing-black-screen-challenges-in-windows-11-systems/"><u>Conquering the Pitch-Black Problem: Expert Advice for Addressing Black Screen Challenges in Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-decades-old-password-in-windows-error/"><u>Deciphering Decades-Old Password in Windows Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/devhome-explained-the-gateway-to-cutting-edge-w11/"><u>DevHome Explained: The Gateway to Cutting-Edge W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-resolving-game-security-threat-notifications-effectively/"><u>Guide to Resolving Game Security Threat Notifications Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-steam-network-error-on-latest-windows-pcs/"><u>How to Mend Steam Network Error on Latest Windows PCs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-winning-windows-sound-engineers/"><u>In 2024, Winning Windows Sound Engineers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-steam-disconnect-issues/"><u>Overcoming Windows Steam Disconnect Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-microsoft-office-activation-failure/"><u>Strategies to Overcome Microsoft Office Activation Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-text-editor-to-a-dark-screenplay/"><u>Transform Your Text Editor to a Dark Screenplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-uac-dynamics-from-an-admins-perspective/"><u>Transforming Windows UAC Dynamics From an Admin's Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-xc0f1103f-in-geforce-experience-win-1011/"><u>Unraveling Error XC0F1103F in GeForce Experience Win 10/11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/vegas-pro-2021-reviewed-a-sports-betting-journey-for-2024/"><u>Vegas Pro 2021 Reviewed – A Sports Betting Journey for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +118,27 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-talent-hunters-unite-top-10-video-roundup/"><u>[New] Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-how-to-shoot-hdr-photos-with-iphone/"><u>[Updated] 2024 Approved How to Shoot HDR Photos with iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>[Updated] 2024 Approved Real-Time Capture Mastery Discover the Top 4 Livestream Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>[Updated] Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-multiplatform-open-source-software-for-cd-tearing-on-pcs-macs-and-linux-systems/"><u>Best Multiplatform Open Source Software for CD Tearing on PCs, Macs, and Linux Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-efficient-bluescreenview-use/"><u>Essential Tips for Efficient BlueScreenView Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-your-preferred-soft-install-tool-on-win-devices/"><u>Finding Your Preferred Soft Install Tool on Win Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-system-failure-error-0xc0000185-a-comprehensive-guide-for-windows-users/"><u>Fixing the System Failure Error (0xC0000185): A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-window-display-mastering-alt-tab-order-in-win1110/"><u>Maximizing Window Display: Mastering Alt-Tab Order in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-dir-not-empty-error-0x80070091/"><u>Overcoming Windows 11 Dir Not Empty Error (0X80070091)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reintroducing-versatility-beyond-win-1110s-s-mode/"><u>Reintroducing Versatility Beyond Win 11/10'S S Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-w11w10s-refusal-to-open-folders-after-double-clicks/"><u>Resolving W11/W10's Refusal to Open Folders After Double-Clicks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-file-explorer-freezes-in-win11-with-these-fixes/"><u>Stop File Explorer Freezes in Win11 With These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-audio-software-performance-on-windows-with-error-9999/"><u>Streamlining Audio Software Performance on Windows with Error 9999</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-the-dead-space-remake-failed-to-start-error/"><u>Troubleshooting Guide: Resolving the 'Dead Space Remake Failed to Start' Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-device-isolation-explained/"><u>Windows Audio Device Isolation Explained</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-studio-editors-pathway-to-professional-filmmaking/"><u>YouTube Studio Editor's Pathway to Professional Filmmaking</u></a></li>
+</ul></div>
+

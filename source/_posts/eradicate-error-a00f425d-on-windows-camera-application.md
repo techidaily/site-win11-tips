@@ -1,7 +1,7 @@
 ---
 title: Eradicate Error A00F425D on Windows Camera Application
-date: 2024-09-29T21:54:30.602Z
-updated: 2024-10-03T18:05:13.380Z
+date: 2024-10-01T16:33:35.471Z
+updated: 2024-10-09T04:01:52.358Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
  Accessing troubleshooters in Windows 10 isn’t quite the same. Select**Update & Security** and Troubleshooter in Windows 10’s Settings app. Then click**Additional troubleshooter** to bring up the window from which you can open the tools. Note that Windows 10 also has an alternative**Speech** troubleshooter that can also resolve microphone issues.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Your PC’s Microphone
 
  Enabling the microphone is a confirmed solution for error 0xA00F425D. Running the Recording Audio troubleshooter might detect and enable a disabled microphone on your PC. However, you can manually enable your PC’s microphone as follows:
@@ -60,12 +53,41 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 2. Then double-click**Audio inputs and outputs** to view all devices associated with that category.  
 ![The Audio inputs and output category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-inputs-and-outputs.jpg)
 3. Right-click your PC’s device and select**Enable device** if it’s disabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Microphone** to access settings for that device.
 6. Turn on the**Microphone access** (or**Allow apps to access your Microphone**) option.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Plug an External Webcam Into an Alternative USB Port
 
@@ -85,28 +107,22 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Erase the current registry location in the address bar, and input the following alternative path there:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Your Webcam’s Driver
 
@@ -116,14 +132,14 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/driver-booster.jpg)
 
- Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
 
 ## 6\. Clean Boot Your PC
 
@@ -132,10 +148,10 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
@@ -145,19 +161,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Deleting your PC’s most recent Windows update would fix the error if that’s the case. You can apply such a potential resolution by manually uninstalling the latest update listed in the Control Panel’s Programs and Features applet. Our guide to[uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) includes step-by-step instructions for how to do that.
 
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record Videos With the Camera App Again
 
@@ -178,18 +181,16 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[New] In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-and-assessing-cloud-cost-variability/"><u>[New] Understanding & Assessing Cloud Cost Variability</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software-for-2024/"><u>[New] Unlock Instagram Videos on PC & Mac with Free Conversion Software for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-50-greatest-virtual-scenes-for-online-meetings/"><u>[Updated] 2024 Approved 50 Greatest Virtual Scenes for Online Meetings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-companion-for-advanced-win10-users/"><u>[Updated] The Essential Companion for Advanced Win10 Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/meme-generator-zombodroid/"><u>MEME Generator Zombodroid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-0x800700e1-in-windows-11/"><u>Steps to Rectify Error 0X800700E1 in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-zte-nubia-flip-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with ZTE Nubia Flip 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-auto-restarts-windows-11-edition/"><u>Stopping Auto Restarts: Windows 11 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/tether-two-titles-a-seamless-guide-to-epicplussteam-linkage/"><u>Tether Two Titles: A Seamless Guide to Epic+Steam Linkage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-next-frontier-unveiling-changes-to-windows-11s-explorer/"><u>The Next Frontier: Unveiling Changes to Windows 11'S Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/traverse-anywhere-advanced-powertoys-mouse-control-tips/"><u>Traverse Anywhere: Advanced PowerToys Mouse Control Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-map-to-entering-the-world-of-win-11-beta-testers/"><u>Your Map to Entering the World of Win 11 Beta Testers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-advice-on-iphone-7-display-recording/"><u>[New] In 2024, Expert Advice on iPhone 7 Display Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-evolution-of-digital-music-composing-magix-music-maker-2024/"><u>[New] The Evolution of Digital Music Composing Magix Music Maker 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-searchingforsmartercameraspost-mycam/"><u>[Updated] SearchingForSmarterCamerasPost-MyCam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-samsung-gear-360-camera-picks/"><u>2024 Approved The Ultimate Samsung Gear 360 Camera Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-differences-between-exe-and-msi-files/"><u>Exploring the Differences Between EXE & MSI Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-no-lags-smoother-youtube-videos-on-windows/"><u>Navigate No Lags: Smoother YouTube Videos on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimal-capture-software-showdown-obs-studio-vs-fraps/"><u>Optimal Capture Software Showdown OBS Studio V/S Fraps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/perfecting-cinematography-using-luts-for-polished-colors-for-2024/"><u>Perfecting Cinematography Using Luts for Polished Colors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-smooth-file-transfers-tips-and-tricks-for-windows-users/"><u>Securing Smooth File Transfers: Tips & Tricks for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-your-worldwide-address-through-cmd-windows/"><u>Unmasking Your Worldwide Address Through CMD, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
 </ul></div>
 

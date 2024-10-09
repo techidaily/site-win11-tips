@@ -1,7 +1,7 @@
 ---
 title: Disabling Error 0X80072EFD on Windows Store Apps
-date: 2024-10-01T23:04:19.233Z
-updated: 2024-10-03T22:10:10.975Z
+date: 2024-10-04T05:21:26.140Z
+updated: 2024-10-09T04:17:33.507Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
  Note that the troubleshooting tools are accessible in the**Update & Security** category in the Settings app if you use Windows 10\. Click the**Troubleshoot** tab and**Additional troubleshooters** option to access them from there. Then press the**Run this troubleshooter** buttons for Windows Store Apps or Internet Connections.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Refresh the SoftwareDistribution Folder
 
  SoftwareDistribution is a folder for temporarily storing Windows update files. Sometimes refreshing that folder by renaming it can resolve error**0x80072EFD** . Rename the SoftwareDistribution folder like this:
@@ -59,28 +66,15 @@ net stop msiserver`
 6. Also, rename a catroot2 directory with this command:  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `ren C:\Windows\System32\catroot2 catroot2.old`  
 ![The rename catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-catroot2-command.jpg)
 7. Restart the turned-off services by inputting and executing the following commands:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `net start wuaserv  
 net start cryptSvcc  
@@ -88,18 +82,18 @@ net start bits
 net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Reset the Microsoft Store's Cache
 
  Microsoft store has a cache in which data accumulates. Resetting or clearing that cache's data is a reliable solution to various Microsoft Store issues. So, we recommend users try doing that when troubleshooting the 0x80072EFD error. You can clear that cache in Settings, as covered in our[guide for resetting apps](https://www.makeuseof.com/windows-reset-app/) in Windows 11 and Windows 10.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
 
@@ -110,22 +104,17 @@ net start msiserver`
 3. Select**Connections** \>**LAN settings** to reach a**Use a proxy server** setting.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-tab.jpg)
 4. Uncheck the checkbox for**Use a proxy server** if it's selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Automatically detect settings** option to select it.  
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
 6. Select the Local Area Network window's**OK** option.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Double-Check the Time Settings in Windows
 
@@ -154,25 +143,25 @@ net start msiserver`
 5. Click**Apply** to set the protocol options.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**OK** to exit the Internet Options window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reregister Microsoft Store
@@ -187,14 +176,14 @@ net start msiserver`
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
 5. Wait until you're sure the command has finished.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then exit PowerShell, and select the**Restart** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
 
@@ -221,18 +210,20 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-rise-and-shine-on-these-overlooked-meme-platforms/"><u>[New] In 2024, Rise and Shine on These Overlooked Meme Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-rapidly-eliminating-youtube-feedback-for-2024/"><u>[New] The Ultimate Guide to Rapidly Eliminating YouTube Feedback for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-effective-techniques-for-capturing-windows-8-display/"><u>2024 Approved Effective Techniques for Capturing Windows 8 Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-file-renaming-challenges-with-powertoys/"><u>Conquer File Renaming Challenges With PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-terminals-magic-five-playful-powers/"><u>Discover the Terminal's Magic: Five Playful Powers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-browsing-speeds-with-microsoft-edge-win10w11/"><u>Enhancing Browsing Speeds with Microsoft Edge, Win10/W11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-commercial-ventures-enhanced-by-virtual-engineering/"><u>In 2024, Commercial Ventures Enhanced by Virtual Engineering</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-approaches-to-connecting-via-windows-11-rdc/"><u>Innovative Approaches to Connecting via Windows 11 RDC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-eliminate-spontaneous-key-press-responses/"><u>Methods to Eliminate Spontaneous Key Press Responses</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-city-skylines-2-stuck-at-launch-screen/"><u>Resolving Issues with City Skylines 2: Stuck at Launch Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sony-blu-ray-player-s6700-new-insights/"><u>Sony Blu-Ray Player S6700 New Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-chrome-file-handling-on-your-pc-windows-style/"><u>Streamline Chrome File Handling on Your PC, Windows Style</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-embracing-room-light-outdoor-integration-tips-for-2024/"><u>[New] Embracing Room Light Outdoor Integration Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>[Updated] 2024 Approved Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema-for-2024/"><u>[Updated] Hotspots for Revolutionary VR Cinema for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-comparative-analysis-of-top-8-free-online-srt-translation-services/"><u>2024 Approved A Comparative Analysis of Top 8 Free Online SRT Translation Services</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>2024 Approved Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-power-of-montage-in-digital-media/"><u>2024 Approved Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-event-viewer-breakdowns/"><u>Addressing Windows Event Viewer Breakdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-global-keyboard-downloading-windows-fonts/"><u>Crafting a Global Keyboard: Downloading Windows Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-method-integrating-airpods-with-windows/"><u>Efficient Method: Integrating AirPods with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-flickering-screens-in-windows-11/"><u>How to Mend Flickering Screens in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smoothing-out-bluetooth-on-lenovo-with-w11/"><u>Smoothing Out Bluetooth on Lenovo with W11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-uninterruptible-power-supply-for-pc-enthusiasts-an-in-depth-review-of-the-apc-model/"><u>The Best Uninterruptible Power Supply for PC Enthusiasts: An In-Depth Review of the APC Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10win11-troubleshooting-hardware-recognition-issues/"><u>Win10/Win11: Troubleshooting Hardware Recognition Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-and-artificial-intelligence-generating-vibrant-ai-graphics-paint-cocreator/"><u>Windows 11 & Artificial Intelligence: Generating Vibrant AI Graphics (Paint Cocreator)</u></a></li>
 </ul></div>
 

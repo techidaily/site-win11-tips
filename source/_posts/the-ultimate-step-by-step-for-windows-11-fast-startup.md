@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Step-by-Step for Windows 11 Fast Startup
-date: 2024-09-28T18:25:52.529Z
-updated: 2024-10-04T01:45:38.253Z
+date: 2024-10-04T07:26:07.445Z
+updated: 2024-10-09T01:39:24.792Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Often, a major Windows feature update may overwrite the power settings and disable Hibernate, thus disabling Fast Startup. Or you may experience unusual boot behavior even when you think Fast Startup is on. Before attempting to troubleshoot your computer, check if Fast Startup is on or off.
 
  You can use Command Prompt to check the Fast Startup status:
@@ -66,24 +73,24 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
 5. Under **Shutdown settings**, check if **Hibernate** is available. If available, select **Hibernate** and click **Save changes** to show **Hibernate** in the Power menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable Hibernation in Windows 11
 
 ![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fast Startup is only available on systems compatible with the Hibernate feature available on almost all modern computers. However, this option is often disabled by default on lower-end systems.
@@ -97,22 +104,15 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  Now that you have enabled the hibernate feature, below are the various ways to enable and disable Fast Startup on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Turn On or Off Fast Startup in the Control Panel
 
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
@@ -125,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 6. Under the **Shutdown settings** section, check the **Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the **Turn on fast startup option** to disable Fast Startup.
 8. Click **Save changes** to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using the Registry Editor
 
@@ -156,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 ![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t want to work with the Registry Editor, you can create a REG file and run it to achieve the same. Here’s how to do it.
 
 1. Press the **Win** key, search for the **Notepad** app and open it.
@@ -179,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 6. Click on **Save as** type drop-down and select **All Files.**
 7. Next, click **Save**.
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
@@ -203,6 +196,13 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Since fast startup depends on the Hibernate feature, you can disable Hibernate to turn off Fast start. However, this will also turn off Hibernate in Power options, so tread carefully.
 
 1. Press **Win + R** to open **Run**.
@@ -219,27 +219,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-exploring-imovie-trimming-the-crop-conundrum-for-2024/"><u>[New] Exploring iMovie Trimming The Crop Conundrum for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-macos-manual-for-mixer-live-streaming/"><u>[New] The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[New] Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4wmv-windows-10mac/"><u>無損失MP4からWMVへの変換手順 - Windows 10とMacユーザーに最適！</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-complex-policies-gpresult-techniques-explored/"><u>Conquering Complex Policies: GPResult Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-educational-style-windows-11/"><u>Customizing Educational Style Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-peak-performance-with-updated-realtek-dell/"><u>Ensuring Peak Performance with Updated Realtek Dell</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-capture-picture-perfection-without-paying-for-2024/"><u>How To Capture Picture Perfection Without Paying for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-7-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 7 Plus In Easy Steps | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/linux-alone-ditching-wsl/"><u>Linux Alone: Ditching WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-adapting-linux-subsystem-to-windows-11-upgrades/"><u>Overcoming Challenges: Adapting Linux Subsystem to Windows 11 Upgrades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-the-source-win-friendly-free-software-picks/"><u>Secure the Source: Win-Friendly Free Software Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-picturecapture-error-in-11s-camera-app/"><u>Steps to Resolve PictureCapture Error in 11'S Camera App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-solutions-for-inactive-batch-scripts-on-windows/"><u>Tactical Solutions for Inactive Batch Scripts on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-character-maps-unresponsiveness-in-windows-os/"><u>Troubleshooting Character Maps Unresponsiveness in Windows OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-screenplay-treasures-for-each-movie-division/"><u>Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -247,3 +226,21 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/11-tips-to-help-you-fix-the-windows-10-blue-screen-error/"><u>11 Tips to Help You Fix the Windows 10 Blue Screen Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-android-powered-webcams-in-windows-11-environments/"><u>A Guide to Android-Powered Webcams in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aesthetic-arcade-adventures-old-classics-in-dosbox-x/"><u>Aesthetic Arcade Adventures: Old Classics in DOSBox-X</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apple-maps-integration-guide-for-windows-devices/"><u>Apple Maps Integration Guide for Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-unexpected-shutdowns-in-windows-11-pro/"><u>Avoid Unexpected Shutdowns in Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-pc-safety-change-your-windows-11-password/"><u>Boost PC Safety: Change Your Windows 11 Password</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-prominently-display-messages-on-discord/"><u>In 2024, How To Prominently Display Messages on Discord</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/master-earning-plan-top-5-highest-paying-ig-posts-for-2024/"><u>Master Earning Plan Top 5 Highest Paying IG Posts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-issues-ultimate-guide-to-correcting-cyberpunk-2077s-distorted-sounds/"><u>Resolving Audio Issues: Ultimate Guide to Correcting Cyberpunk 2077'S Distorted Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-audio-restoration-techniques-for-an-acer-device/"><u>Step-by-Step Audio Restoration Techniques for an Acer Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-server-connection-failures-for-gamers/"><u>Troubleshooting Destiny 2 Server Connection Failures for Gamers</u></a></li>
+</ul></div>
+

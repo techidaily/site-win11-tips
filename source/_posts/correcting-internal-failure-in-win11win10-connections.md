@@ -1,7 +1,7 @@
 ---
 title: Correcting Internal Failure in Win11/Win10 Connections
-date: 2024-09-26T23:38:38.486Z
-updated: 2024-10-03T17:44:53.051Z
+date: 2024-10-04T06:38:04.834Z
+updated: 2024-10-09T07:59:32.275Z
 tags:
   - windows10
   - windows11
@@ -57,21 +57,14 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 ![The Remote Desktop Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-services-service.jpg)
 6. Select**Apply** to set the new service options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
@@ -86,20 +79,13 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 4. Then select the**Reconnect if the connection is dropped** checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press the**Connect** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set an Automatic DNS Server
 
@@ -110,15 +96,23 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 3. Right-click the internet connection to select its**Properties** context menu option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
 4. Select**Internet Protocol Version 4** and click**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select**OK** to confirm the new DNS and IP address settings.
@@ -140,16 +134,10 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Turn Off UDP on the Client via Group Policy
@@ -174,6 +162,14 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 3. Click**Access work or school** to view connected domain accounts.  
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 4. Select**Disconnect** for a domain account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Press your Start menu’s**Restart** button.
 6. Then try connecting to the remote computer with RDC again.
 
@@ -187,19 +183,19 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 3. Select your VPN’s**Disconnect** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Re-establish Remote PC Access on Windows
@@ -221,20 +217,18 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion-for-2024/"><u>[New] Content Delivery Comparison Vimeo vs YouTube vs Dailymotion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-terror-in-towns-selecting-the-best-8-zombie-gaming-titles-for-2024/"><u>[New] Terror in Towns Selecting the Best 8 Zombie Gaming Titles for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-effective-ways-to-watch-multiple-youtube-videos-at-one-time/"><u>[Updated] 2024 Approved Effective Ways to Watch Multiple YouTube Videos at One Time</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unleashing-the-power-of-free-copyright-free-image-repositories-for-2024/"><u>[Updated] Unleashing the Power of Free, Copyright-Free Image Repositories for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-camera-elevation-best-tripods-for-smartphone-shots/"><u>2024 Approved Camera Elevation Best Tripods for Smartphone Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-inadequate-usb-support-on-desktops/"><u>Addressing Inadequate USB Support on Desktops</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/defeating-life-is-strange-true-colors-crashing-problems-expert-advice/"><u>Defeating Life Is Strange: True Colors Crashing Problems – Expert Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tricks-to-jumpstart-a-nonfunctional-terminal/"><u>Essential Tricks to Jumpstart a Nonfunctional Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-for-failed-security-codes-in-epic-games-launcher-on-windows-pcs/"><u>Fixes for Failed Security Codes in Epic Games Launcher on Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a78-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A78 5G Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-terminal-and-powershell-identifying-what-sets-them-aside/"><u>Windows Terminal and PowerShell: Identifying What Sets Them Aside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-remote-desktop-tricks-without-passwords-on-windows-11/"><u>Breaking Barriers: Remote Desktop Tricks without Passwords on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-through-windows-11s-pin-blockade/"><u>Cut Through Windows 11'S PIN Blockade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-smart-adjustments-color-control-in-win11-apps/"><u>Enabling Smart Adjustments: Color Control in Win11 Apps</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-conversion-transform-your-wma-files-into-high-quality-flac-format-with-ease-movavi/"><u>Free Online Conversion: Transform Your WMA Files Into High-Quality FLAC Format with Ease - Movavi</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-m34-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy M34 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-why-the-nvidia-shield-tv-pro-is-a-must-have-for-serious-gaming-fans/"><u>In Depth Review: Why the Nvidia Shield TV Pro Is a Must-Have for Serious Gaming Fans</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-apex-legends-cheating-issues-the-simple-fix-youve-been-waiting-for/"><u>Resolving Apex Legends Cheating Issues: The Simple Fix You've Been Waiting For!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-pathway-for-purchasing-adobe-from-microsoft/"><u>Seamless Pathway for Purchasing Adobe From Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-steam-downloads-stopping-unexpected-declines/"><u>Speed up Steam Downloads: Stopping Unexpected Declines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-cheat-sheet-for-ms-project-keys/"><u>The Ultimate Cheat Sheet for MS Project Keys</u></a></li>
 </ul></div>
 

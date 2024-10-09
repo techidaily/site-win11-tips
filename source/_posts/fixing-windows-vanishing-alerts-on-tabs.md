@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows' Vanishing Alerts on Tabs
-date: 2024-09-28T21:11:56.314Z
-updated: 2024-10-03T17:31:22.619Z
+date: 2024-10-05T00:23:26.218Z
+updated: 2024-10-09T00:58:23.029Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
  Following this, apps should display notification badges on the taskbar.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure App Notifications Are Enabled
 
  Another reason why badges may not appear on taskbar apps is if you have turned off notifications on Windows. If you are unsure, use these steps to check if notifications are enabled on your computer.
@@ -49,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -66,14 +79,14 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
- Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 ## 4\. Restart the Windows Explorer Process
 
@@ -84,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
@@ -99,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 3. Type the name of the app in the search box.
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
@@ -154,17 +160,18 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-download-and-audit-voice-recordings/"><u>[New] In 2024, Download & Audit Voice Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-learning-luminaries-top-ed-streams-online/"><u>[New] Learning Luminaries Top Ed Streams Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-methods-for-amending-silent-obs-recordings-for-2024/"><u>[New] Methods for Amending Silent OBS Recordings for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-using-premiere-for-video-upload/"><u>[New] Step-by-Step Using Premiere for Video Upload</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>[New] The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-resolving-youtube-short-issues/"><u>[Updated] In 2024, Cutting-Edge Techniques for Resolving YouTube Short Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-windows-os-eliminating-error-code-0x800704b3/"><u>Conquering Windows OS: Eliminating Error Code 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-into-knowing-your-cpus-gen-on-windows-platform/"><u>Ease Into Knowing Your CPU’s Gen on Windows Platform</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enhancing-your-lexicon-mondlys-revolutionized-phrases/"><u>Enhancing Your Lexicon: Mondly's Revolutionized Phrases</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-13c-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi 13C Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trimming-costs-smart-purchases-of-windows-11-codes/"><u>Trimming Costs: Smart Purchases of Windows 11 Codes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-record-secure-game-replays-with-intelligence/"><u>Winning the Record: Secure Game Replays with Intelligence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>[New] 2024 Approved Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-motion-setting-up-a-timelapse-on-an-ipad-for-2024/"><u>[New] Capturing Motion Setting up a Timelapse on an iPad for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-best-practices-for-securely-pushing-ios-photos-to-snapchat/"><u>[New] In 2024, Best Practices for Securely Pushing iOS Photos to Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overcome-dimness-with-easy-iphone-editing/"><u>[New] Overcome Dimness with Easy iPhone Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premium-cameras-for-360-film-enthusiasts/"><u>[New] Premium Cameras for 360° Film Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-browser-copy-paste-woes-in-windows/"><u>Essential Fixes for Browser Copy-Paste Woes in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-ios-up-to-date-overcome-update-problems-with-these-9-handy-fixes-for-iphones-and-ipads/"><u>Get Your iOS Up-to-Date: Overcome Update Problems With These 9 Handy Fixes For iPhones and iPads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-windows-open-eliminate-automatic-lock/"><u>Keep Windows Open: Eliminate Automatic Lock</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-vn-video-editor-pro-apk-a-game-changer-for-mobile-video-editing/"><u>New In 2024, VN Video Editor Pro Apk A Game-Changer for Mobile Video Editing?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-screen-unresponsive-error-on-windows-11/"><u>Overcoming 'Screen Unresponsive' Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-print-colored-images/"><u>Unable to Print Colored Images</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year-for-2024/"><u>Updated Best of the Best Top 5 Video Editing Apps for iPhone This Year for 2024</u></a></li>
 </ul></div>
 

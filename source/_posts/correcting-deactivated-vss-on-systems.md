@@ -1,7 +1,7 @@
 ---
 title: Correcting Deactivated VSS on Systems
-date: 2024-09-20T18:18:54.961Z
-updated: 2024-09-21T22:22:09.061Z
+date: 2024-10-08T06:31:42.839Z
+updated: 2024-10-09T00:13:11.791Z
 tags:
   - windows10
   - windows11
@@ -46,18 +46,25 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Check Disk Utility
 
  Drive issues can cause Windows system backup VSS errors to occur, with codes like 0x807800A1 or 0x80042315\. In this case, running the Check Disk utility to scan for and address hard drive issues, such as bad sectors, is a potential fix for the Volume Shadow Copy Service not working. Check out this [guide to running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for further details about how you can apply this potential resolution.
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Antivirus Shields
 
@@ -65,26 +72,13 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
@@ -94,6 +88,19 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to [disabling Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions for turning off that security component.
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
@@ -117,5 +124,21 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigate-the-quickest-growing-yt-havens-for-mental-brightness/"><u>[New] 2024 Approved Navigate the Quickest-Growing YT Havens for Mental Brightness</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-storytelling-success-planning-a-dynamic-marketing-strategy/"><u>[Updated] 2024 Approved Instagram Storytelling Success Planning a Dynamic Marketing Strategy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-freedom-in-sight-comparing-free-screen-capture-tools-for-2024/"><u>[Updated] Freedom in Sight Comparing Free Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-practices-recording-on-ios-devices/"><u>[Updated] In 2024, Best Practices Recording on iOS Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>[Updated] In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[Updated] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-recmasters-potential-in-screen-capture/"><u>[Updated] Unlocking Recmaster's Potential in Screen Capture</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-netgear-nighthawk-rax80-experience-the-power-of-wi-fi-6/"><u>Comprehensive Analysis of Netgear Nighthawk RAX80: Experience the Power of Wi-Fi 6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-secure-text-transfer-operation-steps-in-edges-shielded-environment-win11-version/"><u>Enabling Secure Text Transfer: Operation Steps in Edge's Shielded Environment, Win11 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-shortcuts-for-microsoft-store-uwp/"><u>Mastering Windows Shortcuts for Microsoft Store UWP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-microsoft-store-error-0x80073cf3/"><u>Strategies to Address Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-bose-speakers-when-they-stop-functioning/"><u>Troubleshooting Tips: Repairing Your Bose Speakers When They Stop Functioning</u></a></li>
+</ul></div>
 

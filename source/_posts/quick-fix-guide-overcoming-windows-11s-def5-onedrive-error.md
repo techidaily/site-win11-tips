@@ -1,7 +1,7 @@
 ---
 title: "Quick-Fix Guide: Overcoming Windows 11'S DEF5 Onedrive Error"
-date: 2024-09-17T04:19:17.964Z
-updated: 2024-09-21T19:12:07.881Z
+date: 2024-10-04T03:04:35.428Z
+updated: 2024-10-08T16:20:23.320Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  After that, relaunch the OneDrive app and check if you can access your files on the network. You can also request your ISP to remove the block on your connection to access the OneDrive servers seamlessly in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clear OneDrive Logs
 
  You can try clearing OneDrive telemetry log files in the app data folder. Here's how to do it:
@@ -85,10 +78,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 7. Launch OneDrive and then check if it encounters the same error code.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reset OneDrive
@@ -103,16 +96,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 4. Close the app after you see the "Reset completed" message. Restart your system.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive Using Winget
@@ -127,10 +114,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 ![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Type**cls** to clear the command prompt window.
@@ -145,9 +132,23 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make OneDrive Functional Again
 
@@ -166,5 +167,21 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-make-every-picture-pop-with-these-10-online-photo-fixers/"><u>[New] Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mobile-magic-instagram-covers-iphone-plus-android/"><u>[New] Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques/"><u>[Updated] From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-file-access-failures-in-microsoft-office-outlook/"><u>Correcting File Access Failures in Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/introduction-to-interactive-graphic-design/"><u>Introduction to Interactive Graphic Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-platform-color-consistency/"><u>Mastering Cross-Platform Color Consistency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-flawed-icons-and-menu-items-on-win-1011/"><u>Mastery Over Flawed Icons and Menu Items on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-reno-11-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Reno 11 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-guide-leading-4k-uhd-blu-ray-devices-for-2024/"><u>Ultimate Guide Leading 4K UHD Blu-Ray Devices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals-for-2024/"><u>Updated Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals for 2024</u></a></li>
+</ul></div>
 

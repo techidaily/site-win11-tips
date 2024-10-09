@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Windows MBR Crashes: A Guide"
-date: 2024-09-27T19:38:42.491Z
-updated: 2024-10-03T21:33:50.019Z
+date: 2024-10-06T05:49:54.338Z
+updated: 2024-10-08T17:12:30.026Z
 tags:
   - windows10
   - windows11
@@ -43,22 +43,16 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  Lastly, by letting you know what the root cause of the BSoD error is, BSoD memory dumps allow you to take the necessary precautions and make the required changes to prevent BSoD errors from happening again.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Different Types of BSoD Memory Dumps
 
 ![Types of Kernel-Mode Memory Dumps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/types-of-memory-dumps.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are several kinds of BSoD memory dumps, depending on what version of Microsoft Windows you're running:
 
@@ -74,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  One disadvantage of Complete Memory Dumps is that all subsequent Complete Memory Dumps will overwrite the previous ones. This feature was most likely implemented to help prevent filling your computer's memory with too many dump files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Kernel Memory Dump
 
  Unlike Complete Memory Dumps, Kernel Memory Dumps contain all the memory used by the kernel during the time of the crash. Like with the previous type of memory dump, the file size is directly correlated with the system's physical memory. However, it's usually just one-third of the size.
@@ -87,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
  Like with the previous dump file, whenever new Kernel Memory Dumps are generated, the previous ones will be overwritten.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatic Memory Dump
@@ -119,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  In the event of a new Small Memory Dump being generated, the previous file will not be overwritten. Instead, each Small Memory Dump will be given a different name that will make it easier to distinguish from one another.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Active Memory Dump
 
  Very similar to Complete Memory Dumps, Active Memory Dumps are much smaller since they don't refer to pages that may not be the cause of the BSoD error.
@@ -129,16 +143,16 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 `%SystemRoot%\Memory.dmp`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Choosing the Right Memory Dump for You
 
 ![Lightbulb Idea Making a Choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/making-a-choice.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There is no one-size-fits-all type of kernel-mode memory dump, as each has its own advantages and disadvantages. Basically, it's all about balancing out file size versus the usefulness of the information on that file.
 
@@ -164,23 +178,9 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ![WinDbg Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windbg-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  WinDbg is a debugging tool developed by Microsoft and designed for the Microsoft Windows operating system. Admittedly, [WinDbg can help troubleshoot many Windows issues](https://www.makeuseof.com/troubleshoot-common-windows-10-issues-windbg/), but most users will generally analyze memory dump files with it.
 
  While it can seem overwhelming at first, with a bit of time and patience, you too can [get started with WinDbg](http://www.makeuseof.com/windbg-windows-10-guide/) and use it to solve most of your computer's issues.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### BlueScreenView
 
@@ -190,16 +190,16 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  While it doesn't provide users with as much in-depth information as WinDbg, it does present the information in a much more simplistic and efficient manner.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### WhoCrashed
 
 ![WhoCrashed Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/whocrashed-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If user-friendliness is what you're looking for, then you can't get any simpler than WhoCrashed. While the interface may look dated, the information that this tool provides is more than enough to help you find the cause of BSoD errors.
 
@@ -217,25 +217,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-social-media-game-producing-powerful-fb-reels/"><u>[New] Elevate Your Social Media Game Producing Powerful FB Reels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-film-creation-guide-and-other-options/"><u>[Updated] YouTube Film Creation Guide & Other Options</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-9-signs-for-a-full-pc-reboot/"><u>Identifying 9 Signs for a Full PC Reboot</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>In 2024, Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-peak-performers-in-the-world-of-web-videos/"><u>In 2024, Peak Performers in the World of Web Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlined-video-logitechs-background-editing-guide/"><u>In 2024, Streamlined Video - Logitech's Background Editing Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/price-vs-design-the-motorola-ones-attempt-to-emulate-the-iphone-experience-affordably/"><u>Price Vs. Design: The Motorola One's Attempt to Emulate the iPhone Experience Affordably</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/right-click-menu-evolution-integrating-program-helpers/"><u>Right-Click Menu Evolution: Integrating Program Helpers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sleek-software-sabotaging-windows-11-performance-secretly/"><u>Sleek Software Sabotaging Windows 11 Performance Secretly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedy-for-windows-zoom-crash-error-1132/"><u>Swift Remedy for Windows Zoom Crash - Error 1132</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-free-avi-merger-tools-to-combine-avi-videos-effortlessly/"><u>Updated 10 Free AVI Merger Tools to Combine AVI Videos Effortlessly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-cost-video-trimming-10-best-online-editors-reviewed/"><u>Updated In 2024, No-Cost Video Trimming 10 Best Online Editors Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wizardry-managing-peak-and-low-cpu-states/"><u>Windows Wizardry: Managing Peak and Low CPU States</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -243,3 +224,25 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionizing-video-quality-on-tiktok/"><u>[Updated] 2024 Approved Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-action-camera-bargains-selecting-top-6-for-under-100-costs/"><u>[Updated] Action Camera Bargains Selecting Top 6 for Under $100 Costs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-become-a-streaming-sensation-on-twitter-platform/"><u>[Updated] Become a Streaming Sensation on Twitter Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-vivid-images-ps-hue-harmony-tips/"><u>[Updated] Crafting Vivid Images PS Hue Harmony Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unpacking-the-best-youtube-music-reactions-2023-for-2024/"><u>[Updated] Unpacking the Best YouTube Music Reactions, 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>2024 Approved The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956411561-canon-imageclass-mf4800-obtain-the-latest-printer-drivers-here/"><u>Canon ImageClass MF4800 - Obtain the Latest Printer Drivers Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-your-phones-dialer-with-ease-windows-11/"><u>Engage Your Phone's Dialer with Ease, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-interaction-integrating-watch-with-macos/"><u>In 2024, Innovative Interaction Integrating Watch with MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/never-again-struggle-with-file-explorer-on-windows-11/"><u>Never Again Struggle with File Explorer on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-failed-remotes-a-step-by-step-guide-for-windows-users/"><u>Resetting Failed Remotes: A Step-By Step Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-screens-skip-pin-in-windows-11-projections/"><u>Unlocking Screens: Skip PIN in Windows 11 Projections</u></a></li>
+</ul></div>
+

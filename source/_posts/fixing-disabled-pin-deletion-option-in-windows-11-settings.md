@@ -1,7 +1,7 @@
 ---
 title: Fixing Disabled PIN Deletion Option in Windows 11 Settings
-date: 2024-09-19T21:56:44.163Z
-updated: 2024-09-21T22:03:21.353Z
+date: 2024-10-06T18:32:19.190Z
+updated: 2024-10-09T07:42:27.252Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 5. Next, toggle the switch for the option **For improved security, only allow Windows Hello sign-in for Microsoft account on this device (Recommended)** and set it to**Off** .
 6. With the option disabled, you can now remove PIN for Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
 
  Windows 11 lets you change your PIN using the**I forgot my PIN** option. However, you can use the feature to remove your PIN as well. To do this, you need to use your Microsoft account details to verify the user.
@@ -49,9 +56,25 @@ To remove PIN using forgot my PIN:
 3. Expand the**PIN (Windows Hello)** section.  
 ![windows 11 i forgot my pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-i-forgot-my-pin.jpg)
 4. Click on**I forgot my PIN** next **to Related links.**
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Continue** when the confirmation dialog appears.  
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
 6. Next, enter your Microsoft account details to sign in.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
@@ -78,13 +101,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
@@ -99,16 +115,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -128,5 +138,23 @@ That's it! You have successfully removed the Windows Hello PIN.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[Updated] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-miniature-asian-houses-innovative-designs-for-mcers/"><u>[Updated] Miniature Asian Houses Innovative Designs for MCers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>2024 Approved ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-straightforward-approach-to-discovering-ram-in-windows/"><u>A Straightforward Approach to Discovering RAM in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bigger-is-not-better-limited-minipc-zest/"><u>Bigger Is Not Better - Limited MiniPC Zest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-boot-efficiency-with-windows-11-programs/"><u>Boosting Boot Efficiency with Windows 11 Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-claude-and-chatgpt-identifying-the-most-effective-ai-for-routine-activities/"><u>Choosing Between Claude and ChatGPT: Identifying the Most Effective AI for Routine Activities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compute-discerning-window-systems-origins/"><u>Compute: Discerning Window Systems' Origins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-disable-windows-10-lock-screen-easily/"><u>How to Disable Windows 10 Lock Screen, Easily!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-no-more-distractions-expert-guide-to-removing-youtube-ads/"><u>In 2024, No More Distractions - Expert Guide to Removing YouTube Ads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-spark-20-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Spark 20 Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-restrictions-and-unlocking-full-ram-potential/"><u>Overcoming Restrictions and Unlocking Full RAM Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microphone-issues-live-recording-fixes-in-obs-w11/"><u>Troubleshooting Microphone Issues: Live Recording Fixes in OBS, W11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ering-basics-of-asmr-audio-experiences-for-2024/"><u>Uncovering Basics of ASMR Audio Experiences for 2024</u></a></li>
+</ul></div>
 

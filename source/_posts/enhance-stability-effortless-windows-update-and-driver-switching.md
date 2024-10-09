@@ -1,7 +1,7 @@
 ---
 title: "Enhance Stability: Effortless Windows Update & Driver Switching"
-date: 2024-09-26T20:22:51.787Z
-updated: 2024-10-03T16:06:22.174Z
+date: 2024-10-04T23:24:52.727Z
+updated: 2024-10-08T22:58:17.405Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ![amd radeon display adapter driver roll back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-display-adapter-driver-roll-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  An easy way to fix Windows replacing your AMD graphics error is to roll back the AMD graphics driver. A driver rollback removes the current driver and reinstalls the previous version saved on your computer. Fortunately, you can[roll back device drivers using the Windows Device Manager](http://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  In Device Manager, look for and expand the**Display Adapters** section. Here, select the**AMD Radeon (TM) graphics** device and perform a driver rollback. Once done, restart your computer and check for any improvements. If the**Roll Back Driver** option is greyed out, you can't perform a rollback for the selected device.
@@ -60,16 +67,17 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 2. Next, double-click to run the**Setup.exe** file.  
 ![run amd setup exe repair graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-amd-setup-exe-repair-graphics-driver.jpg)
 3. In the**AMD Radeon Software Installer** dialog, select the driver version to install.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Install** and wait for the driver to install.
 
  If you encounter an AMD error 195, temporarily[disable Windows Defender Firewall](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and**Real-Time Threat Protection** and try again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall the AMDSoftware Graphics Driver
 
@@ -85,13 +93,6 @@ To uninstall the AMD graphics driver:
 ![unisntall amd graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unisntall-adm-graphics-driver.jpg)
 4. Click**Uninstall** and then**Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**AMD Radeon Graphics** and click**Uninstall** .
 
  The AMD Software will start removing the driver from your computer. This process may take some time, and your monitor or display may flicker during the process. If it does, don't fret; it's just Windows getting used to the changes to your display drivers.
@@ -101,6 +102,13 @@ To uninstall the AMD graphics driver:
  When you uninstall a display driver, your secondary monitor can stop working. This will happen if your monitor's HDMI cable is directly connected to the port on your dedicated graphics unit. Your secondary display should work again as you reinstall the graphics driver.
 
  After the restart, you can[update your AMD Radeon graphics driver](https://www.makeuseof.com/update-amd-radeon-graphics-driver-windows-11/) using AMD Software. Install the driver and restart your PC to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use a System Restore Point
 
@@ -115,22 +123,15 @@ To undo the recent changes using a restore point:
 ![select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-restore-point.jpg)
 3. In the**System Restore** dialog, select the**Recommended** **restore** option. If not, select the**Choose a different restore point** option**.**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select a**restore point** and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
 5. Read the description and click**Finish** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. System Restore will restart and restore your PC to the state it was in before the date of the selected restore point.
@@ -154,21 +155,21 @@ To undo the recent changes using a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-can-instagrams-video-selfies-be-trusted/"><u>[New] 2024 Approved Can Instagram's Video Selfies Be Trusted?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-streamline-media-management-with-top-10plus-free-instagram-to-mp4-converters/"><u>[New] 2024 Approved Streamline Media Management with Top 10+ Free Instagram-to-MP4 Converters</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos-for-2024/"><u>[New] Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pc-sound-logging-simplified-install-x-recorder-app/"><u>[New] Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-precision-sound-transmitter-for-casters-for-2024/"><u>[New] Precision Sound Transmitter for Casters for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-peering-into-the-world-of-luts-and-their-effect-on-pixels/"><u>[Updated] In 2024, Peering Into the World of LUTs and Their Effect on Pixels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-prompt-windows-registry-tweaks-guide/"><u>Command Prompt: Windows Registry Tweaks Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-archive-support-on-windows-11/"><u>How to Enable Archive Support on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-12-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 12 Pro 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-resemble-macos-adopting-5-key-visual-changes/"><u>Making Windows Resemble MacOS: Adopting 5 Key Visual Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-past-windows-11s-s-mode-lockdown/"><u>Navigating Past Windows 11'S 'S Mode' Lockdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/professional-photography-editing-tips-for-isolation/"><u>Professional Photography Editing Tips for Isolation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-windows-11s-resource-monitor-when-it-fails/"><u>Resetting Windows 11'S Resource Monitor When It Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-6-fixes-for-windows-display-troubles/"><u>Top 6 Fixes for Windows Display Troubles</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-xinput13dll-and-troubleshooting-its-absence/"><u>Understanding XINPUT1_3.dll & Troubleshooting Its Absence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-content-with-free-audio-samples/"><u>[New] 2024 Approved Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-value-gaming-peripherals-for-under-100-for-2024/"><u>[New] Best Value Gaming Peripherals for Under $100 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-score-selection-service-enhancing-media-pieces-for-2024/"><u>[Updated] Score Selection Service Enhancing Media Pieces for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-journey-to-joyful-snaps-animated-faces-on-mobile/"><u>2024 Approved Journey to Joyful Snaps Animated Faces on Mobile</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-live-video-to-insta-platform/"><u>2024 Approved OBS Live Video to Insta Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-windows-services-tool-when-it-wont-open-or-respond/"><u>7 Ways to Fix the Windows Services Tool When It Won't Open or Respond</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-10windows-11movie-maker/"><u>使用Windows 10和Windows 11的Movie Maker優化影片製作程式</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-advanced-taskbar-features-in-windows-11/"><u>Activating Advanced Taskbar Features in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-vocal-expressions-to-written-words-with-windows-whisper/"><u>From Vocal Expressions to Written Words with Windows Whisper</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mastering-color-consistency-a-powerdirector-tutorial-for-video-editors/"><u>New Mastering Color Consistency A PowerDirector Tutorial for Video Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-problem-solving-in-windows-1011-with-shortcuts/"><u>Personalizing Problem-Solving in Windows 10/11 with Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-event-viewer-issues-on-windows-11/"><u>Solving Event Viewer Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synchronizing-sound-pathways-resolving-paudio-in-winaudacity/"><u>Synchronizing Sound Pathways: Resolving PAudio in WINAudacity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-solutions-for-when-apple-wont-accept-your-payment-option-a-six-point-plan/"><u>Unlock Solutions for When Apple Won't Accept Your Payment Option: A Six-Point Plan</u></a></li>
 </ul></div>
 

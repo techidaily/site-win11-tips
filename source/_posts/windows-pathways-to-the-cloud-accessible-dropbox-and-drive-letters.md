@@ -1,7 +1,7 @@
 ---
 title: "Windows Pathways to the Cloud: Accessible Dropbox & Drive Letters"
-date: 2024-09-30T22:06:39.027Z
-updated: 2024-10-03T22:13:11.179Z
+date: 2024-10-03T01:48:37.440Z
+updated: 2024-10-09T04:01:21.439Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
 ## How to Set Up Windows Shared Folders
@@ -70,21 +77,29 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 2. Right-click on the folder and choose **Properties**.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
@@ -97,33 +112,12 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
 2. Right-click on it and choose **Map network drive**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
 
@@ -141,6 +135,13 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -151,25 +152,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-creating-professional-level-xbox-screen-recordings/"><u>[New] In 2024, Creating Professional-Level Xbox Screen Recordings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>[New] Quick Step-By-Step Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-sticky-notes-placement-on-windows-desktops/"><u>Elevating Sticky Notes Placement on Windows Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-aural-immersion-with-windows-11/"><u>Enhancing Aural Immersion with Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>In 2024, Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-mandatory-requirements-problem-on-win11win11/"><u>Remedying Mandatory Requirements Problem on Win11/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-engineering-steams-unauthorized-file-access/"><u>Reverse Engineering Steam's Unauthorized File Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11s-disappeared-symbols/"><u>Reviving Windows 11'S Disappeared Symbols</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-disk-differentiation-hddssd-checks-in-windows/"><u>Streamlining Disk Differentiation: HDD/SSD Checks in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-league-of-legends-online-communication-glitches-successfully/"><u>Tackling League of Legends' Online Communication Glitches Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-a-clearer-taskbar-w11-edition/"><u>The Path to a Clearer Taskbar: W11 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-upcoming-decade-of-cyber-vigilance-7-predictions/"><u>The Upcoming Decade of Cyber Vigilance: 7 Predictions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-ivideoprocessor/"><u>Updated In 2024, IVideoProcessor</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +159,21 @@ subst Z: "C:\Cloud Drives\Dropbox"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-crafting-the-ultimate-mc-community-dwellings/"><u>[New] Crafting the Ultimate MC Community Dwellings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quick-start-installing-vrecorder-effortlessly/"><u>[New] Quick Start Installing VRecorder Effortlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-story-connectivity-on-facebook-4-tips/"><u>2024 Approved Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-12-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 12 4G FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-enable-or-disable-bing-chat-ai-in-windows-11-taskbar-search/"><u>How to Quickly Enable or Disable Bing Chat AI in Windows 11 Taskbar Search</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-all-in-one-deskjet-3755-printer-driver-download-for-modern-windows-operating-systems/"><u>HP All-In-One Deskjet 3755 Printer Driver Download for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme C33 2023?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-xfffffddd-print-error-in-xp/"><u>Overcoming the Challenge: XFFFFFDDD Print Error in XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-11s-file-order-preferences/"><u>Realigning Windows 11'S File Order Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-connection-attempted-bluetooth-hiccup-on-pcs/"><u>Solving 'Connection Attempted' Bluetooth Hiccup on PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-transforming-epub-files-into-pdf-documents/"><u>Step-by-Step Tutorial for Transforming EPUB Files Into PDF Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-unwanted-scroll-events/"><u>Winning Against Unwanted Scroll Events</u></a></li>
+</ul></div>
+

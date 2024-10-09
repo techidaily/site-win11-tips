@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Windows' Drive Space: A Guide to DiskUsage"
-date: 2024-09-19T19:38:45.910Z
-updated: 2024-09-22T04:07:57.940Z
+date: 2024-10-05T23:46:23.600Z
+updated: 2024-10-08T22:38:22.455Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  If using DiskUsage.exe seems too complicated, you can easily view how disk space is being used with [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## List All Files Larger Than a Specified Size
 
  You can refine the data displayed in DiskUsage based on file size. So if, for example, you only want to include files over 500MB, you can set it to ignore smaller files.
@@ -56,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 2. The 15 largest files in the Downloads folder will now be listed in Command Prompt.  
 ![file data listed in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/diskusage-list.jpg)
 3. You can replace the number with any other you want to use. For example, to see the top 5 files taking up space, use **/u=5**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure to include the **/h** option so that the output is in a format that's easy to read.
 
  After identifying what is taking up the most space, you can use any one of these [methods to delete large files](https://www.makeuseof.com/windows-11-delete-select-files/).
@@ -71,10 +86,17 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 ![A list of DiskUsage options in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/diskusage-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Analyze Drive Space With DiskUsage
@@ -91,5 +113,24 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-repurpose-images-and-videos-for-2024/"><u>[New] Instagram Repurpose Images & Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-11-pro-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-canon-camera-introducing-the-powershot-sx420s-zoom/"><u>Compact Canon Camera – Introducing the PowerShot SX420's Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-game-crashes-in-bg3-for-windows-users/"><u>Comprehensive Guide to Resolve Game Crashes in BG3 for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convergence-of-ios-and-windows-using-apple-maps-effectively/"><u>Convergence of iOS and Windows: Using Apple Maps Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-operation-fixing-windows-notepad-crashes/"><u>Ensuring Smooth Operation: Fixing Windows Notepad Crashes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/professional-ppt-recording-tactics-and-tricks/"><u>Professional PPT Recording Tactics and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-a-non-responsive-mouse-on-windows-computers/"><u>Resurrecting a Non-Responsive Mouse on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-implementation-of-updater-in-win11-version-22h2/"><u>Seamless Implementation of Updater in WIN11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-for-capturing-ideal-school-identification-images-using-smartphones-iosandroid/"><u>Step-by-Step Guide for Capturing Ideal School Identification Images Using Smartphones (iOS/Android)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-data/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-controlling-sounds-on-windows-11/"><u>The Ultimate Guide to Controlling Sounds on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
+</ul></div>
 

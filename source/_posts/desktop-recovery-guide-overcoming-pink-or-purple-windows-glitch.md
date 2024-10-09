@@ -1,7 +1,7 @@
 ---
 title: "Desktop Recovery Guide: Overcoming Pink or Purple Windows Glitch"
-date: 2024-10-01T23:28:15.148Z
-updated: 2024-10-04T00:35:08.937Z
+date: 2024-10-03T22:19:43.355Z
+updated: 2024-10-08T21:49:00.323Z
 tags:
   - windows10
   - windows11
@@ -47,20 +47,6 @@ Let’s take a look at the steps for restarting File Explorer:
 
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable the Color Filters
 
  The "desktop color" issue might also be caused by the way you’ve configured the color filters on your device.
@@ -75,10 +61,10 @@ In this instance, here’s how you can resolve the problem:
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Configure the Night Light Settings
@@ -96,6 +82,13 @@ To get rid of the problem, follow these steps:
 
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, follow these steps if you want to tweak some additional night light settings:
 
 1. Navigate to the**Display settings** window as per the previous steps.
@@ -104,19 +97,6 @@ To get rid of the problem, follow these steps:
 4. If you want to schedule the night light settings, turn on the**Schedule night light** button and pick the relevant option below it.
 
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Windows Display Drivers
 
@@ -144,6 +124,19 @@ Let’s first check out how you can update the display drivers:
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Still struggling to resolve the "desktop color" issue? The Windows built-in troubleshooters could help! However, you should pick a relevant troubleshooter depending on the nature of the problem.
 
  For example, if you’re dealing with a hardware-related issue, then the Hardware and Devices troubleshooter will come in handy. But if the issue is caused by system maintenance issues, then the System Maintenance troubleshooter could help.
@@ -159,6 +152,13 @@ Let’s first check out how you can update the display drivers:
 
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
 1. Press**Win + R** to open the Run command dialog box.
@@ -169,10 +169,10 @@ Let’s first check out how you can update the display drivers:
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
@@ -191,10 +191,10 @@ Here are the steps you need to follow:
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use a System Restore Point
@@ -235,21 +235,21 @@ Here are the steps you need to follow:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-complete-guide-the-basics-of-google-podcasts-app/"><u>[New] In 2024, Complete Guide The Basics of Google Podcasts App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flvavi-movavi-video-converter/"><u>无偿在线FLV文件转换为AVI格式 - 利用Movavi Video Converter功能</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversao-sem-custo-transforme-imagens-do-formato-pgm-em-bmp-atraves-da-ferramenta-online-movavi/"><u>Conversão Sem Custo: Transforme Imagens Do Formato PGM Em BMP Através Da Ferramenta Online Movavi</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-hacks-for-the-elusive-iphone-x-users-for-2024/"><u>Essential Hacks for the Elusive iPhone X Users for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fotografia-digital-no-computador-abordagem-em-5-passos-pelo-guia-do-movavi/"><u>Fotografia Digital No Computador: Abordagem Em 5 Passos Pelo Guia Do Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hassle-free-conversion-from-wmv-to-vob-streams-expert-tips-and-tools/"><u>Hassle-Free Conversion: From WMV to VOB Streams - Expert Tips and Tools!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy A14 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-14-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi 14 Device SIM</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-3-understanding-the-common-causes-behind-2024-frame-rate-hiccups/"><u>Modern Warfare 3: Understanding the Common Causes Behind 2024 Frame Rate Hiccups</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-m6-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco M6 5G Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-creative-editing-on-macos-with-the-ultimate-movavi-photo-editor-start-free-today/"><u>Unleash Creative Editing on macOS with the Ultimate Movavi Photo Editor - Start FREE Today!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-youtubes-monthly-monetization-rules-for-2024/"><u>Unveiling YouTube’s Monthly Monetization Rules for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-video-editing-apps-for-kids-free-paid-and-everything-in-between-for-2024/"><u>Updated Discover the Best Video Editing Apps for Kids Free, Paid, and Everything in Between for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wi-fi-mpe-mp3-moveavi/"><u>무료 Wi-Fi 공급에서 MPE 악보를 MP3 형식으로 바꾸기 - Moveavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flvwav-movavi/"><u>オンラインで簡単フリーFLVからWAVへの変換 - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a79-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A79 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-11-eradicate-delays-and-lags/"><u>Accelerating Windows 11: Eradicate Delays and Lags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-a-personalized-auditory-experience-on-ios-for-2024/"><u>Crafting a Personalized Auditory Experience on iOS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delaying-the-end-extending-windows-11-shutdown-with-running-tasks/"><u>Delaying the End: Extending Windows 11 Shutdown with Running Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determining-win11s-best-fit-home-vs-professional-setup/"><u>Determining Win11's Best Fit: Home Vs. Professional Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-issues-when-igfxem-module-fails-to-function/"><u>Fixing Issues When Igfxem Module Fails to Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-utorrent-not-installing-on-windows/"><u>How to Fix uTorrent Not Installing on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-visual-identification-displaying-this-pc-icon/"><u>Improve Visual Identification: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-behind-the-scenes-iphone-video-loops-unveiled/"><u>In 2024, Behind the Scenes IPhone Video Loops Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-gear-guide-for-streaming-sensations/"><u>In 2024, Ultimate Gear Guide for Streaming Sensations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Networking: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-erratic-windows-error-x8019/"><u>Overcoming Erratic Windows Error: X8019</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-tips-turning-off-igtv/"><u>Quick Tips Turning Off IGTV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-discord-installer-errors-on-windows-devices/"><u>Resolving Discord Installer Errors on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-11s-default-touch-panel-settings-and-positioning/"><u>Restoring Windows 11'S Default Touch Panel Settings & Positioning</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy/"><u>Updated 2024 Approved Mac Tutorial Downloading and Setting Up KineMaster Made Easy</u></a></li>
 </ul></div>
 

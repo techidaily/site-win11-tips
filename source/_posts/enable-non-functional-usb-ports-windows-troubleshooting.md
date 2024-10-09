@@ -1,7 +1,7 @@
 ---
 title: Enable Non-Functional USB Ports - Windows Troubleshooting
-date: 2024-10-02T20:05:00.465Z
-updated: 2024-10-04T01:35:23.161Z
+date: 2024-10-02T07:00:29.006Z
+updated: 2024-10-09T04:36:30.345Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Restarting a Computer Fix Broken USB Ports?
@@ -88,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
 
@@ -121,10 +128,16 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 7. Click **Apply** and **OK** to confirm
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Finally, reboot your PC to ensure this change is applied
@@ -139,33 +152,11 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You've Fixed Your Broken USB Port
 
  As you can see, you have several options for repairing an unresponsive USB port. In most cases, it won't be dead, and you'll be able to fix it.
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-transform-your-thought-processes-mematic-app/"><u>[New] In 2024, Transform Your Thought Processes - Mematic App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-with-lightrooms-hdr-merging-capability/"><u>[Updated] Pushing Boundaries with Lightroom’s HDR Merging Capability</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sleepy-sequences-examining-bedtime-story-video-adaptations/"><u>2024 Approved Sleepy Sequences Examining Bedtime Story Video Adaptations</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-display-delusion-reasons-not-to-prioritize-hdr/"><u>Avoiding Display Delusion: Reasons Not to Prioritize HDR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others-for-2024/"><u>Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertisseur-gratuit-de-fichiers-wav-a-mp4-en-ligne-moveavi/"><u>Convertisseur Gratuit De Fichiers WAV À MP4 en Ligne - MoveAVI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desde-clips-de-mov-a-finesas-de-vob-online-sin-costo-con-movavi/"><u>Desde Clips De MOV a Finesas De VOB Online Sin Costo Con Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-redigerer-oplysning-og-effektivitet-for-din-video-bearbejstningsnedskudsfrihenheder-forsvart-sikker-kob-now/"><u>Movavi Redigerer - Oplysning Og Effektivitet for Din Video Bearbejstningsnedskudsfrihenheder | Forsvart Sikker Køb Now</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-asf-in-formato-avi-online-e-free-grazie-a-movavi/"><u>Trasforma I Tuoi Video ASF in Formato AVI Online E Free Grazie a Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-system-with-asus-usb-bt500-bluetooth-50-driver-windows-11-to-8-support/"><u>Update Your System with Asus USB-BT500 Bluetooth 5.0 Driver - Windows 11 to 8 Support</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +165,20 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-video-constructor-suite/"><u>[New] In 2024, Video Constructor Suite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-effortless-wmv-conversion-of-youtube-videos-how-to-save-and-transform-your-favorites-in-high-quality/"><u>1. Effortless WMV Conversion of YouTube Videos: How to Save and Transform Your Favorites in High Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stealthy-sound-softening-with-garageband/"><u>2024 Approved Stealthy Sound Softening with Garageband</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-gameplay-9-tricks-to-end-wwe-2k23-freezes-in-windows/"><u>Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-gmail-to-windows-outlook-seamless-integration-method/"><u>Adding Gmail to Windows Outlook: Seamless Integration Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-mobility-center-activation-in-w11-systems/"><u>Avoid Mobility Center Activation in W11 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-list-for-aspiring-filmmakers-must-have-gear/"><u>In 2024, The Ultimate List for Aspiring Filmmakers' Must-Have Gear</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>In 2024, Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsofts-entry-level-surface-laptop-go-evaluation-a-compact-powerhouse-for-on-the-go-professionals/"><u>Microsoft's Entry-Level Surface Laptop Go Evaluation: A Compact Powerhouse for On-The-Go Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries-for-2024/"><u>Unveiling the Mystery Scriptwriting for Documentaries for 2024</u></a></li>
+</ul></div>
+

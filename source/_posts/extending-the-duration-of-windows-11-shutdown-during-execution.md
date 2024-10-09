@@ -1,7 +1,7 @@
 ---
 title: Extending the Duration of Windows 11 Shutdown During Execution
-date: 2024-09-19T17:05:17.738Z
-updated: 2024-09-22T04:31:19.787Z
+date: 2024-10-05T01:39:24.661Z
+updated: 2024-10-08T22:06:43.068Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
@@ -65,10 +78,10 @@ This will apply altered log-off rules to all users on the PC.
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
@@ -84,10 +97,10 @@ This will apply altered log-off rules to all users on the PC.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
@@ -98,6 +111,13 @@ This will allow you to change the default value for all users.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
 
@@ -116,5 +136,22 @@ This will allow you to change the default value for all users.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/configuring-pc-manager-in-windows-11/"><u>Configuring PC Manager in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dism-error-0x800f082f-in-windows/"><u>How to Fix the DISM Error 0X800F082F in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-windows-dormant-discord-interface-widget/"><u>How to Reactivate Windows' Dormant Discord Interface Widget</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-community-cinema-collector/"><u>In 2024, Community Cinema Collector</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>In 2024, Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-pova-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Pova 5 Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jokejigsaw-mememakermecca/"><u>In 2024, JokeJigsaw MemeMakerMecca</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/key-practices-for-screen-recording-on-phones/"><u>Key Practices for Screen Recording on Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unauthorized-file-saves-on-your-microsoft-pc/"><u>Resolving Unauthorized File Saves on Your Microsoft PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-linux-setup-embedding-linux-vms-into-windows-using-hyper-v/"><u>Simplified Linux Setup: Embedding Linux VMs Into Windows Using Hyper-V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-curtail-autonomous-cmd-display/"><u>Strategies to Curtail Autonomous CMD Display</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-taskbar-upgrades-for-enhanced-user-experience-in-windows-11/"><u>Transformative Taskbar Upgrades for Enhanced User Experience in Windows 11</u></a></li>
+</ul></div>
 

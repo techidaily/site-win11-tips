@@ -1,7 +1,7 @@
 ---
 title: Unraveling Hardware Problem Detectors in Windows
-date: 2024-09-18T05:50:58.850Z
-updated: 2024-09-21T23:33:31.914Z
+date: 2024-10-03T23:48:04.051Z
+updated: 2024-10-08T20:20:39.557Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Remove and Reinsert Your Memory Sticks
 
  If you work with multiple memory sticks, remove all the sticks and wipe the card to remove dust and debris. Reboot the computer and check for any improvements.
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  If you determine a faulty RAM slot to have caused the issue, repairing it is tedious. First, RAM slots aren’t easily accessible like memory sticks. Second, to replace the slot, you’ll need to find a spare but compatible motherboard with working slots and then solder the connections onto your motherboard.
 
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Test Your RAM with MemTest86+
 
@@ -96,10 +82,26 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 3. Run the installer and select your USB drive. Make sure to select the format option.  
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
 
@@ -107,11 +109,31 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  Not all the errors detected by the Memtest86+ are due to faulty hardware. Some errors may occur due to compatibility issues. Check your RAM module and the motherboard specifications to determine any compatibility issues. You can also test the RAM modules by inserting them into a different motherboard and see if it works.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Perform a Repair Reinstall or Clean Install Windows
 
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -129,5 +151,17 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-top-10-high-def-4k-displays/"><u>[Updated] Ranking the Top 10 High-Def 4K Displays</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-old-world-wonders-iphone-x-portraits/"><u>2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-browser-performance-low-ram-and-cpu-demand-analysis/"><u>Comparing Browser Performance: Low RAM and CPU Demand Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/narrative-skies-and-landscapes-in-a-snapshot-for-2024/"><u>Narrative Skies and Landscapes in a Snapshot for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-mov-video-format-convert-your-qt-files-without-spending-a-penny/"><u>Online MOV Video Format: Convert Your QT Files Without Spending a Penny</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invalid-profile-error-in-windows-1011/"><u>Overcoming 'Invalid Profile' Error in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-of-error-messages-on-ge-sharing-feature/"><u>Remediation of Error Messages on GE Sharing Feature</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-find-cricket-sound-effect-for-2024/"><u>Updated Find Cricket Sound Effect for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-enable-smartfilter-security-feature/"><u>Windows 10/11: Enable SmartFilter Security Feature</u></a></li>
+<li><a href="https://win-top.techidaily.com/1726219394244-wav-flv-movavi/"><u>영구성 무료 오디오 형식 바이트 대비: WAV-FLV 전환기 - Movavi</u></a></li>
+</ul></div>
 

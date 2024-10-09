@@ -1,7 +1,7 @@
 ---
 title: How to Manually Apply Local Group Policies to Single Windows Account
-date: 2024-10-01T17:18:50.222Z
-updated: 2024-10-03T23:39:50.177Z
+date: 2024-10-02T04:42:23.545Z
+updated: 2024-10-09T01:52:56.333Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
  Group Policy is a Windows feature that gives you more control over the things user accounts are able to do and have access to. Changing Group Policy changes how the system works for different sets of users. We’ve covered [what Group Policy is and how you can use it](https://www.makeuseof.com/tag/windows-group-policy/), with examples, in much more detail separately.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply a Local Group Policy to a Specific User Account
@@ -46,41 +46,42 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 ![Adding a snap-in to the Microsoft Saved Console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-add-remove-snap-in-microsoft-saved-console.jpg)
 4. Look for and select **Group Policy Object Editor**; click on the **Add** button to add it to the **Selected snap-ins** pane; and click **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Adding Group Policy Object Editor for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-add-group-policy-object-editor-microsoft-saved-console.jpg)
 5. Next you will be asked to select a Group Policy Object. Click on **Browse**.  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Select the Group Policy Object for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-select-group-policy-object.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Switch to the **Users** tab in the window that pops up.  
 ![Select user-specific Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/04-msc-select-user-group-policy.jpg)
 2. Select the user account for which you want to create a custom Local Group Policy, then click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on the **Finish** button, and then on the **Add or Remove Snap-ins** window, click **OK** on the bottom right.
 4. The Group Policy for the specific user should appear in the console window.
 5. Go to **File > Save As** and select a location you want to save the MSC. You can rename it here.
@@ -94,29 +95,6 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
  It also makes it easy to apply and modify controls and appearances for individual users, and you’ll get a quick glance at which policies apply to which users. Here’s how to apply local group policy to specific user accounts on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-6-proven-strategies-to-add-facebook-live-features/"><u>[New] In 2024, 6 Proven Strategies to Add Facebook Live Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastery-in-making-your-instagrams-seamless/"><u>[Updated] 2024 Approved Mastery in Making Your Instagrams Seamless</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-comprehensive-list-of-high-quality-game-entrance-makers-online-for-2024/"><u>[Updated] Comprehensive List of High-Quality Game Entrance Makers Online for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-holographic-horizons-trendsetting-wallpapers/"><u>[Updated] Holographic Horizons Trendsetting Wallpapers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capture-the-past-with-your-camera-roll-snapchat-edition/"><u>2024 Approved Capture the Past with Your Camera Roll - Snapchat Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-hand-tracking-and-gesture-detection/"><u>2024 Approved Innovations in Hand Tracking and Gesture Detection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221405424-mp3/"><u>網路上任何影片 MP3 格式免費轉換工具列表</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alaw-wavmp3web-movavi/"><u>ALAW WAVからMP3へフリーなWebベースの音声コンバータ - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-gratuite-convertir-un-mp3-en-fichier-3g2-avec-movavi/"><u>Conversion en Ligne Gratuite: Convertir Un MP3 en Fichier 3G2 Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-bmp-images-to-png-for-free-with-movavis-web-service/"><u>Convert BMP Images to PNG for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-your-images-with-movavis-on-line-tool-fast-free-from-tga-to-gif/"><u>Convert Your Images with Movavi's On-Line Tool - Fast, Free, From TGA to GIF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertissez-votre-fichier-vers-une-video-mp4-sans-cout-utiliser-movavi-online/"><u>Convertissez Votre Fichier Vers Une Vidéo MP4 Sans Coût - Utiliser Movavi Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725286072393-dvd-dvd/"><u>DVD 複写技術解禁：合法的にDVDをバックアップする方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expertise-in-zending-en-terugkeer-de-opgeluchtende-vrijehandse-beleid-van-movavi/"><u>Expertise in Zending en Terugkeer: De Opgeluchtende Vrijehandse Beleid Van Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-conversion-turning-mod-files-into-avi-format-with-ease/"><u>Free Online Conversion: Turning MOD Files Into AVI Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-video-converter-mp4-to-mp3-and-more-easy-mpg-conversions-with-movavi/"><u>Gratis Online Video Converter: MP4 to MP3 & More - Easy MPG Conversions with Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-f14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy F14 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-s17-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo S17 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-brightness-settings-issues-on-windows-11/"><u>Troubleshooting: Fixing Brightness Settings Issues on Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -124,3 +102,27 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[Updated] 2024 Approved Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-efficiency-in-action-rapid-removal-of-youtube-discussions/"><u>2024 Approved Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-century-of-change-the-windows-taskbar/"><u>A Century of Change: The Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-restoring-essential-features-of-photo-viewer-on-win11/"><u>A Quick Guide to Restoring Essential Features of Photo Viewer on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-and-annotate-comics-easily-on-win11/"><u>Access and Annotate Comics Easily on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-webcam-integration-on-windows-11-pcs/"><u>Android Webcam Integration on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-tools-for-win-soft-installation-chocolatey-or-wm/"><u>Best Tools for Win Soft Installation: Chocolatey or WM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-of-windows-for-swift-steam-uploads/"><u>Boosting Performance of Windows for Swift Steam Uploads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/elevating-selfies-and-pics-on-snapchat-edit-like-a-pro-for-2024/"><u>Elevating Selfies and Pics on Snapchat – Edit Like a Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-server-connection-lost-glitches-within-escape-from-tarkov-gameplay/"><u>Fixing 'Server Connection Lost' Glitches Within Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-logo-design-10-keys-to-podcast-prominence/"><u>In 2024, Mastering Logo Design 10 Keys to Podcast Prominence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tech-titans-sharexs-challengers-exposed/"><u>In 2024, Tech Titans ShareX's Challengers Exposed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1723007313865-photoautotrophs-produce-their-own-food-using-sunlight-while-heterotrophs-must-consume-other-organisms-for-energy/"><u>Photoautotrophs Produce Their Own Food Using Sunlight, While Heterotrophs Must Consume Other Organisms for Energy</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-gt-5-240w-messages-recovery-recover-deleted-messages-from-realme-gt-5-240w-by-fonelab-android-recover-messages/"><u>Realme GT 5 (240W) Messages Recovery - Recover Deleted Messages from Realme GT 5 (240W)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reliable-and-safe-download-of-sades-headset-drivers-optimized-for-windows-users/"><u>Reliable and Safe Download of Sades Headset Drivers – Optimized for Windows Users</u></a></li>
+</ul></div>
+

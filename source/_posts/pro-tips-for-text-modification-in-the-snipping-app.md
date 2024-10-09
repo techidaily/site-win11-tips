@@ -1,7 +1,7 @@
 ---
 title: Pro Tips for Text Modification in the Snipping App
-date: 2024-09-26T17:15:19.060Z
-updated: 2024-10-04T01:19:53.537Z
+date: 2024-10-08T04:50:26.764Z
+updated: 2024-10-09T04:51:10.284Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 3. Switch to the Snipping Tool window which will show the screenshot. Click on the **Text Actions** icon.  
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
@@ -67,13 +75,20 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
 
@@ -81,50 +96,13 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-niche-marketing-through-periscope-broadcasts/"><u>[New] 2024 Approved Niche Marketing Through Periscope Broadcasts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-find-your-fit-understanding-basic-to-pro-plans-at-vimeo-for-2024/"><u>[New] Find Your Fit Understanding Basic to Pro Plans at Vimeo for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[Updated] In 2024, From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://facebook.techidaily.com/balancing-act-strategically-managing-your-facebook-friend-network/"><u>Balancing Act: Strategically Managing Your Facebook Friend Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-invalid-temp-path-on-w11-pc/"><u>Correcting Invalid Temp Path on W11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-volume-tailored-keyboard-shortcuts-win11/"><u>Crafting Volume Tailored Keyboard Shortcuts (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ease-your-windows-11-ui-ungrouping-tips/"><u>Ease Your Windows 11 UI: Ungrouping Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-lock-screen-timeout-errors/"><u>Fixing Windows Lock Screen Timeout Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-defeat-installation-obstacles-a-guide-for-win11-users/"><u>How to Defeat Installation Obstacles: A Guide for Win11 Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/imessage-integration-on-windows-systems-unveiled/"><u>IMessage Integration on Windows Systems Unveiled</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>In 2024, AI-Assisted Naming Wizards The Best 10 for Podcasters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamless-dvd-transfer-tutorial-on-adding-video-discs-to-google-drive-storage/"><u>Seamless DVD Transfer: Tutorial on Adding Video Discs to Google Drive Storage</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-saving-your-personalized-powertoys-profile/"><u>Steps for Saving Your Personalized PowerToys Profile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-outlook-schedule-on-windows-pcs/"><u>Tailoring Your Outlook Schedule on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-boosting-virtual-memory-on-windows-11/"><u>The Ultimate Guide to Boosting Virtual Memory on Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-a-fully-connected-experience-with-the-mobvoi-ticwatch-pro-lte-edition/"><u>Unveiling the Power of a Fully-Connected Experience with the Mobvoi Ticwatch Pro LTE Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-your-windows-app-data-usage/"><u>Unveiling Your Windows App Data Usage</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +111,22 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>[New] In 2024, Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mixer-connectivity-seamless-live-broadcast-on-macos/"><u>[New] Mixer Connectivity Seamless Live Broadcast on macOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-prime-7-multimedia-players-for-macos/"><u>[New] Prime 7 Multimedia Players for MacOS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-2023-guide-to-best-in-class-professionals-spinning-cameras-for-2024/"><u>[New] The 2023 Guide to Best-in-Class Professionals' Spinning Cameras for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-choice-webcams-ready-for-zoom-mastery/"><u>[Updated] First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fn-key-techniques-for-efficient-windows-use/"><u>Fn Key Techniques for Efficient Windows Use</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-fix-it-when-your-iphone-is-not-detected-by-itunes/"><u>How to Fix It when Your iPhone Is Not Detected by iTunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20c-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20C? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-techniques-to-accelerate-steam-downloads-on-windows/"><u>Master Techniques to Accelerate Steam Downloads on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-the-impact-reducing-unrealcefsubprocess-load-in-windows/"><u>Mitigating the Impact: Reducing UnrealCEFSubprocess Load in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-writing-rights-denied-on-windows-devices/"><u>Remedying Writing Rights Denied on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-dual-user-microsoft-errors/"><u>Strategies to Resolve Dual User Microsoft Errors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/zooming-into-excellence-a-complete-guide-for-professionals-of-podcast-production/"><u>Zooming Into Excellence A Complete Guide for Professionals of Podcast Production</u></a></li>
+</ul></div>
+

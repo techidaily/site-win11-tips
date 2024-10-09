@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Common Asana Crashes on Windows Desktops
-date: 2024-09-09T23:33:11.461Z
-updated: 2024-09-17T00:42:40.825Z
+date: 2024-10-08T01:10:57.342Z
+updated: 2024-10-08T17:38:10.690Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  These basic steps can often resolve common Asana issues. However, if you're still facing loading issues, keep reading to try some advanced methods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the Asana Cache Files
 
  Like other Windows apps, Asana creates cache files to store temporary data. Sometimes, the cache files become corrupted due to malware or unexpected system shutdowns. This ultimately causes Asana to slow down or crash on startup. But how can you fix the Asana not working issues, then? In this case, clearing the stored cache files can often solve this.
@@ -51,6 +58,14 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 3. On the File Explorer window, select the **Cache\_Data** folder.  
 ![Asana Cache Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-cache-folder.jpg)
 4. Press the **Del** key or click the **Delete** icon to remove the cache files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After clearing the cache, re-open Asana to check the loading issue.
 
  Clearing the cache will force the app to reconnect to Asana's server. If this is not working for you, proceed to the next step.
@@ -68,7 +83,22 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 4. Double-click the **Update.exe** file. Wait for a few seconds, and the app will automatically close.  
 ![Asana Local AppData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-local-appdata-folder.jpg)
 5. Now, go back to the Asana app. It should prompt you with a text message saying, "**A new version of the Asana app is available.**".
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the **Restart** button on the pop-up to update Asana.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Asana Connectivity Test
 
@@ -77,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
  Wait for a while and check the **WebSocket connection** status. If it says **Success**, then there's no need to worry. If you're getting a **Failed** or **Prohibited** status, contact [Asana's Support team](https://asana.com/support) with a screenshot of the diagnostics.
 
 ![Asana Diagnostics Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-diagnostics-overview.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change Your Default DNS Server
 
@@ -120,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 4. Once you add Asana, ensure it has permission to pass through the firewall. Tick the **Private** and **Public** checkboxes depending on your network type.  
 ![Asana Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-firewall-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Asana App
 
  If you're still struggling to get Asana running, the final solution is to reinstall Asana.
@@ -142,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 4. After uninstalling, visit [Asana’s official website](https://asana.com/download) to download the latest version of the app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Once the download is complete, run the installer or setup file to install Asana.
@@ -160,8 +170,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  Here, we'll explore various solutions to fix the Asana not working or loading issues on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,3 +177,17 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-pushing-boundaries-in-image-editing/"><u>[New] Pushing Boundaries in Image Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-to-melodic-mp3s-simple-conversion-high-quality-outputs-for-2024/"><u>[Updated] FB to Melodic MP3s Simple Conversion, High Quality Outputs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-soon-expiring-license-messages-from-your-pc/"><u>Eliminating “Soon Expiring License” Messages From Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-30005-struggles-with-new-file-creation/"><u>Fixing Windows Error 30005 - Struggles with New File Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-fixes-for-unstartable-windows-services/"><u>Implementing Fixes for Unstartable Windows Services</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s17e-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S17e</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-poco-x5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Poco X5 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-13-pro-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 13 Pro® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-and-streamlining-the-microsoft-store-in-win11/"><u>Unblocking and Streamlining the Microsoft Store in Win11</u></a></li>
+</ul></div>
+

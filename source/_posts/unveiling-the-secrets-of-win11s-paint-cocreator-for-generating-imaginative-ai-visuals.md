@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Win11's Paint Cocreator for Generating Imaginative AI Visuals
-date: 2024-09-27T20:53:18.963Z
-updated: 2024-10-03T18:03:40.733Z
+date: 2024-10-07T03:09:24.751Z
+updated: 2024-10-09T00:16:13.085Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 
  The Paint app has already received significant upgrades like the Fit to Window option, support for image layers, and a background removal feature.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Paint Cocreator Feature
 
  The Paint Cocreator feature is in the experimental phase and available to Windows Insiders. If you have enrolled your PC in the Canary, Dev, or Beta channel of the [Windows Insider program](https://www.makeuseof.com/windows-11-insider-program-join/), you can try out the Cocreator feature. Release Preview Insider users will have to wait longer.
@@ -38,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
  You can also consider using [UUP Dump to download Windows Insider builds without enrolling in the program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/). Make sure that you are signed in with a Microsoft account on your Windows 11 PC, otherwise, you won't be able to join the waitlist and use the feature.
 
 ![Joining Paint cocreator waitlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/joining-paint-cocreator-waitlist.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, launch the Paint app, and you will see a Cocreator feature icon in the app. Click on it to open the feature in the side pane. Now, click on the **Join waitlist** button. You will receive an email from the company in your official Microsoft account about getting access to the feature.
 
@@ -51,26 +71,26 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 ![creating an image prompt in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creating-an-image-prompt-in-paint-cocreator.jpg)
 6. Wait for the feature to generate the images based on the prompt you provided. It can take a while to create the images and fetch them from the server. It will produce three sets of images for each prompt.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Similarly, you can try more combinations and styles to generate different images based on the same prompt. Remember that creating an image consumes one credit at a time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Paint Cocreator Any Good?
@@ -83,44 +103,9 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Generate AI Images in Paint
 
  Integrating the AI image generation feature inside the Paint app will be a boon for users. The app already has support for layers and a few other features which will surely reduce dependence on third-party apps for basic image annotation and editing. Non-Inisders will have to wait a little longer to try out Paint Cocreator.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mythos-makers-circle-top-ten-tales/"><u>[Updated] Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-ace-applications-transforming-videos-for-tweet/"><u>2024 Approved Ace Applications Transforming Videos for Tweet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/2024windows-10-top-photo-viewer-recommendations/"><u>2024年度最搶手的Windows 10影像鑒別程式 - Top Photo Viewer Recommendations</u></a></li>
-<li><a href="https://win11.techidaily.com/7-common-concerns-against-moving-to-windows-11/"><u>7 Common Concerns Against Moving to Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approach-recall-the-sensory-distribution-of-the-ulnar-nerve-in-the-hand/"><u>Approach: Recall the Sensory Distribution of the Ulnar Nerve in the Hand.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cele-mai-eficiente-instrumente-pentru-crestere-a-volumului-video-online-si-offline/"><u>Cele Mai Eficiente Instrumente Pentru Creștere a Volumului Video Online Și Offline</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-rapide-de-fichiers-asf-vers-wmv-gratuite-sur-le-web-avec-movavi-suivez-les-etapes-faciles/"><u>Conversion Rapide De Fichiers ASF Vers WMV Gratuite Sur Le Web Avec Movavi – Suivez Les Étapes Faciles !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-for-families-navigating-through-gpt-ai-insights/"><u>Guide for Families: Navigating Through GPT, AI Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/handling-http-status-code-401unauthorized-tips-and-solutions/"><u>Handling HTTP Status Code 401Unauthorized: Tips and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-lag-and-frame-drops-in-your-forza-horizon-5-adventure/"><u>How to Overcome Lag & Frame Drops in Your Forza Horizon 지정 5 Adventure</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-the-mssoccsndll-error-on-your-pc/"><u>How to Resolve the 'mssoccsn.dll' Error on Your PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/memory-miracle-customer-success-story-on-lost-images-revived/"><u>Memory Miracle: Customer Success Story on Lost Images Revived</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movaviflvmpeg/"><u>Movaviで気軽に行うFLVとMPEGファイル間の自由配布変換サービス</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Viewing Dragon Ball Series Sequentially</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-selecting-premium-webcam-recording-tools-for-microsofts-latest-os-windows-11/"><u>The Ultimate Guide to Selecting Premium Webcam Recording Tools for Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-facilmente-il-tuo-contenuto-multimediali-m4v-in-formato-compatibile-e-ottimizzato-mp4-gratis-movavi-converter-online/"><u>Trasforma Facilmente Il Tuo Contenuto Multimediali M4V in Formato Compatibile E Ottimizzato MP4, Gratis – Movavi Converter Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vesi-vastainen-2024-parasta-ilmaista-videoedittiota-ilman-sisallolaismme/"><u>Vesi-Vastainen 2024 - Parasta Ilmaista VideoEdittiota Ilman Sisälloläismme</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +114,24 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-superior-cinematic-introductions-set/"><u>[New] Superior Cinematic Introductions Set</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-reduire-efficacement-la-taille-du-fichier-video-mov-guide-complet/"><u>Comment Réduire Efficacement La Taille Du Fichier Video MOV : Guide Complet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-enhancement-streamlined-file-exploration-for-windows-11/"><u>Effortless Enhancement: Streamlined File Exploration for Windows 11</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/i-migliori-convertitori-video-in-alta-definizione-4k-per-computer-e-mac-2019/"><u>I Migliori Convertitori Video in Alta Definizione 4K per Computer E Mac (2019)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-optimal-text-movement-collections/"><u>In 2024, Optimal Text Movement Collections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-and-intel-unison-for-smooth-phone-integration/"><u>Leveraging Windows 11 & Intel Unison for Smooth Phone Integration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/make-moves-on-mobile-snag-top-deals-for-iphone-games-with-todays-prime-day-offerings/"><u>Make Moves on Mobile - Snag Top Deals for iPhone Games with Today's Prime Day Offerings!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-task-tracking-in-project-management/"><u>Master the Art of Task Tracking in Project Management</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575254325-mondly-champion-of-language-learning-germany-resonates/"><u>Mondly: Champion of Language Learning - Germany Resonates</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-download-songs-and-videos-from-weibo-efficient-media-retrieval-tools/"><u>Quick Guide: How to Download Songs & Videos From Weibo - Efficient Media Retrieval Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-mouse-setup-guide-for-efficient-windows-use/"><u>Razer Mouse Setup Guide for Efficient Windows Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-permission-errors-a-step-by-step-guide-on-windows/"><u>Resolving Permission Errors: A Step-by-Step Guide on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-changing-app-size-using-pc-keys-on-windows-11/"><u>Tips for Changing App Size Using PC Keys on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-pens-tools-for-the-modern-windowed-tech-user/"><u>Top Pens' Tools For the Modern Windowed Tech User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-power-enable-the-outlook-preview-app/"><u>Unlock Windows' Power: Enable the Outlook Preview App</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-filmora-13-free-trial-download-experience-video-editing/"><u>Updated In 2024, Filmora 13 Free Trial Download Experience Video Editing</u></a></li>
+</ul></div>
+

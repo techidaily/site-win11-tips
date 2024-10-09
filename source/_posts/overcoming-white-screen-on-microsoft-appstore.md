@@ -1,7 +1,7 @@
 ---
 title: Overcoming White Screen on Microsoft Appstore
-date: 2024-09-27T16:07:04.420Z
-updated: 2024-10-03T16:32:16.973Z
+date: 2024-10-04T23:35:04.830Z
+updated: 2024-10-08T22:16:34.665Z
 tags:
   - windows10
   - windows11
@@ -58,13 +58,6 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 ## 4\. Delete the Microsoft Store Cache
@@ -74,6 +67,13 @@ Open Microsoft Store again and check if it’s now working.
  Press**Win + R** to bring up a Run dialog. Then, type**wsreset.exe** , and press**Shift + Enter** to run the command with administrative rights.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the SFC Tool
 
@@ -99,13 +99,20 @@ Go through the below steps to change the Windows region:
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -117,22 +124,15 @@ Go through the below steps to change the Windows region:
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Windows PC
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Working Again
 
@@ -155,22 +155,20 @@ Go through the below steps to change the Windows region:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-superior-hashtags-for-your-youtube-content/"><u>[New] In 2024, Finding Superior Hashtags for Your YouTube Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-leveraging-keywords-and-metadata-in-podcast-seo/"><u>2024 Approved Leveraging Keywords and Metadata in Podcast SEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-windows-11-wi-fi-hotspot-a-step-by-step-guide/"><u>Creating a Windows 11 Wi-Fi Hotspot: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-drive-downloads-streamlined-access-to-dropbox-and-google-drive/"><u>Direct Drive Downloads: Streamlined Access to Dropbox and Google Drive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-successfully-installing-your-dell-mouse-driver-solutions-inside/"><u>Easy Guide: Successfully Installing Your Dell Mouse Driver – Solutions Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-common-windows-shares/"><u>Effortless Entry Into Common Windows Shares</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harnessing-voice-recognition-for-dynamic-decks/"><u>Harnessing Voice Recognition for Dynamic Decks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-e13-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto E13 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-color-workflow-with-cg-central-luts/"><u>In 2024, Transformative Color Workflow with CG Central LUTs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-task-handling-on-windows-with-advanced-utilities/"><u>Optimize Task Handling on Windows with Advanced Utilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-mail-calendar-on-windows-using-chosen-images/"><u>Revamp Mail, Calendar on Windows Using Chosen Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rumors-of-the-next-pixel-wrist-device-estimated-price-tag-release-forecast-and-speculative-hardware-reviewed/"><u>Rumors of the Next Pixel Wrist Device – Estimated Price Tag, Release Forecast, and Speculative Hardware Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/systematic-approach-to-fixing-error-0x800700e1-on-windows-11-pcs/"><u>Systematic Approach to Fixing Error 0X800700E1 on Windows 11 PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tools-to-enhance-your-desktop-writing-skills-windows/"><u>Top Tools to Enhance Your Desktop Writing Skills (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanics-of-law-filters-on-windows-os/"><u>Understanding the Mechanics of LAW Filters on Windows OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/warum-ist-der-hevchandampx20acd65-codec-oft-langsam-erkunden-sie-moglichkeiten-zur-beschleunigung-des-encodierungsprozesses/"><u>Warum Ist Der HEVC/H.^&amp;#x20AC;d65-Codec Oft Langsam? Erkunden Sie Möglichkeiten Zur Beschleunigung Des Encodierungsprozesses!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-straightforward-steps-upside-down-video-with-vlc-software/"><u>[New] In 2024, Straightforward Steps Upside-Down Video with VLC Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-5-best-voice-recorders-to-complement-your-apple-device/"><u>[Updated] 2024 Approved The 5 Best Voice Recorders to Complement Your Apple Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-on-nearby-transfer-google-vs-windows-options/"><u>Deciding on Nearby Transfer: Google Vs. Windows Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-samsung-galaxy-s24-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Samsung Galaxy S24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-cannot-continue-error-in-amd-installation/"><u>Overcoming the 'Cannot Continue' Error in AMD Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-unwanted-launch-of-snipping-tool-via-print-screen-in-win-11/"><u>Prevent Unwanted Launch of Snipping Tool via Print Screen in Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/recalibrating-youtube-rearranging-with-ease-and-speed-for-2024/"><u>Recalibrating YouTube Rearranging with Ease and Speed for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-pruveeos-cost-effective-full-hd-dashcam-model-f5-features-and-value/"><u>Review of Pruveeo's Cost-Effective Full HD Dashcam Model F5: Features & Value</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reviving-your-iphones-accidentally-erased-content-via-stellar-software/"><u>Reviving Your iPhone's Accidentally Erased Content via Stellar Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-msvcr120-deficiency-windows-wise/"><u>Tips for Troubleshooting Msvcr120 Deficiency Windows-Wise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-windows-update-error-code-0x802n02e/"><u>Troubleshooting Guide: How to Fix Windows Update Error Code 0X802n02E</u></a></li>
 </ul></div>
 

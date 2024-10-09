@@ -1,7 +1,7 @@
 ---
 title: Resolving 1Drive Errors on Windows 11
-date: 2024-09-30T16:35:28.108Z
-updated: 2024-10-03T23:48:08.252Z
+date: 2024-10-04T23:38:41.246Z
+updated: 2024-10-09T01:19:24.909Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 ## 3\. Reset the OneDrive App
@@ -67,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Sync OneDrive to Another Drive Location
 
  Do you have another drive partition on your PC? If you do, try linking the OneDrive app with the alternative partition instead. You can sync OneDrive to a different drive location like this:
@@ -90,15 +90,23 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
@@ -114,20 +122,13 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 4. Then right-click the same file again to select**Free up** **space** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Firewalls
 
@@ -140,32 +141,12 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall OneDrive
 
@@ -176,11 +157,26 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
 8. Click**Get** to reinstall OneDrive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
 
@@ -201,15 +197,18 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-real-time-voice-to-action-no-price-tag-for-2024/"><u>[New] Real-Time Voice to Action, No Price Tag for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-best-iphone-selfie-devices-ranked-8/"><u>[New] The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximize-youtube-savvy-unified-streams-for-enthusiasts/"><u>[Updated] 2024 Approved Maximize YouTube Savvy Unified Streams for Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects-for-2024/"><u>Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-driver-update-for-lenovo-photographic-equipment-on-microsofts-operating-system-7/"><u>Compatible Driver Update for Lenovo Photographic Equipment on Microsoft's Operating System 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-nvidia-control-saving-functionality/"><u>Guidelines for Restoring Nvidia Control Saving Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insider-tips-for-finding-gpo-settings-on-pc/"><u>Insider Tips for Finding GPO Settings on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-the-limited-scope-of-windows-11-s-mode-beneficial/"><u>Is the Limited Scope of Windows 11 S Mode Beneficial?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-audio-addition-in-creative-cloud-suite-for-2024/"><u>Streamlining Audio Addition in Creative Cloud Suite for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-locked-windows-protection-in-windows-11/"><u>Unlocking Locked Windows Protection in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-path-to-prominence-elevating-brands-with-telegram-strategies-for-2024/"><u>[Updated] The Path to Prominence Elevating Brands with Telegram Strategies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/1717892134544-2024-approved-how-many-seconds-is-a-20mb-video/"><u>2024 Approved How Many Seconds Is a 20Mb Video?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c210-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C210</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ascending-with-aerial-artistry-9-top-editors-for-diverse-levels/"><u>In 2024, Ascending with Aerial Artistry 9 Top Editors For Diverse Levels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixel-playground-discovering-the-art-of-picture-distortion/"><u>In 2024, Pixel Playground Discovering the Art of Picture Distortion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-star-level-stabilization-tools-listed/"><u>In 2024, YouTube Star-Level Stabilization Tools Listed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-directories-a-breeze-with-win11-essentials/"><u>Making Directories a Breeze with Win11 Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-overcome-windows-file-not-found-error/"><u>Methods to Overcome Windows 'File Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-the-empty-folder-error-message-on-win-11/"><u>Removing the 'Empty Folder' Error Message on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleashing-creativity-writing-scripts-for-youtube-content-excellence/"><u>Unleashing Creativity Writing Scripts for YouTube Content Excellence</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-split-clips-in-vlc-for-2024/"><u>Updated Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-to-optimal-windows-audios-through-driver-revision/"><u>Upgrading to Optimal Windows Audios Through Driver Revision</u></a></li>
 </ul></div>
 

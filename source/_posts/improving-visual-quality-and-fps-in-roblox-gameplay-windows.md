@@ -1,7 +1,7 @@
 ---
 title: Improving Visual Quality & FPS in Roblox Gameplay Windows
-date: 2024-09-17T22:52:17.489Z
-updated: 2024-09-22T00:47:44.890Z
+date: 2024-10-04T02:59:34.124Z
+updated: 2024-10-08T23:24:48.087Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
 
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Always Run Roblox as Administrator
 
  When a process is run as an administrator, it takes precedence over other tasks. Due to this, your hardware allocates most of its resources to this specific process rather than to other processes running in its parallel.
@@ -69,14 +76,14 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
 
- Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
 
 ## 5\. Put Roblox on High-Performance Graphics Mode
 
@@ -86,15 +93,29 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Change the Power Plan Settings
@@ -110,10 +131,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Turn Off Visual Effects
@@ -128,21 +149,7 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Check the Circle Besides Adjust for best performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-circle-besides-adjust-for-best-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Check for Internet Issues
 
@@ -172,5 +179,22 @@ To remove this unnecessary burden from your GPU, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-discord-black-screen-when-screen-sharing/"><u>[SOLVED] Discord Black Screen when Screen Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[Updated] Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-for-entrepreneurs-how-to-register-as-a-biz-page/"><u>2024 Approved Instagram for Entrepreneurs How to Register as a Biz Page</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgptvisionexplored-unveiling-the-most-effective-uses-of-visual-ai/"><u>ChaTgPtVisionExplored: Unveiling the Most Effective Uses of Visual AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mistakes-to-sidestep-on-your-first-day-with-windows-11/"><u>Crucial Mistakes to Sidestep on Your First Day with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-run-windows-media-player/"><u>Easy Steps to Run Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-to-windows-shared-drives/"><u>Navigating Android to Windows Shared Drives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-picks-the-ultimate-gopro-upgrades/"><u>Premium Picks The Ultimate Gopro Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-invisible-displays-when-gaming-on-win-os/"><u>Preventing Invisible Displays When Gaming on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-non-working-windows-lock-screen-delay/"><u>Reviving Non-Working Windows Lock Screen Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unplugged-fun-the-best-non-networked-android-apps/"><u>Unplugged Fun The Best Non-Networked Android Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video/"><u>Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+</ul></div>
 

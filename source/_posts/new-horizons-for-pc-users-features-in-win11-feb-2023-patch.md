@@ -1,7 +1,7 @@
 ---
 title: New Horizons for PC Users - Features in Win11 FEB 2023 Patch
-date: 2024-09-27T21:18:20.993Z
-updated: 2024-10-03T20:58:58.635Z
+date: 2024-10-01T19:10:22.950Z
+updated: 2024-10-08T21:13:50.535Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  To open the Task Manager, right-click on the Taskbar and select**Task Manager** . If you are not thorough with it,[check out how to use Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. A New Taskbar for Tablet Users
 
 ![Tablet optimized taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tablet-optimized-taskbar-in-windows-11.jpg)
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Search design options in Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/searchbar-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can finally change the design of Search on the Windows 11 Taskbar after installing the February 2023 update. Three different design options exist for the Taskbar Search:**Search icon only** ,**Search icon with label** , and**Search box** .
 
  Among the three design options, the last one will occupy the most space in Taskbar. The ability to hide Search from appearing in Taskbar is also there. If you need more help, check out[how to get started with Windows 11 Taskbar Search](https://www.makeuseof.com/windows-11-taskbar-search/) .
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The February 2023 feature drop offers a new way to control your environmental impact by introducing**Energy Recommendations** in the Settings app. The new setting allows you to reduce your carbon footprint by lowering the energy consumption of your PC.
@@ -91,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit:[Microsoft](https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/)
 
  Do you want to look and sound your best in a conference call? The "Windows Studio effects" is your best friend. Windows Studio effects is a collection of audio and video effects you can customize based on the current scenario.
@@ -106,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Hopefully, more first-party and third-party widgets will be available via "Moment" updates in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. A Full-Screen Widgets Panel
@@ -121,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  One important thing you need to remember about expanding or shrinking the Widgets panel is that Windows 11 remembers the previous state when you close it. If the last state of the panel was full-screen, it would open like that the next time you launch it, taking the entire screen space.
 
  If you are not familiar with Widgets, check out[how to get started with Windows 11's Widgets](<http://If> the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Record Your Screen With the Snipping Tool
 
@@ -144,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The tabbed interface is now expanded to the Notepad. Like in File Explorer, the new Notepad will enable you to open multiple folders and directories in one app window. Because different folders or directories can be in a single Notepad window due to the tabs support, it is easier for you to switch between them.
@@ -159,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  Microsoft also introduced a redesigned Quick Assist app, voice access improvements, AI-powered file recommendations in Start for AAD joined devices, and Phone Link for iOS (Preview) devices in the February 2023 update. The software giant also introduced the new AI Bing in Windows 11 taskbar search but removed it a few days later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You Can Do More With the Windows 11 February 2023 Update
@@ -184,19 +184,24 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile/"><u>[Updated] Facebook Videos Made Simple Unified Techniques for Desktop & Mobile</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-through-your-new-laptops-m1-max-clips/"><u>[Updated] In 2024, Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-the-essence-of-the-google-podcast-application/"><u>[Updated] In-Depth Analysis The Essence of the Google Podcast Application</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-stealthy-camera-alerts-on-windows-11/"><u>Disabling Stealthy Camera Alerts on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-countering-cant-get-mail-errors-in-mail-app-of-windows-11/"><u>Expert Guide: Countering Can't Get Mail Errors in Mail App of Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic 5 Lite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-11-common-windows-11-issues/"><u>Navigating 11 Common Windows 11 Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-remove-busy-status-from-resources-on-windows-11/"><u>Strategies to Remove 'Busy' Status From Resources on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sudo-integration-in-windows-the-evolution/"><u>Sudo Integration in Windows: The Evolution</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-getting-valorant-up-and-running-on-your-computer/"><u>Troubleshooting Steps for Getting Valorant Up and Running on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive-in-the-game/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive in the Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-system-efficiency-sleep-vs-hibernate-vs-shutdown/"><u>Windows System Efficiency: Sleep Vs. Hibernate Vs. Shutdown</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-timing-and-frequency/"><u>[New] 2024 Approved Timing and Frequency</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>[New] Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>[Updated] In 2024, Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-project-configuration-navigating-the-pathway-parameters-section/"><u>1. Project Configuration: Navigating the Pathway Parameters Section</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>2024 Approved Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-why-av1-may-outshine-vp9-in-video-compression/"><u>2024 Approved Why AV1 May Outshine VP9 in Video Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-taskbar-icons-that-dont-pop-up/"><u>Correcting Taskbar Icons that Don't Pop Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-system-speed-strategies-for-virtual-memory-upgradation-in-windows-11/"><u>Elevating System Speed: Strategies for Virtual Memory Upgradation in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-tools-to-flip-videos-online/"><u>In 2024, Best Online Tools to Flip Videos Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-beyond-wirecast-a-guide-to-alternative-software/"><u>In 2024, Beyond WireCast A Guide to Alternative Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-v29e-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo V29e Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-look-at-the-delayed-release-of-wolcen-lords-of-mayhem/"><u>Inside Look at the Delayed Release of Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrive-error-resolution-guide-for-windows-enthusiasts/"><u>OneDrive Error Resolution Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-tasks-the-power-of-flow-launcher-in-windows/"><u>Optimize Tasks: The Power of Flow Launcher in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redressing-invisible-lan-windows-network-guide/"><u>Redressing Invisible LAN: Windows Network Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-digital-life-winning-crypto-apps-ranked-150-chars/"><u>Secure Your Digital Life: Winning Crypto Apps Ranked (150 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-git-operations-github-desktop-and-windows-11-explained/"><u>Simplifying Git Operations: GitHub Desktop and Windows 11 Explained</u></a></li>
 </ul></div>
 

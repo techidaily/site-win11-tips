@@ -1,7 +1,7 @@
 ---
 title: Eliminating Unable to Open on GE Share Menu
-date: 2024-10-02T20:18:59.844Z
-updated: 2024-10-03T21:31:55.246Z
+date: 2024-10-08T00:06:05.632Z
+updated: 2024-10-08T17:24:40.945Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 
 `C:/Program Files/NVIDIA Corporation/NVIDIA GeForce Experience`
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Download Media Feature Pack for Windows N Versions
 
  The “Unable to open share” error also occurs when the Windows Media Feature Pack is not installed on users’ PCs. That pack isn’t pre-installed on Windows 11/10 N editions. The GeForce Experience overlay needs that feature. If your PC has a Windows N edition platform, download and install the Media Feature Pack as follows:
@@ -67,36 +60,16 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 5. Input **Media Feature Pack** in the search box to find it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Add an optional feature box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/optional-features-search-box.jpg)
 6. Select the **Next** \> **Install** options.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The steps for installing the same pack are a little different in Windows 10’s settings app. Click **Apps** \> **Optional features** \> **Add a feature** in Windows 10 Settings. Then input the search phrase to find and install the Media Feature Pack.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Try Some Basic Windows Troubleshooting Tips
 
@@ -110,34 +83,46 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reinstall GeForce Experience
 
  Reinstalling GeForce Experience is another user-confirmed resolution for the “Unable to share” error. You can remove GeForce Experience via the Control Panel, as outlined in this article about[uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Restart your PC after uninstalling.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/programs-and-features-applet.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To reinstall, open this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/) page; click on the **Download Now** button, and install GeForce Experience again using the executable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Share Your Gaming Moments in GeForce Experience
 
  GeForce Experience isn’t the same when the “Unable to open share” error effectively disables one of its best features. The potential resolutions above will likely fix the “Unable open share” error, which will restore GeForce Experience’s overlay feature. Then you can capture and share all your best gaming moments again.
 
  The “unable to open share” error means the GeForce Experience overlay doesn’t work when users try to activate it. GeForce Experience users can’t capture and share gaming moments without that overlay. Here is how you can fix the “unable to open share” error.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-in-action-a-screen-recorders-journey/"><u>[Updated] 2024 Approved Capturing in Action A Screen Recorder's Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picture-perfect-adding-imagery-to-ig/"><u>[Updated] 2024 Approved Picture Perfect Adding Imagery to IG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/15-secrets-to-discovering-window-settings/"><u>15 Secrets to Discovering Window Settings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/kik-id-visualization-width-x-height-aspect-ratio-duration-for-2024/"><u>Kik ID Visualization Width X Height, Aspect Ratio, Duration for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-problems-active-status-of-your-win11-license/"><u>Solving Problems: Active Status of Your Win11 License</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-secure-command-line-user-permissions-on-pc/"><u>Steps to Secure Command Line User Permissions on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-choosing-your-next-phone-why-the-samsung-galaxy-s1-2e-shines-among-affordable-options/"><u>The Essential Guide to Choosing Your Next Phone – Why the Samsung Galaxy S1 2E Shines Among Affordable Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-videos-from-low-to-high-dynamic-range/"><u>Transforming Videos From Low to High Dynamic Range</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-webcam-error-code-a00f4289/"><u>Troubleshooting Windows 11: Resolving Webcam Error Code A00F4289</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +131,24 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quest-for-thrills-a-chronicle-of-action-adventures-best-ten/"><u>[Updated] 2024 Approved Quest for Thrills A Chronicle of Action-Adventures' Best Ten</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/financial-forecasts-in-focus-select-stock-youtube-channels-for-2024/"><u>Financial Forecasts in Focus Select Stock YouTube Channels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-11-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 11 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30 Phone When You Forget the Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 15 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-output-decrease-time-harness-power-of-flow-launcher/"><u>Increase Output, Decrease Time: Harness Power of Flow Launcher</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/perfect-for-broadcasters-top-360-cameras-listed/"><u>Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-no-device-drivers-detected-on-windows-setup/"><u>Resolving 'No Device Drivers Detected' On Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ad-ds-printer-fails-in-win-1011/"><u>Resolving AD DS Printer Fails in Win 10/11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/share-a-world-view-iphone-360-film-techniques/"><u>Share a World View IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-slow-windows-10-closure-while-tasks-remain-open/"><u>Strategies for Slow Windows 10 Closure While Tasks Remain Open</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streaming-success-capturing-dota-2s-epic-battles-2enas-for-2024/"><u>Streaming Success Capturing Dota 2'S Epic Battles (2Enas) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switchtonightvisioninnotepadwin/"><u>SwitchToNightVisionInNotepadWin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rapid-switching-on-win-11-desktop/"><u>Tips for Rapid Switching on Win 11 Desktop</u></a></li>
+</ul></div>
+

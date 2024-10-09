@@ -1,7 +1,7 @@
 ---
 title: "Windows Esc Issues: Quick Solutions to Restore Functionality"
-date: 2024-09-30T23:36:59.012Z
-updated: 2024-10-04T01:21:25.146Z
+date: 2024-10-07T17:07:13.099Z
+updated: 2024-10-08T21:02:36.076Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your Computer
 
  Restarting your computer is an age-old troubleshooting tip that can help you with a variety of issues, including this one. Doing so will give Windows and its services a fresh start, resolving any temporary glitches.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
  Open the**Start menu** , click the**power icon** , and select**Restart** from the resulting menu.
 
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
 
@@ -62,12 +62,26 @@ To run the keyboard troubleshooter on Windows:
 4. Click the**Run** button next to**Keyboard** .  
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the troubleshooter to scan for any issues with your keyboard and fix them, then check if the Esc key works. If it does not, run the Hardware and Devices troubleshooter instead. For that, use these steps:
 
 1. Press**Win + R** to open the Run dialog box.
 2. Type**msdt.exe -id DeviceDiagnostic** in the Open field and press**Enter** .
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
 
@@ -78,6 +92,13 @@ To run the keyboard troubleshooter on Windows:
 3. Turn off the toggle next to**Sticky keys** .  
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -85,13 +106,6 @@ To run the keyboard troubleshooter on Windows:
 ## 6\. Run SFC and DISM Scans
 
  Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Update or Reinstall Keyboard Drivers
 
@@ -113,31 +127,24 @@ To run the keyboard troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Check for Malware
 
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
 
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Troubleshoot in Clean Boot State
 
  At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Perform a System Restore
 
@@ -154,17 +161,16 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using the Esc Key Again on Windows
@@ -186,24 +192,18 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precision-recording-tips-for-gamers-and-videographers/"><u>[Updated] 2024 Approved Precision Recording Tips for Gamers and Videographers</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ark-splusa-on-pc-how-to-stop-the-endless-cycle-of-crashes-with-9-effective-solutions/"><u>ARK: S+A on PC - How to Stop the Endless Cycle of Crashes with 9 Effective Solutions!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-steam-goals-a-complete-walkthrough/"><u>Clearing Steam Goals: A Complete Walkthrough</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-power-of-color-a-guide-to-7-standout-techniques/"><u>Discover the Power of Color A Guide to 7 Standout Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-c53-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme C53</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c110-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C110</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>In 2024, Unplugged Delight Your Guide to Free Screen-Free Games for Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-sign-in-troubles-solutions-await/"><u>Microsoft Store Sign-In Troubles? Solutions Await</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-unavailable-windows-updates-in-windows/"><u>Restoring Unavailable Windows Updates in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-strategies-to-combat-windows-1011-error-740/"><u>Swift Strategies to Combat Windows 10/11 Error 740</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taking-control-of-windows-read-only-constraints/"><u>Taking Control of Windows Read-Only Constraints</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-sid-exploration-a-comprehensible-guidebook/"><u>Windows 11 SID Exploration: A Comprehensible Guidebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-straightforward-steps-for-hassle-free-high-dynamic-range/"><u>[Updated] In 2024, Straightforward Steps for Hassle-Free High Dynamic Range</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-overcoming-youtubes-content-id-blockades-with-tactics/"><u>2024 Approved Overcoming YouTube's Content ID Blockades with Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-failure-windows-update-issue-code-0x80242016/"><u>Avoid Failure: Windows Update Issue Code 0X80242016</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafty-concepts-designing-unforgettable-instagram-puzzle-feeds/"><u>Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-c67-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme C67 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-control-over-windows-with-alomware-tools/"><u>Empower Control Over Windows With AlomWare Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-strategies-for-disconnected-steam-content-servers-on-pc/"><u>Fix Strategies for Disconnected Steam Content Servers on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solving-winservicesexe-issues/"><u>Guide to Solving Winservices.exe Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-emoji-communication-on-snapchat-a-comprehensive-guide-for-newbies/"><u>Mastering Emoji Communication on Snapchat: A Comprehensive Guide for Newbies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-gpu-performance-unveiling-the-top-6-tools-for-windows-users/"><u>Pioneering GPU Performance: Unveiling the Top 6 Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-your-windows-hello-fix-unresponsive-fingerprints/"><u>Re-Establish Your Windows Hello: Fix Unresponsive Fingerprints</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-green-screen-magic-in-fcp-x-a-beginners-guide-to-chroma-keying-for-2024/"><u>Updated Green Screen Magic in FCP X A Beginners Guide to Chroma Keying for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-high-cpu-drain-by-svchostexe-heres-how-to-optimize-it/"><u>Win 10 High CPU Drain by svchost.exe? Here’s How to Optimize It!</u></a></li>
 </ul></div>
 

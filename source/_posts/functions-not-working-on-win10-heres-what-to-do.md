@@ -1,7 +1,7 @@
 ---
 title: Functions Not Working on Win10? Here's What to Do
-date: 2024-09-11T08:21:51.892Z
-updated: 2024-09-17T02:22:59.472Z
+date: 2024-10-06T22:19:31.989Z
+updated: 2024-10-09T03:58:46.727Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Filter Keys
@@ -91,13 +98,20 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -109,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  Then, restart your computer and check if the problem is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bring Back the Convenience of Fn Keys
 
  There you have it—a list of quick and easy solutions to fix your computer Fn keys. However, there's a chance the default Fn keys functionality doesn't work for you. In this case, you should know that you can change what the Fn keys do on your Windows computer.
@@ -124,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +138,19 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[New] In 2024, Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-posting-tiktok-content-on-facebook-a-step-by-step-guide/"><u>[Updated] Posting TikTok Content on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-meme-crafting-undead-androids/"><u>2024 Approved Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selective-selection-best-bands-for-ringtones/"><u>2024 Approved Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-depicting-realism-in-docuscripts/"><u>2024 Approved Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-upcoming-license-expiration-error-in-w10w11/"><u>Addressing Upcoming License Expiration Error in W10/W11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-windows-horizon-surpassing-11s-achievements/"><u>Next Windows Horizon: Surpassing 11'S Achievements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-cmd-interface-a-step-by-step-process/"><u>Tailoring CMD Interface: A Step-by-Step Process</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-gimbal-picks-for-dslr-quality-videos/"><u>Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Streamline Edge Security on Windows 11 by Integrating Microsoft's Aguard
-date: 2024-10-03T01:41:35.710Z
-updated: 2024-10-03T16:12:06.946Z
+date: 2024-10-02T21:45:17.291Z
+updated: 2024-10-08T17:15:31.594Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
@@ -80,18 +80,32 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 4. Now go to the right pane and double-click on the **Turn On Microsoft Defender Application Guard in Managed Mode** policy.  
 ![Microsoft Defender Application Guard Using Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-defender-application-guard-using-local-group-policy-editor.jpg)
 5. This will open a new window, select the**Enabled** checkbox.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. You can now go to**Options** and change it to**2** or**3** .  
 ![Turn on Microsoft Defender Application Guard in Managed Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-microsoft-defender-application-guard-in-managed-mode.jpg)
 7. Once done, click**Apply** and then**OK** to save all the changes you have made.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
@@ -111,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
  At this point, you may be asked to restart your computer. To proceed, type**Y** and press Enter. After restarting, you will have successfully installed Microsoft Defender Application Guard on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. How to Install Microsoft Defender Application Guard Using Windows PowerShell
@@ -137,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Microsoft Defender Application Guard and Stay Safe
 
  Microsoft Defender Application Guard uses isolated secure containers to protect your device from malicious files and threats. In the above-described methods, you can follow the installation steps and remain safe while browsing the web.
@@ -163,19 +170,22 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[New] 2024 Approved Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-8-things-to-consider-before-buying-next-lens-for-4k-camera-for-2024/"><u>[New] 8 Things to Consider Before Buying Next Lens for 4K Camera for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>[New] In 2024, In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>[Updated] 2024 Approved From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-videographers-arena-rivalry/"><u>[Updated] 2024 Approved Videographer's Arena Rivalry</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix/"><u>2024 Approved Smoothly Blend Images & Movies A Guide to Windows Photos and StoryRemix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-m4r/"><u>線上靈活音樂格式轉換 - Movavi M4R自由版本</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-10-digital-landscape-replacers-for-videos/"><u>Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convert-mp3-to-wav-files-free-lossless-audio-conversion-with-movavi/"><u>Convert MP3 to WAV Files Free - Lossless Audio Conversion with Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-filming-with-simulated-environments-a-five-point-guide-by-movavi/"><u>Mastering the Art of Filming with Simulated Environments: A Five-Point Guide by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-offline-gratis-scambia-il-tuo-video-in-pdf-o-html-con-il-convertitore-di-file-online-gratuito/"><u>Movavi OFFLINE GRATIS: Scambia Il Tuo Video in PDF O HTML Con Il Convertitore Di File Online Gratuito</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-15-innovadoras-tecnicas-para-crear-collage-de-fotografias-con-eficacia-guia-de-movavi/"><u>Top 15 Innovadoras Técnicas Para Crear Collage De Fotografías Con Eficacia - Guía De Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-basta-dvd-riparatorer-for-mac-movavi-konverter/"><u>TOP 7 Bästa DVD-Riparatorer För Mac - Movavi Konverter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[New] 2024 Approved Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-childhood-cruisers-crafted-games-for-2024/"><u>[New] Childhood Cruisers, Crafted Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-make-your-instagram-content-explosive-a-guide-to-virality-for-2024/"><u>[New] Make Your Instagram Content Explosive A Guide to Virality for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-the-top-best-cloud-storage-service-for-business/"><u>2024 Approved The Top Best Cloud Storage Service for Business</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tuneful-images-the-apple-fusion-method/"><u>2024 Approved Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-dive-into-modern-standby-and-its-problematic-aspects/"><u>A Dive Into Modern Standby and Its Problematic Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-resolving-rd-session-errors-win10win11/"><u>A Guide to Resolving RD Session Errors Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-winning-strategy-for-moving-software-into-the-future-of-windows-11/"><u>A Winning Strategy for Moving Software Into the Future of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-index-view-options/"><u>Accessing Windows Index View Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-11s-default-silent-camera-alert-setting/"><u>Altering Windows 11'S Default Silent Camera Alert Setting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-your-agenda-linking-to-do-to-ifttt/"><u>Automate Your Agenda: Linking To-Do to IFTTT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-the-pitfalls-of-mysterious-obs-studio-recordings/"><u>Avoiding the Pitfalls of Mysterious OBS Studio Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/explore-premium-download-options-for-mp4/"><u>Explore Premium Download Options for MP4</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719383487316-overcoming-windows-obstacles-simple-effective-solutions/"><u>Overcoming Windows Obstacles: Simple, Effective Solutions!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-12-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 12 Pro 5G Phone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y28 5G.</u></a></li>
 </ul></div>
 

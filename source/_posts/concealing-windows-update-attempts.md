@@ -1,7 +1,7 @@
 ---
 title: Concealing Windows Update Attempts
-date: 2024-09-26T16:46:58.142Z
-updated: 2024-10-03T19:45:10.613Z
+date: 2024-10-05T06:32:15.810Z
+updated: 2024-10-08T18:32:37.986Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 3. Under Windows Update, you will find the **Restart now** option.
 4. Select this option to restart your computer and install the pending updates.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Install Pending Updates
 
  If your computer keeps reminding you to update and shuts down, check for pending updates. It is possible that the updates were not installed properly and Windows is now asking you to complete them.
@@ -52,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 3. Select the **Check for updates** option from the right pane.
 
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Update Troubleshooter
 
@@ -66,20 +66,20 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 4. Look for **Windows Update** and click **Run** next to it.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Clear the Software Distribution Folder
 
@@ -119,9 +119,31 @@ net start msiserver`
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Now close the window and restart your computer.
 
  Sometimes you may not see the Restart option in the Start menu. In that case, [run the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). Now type **shutdown -s -t 0** in the command prompt and hit Enter. This will restart your computer immediately.
@@ -198,49 +220,15 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. When the UAC window appears, select **Yes** to continue.
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resolving Incorrect Notifications for Updates and Restarts
 
  Now that you know how to fix incorrect notifications for updates and restarts, you can avoid this issue in the future. Make sure Windows Update is configured correctly and reset components. Also, keep your computer updated with the latest security patches. Doing this will also ensure smooth system operation.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-visual-virtuosos-questions-addressed/"><u>[New] 2024 Approved Visual Virtuosos Questions Addressed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-obs-versus-streamlabs-the-live-stream-software-duel/"><u>[Updated] OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-window-shifts-gone-but-not-forgotten/"><u>6 Window Shifts: Gone But Not Forgotten</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-excel-essential-productivity-software-for-professionals-on-windows/"><u>Efficiently Excel: Essential Productivity Software for Professionals on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-system-performance-with-effective-use-of-windows-law-filters/"><u>Elevating System Performance with Effective Use of Window's LAW Filters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-playstations-blackout-blunder-in-call-of-duty-wwii-for-windows-users/"><u>How to Stop PlayStation's 'Blackout Blunder' In Call of Duty: WWII for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-20/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tips-for-effortless-sharing-of-musical-selections/"><u>In 2024, Tips for Effortless Sharing of Musical Selections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-use-kapwing-meme-maker/"><u>In 2024, Use Kapwing Meme Maker</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/is-an-m1-macbook-air-smarter-and-faster-for-editing/"><u>Is an M1 MacBook Air Smarter and Faster for Editing?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-steps-for-installing-newest-dell-audio-device-drivers/"><u>Quick Steps for Installing Newest Dell Audio Device Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-updating-zoom-version-on-pcs-and-macbooks/"><u>Step-by-Step Guide: Updating Zoom Version on PCs and MacBooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y27-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y27 5G to Gmail | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -249,3 +237,22 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-silence-disabling-participants-in-gmeet-calls/"><u>[New] 2024 Approved Mastering Silence Disabling Participants in GMeet Calls</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-access-all-movies-ioss-no1-freepluspaid-film-apps-guide-for-2024/"><u>[New] Access All Movies IOS's No.1, FREE+Paid Film Apps Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-immerse-yourself-in-the-world-of-apples-ios-vr-titles/"><u>[New] In 2024, Immerse Yourself in the World of Apple's iOS VR Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-advanced-guide-to-online-image-sharpening/"><u>[Updated] 2024 Approved Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transforming-single-frames-into-motion-narratives/"><u>[Updated] 2024 Approved Transforming Single Frames Into Motion Narratives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-crash-focus-on-0x800f0831/"><u>Eliminate Windows Crash: Focus on 0X800f0831</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-iphone-selfie-tools-ranked-8/"><u>Essential iPhone Selfie Tools Ranked #8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-screen-space-removing-windows-overscan-effects/"><u>Maximizing Screen Space: Removing Windows Overscan Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-winerror-x8019/"><u>Mitigating WinError: X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-change-the-dynamic-background-in-windows-os/"><u>Seamlessly Change the Dynamic Background in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-language-settings-add-and-switch-layouts-in-win-11-os/"><u>Streamlining Language Settings: Add & Switch Layouts in Win 11 OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-k70-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi K70 Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-10-free-video-speed-editor-apps-for-mobile-users/"><u>Updated In 2024, The Ultimate List 10 Free Video Speed Editor Apps for Mobile Users</u></a></li>
+</ul></div>
+

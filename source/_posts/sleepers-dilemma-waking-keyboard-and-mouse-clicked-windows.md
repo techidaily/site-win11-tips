@@ -1,7 +1,7 @@
 ---
 title: "Sleeper's Dilemma: Waking Keyboard & Mouse Clicked Windows"
-date: 2024-09-29T21:26:07.444Z
-updated: 2024-10-03T20:28:42.337Z
+date: 2024-10-03T02:39:56.043Z
+updated: 2024-10-08T18:27:14.358Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -71,19 +71,19 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
@@ -91,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
@@ -118,19 +124,21 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-syncing-zoom-to-your-calendar/"><u>[New] 2024 Approved Syncing Zoom to Your Calendar</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-knowledge-for-effective-use-of-the-io-screener/"><u>[Updated] In 2024, Essential Knowledge for Effective Use of the IO Screener</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-top-30-innovative-anime-concepts-for-viral-video-creators-for-2024/"><u>[Updated] Top 30 Innovative Anime Concepts for Viral Video Creators for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-how-to-share-twitter-videos-on-facebook-for-2024/"><u>2023 | How to Share Twitter Videos on Facebook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-ranking-the-top-10-high-def-4k-displays/"><u>2024 Approved Ranking the Top 10 High-Def 4K Displays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fresh-start-guide-essential-tactics-to-reset-your-windows/"><u>Fresh Start Guide: Essential Tactics to Reset Your Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guarded-data-flows-safeguarding-network-drives-in-winos/"><u>Guarded Data Flows: Safeguarding Network Drives in WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-computer-from-rogue-usb-devices/"><u>How To Safeguard Your Computer From Rogue USB Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/hps-visionary-color-display-dissecting-the-z32x-monitor-for-2024/"><u>HP’s Visionary Color Display Dissecting the Z32X Monitor for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-smooth-directx-setup-on-your-digital-device/"><u>Master the Art of Smooth DirectX Setup on Your Digital Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-updater-problem-0xca00a009/"><u>Navigating Through Windows Updater Problem 0xCA00A009</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-nwstoreexe-crashes/"><u>Troubleshooting Steps to Resolve nw_store.exe Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-update-halted-in-4-easy-ways/"><u>Windows Update Halted in 4 Easy Ways</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-modernized-guide-of-queries-for-engaging-podcast-discussions/"><u>[Updated] In 2024, Modernized Guide of Queries for Engaging Podcast Discussions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ranked-top-5-ps3-virtual-players-for-pc-for-2024/"><u>[Updated] Ranked Top 5 PS3 Virtual Players for PC for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-computer-storage-the-c-and-d-scene/"><u>Comparing Computer Storage: The 'C:' And 'D:' Scene</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-fixes-22h2-edition/"><u>Essential Windows 11 Fixes: 22H2 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraud-alert-vigilant-against-gpt-scams/"><u>Fraud Alert: Vigilant Against GPT Scams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-hangouts-demystified-everything-you-need-to-know/"><u>Google Hangouts Demystified: Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-messages-failed-to-load-error-on-discord-for-windows/"><u>How to Fix the Messages Failed to Load Error on Discord for Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-this-years-breakthrough-in-vr-gaming-technology/"><u>In 2024, This Year's Breakthrough in VR Gaming Technology</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-top-free-video-makers-users/"><u>New Unleash Your Creativity Top Free Video Makers Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-silenced-microphone-for-xbox-console/"><u>Reviving Silenced Microphone for Xbox Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-audio-service-restart-process-before-boot-up/"><u>Simplifying Audio Service Restart Process Before Boot Up</u></a></li>
+<li><a href="https://article-files.techidaily.com/streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-windows-11s-volume-mixer/"><u>Unlock the Full Potential of Windows 11'S Volume Mixer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

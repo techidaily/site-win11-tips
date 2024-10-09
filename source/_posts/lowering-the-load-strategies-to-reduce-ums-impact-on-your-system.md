@@ -1,7 +1,7 @@
 ---
 title: "Lowering the Load: Strategies to Reduce UMS Impact on Your System"
-date: 2024-09-16T23:35:32.126Z
-updated: 2024-09-21T20:14:52.861Z
+date: 2024-10-05T22:47:19.182Z
+updated: 2024-10-09T04:16:57.108Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![Disable Vanguard-Related Processes From Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-disable-vanguard-related-processes-from-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once these processes are disabled, give Valorant a fresh start, which will automatically restart Vanguard. If restarting the processes doesn't make a difference and the process continues to overstretch the CPU, move on to the next step.
 
 ## 3\. Make the Vanguard User-Mode Service Process a Low Priority
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  Here, uncheck the boxes besides most of the **CPUs** and keep only a few of them checked.
 
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Stop the Vanguard Service and Restart It
 
@@ -91,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
@@ -110,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Move Valorant to a Different Drive
@@ -121,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  Installing Valorant on the same drive as your operating system has been reported to cause problems. If you've also installed the game on the same drive where your OS resides, it's possible that Windows security could be hindering Vanguard's activity, making it consume more resources.
 
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Install a Fresh Copy of Vanguard
 
@@ -138,16 +145,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
@@ -168,5 +169,24 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-usenet-video-player-direct-streaming-access/"><u>[New] 2024 Approved Usenet Video Player Direct Streaming Access</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-handling-live-stream-halt-a-guide-for-fb-users-for-2024/"><u>[Updated] Handling Live Stream Halt A Guide for FB Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-platforms-converting-vids-for-the-bird/"><u>[Updated] Premium Platforms Converting Vids for the Bird</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>2024 Approved Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-palette-prestige-highlighting-10-free-mac-compatible-art-tools/"><u>2024 Approved Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computing-secrets-at-toms-hardware-universe/"><u>Discover Advanced Computing Secrets at Tom's Hardware Universe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-protection-fixing-defenders-unavailable-threat-detection/"><u>Enhancing Protection: Fixing Defender's Unavailable Threat Detection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-parsing-glitches-error-0xc00ce556-guide/"><u>Fixing Parsing Glitches: Error 0xC00CE556 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-w11-package-management-with-winget/"><u>Navigating the World of W11 Package Management with Winget</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-stunning-videos-in-minutes-wevideo/"><u>New Make Stunning Videos in Minutes WeVideo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-graphics-revival-a-dive-into-retroarcs-shader-world/"><u>Old-School Graphics Revival: A Dive Into RetroArc’s Shader World</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/perfecting-audio-precision-key-eq-settings-explored-for-2024/"><u>Perfecting Audio Precision Key EQ Settings Explored for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-and-repairing-your-windows-default-download-area/"><u>Reactivating and Repairing Your Windows Default Download Area</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revise-your-setup-troubleshooting-techniques-for-non-blinking-cursors/"><u>Revise Your Setup! Troubleshooting Techniques for Non-Blinking Cursors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-unsupported-systems-the-step-by-step-win11-22h2-path/"><u>Transforming Unsupported Systems: The Step-by-Step Win11 22H2 Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-color-mismatch-resolution-guide/"><u>Windows Color Mismatch Resolution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-pathways-to-the-cloud-accessible-dropbox-and-drive-letters/"><u>Windows Pathways to the Cloud: Accessible Dropbox & Drive Letters</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting OBS Win: Startup Issues"
-date: 2024-09-27T22:20:15.893Z
-updated: 2024-10-04T00:16:25.359Z
+date: 2024-10-03T17:20:19.103Z
+updated: 2024-10-09T03:13:01.217Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set a Power Saving GPU Option for OBS Studio
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 ![The Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/power-saving-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Roll Back a Recent Graphics Driver Update
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
 
  Updating a graphics driver may sound contradictory to the previous potential fix. However, OBS Studio issues often arise because of outdated graphics drivers. If you don’t have an option to roll back your graphics card’s driver, try updating it instead.
@@ -85,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
  Our [how to update your graphics drives on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) article tells you about the different ways you can apply this potential solution.
 
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Delete the OBS Studio Configuration Data Folder
 
@@ -102,7 +88,22 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 3. Select **OK** to access a Roaming directory within File Explorer.  
 ![The OBS Studio data folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-folder.jpg)
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Superfluous Background Apps and Services
 
@@ -125,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 ![The Windows download button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
@@ -139,22 +140,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>[New] Pro's Recommendation Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-soons-review-diverse-perspectives/"><u>[Updated] 2024 Approved Soon's Review Diverse Perspectives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[Updated] In 2024, Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-convert-your-asf-media-formats-into-anything-you-need-using-the-movavi-video-converter/"><u>Easily Convert Your ASF Media Formats Into Anything You Need - Using the Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/en-lukkelse-til-at-snite-din-forhor-med-fjerntrimmning-af-de-uonskede-avlejningsdeler-i-filmen/"><u>En Lukkelse Til At Snite Din Forhør Med Fjerntrimmning Af De Uønskede Avlejningsdeler I Filmen</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-narzo-60-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme Narzo 60 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/saving-past-emails-to-active-exchange-platform-via-video-guide/"><u>Saving Past Emails to Active Exchange Platform via Video Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-images-into-webp-format-instantly-and-free-with-movavis-online-tool/"><u>Transform Images Into WebP Format Instantly and Free with Movavi's Online Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asf-mp4/"><u>자이로나스터: 무료 ASF 영상 데이터를 MP4로 구성하기</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726227055668-wavmkv-movavi/"><u>シェア機能付きWAVからMKVへのオンライン無償変換 - Movavi</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,3 +147,27 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-clear-views-combating-fog-in-gopro-photos/"><u>[Updated] 2024 Approved Clear Views Combating Fog in GoPro Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-acknowledgments-galore-cost-effective-templates-here/"><u>[Updated] Acknowledgments Galore Cost-Effective Templates Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-clear-the-microsoft-defender-protection-history-on-windows-10-and-11/"><u>4 Ways to Clear the Microsoft Defender Protection History on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-alternative-protection-strategies-for-missing-bitlocker-in-winoss/"><u>5 Alternative Protection Strategies for Missing Bitlocker in WinOSs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-digital-dreamland-with-windows-pcs/"><u>Achieving Digital Dreamland with Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-10-and-11s-phishing-protection-settings/"><u>Adjusting Windows 10 & 11'S Phishing Protection Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artificial-intelligence-windows-future-trailblazer/"><u>Artificial Intelligence: Windows' Future Trailblazer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-keeping-high-vitality-in-check-on-windows/"><u>Balancing Act: Keeping High Vitality in Check on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-unveiled-supercharge-wsl-2-with-windows-dev-tools/"><u>Best Practices Unveiled: Supercharge WSL 2 with Windows Dev Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-boundaries-artificinas-intelligence-in-windows-11/"><u>Beyond Boundaries: Artificinas Intelligence in Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/driving-organic-growth-leverage-the-power-of-cookiebot-seo-tools/"><u>Driving Organic Growth: Leverage the Power of Cookiebot SEO Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-overcoming-challenges-when-removing-persistent-folders-on-windows-10-and-11-with-revo-uninstaller/"><u>Expert Tips: Overcoming Challenges When Removing Persistent Folders on Windows 10 and 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-passage-premier-vr-equipment-showcase/"><u>In 2024, Metaverse Passage Premier VR Equipment Showcase</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-visual-experience-on-youtube-with-professional-techniques-for-2024/"><u>Perfect Visual Experience on YouTube with Professional Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-demise-of-chatgpt-crack-techniques-insights-into-7-reason-for-their-discontinuation/"><u>The Demise of ChatGPT Crack Techniques: Insights Into 7 Reason for Their Discontinuation</u></a></li>
+</ul></div>
+

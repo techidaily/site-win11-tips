@@ -1,7 +1,7 @@
 ---
 title: Eliminating the Frustration of Frequent PS4 Remote Disconnects on PC
-date: 2024-09-27T23:59:27.842Z
-updated: 2024-10-03T22:20:45.132Z
+date: 2024-10-06T05:26:00.633Z
+updated: 2024-10-08T16:53:14.640Z
 tags:
   - windows10
   - windows11
@@ -31,24 +31,24 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Controller's Range Issues
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend [running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Hard Reset Your Controller
@@ -86,18 +86,18 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  Once you update the driver, check if you can use the controller properly without it disconnecting.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Ensure DS4Windows Is Properly Installed
 
  Many Windows users use the [DS4Windows](https://ds4-windows.com/) app to connect their controller to a computer. But if it has glitched out, you should try updating it and see if that resolves the issue. To do that, go to the folder where you installed DS4Windows and double-click on the **DS4Updater.exe** file.
 
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
@@ -107,25 +107,6 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  If you want to get rid of this annoying problem, we're going to show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it/"><u>[New] 2024 Approved How to Turn on AV1 Settings on YouTube and Why You Should Do It</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-approaches-to-iptv-video-logging-for-2024/"><u>[Updated] Innovative Approaches to IPTV Video Logging for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-techniques-for-capturing-high-quality-movies-on-all-os-for-2024/"><u>[Updated] Techniques for Capturing High-Quality Movies on All OS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-elite-circle-of-digital-titling-top-5-revealed/"><u>[Updated] The Elite Circle of Digital Titling Top 5 Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commanding-control-in-windows-11-filtering-tasks-and-implementing-new-theme-vibes/"><u>Commanding Control in Windows 11: Filtering Tasks & Implementing New Theme Vibes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-c67-4g-by-drfone-android/"><u>How to Bypass FRP on Realme C67 4G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-rgb-lighting-controls-in-windows-11/"><u>How to Enable RGB Lighting Controls in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-f5-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco F5 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/live-streaming-made-simple-mastering-ps4-captures-using-obs-for-2024/"><u>Live Streaming Made Simple Mastering PS4 Captures Using OBS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-cut-and-paste-in-win-11/"><u>Overcoming Issues with Cut & Paste in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-mending-windows-registry-errors/"><u>Quick Guide to Mending Windows Registry Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-free-image-carousels-in-win11-step-by-step/"><u>The Ultimate Guide to Free Image Carousels in Win11, Step by Step</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-lowdown-on-the-budget-friendly-beatech-bitwatch-s1-plus-an-intriguing-wearable-device-review/"><u>The Ultimate Lowdown on the Budget-Friendly Beatech Bitwatch S1 Plus: An Intriguing Wearable Device Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-win-11-gameplay-today-with-these-top-seven-tweaks/"><u>Transform Your Win 11 Gameplay Today with These Top Seven Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-scanners-compromised-biometrics-or-busted/"><u>Windows Scanners Compromised: Biometrics or Busted?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +114,25 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-top-online-tips-creating-title-magic-for-2024/"><u>[New] Top Online Tips Creating Title Magic for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enjoy-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>[Updated] Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-iphone-x-handbook-for-users/"><u>2024 Approved The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-battlenet-speed-fasten-your-windows-pace/"><u>Boosting Battle.net Speed: Fasten Your Windows Pace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatgpt-launch-procedure-for-windows-users/"><u>ChatGPT Launch Procedure for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-the-heat-cutting-down-vanguard-writes-on-your-computer/"><u>Easing the Heat: Cutting Down Vanguard’ Writes on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-gaming-unbound-android-in-desktop-windows-with-google-play-service/"><u>Experience Gaming Unbound: Android in Desktop Windows with Google Play Service</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-capacity-overcoming-input-size-restrictions/"><u>Exploring ChatGPT's Text Capacity: Overcoming Input Size Restrictions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gaming-fluidity-effective-fixes-to-combat-frame-skips-and-stuttering-issues/"><u>Master Gaming Fluidity: Effective Fixes to Combat Frame Skips and Stuttering Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-connection-setting-up-samsung-earphones-on-your-notebook/"><u>Master the Connection: Setting Up Samsung Earphones on Your Notebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pitfalls-of-the-promotional-assessing-risks-with-low-price-auth-codes/"><u>Pitfalls of the Promotional: Assessing Risks with Low-Price Auth Codes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-display-setup-transferring-your-screen-from-laptop-to-tv-over-hdmi-with-illustrative-pictures/"><u>Seamless Display Setup: Transferring Your Screen From Laptop to TV over HDMI [With Illustrative Pictures]</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-settings-for-a-fully-customized-and-optimized-switch/"><u>Top 9 Settings for a Fully Customized and Optimized Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-games-again-steams-achievement-reboot/"><u>Unlocking Games Again: Steam's Achievement Reboot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-error-unsigned-update-files-fix-guide/"><u>Windows Error: Unsigned Update Files; Fix Guide</u></a></li>
+</ul></div>
+

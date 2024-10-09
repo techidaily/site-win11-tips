@@ -1,7 +1,7 @@
 ---
 title: Quieting Chrome Ads & Alerts on Windows Machines
-date: 2024-09-15T18:59:13.424Z
-updated: 2024-09-21T19:20:06.213Z
+date: 2024-10-08T07:47:57.761Z
+updated: 2024-10-09T01:56:52.988Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -51,11 +58,32 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 6. Under**Default behavior** , select**Don’t allow sites to send notifications** to disable Chrome notifications.  
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
 
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
 
@@ -71,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  If you've previously enabled notifications for any sites, you’ll find them under the**Allowed to send notifications** section. To disable notifications for those websites, click the**three-dot menu icon** next to the website URL and select**Block** .
 
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
 
@@ -98,5 +119,17 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sky-high-adventures-the-gopro-karma-experience/"><u>[Updated] 2024 Approved Sky-High Adventures The GoPro Karma Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[Updated] Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-leveraging-visuals-a-step-by-step-guide-for-youtube-trailers/"><u>[Updated] In 2024, Leveraging Visuals A Step-by-Step Guide for YouTube Trailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-adjustments-nine-fixes-to-smooth-out-windows-11-gaming/"><u>Accelerated Adjustments: Nine Fixes to Smooth Out Windows 11 Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-your-desktop-background-effortlessly-with-win11/"><u>Alter Your Desktop Background Effortlessly with Win11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/craft-stunning-photos-with-color-correction-for-2024/"><u>Craft Stunning Photos with Color Correction for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y17s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y17s FRP Bypass</u></a></li>
+</ul></div>
 

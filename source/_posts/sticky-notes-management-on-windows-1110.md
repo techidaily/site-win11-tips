@@ -1,7 +1,7 @@
 ---
 title: Sticky Notes Management on Windows 11/10
-date: 2024-09-16T19:21:10.862Z
-updated: 2024-09-21T22:37:34.244Z
+date: 2024-10-07T06:06:49.100Z
+updated: 2024-10-09T03:47:37.042Z
 tags:
   - windows10
   - windows11
@@ -86,11 +86,34 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
 5. Click**OK** to stick the note to the selected window.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
 
@@ -105,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
@@ -123,12 +153,17 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-edit-and-elevate-instagrams-ultimate-toolkit-for-2024/"><u>[New] Edit & Elevate Instagram's Ultimate Toolkit for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-social-media-presence-by-pining-on-snapchat/"><u>[Updated] In 2024, Elevate Your Social Media Presence by Pining on Snapchat</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[Updated] In 2024, Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-windows-11s-compatibility-fixer/"><u>A Step-by-Step Guide to Windows 11’S Compatibility Fixer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-linking-devices-a-nearby-share-walkthrough/"><u>Effortlessly Linking Devices: A Nearby Share Walkthrough</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-refrigeration-innovation-aseteks-advanced-ai-cold-plate-for-ecam-systems-born-from-cutting-edge-3d-metal-printing-and-synergistic-development-with-16/"><u>Next-Gen Refrigeration Innovation: Asetek's Advanced AI Cold Plate for ECAM Systems, Born From Cutting-Edge 3D Metal Printing and Synergistic Development with Fabric8 Labs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/soundtrack-savings-how-to-enjoy-free-audio-tracks-with-ease-for-2024/"><u>Soundtrack Savings How to Enjoy Free Audio Tracks with Ease for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/superior-windows-solutions-for-multimedia-tasks/"><u>Superior Windows Solutions for Multimedia Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
+</ul></div>
 

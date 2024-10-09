@@ -1,7 +1,7 @@
 ---
 title: Conceal Windows 11'S Observer Mode
-date: 2024-09-28T21:49:08.632Z
-updated: 2024-10-03T22:01:32.078Z
+date: 2024-10-04T17:40:43.944Z
+updated: 2024-10-08T18:34:56.926Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
  Some methods Microsoft uses to collect data from an average Windows 11 user are location services, cookies, diagnostic feedback, and browser activity in Microsoft Edge. Any third-party apps installed on your Windows 11 PC may also collect your activity and location data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Be Worried About Your Data Privacy on Windows 11?
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
@@ -72,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 4. Click the**Activity history** tab and disable the**Store my activity history on this device** option.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. We also recommend choosing the**Clear activity history for this account** option.
@@ -99,6 +101,14 @@ To disable tracking within Microsoft Edge:
 2. Click on the 3-dots menu icon in the far right and select**Settings** from the dropdown menu.  
 ![edge tracking prevention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-tracking-prevention.jpg)
 3. Select**Privacy, search and services** from the side menu.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enable**Tracking prevention** , and choose the tracking level you want to allow during your browsing sessions.
 
  If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
@@ -113,25 +123,11 @@ To disable tracking within Microsoft Edge:
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
@@ -155,18 +151,22 @@ To disable tracking within Microsoft Edge:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-professional-video-editing-simplified-with-mac-mp4-cutters/"><u>[New] 2024 Approved Professional Video Editing Simplified with Mac MP4 Cutters</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ominate-views-smarter-youtube-timing-strategies/"><u>[New] Dominate Views Smarter Youtube Timing Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-idea-to-airwaves-crafting-compelling-podcast-scripts-for-2024/"><u>[Updated] From Idea to Airwaves Crafting Compelling Podcast Scripts for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevating-your-social-signature-top-tips-and-tricks-for-impressive-biographies-on-fb-for-2024/"><u>Elevating Your Social Signature Top Tips and Tricks for Impressive Biographies on FB for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-writing-problems-on-windows-platforms/"><u>Eliminating Writing Problems on Windows Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-files-downloads-in-windows-11-5/"><u>Fixing Unresponsive Files Downloads in Windows 11 (5)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harnessing-hashtag-magic-for-more-followers/"><u>In 2024, Harnessing Hashtag Magic for More Followers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-the-decision-to-adopt-itop-recording/"><u>In 2024, Navigating the Decision to Adopt ITop Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-failure-error-0x8024800c/"><u>Resolving Windows Update Failure (Error 0X8024800C)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-x50i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor X50i to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719361339925-solving-ms-to-do-discrepancies-no-sync-heres-how/"><u>Solving MS To-Do Discrepancies: No Sync? Here's How</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-files-save-path-problem-easy-fix-guide/"><u>Windows Files' Save Path Problem: Easy Fix Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-your-personalized-music-compilation/"><u>[New] In 2024, Your Personalized Music Compilation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exclusive-collection-vimeo-video-clippers-for-2024/"><u>[Updated] Exclusive Collection Vimeo Video Clippers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtubes-revenue-boost-new-500-subs-milestone/"><u>[Updated] In 2024, YouTube's Revenue Boost New 500 Subs Milestone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-voice-generator/"><u>2024 Approved What Is an AI Voice Generator?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-files-and-folders-win-1011-edition/"><u>Conquering Files and Folders, Win 10/11 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-ps3-simulators-for-windows-users-top-5/"><u>Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-file-failsafe-six-steps-for-correcting-winrar-sums/"><u>Fixing File Failsafe: Six Steps for Correcting WinRAR Sums</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-optimal-performance-downloading-new-drivers-for-your-toshiba-on-windows/"><u>How to Ensure Optimal Performance: Downloading New Drivers for Your Toshiba on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/novices-guide-to-easy-use-of-windows-accessibility/"><u>Novices' Guide to Easy Use of Windows Accessibility</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a38-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A38 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-creating-new-dossiers-in-win11/"><u>Quick Methods: Creating New Dossiers in Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fixing-bsod-defeating-the-0x00000050-error-on-windows-operating-system/"><u>Step-by-Step Guide to Fixing BSOD - Defeating the 0X00000050 Error on Windows Operating System</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs/"><u>Streamline Your Life with These 5 Chrome Tools for FB Video Grabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-advantages-of-using-dxvk-on-your-windows-system/"><u>The Advantages of Using DXVK on Your Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-free-must-have-tools-for-windows-11/"><u>The Best Free Must-Have Tools for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-authentication-lags-in-rustwindows/"><u>Troubleshooting Steam Authentication Lags in Rust/Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-notes-into-masterpieces-with-obsidian-art/"><u>Turn Your Notes Into Masterpieces with Obsidian Art</u></a></li>
 </ul></div>
 

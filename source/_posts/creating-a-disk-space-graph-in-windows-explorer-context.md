@@ -1,7 +1,7 @@
 ---
 title: Creating a Disk Space Graph in Windows Explorer Context
-date: 2024-09-17T07:26:43.926Z
-updated: 2024-09-21T21:17:17.553Z
+date: 2024-10-07T20:14:17.264Z
+updated: 2024-10-08T21:25:14.780Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
@@ -73,9 +80,23 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
@@ -86,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
@@ -104,12 +132,26 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>[New] The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-origami-inspired-best-minimalist-homes-in-minecraft/"><u>[Updated] In 2024, Origami Inspired Best Minimalist Homes in Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-peek-at-the-finest-laptops-from-ifa-2023/"><u>A Peek at the Finest Laptops From IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719319638119-collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-lgbtqplus-content-available-on-netflix-in-july-2024/"><u>Discover the Best LGBTQ+ Content Available on Netflix in July 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-games-troubleshooting-on-pc-focus-on-login-issues/"><u>Epic Games Troubleshooting on PC: Focus on Login Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/re-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-zero-to-profit-beginners-guide-on-periscope-earning-for-2024/"><u>From Zero to Profit Beginner’s Guide on Periscope Earning for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-6-awesome-free-webcam-games-for-computer/"><u>In 2024, 6 Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-missing-features-in-samsung-galaxy-tab-a-2er-2020-review/"><u>In-Depth Look at Missing Features in Samsung Galaxy Tab A (2Er 2020 Review)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/interfacing-xbox-with-windows-os/"><u>Interfacing XBox with Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-fixing-lol-drops-in-windows/"><u>Mastering Connectivity: Fixing LoL Drops in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-gopro-quik-is-it-the-best-video-editor-for-your-pc-plus-alternatives/"><u>New In 2024, GoPro Quik Is It the Best Video Editor for Your PC? (Plus Alternatives)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/savor-on-screen-mastering-food-films-with-these-7-essentials/"><u>Savor on Screen - Mastering Food Films with These 7 Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-homescreen-activation-in-windows-11/"><u>Troubleshooting Homescreen Activation in Windows 11</u></a></li>
+</ul></div>
 

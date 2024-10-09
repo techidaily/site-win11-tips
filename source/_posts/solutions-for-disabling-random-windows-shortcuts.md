@@ -1,7 +1,7 @@
 ---
 title: Solutions for Disabling Random Windows Shortcuts
-date: 2024-10-01T21:57:07.929Z
-updated: 2024-10-03T18:48:17.324Z
+date: 2024-10-08T07:41:17.756Z
+updated: 2024-10-09T01:26:42.341Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  While we are unsure of what causes the issue, and there’s much less information on what the **Win + Alt** key combo does, it is an easy fix to resolve this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn Off Sticky and Filter Keys
 
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
@@ -52,16 +52,22 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 4. Next, toggle the switch for the **Sticky** and **Filter Keys**.
 5. Close the Settings app and restart your computer. After the system restarts, check if your keyboard is working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Keyboard Troubleshooter (Windows 10 Only)
 
 ![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 10 and older versions feature a built-in keyboard troubleshooter to fix commonly known problems with the keyboard. However, the newer iteration of Windows 11 has done away with the keyboard troubleshooter, so you are unlikely to benefit from these steps.
 
@@ -88,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 5. After the restart, Windows will automatically reinstall the necessary driver for the keyboard.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reconfigure or Disable the Windows Ink Workspace Service
@@ -115,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 ![disable activation shortcut windows ink workspace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-activatgion-shortcut-windows-ink-workspace.jpg)
 3. Close the **Settings** dialog and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quit and Disable Auto Startup for Windows Ink Workspace
 
  If you'd prefer that Windows Ink Workspace didn't start up by itself:
@@ -133,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 4. Open the **Startup Apps** tab.
 5. Select **Ink Workspace** and select **Disable**.
 6. Close Task Manager and check if you can type on your keyboard without triggering the app.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable Windows Ink Workspace
 
@@ -155,20 +141,28 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 5. Right-click the **Microsoft** key in the left pane, select **New > Key**.  
 ![create new key WindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-key-windowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Rename the key as **WindowsInkWorkspace**.
 2. Next, right-click on the **WindowsInkWorkspace** key and select **New > DWORD (32-bit) Value**.  
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 3. Rename the new values as **AllowWindowsInkWorkspace**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
 5. Type **0** in the **Value data** field and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Close the Registry Editor and restart your computer.
 
@@ -182,6 +176,13 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 * **Uninstall recent Windows updates** – At times, newer Windows updates can introduce new bugs. If you have recently installed an update, try to [manually remove the latest Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and see if the issue is resolved.
 * **Perform a system restore** – If the error occurred after installing an update and you can’t uninstall it, you can [use a system restore to undo the update or recent changes made by you](https://www.makeuseof.com/use-system-restore-windows/).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Your Keyboard to Type Again on Windows
 
  It is easy to assume your keyboard to be malfunctioning when it starts acting up and activates shortcuts or open applications instead of typing letters. However, in most instances, it is due to accidentally activating the shortcut function or a hotkey software working in the background.
@@ -190,22 +191,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  Fortunately, fixing this problem is easy. Here we show you what to do when your keyboard opens random applications and shortcuts when pressing any key.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-free-youtube-spotlight-with-two-key-approaches/"><u>[New] 2024 Approved Free YouTube Spotlight with Two Key Approaches</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-pinpointing-factors-that-influence-igtv-video-performance/"><u>[New] Pinpointing Factors that Influence IGTV Video Performance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-dissecting-android-image-alterations-does-pickup-shine-above-others-for-2024/"><u>[Updated] Dissecting Android Image Alterations Does PickUp Shine Above Others for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tech-savvy-solutions-for-iphone-screenshots/"><u>[Updated] In 2024, Tech Savvy Solutions for iPhone Screenshots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-storage-upgrade-for-sony-a7s-ii-cameras/"><u>2024 Approved Excellent Storage Upgrade for Sony A7S II Cameras</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-peering-through-the-colors-with-advanced-blade-cameras/"><u>2024 Approved Peering Through the Colors with Advanced Blade Cameras</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-the-challenge-of-filedirectory-corrupted-on-oses/"><u>Confronting the Challenge of File/Directory Corrupted on OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-stuck-fixing-non-installation-of-optional-windows-11-features/"><u>Getting Stuck? Fixing Non-Installation of Optional Windows 11 Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-playchoice-pondering-over-dacast/"><u>In 2024, PlayChoice Pondering Over DaCast</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-proxy-setup-on-the-latest-win-11/"><u>Step-by-Step Proxy Setup on the Latest Win 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -213,3 +198,25 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-learn-how-to-change-your-in-game-characters-vocal-presence-with-ease-for-free/"><u>[New] 2024 Approved Learn How to Change Your In-Game Character's Vocal Presence with Ease - For FREE</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers/"><u>[New] 2024 Approved Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-thumbnail-design-101-for-video-promotion-on-youtube/"><u>[New] In 2024, Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-liveaudiovideocasting-network-for-2024/"><u>[New] LiveAudioVideocasting Network for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-startup-steps-for-stream-money-in-periscope/"><u>[Updated] 2024 Approved Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams-for-2024/"><u>[Updated] Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a59-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A59 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-captivating-content-with-correct-dimensions-for-2024/"><u>Crafting Captivating Content with Correct Dimensions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disrupt-a-persistent-dark-theme-on-windows/"><u>How to Disrupt a Persistent Dark Theme on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-live-video-downloaders-how-to-download-live-videos/"><u>In 2024, Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-disk-space-safely/"><u>Maximizing Windows Disk Space Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-slowq-bittorrent-progress-on-pc/"><u>Strategies to Revive Slowq Bittorrent Progress on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-default-windows-configuration/"><u>Tips for Restoring Default Windows Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-server-executed-failed-mystery/"><u>Unraveling the 'Server Executed Failed' Mystery</u></a></li>
+</ul></div>
+

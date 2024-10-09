@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Protection: Fixing Defender's Unavailable Threat Detection"
-date: 2024-09-29T19:47:14.027Z
-updated: 2024-10-03T18:58:50.367Z
+date: 2024-10-03T18:23:50.225Z
+updated: 2024-10-08T22:16:54.391Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * **Corrupted Windows files or malware** \- the critical system files might be corrupt, which is affecting the update functionality of Windows. Your system might also be infected with malware.
 
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Security Center Service
 
@@ -80,10 +93,10 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -95,10 +108,16 @@ Once that is done, proceed with the steps below:
  You can also use the Powershell utility to install the update manually. We have discussed the[different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset Windows Security
@@ -115,17 +134,10 @@ Here is how you can reset the Windows Security app:
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Remove Any Conflicting Software
@@ -155,21 +167,20 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>[Updated] Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumping-from-sdr-to-hdr-the-ultimate-transformation-guide/"><u>2024 Approved Jumping From SDR to HDR The Ultimate Transformation Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290604089-mp3ogg4/"><u>最新技術：MP3から高音質OGGへの圧縮無料変換4つの方法</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-exploration-the-comprehensible-review-of-pazera/"><u>Audio Exploration The Comprehensible Review of Pazera</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-thrifty-windows-mastery-of-keys-and-savings/"><u>Essential Guide to Thrifty Windows: Mastery of Keys and Savings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-sticky-notes-not-syncing-on-windows-11/"><u>How to Fix Your Sticky Notes Not Syncing on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-apps-supporting-mac-users-in-their-windows-journey/"><u>Ideal Apps Supporting Mac Users in Their Windows Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-inside-the-box-logitechs-expertly-designed-4k-pro-webcam/"><u>In 2024, Inside the Box Logitech’s Expertly Designed 4K Pro Webcam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-snapmaster-z7-pro-excellence-in-picture-magnification/"><u>In 2024, SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instant-anonymity-shield-face-details-for-2024/"><u>Instant Anonymity Shield Face Details for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-g24-power-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola G24 Power? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-skills-faster-with-these-top-8-study-tips-on-a-windowed-pc/"><u>Sharpen Skills Faster with These Top 8 Study Tips on a Windowed PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-fixes-to-overcome-windows-11-unresponsive-typing-error-x80049dd3/"><u>Swift Fixes to Overcome Windows 11 Unresponsive Typing Error - X80049DD3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-reset-strategies-unveiling-windows-8-secrets/"><u>System Reset Strategies: Unveiling Windows' 8 Secrets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-inserting-descriptive-commentary-in-youtube-videos-for-2024/"><u>The Art of Inserting Descriptive Commentary in YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-timed-lock-screen-issue-in-windows/"><u>Troubleshooting Non-Timed Lock Screen Issue in Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-top-10-giggle-generators/"><u>[New] 2024 Approved Twitter's Top 10 Giggle Generators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-continuous-connection-avoiding-streak-breakers-on-snapchat/"><u>[New] Continuous Connection Avoiding Streak Breakers on Snapchat</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mind-mavens-top-10-educational-youtube-hubs/"><u>[New] Mind Mavens Top 10 Educational YouTube Hubs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-skybound-streaming-engaging-your-audience-on-facebook-for-2024/"><u>[New] Skybound Streaming Engaging Your Audience on Facebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-pigments-and-palettes-the-artists-guidebook/"><u>[Updated] In 2024, Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-google-pixel-4a-the-ideal-choice-for-casual-users/"><u>Comprehensive Evaluation of the Google Pixel 4A: The Ideal Choice for Casual Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-computer-utilization-monitors-on-pcs/"><u>Discover the Top 6 Computer Utilization Monitors on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-persistence-of-user-defined-volume-mixer/"><u>Ensuring Persistence of User-Defined Volume Mixer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mastering-the-art-of-photography-the-comprehensive-rolling-shutter-manual-by-movavi/"><u>Mastering the Art of Photography: The Comprehensive Rolling Shutter Manual by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-missing-dxgidll-streamline-your-win11/"><u>Reinstate Missing Dxgi.dll, Streamline Your Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-the-backbone-softwaredistribution-and-catroot2-on-ws11/"><u>Resetting the Backbone: SoftwareDistribution and Catroot2 on WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-error-0xc00d36b4-sound-fixes/"><u>Unraveling Windows Error 0XC00D36B4: Sound Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-wintoys-a-short-guide-to-a-powerful-windows-tool/"><u>What Is Wintoys? A Short Guide to a Powerful Windows Tool</u></a></li>
 </ul></div>
 

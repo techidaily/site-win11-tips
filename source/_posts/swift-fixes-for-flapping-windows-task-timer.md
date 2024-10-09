@@ -1,7 +1,7 @@
 ---
 title: Swift Fixes for Flapping Windows Task Timer
-date: 2024-09-30T16:01:54.796Z
-updated: 2024-10-03T17:30:34.572Z
+date: 2024-10-07T05:25:14.253Z
+updated: 2024-10-09T04:10:46.675Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 
  After restarting the computer, open Task Scheduler to see if the problem has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker
 
  If restarting the computer doesn't solve the issue, you can try running the System File Checker tool to scan any corrupted system files on your computer.
@@ -45,10 +52,37 @@ To run an SFC scan, follow these steps:
 3. When UAC prompts on the screen, click**Yes** to grant privileges.  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In the elevated Command Prompt window, type the following command:  
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Press Enter to execute the command. This will scan your computer for corrupted system files and replace them with the correct ones if any are found.
 
  Once the process is complete, restart the computer and open Task Scheduler to check if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a DISM Scan to Restore Missing System Files
 
@@ -61,19 +95,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
  This will scan your computer for any corrupted Windows images on your computer and try to fix them. The process may take a while to complete. Once it's done, restart your computer and see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart the Task Scheduler Service
 
  The next thing you can do is restart the Task Scheduler Service and make sure the Startup type is set to Automatic. It will reset the service and can potentially solve any underlying issues quickly. Here's how to do it:
@@ -85,13 +106,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
  Once restarted, try to run your scheduled tasks again and see if you can now schedule them properly.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check for Windows Updates
 
  In some cases, outdated versions of Windows may also cause problems and prevent you from scheduling tasks effectively. If you want to ensure your system is running the latest version of Windows, follow these steps:
@@ -101,25 +115,18 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 3. Then click on**Check for updates** to see if there are any updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If updates are available, Windows will automatically download and install them. After installing the updates, restart your computer to see if that fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Perform a Clean Boot
 
  If all else fails, you can try[performing a clean boot on your computer](https://www.makeuseof.com/clean-boot-windows-11/) . This is an effective way to identify and resolve any potential conflicts with Task Scheduler that may be causing issues.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run Task Scheduler With No More Problems
 
@@ -140,18 +147,22 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-finest-4-sites-for-tones-for-2024/"><u>[New] Unveiling the Finest 4 Sites for Tones for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>[Updated] Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-gpsvc-wait-time-on-pcs/"><u>Demystifying GPSVC Wait Time on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-complication-halo-infinite-launch-issue/"><u>DirectX12 Complication: Halo Infinite Launch Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-assistance-for-your-common-windows-complaints/"><u>Effortless Assistance for Your Common Windows Complaints</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-impactful-youtube-conclusion/"><u>In 2024, Creating Impactful YouTube Conclusion</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/simplified-approach-to-removing-youtube-comments-with-ease/"><u>Simplified Approach to Removing YouTube Comments with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-cmd-as-standard-operating-environment/"><u>Streamlining CMD as Standard Operating Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-rectify-type-error-code-x80049dd3-on-pc/"><u>Swift Solutions to Rectify Type Error Code X80049DD3 on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-7-go-to-websites-for-upcoming-films-sneak-peeks-and-previews/"><u>Top 7 Go-To Websites for Upcoming Films Sneak Peeks and Previews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-clips-into-content-from-premiere-to-youtube-for-2024/"><u>Transform Clips Into Content From Premiere to YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-using-the-windows-package-manager-wpm/"><u>Understanding and Using the Windows Package Manager (WPM)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-keeping-synchronization-fix-frame-disruptions-in-obs/"><u>[New] 2024 Approved Keeping Synchronization Fix Frame Disruptions in OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-most-memorable-2022-ice-sculpture-moves/"><u>[New] In 2024, The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-video-transfer-from-twitter-to-tumblr/"><u>[Updated] 2024 Approved Direct Video Transfer From Twitter to Tumblr</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-hustle-free-route-mastering-podcast-live-broadcasting-for-2024/"><u>[Updated] The Hustle-Free Route Mastering Podcast Live Broadcasting for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[Updated] Unlock Brand Potential - Access 50 Banners at No Cost!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-essential-fixes-conquer-the-windows-update-hurdles/"><u>7 Essential Fixes: Conquer the Windows Update Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-mass-rename-with-powertoys/"><u>Automate Mass Rename with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-access-control-constructing-your-windows-personal-pins/"><u>Cutting-Edge Access Control: Constructing Your Windows Personal Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/documentation-skills-snapping-windows-uac-prompts/"><u>Documentation Skills: Snapping Windows UAC Prompts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intensified-interaction-through-advanced-zoom-settings/"><u>In 2024, Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-and-opening-system32-windows-11/"><u>Locating and Opening System32 (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategizing-user-focused-gpo-settings-for-windows-1111-oses/"><u>Strategizing User-Focused GPO Settings for Windows 11/11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-sudo-tool-is-coming-to-windows-how-and-why-to-use-it/"><u>The Sudo Tool Is Coming to Windows: How and Why to Use It</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/thriving-in-the-social-media-jungle-facebooks-essentials/"><u>Thriving in the Social Media Jungle Facebook's Essentials</u></a></li>
 </ul></div>
 

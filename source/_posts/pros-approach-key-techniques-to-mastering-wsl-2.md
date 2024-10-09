@@ -1,7 +1,7 @@
 ---
 title: "Pro's Approach: Key Techniques to Mastering WSL 2"
-date: 2024-09-19T21:01:00.964Z
-updated: 2024-09-21T23:53:18.322Z
+date: 2024-10-04T04:04:10.018Z
+updated: 2024-10-09T06:35:35.879Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ Here are some of the other important WSL 2 benefits for developers:
 
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
@@ -65,15 +72,22 @@ Here are some of the other important WSL 2 benefits for developers:
 
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set Up Multiple Profiles
@@ -90,27 +104,26 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -129,5 +142,24 @@ Here are some of the other important WSL 2 benefits for developers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[New] 2024 Approved Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-prevent-freezing-of-streamed-videos-in-chrome-for-2024/"><u>[New] Prevent Freezing of Streamed Videos in Chrome for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-video-production-youtube-studios-cutting-edge-editing/"><u>[Updated] Seamless Video Production YouTube Studio's Cutting-Edge Editing</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-brightness-software-for-windows-users-with-multiple-displays/"><u>Cutting Edge Brightness Software for Windows Users with Multiple Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-policy-settings-for-users-a-guide-to-windows-11-and-11/"><u>Personalizing Policy Settings for Users: A Guide to Windows 11 & 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premier-vocal-mix-app-for-android-advocates-for-2024/"><u>Premier Vocal Mix App for Android Advocates for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-the-newest-intel-nuc-drivers-get-set-for-smooth-performance/"><u>Quick Guide to the Newest Intel NUC Drivers - Get Set for Smooth Performance!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilizing-windows-display-issues-expert-tips/"><u>Stabilizing Windows Display Issues: Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-fixing-conflicts-between-multiple-apps-and-pc-audio/"><u>Tips on Fixing Conflicts Between Multiple Apps & PC Audio</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/transforming-twitter-video-links-to-audio-for-2024/"><u>Transforming Twitter Video Links to Audio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tripled-speed-for-your-win11-start-boosting-launch-time/"><u>Tripled Speed for Your Win11 Start: Boosting Launch Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-excel-addressing-windows-speed-issues/"><u>Turbocharge Your Excel: Addressing Windows Speed Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-bluescreenview-usage/"><u>Unlocking the Secrets of BlueScreenView Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-windows-unlaunchable-lunar-client-issue/"><u>Workaround for Windows' Unlaunchable Lunar Client Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/yellow-tint-problem-on-iphones-try-these-9-fixing-strategies/"><u>Yellow Tint Problem on iPhones? Try These 9 Fixing Strategies!</u></a></li>
+</ul></div>
 

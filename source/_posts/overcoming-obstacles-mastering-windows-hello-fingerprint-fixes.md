@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: Mastering Windows Hello Fingerprint Fixes"
-date: 2024-09-20T21:06:38.434Z
-updated: 2024-09-22T07:21:49.682Z
+date: 2024-10-02T03:27:28.174Z
+updated: 2024-10-08T23:29:01.401Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 3. Expand **Biometric devices**.  
 ![Biometric Driver selected in Device Manager window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Biometric-Driver-in-Device-Manager-1.jpg)
 4. Right-click on your fingerprint scanner device and select **Uninstall device**.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select **Uninstall** to confirm.
 
  Additionally, you should also expand the **Universal Serial Bus Controllers** section in the Device Manager and look for any entries with a yellow exclamation. If you find any, right-click on them one by one and select **Uninstall device** to remove them.
@@ -68,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Wait for Windows to diagnose any issues with your computer. If any issues are detected, follow the on-screen instructions to apply the recommended fixes.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Fast Startup
@@ -99,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 5. Hit **Apply** followed by **OK**.  
 ![Windows Biometric Service Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-Biometric-Service-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
 
 ## 6\. Enable Biometrics via the Local Group Policy Editor
@@ -123,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Restart your PC one more time and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a New User Account
@@ -155,26 +150,39 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 6. Review all the details one more time before hitting **Finish**.  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/System-Restore-Dialog.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will restart and revert to the specified restore point. After that, the fingerprint should work as before.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Install the Latest Windows Updates
 
  Microsoft regularly releases software updates for Windows 10 and Windows 11 to add new features, improve performance, and—crucially for our purposes—fix bugs. If the fingerprint not working issue is caused by a system bug, updating Windows to its most recent version should help.
 
  You can check for new updates by going to the **Windows Update** tab in the **Settings** app. Download and install any pending updates on your PC. Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Windows Hello's Fingerprint Check
 
@@ -192,5 +200,24 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-can-instagrams-video-selfies-be-trusted-in-2024/"><u>[New] Can Instagram's Video Selfies Be Trusted, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-creating-cohesive-content-with-soundtracks-on-instagram/"><u>[Updated] 2024 Approved Creating Cohesive Content with Soundtracks on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/demonstrating-dedication-boost-onboarding-and-achieve-remarkable-roi-with-bai/"><u>Demonstrating Dedication: Boost Onboarding & Achieve Remarkable ROI with BAI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dont-skip-the-savings-commit-to-regular-windows-backup/"><u>Don't Skip the Savings: Commit to Regular Windows Backup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-stagnant-load-screens-advancing-from-90-in-the-latest-phasmophobia-game-202n/"><u>Fix Stagnant Load Screens: Advancing From 90% in the Latest Phasmophobia Game (202N)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-prevent-battlefield-2042-from-crashing-on-your-pc/"><u>Fixing the Issue: How to Prevent Battlefield 2042 From Crashing on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-other-application-uses-from-disrupting-sound/"><u>How to Stop 'Other Application Uses' From Disrupting Sound</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-video-content-with-free-intro-designers/"><u>In 2024, Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-managing-windows-11s-security-mechanisms/"><u>Mastery in Managing Windows 11'S Security Mechanisms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-opengl-error-code-3-on-windows-and-nvidia-gpus/"><u>Remedy for OpenGL Error Code 3 on Windows & Nvidia GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rethink-windows-11-the-top-10-best-replacement-software/"><u>Rethink Windows 11: The Top 10 Best Replacement Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-upcoming-expiry-message-on-w10-and-w11/"><u>Troubleshooting the “Upcoming Expiry” Message on W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-windows-fixes-for-unresponsive-keyboard-shortcuts-and-combinations/"><u>Unlock the Power of Windows: Fixes for Unresponsive Keyboard Shortcuts and Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-high-resolution-quests-expert-techniques-for-playing-classics-in-hd-on-windows/"><u>Winning at High-Resolution Quests: Expert Techniques for Playing Classics in HD on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 15?</u></a></li>
+</ul></div>
 

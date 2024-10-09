@@ -1,7 +1,7 @@
 ---
 title: Strategies to Resolve OneDrive Glitches on Win 10 & 11
-date: 2024-10-01T22:43:20.372Z
-updated: 2024-10-03T17:47:58.457Z
+date: 2024-10-07T21:44:47.384Z
+updated: 2024-10-09T02:19:41.791Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Free Up Hard Drive Space
 
  Error 0x80070185 can arise when there’s very little free space available on the local drive. As such, your PC’s hard drive may have insufficient space for the larger files in your OneDrive cloud storage.
@@ -66,21 +73,14 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 4. Click**OK** to execute the reset command for OneDrive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -92,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 4. Then right-click the same file again to select**Free up** **space** .
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn Off Any Active Firewalls
 
  Firewall blocks applied to OneDrive can sometimes cause the error 0x80070185 to occur. We recommend users temporarily turn off firewalls to see if they’re causing this issue. You can turn off the Windows Defender Firewall with the following steps:
@@ -134,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall OneDrive
 
  Reinstalling OneDrive is a solution that’s worked for some users. This will give you a completely fresh and up-to-date OneDrive app. These are the steps for uninstalling and reinstalling OneDrive:
@@ -150,6 +143,14 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
@@ -157,23 +158,17 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 8. Click**Get** to reinstall OneDrive.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access your OneDrive Files again
@@ -195,24 +190,17 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube/"><u>[New] 2024 Approved Content Creation Conundrums Understanding the Differences Between IGTV and YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-elements-creating-striking-podcast-covers/"><u>[New] 2024 Approved Essential Elements Creating Striking Podcast Covers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>[Updated] 2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-content-with-effective-video-seo/"><u>[Updated] In 2024, Elevate Your Content with Effective Video SEO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-chosen-top-5-premium-drones-for-professionals/"><u>2024 Approved Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>2024 Approved Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ogvgif-movavi/"><u>簡便OGV文件改成GIF動畫 - Movavi免費線上轉換器解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-protected-fitness-regimens-with-chatgpt/"><u>Crafting Protected Fitness Regimens with ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descubra-os-fios-do-arquivo-ts-um-manual-instrutivo-para-desembrulhamento-e-execucao/"><u>Descubra Os Fios Do Arquivo .ts: Um Manual Instrutivo Para Desembrulhamento E Execução</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-leading-free-3d-animation-tools-for-creatives-a-detailed-review/"><u>Discover the Leading Free 3D Animation Tools for Creatives – A Detailed Review</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-magic-6-litewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Magic 6 Litewith/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Camon 20 Premier 5G FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavis-comprehensive-guide-understanding-our-shipping-and-return-procedures/"><u>Movavi's Comprehensive Guide: Understanding Our Shipping & Return Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-principais-12-programas-freescreencapture-para-windows-problem/"><u>Os Principais 12 Programas FreeScreenCapture Para Windows # Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-instructions-setting-up-and-using-movavi-editor-on-a-pc-with-windows-os/"><u>Ultimate Instructions: Setting Up and Using Movavi Editor on a PC with Windows OS</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726027295682-wav/"><u>WAVへの変換ガイド - ニコニコ動画からオフラインで楽曲ダウンロード</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/flac-wma/"><u>디지털 공간에서 FLAC WMA 오디오 파일을 자원 없이 전환하는 방법</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wi-fi-ram-movavi-online/"><u>무료 Wi-Fi RAM 이미지 형식 전환 - Movavi Online 시적</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mov-mjpeg-movavi/"><u>シンプルな手順でMOV MJPEG形式の自由にオンライン変換 - Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-go-beyond-the-tv-watch-nba-gameplay-with-these-15-hacks/"><u>[Updated] Go Beyond the TV Watch NBA Gameplay with These 15 Hacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-for-clearing-background-elements-in-figma/"><u>2024 Approved Innovative Approaches for Clearing Background Elements in Figma</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tailored-guide-to-following-and-watching-facebook-broadcasts/"><u>2024 Approved Tailored Guide to Following and Watching Facebook Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-fixes-for-unresponsive-windows-family-safety/"><u>5 Essential Fixes for Unresponsive Windows Family Safety</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-compelling-arguments-why-windows-11-eclipses-macos/"><u>6 Compelling Arguments Why Windows 11 Eclipses macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-gmaps-installation-on-pc/"><u>A Step-by-Step Approach to GMaps Installation on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-playstation-services-hiccup-on-windows/"><u>Addressing PlayStation Services Hiccup on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-virtualization-turning-on-hyper-v-for-win-11/"><u>Boosting Virtualization: Turning On Hyper-V for Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-destinations-on-the-internet-for-effective-apartment-seeking/"><u>Essential Destinations on the Internet for Effective Apartment Seeking</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony ?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shoot-with-clarity-capture-immersive-experiences-9-essentials/"><u>Shoot with Clarity, Capture Immersive Experiences (9 Essentials)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-operating-system-keys-not-responding/"><u>Windows Operating System: Keys Not Responding</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome the 100%% Obstacle in Windows Update Processes
-date: 2024-09-27T21:45:17.509Z
-updated: 2024-10-03T23:10:14.020Z
+date: 2024-10-02T23:10:47.201Z
+updated: 2024-10-08T16:27:49.475Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  We understand that waiting this long might not be possible for everyone and if it does not suit you as well, go ahead with the methods below. It is also important to note that before proceeding with the methods in this guide that require you to access your system, you will need to break the update loop that is causing the issue. To do this, reboot your PC to perform the steps listed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Remove Any USB Peripherals and Restart Your PC
 
  Start by removing any USB peripherals that may be connected to your PC. When you have extra external devices connected, your PC thinks of it as a change in the default hardware settings, leading to issues like the one at hand.
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 2. Once it shuts down, remove the power supply and battery.
 3. Then, wait for a few minutes before inserting it back.
 4. Now, boot your PC and see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Windows Update Service
 
@@ -69,19 +69,27 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 4. Choose **Properties** from the context menu.  
 ![Windows update service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/services-windows-update-properties.jpg)
 5. In the Properties dialog, click on the **Stop** button.  
-![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/win10-windows-update-properties-stop.jpg)
-6. Wait for a few seconds before hitting the **Start** button again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/win10-windows-update-properties-stop.jpg)
+6. Wait for a few seconds before hitting the **Start** button again.
 
 7. Expand the dropdown for Startup type and choose **Automatic** from the list.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-automatic-startup-type.jpg)
 8. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Scan for Viruses
 
@@ -94,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If these utilities find any issues, they will attempt to resolve them without requiring your input. After the scans, check if the issue is resolved.
@@ -114,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 3. In the following window, look for Windows Update troubleshooter and click on the **Run** button associated with it.  
 ![Run button for Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-troubleshooter.jpg)
 4. The troubleshooter will now begin scanning the system for potential errors. If it finds issues, it will recommend fixes. In that case, click on **Apply this fix**.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If not, click **Close the troubleshooter** and move to the next method below.
 
@@ -139,17 +140,17 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![Restart button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings-restart.jpg)
 4. Hit the F5 key on the keyboard to proceed. This will launch the Safe Mode successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In Safe Mode, restart your PC the normal way (**Start menu** \> **Sign out** \> **Restart**).  
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-safe-mode-restart.jpg)
 
  Upon reboot, the issue should no longer appear. You can now check if the updates are successfully installed. If not, you can try any one of [the different methods to update Windows manually](https://www.makeuseof.com/update-windows-manually/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resume the Update Process on Windows 11
 
@@ -159,25 +160,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-power-of-youtubes-creative-commons-for-videographers/"><u>[New] 2024 Approved The Power of YouTube's Creative Commons for Videographers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[New] 2024 Approved Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-contact-with-freight-elevating-the-opening-moment/"><u>2024 Approved First Contact with Freight Elevating the Opening Moment</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-furry-friends-watcher-reviews/"><u>Affordable Furry Friends Watcher Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-in-windows-os/"><u>Fixing Steam Interface Error in Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-laserjet-p3n-series-p3015-driver-updates-for-windows-pcs-here/"><u>Get the Latest HP LaserJet P3n Series (P3015) Driver Updates for Windows PCs Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-multitask-media-consumption-employing-picture-in-picture-functionality/"><u>In 2024, Master Multitask Media Consumption Employing Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-overheat-during-intense-play/"><u>Minimizing Overheat During Intense Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-setup-for-gpt/"><u>Navigating Through Windows Setup for GPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-double-click-with-these-simple-windows-adjustments/"><u>Optimize Your Double-Click with These Simple Windows Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-winscomrssvdll-issues-during-system-boot/"><u>Steps to Address WinscomrssvDll Issues During System Boot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-fabrication-at-rapid-and-tct-2024-spotlight-on-cutting-edge-printers-materials-and-tech/"><u>Unveiling the Future of Fabrication at Rapid & TCT 2024: Spotlight on Cutting-Edge Printers, Materials & Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-pro-efficient-docx-to-pdf-conversion-made-simple/"><u>Win 11 Pro: Efficient DOCX to PDF Conversion Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-for-static-energy-controls-on-windows-11/"><u>Workarounds for Static Energy Controls on Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +167,27 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-view-count-secrets-to-staff-picks-on-vimeo/"><u>[New] Maximizing View Count Secrets to Staff Picks on Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] 2024 Approved Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-macos-11-big-sur-a-complete-hardware-overview/"><u>[Updated] 2024 Approved MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-video-impact-via-creator-studio-utilization/"><u>[Updated] 2024 Approved Maximize Video Impact via Creator Studio Utilization</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-voiced-ppt-mastery/"><u>[Updated] 2024 Approved The Complete Guide to Voiced PPT Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insta-stats-spotlight-pinpointing-viewers-of-your-photos/"><u>2024 Approved Insta Stats Spotlight Pinpointing Viewers of Your Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-engaging-photoshop-on-modern-windows-machines/"><u>Effortlessly Engaging Photoshop on Modern Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortify-windows-11-security-integrating-firewalls-into-the-menubar-ui/"><u>Fortify Windows 11 Security: Integrating Firewalls Into the Menubar UI</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-vs-virtual-reality-exploring-6-diverging-paradigms/"><u>Metaverse Vs. Virtual Reality: Exploring 6 Diverging Paradigms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovery-of-missing-widgets-and-icons-on-windows-11/"><u>Recovery of Missing Widgets and Icons on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-order-7-methods-for-windows-users-disrupted-google-drive/"><u>Restore Order: 7 Methods for Windows Users, Disrupted Google Drive</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/smooth-process-incorporating-igtv-in-stories-for-2024/"><u>Smooth Process Incorporating IGTV in Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-switching-back-the-windows-11-search-icons/"><u>Steps for Switching Back the Windows 11 Search Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-gaming-picking-the-perfect-install-drive/"><u>Streamlined Gaming: Picking the Perfect Install Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-1011-photography-setup/"><u>Streamlining Windows 10/11 Photography Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-snapping-quick-screenshots-on-desktop-computers/"><u>Ultimate Tutorial: Snapping Quick Screenshots on Desktop Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-taming-vanguards-cpu-power-draw-in-windows/"><u>Unlock Peak Performance: Taming Vanguard’s CPU Power Draw in Windows</u></a></li>
+</ul></div>
+

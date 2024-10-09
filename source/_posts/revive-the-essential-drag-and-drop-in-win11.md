@@ -1,7 +1,7 @@
 ---
 title: Revive the Essential Drag-and-Drop in Win11
-date: 2024-09-19T16:22:09.711Z
-updated: 2024-09-22T03:32:36.601Z
+date: 2024-10-03T22:07:27.002Z
+updated: 2024-10-08T17:27:42.016Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 * **Scan for Malware:** A malware infection is another possible cause of this issue. To rule this out, try [scanning your PC for malware with PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or an antivirus program.
 * **Try Clean Boot:** It’s possible that a rouge third-party app or program on your PC is causing the drag and drop feature to malfunction. If that’s the case, [booting your PC in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) will help you verify that.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use the Esc Key
 
  At times, Windows may freeze on the last drag and drop operation and stop responding to new actions. If it's just a one-off glitch, simply resetting the drag and drop gesture should do the trick.
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  Reopen your app and check if the issue still occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Hardware and Devices Troubleshooter
 
  Running the Hardware and devices troubleshooter is an effective way to fix issues with your peripherals. This tool can scan all the hardware devices connected to the system, including your mouse or touchpad, and resolve any issues with them.
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall Mouse Drivers
@@ -116,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
 
@@ -131,14 +131,14 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  While the default drag and drop action can help you move items quickly, you can also modify it to copy or create shortcuts for files and folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
@@ -147,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
@@ -162,5 +169,19 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-network-adapter-error-31-quickly/"><u>Addressing Windows Network Adapter Error 31 Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-and-save-the-quick-guide-from-esd-to-iso-format-on-pcs/"><u>Convert and Save: The Quick Guide From ESD to ISO Format on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-trailblazers-in-virtual-reality-experience/"><u>In 2024, Trailblazers in Virtual Reality Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-dropbox-cpu-utilization-on-windows-machines/"><u>Lowering Dropbox CPU Utilization on Windows Machines</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-your-personal-brand-designing-a-facebook-cover-with-yourself-as-the-star/"><u>Master Your Personal Brand: Designing a Facebook Cover with Yourself as the Star</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002201575-quick-remedy-for-origin-crash-error-effortless-troubleshooting-guide-inside/"><u>Quick Remedy for Origin Crash Error – Effortless Troubleshooting Guide Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-buzz-on-twitter-top-10-viral-tweets/"><u>The Buzz on Twitter Top 10 Viral Tweets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-history-hiccup-quick-fixes-in-3-steps/"><u>Windows History Hiccup - Quick Fixes in 3 Steps</u></a></li>
+</ul></div>
 

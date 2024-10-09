@@ -1,7 +1,7 @@
 ---
 title: Understanding Execution Identifiers in App Management
-date: 2024-09-17T23:45:15.900Z
-updated: 2024-09-21T19:41:50.218Z
+date: 2024-10-03T05:54:33.197Z
+updated: 2024-10-09T05:33:39.328Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
  App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable App Execution Aliases in Settings
 
  You can enable and disable aliases for compatible apps in the main settings in both Windows 10 and 11\. If more than one app uses the same alias name, you can choose which has the alias applied to it.
@@ -43,6 +50,13 @@ In Windows 11:
 
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In Windows 10:
 
 1. If you're using Windows 10, you'll find the aliases in**Settings > Apps & features** .
@@ -52,6 +66,13 @@ In Windows 10:
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
 
@@ -66,16 +87,17 @@ In Windows 10:
 5. With the alias selected, double-click the**Default** value in the right-hand pane.  
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
 
@@ -94,5 +116,20 @@ In Windows 10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exceptional-appraisal-and-other-choices/"><u>[Updated] In 2024, Exceptional Appraisal & Other Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ai-driven-high-quality-editing-platform/"><u>2024 Approved AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-keyways-to-activate-telnet-on-windows-11-pcs/"><u>3 Keyways to Activate Telnet on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-downloading-errors-in-microsoft-store/"><u>Addressing Downloading Errors in Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-lav-filters-usage-and-functionality/"><u>Demystifying Windows LAV Filters Usage and Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiartys-final-user-license-agreement-for-winxdvd-secure-your-legal-rights/"><u>Digiarty's Final User License Agreement for WinXDVD - Secure Your Legal Rights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-easily-transform-mpeg-videos-into-3g2-format-for-free-a-guide-by-movavi/"><u>How to Easily Transform MPEG Videos Into 3G2 Format for Free: A Guide by Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages/"><u>In 2024, Preserving Pixels in the Sky Selecting Best Photo Cloud Storages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-control-the-powertoys-way/"><u>Mastering Access Control: The PowerToys Way</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solution-to-error-code-0x80070570-rescuing-damaged-files-on-windows-11/"><u>Unlocking Solution to Error Code 0X80070570: Rescuing Damaged Files on Windows 11</u></a></li>
+</ul></div>
 

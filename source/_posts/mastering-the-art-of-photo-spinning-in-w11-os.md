@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Photo Spinning in W11 OS
-date: 2024-09-18T07:34:24.701Z
-updated: 2024-09-21T23:03:54.522Z
+date: 2024-10-04T22:06:30.144Z
+updated: 2024-10-08T16:52:08.248Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,23 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![The basic rotation option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-option.jpg)
 4. Press the **Save as copy** button. Or you can click that button’s small arrow to select a **Save** option that overwrites the file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can select alternative clockwise or anticlockwise rotation options. To do so, press the **Edit image** button beside the **Rotate** option in Photos. Then click the **Rotate image 90 degrees clockwise** or **Rotate image 90 degrees anticlockwise** options.
 
 ![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
 
@@ -67,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 5. Click the **Rotate** button to view a small menu with three options.  
 ![Paint's Rotate options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paint-s-rotate-options.jpg)
 6. Select the **Rotate right 90°** or alternative left and 180° options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Press **Ctrl** \+ **S** to save over the original file.
 
  You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
@@ -82,32 +104,12 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![The Edit image option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-image-option.jpg)
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
 6. Click **Save** to download the rotated image.
 
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Rotate Images With Online Image Tool
 
@@ -122,23 +124,23 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
 
- Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
 
 ## 6\. How to Rotate Images With IrfanView
 
@@ -158,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rotate Images for a Better Orientation in Windows 11
 
  So, you don’t need Adobe Photoshop to rotate images on a Windows 11 PC. It’s easy to correct image orientation on a Windows 11 PC with any of the rotation methods above. Choose whatever image rotation method you like best.
@@ -172,5 +181,23 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-professional-ios-podcast-setup-boost-your-audio-quality-game-for-2024/"><u>[New] Professional iOS Podcast Setup Boost Your Audio Quality Game for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-black-ops-cold-war-error-code-887a0005/"><u>[SOLVED] Black Ops Cold War Error Code 887A0005</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-faces-obsolescence-as-llvm-phases-out-support-for-legacy-3dnow-technology/"><u>AMD Faces Obsolescence as LLVM Phases Out Support for Legacy 3DNow! Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-ways-downloading-setting-up-and-running-msix-extensions-on-windows/"><u>Convenient Ways: Downloading, Setting Up & Running MSIX Extensions on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-on-a-nearby-share-solution-tech-giants-go-head-to-head/"><u>Deciding on a Nearby Share Solution: Tech Giants Go Head-to-Head</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-deep-into-identity-unveiling-sids-in-windows-11/"><u>Diving Deep Into Identity: Unveiling SIDs in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-microsoft-flight-simulator-x-gold-edition-remains-a-top-choice-in-aviation-gaming/"><u>Expert Analysis: Microsoft Flight Simulator X - Gold Edition Remains a Top Choice in Aviation Gaming</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-system-call-issues-on-modern-windows/"><u>How to Eradicate System Call Issues on Modern Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-expected-features-and-speculations-for-the-upcoming-google-pixel-10/"><u>Inside Scoop: Expected Features and Speculations for the Upcoming Google Pixel 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-game-frequently-encounters-crashes/"><u>Resolved: Why Insurgency: Sandstorm Game Frequently Encounters Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sharing-twitter-video-feeds-via-facebook-platform-for-2024/"><u>Sharing Twitter Video Feeds via Facebook Platform for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719220019899-unravel-windows-mysteries-get-the-support-you-need/"><u>Unravel Windows Mysteries: Get the Support You Need</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+</ul></div>
 

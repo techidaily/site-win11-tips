@@ -1,7 +1,7 @@
 ---
 title: Mending the Windows 0X0000011B Crash Problem
-date: 2024-10-01T01:32:41.533Z
-updated: 2024-10-03T20:56:26.960Z
+date: 2024-10-07T07:13:06.641Z
+updated: 2024-10-09T00:32:39.810Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
 To check and install Windows updates:
@@ -71,10 +78,10 @@ To check and install Windows updates:
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
@@ -92,6 +99,13 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -111,31 +125,19 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
@@ -153,10 +155,10 @@ To uninstall Windows updates:
 3. Next, click on**Programs** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
@@ -165,20 +167,13 @@ To uninstall Windows updates:
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
 
@@ -199,22 +194,17 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>[New] 2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-creative-anime-characters-and-scenes-for-viral-tiktoks/"><u>[Updated] In 2024, Creative Anime Characters & Scenes for Viral TikToks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/decoding-vlc-player-mac-usage-tips/"><u>Decoding VLC Player Mac Usage Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-pre-win11-system-for-better-performance/"><u>Enhance Your Pre-Win11 System for Better Performance</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/file-opening-woes-after-digital-restoration/"><u>File Opening Woes After Digital Restoration</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-make-the-taskbar-transparent-in-windows-11/"><u>How to Make the Taskbar Transparent in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reactivating-non-responsive-ctrl-in-windows-11/"><u>Mastering the Art of Reactivating Non-Responsive CTRL in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-zip-to-srt-transform-subtitled-content-swiftly-for-2024/"><u>Mastering Zip-to-Srt Transform Subtitled Content Swiftly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-windows-redos-swiftly-using-custom-shortcuts/"><u>Navigate Windows Redos Swiftly Using Custom Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-non-working-vss-in-modern-os/"><u>Restoring Non-Working VSS in Modern OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-implementation-directing-gpos-at-a-per-user-level/"><u>Streamlined Implementation: Directing GPOs at a Per-User Level</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unattainable-settings-in-geforce-experience/"><u>Troubleshooting “Unattainable Settings” In GeForce Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-1053-service-unresponsive-on-windows/"><u>Troubleshooting Error 1053: Service Unresponsive on Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-want-to-edit-your-nikon-video-files-here-a-powerful-yet-easy-to-use-nikon-video-editor-is-introduced-for-you-to-easily-achieve-that/"><u>Updated Want to Edit Your Nikon Video Files? Here, a Powerful yet Easy-to-Use Nikon Video Editor Is Introduced for You to Easily Achieve That</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-explore-the-hd-landscape-youtube-twitters-and-more/"><u>[New] 2024 Approved Explore the HD Landscape YouTube, Twitters, and More</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-screens-on-windows-with-best-no-cost-recorder-tools/"><u>[New] Mastering Screens on Windows with Best No-Cost Recorder Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>2024 Approved The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-failed-connectivity-issue-of-mb-in-windows-11/"><u>Addressing the Failed Connectivity Issue of MB in Windows 11</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978831783-easy-update-methods-for-lenovo-monitors-fresh-drivers-at-your-fingertips/"><u>Easy Update Methods for Lenovo Monitors: Fresh Drivers at Your Fingertips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/media-streamlining-is-a-podcast-or-youtube-better-for-you-for-2024/"><u>Media Streamlining Is a Podcast or YouTube Better for You for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-keyboard-confusion-30-ways-to-fix/"><u>No More Keyboard Confusion: 30 Ways to Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-playback-lags-a-guide-for-chromium-users/"><u>Overcoming Playback Lags: A Guide for Chromium Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/"><u>Quick Guide to Troubleshoot & Repair Fortnite Logon Glitches Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-student-essentials-asus-vivobook-s-15-reviewed/"><u>The Ultimate Student Essentials - ASUS Vivobook S 15 Reviewed</u></a></li>
 </ul></div>
 

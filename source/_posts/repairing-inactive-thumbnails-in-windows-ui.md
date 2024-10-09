@@ -1,7 +1,7 @@
 ---
 title: Repairing Inactive Thumbnails in Windows UI
-date: 2024-09-30T01:01:39.232Z
-updated: 2024-10-03T18:52:02.292Z
+date: 2024-10-07T22:55:42.770Z
+updated: 2024-10-09T04:42:51.026Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Edit the Taskband and Advanced Registry Keys
 
  Editing the Taskbar registry key is a widely confirmed solution for fixing taskbar thumbnail previews not working. This potential resolution will fix the **NumThumbnails** DWORD in that key, which might be deleted or incorrectly set. That DWORD sets the maximum number of taskbar thumbnail previews for a single minimized window. This is how you should edit the **Taskband** registry key:
@@ -51,34 +58,15 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![The New > DWORD option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-dword-options.jpg)
 5. Enter **NumThumbnails** inside the DWORD name text box.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Double-click the **NumThumbnails** DWORD.  
 ![The NumThumbnails DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/numthumbnails-dword.jpg)
 7. If that **DWORD** is set at **0**, erase that number and input **10** in the **Value** box.  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-dword-window3.jpg)
@@ -97,16 +85,17 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 2. Double-click **User Configuration** \> **Administrative Templates** \> **Start menu and taskbar** in the navigation sidebar.  
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-group-policy-editor.jpg)
 3. Next, double-click **Turn off taskbar thumbnails** to access configuration options for that policy.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Disabled** or **Not Configured** option.  
 ![The Turn off taskbar thumbnail window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-taskbar-window.jpg)
 5. Select **Apply** \> **OK** to disable the **Turn off taskbar thumbnails** policy as configured.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Roll Windows Back With a System Restoration Point
 
@@ -114,41 +103,20 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can roll back Windows by following the instructions in this guide to [utilizing System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/). Applying this potential solution will remove software packages installed after the date of the selected restore point. This will mean some reinstallation of software will probably be necessary after rolling back Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Your Taskbar Thumbnail Previews Fixed
 
  Taskbar thumbnail previews may not be the most essential feature, but many users will undoubtedly miss them when they’re not working. Applying the troubleshooting methods in this guide will usually get the Windows 11/10 taskbar thumbnails working again in most cases. So, give them a try if you can’t view taskbar thumbnail previews for minimized windows.
 
  This issue often arises when users have multiple windows open for apps. Consequently, users only see text labels for minimized window titles. Does a similar thing happen when you try to view taskbar previews? If so, this is how you can fix taskbar thumbnail previews not working on Windows 11/10 PCs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-incorporating-urls-in-ig-stories-and-posts/"><u>[New] 2024 Approved The Art of Incorporating URLs in IG Stories & Posts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-decoding-game-archiving-mastering-roblox-footage-on-apple-systems/"><u>[Updated] In 2024, Decoding Game Archiving Mastering Roblox Footage on Apple Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-quick-paths-to-influence/"><u>2024 Approved Mastering Instagram Quick Paths to Influence</u></a></li>
-<li><a href="https://discover-best.techidaily.com/advancing-american-public-health-how-abbyy-powers-fdas-objectives/"><u>Advancing American Public Health: How ABBYY Powers FDA's Objectives</u></a></li>
-<li><a href="https://win-blog.techidaily.com/are-xbox-live-services-operating-smoothly-at-present-time/"><u>Are Xbox Live Services Operating Smoothly at Present Time?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-correcting-windows-11s-zoom-failures/"><u>Deciphering and Correcting Windows 11'S Zoom Failures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/explore-5-premier-mac-cam-recording-software-beyond-bandicam-for-2024/"><u>Explore 5 Premier Mac Cam Recording Software Beyond Bandicam for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-perfect-slow-motion-shots/"><u>In 2024, GoPro Hero 10 Secrets for Perfect Slow Motion Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-kali-linux-to-your-windows-environment/"><u>Introducing Kali Linux to Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-repair-top-13-approaches-to-revive-windows/"><u>Mastering PC Repair: Top 13 Approaches to Revive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-missing-entry-issue-in-windows-os/"><u>Mending the Missing Entry Issue in Windows OS</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/projecting-your-mobile-screen-onto-a-panasonic-television-easily/"><u>Projecting Your Mobile Screen Onto a Panasonic Television Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-missing-bluetooth-on-windows-device-manager/"><u>Remedying Missing Bluetooth on Windows Device Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-the-no-files-mystery-on-windows-11/"><u>Solving the 'No Files' Mystery on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-steam-icons-in-desktop/"><u>Troubleshooting Missing Steam Icons in Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-system-file-checker-sfc-and-deployment-image-servicing-dism-for-seamless-windows-10-recovery/"><u>Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yourphoneexe-friend-or-foe-in-latest-windows-versions/"><u>YourPhone.exe - Friend or Foe in Latest Windows Versions?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +125,23 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-create-square-videos-to-gain-more-likes-on-facebook/"><u>[New] 2024 Approved How to Create Square Videos to Gain More Likes on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-androids-premier-animal-experience-compilation/"><u>[Updated] 2024 Approved Android's Premier Animal Experience Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-ways-to-enhance-your-listening-pleasure-with-podcasts/"><u>15 Ways to Enhance Your Listening Pleasure with Podcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-get-the-most-out-of-the-windows-11-start-menu/"><u>7 Ways to Get the Most Out of the Windows 11 Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-pinnacle-clarity-to-your-w11-desktop-wallpaper/"><u>Bringing Pinnacle Clarity to Your W11 Desktop Wallpaper</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dall-e-3-unveils-editing-capabilities-yet-room-for-enhancement-remains/"><u>DALL-E 3 Unveils Editing Capabilities, Yet Room for Enhancement Remains</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-downloading-and-updating-nvidia-quadro-rtx-4000-drivers/"><u>Get Enhanced Performance: Downloading & Updating NVIDIA Quadro RTX 4000 Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/material-selection-based-on-toughness-is-crucial-for-impact-resistant-applications-such-as-automotive-safety-components/"><u>Material Selection Based on Toughness Is Crucial for Impact-Resistant Applications, Such as Automotive Safety Components.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mute-unnecessary-system-updates-on-windows-11/"><u>Mute Unnecessary System Updates on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-clipchamps-windows-11-install-troubles/"><u>Navigate Through ClipChamp's Windows 11 Install Troubles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-bandwidth-visualization-for-users/"><u>Real-Time Bandwidth Visualization for Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-undetermined-value-messages-on-windows/"><u>Solutions for 'Undetermined' Value Messages on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steps-to-create-your-personal-copernic-offline-license-a-complete-tutorial/"><u>Steps to Create Your Personal Copernic Offline License - A Complete Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
+</ul></div>
+
