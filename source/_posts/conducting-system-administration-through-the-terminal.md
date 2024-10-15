@@ -1,7 +1,7 @@
 ---
 title: Conducting System Administration Through the Terminal
-date: 2024-10-03T08:01:03.279Z
-updated: 2024-10-09T06:49:08.208Z
+date: 2024-10-11T07:57:01.364Z
+updated: 2024-10-14T18:39:18.758Z
 tags:
   - windows10
   - windows11
@@ -66,22 +66,15 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
  Now net user will remove the account from the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -92,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 `net user Jack /active:no`
 
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable and Disable a Domain User Account
 
@@ -132,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
 `net user Username /expires:DD/MM/YYYY`
@@ -143,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
  With the above command, Windows will disable the on the date you've set above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Change the Password of a User Account
@@ -162,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 `net user Username NewPassword /domain`
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Set a Password Policy for Users
 
@@ -190,10 +190,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
@@ -204,27 +204,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-elevating-listener-experience-through-podcast-exits/"><u>2024 Approved Elevating Listener Experience Through Podcast Exits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/charge-rescue-for-pcs-fixing-the-plugged-in-not-charging-error-in-wndows-710/"><u>Charge Rescue for PCs: Fixing the 'Plugged In, Not Charging' Error in Wndows 7/10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284467343-dvdpc/"><u>DVD視聴手引き：PCやモバイルデバイス上で完全再生ガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-multipurpose-close-on-modern-windows-pcs/"><u>Effortless Multipurpose Close on Modern Windows PCs</u></a></li>
-<li><a href="https://win-hot.techidaily.com/head-to-head-showdown-how-does-samsung-galaxy-s6-hold-up-against-the-iphone-6-in-depth-review-insights/"><u>Head-to-Head Showdown: How Does Samsung Galaxy S6 Hold Up Against the iPhone 6 – In-Depth Review Insights!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-xs-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone XS?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-note-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi Note 12R without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme V30T PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimize-mastery-using-ctrlplustab-for-system-tray-control/"><u>Minimize Mastery: Using Ctrl+Tab for System Tray Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-the-intricacies-a-guide-to-windows-11s-components/"><u>Navigate the Intricacies: A Guide to Windows 11'S Components</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-nuances-of-user-rights-management-in-windows/"><u>Navigating the Nuances of User Rights Management in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-to-printer-sharing-in-win11/"><u>Overcoming Obstacles to Printer Sharing in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-the-aw-snap-crash-on-your-chrome-window/"><u>Preventing the “Aw, Snap!” Crash on Your Chrome Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-marketplace-failure-0x80131500/"><u>Resolving Windows Marketplace Failure #0X80131500</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-integrate-fav-photos/"><u>Transform Windows' Email/Calendar: Integrate Fav Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpt-enterprise-features-benefits-and-distinctions/"><u>Unveiling ChatGPT Enterprise: Features, Benefits, and Distinctions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -232,3 +211,20 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-magix-acid-pros-successors-in-vector-editing/"><u>[New] 2024 Approved Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-balanced-tripods-for-dslr-phone-and-tablet-videos/"><u>[New] Best Balanced Tripods for DSLR, Phone, and Tablet Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-audio-best-practices-for-5-windows-11-applications/"><u>[Updated] 2024 Approved Mastering Audio Best Practices for 5 Windows 11 Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-quick-access-to-fb-vids-as-mp4-files/"><u>[Updated] 2024 Approved Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://discover-community.techidaily.com/easy-guide-to-cloning-a-hard-drive-on-windows-11-bootable-version/"><u>Easy Guide to Cloning a Hard Drive on Windows 11 - Bootable Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-editing-speed-with-powertoys-features/"><u>Enhance Editing Speed with PowerToys Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enlarging-your-desktops-taskbar-symbols-in-w11/"><u>Enlarging Your Desktop's Taskbar Symbols in W11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-default-settings-in-windows-11/"><u>Reinstating Default Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-framing-speed-for-enhanced-victory/"><u>Streamline Framing Speed for Enhanced Victory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-steam-cloud-functionality/"><u>Streamlining Steam Cloud Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-potential-security-threats-exist-in-interacting-with-chatgpt/"><u>What Potential Security Threats Exist in Interacting with ChatGPT?</u></a></li>
+</ul></div>
+

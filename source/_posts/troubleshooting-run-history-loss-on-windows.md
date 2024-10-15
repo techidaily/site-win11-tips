@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Run History Loss on Windows
-date: 2024-10-03T17:41:57.862Z
-updated: 2024-10-08T19:26:42.547Z
+date: 2024-10-11T16:43:16.354Z
+updated: 2024-10-15T07:24:03.158Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
@@ -60,19 +60,25 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -84,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -98,29 +104,6 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-capture-perfection-on-the-switch-console-for-2024/"><u>[New] Capture Perfection on the Switch Console for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-cinematic-clarity-choices-best-4k-monitors-for-filmmakers/"><u>[New] Cinematic Clarity Choices Best 4K Monitors for Filmmakers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[New] In 2024, Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[New] In 2024, The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enabledisable-comments-a-youtube-instructional-for-2024/"><u>[Updated] Enable/Disable Comments A YouTube Instructional for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corsair-k55-user-grab-the-newest-driver-software-right-now/"><u>Corsair K55 User? Grab the Newest Driver Software Right Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-to-pc-unplugged-controller-setup-guide/"><u>Direct-to-PC: Unplugged Controller Setup Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-stubborn-epic-launcher-on-windows-11-pcs-guide/"><u>Disabling Stubborn Epic Launcher on Windows 11 PCs: Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fixing-authentication-in-windows-os/"><u>Essential Guide to Fixing Authentication in Windows OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-90withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 90with/without a PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-successfully-download-the-latest-version-of-your-windows-bluetooth-dongle-drivers/"><u>How to Successfully Download the Latest Version of Your Windows Bluetooth Dongle Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-to-lead-teams-with-winning-strategies-free-style/"><u>Learn to Lead Teams with Winning Strategies, Free Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-correcting-security-missteps/"><u>Mastering Windows: Correcting Security Missteps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-msvcr120dll-not-found-windows-issue/"><u>Overcoming 'Msvcr120_dll' Not Found Windows Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-keyboard-gurus-guide-to-windows-photos/"><u>The Keyboard Guru's Guide to Windows Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-print-management-interface/"><u>Unveiling Windows Print Management Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-disk-read-failures/"><u>Winning the Battle Against Disk Read Failures</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,3 +111,22 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>[New] 2024 Approved Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blurring-backgrounds-a-visual-hideaway-guide/"><u>[New] Blurring Backgrounds A Visual Hideaway Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-the-art-of-soundtrack-posts-a-copyright-primer-for-insta-for-2024/"><u>[Updated] Mastering the Art of Soundtrack Posts A Copyright Primer for Insta for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-access-the-microsoft-store/"><u>Effortlessly Access the Microsoft Store</u></a></li>
+<li><a href="https://techtrends.techidaily.com/flac-vs-alac-une-comparaison-detaillee-des-formats-audio-libres/"><u>FLAC Vs. ALAC : Une Comparaison Détaillée Des Formats Audio Libres</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-energy-savings-calculations-while-not-directly-impacting-installation-cost-understanding-potential-energy-savings-is-crucial-for-long-term-roi-analy/"><u>In 2024, __Energy Savings Calculations__ While Not Directly Impacting Installation Cost, Understanding Potential Energy Savings Is Crucial for Long-Term ROI Analysis.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 12 Pro Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-microsoft-code-assistant/"><u>Navigating the World of Microsoft Code Assistant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-failed-issue-for-windows-users/"><u>Overcoming Save Failed Issue for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-jamming-troubleshooting-tips-you-need/"><u>PS4 Joystick Jamming? Troubleshooting Tips You Need</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-paudio-with-audacity-software/"><u>Realigning Windows PAudio with Audacity Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lost-remote-links-on-your-home-pc/"><u>Restoring Lost Remote Links on Your Home PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-remediate-error-code-0x80300024/"><u>Strategies to Remediate Error Code: 0X80300024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-blocking-random-shortcuts-on-pc/"><u>Techniques for Blocking Random Shortcuts on PC</u></a></li>
+</ul></div>
+

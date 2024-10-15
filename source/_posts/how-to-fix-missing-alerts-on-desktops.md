@@ -1,7 +1,7 @@
 ---
 title: How To Fix Missing Alerts on Desktops
-date: 2024-10-07T23:44:14.343Z
-updated: 2024-10-08T21:09:10.463Z
+date: 2024-10-10T11:17:40.663Z
+updated: 2024-10-15T14:05:42.796Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 4. Scroll down to the**Notifications from apps and other senders** section and ensure that your favorite apps are allowed to display notifications on Windows.  
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Allow Apps to Run in the Background
 
  If your apps do not have the necessary permission to run in the background, they will fail to fetch new data and display any notifications. This may lead you to believe that notification badges are not working for the taskbar apps. To avoid this, you should ensure that your apps are allowed to run in the background on Windows by following the steps below.
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 ## 4\. Restart the Windows Explorer Process
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  If it’s just a minor glitch, restarting the Windows Explorer process should help fix it. If you need help with the same, check our guide on[different ways to restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) and follow the steps outlined there.
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
@@ -94,19 +87,19 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair the Problematic App
@@ -133,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stay on Top of App Alerts With Notification Badges
 
  Taskbar notification badges are useful as they inform you about apps and programs awaiting your attention. Hopefully, one of the above fixes has helped you resolve the underlying issue and Windows is now showing notification badges for taskbar apps.
@@ -154,24 +154,22 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>[New] 2024 Approved A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>[New] 2024 Approved Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-editing-fixing-youtube-short-fails/"><u>[New] Video Editing Fixing YouTube Short Fails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-end-game-for-youtube-content-pros-secrets-and-templates/"><u>[Updated] In 2024, End Game for YouTube Content Pros' Secrets & Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>[Updated] In 2024, Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-essential-hashtags-propel-your-posts-to-the-top/"><u>2024 Approved Essential #Hashtags Propel Your Posts to the Top</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-removing-unwanted-backdrops-a-comprehensively-approachable-method/"><u>2024 Approved Removing Unwanted Backdrops A Comprehensively Approachable Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-strategies-for-overcoming-error-1152-on-windows-xp10/"><u>Efficient Strategies for Overcoming Error 1152 on Windows XP/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11s-microphone-capabilities-through-shortcuts/"><u>Enhancing Windows 11'S Microphone Capabilities Through Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-skills-for-photo-cropping-and-cleanup/"><u>Essential Skills for Photo Cropping and Cleanup</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-camon-30-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Camon 30 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ps1-games-in-win-ultimate-duckstation-hacks/"><u>Mastering PS1 Games in WIN: Ultimate Duckstation Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-and-optimize-powershells-execution-policy-landscape/"><u>Navigate & Optimize PowerShell's Execution Policy Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-connection-test-4-windows-tips-to-measure-lan-speed/"><u>Rapid Connection Test: 4 Windows Tips to Measure LAN Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-another-software-using-device-error-in-windows/"><u>Steps to Correct Another Software Using Device Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-with-custom-sizes-on-win11/"><u>Streamlining Windows with Custom Sizes on Win11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stuck-iphone-charge-display-quick-and-effective-solutions-to-resolve-the-issue/"><u>Stuck iPhone Charge Display? Quick & Effective Solutions to Resolve the Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-legacy-uefi-features/"><u>Upgrading Legacy UEFI Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-xcover-7-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy XCover 7 Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-movie-binge-guides/"><u>[New] In 2024, Essential YouTube Movie Binge Guides</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>[New] Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-video-descriptions-on-instagram/"><u>[Updated] Mastering Video Descriptions on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-8-cameras-unmatched-live-stream-quality/"><u>2024 Approved Top 8 Cameras Unmatched Live Stream Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fastest-and-friendliest-torrents-on-windows-our-picks/"><u>Fastest and Friendliest Torrents on Windows: Our Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-windows-power-to-maximize-android-studio-efficiency/"><u>Harness Windows Power to Maximize Android Studio Efficiency</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-tips-for-everyday-windows-10-users/"><u>In 2024, Essential Tips for Everyday Windows 10 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-woes-wake-slumbered-windows-1011/"><u>Keyboard Woes: Wake Slumbered Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-tackle-non-functional-keys-on-windows-11-pc/"><u>Mend: Tackle Non-Functional Keys on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-lsa-malfunctioning/"><u>Overcoming Windows LSA Malfunctioning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-after-discord-update-failures-on-pcs/"><u>Quick Guide to Fix After Discord Update Failures on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-lost-desktop-symbols-in-windows-11/"><u>Reinstate Lost Desktop Symbols in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-aeeusnys-lightweight-solar-generator-perfectly-suited-with-pure-sine-wave-for-critical-medical-tools/"><u>The Ultimate Guide to AEEUSNY's Lightweight Solar Generator: Perfectly Suited with Pure Sine Wave for Critical Medical Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-uncover-hidden-windows-bar-on-expanded-screens/"><u>Tips to Uncover Hidden Windows Bar on Expanded Screens</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a05s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A05s Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

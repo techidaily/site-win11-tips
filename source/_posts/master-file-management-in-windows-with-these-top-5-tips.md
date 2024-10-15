@@ -1,7 +1,7 @@
 ---
 title: Master File Management in Windows with These Top 5 Tips
-date: 2024-10-02T02:32:27.060Z
-updated: 2024-10-09T07:50:36.265Z
+date: 2024-10-10T06:20:55.380Z
+updated: 2024-10-15T15:01:49.587Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
  And if you want to name it, right-click the folder and select **Rename** to make the name field visible.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Rename Multiple Folders Together
@@ -66,13 +66,20 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![Multiple Folders Being Renamed Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rename-multiple-folders-together.jpg)
 3. When all the folders are named, click on **enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way, you can name several folders together—quickly and easily.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Duplicate a Folder Window
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
  When you're working within a folder that is open on your screen, press the **Ctrl + N** keys together. The folder window you're in will get duplicated.
 
 ![Duplicate Folder Window Created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/duplicate-folder-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
@@ -110,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
 
@@ -121,39 +129,11 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-unlock-the-world-of-vr-with-your-phone-in-minutes-for-2024/"><u>[Updated] Unlock the World of VR with Your Phone in Minutes for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>2024 Approved Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-innovative-animation-solutions-with-advanced-3d-modellers/"><u>2024 Approved Innovative Animation Solutions with Advanced 3D Modellers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-editing-the-8-pinnacle-software-titles-for-windows-users/"><u>Conquer Editing: The 8 Pinnacle Software Titles for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723013861472-discord-webcam-woes-here-are-5-solutions-for-a-working-cam/"><u>Discord Webcam Woes? Here Are 5 Solutions for a Working Cam!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/do-i-really-need-a-digital-to-analog-converter-dac/"><u>Do I Really Need a Digital-to-Analog Converter (DAC)?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-wows-catastrophic-glitch-in-windows-11/"><u>Fixing WoW’s Catastrophic Glitch in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-with-reimagined-windows-11-widgets/"><u>Maximizing Productivity with Reimagined Windows 11 Widgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-canary-channel-basics/"><u>Navigating the Windows Canary Channel Basics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-sailing-from-noisy-error-0xc00d36b4-in-win1011/"><u>Smooth Sailing From Noisy Error 0XC00D36B4 in Win10/11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/straightforward-steps-to-mastering-flipper-written-communication-on-windows-for-2024/"><u>Straightforward Steps to Mastering Flipper' Written Communication on Windows for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-windows-navigation-for-iis-management-space/"><u>Swift Windows Navigation for IIS Management Space</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-5-prime-apps-for-clandestine-story-viewers-for-2024/"><u>The 5 Prime Apps for Clandestine Story Viewers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-your-windows-serial-with-ms-accounts/"><u>Unifying Your Windows Serial with MS Accounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-productivity-with-w11s-quick-actions/"><u>Unleash Productivity with W11's Quick Actions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>Updated Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-a56s-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A56s 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +142,21 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-conquering-podcast-title-creativity-a-comprehensive-tutorial-and-idea-list/"><u>[New] 2024 Approved Conquering Podcast Title Creativity A Comprehensive Tutorial & Idea List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-immersion-station-youtubes-10-best-virtual-reality-films/"><u>[New] 2024 Approved Immersion Station YouTube's 10 Best Virtual Reality Films</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-proactive-ways-to-record-breathtaking-live-sports-games/"><u>[Updated] Proactive Ways to Record Breathtaking Live Sports Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-rectifying-problematic-asana-on-pc/"><u>Essential Strategies for Rectifying Problematic Asana on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-rainmeter-glitches-with-ease/"><u>Fixing Common Window's Rainmeter Glitches with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo V30 Phone Without Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-playback-speed-a-guide-for-spotify-users-for-2024/"><u>Optimizing Playback Speed A Guide for Spotify Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-older-directx-games-with-new-age-dxvk-capabilities/"><u>Overhauling Older DirectX Games with New-Age DXVK Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-rapid-response-help-on-modern-windows-os/"><u>Starting Rapid Response Help on Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-mb-error-cant-connect-to-services-in-windows-11/"><u>Troubleshooting MB Error: Can't Connect to Services in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlisted-application-removal-steps-beyond-the-control-panel/"><u>Unlisted Application Removal: Steps Beyond the Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mysteries-of-blue-screen-on-win11-top-fixes-listed/"><u>Unraveling the Mysteries of Blue Screen on Win11: Top Fixes Listed</u></a></li>
+</ul></div>
+

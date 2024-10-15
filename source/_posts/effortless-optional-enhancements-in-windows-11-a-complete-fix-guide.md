@@ -1,7 +1,7 @@
 ---
 title: "Effortless Optional Enhancements in Windows 11: A Complete Fix Guide"
-date: 2024-10-04T23:01:47.743Z
-updated: 2024-10-09T02:06:34.716Z
+date: 2024-10-11T15:18:08.222Z
+updated: 2024-10-15T10:52:13.853Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -65,6 +58,19 @@ To check your system using SFC, follow these steps:
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -91,10 +97,10 @@ net start msiserver`
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
@@ -112,16 +118,22 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -134,6 +146,13 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -172,19 +191,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
@@ -192,10 +198,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
@@ -217,18 +223,16 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-in-the-spotlight-these-8-trending-video-clips-online/"><u>[New] 2024 Approved In the Spotlight These 8 Trending Video Clips Online</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-audio-quality-in-social-media-recordings/"><u>[Updated] 2024 Approved Boosting Audio Quality in Social Media Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-maximizing-post-engagement/"><u>[Updated] 2024 Approved Mastering Instagram Maximizing Post Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-widget-development-strategies-for-windows-11-upgrades/"><u>Cutting-Edge Widget Development: Strategies for Windows 11 Upgrades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-driver-software-for-hp-officejet-4655-printers/"><u>Get the Most Recent Driver Software for HP OfficeJet 4655 Printers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/infusing-vintage-directx-software-with-modern-dxvk-features/"><u>Infusing Vintage DirectX Software with Modern DXVK Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-whisper-converting-speech-to-text-on-windows/"><u>Mastering Whisper: Converting Speech to Text on Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-a-guide-to-understanding-the-nuances-of-accompanying-pictures-with-soundscape/"><u>New A Guide to Understanding the Nuances of Accompanying Pictures with Soundscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconciling-with-a-non-responsive-printer-in-os/"><u>Reconciling With a Non-Responsive Printer in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-invalid-profile-warning-on-pc-win1011-advice/"><u>Remedying 'Invalid Profile' Warning on PC: Win10/11 Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-validity-of-user-profiles-on-win11-oses/"><u>Steps for Resetting Validity of User Profiles on Win11 OSes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-c65-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximizing-your-screen-real-estate-with-picture-in-picture-creation/"><u>[New] 2024 Approved Maximizing Your Screen Real Estate with Picture in Picture Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>[New] Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-xcover-7-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy XCover 7 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-the-clutter-updating-and-refreshing-outdated-windows-tech/"><u>Clear the Clutter: Updating and Refreshing Outdated Windows Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guaranteeing-winrar-compression-validity-with-corrected-sums/"><u>Guaranteeing WinRAR Compression Validity with Corrected Sums</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-axon-40-lite-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Axon 40 Lite by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-a-personalized-youtube-pathway-to-viewers/"><u>In 2024, Crafting a Personalized YouTube Pathway to Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-troubles-heres-a-list-of-solutions-to-rescue-ineffectual-shortcuts-in-windows/"><u>Keyboard Troubles? Here's a List of Solutions to Rescue Ineffectual Shortcuts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-procedure-elevating-to-virtualbox-version-70-on-windows-11/"><u>Stepwise Procedure: Elevating to VirtualBox Version 7.0 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-pixel-density-on-win11/"><u>Tweaking Pixel Density on Win11</u></a></li>
 </ul></div>
 

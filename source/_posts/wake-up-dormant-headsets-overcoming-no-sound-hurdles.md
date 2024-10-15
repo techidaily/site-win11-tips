@@ -1,7 +1,7 @@
 ---
 title: "Wake Up Dormant Headsets: Overcoming No Sound Hurdles"
-date: 2024-10-03T03:24:44.810Z
-updated: 2024-10-08T20:40:11.354Z
+date: 2024-10-14T14:13:59.405Z
+updated: 2024-10-15T01:36:50.973Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check the Speaker Jack
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check[how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Confirm That the HDMI Audio Is Selected
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 Audio should now play on your HDMI TV.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -106,6 +106,13 @@ Audio should now play on your HDMI TV.
 **Right-click** the device and select**Update driver** . The updated driver should then be installed.
 
 ![update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/update-audio-driver.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the same fix to update USB drivers if you use a USB headset or USB sound card.
 
@@ -137,19 +144,6 @@ Audio should now play on your HDMI TV.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
 ## 9\. Check for Corruption of Windows System Files
@@ -177,10 +171,10 @@ Audio should now play on your HDMI TV.
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will turn off all enhancements that could be the cause of your speakers not working.
@@ -212,14 +206,22 @@ Audio should now play on your HDMI TV.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-web-accessory-fb-stories-keeper/"><u>[New] 2024 Approved Web Accessory FB Stories Keeper</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] In 2024, Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-leading-the-virtual-conversation-with-social-media/"><u>[Updated] In 2024, Leading the Virtual Conversation with Social Media</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-networkvidcatcher-for-facebook/"><u>[Updated] NetworkVidCatcher for Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-error-messages-with-windows-11-and-ms/"><u>Deciphering Error Messages with Windows 11 and MS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earnings-expertise-in-streams-a-comparative-study/"><u>Earnings Expertise in Streams A Comparative Study</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-creativity-with-these-8-premium-video-cutters-for-windows/"><u>Enhance Creativity with These 8 Premium Video Cutters for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-precursor-pcs-to-progressive-windows-11-platforms/"><u>From Precursor PCs to Progressive Windows 11 Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-a-seamless-search-experience-in-windows-11-tm/"><u>Re-Establishing a Seamless Search Experience in Windows 11 TM</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-treasure-trove-guide-to-public-domain-images/"><u>[New] 2024 Approved A Treasure Trove Guide to Public Domain Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stepwise-tutorial-adding-professional-edges-to-ig-content/"><u>[New] In 2024, Stepwise Tutorial Adding Professional Edges to IG Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-imaging-top-8k-cameras-unveiled/"><u>[Updated] 2024 Approved Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-gear-for-yi-4k-cameras-ultimate-accessory-selection/"><u>[Updated] 2024 Approved Top Gear for YI 4K Cameras Ultimate Accessory Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[Updated] In 2024, Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expert-strategies-to-master-the-instagram-query-tag/"><u>[Updated] In 2024, Expert Strategies to Master the Instagram Query Tag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-windows-calculator-11/"><u>Guide to Activating Window's Calculator 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-we-cant-find-your-camera-error-on-windows-11/"><u>How to Fix the “We Can’t Find Your Camera” Error on Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-facebook-connection-essentials-for-2024/"><u>Insta-Facebook Connection Essentials for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/"><u>Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-support-period-what-it-means-for-windows-781-users/"><u>Post-Support Period: What It Means for Windows 7/8.1 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcome-incompatibility-in-windows-xp/"><u>Quick-Fix Guide: Overcome Incompatibility in Windows XP.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-gl-driver-issue-number-three-on-win11/"><u>Steps to Correct GL Driver Issue Number Three on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-and-fixes-reopening-elusive-windows-terminal/"><u>Strategies & Fixes: Reopening Elusive Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-wsl-strategies-boost-productivity-in-windows-environments/"><u>Top 5 WSL Strategies: Boost Productivity in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-users-focus-enforcing-group-policy-on-individual-profiles/"><u>Zero-Users Focus: Enforcing Group Policy on Individual Profiles</u></a></li>
 </ul></div>
 

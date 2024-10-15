@@ -1,7 +1,7 @@
 ---
 title: "Essential Strategies: Mastering WSL 2 on Latest OSes"
-date: 2024-10-04T22:53:28.758Z
-updated: 2024-10-09T02:46:10.249Z
+date: 2024-10-07T21:08:25.483Z
+updated: 2024-10-14T16:35:24.825Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
 Here are some of the other important WSL 2 benefits for developers:
@@ -68,33 +61,40 @@ Here are some of the other important WSL 2 benefits for developers:
 
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Integrate Visual Studio Code
 
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Multiple Profiles
 
  If you plan on using WSL 2 for work, personal learning, or school, consider creating separate user profiles. This will allow you to keep your apps, configs, and files organized.
 
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update Packages
 
@@ -104,6 +104,13 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
@@ -111,13 +118,6 @@ Here are some of the other important WSL 2 benefits for developers:
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -138,22 +138,14 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[New] 2024 Approved Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-effortless-instagram-media-export-top-20-free-mp4-converters-online/"><u>[New] In 2024, Effortless Instagram Media Export Top 20 Free MP4 Converters Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ploughing-through-the-past-top-farming-games-follow/"><u>[New] Ploughing Through the Past Top Farming Games Follow</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-ae-essentials-the-most-loved-templates/"><u>[Updated] 2024 Approved Instagram AE Essentials The Most Loved Templates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-leading-phones-gopro-editing-solutions-revealed/"><u>2024 Approved Leading Phones' GoPro Editing Solutions Revealed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours-for-2024/"><u>Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-obstacles-for-win11s-optimal-ccleaner-use/"><u>Clearing Obstacles for Win11's Optimal CCleaner Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-a-python-server-on-windows-transfer-made-simple/"><u>Configuring a Python Server on Windows: Transfer Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-screen-capture-software-beyond-microsofts-snipping-capabilities/"><u>Essential Screen Capture Software Beyond Microsoft's Snipping Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-move-and-copy-integration-for-enhanced-productivity/"><u>Expert Move and Copy Integration for Enhanced Productivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-the-missing-piece-reviving-windows-11s-lost-bluetooth/"><u>Fix the Missing Piece: Reviving Windows 11'S Lost Bluetooth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-mouse-from-doing-backflips/"><u>How to Stop Your Mouse From Doing Backflips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-nokia-150-2023-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Nokia 150 (2023) has been deleted.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-resolving-playback-errors-in-the-youtube-app-across-pc-mac-ios-and-android-devices/"><u>Step-by-Step Guide: Resolving Playback Errors in the YouTube App Across PC, Mac, iOS and Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-guide-to-boost-gaming-with-tailored-amd-configurations/"><u>Strategic Guide to Boost Gaming with Tailored AMD Configurations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-essential-guide-to-saying-thank-you-in-germany/"><u>The Essential Guide to Saying Thank You in Germany</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-implication-of-a-crossed-out-icon-in-explorer/"><u>What Is the Implication of a Crossed-Out Icon in Explorer?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-video-virtuosos-guide-amplifying-iphone-hdri-clarity-using-four-editing-steps-for-2024/"><u>[New] [Video Virtuoso's Guide] Amplifying iPhone HDRI Clarity Using Four Editing Steps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamline-broadcasts-the-ultimate-guide-for-obspluszoom/"><u>[Updated] 2024 Approved Streamline Broadcasts The Ultimate Guide for OBS+Zoom</u></a></li>
+<li><a href="https://win-webster.techidaily.com/and-vuejs-enhanced-template-by-creativetim/"><u>And Vue.js Enhanced Template by @CreativeTim</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-wsl-disabling-guide-for-windows/"><u>Full WSL Disabling Guide for Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 7 Plus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 11 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-windows-operations-ais-influence-on-11th-edition/"><u>Reimagining Windows Operations: AI's Influence on 11Th Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-security-authority-unprotected-message-on-pcs/"><u>Remedying Security Authority Unprotected Message on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-folder-of-windows-11-apps-with-ease/"><u>Unlocking the Folder of Windows 11 Apps with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock & Configure with Ease: Control Panel Steps"
-date: 2024-10-03T03:27:20.896Z
-updated: 2024-10-08T20:22:40.218Z
+date: 2024-10-08T13:57:01.268Z
+updated: 2024-10-15T07:12:52.273Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 2. Type **Control Panel** in the search bar.
 3. Click the **Control Panel icon** when it appears.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Access the Control Panel via the Run Command Dialog Box
 
  The Run command dialog box helps you quickly search for the apps on your PC. Here's how you can use it to access the Control Panel:
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
  Finally, type **Control Panel** in the search box and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -97,14 +97,14 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
 
- Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
 ## 6\. Access the Control Panel via the Task Manager
 
@@ -117,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Access the Control Panel via Windows Settings
@@ -132,22 +132,21 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you like running commands on [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or the Command Prompt (CMD), this method is for you.
@@ -164,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 2. Type **powershell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **control panel** and press **Enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Access the Control Panel via the System32 Directory
 
  Did you know that you can access most of your [Windows apps](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/) using the executable (.exe) files in the System32 folder?
@@ -178,10 +184,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Access the Control Panel Using a Desktop Shortcut
@@ -220,23 +226,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-quickly-modify-photo-resolution-on-an-iphone/"><u>[New] In 2024, How to Quickly Modify Photo Resolution on an iPhone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>2024 Approved Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-sony-xperia-5-v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Sony Xperia 5 V in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-failed-system-call-error-in-windows-devices/"><u>How to Correct Failed System Call Error in Windows Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>In 2024, Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-0x8007045d-fatal-exception-error-on-win-1011/"><u>Resolving 0X8007045D Fatal Exception Error on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solve-keyboardmouse-not-activating-on-windows-11-after-sleep/"><u>Solve Keyboard/Mouse Not Activating on Windows 11 After Sleep</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-diagnostic-failures-on-your-system/"><u>Tackling the Diagnostic Failures on Your System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-to-successfully-install-oracles-jdk-on-your-windows-11-system/"><u>The Essentials to Successfully Install Oracle's JDK on Your Windows 11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-solutions-for-not-found-in-windows-os/"><u>Top 8 Solutions for 'Not Found' In Windows OS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -244,3 +233,18 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-real-time-streaming-excellence-instagram-and-obs-unite-for-2024/"><u>[New] Real-Time Streaming Excellence Instagram and OBS Unite for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20-best-non-copyrighted-pubg-montage-thumbnail-for-2024/"><u>20 Best Non Copyrighted PUBG Montage Thumbnail for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frugal-cloud-loft-economical-space-for-huge-file-stashes-for-2024/"><u>Frugal Cloud Loft Economical Space for Huge File Stashes for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a05s-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A05s Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-up-permadelete-features-using-customizable-windows-11-and-11-trash/"><u>How to Set Up PermaDelete Features Using Customizable Windows 11 & 11 Trash</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ity-query-personal-savings-of-youtube-videos/"><u>Legality Query Personal Savings of YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-fn-button-actions-in-windows-11/"><u>Personalizing FN Button Actions in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-and-ameliorating-unilateral-windows-audio-glitches/"><u>Pinpointing and Ameliorating Unilateral Windows Audio Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-secrets-cod-mws-most-intense-first-person-shooter-drops/"><u>Unlocking Secrets: Cod: MW's Most Intense First-Person Shooter Drops!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-power-saving-features-for-swift-wake-up-times/"><u>Unveiling Windows 11'S Power-Saving Features for Swift Wake-Up Times</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Swift Load Times: Overcoming 0.1KB/S Delays in Valorant"
-date: 2024-10-05T03:53:02.018Z
-updated: 2024-10-08T16:16:24.504Z
+date: 2024-10-10T16:28:19.609Z
+updated: 2024-10-15T12:22:48.296Z
 tags:
   - windows10
   - windows11
@@ -39,18 +39,18 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
 
  If power cycling the router didn't improve your download speeds, contact your ISP and ask that they resolve the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Close All the Discord Services From the Background
 
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -80,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. As per your DNS provider, choose**IPv4** or**IPv6** .
@@ -92,26 +99,19 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 ![Edit DNS settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/IPv6-settings.jpg)
 9. Click on Save.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if you are still facing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
@@ -124,14 +124,14 @@ Check if you are still facing the problem.
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
 
- Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
 ## 6\. Uninstall Avast Antivirus
 
@@ -142,13 +142,6 @@ Check if you are still facing the problem.
 3. Right-click on Avast and choose**Uninstall** from the context menu.
 
  After that, follow the on-screen instruction to complete the uninstallation process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Flush the DNS Cache
 
@@ -190,10 +183,10 @@ Here are the steps you need to follow.
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Reset the Network Settings
@@ -206,6 +199,13 @@ Here's how to reset the network settings:
 2. Click the**Reset now** button next to**Network reset** .  
 ![Reset now button in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button-1.jpg)
 3. Click**Yes** to the UAC that crops up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Valorant Downloading Issue Fixed
 
@@ -228,18 +228,16 @@ Here's how to reset the network settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-cost-free-creative-conversion-twitter-to-tweeple-gifs/"><u>[Updated] Cost-Free Creative Conversion Twitter to Tweeple GIFs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] In 2024, Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-disparity-to-consistency-unifying-windows-pcs-with-aoemi/"><u>From Disparity to Consistency: Unifying Windows PCs With AOEMi</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/h264-vs-prores-comparison-deciding-the-superior-codec/"><u>H.264 Vs ProRes Comparison: Deciding the Superior Codec</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-square-windows-11-edges/"><u>How to Square Windows 11 Edges</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-social-presence-the-art-of-uploading-many-images-and-videos-to-instagram/"><u>In 2024, Elevate Your Social Presence The Art of Uploading Many Images and Videos to Instagram</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-defy-2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Defy 2 Phone without PIN</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content/"><u>In 2024, YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-taskbar-date-and-time-settings-for-windows-11/"><u>Mastering Taskbar Date & Time Settings for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-file-error-on-windows-11/"><u>Overcoming Missing File Error on Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-sound-output-on-non-responsive-windows/"><u>Restoring Sound Output on Non-Responsive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-digital-preservation-backing-up-your-epic-games-data/"><u>The Art of Digital Preservation: Backing Up Your Epic Games Data</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>[New] Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-monetizing-media-earnings-analysis-for-pewdiepie-for-2024/"><u>[New] Monetizing Media Earnings Analysis for PewDiePie for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>[New] Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tutorial-extracting-audio-from-vimeo-video/"><u>[Updated] In 2024, Tutorial Extracting Audio From Vimeo Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-text-manipulation-techniques/"><u>[Updated] Superior Text Manipulation Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-problems-with-audacity-windows-11/"><u>Fixing Internal Audio Problems with Audacity (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-free-0x80072af9-corrections/"><u>Mastering Error-Free: 0X80072AF9 Corrections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-chromium-noise-on-your-windows-pc/"><u>Reducing Chromium Noise on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-decoding-the-red-x-in-windows-explorer/"><u>Unpacking: Decoding the Red X in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-adapter-no-more-windows-80211n-resolved-by-broadcom/"><u>Wi-Fi Adapter No More: Windows 802.11N Resolved by Broadcom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-3gp-movavi/"><u>웹에서 무료 AVI 파일을 바인드하기 위해 자이오티를 구성하기 위한 3GP로의 전환 - MOVAVI</u></a></li>
 </ul></div>
 

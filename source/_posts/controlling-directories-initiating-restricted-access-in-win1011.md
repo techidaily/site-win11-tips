@@ -1,7 +1,7 @@
 ---
 title: "Controlling Directories: Initiating Restricted Access in Win10/11"
-date: 2024-10-02T01:41:46.064Z
-updated: 2024-10-08T18:06:20.772Z
+date: 2024-10-12T03:25:28.445Z
+updated: 2024-10-15T13:37:33.829Z
 tags:
   - windows10
   - windows11
@@ -53,19 +53,19 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 5. You can disable controlled folder access by executing this command:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Controlled Folder Access With Group Policy Editor
@@ -145,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
 3. Click**Save** to add the**Turn on Control folder access** registry file to the desktop.
@@ -172,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -183,23 +183,24 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 3. Press the**\+ Add an allowed app** button.  
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
-![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
-5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
+5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 
 6. Click**Open** to add the selected game or software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
@@ -221,24 +222,16 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones/"><u>[New] Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-visual-communication-adding-instagram-video-descriptions/"><u>[Updated] Elevate Your Visual Communication Adding Instagram Video Descriptions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-snapchat-connectivity-over-time-for-2024/"><u>[Updated] Maximizing Snapchat Connectivity Over Time for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/calculating-costs-in-youtube-advertising-campaigns-for-2024/"><u>Calculating Costs in YouTube Advertising Campaigns for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expanding-user-experience-customizing-window-11-menus/"><u>Expanding User Experience: Customizing Window 11 Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-heat-reduction-features/"><u>Exploring Windows’ Heat Reduction Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-connection-to-the-remote-computer-could-not-be-established-windows-vpn-error/"><u>How to Fix the “Connection to the Remote Computer Could Not Be Established” Windows VPN Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tweak-win11s-connection-behavior/"><u>How to Tweak Win11's Connection Behavior</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-optimizing-zoom-videos-essential-3-part-methodology/"><u>In 2024, Optimizing Zoom Videos Essential 3-Part Methodology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lighten-system-load-streamlining-media-consumption-on-pcs/"><u>Lighten System Load: Streamlining Media Consumption on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-security-4-streamlined-methods-to-deactivate-windows-users/"><u>Mastery in Security: 4 Streamlined Methods to Deactivate Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-optimal-windows-options-for-switch-gaming-enthusiasts/"><u>Selecting Optimal Windows Options for Switch Gaming Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-and-correct-operational-error-0x0000011b-on-win11/"><u>Steps to Prevent and Correct Operational Error 0X0000011B on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/systematic-revival-the-process-of-modernizing-windows-cards/"><u>Systematic Revival: The Process of Modernizing Windows Cards</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-verdict-on-the-dell-inspiron-3671-an-expert-take-on-an-affordable-desktop-unit/"><u>The Verdict on the Dell Inspiron 3671: An Expert Take on an Affordable Desktop Unit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turn-off-instagrams-suggested-posts-a-comprehensive-walkthrough/"><u>Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-by-step-approach-to-crafting-hits-on-9gag/"><u>[New] 2024 Approved Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-calmly-quieten-your-computers-audio-output/"><u>[New] In 2024, Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-miniature-harmonies-character-music-journey/"><u>[Updated] 2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-persistent-edge-in-windows-11/"><u>Dealing with Persistent Edge in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escaping-the-trap-of-unresponsive-windows-updates/"><u>Escaping the Trap of Unresponsive Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-gift-windows-apps-on-christmas-via-the-microsoft-store/"><u>How to Gift Windows Apps on Christmas via the Microsoft Store</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reaping-health-rewards-from-asmrs-embrace/"><u>In 2024, Reaping Health Rewards From ASMR's Embrace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-mixology-a-reality-assessing-chatgpts-talent-for-tailored-toddies-and-martinis/"><u>Is AI Mixology a Reality? Assessing ChatGPT's Talent for Tailored Toddies and Martinis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-mayhem-the-art-of-fixing-faulty-registry-items/"><u>Mastery Over Mayhem: The Art of Fixing Faulty Registry Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-multimonitor-setup-in-win11/"><u>Navigating Through the Complexities of Multimonitor Setup in Win11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
 

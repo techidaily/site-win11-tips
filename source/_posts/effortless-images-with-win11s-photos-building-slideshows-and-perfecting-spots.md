@@ -1,7 +1,7 @@
 ---
 title: "Effortless Images with Win11's Photos: Building Slideshows & Perfecting Spots"
-date: 2024-09-13T04:47:42.107Z
-updated: 2024-09-17T02:25:31.791Z
+date: 2024-10-08T17:46:00.167Z
+updated: 2024-10-15T07:00:40.525Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
@@ -63,18 +70,18 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Spot Fix Feature?
 
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the Spot Fix Feature in the Photos App
 
@@ -88,14 +95,14 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Improvements in the Photos App
 
@@ -106,21 +113,26 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
 
  Microsoft Photos never captured the interest of users until this update came around. The ability to organize photo collection, add a captivating slideshow, and image editing features make it a competent photo editing app.
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +141,25 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-best-free-online-tools-for-precise-srt-translation-for-2024/"><u>[New] Best FREE Online Tools for Precise SRT Translation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-the-usefulness-what-does-fbs-blue-icon-mean/"><u>[Updated] 2024 Approved Decoding the Usefulness What Does FB’s Blue Icon Mean?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>[Updated] Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-gratuitous-video-chats-with-desktop-viewing/"><u>[Updated] Top 10 Gratuitous Video Chats with Desktop Viewing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhancing-your-adventures-through-immersive-gopro-time-lapse/"><u>2024 Approved Enhancing Your Adventures Through Immersive GoPro Time Lapse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-seamlessly-add-pictures-to-youtube-videos/"><u>2024 Approved How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
+<li><a href="https://article-tips.techidaily.com/easy-steps-to-create-personalized-ringtone-from-trending-tiktok-audio/"><u>Easy Steps to Create Personalized Ringtone From Trending TikTok Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-launch-failed-lunar-client-on-pcs/"><u>Guide to Overcoming Launch Failed Lunar Client on PCs</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-gt-10-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix GT 10 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-boot-process-with-service-configurations/"><u>Optimize Windows Boot Process with Service Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-stealers-apps-that-undermine-windows-11-performance/"><u>Silent Stealers: Apps That Undermine Windows 11 Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-a-sluggish-unresponsive-windows-start-icon/"><u>Solutions for a Sluggish, Unresponsive Windows Start Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-user-specific-policy-application-on-windows-1111/"><u>Streamlining User Specific Policy Application on Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-windows-1011-menu-for-efficiency/"><u>Tailor Windows 10/11 Menu for Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-fastest-bittorrent-tools-for-windows/"><u>The Ultimate List of Fastest BitTorrent Tools for Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/jpeg-movavi-jpg/"><u>고품질 JPEG 변환 소프트웨어 - Movavi JPG 변환 도구</u></a></li>
+</ul></div>
+

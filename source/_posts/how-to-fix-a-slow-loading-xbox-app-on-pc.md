@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Slow-Loading Xbox App on PC
-date: 2024-10-05T18:50:49.277Z
-updated: 2024-10-09T08:05:25.837Z
+date: 2024-10-11T06:18:35.303Z
+updated: 2024-10-14T22:28:49.348Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Correct Date and Time on Your PC
 
 [Having your PC set to the wrong date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) may not seem like a big deal, but it can lead to a slew of problems. In this case, it may block the Xbox app from communicating with the servers, thereby preventing you from using it. You can easily avoid such issues by configuring Windows to set the correct time automatically. Here are the steps you need to follow.
@@ -46,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 4. Enable the toggle next to**Set time automatically** .  
 ![Set Date and Time Automatically on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date-and-Time-Automatically-on-Windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sign Out and Back Into the Xbox App
 
@@ -57,26 +64,6 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
 
@@ -94,6 +81,13 @@ Restart the Xbox app after this and see if it works fine.
 ![Reinstall Gaming Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-Gaming-Services-App.jpg)
 6. Click the**Install** button to download the app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
 ## 5\. Run the Windows Store Apps Troubleshooter
@@ -109,16 +103,10 @@ To run the Windows Store Apps troubleshooter:
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
@@ -137,6 +125,13 @@ To repair the Xbox app on Windows:
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app from the same menu. ​​​​​​
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -164,13 +159,6 @@ To leave the Xbox Insider Program:
 
 Restart the Xbox app after this and try to use it again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Troubleshooting the Xbox App on Windows
 
  Hopefully, one of the methods mentioned above has fixed the Xbox app, and you can now access your favorite titles again. However, if none of the solutions work, you can reinstall the Xbox app as a last resort.
@@ -192,20 +180,24 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-screen-record-your-win10-game-log/"><u>[New] Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-kingdom-the-path-to-youtube-mastery/"><u>Crafting Kingdom The Path to YouTube Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-codes-of-user-identities-in-win11/"><u>Deciphering the Codes of User Identities in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-efficiency-embrace-windows-11-tiny/"><u>Enhanced Efficiency: Embrace Windows 11 Tiny</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-acquainted-with-bluescreenview-a-quick-primer/"><u>Getting Acquainted with BlueScreenView: A Quick Primer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286796141-mkvavi/"><u>MKVからAVIへの迅速な動画変換手法：サイトとソフトウェアの利点？</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-visuals-in-application-guard-for-edge-os/"><u>Optimizing Visuals in Application Guard for Edge OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-release-fixes-and-enhancements-in-days-gone-action-packed-fps-game/"><u>PC Release: Fixes and Enhancements in 'Days Gone' Action-Packed FPS Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-process-for-running-sfc-on-windows-pcs/"><u>Step-by-Step Process for Running SFC on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-updater-0x8024a205-malfunction-on-pcs/"><u>Tackling Updater 0X8024a205 Malfunction on PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-dimensions-decoded-a-comprehensive-ratio-handbook-for-2024/"><u>YouTube's Dimensions Decoded A Comprehensive Ratio Handbook for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-softening-audio-endings/"><u>[New] Masterclass Softening Audio Endings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] Mastering the Art of Digital Distortion in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-errors-for-wow-updates/"><u>Clearing Windows Errors for WoW Updates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/drone-photography-showdown-dji-fpv-vs-gopro-x-for-2024/"><u>Drone Photography Showdown DJi FPV Vs GoPro X for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-personal-well-being-with-leading-8-plugins/"><u>Elevate Personal Well-Being with Leading 8 Plugins</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/fehlerbehebung-kein-backup-system-fur-ihren-pc-gefunden-losung-finden/"><u>Fehlerbehebung: Kein Backup-System Für Ihren PC Gefunden – Lösung Finden!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-guide-download-and-configure-new-amd-graphics-drivers-instantly/"><u>Hassle-Free Guide: Download & Configure New AMD Graphics Drivers Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-re-register-microsoft-store-apps-on-windows-11-and-11/"><u>How to Re-Register Microsoft Store Apps on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008836444-monster-hunter-stories-2-wings-of-ruin-not-starting-fix-it-now/"><u>Monster Hunter Stories 2: Wings of Ruin Not Starting? Fix It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-computers-reimagined-windows-11-with-to-go-and-rufus-masterclass/"><u>Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-setup-for-new-win-11-users-via-double-clicked-apks/"><u>Simplified Setup for New Win 11 Users via Double-Clicked APKs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-wsl-save-time/"><u>Skip WSL, Save Time!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-reading-comics-on-win11/"><u>Step-by-Step Walkthrough: Reading Comics on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-disk-management-visualize-and-maximize-with-altwindirstat/"><u>Strategic Disk Management: Visualize & Maximize with AltWinDirStat</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ergodyne-topo-mat-breakdown-a-revolutionary-anti-fatigue-standing-desk-pad/"><u>The Ergodyne Topo Mat Breakdown - A Revolutionary Anti-Fatigue Standing Desk Pad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-guide-enabling-unsupported-graphics-on-windows-for-fortnite-gaming/"><u>Update Guide: Enabling Unsupported Graphics on Windows for Fortnite Gaming</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-what-is-the-best-mp4-cutters-for-youtubers-on-mac-in-2024/"><u>Updated What Is the Best MP4 Cutters for YouTubers on Mac, In 2024</u></a></li>
 </ul></div>
 

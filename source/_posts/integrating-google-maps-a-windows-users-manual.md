@@ -1,7 +1,7 @@
 ---
 title: "Integrating Google Maps: A Windows User's Manual"
-date: 2024-10-04T22:59:53.737Z
-updated: 2024-10-08T19:24:33.559Z
+date: 2024-10-13T22:59:49.446Z
+updated: 2024-10-14T23:18:34.680Z
 tags:
   - windows10
   - windows11
@@ -42,22 +42,15 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Uninstall Google Maps Added via Edge
 
 ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
@@ -77,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 4. In the Create shortcut dialog, select the **Open as window** option. This will open the created shortcut in a new window. You can rename the app if you want or leave it as default.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Create**.
@@ -92,6 +85,19 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
 1. Press **Win + R** to open **Run.**
@@ -102,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  While web apps work well, it misses out on a few features including the ability to download offline maps. If you prefer to run the app natively on Windows, consider [using an Android emulator](https://www.makeuseof.com/lightweight-emulators-android-games-pc/) or [installing Google Play Store on Windows](https://www.makeuseof.com/windows-11-install-google-play-store/) to install the app directly from the official store.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Navigate With Google Maps on Windows
@@ -116,25 +122,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[New] In 2024, Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-noise-reduction-for-videographers-best-freepriced-choices/"><u>[New] In 2024, Noise Reduction for Videographers Best Free/Priced Choices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-add-end-screen-to-video-on-vimeo-in-2024/"><u>[Updated] How to Add End Screen to Video on Vimeo, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-window-communication-apps-5-1-top-8-list/"><u>[Updated] In 2024, Window Communication Apps #5-#1 Top 8 List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-12-amazing-websites-for-free-stock-photos/"><u>2024 Approved 12 Amazing Websites for Free Stock Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-intensifies-mac-gaming-strategy-using-comprehensive-ecosystem-to-capture-audience/"><u>Apple Intensifies Mac Gaming Strategy Using Comprehensive Ecosystem to Capture Audience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-printer-settings-for-secure-edge-environment/"><u>Configuring Printer Settings for Secure Edge Environment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-scanning-software-for-windows-computers-no-cost/"><u>Download Canon Scanning Software for Windows Computers - No Cost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-freelancers-corner-yearly-best-free-text-files/"><u>In 2024, Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-archive-integration-win1011-imaging-strategies/"><u>Invisible Archive Integration: WIN10/11 Imaging Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-device-awareness-in-pc-sleep-states/"><u>Mastering Device Awareness in PC Sleep States</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-non-responsive-windows-services-manager/"><u>Overcoming The Challenges of Non-Responsive Windows Services Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-ps4-joystick-disconnections-in-windows-environment/"><u>Solving PS4 Joystick Disconnections in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-insufficient-usb-resource-allocation/"><u>Tackling Insufficient USB Resource Allocation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-browsers-post-windows-setup/"><u>Zeroing in on Browsers Post-Windows Setup</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +129,27 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-avoid-social-stress-how-to-unfollow-people-for-2024/"><u>[New] Avoid Social Stress How to Unfollow People for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>[New] Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-selecting-free-music-for-videos/"><u>[New] In 2024, Mastering the Art of Selecting Free Music for Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-internal-failure-in-win11win10-connections/"><u>Correcting Internal Failure in Win11/Win10 Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-functionality-with-new-contextual-folders/"><u>Enhancing Taskbar Functionality with New Contextual Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-spatial-sound-in-windows-11/"><u>How to Enable Spatial Sound in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/maximizing-your-media-library-with-mov-on-windows-10/"><u>Maximizing Your Media Library with .mov on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-full-load-in-windows-chatgpt/"><u>Mitigating Full Load in Windows ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/monitoring-means-making-more/"><u>Monitoring Means Making More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/moto-z2s-brainpower-examined-in-detail-for-2024/"><u>Moto Z2's Brainpower Examined in Detail for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-100-obstacle-in-windows-update-processes/"><u>Overcome the 100% Obstacle in Windows Update Processes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pinnacle-group-of-multimedia-harmony-makers/"><u>Pinnacle Group of Multimedia Harmony Makers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/secure-the-future-upgrading-windows-10-to-11-protocols/"><u>Secure the Future: Upgrading Windows 10 To 11 Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-phantom-devices-in-pcs/"><u>Strategies to Address Phantom Devices in PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-for-tackling-windows-camera-errors/"><u>Swift Strategies for Tackling Windows Camera Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-path-to-proliferation-expanding-your-youtube-tribe-for-2024/"><u>The Path to Proliferation Expanding Your Youtube Tribe for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-reigniting-winget-in-windows-11/"><u>Troubleshooting: Reigniting Winget in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unsticking-windows-update-quick-repair-tips/"><u>Unsticking Windows Update: Quick Repair Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-note-30-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Note 30? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

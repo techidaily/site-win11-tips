@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Expiring Licenses Warning in Win10/11
-date: 2024-10-06T17:29:22.374Z
-updated: 2024-10-09T01:36:27.708Z
+date: 2024-10-12T02:50:12.086Z
+updated: 2024-10-15T04:28:51.736Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 * **Run the SFC Scan:** It’s possible that Microsoft is having trouble authenticating your Windows license due to corrupt or damaged system files. To repair these files, you can try [running the System File Checker (SFC) scan on your PC](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 * **Scan for Malware:** Another potential factor contributing to Windows activation issues is malware infection. To address this, you can try [scanning your PC for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Microsoft Defender.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the Activation Troubleshooter
 
  Both Windows 10 and 11 offer various troubleshooters for addressing common system issues. In this case, you can take help from the Windows Activation troubleshooter to fix any issues that may have caused the “Your Windows license will expire soon” error on your PC.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
  Wait for the troubleshooter to do its thing, and then check if it resolves the error.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Find Your Product Key and Activate Windows
 
  Another thing you can do to fix this error is to find your product key using the ShowKeyPlus app and then attempt to activate Windows again. Several users on the forums reported fixing the error with this method. You can also give it a go.
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 4. Press **Win + I** to open the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the **System** tab, click on **Activation**.
@@ -90,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 3. Select **Yes** when the User Account Control (UAC) prompt appears.
 4. Type **slmgr /ato** in the console and press Enter.  
 ![Activate Windows via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/activate-windows-via-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Command Prompt to validate your product key. You will see a message confirming the outcome of the activation process, whether it was successful or not. If the activation is successful, you should not see the “Your Windows license will expire soon” error after this.
 
@@ -117,6 +124,13 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  Restart your computer after running the above commands and then check if you still get the “Your Windows license will expire soon” error on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset the Licensing Status
 
  In case your Windows license is not genuine, there's a workaround to dismiss the “Your Windows license will expire soon” message. This workaround involves resetting the activation period and [hiding the Activate Windows watermark](https://www.makeuseof.com/tag/remove-activate-windows-10-watermark/) via Command Prompt. Here are the steps you can follow.
@@ -126,27 +140,7 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 3. Restart your PC after running the command.  
 ![Reset the Activation Timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-activation-timer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It's worth noting that you can only utilize the above command a few times. Eventually, you will have to obtain a genuine Windows license to eliminate the error message permanently.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the “Your Windows License Will Expire Soon” Error on Windows
 
@@ -156,19 +150,6 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
 
  In the following sections, we will discuss the common causes behind this error and provide potential solutions to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-solving-grey-voids-in-gaming-capture-software/"><u>[New] 2024 Approved Solving Grey Voids in Gaming Capture Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tiletime-effortless-video-mosaics-on-both-oses/"><u>[New] 2024 Approved TileTime Effortless Video Mosaics on Both OSes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-complete-guide-to-use-instagram-video-chat/"><u>[New] In 2024, A Complete Guide to Use Instagram Video Chat</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts-for-2024/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-remove-microsofts-web-browser-in-win11/"><u>How to Remove Microsoft's Web Browser in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-skip-the-onedrive-icon-on-windows-11-file-explorer/"><u>How To Skip the OneDrive Icon on Windows 11 File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-role-of-winservicesexe-in-windows-systems/"><u>The Role of Winservices.exe in Windows Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-f04-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy F04 Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-netgear-nighthawk-x6-wi-fi-expansion-unit-a-full-feature-breakdown/"><u>Ultimate Guide to Netgear Nighthawk X6 Wi-Fi Expansion Unit - A Full Feature Breakdown</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +157,21 @@ cscript.exe %windir%\system32\slmgr.vbs /rilc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-twitter-to-gifs-a-cost-saving-how-to-guide/"><u>[Updated] In 2024, From Twitter to Gifs A Cost-Saving How-To Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boost-engagement-with-effective-wirecast-broadcasts-on-fb/"><u>Boost Engagement with Effective Wirecast Broadcasts on FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-absence-of-drive-letters-in-windows-os-understanding-issues-solutions/"><u>Decoding Absence of Drive Letters in Windows OS: Understanding Issues, Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-desktop-experience-with-easy-widget-implementation-in-win-11/"><u>Enhance Your Desktop Experience with Easy Widget Implementation in Win 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-v2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic V2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pros-and-cons-a-thorough-review-of-the-nook-glowlight-4-edition/"><u>Exploring the Pros and Cons: A Thorough Review of the Nook Glowlight 4 Edition</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-c51-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C51 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-x6-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco X6 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola Razr 40 Ultra Phone Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cures-tackling-11-windows-11-snags/"><u>Quick Cures: Tackling 11 Windows 11 Snags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-task-scheduler-and-batches/"><u>Streamlining System Operations: Task Scheduler & Batches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/surface-pro-cpu-conundrum-in-depth-comparison-of-arm-vs-intel-for-optimal-performance/"><u>Surface Pro CPU Conundrum: In-Depth Comparison of ARM Vs. Intel for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-moment-update-a-symphony-of-new-functions/"><u>Unraveling Windows 11’S Moment Update - A Symphony of New Functions</u></a></li>
+</ul></div>
+

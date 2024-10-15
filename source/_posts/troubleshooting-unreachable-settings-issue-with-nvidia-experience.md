@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unreachable Settings Issue with NVIDIA Experience
-date: 2024-10-02T16:08:20.377Z
-updated: 2024-10-09T02:11:37.790Z
+date: 2024-10-08T07:51:09.556Z
+updated: 2024-10-14T23:46:28.373Z
 tags:
   - windows10
   - windows11
@@ -43,22 +43,15 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 3. Select the **Games & Apps** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Then select a scan location and click **Remove**. Repeat this step to remove all scan locations shown.  
 ![The Remove button for scan locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-button.jpg)
 5. Press the **Scan Now** button to rescan.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete the CefCache Folder
 
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 4. Then launch the GeForce Experience software.
 5. Input your GeForce Experience account details again and click **Log In**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Restore Default NVIDIA 3D Settings
 
  Restoring the NVIDIA 3D Settings to default is another potential fix for the “Unable to retrieve settings” error that has worked for some users. Applying this resolution will reset all 3D settings you’ve changed in the NVIDIA Control panel to a default configuration. You can apply this potential resolution as follows:
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 4. Select **Yes** to reset the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Delete the Steam User Data
@@ -100,14 +100,20 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 ![Steam's userdata folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/userdata-folder.jpg)
 3. Right-click a subfolder that doesn’t have any numbers in its name within the userdata folder and select **Delete**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat the previous step to delete all subfolders in userdata with non-numeric titles like anonymous, etc.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Windows Fixes
 
@@ -119,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
 ![disk-cleanup-tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disk-cleanup-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Install the Latest NVIDIA Driver for Your GPU
 
  Although less likely, corrupted NVIDIA GPU driver files can feasibly cause the “Unable to retrieve settings” error to arise. In this case, installing the latest NVIDIA graphics drivers could be a solution for some users. Uninstall your PC’s current NVIDIA graphics driver and install the latest one by downloading it from the NVIDIA website.
@@ -135,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-downloads.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable Third-Party Antivirus Tools
@@ -154,13 +153,20 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the PC before reinstalling GeForce Experience. Then head over to this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) webpage and click **Download Now**. Open the folder your browser usually downloads files to and double-click the GeForce Experience setup wizard. Go through the installer’s steps to reinstall the software.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize Your Games With GeForce Experience
 
@@ -170,19 +176,6 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  Consequently, users can’t select the Optimize option for games that show the “unable to retrieve settings” error. That’s a bit annoying for players seeking optimal gaming performance. This is how you can fix GeForce Experience’s “unable to retrieve settings” error within Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-future-with-advanced-vr-finger-tech/"><u>[New] Explore the Future with Advanced VR Finger Tech</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unshakeable-video-quality-best-stabilizers/"><u>[New] Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quieting-mute-voices-on-obs-platforms/"><u>[Updated] 2024 Approved Quieting Mute Voices on OBS Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-complete-spatial-soundscape-in-windows-11/"><u>Crafting a Complete Spatial Soundscape in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-hyper-v-on-the-latest-windows-11/"><u>How to Disable Hyper-V on the Latest Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/locating-your-own-playlists-on-youtube/"><u>Locating Your Own Playlists on Youtube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/stand-out-in-the-digital-realm-selecting-unique-youtube-channel-names-for-2024/"><u>Stand Out in the Digital Realm Selecting Unique YouTube Channel Names for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-onoff-the-power-modify-win11-registry-tools/"><u>Turn On/Off the Power: Modify Win11 Registry Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-high-cpuram-demand-from-unrealcefsubprocess/"><u>Understanding & Reducing High CPU/RAM Demand From UnrealCEFSubprocess</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -190,3 +183,18 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blue-screen-error-tackling-iomap64-syscall-failures/"><u>Clearing Up Blue Screen Error: Tackling IOMap64 Syscall Failures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparing-viewing-options-dvd-blu-ray-and-digital-files-advantages-and-disadvantages/"><u>Comparing Viewing Options: DVD, Blu-Ray & Digital Files - Advantages and Disadvantages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-frustration-resurrect-panes-easy-steps-6-ways-to-restore-lost-windows-on-win-1011/"><u>Cut the Frustration, Resurrect Panes! Easy Steps (6 Ways) to Restore Lost Windows on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-techniques-for-exceptional-windows-images/"><u>Cutting-Edge Techniques for Exceptional Windows Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-find-x7-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Find X7 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-105-classic-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia 105 Classic Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leverage-disk-efficiency-windows-11-defrag-tips/"><u>Leverage Disk Efficiency: Windows 11 Defrag Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-speed-up-your-story-two-easy-ways-to-create-stunning-time-lapse-videos/"><u>New In 2024, Speed Up Your Story Two Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-picture-narrative-craft-pro-edition-for-2024/"><u>Ultimate Picture Narrative Craft - Pro Edition for 2024</u></a></li>
+</ul></div>
+

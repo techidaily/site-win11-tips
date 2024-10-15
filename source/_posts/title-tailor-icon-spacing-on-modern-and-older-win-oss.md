@@ -1,7 +1,7 @@
 ---
 title: "Title: Tailor Icon Spacing on Modern & Older WIN OSs"
-date: 2024-10-04T21:41:07.188Z
-updated: 2024-10-09T06:28:46.708Z
+date: 2024-10-14T13:47:36.481Z
+updated: 2024-10-15T12:47:58.536Z
 tags:
   - windows10
   - windows11
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. To unzip the archive, click**Extract** .
@@ -86,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -96,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  You might also notice that Winaero Tweaker’s Icon option has an additional**Change icons font** setting. That option enables you to choose a different font for your desktop icons. Press the**Change Font icon** button to bring up the window shown below.
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
@@ -117,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 3. Select**Windows-Metrics** on the**Tools** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Yes** on the confirmation dialog prompt.
@@ -128,21 +143,7 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -163,22 +164,22 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-finest-top-8-android-mp3-downloader-apps/"><u>[New] Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-free-youtube-end-screen-templates-plushow-tos/"><u>[New] Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-act-camera-gimbals-for-drones/"><u>Balancing Act Camera Gimbals for Drones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/building-impressive-facebook-slideshows-a-practical-guide-for-2024/"><u>Building Impressive Facebook SlideShows A Practical Guide for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-compact-cities-for-a-sustainable-future-for-2024/"><u>Crafting Compact Cities for a Sustainable Future for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-security-strategy-single-antivirus-on-windows/"><u>Efficient Security Strategy: Single Antivirus on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-how-to-restore-dictation-functionality-on-your-iphone/"><u>Expert Advice: How to Restore Dictation Functionality on Your iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-code-to-creativity-ai-in-windows-productivity/"><u>From Code to Creativity: AI in Windows Productivity</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>In 2024, Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-csgo-opener-performance-on-w11/"><u>Optimizing CS:GO Opener Performance on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-invisible-pc-in-widows-remoting/"><u>Remedying Invisible PC in Widows Remoting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-initiating-administrator-level-command-prompt-in-w11/"><u>The Essential Guide to Initiating Administrator-Level Command Prompt in W11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-x-fold-2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo X Fold 2 Android SIM Unlock APK</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-the-secrets-to-effective-youtube-video-uploads/"><u>Unlocking the Secrets to Effective YouTube Video Uploads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xc00ce556-on-windows-devices/"><u>Unraveling Error Code 0xC00CE556 on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[New] Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-no-cost-screen-players/"><u>[New] In 2024, Best No-Cost Screen Players</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximizing-video-reach-sharing-youtube-content-via-facebook-network/"><u>[Updated] In 2024, Maximizing Video Reach Sharing YouTube Content via Facebook Network</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-hobbyist-to-professional-your-guide-to-design-success/"><u>2024 Approved From Hobbyist to Professional Your Guide to Design Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-path-to-success-solving-11-windows-11-glitches/"><u>Clear Path to Success: Solving 11 Windows 11 Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diving-deep-into-nikons-d500-for-exceptional-4k-imaging/"><u>Diving Deep Into Nikon's D500 for Exceptional 4K Imaging</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-high-latency-in-valheim-optimizing-game-performance-on-windows-computers/"><u>Fix High Latency in Valheim: Optimizing Game Performance on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-for-finding-perfect-spot-for-gaming-drivers/"><u>Hacks for Finding Perfect Spot for Gaming Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-13t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi 13T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-complex-windows-partition-unification/"><u>Navigating Complex Windows Partition Unification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-intrusive-scrolling-behaviors-on-os/"><u>Override Intrusive Scrolling Behaviors on OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-systems-winning-strategies-for-unauthorized-prevention/"><u>Safeguarding Systems: Winning Strategies for Unauthorized Prevention</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-avert-black-screens-during-win-games/"><u>Solutions to Avert Black Screens During WIN Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-to-create-an-impactful-youtube-trailer/"><u>Steps to Create an Impactful YouTube Trailer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-memory-drainer-limiting-antimalware-bloat/"><u>Taming the Memory Drainer: Limiting Antimalware Bloat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-false-device-recognition-errors-windows-edition/"><u>Troubleshooting False Device Recognition Errors, WIndows Edition</u></a></li>
 </ul></div>
 

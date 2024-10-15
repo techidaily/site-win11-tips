@@ -1,7 +1,7 @@
 ---
 title: Quick Method to Stop Blanking Screens in Windows 11
-date: 2024-10-06T19:34:45.233Z
-updated: 2024-10-08T16:11:48.364Z
+date: 2024-10-14T00:38:23.614Z
+updated: 2024-10-15T14:58:01.947Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -63,16 +56,23 @@ To adjust your refresh rate:
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset Your Display Driver
 
@@ -84,19 +84,6 @@ To adjust your refresh rate:
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
 3. Underneath**Advanced start-up** , click**Restart now** .
@@ -106,13 +93,6 @@ To adjust your refresh rate:
 Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
@@ -134,10 +114,10 @@ Next, use Device Manager to uninstall the display driver:
  Download the driver, install it, and see if the screen flashing problem has ceased.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roll Back to an Older Driver
@@ -156,6 +136,13 @@ Next, use Device Manager to uninstall the display driver:
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Problematic Applications
 
  Some apps are incompatible with Windows 10/11 and can cause screen flickering. Think about whether you installed any new software before the screen flashing began or if an app recently updated. In the past, three problematic apps have been Norton Antivirus, iCloud, and IDT Audio.
@@ -163,6 +150,13 @@ Next, use Device Manager to uninstall the display driver:
  Across all your applications, make sure you're running the latest versions. Either update within the app itself or head to the respective official websites and download the most up-to-date release. Alternatively, check the developer's support page for recently updated apps to see if screen flashing is known as a recent bug.
 
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn't work, uninstall the program. To do so:
 
@@ -204,14 +198,22 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-currently-hot-in-vr-tech-for-2024/"><u>[New] Currently Hot in VR Tech for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/cross-platform-success-televisions-and-facebook-collaboration-for-2024/"><u>Cross-Platform Success Televisions & Facebook Collaboration for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/cutting-expenses-with-an-affordable-ibuypower-built-to-order-esports-rig/"><u>Cutting Expenses with an Affordable iBUYPOWER Built-to-Order Esports Rig</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-and-rectifying-windowss-c0000005-complication/"><u>Demystifying and Rectifying Windows's C0000005 Complication</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-vs-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic Vs 2 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-launch-details-expected-release-timeline-cost-free-upgrade-key-functionalities-and-latest-developments/"><u>IOS 18 Launch Details: Expected Release Timeline, Cost-Free Upgrade, Key Functionalities & Latest Developments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimization-techniques-for-quick-epic-game-access/"><u>Optimization Techniques for Quick Epic Game Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-pointers-pace-turn-off-acceleration-in-windows-11/"><u>Taming the Pointer's Pace: Turn Off Acceleration In Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-silent-voice-finding-expression-in-a-muted-world/"><u>The Silent Voice: Finding Expression in a Muted World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-camcorders-featuring-direct-faceviewing/"><u>[Updated] Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-tips-for-capturing-movies-on-everyday-tech/"><u>[Updated] In 2024, Cutting-Edge Tips for Capturing Movies on Everyday Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-integrating-external-websites-into-instagrams-ecosystem/"><u>2024 Approved Integrating External Websites Into Instagram's Ecosystem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-excellence-the-ultimate-showdown-between-llama-3-and-gpt-4/"><u>Decoding Excellence: The Ultimate Showdown Between Llama 3 & GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-reduce-app-dimensions-using-keyboard-in-windows-11/"><u>Efficiently Reduce App Dimensions Using Keyboard in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elite-selection-of-windows-based-nintendo-switch-imitations/"><u>Elite Selection of Windows-Based Nintendo Switch Imitations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-selected-best-cable-modem-and-wireless-router-bundles-of-2024/"><u>Expertly Selected Best Cable Modem and Wireless Router Bundles of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-common-windows-error-0x80072f8f-0x20000/"><u>Fixing Common Windows Error: 0X80072f8f-0x20000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998327616-fixing-path-of-exile-stutter-and-lag-issues-troubleshooting-steps-inside/"><u>Fixing Path of Exile Stutter and Lag Issues - Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-and-enjoy-cyberpunk-2077-on-your-pc-via-steam/"><u>How to Fix and Enjoy Cyberpunk 2077 on Your PC via Steam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-system-resources-boosting-android-studio-on-windows/"><u>Leveraging System Resources: Boosting Android Studio on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-assurance-on-your-pc/"><u>Mastering Connectivity Assurance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-chrome-time-discreprancies-windows/"><u>Navigate Through Chrome Time Discreprancies (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-cloud-storage-onedrive-from-microsoft-id-on-pcs/"><u>Separate Cloud Storage (OneDrive) From Microsoft ID on PCs</u></a></li>
+<li><a href="https://win-trending.techidaily.com/strategies-pour-prevenir-la-perte-involontaire-de-fichiers-entiers-pendant-le-tri-dans-vos-systemes-de-stockage/"><u>Stratégies Pour Prévenir La Perte Involontaire De Fichiers Entiers Pendant Le Tri Dans Vos Systèmes De Stockage.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-period-adapting-to-a-world-without-windows-781-updates/"><u>Transition Period: Adapting to a World Without Windows 7/8.1 Updates</u></a></li>
 </ul></div>
 

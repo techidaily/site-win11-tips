@@ -1,7 +1,7 @@
 ---
 title: Easy Adjustment of Text Emphasis and Search Effects
-date: 2024-10-05T23:54:37.931Z
-updated: 2024-10-09T04:00:53.597Z
+date: 2024-10-14T08:28:34.164Z
+updated: 2024-10-14T21:51:41.532Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
  You should no longer see search lights now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn Search Highlights On and Off in the Local Group Policy Editor
 
  Press **Win + R** to open the Windows Run dialog box, type **gpedit.msc** in the text box, and then hit the **Enter** key. For more ways to launch the tool, read our guide on [ways to open the Local Group Policy Editor on Windows 11](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
@@ -57,13 +50,20 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To disable search highlights, check the **Disabled** radio button, and then click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
 
@@ -80,51 +80,30 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 ![creating a dword value in the Windows registry for the SearchSettings key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/creating-dword-windows-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the right panel, double-click **IsDynamicSearchBoxEnabled** (the value you just created) and then enter **1** in the **Value data** text box to turn search highlights on. Then, click **OK** to apply the change.
 
 ![the IsDynamicSearchBoxEnabled value in the Registry Editor and Value data has been set to 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/editing-isdynamicsearchboxenabled-value-windows-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To turn search highlights off, enter **0** in the **Value data** text box, and then click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Control Your Search Highlights on Windows 11
 
  Windows 11 being customizable is what makes interacting with the OS enjoyable. The power is in your hands whether you want to see search highlights or not in Windows Search. And now you know three ways to enable or disable them.
 
  So, keep on reading to find out three ways to turn search highlights on and off.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-altering-mac-screenshot-format-on-the-fly-for-2024/"><u>[New] Altering Mac Screenshot Format on the Fly for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-capturing-vistas-with-the-high-end-z32x-monitor-for-2024/"><u>[New] Capturing Vistas with the High-End Z32X Monitor for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-refining-your-digital-footprint-editing-the-look-back-feature-for-2024/"><u>[Updated] Refining Your Digital Footprint Editing the Look Back Feature for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-snapshot-excellence-the-finest-software-on-market/"><u>[Updated] Snapshot Excellence The Finest Software on Market</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-default-file-formats-in-ms-office-suite-powerpoint-2016-word-and-excel/"><u>Adjusting Default File Formats in MS Office Suite (PowerPoint 2016, Word & Excel)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/enhancing-flight-experience-selecting-premium-fpv-drone-propellers-for-2024/"><u>Enhancing Flight Experience Selecting Premium FPV Drone Propellers for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-2020-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE (2020) Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-tier-emulators-for-gba-games-on-android/"><u>In 2024, Top-Tier Emulators for GBA Games on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/soon-your-photo-collection-can-be-easily-organized-in-microsoft-excel-for-windows-upcoming-import-functionality-revealed/"><u>Soon, Your Photo Collection Can Be Easily Organized in Microsoft Excel for Windows – Upcoming Import Functionality Revealed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-computing-the-mean-value-using-microsoft-excel/"><u>Step-by-Step Guide: Computing the Mean Value Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-an-elegant-bubble-chart-with-microsoft-excel/"><u>Step-by-Step Guide: Creating an Elegant Bubble Chart with Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-eliminating-smart-tags-from-microsoft-excel-workbooks/"><u>Step-by-Step Guide: Eliminating Smart Tags From Microsoft Excel Workbooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-and-customizing-cell-edges-in-microsoft-excel/"><u>Step-by-Step Guide: Modifying and Customizing Cell Edges in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-excel-gridline-colors-easily/"><u>Step-by-Step Guide: Modifying Excel Gridline Colors Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-charts-on-excel-sheets-tips-and-tricks/"><u>The Ultimate Guide to Fixing Charts on Excel Sheets – Tips and Tricks</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +112,17 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-good-quality-to-great-optimal-hd-fb-streaming-for-2024/"><u>[New] From Good Quality to Great Optimal HD FB Streaming for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>[New] In 2024, Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-google-pixel-8-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Google Pixel 8 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/charting-new-horizons-in-digital-clarity-4k-resolution/"><u>Charting New Horizons in Digital Clarity: 4K Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-discord-overlay-not-working-on-windows/"><u>How to Fix the Discord Overlay Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-show-the-minimum-or-maximum-processor-state-in-the-power-options-menu-on-windows/"><u>How to Show the Minimum or Maximum Processor State in the Power Options Menu on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-guide-to-navigating-posting-on-altered-instagram-landscape/"><u>In 2024, A Guide to Navigating Posting on Altered Instagram Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-integrating-invisible-drop-downs-in-win-oses/"><u>Stealth Mode: Integrating Invisible Drop-Downs in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-dialer-interface-effortlessly/"><u>Unlock Windows 11 Dialer Interface Effortlessly</u></a></li>
+</ul></div>
+

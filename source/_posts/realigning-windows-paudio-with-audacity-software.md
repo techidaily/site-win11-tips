@@ -1,7 +1,7 @@
 ---
 title: Realigning Windows PAudio with Audacity Software
-date: 2024-10-02T21:47:08.966Z
-updated: 2024-10-09T01:10:41.667Z
+date: 2024-10-10T06:34:06.506Z
+updated: 2024-10-15T02:50:38.800Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable the Windows Audio and Endpoint Builder Services
 
  Many Audacity users have confirmed enabling and running disabled Windows Audio and Endpoint Builder services can fix the Internal PortAudio error. So, this troubleshooting method will likely work if one of those services is disabled on your PC. This is how you can check and enable those services in Windows 11/10:
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 2. Next, double-click**Windows Audio** to bring up further options for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
@@ -79,24 +79,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Select the Rescan Audio Devices
 
@@ -109,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
@@ -124,18 +110,34 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 3. Click the arrow beside the**Audio inputs and outputs** category.  
 ![The Audio inputs and outputs category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/audio-inputs-and-outputs.jpg)
 4. Right-click your speaker’s audio device and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update the Realtek Audio Codec Driver
@@ -159,20 +161,14 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
@@ -193,21 +189,20 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hats-the-best-youtube-thumbnail-size-in-2024/"><u>[New] What's the Best YouTube Thumbnail Size, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>[Updated] 2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-5-best-live-streaming-webcamscameras-for-twitch/"><u>[Updated] 2024 Approved Top 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>[Updated] Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>[Updated] In 2024, PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-windows-10mac/"><u>DVDを大きくするな! Windows 10/Mac向け画質保持圧縮ガイド | 第二章解説</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-viewing-top-disneyplus-choices-for-kids-and-families-in-july-2nce/"><u>Essential Viewing: Top Disney+ Choices for Kids & Families in July 2Nce</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-file-types-on-windows/"><u>How to Change File Types on Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-free-tools-for-effortless-video-image-retrieval/"><u>In 2024, Free Tools for Effortless Video Image Retrieval</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-the-driver-verifier-in-win11-pro/"><u>Initiating the Driver Verifier in Win11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/journey-to-the-core-understanding-sids-on-windows-11/"><u>Journey to the Core: Understanding SIDs on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/masterful-tips-the-top-6-power-packed-visual-studio-code-modules-for-seamless-chatgpt-functionality/"><u>Masterful Tips: The Top 6 Power-Packed Visual Studio Code Modules for Seamless ChatGPT Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-webcam-failure-code-a00f4289-resolution/"><u>Navigating Windows 11 Webcam Failure - Code A00F4289 Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rekindle-festive-spirit-with-enchanting-pane-decor/"><u>Rekindle Festive Spirit with Enchanting Pane Decor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-freezing-problems-microsoft-teams-win11-and-win10-guide/"><u>Resolving Freezing Problems: Microsoft Teams Win11 & Win10 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-file-finder-the-latest-entries-guide/"><u>Windows File Finder: The Latest Entries Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-youtube-spotlight-with-two-key-approaches-for-2024/"><u>[New] Free YouTube Spotlight with Two Key Approaches for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/benchmarking-excellence-the-201e-apple-ipad-pro-11-unveiled-and-reviewed-as-the-pinnacle-tablet-device/"><u>Benchmarking Excellence: The 201E Apple iPad Pro 11 Unveiled and Reviewed as the Pinnacle Tablet Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diving-into-espnplus-unraveling-the-secrets-of-disneys-premier-sports-streaming-service/"><u>Diving Into ESPN+: Unraveling the Secrets of Disney's Premier Sports Streaming Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-the-v22h2-update-dilemma-on-win11-os/"><u>Efficient Fixes for the V22H2 Update Dilemma on Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reopen-a-closed-nvidia-control-panel-on-windows-11/"><u>How to Reopen a Closed Nvidia Control Panel on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-mic-troubleshooting-expert-tips-for-getting-your-audio-up-and-running-again/"><u>HyperX Cloud Mic Troubleshooting – Expert Tips for Getting Your Audio Up and Running Again!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-troubleshooting-failed-capture-on-win11/"><u>Methods for Troubleshooting Failed Capture on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-demanded-assets-error-in-windows-1011-environments/"><u>Overcoming Demanded Assets Error in Windows 10/11 Environments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/overcoming-gopro-distorted-images-a-guide/"><u>Overcoming GoPro Distorted Images A Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-p55-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel P55 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-retrieving-your-private-snaps-for-2024/"><u>Snapchat Retrieving Your Private Snaps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-non-verified-error-during-windows-file-installation/"><u>Solving the Non-Verified Error During Windows File Installation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-thunder-tier-ones-continuous-pc-malfunction-issues/"><u>Solving Thunder Tier One's Continuous PC Malfunction Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-expanded-pinned-area-on-windows-11-ui/"><u>Techniques for Expanded Pinned Area on Windows 11 UI</u></a></li>
 </ul></div>
 

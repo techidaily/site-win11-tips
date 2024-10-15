@@ -1,7 +1,7 @@
 ---
 title: Personalizing FN Button Actions in Windows 11
-date: 2024-10-05T21:42:19.307Z
-updated: 2024-10-08T22:55:55.686Z
+date: 2024-10-13T13:15:15.144Z
+updated: 2024-10-15T03:59:10.763Z
 tags:
   - windows10
   - windows11
@@ -44,19 +44,6 @@ Here is how to proceed:
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
@@ -64,16 +51,16 @@ Here is how to proceed:
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
@@ -108,7 +95,22 @@ Similarly, if you have an Acer device, follow these steps:
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
 
@@ -123,22 +125,23 @@ If you are a Windows 11 user, follow these steps:
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
@@ -148,13 +151,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -189,16 +185,16 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comedy-central-the-best-laughter-inducing-channels-online/"><u>[Updated] 2024 Approved Comedy Central The Best Laughter-Inducing Channels Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-failed-task-sequences-fixing-error-0x8007000f/"><u>Dealing with Failed Task Sequences: Fixing Error 0X8007000f</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/discover-shotcuts-potential-with-our-in-depth-analysis-your-guide-to-the-free-video-editor/"><u>Discover Shotcut's Potential with Our In-Depth Analysis - Your Guide to the Free Video Editor</u></a></li>
-<li><a href="https://driver-download.techidaily.com/experience-gaming-evolution-with-the-updated-steelseries-control-panel-for-windows-11-free-download/"><u>Experience Gaming Evolution with the Updated SteelSeries Control Panel for Windows 11 – Free Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-performance-expert-advice-on-improving-frames-per-second-fps-in-valorant-the-2024-guide/"><u>Maximize Performance: Expert Advice on Improving Frames Per Second (FPS) in Valorant - The 2024 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-disconnecting-onedrive-from-your-windows-explorer-view/"><u>Quick Fix: Disconnecting OneDrive From Your Windows Explorer View</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-truth-in-ppc-games-keyboard-tech/"><u>Real Truth in PPC Games, Keyboard Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simultaneous-file-release-techniques-for-windows-enthusiasts/"><u>Simultaneous File Release Techniques for Windows Enthusiasts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-pro-techniques-for-enhancing-your-iphone-video-production/"><u>Top 10 Pro Techniques for Enhancing Your iPhone Video Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-printing-woes-a-guide-to-windows-11/"><u>Troubleshooting Printing Woes: A Guide to Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-virtualdub-vs-the-rest-a-comprehensive-review-of-video-editing-options/"><u>Updated 2024 Approved Virtualdub Vs. The Rest A Comprehensive Review of Video Editing Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-dual-display-capture/"><u>[New] 2024 Approved Dual Display Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-and-save-video-images-on-windows-11/"><u>[Updated] Capture and Save Video Images on Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-enriching-productions-with-secondary-cinematography-for-2024/"><u>[Updated] Enriching Productions with Secondary Cinematography for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-your-favorite-youtube-show-regardless-of-your-gear-for-2024/"><u>How to Record Your Favorite YouTube Show, Regardless of Your Gear for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-calibration-completed/"><u>Kratos Calibration Completed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reactivating-non-responsive-ctrl-in-windows-11/"><u>Mastering the Art of Reactivating Non-Responsive CTRL in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-windows-redos-swiftly-using-custom-shortcuts/"><u>Navigate Windows Redos Swiftly Using Custom Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-renaissance-atlasos-for-obsolete-systems/"><u>Tech Renaissance: AtlasOS for Obsolete Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-narzo-60-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Narzo 60 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unattainable-settings-in-geforce-experience/"><u>Troubleshooting “Unattainable Settings” In GeForce Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-1053-service-unresponsive-on-windows/"><u>Troubleshooting Error 1053: Service Unresponsive on Windows</u></a></li>
 </ul></div>
 

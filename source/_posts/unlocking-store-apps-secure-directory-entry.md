@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Store Apps: Secure Directory Entry"
-date: 2024-09-15T08:50:27.902Z
-updated: 2024-09-16T22:45:57.767Z
+date: 2024-10-10T19:12:38.491Z
+updated: 2024-10-14T21:51:06.536Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Change Ownership Properties to Get Access
 
  For the next steps, you need a user account with administrative rights. If you're a beginner, you must know [everything about the Administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) to understand the steps better.
@@ -69,11 +76,27 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
@@ -109,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Access WindowsApps via a Registry Hack
@@ -125,32 +148,27 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 2. Extract the zip and open the **Add Take Ownership to Context menu** registry file.  
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
 3. On the next screen, click **Yes** to add it to the registry.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
 6. From the context menu, click the **Take Ownership** option.  
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
@@ -163,8 +181,6 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +188,25 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-game-magic-captured-advanced-methods-for-logging-virtual-realities-for-2024/"><u>[New] In-Game Magic Captured Advanced Methods for Logging Virtual Realities for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[Updated] 2024 Approved Logo Luminosity Enhancing Gaming Channels with Designs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pixel-perfect-review-amd-radeon/"><u>[Updated] 2024 Approved Pixel Perfect Review AMD Radeon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-the-veil-unveiling-new-horizons-in-10-sci-fi-blockbusters/"><u>[Updated] Beyond the Veil Unveiling New Horizons in 10 Sci-Fi Blockbusters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[Updated] Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-virtually-profitable-gaming-channels/"><u>[Updated] In 2024, Virtually Profitable Gaming Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[Updated] Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-process-of-windows-11s-automated-backups/"><u>Dissecting the Process of Windows 11'S Automated Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-mkv-to-mp4-conversion-tutorial-windows/"><u>Efficient MKV to MP4 Conversion Tutorial (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-developer-insider-content-private/"><u>Keeping Developer Insider Content Private</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-windows-11-extra-monitor-issue/"><u>Mend Windows 11 Extra Monitor Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-deploy-store-bought-programs/"><u>Steps to Successfully Deploy Store-Bought Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-savvy-reestablishing-server-link-with-7-fixes-for-obs-studio/"><u>Sync Savvy: Reestablishing Server Link with 7 Fixes for OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-create-failed-issue-in-windows/"><u>Understanding and Overcoming Create Failed Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-the-top-7-ways-to-optimize-windows-11-use/"><u>Unlocking Potential: The Top 7 Ways to Optimize Windows 11 Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/javynow/"><u>さらばっ! Javynow動画ダウンロード講座 - 絶対に使える手順をスッと学んでみた！</u></a></li>
+</ul></div>
+

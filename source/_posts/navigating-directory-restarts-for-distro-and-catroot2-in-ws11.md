@@ -1,7 +1,7 @@
 ---
 title: Navigating Directory Restarts for Distro & Catroot2 in WS11
-date: 2024-10-07T23:33:35.502Z
-updated: 2024-10-08T20:37:47.624Z
+date: 2024-10-11T17:16:32.773Z
+updated: 2024-10-15T12:06:06.809Z
 tags:
   - windows10
   - windows11
@@ -57,23 +57,16 @@ net stop msiserver`
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `net start bits  
 
@@ -93,13 +86,6 @@ net start msiserver`
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
@@ -110,10 +96,17 @@ net start msiserver`
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -134,24 +127,18 @@ net start msiserver`
 10. Click the **Reset catroo2 Folder** option.
 11. Exit FixWin and reboot your PC after selecting those options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
 
  It’s important to resolve update issues when they arise for the sake of keeping Windows updated. Resetting the catroo2 and SoftwareDistribution folders is one of the most effective troubleshooting methods for fixing Windows update errors.
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-do-voiceover-on-powerpoint/"><u>[New] In 2024, How to Do Voiceover on PowerPoint</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-travel-through-time-on-instagram-the-reverse-video-guide/"><u>[New] In 2024, Travel Through Time on Instagram The Reverse Video Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-whatsapps-vocal-messaging-secrets/"><u>[Updated] Unlocking WhatsApp's Vocal Messaging Secrets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-adjusting-windows-11-settings-for-adaptive-hdr/"><u>2024 Approved Adjusting Windows 11 Settings for Adaptive HDR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-world-of-warcrafts-fatal-problem-132-on-windows/"><u>Conquering World of Warcraft's Fatal Problem #132 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-savings-techniques-for-thrifty-windows-10-enthusiasts/"><u>Key Savings Techniques for Thrifty Windows 10 Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-wi-fi-setup-obstacles-bridging-actions-on-windows-os/"><u>Overcoming Wi-Fi Setup Obstacles: Bridging Actions on Windows OS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-v29-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo V29 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-legacy-systems-for-grandparent-users/"><u>Simplifying Legacy Systems for Grandparent Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +147,19 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[New] Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-anchoring-in-antiquity-how-to-reverse-snapchat-movements/"><u>[Updated] 2024 Approved Anchoring in Antiquity How to Reverse Snapchat Movements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>[Updated] 2024 Approved Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-superior-hd-recording-systems-for-2024/"><u>[Updated] Superior HD Recording Systems for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-windows-memory-not-written-problem/"><u>Counteracting Windows' Memory Not Written Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-unappealing-look-of-greyed-extend-options-in-win/"><u>Eliminate Unappealing Look of Greyed Extend Options in Win</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-system-bottleneck-explorers/"><u>Innovative System Bottleneck Explorers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-sudden-self-shutdown-windows-11-issues/"><u>Solving Sudden Self-Shutdown Windows 11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-something-went-wrong-issues-on-office-windows/"><u>Tackling Something Went Wrong Issues on Office Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unraveling-the-best-gaming-experience-in-vr/"><u>Unraveling the Best Gaming Experience in VR</u></a></li>
+</ul></div>
+

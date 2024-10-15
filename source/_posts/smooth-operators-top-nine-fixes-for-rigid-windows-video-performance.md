@@ -1,7 +1,7 @@
 ---
 title: "Smooth Operators: Top Nine Fixes for Rigid Windows Video Performance"
-date: 2024-10-07T05:45:55.369Z
-updated: 2024-10-09T05:00:25.379Z
+date: 2024-10-11T15:19:45.579Z
+updated: 2024-10-14T17:20:13.058Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  If the other video stutters as well, then check if the media player has a problem. Try playing the video using another player, and if it doesn't stutter, then you can simply use that media player from now on. You can try updating or reinstalling the first media player you tried to use and see if that fixes the stuttering issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check if You Are Using the Right Display Cable
@@ -43,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  If you're using the wrong display cable, it could be that it doesn't support the resolution of the video, causing it to stutter.
 
  For example, if you tried playing a 4K video at 60Hz using an HDMI 1.4 cable, there's a high chance you'll experience stutter compared to using an HDMI 2.0 cable. To fix that, you'll have to purchase a better display cable at your local computer hardware store or online.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Scan for Hardware Changes on Your Computer
 
@@ -69,15 +56,35 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 3. In the top menu, click **Action** and select **Scan for hardware changes**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![scanning for hardware changes in device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scanning-for-hardware-changes-in-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the Device Manager finishes the scan, try and play the video again and see if the stuttering persists or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update Your Graphics Driver
 
@@ -101,22 +108,8 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 ![Troubleshoot option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/troubleshoot-option.jpg)
 2. Select **Other trouble-shooters**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Go to Other Troubleshooters Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-go-to-other-troubleshooters-settings-in-windows-settings-app.jpg)
 3. Scroll down and click **Run** next to **Video Playback**.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Video Playback option in Windows 10's Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Video-Playback-1.jpg)
 
@@ -141,37 +134,39 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 ![Go to the Graphics page in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/go-to-graphics-in-windows-settings.jpg)
 3. Click on the video player you're using to expand it and click **Options**.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![VLC graphics preference options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vlc-graphics-options-in-windows-settings.jpg)
 4. In the pop-up, click the **High performance** radio button, which will select the better GPU for your computer.  
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![changing graphics preference on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-graphics-preference-on-windows.jpg)
 5. Click **Save** to apply the changes and close the pop-up.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're on Windows 10, follow the steps below:
 
 1. Press **Win + I** to open Settings, select **System > Display**, and then click on the **Graphics settings** link.  
 ![the Display page in Windows 10 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-display-page-in-windows-10-settings.jpg)
 2. Click on the video player you're using to expand it and click **Options**.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the pop-up, click the **High performance** radio button, which will select the better GPU for your computer.
 4. Click **Save** to apply the changes and close the pop-up.
 
@@ -197,22 +192,6 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  In this guide, we're going to look into several solutions to help you get rid of a video stuttering problem on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/13-ways-to-get-your-fb-videos-spotlighted/"><u>13 Ways to Get Your FB Videos Spotlighted</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>2024 Approved Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aging-influencer-networks-for-video-game-success-for-2024/"><u>Leveraging Influencer Networks for Video Game Success for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstructed-operations-by-windows-security/"><u>Overcoming Obstructed Operations by Windows Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-device-functions-in-windows-11s-edge-guards/"><u>Unlocking Device Functions in Windows 11'S Edge Guards</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-activated-ai-takes-the-wheel-mercedes-benz-rolls-out-chatgpt-integration-in-cars/"><u>Voice Activated AI Takes the Wheel: Mercedes-Benz Rolls Out ChatGPT Integration in Cars</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -220,3 +199,20 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-dual-domain-delight-posting-videos-across-social-platforms-for-2024/"><u>[New] Dual-Domain Delight Posting Videos Across Social Platforms for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-become-a-travel-vlogger-guide-of-travel-vlogging/"><u>[Updated] 2024 Approved How To Become A Travel Vlogger | Guide of Travel Vlogging</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-combat-oculus-discomfort-10-methods/"><u>[Updated] Combat Oculus Discomfort 10 Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/audio-ambiance-assembler-selecting-background-scores-for-2024/"><u>Audio Ambiance Assembler Selecting Background Scores for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-frustration-to-success-with-nvidia-setup/"><u>From Frustration to Success with NVIDIA Setup</u></a></li>
+<li><a href="https://techidaily.com/get-your-latest-asus-device-support-download-tailored-drivers-for-windows-10-and-7/"><u>Get Your Latest ASUS Device Support: Download Tailored Drivers for Windows 10 & 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-top-picks-most-retweeted-and-binge-watched-series/"><u>In 2024, Twitters' Top Picks Most Retweeted & Binge-Watched Series</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-split-display-glitches/"><u>Navigating Split Display Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-device-hang-error-x887a0006-on-windows-11/"><u>Overcoming the Device Hang Error: X887A0006 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-avoiding-invisible-displays-in-pc-gaming/"><u>Solutions for Avoiding Invisible Displays in PC Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-the-application-failed-in-adobe-error-0xc0000022/"><u>Troubleshooting Guide: Overcoming 'The Application Failed' In Adobe - Error 0xC0000022</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-clear-sounds-in-windows-11-via-action-centers-mixer-feature/"><u>Unlock Clear Sounds in Windows 11 via Action Center's Mixer Feature</u></a></li>
+</ul></div>
+

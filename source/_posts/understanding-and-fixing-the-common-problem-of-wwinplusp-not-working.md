@@ -1,7 +1,7 @@
 ---
 title: Understanding and Fixing the Common Problem of WWin+P Not Working.
-date: 2024-09-15T22:41:52.080Z
-updated: 2024-09-17T08:17:21.020Z
+date: 2024-10-10T15:12:52.245Z
+updated: 2024-10-15T11:26:29.240Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 
 ![Game Mode settings in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/game-mode-settings-windows-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the **Game Mode** toggle is **On**, click on it to set it to the **Off** position.
 
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, try the **Win + P** shortcut again to see if the display switch options will show up.
 
@@ -65,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 
 ![The New and Shortcut options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/new-shortcut-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The table below shows the locations of the various shortcuts for the display options:
 
 | Display Option     | Shortcut Location                               |
@@ -85,26 +92,37 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 
 ![entering the shortcut path for display switch in the Create Shortcut wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-shortcut-display-switch-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Give the display switch shortcut a name and click **Finish**.
 
 ![naming the display switch shortcut in the Create Shortcut wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/naming-display-switch-shortcut.jpg)
 
- You will find the display switch shortcut on the desktop, and when you double-click it, it will switch to the desired display option. You can create display switches for each option if you want.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You will find the display switch shortcut on the desktop, and when you double-click it, it will switch to the desired display option. You can create display switches for each option if you want.
 
 ## Get Win + P Working Again on Windows
 
  When you want to switch displays on Windows, the **Win + P** shortcut comes in handy. If it's not working, you can try the fixes above to get it to work. And if nothing helps, try creating a display switch shortcut as we've shown you.
 
  If you don't want to use the display switch shortcut, and you're sure there's nothing wrong with your keyboard, you can try the nuclear option: resetting your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-harness-freedom-with-top-rated-android-editing-apps/"><u>[New] Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screenshot-and-recording-masterclass-ios-devices-2023-for-2024/"><u>[New] Screenshot & Recording Masterclass IOS Devices 2023 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>[Updated] Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/caf-aiff-movavi/"><u>在線免費 CAF 改造成 AIFF格式：使用 Movavi 翻譯器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-hello-fingerprint-sign-in-process/"><u>Configuring Windows Hello Fingerprint Sign-In Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-interference-a-step-by-step-guide-to-fixing-noisy-outputs-from-the-arctiaudio-7-in-windows-environments/"><u>Eliminate Interference: A Step-by-Step Guide to Fixing Noisy Outputs From the ArctiAudio 7 in Windows Environments</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gain-language-confidence-with-daily-10-minute-tagalog-sessions/"><u>Gain Language Confidence with Daily 10-Minute Tagalog Sessions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cost-effective-sky-gadgets-frugal-flight-devices-ranking/"><u>In 2024, Cost-Effective Sky Gadgets Frugal Flight Devices Ranking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-media-player-on-pc-a-step-by-step-guide/"><u>Launching Windows Media Player on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lifting-legends-top-10-super-strong-drones/"><u>Lifting Legends Top 10 Super-Strong Drones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-widest-use-of-windows-pcs-through-advanced-tdarr-integration/"><u>Make Widest Use of Windows PCs Through Advanced Tdarr Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masked-management-eliminate-start-menus-power-icon/"><u>Masked Management: Eliminate Start Menu's Power Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-microsoft-store-credentials/"><u>Regain Your Microsoft Store Credentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/taste-the-thrill-crafting-engaging-food-network-names-for-2024/"><u>Taste the Thrill Crafting Engaging Food Network Names for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-rufus-and-tpmsecure-boot-in-win11/"><u>The Ultimate Guide to Rufus and TPM/Secure Boot in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-key-disparities-between-in-store-and-distant-windows-installs/"><u>Understanding Key Disparities Between In-Store & Distant Windows Installs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-credentials-made-simple-the-ultimate-list-of-11-access-methods/"><u>Win11 Credentials Made Simple: The Ultimate List of 11 Access Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-clean-canvas-the-ad-free-promise/"><u>Windows 11'S Clean Canvas: The Ad-Free Promise</u></a></li>
+</ul></div>
+

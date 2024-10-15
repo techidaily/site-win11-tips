@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Missing Steam Icons in Desktop
-date: 2024-09-13T05:40:28.917Z
-updated: 2024-09-17T01:39:46.641Z
+date: 2024-10-12T22:05:54.164Z
+updated: 2024-10-15T15:07:25.985Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  If you have missing or blank Steam icons, you should verify the integrity of the game files to repair them, delete the icon cache to create a fresh image, restart Windows Explorer, and relocate the game files to the old directory. When all else fails, you can manually recreate the icons on your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preliminary Checks
 
  Apply the following preliminary checks before moving on to the main fixes:
@@ -59,19 +66,6 @@ To restart Windows Explorer, follow the below steps:
 
  If restarting the Windows Explorer process fails to fix the Steam games icons, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Verify the Integrity of Game Files
 
  Corrupted game files can also cause Steam icons to disappear. Steam offers users the option of automatically replacing outdated game files with new ones if the game files are corrupted, which is known as verifying the integrity of game files. To run this verification in Steam, follow these steps:
@@ -82,13 +76,6 @@ To restart Windows Explorer, follow the below steps:
 4. Go to the**Local Files** tab in the left sidebar.
 5. Click on**Verify integrity of game files** .  
 ![Clicking on the Verify Integrity of Game Files under Local Files of Properties Window of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Verify-Integrity-of-Game-Files-under-Local-Files-of-Properties-Window-of-a-Game-in-Steam.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let the process complete and check whether it has returned the game icons to normal. If it makes no difference, go to the next fix.
 
@@ -110,10 +97,10 @@ If rebuilding the icon cache doesn't work, try the next fix.
  The AppData folder in Windows is often hidden, so you should unhide the files before deleting the IconCache file. Those unfamiliar with the process will find our[guide to on how to show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) helpful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Restore the Icons Manually
@@ -127,6 +114,13 @@ If rebuilding the icon cache doesn't work, try the next fix.
 5. In the right pane, click the**Browse** button.  
 ![Clicking on the Browse Button in the Local Files Tab of Game Properties in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-browse-button-in-the-local-files-tab-of-game-properties-in-steam-client.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Copy the address of the game's installation folder.
 2. Go to the desktop and find the missing icons.
 3. Right-click on the shortcut with the missing icon and select**Properties** .
@@ -136,13 +130,6 @@ If rebuilding the icon cache doesn't work, try the next fix.
 6. Paste the copied path and select the game's .exe file.  
 ![Selecting the Game’s Executive File After Pasting the Copied Path in the Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/7-selecting-the-game-s-executive-file-after-pasting-the-copied-path-in-the-address-bar.jpg)
 7. Then click**Ok** and**Apply** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Finally, hit**OK** .  
 ![Clicking on the Ok Button after Applying the Changes in the Properties Window of the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/8-clicking-on-the-ok-button-after-applying-the-changes-in-the-properties-window-of-the-game.jpg)
@@ -158,19 +145,34 @@ If rebuilding the icon cache doesn't work, try the next fix.
 3. Right-click on the game that has disappeared and go to**Manage > Uninstall.**  
 ![Uninstalling the Game by Right-clicking on the Game in Steam Library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/9-uninstalling-the-game-by-right-clicking-on-the-game-in-steam-library.jpg)
 4. In the confirmation pop-up, click**Uninstall** again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then, delete the remaining files from the game's directory.
 
  After deleting the existing installation, reinstall the game. When you do that, check the box for**Create desktop shortcut** .
 
 ![Checking the Box for Create Desktop Shortcut Option in Game Installation Window in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-checking-the-box-for-create-desktop-shortcut-option-in-game-installation-window-in-steam-client.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a result, Steam will automatically create a desktop shortcut for your game, allowing you to access it more easily.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Steam Game Icons Back on Your Desktop
@@ -190,5 +192,26 @@ If rebuilding the icon cache doesn't work, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-kiddo-cars-miniature-mayhem-matches/"><u>[New] Kiddo Cars Miniature Mayhem Matches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elite-group-16-youtube-entries-boosting-views/"><u>[Updated] In 2024, Elite Group 16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-likes-for-livelihood-the-blueprint-to-brand-backings-on-instagram/"><u>[Updated] In 2024, Leveraging Likes for Livelihood The Blueprint to Brand Backings on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[Updated] Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-itunes-video-downloading-for-ios-users/"><u>[Updated] The Ultimate Guide to iTunes Video Downloading for iOS Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-your-digital-space-a-guide-to-alomwares-utilities/"><u>Customize Your Digital Space - A Guide to AlomWare's Utilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-deep-into-windows-iscsi-initiator-mechanics/"><u>Delving Deep Into Windows iSCSI Initiator Mechanics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-livestreams-with-manycams-cutting-edge-virtual-camcorder-technology/"><u>Enhance Your Livestreams with ManyCam's Cutting-Edge Virtual Camcorder Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-realtek-network-adapter-support-on-windows-10-free-software/"><u>Get Your RealTek Network Adapter Support on Windows 10 - Free Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723807962479-how-to-recover-from-frozen-or-halted-windows-updates-fixes-at-hand/"><u>How to Recover From Frozen or Halted Windows Updates - Fixes at Hand!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-win11-sticky-notes-on-multiple-platforms/"><u>Integrating WIN11 Sticky Notes on Multiple Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/looking-ahead-how-i-anticipate-the-features-of-apples-upcoming-iphone-15-pro-based-on-my-experience-with-the-iphone-14-pro/"><u>Looking Ahead: How I Anticipate The Features of Apple's Upcoming iPhone 15 Pro Based on My Experience with the iPhone 14 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x800700e1-windows-errors/"><u>Overcoming 0X800700E1 Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-process-for-adding-msibundle-files-to-devices-via-store/"><u>Simplified Process for Adding MsiBundle Files to Devices via Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-operators-top-nine-fixes-for-rigid-windows-video-performance/"><u>Smooth Operators: Top Nine Fixes for Rigid Windows Video Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ins-and-outs-of-configuring-services-on-win11-boots-up/"><u>The Ins and Outs of Configuring Services on Win11 Boots Up</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-11-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme 11 Pro without backup.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-mute-games-on-windows-11-suggests/"><u>Tips to Mute Games on Windows 11 Suggests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-and-configure-with-ease-control-panel-steps/"><u>Unlock & Configure with Ease: Control Panel Steps</u></a></li>
+</ul></div>
 

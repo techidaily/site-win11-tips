@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Images: How to Use the Photos App's Blur Feature in Windows 11"
-date: 2024-10-08T00:29:18.086Z
-updated: 2024-10-08T20:56:59.498Z
+date: 2024-10-08T10:08:26.428Z
+updated: 2024-10-15T11:24:28.760Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
@@ -59,28 +59,40 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
 2. Click and drag the mouse on the area to select it for applying the blur effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
 4. If you want to deselect a part of the image from the blur effect, click on the **Deselect area** option.  
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
 5. Then click and drag the brush on the area of the image to deselect it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
 
@@ -93,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Blur the Backgrounds in Your Photos
@@ -105,29 +117,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[New] 2024 Approved From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/convert-and-save-your-favorite-xhamster-videos-in-high-quality-mp4-format-with-these-simple-steps/"><u>Convert and Save Your Favorite xHamster Videos in High-Quality MP4 Format with These Simple Steps!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enable-or-disable-permanent-screen-visibility-in-android-settings/"><u>Enable or Disable Permanent Screen Visibility in Android Settings</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pop-8-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pop 8 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-samsung-galaxy-watch-a-fusion-of-style-and-technology/"><u>In-Depth Review of Samsung Galaxy Watch: A Fusion of Style and Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-storage-inspection-in-windows-10-and-11-through-context-menus/"><u>Instant Storage Inspection in Windows 10 & 11 Through Context Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-excel-data-insights-a-comprehensive-guide-to-utilizing-pivot-tables/"><u>Mastering Excel Data Insights: A Comprehensive Guide to Utilizing Pivot Tables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-goal-seek-functionality-in-microsoft-excel/"><u>Mastering Goal Seek Functionality in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-time-based-sorting-in-microsoft-excel-a-comprehensive-tutorial/"><u>Mastering the Art of Time-Based Sorting in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-frequency-formula-a-comprehensive-guide-on-utilizing-excels-countif-feature/"><u>Mastering the Frequency Formula: A Comprehensive Guide on Utilizing Excel's Countif Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-trendline-analysis-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Trendline Analysis: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-default-output-files-in-libreoffice-made-easy/"><u>Modifying Default Output Files in LibreOffice Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-locating-excel-comments-with-ease-expert-tips-for-effective-searches/"><u>Navigating and Locating Excel Comments with Ease: Expert Tips for Effective Searches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-fitbit-on-hand-discover-how-you-can-use-microsoft-excel-to-keep-tabs-on-your-personal-health-metrics/"><u>No Fitbit on Hand? Discover How You Can Use Microsoft Excel to Keep Tabs on Your Personal Health Metrics!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-excel-201nce-shortcut-keys-for-special-characters/"><u>Setting Up Excel 201Nce Shortcut Keys for Special Characters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/soaring-with-mi-drone-an-in-depth-4k-study/"><u>Soaring with MI Drone - An In-Depth 4K Study</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +124,17 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-apps-to-record-on-iphone/"><u>[Updated] Exclusive Apps to Record on iPhone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizienter-film-dvd-duplikat-mit-winx-dvd-kopierprogramm-herstellen-sie-ihren-eigenen-sicherheitskopie/"><u>Effizienter Film-DVD Duplikat Mit WinX DVD Kopierprogramm - Herstellen Sie Ihren Eigenen Sicherheitskopie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-programs-for-successful-laptop-os-change-from-apples-macos/"><u>Essential Programs for Successful Laptop OS Change From Apple's MACOS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-benefits-of-tango-seamless-video-voice-and-sms-calls-no-cost/"><u>Explore the Benefits of Tango: Seamless Video, Voice & SMS Calls – No Cost</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-features-for-comics-exploration/"><u>Leveraging Windows 11 Features for Comics Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-data-sharing-on-pc-a-curated-list-of-leading-tools/"><u>Simplified Data Sharing on PC: A Curated List of Leading Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/test-if-your-device-complies-with-windows-11-standards/"><u>Test if Your Device Complies with Windows 11 Standards</u></a></li>
+</ul></div>
+

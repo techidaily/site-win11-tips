@@ -1,7 +1,7 @@
 ---
 title: Tips for Fixing Windows 11'S Microsoft Store Error
-date: 2024-10-02T02:37:19.126Z
-updated: 2024-10-09T07:09:55.358Z
+date: 2024-10-13T18:24:25.181Z
+updated: 2024-10-15T06:45:04.579Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Clear the Microsoft Store’s Cache
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Repair the Gaming Services App
 
  A few users who’ve needed to fix error 0x80073CF3 for their Microsoft Store game apps have confirmed that repairing Gaming Services can resolve the issue. Gaming Services is a Microsoft Store app required by Xbox Game Pass apps on Microsoft’s storefront. To do so, select the **Repair** option for Gaming Services in Settings, as covered within our [guide to repairing apps in Windows](https://www.makeuseof.com/windows-repair-apps-programs/).
@@ -75,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
@@ -91,18 +84,24 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
@@ -113,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall the Microsoft Store App
@@ -124,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
 
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
 
@@ -134,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
@@ -146,26 +152,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-your-soundscape-windows-10-audio-tips/"><u>[New] 2024 Approved Elevate Your Soundscape Windows 10 Audio Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-blissful-clip-grabber-insight/"><u>[New] Blissful Clip Grabber Insight</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-budget-videography-choosing-the-best-panoramic-cameras/"><u>[New] In 2024, Budget Videography Choosing the Best Panoramic Cameras</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-distance-remote-podcast-capture-techniques-for-2024/"><u>[Updated] Perfecting Distance Remote Podcast Capture Techniques for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-functionality-with-easy-sierra-system-installation/"><u>Enhance Functionality with Easy Sierra System Installation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/expert-advice-perfected-media-import-techniques-for-windows-10/"><u>Expert Advice Perfected Media Import Techniques for Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-server-crashes-in-media-software/"><u>Fixing Server Crashes in Media Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-repairing-startech-peripheral-driver-conflicts-on-various-windows-os-versions/"><u>Guide to Repairing StarTech Peripheral Driver Conflicts on Various Windows OS Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-keep-your-desktop-spotless-with-windows-self-clean-feature/"><u>How to Keep Your Desktop Spotless with Windows Self-Clean Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-causes-behind-missing-regedit-application/"><u>Identifying Causes Behind Missing Regedit Application</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>In 2024, Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-opengl-error-code-3-with-nvidia/"><u>Overcoming OpenGL Error Code 3 with NVIDIA</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-find-functionality-a-step-by-step-guide-for-win11-users/"><u>Quick Find Functionality – A Step-by-Step Guide for Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-tutorial-review-and-purge-windows-activity-records/"><u>Tech Tutorial: Review & Purge Windows Activity Records</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-controlling-content-filter-on-windows-11/"><u>Tips for Controlling Content Filter on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ten-blunders-in-monitor-acquisition-processes/"><u>Top Ten Blunders in Monitor Acquisition Processes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +159,20 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-set-up-zoom-video-meeting/"><u>[New] How to Set up Zoom Video Meeting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-fast-track-speeding-up-vimeo-videos/"><u>[Updated] 2024 Approved Fast Track Speeding Up Vimeo Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-coach-developing-empathy-and-intuition-skills/"><u>ChatGPT as Your Coach: Developing Empathy and Intuition Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-group-policy-objects-at-a-targeted-user-on-windows-1111/"><u>Directing Group Policy Objects at a Targeted User on Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-defining-wins-command-prompt/"><u>Guidelines for Defining Win's Command Prompt</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-buy-games-on-meta-oculus-quest-2/"><u>How to Buy Games on Meta (Oculus) Quest 2</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/offline-access-to-online-document-editing-via-microsoft-office-suite/"><u>Offline Access to Online Document Editing via Microsoft Office Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-non-present-device-warning-in-windows-11/"><u>Remedy for Non-Present Device Warning in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-a1-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from A1 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-load-times-overcoming-01kbs-delays-in-valorant/"><u>Swift Load Times: Overcoming 0.1KB/S Delays in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-changes-that-bring-your-desktop-life-master-themes-on-windows-11/"><u>The Invisible Changes That Bring Your Desktop Life: Master Themes on Windows 11</u></a></li>
+</ul></div>
+

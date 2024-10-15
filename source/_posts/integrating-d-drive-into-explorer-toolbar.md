@@ -1,7 +1,7 @@
 ---
 title: "Integrating D: Drive Into Explorer Toolbar"
-date: 2024-10-08T03:43:50.519Z
-updated: 2024-10-08T19:56:08.236Z
+date: 2024-10-10T16:21:36.604Z
+updated: 2024-10-15T05:06:24.611Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -81,28 +94,15 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
@@ -123,36 +123,21 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-assessing-djis-flight-vision-tx-headset-performance/"><u>[New] Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-practices-in-digital-media-capturing-for-2024/"><u>[New] Best Practices in Digital Media Capturing for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discovering-the-significance-of-blue-icons-on-fb-messaging-app-for-2024/"><u>Discovering the Significance of Blue Icons on FB Messaging App for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dive-into-the-depths-with-gopro-hero7-black-review/"><u>Dive Into the Depths with GoPro HERO7 Black Review!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reveal-hidden-elements-in-windows-11-ui/"><u>How to Reveal Hidden Elements in Windows 11 UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-virtualization-on-windows-11/"><u>How to Turn Off Virtualization on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-g42-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia G42 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-background-removal-in-images-using-canva-for-2024/"><u>Mastering Background Removal in Images Using Canva for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-keyboard-issues-in-the-windows-snipper/"><u>Resolving Keyboard Issues in the Windows Snipper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-steam-storage-write-failure/"><u>Resolving Windows' Steam Storage Write Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-mouse-interaction-with-windows-clicklock-feature/"><u>Revamping Mouse Interaction with Windows ClickLock Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-altering-windows-index-settings/"><u>Step-by-Step: Altering Windows Index Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-potential-integrating-previous-pc-software-with-newer-os/"><u>Unlocking Potential: Integrating Previous PC Software with Newer OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-the-component-services-of-windows-11/"><u>Unlocking Secrets: The Component Services of Windows 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,3 +146,24 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-ordinary-to-outstanding-a-guide-to-snapchat-edits/"><u>[New] In 2024, From Ordinary to Outstanding A Guide to Snapchat Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-global-ip-using-command-prompt-on-win/"><u>Deciphering Global IP Using Command Prompt on WIN</u></a></li>
+<li><a href="https://win-superb.techidaily.com/descargar-y-convertir-de-formato-mp3-a-wav-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir De Formato MP3 a WAV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-the-hurdle-expert-tips-to-fix-dev-error-6034-on-pc-and-xbox-console-call-of-duty-fans-guide/"><u>Eliminating the Hurdle: Expert Tips to Fix Dev Error 6034 on PC and Xbox Console – Call of Duty Fans Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-safety-masterful-firewall-configuration/"><u>Enhancing Safety: Masterful Firewall Configuration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-lag-issues-and-improve-frame-rate-in-call-of-duty-warzone-expert-tips-inside/"><u>Fix Lag Issues & Improve Frame Rate in Call of Duty Warzone - Expert Tips Inside!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70e-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70E by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lockdown-keep-windows-clock-unaltered/"><u>Lockdown: Keep Windows' Clock Unaltered</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-the-art-of-zooming-in-snapchat-photos-and-videos/"><u>Master the Art of Zooming in Snapchat Photos & Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-high-cpu-impact-of-windows-extender/"><u>Mitigating High CPU Impact of Windows Extender</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-reno-10-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Reno 10 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rapid-and-easy-mp3-video-converter-online-tool-gyors-hatosag/"><u>Rapid & Easy MP3 Video Converter - Online Tool | Gyors Hatóság</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unidentified-lsassexe-problem-in-windows-10/"><u>Steps to Fix Unidentified lsass.exe Problem in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-black-screen-dilemma-on-win10-and-11-swiftly/"><u>Tackling the Black Screen Dilemma on Win10 & 11 Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-simplified-image-editing-in-windows-photos/"><u>The Art of Simplified Image Editing in Windows Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-laptops-your-go-to-machine-for-expert-video-editing-for-2024/"><u>Ultimate Laptops Your Go-To Machine for Expert Video Editing for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Tailored Snap Layouts with PowerToys
-date: 2024-10-07T02:44:55.884Z
-updated: 2024-10-09T07:46:35.955Z
+date: 2024-10-13T10:48:47.505Z
+updated: 2024-10-15T06:39:43.062Z
 tags:
   - windows10
   - windows11
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize FancyZones Settings in PowerToys
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
@@ -94,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multitask Better With Custom Snap Layouts on Windows 11
@@ -130,17 +124,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-affordable-android-chat-top-free-app-alternatives/"><u>[New] Affordable Android Chat Top Free App Alternatives</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-boost-productivity-effective-use-of-zoom-on-win10-pcs/"><u>[New] In 2024, Boost Productivity Effective Use of Zoom on Win10 PCs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-slowly-fading-the-beat-a-pro-guide-for-audio-easing-for-2024/"><u>[New] Slowly Fading the Beat A Pro Guide for Audio Easing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-art-of-searching-people-on-facebook-6-user-friendly-techniques/"><u>Discover the Art of Searching People on Facebook - 6 User-Friendly Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-mod-video-editor-roundup-top-picks/"><u>Free MOD Video Editor Roundup Top Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ihre-favoriten-die-2023-empfohlenen-spitzen-musik-apps-auf-dem-iphone-xrxsxs-max-nach-unserer-testphase/"><u>Ihre Favoriten: Die 2023 Empfohlenen Spitzen-Musik-Apps Auf Dem iPhone XR/XS/XS Max Nach Unserer Testphase</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reveling-in-creativity-the-best-of-filmoras-edits/"><u>In 2024, Reveling in Creativity The Best of Filmora's Edits</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-10-ai-subtitle-translators-for-content-creators/"><u>In 2024, Top 10 AI Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-warnings-about-unverified-application-in-windows-os/"><u>Overcoming Warnings About Unverified Application in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steady-your-system-five-approaches-to-resolve-secure-boot-errors/"><u>Steady Your System: Five Approaches to Resolve Secure Boot Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-way-through-fax-cover-customization-in-win11/"><u>Streamlining Your Way Through Fax Cover Customization in Win11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-explaining-video-trims-the-logic-of-trimming/"><u>[New] 2024 Approved Explaining Video Trims The Logic of Trimming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[New] 2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-renaming-users-in-windows-11-pro/"><u>Efficiently Renaming Users in Windows 11 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-xp-245-driver-download-guide-compatible-with-multiple-windows-operating-systems/"><u>Epson XP-245 Driver Download Guide: Compatible with Multiple Windows Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-clashes-with-huggingchat-the-outcome/"><u>GPT Clashes with HuggingChat: The Outcome</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-worthy-captures-for-iphones/"><u>In 2024, Chuckle-Worthy Captures for IPhones</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>In 2024, Convert with Precision 10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-es-400-scandriver-download-and-setup-on-pcs-with-windows/"><u>Latest Version of Epson ES-400 ScanDriver: Download & Setup on PCs with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-pixel-art-software-beyond-procreate-on-pcs/"><u>Leading Pixel-Art Software Beyond Procreate on PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-quantum-hdr-techniques-for-professionals-for-2024/"><u>Mastering Quantum HDR Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-audio-control-slider-problems/"><u>Overcoming Disabled Audio Control Slider Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-the-path-to-perfect-windows-registry-maintenance/"><u>Pioneering the Path to Perfect Windows Registry Maintenance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-for-disabling-windows-11-security-features/"><u>Quick Methods for Disabling Windows 11 Security Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-portable-windows-preservation-guide-143-chars/"><u>The Portable Windows Preservation Guide (143 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-troubleshooting-windows-mouse-problems/"><u>The Ultimate Guide to Troubleshooting Windows Mouse Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-must-have-software-from-a-windows-to-an-android/"><u>Top 8 Must-Have Software From a Windows to an Android</u></a></li>
 </ul></div>
 

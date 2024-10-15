@@ -1,7 +1,7 @@
 ---
 title: How to Enable Live Sound Input for OBS on Windows 11
-date: 2024-10-02T08:03:18.602Z
-updated: 2024-10-08T21:29:11.109Z
+date: 2024-10-12T14:43:56.348Z
+updated: 2024-10-14T19:36:50.992Z
 tags:
   - windows10
   - windows11
@@ -43,20 +43,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Unmute OBS Studio in the Settings App
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
@@ -71,6 +57,19 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 Restart OBS Studio and check if the problem persists.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use the Correct Recording Device
 
  Windows allows you to manually choose recording and playback devices. But if you've chosen an incorrect recording device in Settings, then you're likely to face this issue. To fix this, you will have to configure the correct device as the default recording option. Here's how to do that:
@@ -83,17 +82,17 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -109,6 +108,13 @@ Restart OBS Studio and check if the problem persists.
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Change the OBS Studio Settings
 
  OBS Studio lets you manually set audio devices and adjust their settings as per your preference. However, OBS Studio will be unable to record audio if you have chosen an incorrect audio device within its settings.
@@ -123,26 +129,6 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -155,16 +141,23 @@ Restart OBS Studio and check if the problem persists.
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -179,6 +172,13 @@ You can do that by following the below steps:
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
  Next, allow Windows to search for and download any available driver updates for your recording device.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall OBS Studio
 
@@ -205,15 +205,15 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-whats-revolutionary-about-movavi-plus-video-editor/"><u>[New] In 2024, What's Revolutionary About Movavi Plus Video Editor ?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-simple-iphone-screen-recording/"><u>[Updated] The Essential Guide to Simple Iphone Screen Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-key-to-engaging-audiences-instagram-video-descriptions/"><u>[Updated] The Key to Engaging Audiences Instagram Video Descriptions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-pro-iphones-capturing-perfect-silhouettes/"><u>2024 Approved Pro iPhones Capturing Perfect Silhouettes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-your-multi-monitor-experience-with-top-window-brightness-controls/"><u>Elevating Your Multi-Monitor Experience with Top Window Brightness Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harmonize-your-hours-regain-windows-rhythm/"><u>Harmonize Your Hours, Regain Windows Rhythm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/howto-use-biometrics-with-windows-11-for-security/"><u>Howto: Use Biometrics with Windows 11 for Security</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-11-experience-enabling-end-task-on-taskbar/"><u>Tailoring Your Windows 11 Experience: Enabling End Task on Taskbar</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-archive-navigation-made-simple-for-2024/"><u>Twitter Archive Navigation Made Simple for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-depth-review-complete-camstudio-screencap-suite/"><u>[New] In-Depth Review Complete CamStudio Screencap Suite</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-realme-11-proplus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme 11 Pro+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-unwanted-features-to-lower-memory-usage/"><u>Disable Unwanted Features to Lower Memory Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-command-line-system-exploration/"><u>Easy Steps for Command-Line System Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-with-claude-the-comprehensive-guide-on-its-functionality-and-advantages/"><u>Harnessing AI with Claude: The Comprehensive Guide on Its Functionality and Advantages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-gmail-with-outlook-on-windows-a-step-by-step-guide/"><u>Integrating Gmail with Outlook on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-xp7-for-group-policies/"><u>Navigating Win XP/7 for Group Policies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reach-out-to-digiaart-connecting-you-with-innovative-art-solutions-online/"><u>Reach Out to DigiaArt: Connecting You With Innovative Art Solutions Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-7-cost-effective-user-friendly-movie-software/"><u>Top 7 Cost-Effective, User-Friendly Movie Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-pc-crash-errors-in-century-age-of-ashes-game/"><u>Troubleshooting and Fixing PC Crash Errors in Century: Age of Ashes Game</u></a></li>
 </ul></div>
 

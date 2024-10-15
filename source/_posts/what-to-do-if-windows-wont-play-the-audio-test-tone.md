@@ -1,7 +1,7 @@
 ---
 title: What to Do if Windows Won't Play the Audio Test Tone
-date: 2024-10-07T02:04:18.870Z
-updated: 2024-10-08T23:27:57.295Z
+date: 2024-10-13T22:32:44.438Z
+updated: 2024-10-14T20:16:57.683Z
 tags:
   - windows10
   - windows11
@@ -45,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 
  Wait for a while until Windows scans and fixes the issue. After this, see if the test tone is working.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart the Windows Audio Service
 
  The Windows Audio service is responsible for controlling the sound on your computer. It's possible that this service stopped running and caused the test tone to fail. In this case, you must restart the Windows Audio service to get your sound back. Here's how.
@@ -67,35 +54,14 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 ![Open Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-windows-audio-service.jpg)
 3. Once found, double-click it to open its Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the General tab, click on the **Start type** drop down menu and select **Automatic**.  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-windows-audio-service.jpg)
 5. Now go to the **Service status** section and click on **Stop**.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Wait for a few moments, then press **Start** to restart the service.
 7. Click **Apply** \> **OK** to save the changes.
 
  After doing this, close the Services window and open any audio application to check if the test tone is playing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Audio Enhancements
 
@@ -126,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 3. In the Device Manager window, expand the **Audio inputs and outputs** section.  
 ![Update Audio driver Via Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-audio-driver-via-device-manager.jpg)
 4. Find your audio device. Note the manufacturer and model name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Search online for drivers for your device. Usually, these will be on the manufacturer's website.
 
  These drivers usually install with a double-click, but if it doesn't, go back to Device Manager and do this:
@@ -134,14 +108,14 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 2. On the next page, select **Search automatically for drivers**. If it doesn't find anything, select **Browse my computer for drivers** and select it manually.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait until Windows downloads and installs the latest driver version. Once done, restart your device and check if the test tone is now playing.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Audio Drivers
 
@@ -154,9 +128,24 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 3. Right-click your audio device and select **Uninstall device**.  
 ![Uninstall Audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-audio-driver.jpg)
 4. If a warning pops up, click **Uninstall** to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now follow the on-screen instructions to uninstall the audio driver.
 
  After this, close the window and restart your computer. Once your system is up, Windows will automatically detect the audio device and install its driver. This will fix the issue if the driver was corrupted.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Different Audio Formats
 
@@ -173,10 +162,16 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 6. Now try playing a test tone and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
@@ -190,30 +185,18 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 * You can also [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It disables unnecessary third-party software running in the background, which may cause the issue. I
 * If the problem persists, [use the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/). This utility scans all protected system files and replaces them if they are corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Playing the Test Tone Again on Windows
 
  It appears that you are having problems with your sound card and the Windows test tone is not playing. Hopefully, one of these tips worked for you, and your speakers are now working.
 
  Dealing with audio problems on Windows is sometimes frustrating, but there are simple solutions available. This guide shows you how to troubleshoot the issue and get your speakers working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-securesave-specialists-judgment/"><u>[New] In 2024, SecureSave Specialists Judgment</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-window-recorder-w10-edition-for-2024/"><u>[Updated] Easy Window Recorder - W10 Edition for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elevate-pc-gameplay-with-higher-frames-per-second-fps-a-comprehensive-guide-to-troubleshooting-and-solutions/"><u>Elevate PC Gameplay with Higher Frames per Second (FPS): A Comprehensive Guide to Troubleshooting and Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12r-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12R to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection/"><u>In 2024, Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715860484826-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10-for-2024/"><u>In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10). For 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intervening-persistent-reboot-into-windows-cmos-setup/"><u>Intervening Persistent Reboot Into Windows CMOS Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-ethernet-offline-issue/"><u>Overcoming Windows Ethernet Offline Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-file-damage-error-code-0x80070570-in-windows-11/"><u>Remedy for File Damage Error (Code 0X80070570) in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-windows-machines-powerful-video-conversion-synergy-with-tdarr-technology/"><u>Sync Windows Machines: Powerful Video Conversion Synergy with Tdarr Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-worlds-seamlessly-connect-your-winpc-and-galaxy/"><u>Uniting Worlds: Seamlessly Connect Your WinPC and Galaxy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-your-powerpoint-slides-fixing-their-prints-on-windows/"><u>Unleashing the Full Potential of Your PowerPoint Slides: Fixing Their Prints on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-error-buster-restore-connection-with-mbs-server-link/"><u>Win 10/11 Error Buster: Restore Connection with MB's Server Link</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -222,3 +205,20 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-desktop-capture-the-windows-user-guide/"><u>[Updated] 2024 Approved Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-identifying-the-ideal-team-chat-app-slack-or-discord-revealed/"><u>[Updated] 2024 Approved Identifying the Ideal Team Chat App Slack or Discord Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-list-5-superior-webcams-with-sound-capture/"><u>[Updated] In 2024, Essential List 5 Superior Webcams with Sound Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-loom-chronicles-crafting-visual-stories/"><u>[Updated] The Loom Chronicles Crafting Visual Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-64gb-for-video-file-storing-power-for-2024/"><u>Assessing 64GB for Video File Storing Power for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-transform-avi-files-into-swf-format-with-ease-moveavni/"><u>Free Online Converter: Transform AVI Files Into SWF Format with Ease - MoveAvni</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-errors-during-iphone-image-upload-to-windows/"><u>Guidelines for Fixing Errors During iPhone Image Upload to Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-k70-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi K70 to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-portable-apps-into-windows-desktop/"><u>Integrating Portable Apps Into Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-mastering-the-art-of-desk-icon-space-adjustment-on-winos/"><u>Title: Mastering the Art of Desk Icon Space Adjustment on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-actions-made-fast-with-cut-paste-shortcuts/"><u>Windows Actions Made Fast with Cut-Paste Shortcuts</u></a></li>
+</ul></div>
+

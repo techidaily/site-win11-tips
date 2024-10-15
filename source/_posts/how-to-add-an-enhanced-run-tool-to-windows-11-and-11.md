@@ -1,7 +1,7 @@
 ---
 title: How to Add an Enhanced Run Tool to Windows 11 & 11
-date: 2024-10-05T01:13:01.975Z
-updated: 2024-10-09T04:29:16.359Z
+date: 2024-10-08T21:36:47.264Z
+updated: 2024-10-15T12:16:12.645Z
 tags:
   - windows10
   - windows11
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -97,10 +104,17 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -121,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
@@ -137,20 +144,13 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -171,21 +171,22 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-leading-voice-to-text-programs-for-2024/"><u>[New] Leading Voice to Text Programs for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revamping-virtual-communication-top-strategies-for-zoom-format-conversion/"><u>[New] Revamping Virtual Communication Top Strategies for Zoom Format Conversion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-kinemaster-edge-mastering-video-segmentation-and-transitioning-for-2024/"><u>[New] The Kinemaster Edge Mastering Video Segmentation and Transitioning for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-laying-the-groundwork-for-successful-channels/"><u>[Updated] Laying The Groundwork For Successful Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-synchronizing-sound-to-pixels-online-for-2024/"><u>[Updated] Synchronizing Sound to Pixels Online for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/beyond-wonders-the-unseen-disadvantages-in-vr/"><u>Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-breakdown-understanding-windows-odbc-system/"><u>Comprehensive Breakdown: Understanding Windows' ODBC System</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ignite-attention-driving-success-in-instagram-posts-for-2024/"><u>Ignite Attention Driving Success in Instagram Posts for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/macbook-essentials-decoding-the-disparities-between-air-and-pro-versions/"><u>MacBook Essentials: Decoding the Disparities Between Air and Pro Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-window-11s-help-service-disruption/"><u>Mending Window 11'S Help Service Disruption</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-elevation-conflict-overcoming-error-740/"><u>Navigating Windows 11'S Elevation Conflict: Overcoming Error #740</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-vanished-recorded-run-events/"><u>Preventing Vanished Recorded Run Events</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-resolve-failing-windows-discord-updates/"><u>Step by Step to Resolve Failing Windows Discord Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-critical-javascript-failure-in-discord-on-windows/"><u>Steps to Address Critical JavaScript Failure in Discord on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-easy-way-to-secure-your-gameplay-with-nintendos-passcode-feature/"><u>The Easy Way to Secure Your Gameplay with Nintendo's Passcode Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-value-proposition-of-windows-11s-interactive-elements/"><u>The Value Proposition of Windows 11'S Interactive Elements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-innovative-recorders-for-console-gameplay-footage-for-2024/"><u>[Updated] Innovative Recorders for Console Gameplay Footage for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>2024 Approved Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-canvas-delight-premier-apps-for-ipados-artistry/"><u>Digital Canvas Delight Premier Apps for iPadOS Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-domain-services-error-impacting-printers-in-w11/"><u>How to Rectify Domain Services Error Impacting Printers in W11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-note-taking-with-windows-os-integration/"><u>Innovative Note-Taking with Windows OS Integration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/large-language-model-showdown-bard-chatgpt-and-offline-alpaca-which-one-takes-the-crown/"><u>Large Language Model Showdown: Bard, ChatGPT and Offline Alpaca - Which One Takes the Crown?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-fixing-non-downloading-windows-files/"><u>Mastery Guide: Fixing Non-Downloading Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-to-new-activation-employing-windows-7-key-in-11-setup/"><u>Old to New Activation: Employing Windows 7 Key in 11 Setup</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-xiaomi-14-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Xiaomi 14</u></a></li>
+<li><a href="https://win-blog.techidaily.com/snabbt-fa-10-rabatt-med-movavi-rabattkuponger-din-passion-for-fotografi-blir-mer-gynnsam-starta-ditt-fotografi-projekt-med-var-lonekod/"><u>Snabbt Få 10% Rabatt Med Movavi Rabattkuponger: Din Passion För Fotografi Blir Mer Gynnsam - Starta Ditt Fotografi Projekt Med Vår Lönekod</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-methods-to-store-mov-on-your-windows-pc-for-2024/"><u>Streamlined Methods to Store .mov on Your Windows PC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-for-disk-read-fail-in-windows/"><u>Swift Solution for Disk Read Fail in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-occupied-error-for-files-in-windows-1011-153-chars/"><u>Troubleshooting 'Occupied' Error for Files in Windows 10/11 (153 Chars)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-overcoming-the-0x800705b4-hurdle-in-windows-11s-patching-process/"><u>Ultimate Fixes: Overcoming the 0X800705b4 Hurdle in Windows 11'S Patching Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-pc-tips-eliminating-photo-capture-failed-glitch/"><u>Win PC Tips: Eliminating Photo Capture Failed Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-update-failed-with-error-0x80242016-try-these-fixes/"><u>Windows Update Failed With Error 0X80242016? Try These Fixes</u></a></li>
 </ul></div>
 

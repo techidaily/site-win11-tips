@@ -1,7 +1,7 @@
 ---
 title: Innovative Ideas for a More Robust Clipboard System in Windows 11
-date: 2024-10-04T04:51:02.732Z
-updated: 2024-10-08T20:32:35.347Z
+date: 2024-10-13T09:11:29.856Z
+updated: 2024-10-15T02:40:12.424Z
 tags:
   - windows10
   - windows11
@@ -39,29 +39,9 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![Screenshot showing pinned items in Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinned-items.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows 11's clipboard history allows you to pin copied items to make them stand out from the rest. However, the pinned items might get lost in the crowd if you keep copying text and images. You must then scroll to the bottom of the clipboard history window to find the pinned items.
 
  clipboard history will be much better with pinned items always on top of the window. This will make pinned items easier to access, as they should be. We hope Microsoft will introduce this change in future software updates for Windows 11\.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Ability to Search Through Clipboard History
 
@@ -70,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
  Windows 11 clipboard history should have the ability to allow users to search through it to make looking up copied items easier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Ability to Resize the Clipboard History Window
@@ -84,9 +64,23 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  Microsoft can address this issue by adding the ability to resize the clipboard history window. Windows users should be able to drag the window's edges to change the size, just like how we can resize app windows.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Allow Pinning of Clipboard History to Taskbar
 
  While opening the clipboard history in Windows 10 and 11 is already easy, it will be even more accessible if it gets pinned on the taskbar. This can be helpful if you are facing issues with keyboard switches (check out [fixes for keyboard switch not working on Windows](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/)), as pinning the clipboard history to the taskbar gives you an alternative way to access all the copied items.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add Paste as Plain Text in Clipboard History
 
@@ -96,33 +90,33 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  Windows users can be more productive with the ability to paste as plain text capability in the clipboard history. Microsoft should at least give us the option on top of what we already have.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Clipboard Should Survive Through a Reboot
 
  While clipboard history can get you access to recently copied items, it can't survive a reboot. In other words, Windows wipes out all the copied items when you turn off or restart your PC. In that case, you need to start all over again.
 
  Instead of wiping everything once the PC shuts down, Microsoft should add the option to save the copied items for a few days. You won't need to worry when your PC restarts automatically, as your copied items will be saved in the clipboard history.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Increase the Number of Items Clipboard History Can Store
 
  clipboard history can store up to 25 items you've cut or copied. That number may not be sufficient for a better workflow for someone who uses copy and paste extensively. Microsoft needs to increase the number of items that clipboard history can store to improve the overall copy-and-paste experience on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Bring the Option to Share Items in Clipboard History with Users
 
  Many Windows users would want to share their clipboard history with others. This will enable other users to paste the same set of copied items. Hopefully, Microsoft will add this one, too, in future Windows 11 versions.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Other Improvements Microsoft Can Bring to Clipboard History
 
@@ -134,25 +128,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  In this article, we are putting together a list of features Microsoft can add to improve the clipboard history capability in Windows 11\. But before that, here is a brief introduction to the clipboard history feature.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-by-step-screenshot-guide-capturing-and-storing-hulu-content/"><u>[New] In 2024, Step-by-Step Screenshot Guide Capturing and Storing Hulu Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-inexpensive-chinese-virtual-reality-helmets/"><u>[New] Inexpensive Chinese Virtual Reality Helmets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ideo-venture-validation-benchmarking-against-business-rivals/"><u>[New] Video Venture Validation Benchmarking Against Business Rivals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reestablish-offline-steam-connection-with-servers-on-pc/"><u>How to Reestablish Offline Steam Connection with Servers on PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stay-safe-on-the-road-waze-highlights-accident-prone-streets/"><u>Stay Safe on the Road: Waze Highlights Accident-Prone Streets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-enable-driver-verifier-in-windows-11/"><u>Steps to Enable Driver Verifier in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-webcam-malfunction-in-windows-11-fixing-error-0xa00f4289/"><u>Streamlining Webcam Malfunction in Windows 11: Fixing Error 0xA00F4289</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-pc-the-process-of-reverting-with-system-restore/"><u>Streamlining Your PC: The Process of Reverting with System Restore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-blue-screen-error-interrupt-not-handled/"><u>Techniques for Resolving Blue Screen Error: Interrupt Not Handled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-imessage-fun-best-games-to-play/"><u>Top 7 iMessage Fun: Best Games to Play</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-8t-a-rapid-device-with-cameras-needing-improvement/"><u>Unveiling the OnePlus 8T: A Rapid Device with Cameras Needing Improvement</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-elevate-your-music-production-the-best-free-and-paid-logic-pro-x-plugin-companions-for-2024/"><u>Updated Elevate Your Music Production The Best Free and Paid Logic Pro X Plugin Companions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-fix-unraveling-error-0x30017/"><u>Win11 Fix: Unraveling Error 0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-workspace-wizardry-mastering-direct-file-exchange-in-clouds/"><u>Windows Workspace Wizardry: Mastering Direct File Exchange in Clouds</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +135,23 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-podcast-powered-by-seo-dominating-search-engine-landscapes/"><u>[New] Podcast Powered by SEO Dominating Search Engine Landscapes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-engagement-with-squared-up-social-media-content-for-2024/"><u>Enhance Engagement with Squared-Up Social Media Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-window-11-barriers-to-installing-your-clipchamp-effectively/"><u>Fix Window 11 Barriers to Installing Your ClipChamp Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-missing-action-buttons-on-microsoft-written-language-english/"><u>How to Fix Missing Action Buttons on Microsoft' Written Language: English</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hulus-strength-as-a-streaming-service-top-5-points/"><u>Hulu’s Strength as a Streaming Service - Top 5 Points</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-track-uncovering-erased-reddit-conversations/"><u>In 2024, Fast Track Uncovering Erased Reddit Conversations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A2 FRP Without Computer</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-imovies-acoustic-arena-insider-tips-to-achieve-flawless-audio-mixes/"><u>New 2024 Approved IMovies Acoustic Arena Insider Tips to Achieve Flawless Audio Mixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-with-initializing-3d-device-components-in-directx/"><u>Overcoming Challenges with Initializing 3D Device Components in DirectX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-solving-intruder-exception-bsod-in-w10w11/"><u>Preventing and Solving Intruder Exception BSOD in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spin-the-picture-show-6-methods-in-windows-11/"><u>Spin the Picture Show: 6 Methods in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-turn-on-browser-cookie-functionality/"><u>Step-by-Step Process to Turn On Browser Cookie Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-reverse-jvm-setup-failure-issue/"><u>Tactics to Reverse JVM Setup Failure Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-discord-updates-on-pcs/"><u>Troubleshooting Failed Discord Updates on PCs</u></a></li>
+</ul></div>
+

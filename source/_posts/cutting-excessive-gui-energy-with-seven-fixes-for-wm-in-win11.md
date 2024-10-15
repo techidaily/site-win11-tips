@@ -1,7 +1,7 @@
 ---
 title: Cutting Excessive GUI Energy with Seven Fixes for WM in Win11
-date: 2024-10-03T21:26:26.177Z
-updated: 2024-10-08T16:36:57.038Z
+date: 2024-10-09T18:09:09.775Z
+updated: 2024-10-15T00:06:04.380Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  Now that you know the potential culprits, let's check out the methods to rectify them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update Your Graphics Driver
 
  We cannot stress enough the importance of regularly updating your graphics driver. An updated graphics driver ensures your system remains immune to graphics-related issues and provides you access to the latest features from your GPU manufacturer.
@@ -51,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
  Windows will not search for any available updates for all the installed components, including the graphics driver. If it finds any, it will automatically download it without much user input.
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you have the option to directly download the latest update for your graphics driver from the manufacturer's website.
 
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
  Hardware-accelerated GPU scheduling is a handy Windows feature that reduces the CPU workload by allocating graphics-intensive tasks to the GPU. While this feature typically operates well, there are instances when it might lead to unintended consequences, particularly on systems with weak GPUs.
 
  Enabling GPU scheduling on a weak GPU could result in latency issues and high GPU consumption by various processes, including the Desktop Window Manager. Consequently, you can [disable GPU scheduling](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) if you face graphics-related problems on your PC subsequent to its activation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure the NVIDIA Control Panel Settings
 
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 3. Choose the recommended value from the **Display resolution** drop-down menu.  
 ![Scale settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scale-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, open the Task Manager and check the Desktop Window Manager GPU consumption.
 
 ## 5\. Disable HDR
@@ -113,19 +113,19 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 ![Use HDR option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-hdr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, your display will momentarily go blank. Subsequently, you'll observe a shift in display color, indicating that you've successfully disabled HDR.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Optimize Your Visual Effect Settings
@@ -143,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 5. Click **Apply** and then **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, monitor your computer's GPU consumption. If it remains high, there's a possibility that corruption in important system files is causing the issue.
@@ -164,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
  After the scan is complete, restart your computer, and you will see that you’re no longer facing the Desktop Window Manager high GPU consumption issue.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prevent the Desktop Window Manager From Hogging Your GPU
@@ -178,29 +178,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-virtual-vice-versa-top-10-alternative-crime-games/"><u>[New] 2024 Approved Virtual Vice Versa Top 10 Alternative Crime Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-futureproofing-your-data-with-budgeted-cloud-choices-for-2024/"><u>[New] Futureproofing Your Data with Budgeted Cloud Choices for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-are-instagrams-video-selfies-truly-genuine-for-2024/"><u>[Updated] Are Instagram's Video Selfies Truly Genuine for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-drone-titans-for-industrial-lifting-challenges/"><u>[Updated] Drone Titans for Industrial Lifting Challenges</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unraveling-the-complexities-of-whatsapp-communication/"><u>[Updated] In 2024, Unraveling the Complexities of WhatsApp Communication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>[Updated] The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-absence-of-files-alert-in-windows-11/"><u>Addressing Absence of Files Alert in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-techniques-for-capturing-ps4-games-in-obs-for-2024/"><u>Cutting-Edge Techniques for Capturing PS4 Games in OBS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-your-windows-experience-with-ai-through-vivetool/"><u>Empower Your Windows Experience with AI Through ViveTool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-window-management-skills-using-keyboard-in-win11/"><u>Enhance Your Window Management Skills Using Keyboard in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-runtime-errors-when-malwarebytes-cant-call-proc/"><u>How to Handle Runtime Errors when Malwarebytes Can't Call Proc</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-spark-10c-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Spark 10C Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-windows-shields/"><u>Navigating the World of Windows Shields</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-device-interaction-post-windows-sleep-mode/"><u>Optimizing Device Interaction Post-Windows Sleep Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-typers-playbook-custom-keys-for-pre-set-snippet-pasting-in-windows-11/"><u>Pro-Typers' Playbook: Custom Keys for Pre-Set Snippet Pasting in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unsignaled-update-files-on-pcs/"><u>Steps to Fix Unsignaled Update Files on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-dissecting-their-unique-characteristics/"><u>Terminal & PowerShell: Dissecting Their Unique Characteristics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-default-apps-how-to-change-them-and-what-to-do-if-you-cant/"><u>Windows 11 Default Apps: How to Change Them and What to Do If You Can't</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -208,3 +185,21 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-impact-of-new-instagrams-algorithms-on-users/"><u>[Updated] Impact of New Instagram's Algorithms on Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-gold-class-8-unseen-media-extractors/"><u>[Updated] In 2024, Gold-Class 8 Unseen Media Extractors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-effortlessly-incorporate-images-on-instagram/"><u>2024 Approved Effortlessly Incorporate Images on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-azures-speech-recognition-into-development/"><u>2024 Approved Integrating Azure’s Speech Recognition Into Development</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-chrome-alerts-on-windows-pc/"><u>Disabling Chrome Alerts on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-macos-with-windows-based-tools-and-applications/"><u>Enhancing macOS with Windows-Based Tools and Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-oculus-quest-2-headset-microphone-back-on-track/"><u>Fixing the Issue: How to Get Your Oculus Quest 2 Headset Microphone Back on Track</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-social-media-stardom-with-dji-drones-livestreams/"><u>In 2024, Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powerpoint-savings-survival-guide-top-6-tips-for-win11-users/"><u>Powerpoint Savings Survival Guide: Top 6 Tips for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-avoid-file-lock-issues-on-windows-11-devices/"><u>Steps to Avoid File Lock Issues on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-high-quality-free-media-players-on-windows-pcs/"><u>Top 7: High-Quality, FREE Media Players on Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-windows-code-28-issues/"><u>Ultimate Guide: Resolving Windows Code 28 Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162457406-youtube-reworking-its-arsenal-with-cutting-edge-mini-games/"><u>YouTube Reworking Its Arsenal with Cutting-Edge Mini Games</u></a></li>
+</ul></div>
+

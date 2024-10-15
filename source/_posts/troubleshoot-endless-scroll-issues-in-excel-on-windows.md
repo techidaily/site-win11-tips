@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot: Endless Scroll Issues in Excel on Windows"
-date: 2024-10-05T06:39:25.977Z
-updated: 2024-10-08T19:39:36.047Z
+date: 2024-10-12T20:31:24.289Z
+updated: 2024-10-14T23:23:01.946Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ![Screenshot of On Screen Keyboard with Scroll Lock key highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scrlk.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Unfreeze Panes
 
  Microsoft Excel allows you to freeze specific parts of the sheet so that they remain visible even as you scroll through the sheet. This might create the false impression that your Excel sheet isn’t scrolling correctly. To avoid any confusion, you can unfreeze panes in your worksheet by following the steps below.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 3. Click the **Freeze Panes** option.
 4. Select **Unfreeze Panes** from the resulting menu.  
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Following this, your Excel spreadsheet should scroll as expected.
 
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enable Scroll Bars
 
  You may have trouble scrolling through your spreadsheets if Excel does not display the horizontal and vertical scroll bars on your PC. Here’s how you can enable them.
@@ -88,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AutoFit Row Height in Excel
 
  Several Excel users reported fixing the scrolling issue by formatting all the cells in the sheet with the AutoFit Row Height feature. You can also give this method a shot.
@@ -98,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 4. Select **Format > AutoFit Row Height**.  
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -114,7 +107,21 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
 
@@ -131,10 +138,16 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes
@@ -144,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 * **Restart Your PC:** Scrolling issues in Microsoft Excel can occasionally arise due to temporary glitches in Windows. You can try [restarting your Windows PC](https://www.makeuseof.com/windows-restart-methods/) to see if that helps.
 * **Repair Excel Workbook:** If you are unable to scroll in Excel only while working on a specific workbook, there may be an issue with the file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Check if the Shift Key Is Stuck:** Another reason why you might not be able to scroll in Excel is if the Shift key is stuck on your Windows computer. Carefully examine the Shift key on your keyboard for any dirt or damage, and take the appropriate actions to resolve the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Scrolling Issues in Microsoft Excel
 
@@ -162,21 +168,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-your-first-stride-into-snapseed-land/"><u>[New] In 2024, Navigating Your First Stride Into Snapseed Land</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tune-tastic-transfers-find-your-favorite-youtube-songs-with-top-6-free-android-apps/"><u>[New] In 2024, Tune-Tastic Transfers Find Your Favorite Youtube Songs with Top 6 Free Android Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blueprints-to-locate-top-tier-videographers/"><u>2024 Approved Blueprints to Locate Top-Tier Videographers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-essential-playlists-masterful-cinematic-scores-for-every-video-narrative/"><u>2024 Approved Essential Playlists Masterful Cinematic Scores for Every Video Narrative</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/commercial-clutter-cleared-windows-start-edition/"><u>Commercial Clutter Cleared: Windows Start Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-with-syndicate-game-not-loading-solutions-and-advice/"><u>Common Issues with Syndicate Game Not Loading: Solutions and Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-new-approach-to-icon-cache/"><u>Enhancing System Performance: New Approach to Icon Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-preventing-default-saving-issues-in-win/"><u>Guide to Preventing Default Saving Issues in Win</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lhfm1039-lihanns-bluetooth-fm-transmitter-evaluation-boosting-audio-in-vehicles/"><u>In-Depth LHFM1039 Lihann's Bluetooth FM Transmitter Evaluation - Boosting Audio in Vehicles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-cloud-vaults-ultimate-pick-list-for-2024/"><u>Next-Gen Cloud Vaults Ultimate Pick List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dll-not-found-problem-with-steamui/"><u>Overcoming DLL Not Found Problem with SteamUI</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +175,25 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-macos-11-big-sur-upgrade/"><u>[New] Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness/"><u>[New] In 2024, Elevate Your YouTube Shorts Top 10 Strategies for Uniqueness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-blueprints-for-impressive-fb-ad-campaigns/"><u>[Updated] Blueprints for Impressive FB Ad Campaigns</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-devices-for-capturing-journeys/"><u>2024 Approved Essential Devices for Capturing Journeys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>2024 Approved Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-unveils-innovative-duo-of-27-1440p-ips-displays-feature-extra-built-in-wireless-antenna/"><u>ASROCK Unveils Innovative Duo of 27 1440P IPS Displays: Feature Extra - Built-In Wireless Antenna</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-computers-notebook-recommendations-for-editors/"><u>Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissolve-the-quietude-reviving-keyboard-volume-controls/"><u>Dissolve the Quietude: Reviving Keyboard Volume Controls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-merge-movie-content-into-watchlist/"><u>In 2024, Merge Movie Content Into Watchlist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-failed-syncs-with-onedrive-windows/"><u>Methods to Tackle Failed Syncs with OneDrive Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/"><u>Optimizing Game Performance: Addressing 'Modern Warfare' Stutters and Freezes on Desktop Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lockout-resetting-windows-sign-in-options/"><u>Overcoming Lockout: Resetting Windows Sign-In Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-clean-and-organized-filespace-setting-up-auto-delete-on-win11/"><u>Secure, Clean and Organized Filespace: Setting Up Auto-Delete on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-identifying-faulty-hardware-in-windows-1011/"><u>Techniques for Identifying Faulty Hardware in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-clues-within-windows-blue-screen-events/"><u>Unlocking Clues Within Windows Blue Screen Events</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-true-colors-with-windows-techniques/"><u>Unlocking True Colors with Windows Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-regaining-access-to-5ghz-network/"><u>Unlocking Windows 11: Regaining Access to 5GHz Network</u></a></li>
+</ul></div>
+

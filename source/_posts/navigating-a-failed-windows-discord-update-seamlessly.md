@@ -1,7 +1,7 @@
 ---
 title: Navigating a Failed Windows Discord Update Seamlessly
-date: 2024-09-12T22:00:36.804Z
-updated: 2024-09-16T22:00:59.069Z
+date: 2024-10-08T02:10:18.950Z
+updated: 2024-10-15T03:41:07.343Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc
 
  Test your internet connection by loading a few websites or visiting one of the[best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Discord a Fresh Start
 
  When the Discord app fails to start correctly, it may become stuck on the "Checking for updates" message. If the issue is just a one-off glitch, then restarting the app should help you resolve it.
@@ -43,6 +50,13 @@ To force-stop the Discord app:
 4. Restart the Discord app and see if it can finish the updates.  
 ![End Discord Process on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/End-Discord-Process-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check Discord Server Status
 
  You may not be the only one experiencing problems with Discord updates. There's a good chance the issue isn't on your end, but on Discord's. You can[check Discord’s service status](https://discordstatus.com/) to see if others are facing similar issues.
@@ -50,10 +64,10 @@ To force-stop the Discord app:
  If there is a problem with the Discord servers, you have no option but to wait until the developers resolve it. Hopefully, it shouldn’t take too long. Following that, you should be able to update the Discord app on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Discord as an Administrator
@@ -61,13 +75,6 @@ To force-stop the Discord app:
  Another reason why Discord may not work or display the Update Failed error is a lack of certain permissions. To remedy this, you can try running Discord as an administrator. Simply right-click on the**Discord app icon** and select**Run as administrator** .
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
@@ -86,6 +93,13 @@ To force-stop the Discord app:
 9. Click**OK** to save the changes.  
 ![Allow Discord Through Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Discord-Through-Windows-Firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Your Antivirus Program
 
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
@@ -102,19 +116,6 @@ To force-stop the Discord app:
 4. Enable the toggles next to**Set time automatically** and**Set time zone automatically** .  
 ![Set Date & Time Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date--Time-Automatically-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
@@ -129,13 +130,6 @@ Restart the Discord app after this and allow it to finish updates.
 4. Change the name of the**Update.exe** file to something else, such as**OldUpdate.exe** .  
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Uninstall and Reinstall Discord
 
  If nothing else works, you can uninstall and reinstall the Discord app as a last resort. This will help you remove any faulty app data that may have been preventing the app from updating and get it to work again.
@@ -148,6 +142,13 @@ To uninstall Discord from your PC:
 4. Locate the Discord app on the list. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** again to confirm.  
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
 
@@ -174,5 +175,26 @@ To uninstall Discord from your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-novice-to-expert-learning-the-ins-and-outs-of-instagram-hashtags-for-2024/"><u>[New] From Novice to Expert Learning the Ins and Outs of Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-decoding-ad-revenue-distribution-in-youtubes-economic-model/"><u>[New] In 2024, Decoding Ad Revenue Distribution in YouTube's Economic Model</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-your-youtube-settings-stop-auto-play-videos/"><u>[New] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-no-cost-cross-platform-laptop-dvd-decoders/"><u>Best No-Cost, Cross-Platform Laptop DVD Decoders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-hurdles-for-smooth-ccleaner-use-on-windows-11/"><u>Clearing Hurdles for Smooth CCleaner Use on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-steps-to-resolve-0x80071a90-error/"><u>Comprehensive Steps to Resolve 0X80071A90 Error</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-move-iphone-notes-directly-between-devices-no-pc-required/"><u>How to Move iPhone Notes Directly Between Devices - No PC Required</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-x-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone X After iOS Update? | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-gif-to-video-converters-online-no-need-to-download/"><u>In 2024, Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-character-customization-with-ease-and-excitement/"><u>In 2024, Navigating Character Customization with Ease and Excitement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lift-screen-limitations-in-windows-11-with-these-methods/"><u>Lift Screen Limitations in Windows 11 with These Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-direct-file-downloads-post-windows-setup/"><u>Mastering Direct File Downloads Post-Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-steam-storage-problems-in-windows/"><u>Overcoming Common Steam Storage Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-revive-wow-on-a-stuck-pc/"><u>Quick Steps to Revive WoW on a Stuck PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-and-effective-filenames-in-windows-max-156/"><u>Secure & Effective Filenames in Windows (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-evolution-of-copilot-key-and-its-effect-on-windows-11-users/"><u>The Evolution of Copilot Key and Its Effect on Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-opening-winnet-tools/"><u>The Ultimate Guide to Opening WinNet Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-choice-couch-co-op-video-games-best-picks-for-enjoying-gaming-together/"><u>Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-escape-sequences-in-xml-a-comprehensive-guide/"><u>Understanding Escape Sequences in XML: A Comprehensive Guide</u></a></li>
+</ul></div>
 

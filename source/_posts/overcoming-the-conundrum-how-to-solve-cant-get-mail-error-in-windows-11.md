@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Conundrum: How to Solve 'Can’t Get Mail' Error in Windows 11"
-date: 2024-10-08T02:37:42.538Z
-updated: 2024-10-08T21:45:13.660Z
+date: 2024-10-12T16:42:54.167Z
+updated: 2024-10-15T09:36:53.710Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
-### Check the Date and Time on Windows
-
- As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
-
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
   <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Check the Date and Time on Windows
+
+ As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 ### Allow Mail Through the Windows Firewall
 
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -81,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 2. Click the**Run** button next to**Windows** **Store Apps** .  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
 
- Next, go through the troubleshooter and apply all suggestions to fix the problem.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
 ## 3\. Change the Mail App Privacy Settings
 
@@ -100,23 +94,29 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, restart your system and check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair and Reset the Mail App
@@ -130,10 +130,10 @@ Now, restart your system and check for the issue.
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
@@ -163,21 +163,18 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-streamlining-social-media-top-strategies-for-pc-livestreaming-on-tiktok/"><u>[New] Streamlining Social Media Top Strategies for PC Livestreaming on TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unveiling-pristine-sources-for-high-quality-tamil-ringtone-files/"><u>[New] Unveiling Pristine Sources for High-Quality Tamil Ringtone Files</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069624410-updated-2024-approved-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[Updated] 2024 Approved Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-false-listings-of-devices-in-windows-error-logs/"><u>Correcting False Listings of Devices in Windows Error Logs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-privilege-based-errors-in-system-installation/"><u>Easing Privilege-Based Errors in System Installation</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-realm-of-time-lapses-gopro-hero-10-in-action/"><u>In 2024, Navigating the Realm of Time Lapses GoPro Hero 10 in Action</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-win-plus-p-not-working-on-windows-heres-how-to-fix-it/"><u>Is Win + P Not Working on Windows? Here's How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-windows-update-self-replacing-amd-graphics-drivers/"><u>Master Windows Update: Self-Replacing AMD Graphics Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oneplus-12-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from OnePlus 12</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-stop-non-data-transfer-from-usb-ports-on-pc/"><u>Solutions to Stop Non-Data Transfer From USB Ports on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-ripping-dvds-on-windows-11-made-simple/"><u>Step-by-Step Guide: Ripping DVDs on Windows 11 Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-self-opens-issue-with-msdnstore/"><u>Troubleshooting the Self-Opens Issue with MSDN/Store</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y78plus-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y78+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-issues-from-a-recent-windows-system-upgrade/"><u>Unraveling Issues From a Recent Windows System Upgrade</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/du-favorites-best-learning-yt-channels-for-2024/"><u>[New] Edu-Favorites Best Learning YT Channels for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-thumbnail-creation-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Thumbnail Creation A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-data-sanctuary-guide/"><u>[Updated] The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-well-need-your-current-windows-password-error-on-windows-10-and-11/"><u>How to Fix the “We’ll Need Your Current Windows Password” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-permanent-delete-configuring-windows-trash-bin/"><u>Mastering Permanent Delete: Configuring Windows Trash Bin</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-playwrighting-for-public-broadcast/"><u>Premier Playwrighting for Public Broadcast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-dont-obstruct-one-antivirus-is-enough-in-windows/"><u>Protect, Don’t Obstruct: One Antivirus Is Enough in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-access-to-elusive-5ghz-network-on-windows-11-with-these-tips/"><u>Regain Access to Elusive 5GHz Network on Windows 11 with These Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screensnapper-pro-examining-apowersofts-pc-recorder/"><u>ScreenSnapper Pro Examining Apowersoft’s PC Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-list-for-11-windows-11-problems/"><u>The Ultimate Fix-List for 11 Windows 11 Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-source-for-authentic-lenovo-thinkpad-driver-updates-and-download-100-safe/"><u>The Ultimate Source for Authentic Lenovo ThinkPad Driver Updates & Download [100% Safe]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

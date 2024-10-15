@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Defender Error: 0X80004004"
-date: 2024-10-04T07:20:21.748Z
-updated: 2024-10-09T07:14:35.594Z
+date: 2024-10-11T13:07:25.801Z
+updated: 2024-10-14T19:09:37.771Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -65,16 +58,23 @@ Here is how you can do that:
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -87,22 +87,21 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run the Windows Update Troubleshooter
 
@@ -111,6 +110,13 @@ Here is how you can do that:
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
@@ -141,19 +147,20 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>[New] Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-instant-screener-chromeos-edition/"><u>[Updated] In 2024, Instant Screener ChromeOS Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-phone-capabilities-for-efficient-video-recording-for-2024/"><u>[Updated] Leveraging Phone Capabilities for Efficient Video Recording for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-push-past-limitations-showcase-videos-in-social-media/"><u>2024 Approved Push Past Limitations Showcase Videos in Social Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-xbox-live-streaming/"><u>2024 Approved The Ultimate Guide to Xbox Live Streaming</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/2024mp4iphoneandandroid-9/"><u>2024年度に一番人気のMP4変換アプリ【iPhone&Android対応】 - トップ9ピック</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-high-impact-yt-cover-images/"><u>Creating High-Impact YT Cover Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-elusive-gpeditmsc-on-your-pc/"><u>Essential Fixes for Elusive 'Gpedit.msc' On Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixers-compendium-tackling-active-directory-printer-errors-on-win-1011/"><u>Fixer's Compendium: Tackling Active Directory Printer Errors on WIN 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/"><u>How to Use Apple Maps on a Windows PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14FRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-video-editing-tools-discover-the-best-software-beyond-manycams-virtual-webcam-features/"><u>Live Video Editing Tools: Discover the Best Software Beyond ManyCam's Virtual Webcam Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-remedying-windows-11-package-complications/"><u>Quick Fixes: Remedying Windows 11 Package Complications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-in-windows-update-for-1011-os/"><u>Solving Error 0X80246007 in Windows Update for 10/11 OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-eye-of-the-tech-giants-leading-screen-capture-apps/"><u>[New] In 2024, Eye of the Tech Giants Leading Screen Capture Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-diablo-2-resurrected-crashing/"><u>[SOLVED] Diablo 2 Resurrected Crashing</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-14-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 14 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-disk-space-management-using-windows-autodelete-functionality/"><u>Effective Disk Space Management Using Windows' AutoDelete Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gear-to-transform-your-playstation-5-experience/"><u>Essential Gear to Transform Your PlayStation 5 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-chromes-incorrect-system-time-windows-wide/"><u>Fixing Chrome's Incorrect System Time Windows-Wide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-microsoft-driver-downloads-and-upgrades-for-windows-11-8-and-easy-as-7/"><u>Hassle-Free Microsoft Driver Downloads and Upgrades for Windows 11, 8 & Easy as 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-live-sound-input-for-obs-on-windows-11/"><u>How to Enable Live Sound Input for OBS on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12-pro-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-startup-icons-in-task-manager/"><u>Overcoming Missing Startup Icons in Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-windows-11-snipping-tool-edits/"><u>The Ultimate Guide to Windows 11 Snipping Tool Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-the-ordinary-into-extraordinary-with-ps-distortion/"><u>Turn the Ordinary Into Extraordinary with PS Distortion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-outlook-preview-setup-steps/"><u>Unveiling Windows' Outlook Preview Setup Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Combat the Dilemma of Empty Spaces for Thumbnails on Win 11
-date: 2024-10-08T04:18:52.865Z
-updated: 2024-10-09T01:47:48.527Z
+date: 2024-10-09T04:53:44.572Z
+updated: 2024-10-15T09:57:37.687Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Because of that, if thumbnails fail to load in a folder containing many files or if you've opened files in the middle of the thumbnail loading process, which could have affected thumbnails for some files, you should close that folder and reopen it. This time, wait until the thumbnails load successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ensure Thumbnails Are Enabled
 
  Windows lets users permanently disable thumbnails and replace them with icons. This is sometimes the default setting in some Windows devices. If you have recently reset the File Explorer settings to default or suspect the thumbnails might be disabled, follow these steps to enable them:
@@ -48,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change Icon Size and View Style
 
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check for Files or Format Specific Issues
 
  There are some file types and image file formats for which Windows does not display thumbnails by default. For instance, Windows doesn't show thumbnails for files in the Photoshop Document (PSD) format, a format used for images created with Adobe Photoshop, which is a graphics design and image editing software.
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  If you are unable to see thumbnails of files in a specific format, check whether Windows can display thumbnail previews for files in that format or not. You can explore that on the official website of the software you use to create these files. If the website says that Windows OS cannot display thumbnail previews for this software's files, there isn't much you can do.
 
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Close Interfering Apps
 
@@ -79,31 +93,11 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Rebuild the Thumbnail Cache
 
  By using the thumbnail cache, Windows displays thumbnail images of files so that you can visually identify them. If cache files become corrupted, thumbnails can get affected. Clearing the thumbnail cache instructs Windows to rebuild the cache, which usually resolves thumbnail issues.
 
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restart File Explorer
 
@@ -112,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Enable Thumbnail Preview From Visual Effects
@@ -127,22 +121,16 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 1. In Windows Search, type**"Adjust the appearance** " and click on**Adjust the appearance and performance of Windows** .  
 ![Open Visual Effects Settings From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-adjust-visual-effects-settings-from-windows-search.jpg)
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -151,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 * Ensure that the drive where you are experiencing this issue has enough free storage space. Consider[freeing up the storage space](https://www.makeuseof.com/windows-11-free-up-storage-space/) if it's running low.
 * [Change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) for files that don't have thumbnails.
 * Install any pending Windows updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 
@@ -171,16 +166,17 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-windowed-guide-windows-movie-maker-60-preparation/"><u>[New] 2024 Approved Windowed Guide Windows Movie Maker 6.0 Preparation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-engagement-with-solutions-to-common-shorts-challenges/"><u>[New] In 2024, Enhancing Engagement with Solutions to Common Shorts Challenges</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-integration-of-luts-for-enhanced-cinematography/"><u>[New] Seamless Integration of LUTs for Enhanced Cinematography</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-gopro-hero4-vs-gopro-hero5-showdown/"><u>2024 Approved GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-non-detected-bluetooth-on-windows-mgr/"><u>Correcting Non-Detected Bluetooth On Windows Mgr</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-bios-boot-errors-on-winos/"><u>Decoding & Correcting BIOS Boot Errors on WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-high-dpi-scaling-in-windows-os/"><u>Essential Fixes for High DPI Scaling in Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-computer-keeps-freezing-issues/"><u>How To Fix Computer Keeps Freezing Issues</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-top-5-iphone-apps-for-daily-podcasts/"><u>In 2024, Top 5 iPhone Apps for Daily Podcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-microsoft-store-for-customizing-your-interface/"><u>Navigating Through Microsoft Store for Customizing Your Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-zeroed-out-mastery-over-error-0x800f0831/"><u>WinError Zeroed Out: Mastery Over Error 0X800F0831</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>About Vivo S18 Pro FRP Bypass</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-free-software-for-saving-your-desktop-display-for-2024/"><u>Discover Free Software for Saving Your Desktop Display for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-empty-folder-hunting-and-deletion-tips-for-windows-users/"><u>Efficient Empty Folder Hunting & Deletion Tips for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-methods-turning-off-windows-11s-usb-sleep-mode/"><u>Fast Methods: Turning Off Windows 11'S USB Sleep Mode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/game-enhancement-select-top-hdds-for-xbox/"><u>Game Enhancement Select Top HDDs for Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-for-effective-qr-code-decoding/"><u>Navigating Windows for Effective QR Code Decoding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-and-reviving-applications-that-wont-launch-in-windows-store/"><u>Repairing and Reviving Applications that Won't Launch in Windows Store</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-your-media-mastering-mp4-and-other-formats-in-vlc/"><u>Streamlining Your Media Mastering MP4 & Other Formats in VLC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-pc-pairing-problems-discover-the-fix-now/"><u>Struggling with iPhone-PC Pairing Problems? Discover The Fix Now!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uintessential-quotient-subscriber-rankings/"><u>The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-rockalldll-absence-on-pcs/"><u>Troubleshooting 'Rockalldll' Absence on PCs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-for-beginners/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac for Beginners</u></a></li>
 </ul></div>
 

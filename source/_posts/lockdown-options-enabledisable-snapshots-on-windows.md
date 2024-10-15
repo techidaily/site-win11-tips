@@ -1,7 +1,7 @@
 ---
 title: "Lockdown Options: Enable/Disable Snapshots on Windows"
-date: 2024-10-07T20:58:15.817Z
-updated: 2024-10-09T04:10:19.967Z
+date: 2024-10-11T02:58:59.117Z
+updated: 2024-10-15T13:44:59.508Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 ![Enable or Disable Spotlight Images on Lock Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable or Disable Windows Spotlight Images via the Group Policy Editor
@@ -57,17 +57,23 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 ![Enable or Disable Spotlight Images on Lock Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Enable or Disable Windows Spotlight Images With the Registry Editor
@@ -87,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 ![Enable or Disable Spotlight Images on Lock Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-spotlight-images-on-lock-screen-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Exit the Registry Editor and restart your PC to apply the changes.
@@ -116,16 +122,22 @@ Exit the Registry Editor and restart your PC to apply the changes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mythos-makers-circle-top-ten-tales/"><u>[New] Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-mov-videos-to-flv-for-free-with-movavis-easy-to-use-online-service/"><u>Convert Your MOV Videos to FLV for Free with Movavi's Easy-to-Use Online Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-for-dream-job-pursuit/"><u>Harnessing AI for Dream Job Pursuit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-mp3s-into-audio-cds-with-imgburn-on-windows/"><u>How to Turn Your Mp3s Into Audio CDs With ImgBurn on Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-captureking-high-definition-edition/"><u>In 2024, CaptureKing High Definition Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-queue-unavailable-on-local-pc/"><u>Print Queue Unavailable on Local PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-effective-fixes-to-windows-onedrive-problems/"><u>Quick and Effective Fixes to Windows OneDrive Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-launch-problems-in-stardew-valley-for-a-seamless-gaming-experience/"><u>Resolving Launch Problems in Stardew Valley for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-techniques-to-alter-files-on-your-win-os/"><u>Tailored Techniques to Alter Files on Your Win OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/"><u>Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yule-time-share-windows-games-through-ms-store/"><u>Yule Time: Share Windows Games Through MS Store</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-beat-the-curve-top-facebook-ad-strategies/"><u>[New] 2024 Approved Beat the Curve Top Facebook Ad Strategies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-easygoing-sounds-scores-of-country-music-to-dance-and-relax-on-tiktok/"><u>[New] In 2024, Easygoing Sounds Scores of Country Music to Dance and Relax On (TikTok)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline-for-2024/"><u>[New] Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-audio-potential-3-free-strategies-for-syncing-music-with-iphone-films/"><u>[Updated] In 2024, Unlocking Audio Potential 3 Free Strategies for Syncing Music with iPhone Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-safaris-picture-in-picture-settings-simplified/"><u>2024 Approved Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-the-dilemma-of-empty-spaces-for-thumbnails-on-win-11/"><u>Combat the Dilemma of Empty Spaces for Thumbnails on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-voice-assistance-on-win11/"><u>Correcting Malfunctioning Voice Assistance on Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-your-ideal-drawing-tool-chromebooks-finest-list/"><u>Discover Your Ideal Drawing Tool Chromebook's Finest List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-expertise-crafting-convenient-directories/"><u>Effortless Expertise: Crafting Convenient Directories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-upgrade-error-0xc004f050-in-windows/"><u>Fixing Upgrade Error 0XC004F050 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-files-from-d-drive-on-explorer-nav-bar/"><u>Launching Files From D: Drive on Explorer Nav Bar</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/makemkiand/"><u>MakeMKIの基本使い方&期限切れ公認コード後始末ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-in-mitigating-chrome-profiles-malfunctions/"><u>Masterclass in Mitigating Chrome Profiles Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-geforce-x0001-failure-in-w10w11/"><u>Steps to Overcome GeForce X0001 Failure in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stick-extras-on-w11-taskbar-quick-guide/"><u>Stick Extras on W11 Taskbar Quick Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-output-batch-creation-via-canva-chatgpt-magic/"><u>Transform Your Output: Batch Creation via Canva, ChatGPT Magic</u></a></li>
 </ul></div>
 

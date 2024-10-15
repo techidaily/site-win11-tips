@@ -1,7 +1,7 @@
 ---
 title: Overcoming Post-Update Glitches in Windows Discord
-date: 2024-10-06T06:56:16.391Z
-updated: 2024-10-08T17:18:19.923Z
+date: 2024-10-11T12:46:07.929Z
+updated: 2024-10-14T23:55:36.683Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
  Test your internet connection by loading a few websites or visiting one of the[best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Discord a Fresh Start
 
  When the Discord app fails to start correctly, it may become stuck on the "Checking for updates" message. If the issue is just a one-off glitch, then restarting the app should help you resolve it.
@@ -49,32 +56,32 @@ To force-stop the Discord app:
 
  If there is a problem with the Discord servers, you have no option but to wait until the developers resolve it. Hopefully, it shouldn’t take too long. Following that, you should be able to update the Discord app on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Discord as an Administrator
 
  Another reason why Discord may not work or display the Update Failed error is a lack of certain permissions. To remedy this, you can try running Discord as an administrator. Simply right-click on the**Discord app icon** and select**Run as administrator** .
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow Discord Through Windows Firewall
@@ -93,10 +100,10 @@ To force-stop the Discord app:
 ![Allow Discord Through Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Discord-Through-Windows-Firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Your Antivirus Program
@@ -104,13 +111,6 @@ To force-stop the Discord app:
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Adjust the Date and Time Settings
 
@@ -125,6 +125,13 @@ To force-stop the Discord app:
 Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Rename the Discord Update Executable File
 
@@ -148,13 +155,6 @@ To uninstall Discord from your PC:
 4. Locate the Discord app on the list. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** again to confirm.  
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
 
@@ -183,24 +183,21 @@ To uninstall Discord from your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-golden-grounds-of-terrafirma-top-treasure-hunts/"><u>[New] Golden Grounds of Terrafirma Top Treasure Hunts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-add-music-to-any-snapchat-video-for-2024/"><u>[New] How to Add Music to Any Snapchat Video for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-10-best-youtube-keyword-tools-to-get-more-views-for-2024/"><u>[Updated] 10 Best YouTube Keyword Tools to Get More Views for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snap-it-all-top-5-windows-11-recording-strategies-for-gamers/"><u>[Updated] 2024 Approved Snap It All! Top 5 Windows 11 Recording Strategies for Gamers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cutting-edge-methods-for-inserting-vimeo-content-in-ppts/"><u>[Updated] In 2024, Cutting-Edge Methods for Inserting Vimeo Content in PPTs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-is-it-allowable-to-distribute-videos-via-social-networks-in-2024/"><u>[Updated] Is It Allowable to Distribute Videos via Social Networks, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/accelerate-your-editing-with-these-10-pro-plugins/"><u>Accelerate Your Editing with These 10 Pro Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-system-restore-in-windows-11-a-comprehensive-guide/"><u>Navigating System Restore in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-free-up-space-5-best-video-compression-apps-for-ios-for-2024/"><u>New Free Up Space 5 Best Video Compression Apps for iOS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-bluetooth-pairing-issues-on-windows-11/"><u>Overcoming Bluetooth Pairing Issues on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-window-error-terminate-denied-issue/"><u>Overcoming the Window Error: Terminate Denied Issue</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/privacy-focused-instagram-story-insight-methodology/"><u>Privacy-Focused Instagram Story Insight Methodology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-jvm-setup-issue-on-microsoft-os/"><u>Resolving JVM Setup Issue on Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-and-kali-linux-combo/"><u>Step-by-Step Guide to Windows & Kali Linux Combo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surpassing-windows-internet-speed-ceiling-with-ease/"><u>Surpassing Windows Internet Speed Ceiling with Ease</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-unruly-pro-7-displays/"><u>Taming Unruly Pro 7 Displays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-opening-mailcalendar-app-in-w11/"><u>Troubleshooting Non-Opening Mail/Calendar App in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windowsnotepadlightoffcommand/"><u>WindowsNotepadLightOffCommand</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-with-warmth-fixing-color-conflicts-on-pcs/"><u>Winning with Warmth: Fixing Color Conflicts on PCs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-phone-videos-your-diy-youtube-journey/"><u>[Updated] Perfect Phone Videos Your DIY YouTube Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-error-e1-code-in-windows-1011/"><u>Clearing Up Error E1 Code in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fresh-start-guide-essential-tactics-to-reset-your-windows/"><u>Fresh Start Guide: Essential Tactics to Reset Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guarded-data-flows-safeguarding-network-drives-in-winos/"><u>Guarded Data Flows: Safeguarding Network Drives in WinOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-asus-rog-phone-7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Asus ROG Phone 7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/librevid-x-version-10-reviewed-highlights-and-downsides/"><u>LibreVid X Version 10 Reviewed Highlights and Downsides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-smooth-directx-setup-on-your-digital-device/"><u>Master the Art of Smooth DirectX Setup on Your Digital Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-windows-obs-studio-launch-issues/"><u>Methods to Revive Windows OBS Studio Launch Issues</u></a></li>
+<li><a href="https://win-news.techidaily.com/navigating-microsofts-latest-breakthrough-in-ai-chatbots-get-an-exclusive-preview-of-copilot-for-finance-zdnet/"><u>Navigating Microsoft's Latest Breakthrough in AI Chatbots: Get an Exclusive Preview of Copilot for Finance | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-updater-problem-0xca00a009/"><u>Navigating Through Windows Updater Problem 0xCA00A009</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gaming-visual-experience-with-the-27-black-oled-display-by-dough-spectrum-review-and-evaluation/"><u>Next-Level Gaming Visual Experience with the 27 Black OLED Display by Dough Spectrum - Review & Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-content-transfer-enable-copy-and-paste-in-edges-guardspace-w11/"><u>Secure Content Transfer: Enable Copy & Paste in Edge's Guardspace W11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-methods-for-bulk-downloading-your-favorite-youtube-videos/"><u>Streamlined Methods for Bulk Downloading Your Favorite YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-update-halted-in-4-easy-ways/"><u>Windows Update Halted in 4 Easy Ways</u></a></li>
 </ul></div>
 

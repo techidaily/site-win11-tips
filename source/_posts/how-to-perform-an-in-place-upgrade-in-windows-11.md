@@ -1,7 +1,7 @@
 ---
 title: How to Perform an In-Place Upgrade in Windows 11
-date: 2024-10-06T04:24:39.772Z
-updated: 2024-10-08T19:03:10.776Z
+date: 2024-10-11T13:54:30.226Z
+updated: 2024-10-15T04:12:49.272Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
  An in-place upgrade doesn’t replace anything other than Windows files. So, in addition to your personal files, all the installed apps and system settings also remain untouched. You won’t need to re-configure those settings after the in-place upgrade completes. But if you go with the Reset option, it can preserve your files but will remove all your installed programs and settings.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Prerequisites Before Performing a Windows In-Place Upgrade
@@ -49,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 * Sign in with an administrator account.
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Perform an In-Place Upgrade on Windows 11
 
@@ -69,22 +82,15 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![Change how Setup downloads updates setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-how-setup-downloads-updates-setting.jpg)
 5. Read the EULA page and click on the**Accept** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
@@ -92,14 +98,14 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
 
@@ -120,18 +126,22 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-boredom-to-chuckles-generating-funny-memes/"><u>2024 Approved From Boredom to Chuckles Generating Funny Memes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-smart-8-hd-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Smart 8 HD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-writing-aides-for-windows-desktop-users/"><u>Essential Writing Aides for Windows Desktop Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-realms-of-thought-30plus-vr-metaphysical-messages-for-2024/"><u>Exploring New Realms of Thought 30+ VR Metaphysical Messages for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719334729837-fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-0x80070422-issue-a-step-by-step-guide-for-windows-11-users/"><u>Fixing the 0X80070422 Issue: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-low-cost-gopro-cameras-where-to-find-them/"><u>In 2024, Low-Cost GoPro Cameras Where to Find Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/null-device-alert-a-guide-for-win-11-users/"><u>Null Device Alert: A Guide for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-folder-options-adding-movecopy-to-context-menu/"><u>Personalize Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-storage-steam-writes-correctly-now/"><u>Streamlining Storage: Steam Writes Correctly Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-high-quality-videos-youtubes-enhancement-secrets-revealed-for-2024/"><u>Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-top-7-factors-why-you-shouldnt-upgrade-from-win10-to-win11/"><u>Unveiling Top 7 Factors: Why You Shouldn't Upgrade From Win10 to Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50i-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50i Phone Network-Ready</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-which-is-superior-obs-or-streamlabs-for-your-livestream-needs/"><u>[New] 2024 Approved Which Is Superior, OBS or Streamlabs for Your Livestream Needs?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-the-finest-virtual-hydro-adventures-for-2024/"><u>[New] Explore the Finest Virtual Hydro Adventures for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-your-youtube-channels-revenue-new-updates/"><u>[Updated] 2024 Approved Understanding Your YouTube Channel's Revenue - New Updates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-accelerate-artistry-in-windows-11-photoshop/"><u>[Updated] In 2024, Accelerate Artistry in Windows 11 Photoshop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-most-effective-macos-sierra-video-coders-for-2024/"><u>[Updated] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-visual-storytelling-with-ar-and-luts/"><u>[Updated] Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-smart-8-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Smart 8 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-steam-from-interfering-with-game-play-in-11/"><u>How To Stop Steam From Interfering With Game Play in 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-audacitys-audio-failure-on-windows-11-devices/"><u>Mending Audacity's Audio Failure on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-browser-friendly-windows-apps-for-speedier-connections/"><u>Optimize Browser-Friendly Windows Apps for Speedier Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-persistent-blue-screen-error-0x8007007e/"><u>Overcoming the Persistent Blue Screen Error 0X8007007E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-windows-users-lifting-sticky-notes/"><u>Tips for Windows Users: Lifting Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x887a0006-for-gpu-issue-windows/"><u>Troubleshooting Code 0X887A0006 for GPU Issue Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-parseerror-windows-11-and-10-edition/"><u>Troubleshooting ParseError: Windows 11 & 10 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-addressing-unallocated-drive-letters-on-windows-os/"><u>Understanding and Addressing Unallocated Drive Letters on Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unsubscribing-from-apple-music-without-using-itunes-heres-what-you-need-to-know-insights-by-zdnet/"><u>Unsubscribing From Apple Music Without Using iTunes? Here's What You Need to Know | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-disable-participation/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Disable Participation</u></a></li>
 </ul></div>
 

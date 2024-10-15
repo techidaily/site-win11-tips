@@ -1,7 +1,7 @@
 ---
 title: Resolving Screen Stutter on Windows 11 Systems
-date: 2024-10-06T03:01:35.885Z
-updated: 2024-10-08T20:21:51.705Z
+date: 2024-10-11T22:13:59.667Z
+updated: 2024-10-15T00:32:52.708Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
@@ -69,13 +76,6 @@ To adjust your refresh rate:
  First,[boot Windows in safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/ "How to Boot Into Windows 10 Safe Mode") :
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
@@ -94,13 +94,6 @@ Next, use Device Manager to uninstall the display driver:
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -113,18 +106,18 @@ Next, use Device Manager to uninstall the display driver:
 
  Download the driver, install it, and see if the screen flashing problem has ceased.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roll Back to an Older Driver
 
  If the problem continues, it might be that the newest driver hasn't patched the problem. If the screen flickering occurred after a driver update, try rolling back to an older version.
 
  Follow the steps above to uninstall the driver, then head to the old driver page for either[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reseat Your Graphics Card
 
@@ -145,10 +138,10 @@ Next, use Device Manager to uninstall the display driver:
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn't work, uninstall the program. To do so:
@@ -159,10 +152,10 @@ If this doesn't work, uninstall the program. To do so:
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Create a New Windows User Profile
@@ -176,6 +169,13 @@ To create a new account:
 1. Press**Windows Key + I** to open Settings.
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows Screen Flickers... No More
 
@@ -198,19 +198,18 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-tips-for-easy-documentation-of-youtube-videos-for-2024/"><u>[Updated] Tips for Easy Documentation of YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/athletic-adventures-in-cinema-the-ultimate-top-10-selection-for-now/"><u>Athletic Adventures in Cinema: The Ultimate Top 10 Selection for Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-the-most-effective-tool-for-win-soft-dependency/"><u>Discovering the Most Effective Tool for Win Soft Dependency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-writing-capability-in-windows-1011/"><u>Enhancing File Writing Capability in Windows 10/11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-image-full-screen-webpage/"><u>In 2024, Image Full-Screen Webpage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-efficient-gameplay-cutting-down-high-cpu-usage-in-cyberpunk-2077/"><u>Mastering Efficient Gameplay: Cutting Down High CPU Usage in Cyberpunk 2077</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-amr-audio-converter-complete-guide-to-amr-files/"><u>New AMR Audio Converter Complete Guide to AMR Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-extender-writes-to-reduce-power-draw/"><u>Optimizing Extender' Writes to Reduce Power Draw</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-your-desktop-image-in-windows-easily/"><u>Personalizing Your Desktop Image in Windows Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-tips-for-efficient-screen-casting-in-meet-for-2024/"><u>Professional Tips for Efficient Screen Casting in Meet for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-non-responsive-fn-keys-effective-solutions-and-tips/"><u>Resolving Non-Responsive Fn Keys - Effective Solutions and Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-lost-luster-how-to-repeat-steam-accomplishments/"><u>Restore Lost Luster: How to Repeat Steam Accomplishments</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-xs-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone XS Max</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triumphant-tech-revival-quick-windows-resets-in-3-steps/"><u>Triumphant Tech Revival: Quick Windows Resets in 3 Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[New] In 2024, Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-hdrs-potential-for-ultimate-video-visualization/"><u>[Updated] Leveraging HDR's Potential for Ultimate Video Visualization</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/communicating-efficiently-learn-how-to-use-the-chat-feature-in-mozilla-thunderbird/"><u>Communicating Efficiently: Learn How to Use the Chat Feature in Mozilla Thunderbird</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-protection-fixing-defenders-unavailable-threat-detection/"><u>Enhancing Protection: Fixing Defender's Unavailable Threat Detection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-parsing-glitches-error-0xc00ce556-guide/"><u>Fixing Parsing Glitches: Error 0xC00CE556 Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nformation-every-asmr-aficionado-should-know-for-2024/"><u>Key Information Every ASMR Aficionado Should Know for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-w11-package-management-with-winget/"><u>Navigating the World of W11 Package Management with Winget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-graphics-revival-a-dive-into-retroarcs-shader-world/"><u>Old-School Graphics Revival: A Dive Into RetroArc’s Shader World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-and-repairing-your-windows-default-download-area/"><u>Reactivating and Repairing Your Windows Default Download Area</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-15-must-try-iphone-vr-apps-for-everyday-gamers/"><u>Top 15 Must-Try IPhone VR Apps for Everyday Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-color-mismatch-resolution-guide/"><u>Windows Color Mismatch Resolution Guide</u></a></li>
 </ul></div>
 

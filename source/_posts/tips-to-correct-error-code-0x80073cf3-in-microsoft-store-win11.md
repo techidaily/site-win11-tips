@@ -1,7 +1,7 @@
 ---
 title: Tips to Correct Error Code 0X80073CF3 in Microsoft Store Win11
-date: 2024-10-06T06:33:33.000Z
-updated: 2024-10-09T05:39:25.808Z
+date: 2024-10-13T08:58:54.592Z
+updated: 2024-10-15T08:57:58.361Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsreset-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Reset the Microsoft Store App
 
  Windows Settings also includes a **Reset** option for the Microsoft Store. Selecting **Reset** is a similar fix to running the wsreset command, but it’s a more general option for clearing all Microsoft Store’s data. As such, if the wsreset command is ineffective, try performing a reset instead. You can apply this solution by following the instructions within our guide on [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/).
@@ -53,17 +60,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Gaming Services App
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
@@ -90,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
  Windows also has a pre-installed antivirus tool. If you don’t have third-party antivirus software, you can try disabling the Microsoft Defender antivirus component. Our guide to [disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) tells you how to turn it off.
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
@@ -112,11 +105,32 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall the Microsoft Store App
 
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
 
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
 
@@ -126,48 +140,11 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
  Error 0x80073CF3 can be a tricky one to sort out because it has numerous variable potential causes. This guide includes some of the most widely confirmed error 0x80073CF3 resolutions to work by users who’ve fixed that issue. So, one of those possible resolutions will probably get that Microsoft Store issue sorted on your Windows PC.
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-essential-information-for-successful-tiktok-use-on-macos/"><u>[New] 2024 Approved Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-pc-sound-selector/"><u>[Updated] In 2024, Premium PC Sound Selector</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/displaying-d-drive-on-explorer-navigation-pane/"><u>Displaying D: Drive on Explorer Navigation Pane</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-use-of-function-fn-button-in-windows-os/"><u>Efficient Use of Function (Fn) Button in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correctly-transfer-and-import-apple-images-in-windows/"><u>How to Correctly Transfer and Import Apple Images in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-pova-5-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Pova 5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-advanced-firewall-configurations-for-windows-11/"><u>Introducing Advanced Firewall Configurations for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-accessing-and-leaving-focus-in-windows-terminal/"><u>Quick Guide to Accessing & Leaving Focus in Windows Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-tip-erase-spotlight-icons-on-win11/"><u>Tech Tip: Erase Spotlight Icons on Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-professional-video-editor-for-mac-os-unleash-your-creativity/"><u>Updated Professional Video Editor for Mac OS Unleash Your Creativity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -176,3 +153,27 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>[New] 2024 Approved Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-discovering-the-most-shared-twitvideos-of-the-year/"><u>[Updated] Discovering the Most Shared TwitVideos of the Year</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-video-mastery-posting-on-snapchat-from-twitter-revealed-for-2024/"><u>[Updated] Video Mastery Posting on Snapchat From Twitter Revealed for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-youtube-to-twitter-share-videos-without-twitting-for-2024/"><u>[Updated] YouTube to Twitter Share Videos Without Twitting for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-instagram-video-and-photo-downloads-guide/"><u>2024 Approved Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-to-setup-new-oculus-meta-quest-2-account/"><u>Complete Walkthrough to Setup New Oculus (Meta) Quest 2 Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypt-primes-audio-subtitles-puzzle-in-windows-11-ecosystem/"><u>Decrypt Prime's Audio-Subtitles Puzzle in Windows 11 Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-system-wizardry-executing-archiving-operations-through-cmd/"><u>File System Wizardry: Executing Archiving Operations Through CMD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-device-hang-error-code-x887a0006/"><u>Handling the Device Hang Error Code: X887A0006</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-how-to-make-asmr-videos-all-you-need-to-know/"><u>In 2024, How to Make ASMR Videos All You Need to Know</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-stepping-through-sound-decline-a-step-by-step-approach-to-audio-fade-outs/"><u>In 2024, Stepping Through Sound Decline A Step-by-Step Approach to Audio Fade Outs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-video-collage-app-how-to-make-split-screen-videos/"><u>Instagram Video Collage App How to Make Split Screen Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-chrome-deployment-on-windows-11/"><u>Key Steps for Chrome Deployment on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-system-repair-accessing-recovery-modes-across-phones-and-computers/"><u>Mastering System Repair: Accessing Recovery Modes Across Phones and Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-registry-corrections-in-11/"><u>Mastering Windows Registry Corrections in 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenation-routes-discovering-the-top-8-windows-reboot-methods/"><u>Rejuvenation Routes: Discovering the Top 8 Windows Reboot Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverse-disabled-state-remedy-for-windows-11s-error-code-22/"><u>Reverse Disabled State: Remedy for Windows 11'S Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-decrease-processor-power-usage-during-online-gaming/"><u>Tactics to Decrease Processor Power Usage During Online Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-with-custom-lock-patterns-for-your-windows-pc/"><u>Unlocking Potential with Custom Lock Patterns for Your Windows PC</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Direct Routes to Unveil Your PC's Data Stats
-date: 2024-10-03T21:22:34.789Z
-updated: 2024-10-09T01:13:39.214Z
+date: 2024-10-14T01:00:24.820Z
+updated: 2024-10-15T10:57:48.009Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,20 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 
 ![Typing msinfo32 in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-msinfo32-in-the-File-Explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Run Command Dialog Box
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![Selecting the System Information tool on the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-System-Information-tool-on-the-Start-menu-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the System Settings
@@ -104,23 +118,10 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![Selecting System from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-System-from-the-Control-Panel-menu-items.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use the Task Manager
@@ -137,10 +138,17 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Search for the System Information Tool in the System32 Folder
@@ -161,16 +169,16 @@ Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Use the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
@@ -195,29 +203,9 @@ Want to make the System Information tool easily accessible?
 
 ![Creating the msinfo32 desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Creating-the-msinfo32-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type**System Information App** in the**Name** box. From there, press the**Finish** button.
 
  From now on, you can easily access the System Information app by clicking your desktop shortcut. And if you want to make things easier, you can pin your desktop shortcut to the taskbar.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Access the Windows System Information Tool Using Your Favorite Method
 
@@ -238,16 +226,24 @@ Want to make the System Information tool easily accessible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-freeze-frame-fantasy-expert-techniques-for-gameplay-preservation-pc/"><u>[New] Freeze Frame Fantasy Expert Techniques for Gameplay Preservation (PC)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-entering-income-territory-with-a-thousand-followers/"><u>[Updated] 2024 Approved Entering Income Territory with a Thousand Followers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290120000-4k/"><u>「4Kビデオの高画質を守りつつ、完全無料で圧縮とリサイジングのテクニック」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boost-metro-ags-transaction-speed-for-bulk-customers-by-90-using-abbyy-solutions/"><u>Boost Metro AG's Transaction Speed for Bulk Customers by 90% Using ABBYY Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nifty-folding-tricks-in-windows-11-for-beginners/"><u>Nifty Folding Tricks in Windows 11 for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-performance-tracking-improving-system-tray-usage-reports/"><u>Optimize Performance Tracking: Improving System Tray Usage Reports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prologue-to-productivity-starting-windows-and-stickies-together/"><u>Prologue to Productivity: Starting Windows & Stickies Together</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g23-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G23 Android SIM Unlock APK</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-iconography-in-digital-communication-fb-messenger/"><u>Understanding Iconography in Digital Communication: FB Messenger</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/vloggers-fears-decoded-combat-strategies-for-everyone/"><u>Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-phone-link-enable-or-disable-for-better-security/"><u>Windows Phone Link - Enable or Disable for Better Security?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-enrich-your-screenplay-exclusive-windows-11-creations-for-2024/"><u>[Updated] Enrich Your Screenplay Exclusive Windows 11 Creations for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-roadmap-to-identifying-niche-luminaries-on-instagram/"><u>[Updated] The Roadmap to Identifying Niche Luminaries on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-hot-40-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Hot 40 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/chromium-setup-for-windows-11-essential-guide/"><u>Chromium Setup for Windows 11: Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-upgrade-windows-storage-safely/"><u>Efficient Ways to Upgrade Windows Storage Safely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-iphone-security-game-how-the-latest-ios-8-feature-revamps-messaging-for-life-saving-alerts-zdnet-insights/"><u>Elevate Your iPhone Security Game - How the Latest iOS ^8 Feature Revamps Messaging for Life-Saving Alerts | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-steps-toward-monetary-success-on-youtube/"><u>First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-computer-from-rogue-usb-devices/"><u>How To Safeguard Your Computer From Rogue USB Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-100-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor 100 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-v30t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme V30T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pretending-playfulness-making-mocks-and-laughs/"><u>Pretending Playfulness Making Mocks and Laughs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-jittery-mouse-on-a-windows-desktop/"><u>Rectifying Jittery Mouse on a Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-the-essential-drag-and-drop-in-win11/"><u>Revive the Essential Drag-and-Drop in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-shadowed-screens-unveil-windows-1011-panels/"><u>Reviving Shadowed Screens: Unveil Windows 10/11 Panels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-your-system-booting-into-windows-11s-safe-mode/"><u>Safeguard Your System: Booting Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-settle-unavailable-mail-in-your-windows-11-mail-client/"><u>Swiftly Settle 'Unavailable Mail' In Your Windows 11 Mail Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-snap-in-errors-in-mmc-on-windows/"><u>Troubleshooting: Resolving Snap-In Errors in MMC on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-new-backup-a-technical-examination/"><u>Windows 11'S New Backup: A Technical Examination</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-google-drive/"><u>Windows向け: Google Driveへの自動的な多層フォルダ同期手順</u></a></li>
 </ul></div>
 

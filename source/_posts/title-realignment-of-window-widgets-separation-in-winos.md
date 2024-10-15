@@ -1,7 +1,7 @@
 ---
 title: "Title: Realignment of Window Widgets' Separation in WinOS"
-date: 2024-10-02T23:01:09.914Z
-updated: 2024-10-08T23:55:20.061Z
+date: 2024-10-13T15:32:12.538Z
+updated: 2024-10-14T23:54:46.977Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
 1. To unzip the archive, click**Extract** .
@@ -73,19 +81,20 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
 3. Click the**Icons** option shown directly below.
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -100,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -124,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 3. Select**Windows-Metrics** on the**Tools** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Yes** on the confirmation dialog prompt.
@@ -135,14 +137,14 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -163,22 +165,16 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-pinterest-pin-square-advice/"><u>[New] 2024 Approved Pinterest Pin Square Advice</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[New] What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android/"><u>2024 Approved SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-webp-savings-steps-for-changing-chrome-image-format-on-windows/"><u>Eliminate WebP Savings: Steps for Changing Chrome Image Format on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/foundational-approach-to-gradual-volume-adjustment/"><u>Foundational Approach to Gradual Volume Adjustment</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-look-highlights-and-missing-links-from-applee-fast-and-furious-tech-event-a-detailed-analysis/"><u>Inside Look: Highlights and Missing Links From Apple'e 'Fast & Furious Tech' Event – A Detailed Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-raspberry-pi-zero-ns-speed-enhancement-via-overclocking-techniques/"><u>Master the Art of Raspberry Pi Zero N's Speed Enhancement via Overclocking Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nullifying-windows-update-notifications/"><u>Nullifying Windows Update Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-nvidia-cp-unauthorized-access-on-windows/"><u>Solving Nvidia CP Unauthorized Access on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-guide-to-replace-msvcr120dll-in-windows/"><u>Step-by-Step Fix Guide to Replace MSVCR120.dll in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-vac-refusal-message-on-pc/"><u>Steps to Tackle VAC Refusal Message on PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-windows-experience-efficient-redoing-ahead/"><u>Transform Your Windows Experience: Efficient Redoing Ahead</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/voice-to-text-made-easy-with-openais-whisper-in-your-windows-environment/"><u>Voice-to-Text Made Easy With OpenAI's Whisper in Your Windows Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-7-android-ad-blockers-your-choice-comparison/"><u>[New] Top 7 Android Ad Blockers Your Choice Comparison</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unveiling-hidden-potential-in-videos-top-5-strategies-for-stellar-tiktok-captions/"><u>[Updated] 2024 Approved Unveiling Hidden Potential in Videos Top 5 Strategies for Stellar TikTok Captions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-personalized-vocal-elements-on-instagram/"><u>2024 Approved Unlocking Personalized Vocal Elements on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-10-product-keys-for-optimal-pricing/"><u>Deciphering Windows 10 Product Keys for Optimal Pricing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latest-laptop-innovations-at-ifa-2023/"><u>Latest Laptop Innovations at IFA 2023</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/live-video-responses-on-twitter-your-ultimate-how-to-manual-for-2024/"><u>Live Video Responses on Twitter Your Ultimate How-To Manual for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-path-to-pair-older-software-with-new-windows-11/"><u>Navigating the Path to Pair Older Software with New Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-order-in-your-keyboard-chaos-with-these-9-fixes-for-broken-windows-shortcuts-and-combinations/"><u>Restore Order in Your Keyboard Chaos with These 9 Fixes for Broken Windows Shortcuts and Combinations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-tips-successfully-playing-h265-videos-in-vlc-player/"><u>Troubleshooting Tips: Successfully Playing H.265 Videos in VLC Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblock-powerpoint-saving-blocks-6-effective-tactics-for-win11/"><u>Unblock PowerPoint Saving Blocks: 6 Effective Tactics for WIN11</u></a></li>
 </ul></div>
 

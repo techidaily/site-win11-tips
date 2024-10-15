@@ -1,7 +1,7 @@
 ---
 title: "Streamline Cybersecurity: Adding Trusted Websites in Windows 11"
-date: 2024-10-03T00:54:04.588Z
-updated: 2024-10-08T19:29:55.859Z
+date: 2024-10-12T19:49:24.542Z
+updated: 2024-10-15T11:13:40.248Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 2. Click the **Lock icon** on the left side of the URL box and choose **Site settings** from the menu that pops up.  
 ![Site settings option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/site-settings.jpg)
 3. Click the drop-down icon next to the **Insecure content** option and choose **Allow** from the context menu. Then, restart Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Insecure content option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content.jpg)
 
  And that’s about it. Now you can access the added website without any pop-up or warning by Google Chrome.
@@ -62,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 ![Block option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/block-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Website to the Microsoft Edge Trusted List
@@ -77,20 +85,13 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Website to the Mozilla Firefox Trusted List
@@ -102,6 +103,14 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 3. Click the **hamburger icon** at the top right corner, and choose **Settings.**  
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
@@ -110,19 +119,6 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
  If you want to remove a website from Mozilla Firefox's trusted list, access the Manage Exceptions window, select the website and click the **Remove Website** option. Then, click the Save Changes button.
 
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a Website to the Brave Trusted List
 
@@ -133,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 ![Lock icon in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lock-icon.jpg)
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Up Trusted Sites List
@@ -155,27 +151,6 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-acquire-and-setup-windows-xp-movie-creator/"><u>[New] Acquire & Setup Windows XP Movie Creator</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>[Updated] In 2024, The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-workflow-smartly-add-app-buttons-in-win11-interface/"><u>Enhanced Workflow: Smartly Add App Buttons in Win11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-11-entry-point-top-strategies-revealed/"><u>Enhancing the Windows 11 Entry Point: Top Strategies Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-win-tricks-to-monitor-full-batteries/"><u>Expert Win Tricks to Monitor Full Batteries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-blank-slate-to-masterpiece-windows-11-desk-drawing-guide/"><u>From Blank Slate to Masterpiece: Windows 11 Desk Drawing Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-etape-par-etape-enregistrement-de-videos-enregistrees-sous-windows-et-macos-pcs/"><u>Guide Étape Par Étape: Enregistrement De Vidéos Enregistrées Sous Windows Et macOS PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discover-the-best-of-photo-stickering-ios-and-android-leaders/"><u>In 2024, Discover the Best of Photo Stickering IOS & Android Leaders</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lava-storm-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lava Storm 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-105-classic-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia 105 Classic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-access-denied-on-nvidia-control-panel-in-win1110/"><u>Overcoming Access Denied on Nvidia Control Panel in Win11/10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/step-by-step-techniques-for-clear-screen-captures-on-imac/"><u>Step-by-Step Techniques for Clear Screen Captures on iMac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-best-nintendo-switch-emulators-for-windows/"><u>The Best Nintendo Switch Emulators for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Huawei P60 | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -183,3 +158,19 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-film-festivals-at-your-fingertips-top-10-picks-for-viewers/"><u>[Updated] 2024 Approved Free Film Festivals at Your Fingertips - Top 10 Picks for Viewers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[Updated] Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728481967122-windows-10/"><u>如何利用 Windows 10 自由軟件進行有效作業系統及資料遷移: 最新指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-pc-folders-exposed-in-windows-11/"><u>Hidden Pc Folders Exposed in Windows 11</u></a></li>
+<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personal-touches-changing-windows-screenshot-settings/"><u>Personal Touches: Changing Windows Screenshot Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>Practical Demonstrations Creating and Configuring Timer Modules in OBS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rc-high-flyers-on-a-budget-exclusive-look-at-the-holy-stone-predator-mini-rc-helicopter/"><u>RC High Flyers on a Budget: Exclusive Look at the Holy Stone Predator Mini RC Helicopter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-old-bios-color-schemes/"><u>Reinvigorating Old BIOS Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-operatic-install-with-easy-fixes/"><u>Revive Your Windows Operatic Install with Easy Fixes</u></a></li>
+<li><a href="https://win-top.techidaily.com/suche-nach-alten-videos-auf-facebook-eine-einfache-anleitung/"><u>Suche Nach Alten Videos Auf Facebook: Eine Einfache Anleitung</u></a></li>
+</ul></div>
+

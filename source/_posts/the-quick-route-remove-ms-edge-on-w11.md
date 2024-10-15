@@ -1,7 +1,7 @@
 ---
 title: "The Quick Route: Remove MS Edge on W11"
-date: 2024-10-06T08:27:27.483Z
-updated: 2024-10-09T06:25:15.013Z
+date: 2024-10-12T09:13:47.614Z
+updated: 2024-10-14T16:25:39.240Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  If you'd like to get more out of this tool, be sure to check out[the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Uninstall Microsoft Edge Using Windows PowerShell
@@ -67,13 +67,6 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Run the following command to uninstall Microsoft Edge.  
 `Remove-appxpackage <PackageFullName>`  
  Replace**<PackageFullName>** in the above command with the package name copied earlier.
@@ -81,10 +74,16 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  Once you execute the above command, Microsoft Edge will be uninstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Uninstall Microsoft Edge Beta, Dev, or Canary Channel Builds Using the Settings App
@@ -99,13 +98,20 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
 
@@ -143,20 +149,22 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-reinstate-windows-photo-viewer-on-windows-10-dual-fixes-explained/"><u>[New] Reinstate Windows Photo Viewer on Windows 10 Dual Fixes Explained</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-ensure-continuous-playback-of-youtube-videos-on-fb-for-2024/"><u>[Updated] How to Ensure Continuous Playback of YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-delete-video-posts-android-and-windows-devices/"><u>[Updated] In 2024, How to Delete Video Posts Android & Windows Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals-for-2024/"><u>[Updated] The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/connectivity-made-simple-activating-telnet-in-windows-1011/"><u>Connectivity Made Simple: Activating Telnet in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-vintage-films-with-madvr-on-pcs/"><u>Enhancing Vintage Films with MadVR on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-window-monitors-brilliance-with-top-software-for-6-users/"><u>Enhancing Window Monitors' Brilliance with Top Software for 6 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-deactivated-windows-11-keys-without-fuss/"><u>Fixing Deactivated Windows 11 Keys Without Fuss</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-poco-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Poco</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-premier-alternatives-exceeding-the-limits-of-twitter/"><u>In 2024, Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c53s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme C53s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-windows-standard-screen-setting/"><u>Safeguarding Windows Standard Screen Setting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-dxgierror-device-latency-issue-in-win11/"><u>Tips to Resolve DXGI_ERROR: Device Latency Issue in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-enabling-biometrics-with-windows-hello/"><u>Windows 11: Enabling Biometrics with Windows Hello</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-freefb-audio-treasures-collection/"><u>[New] FreeFB Audio Treasures Collection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-essential-anime-openers-revisited/"><u>2024 Approved Essential Anime Openers Revisited</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heartfelt-outro-samples-your-budget-our-designs/"><u>2024 Approved Heartfelt Outro Samples Your Budget, Our Designs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-app-review-for-crafting-unique-reels/"><u>2024 Approved The Ultimate App Review for Crafting Unique Reels</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-updated-list-of-conversation-catalysts-for-listener-retention/"><u>2024 Approved Updated List of Conversation Catalysts for Listener Retention</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-temp-path-on-w11-pc/"><u>Correcting Invalid Temp Path on W11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-lock-screen-timeout-errors/"><u>Fixing Windows Lock Screen Timeout Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-narzo-60-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme Narzo 60 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-a15-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy A15 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-management-of-dxgierror-in-devices/"><u>Mastering Management of DXGI_Error in Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-insights-with-toms-hardware-analyses/"><u>Mastering Tech Insights with Tom's Hardware Analyses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-update-failure-code-0xc004f050/"><u>Overcoming Common Update Failure Code 0xC004F050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sparkle-your-screen-with-7-holiday-windows-tweaks/"><u>Sparkle Your Screen with 7 Holiday Windows Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/studio-2-spotlight-microsofts-pursuit-of-perfection-in-design/"><u>Studio 2 Spotlight: Microsoft's Pursuit of Perfection in Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-outlook-schedule-on-windows-pcs/"><u>Tailoring Your Outlook Schedule on Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-quiet-guide-to-livestreaming-yourself-on-instagram-for-2024/"><u>The Quiet Guide to Livestreaming Yourself on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-boosting-virtual-memory-on-windows-11/"><u>The Ultimate Guide to Boosting Virtual Memory on Windows 11</u></a></li>
 </ul></div>
 

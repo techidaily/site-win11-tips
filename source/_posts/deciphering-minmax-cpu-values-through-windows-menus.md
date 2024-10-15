@@ -1,7 +1,7 @@
 ---
 title: Deciphering Min/Max CPU Values Through Windows Menus
-date: 2024-09-11T01:24:17.365Z
-updated: 2024-09-17T03:29:32.861Z
+date: 2024-10-14T04:43:37.309Z
+updated: 2024-10-14T16:10:46.932Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ To hide the maximum processor state, enter the below command:
 
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
 
  You can also show or hide these options using the Registry Editor. However, before you do so, create a restore point as a backup in case you make a mistake and need to return your Windows computer to a previously-working state. Check out[how to create a restore point in Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) for more information.
@@ -56,6 +63,19 @@ To hide the maximum processor state, enter the below command:
  After creating the system restore point, press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and hit the**Enter** key to open the Registry Editor.
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
 
@@ -67,9 +87,23 @@ To hide the maximum processor state, enter the below command:
 
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
 
@@ -94,18 +128,18 @@ To hide the maximum processor state, enter the below command:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-downloader-essentials-the-best-tools-for-offline-viewing/"><u>[Updated] 2024 Approved Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-permanent-file-elimination-with-customizable-trash-setup-in-windows-pcs-11/"><u>Ensure Permanent File Elimination with Customizable Trash Setup in Windows PCs (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-mend-caught-by-exception-point-windows-glitch/"><u>Guide to Mend Caught by Exception Point Windows Glitch</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y100i-power-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y100i Power 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-310-processor-shows-dual-p-cores-still-got-game-a-look-at-its-geekbench-performance/"><u>Intel 310 Processor Shows Dual-P Cores Still Got Game: A Look at Its Geekbench Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jpegpng-to-pdf-on-iphone-step-by-step-approach/"><u>JPEG/PNG to PDF on iPhone - Step-by-Step Approach</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-driver-release-nvidias-geforce-rtx-2080-for-enhanced-gaming-experience-in-windows-10-7-and-8/"><u>Latest Driver Release: NVIDIA's GeForce RTX #2080 for Enhanced Gaming Experience in Windows 10, 7 & 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-immediate-edge-tabs-on-win11/"><u>Sidestep Immediate Edge Tabs on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-finding-your-hidden-pin-after-updating-windows-11/"><u>Strategies for Finding Your Hidden PIN After Updating Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-remedying-the-non-registered-package-issue/"><u>Understanding and Remedying the Non-Registered Package Issue</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
+</ul></div>
 

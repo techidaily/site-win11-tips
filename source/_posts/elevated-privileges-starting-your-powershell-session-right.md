@@ -1,7 +1,7 @@
 ---
 title: "Elevated Privileges: Starting Your PowerShell Session Right"
-date: 2024-10-04T05:50:46.259Z
-updated: 2024-10-08T20:57:36.250Z
+date: 2024-10-08T21:12:20.647Z
+updated: 2024-10-15T07:47:03.895Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![Open Windows PowerShell Using Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-power-user-menu.jpg)
 3. If UAC appears on the screen, click**Yes** to grant permission.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Windows PowerShell as an Administrator From the Windows Search Tool
 
  Alternatively, you can open Windows PowerShell as an administrator using the Windows Search tool. This process is relatively simple and only takes a few steps. Here is how to do it:
@@ -56,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. If a confirmation prompt pops up, click**Yes** to continue. This will launch PowerShell as an administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Windows PowerShell as an Administrator From Windows File Explorer
@@ -81,16 +94,17 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `powershell Start-Process powershell -Verb runAs`
 
  As soon as you type the above command line in the elevated command prompt window, Windows PowerShell will start running as an administrator.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. How to Open Windows PowerShell as an Administrator From the Start Menu
 
@@ -104,10 +118,10 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 5. The UAC will appear on the screen. If it does, click**Yes** to grant administrative privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Windows PowerShell as an Administrator Through Task Manager
@@ -133,13 +147,20 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 ![Open Windows PowerShell Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-control-panel.jpg)
 5. A User Account Control pop-up window will appear asking if you want to allow this app to make changes to your PC; click**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell will now launch as an administrator, and you can run commands with full privileges. If you need to exit PowerShell, type Exit and press Enter.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. How to Open Windows PowerShell as an Administrator With a Desktop Shortcut
@@ -154,10 +175,10 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 4. Type in a name for the shortcut and click Finish.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, whenever you want to open PowerShell as an administrator, simply double-click on the shortcut.
@@ -174,21 +195,7 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 5. Choose the location where you'd like to save it, and then click**Save** .  
 ![Open Windows PowerShell With a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-with-a-batch-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will create the Windows PowerShell batch file. To open Windows PowerShell with administrator access, double-click the batch file. When the UAC prompt appears, click**Yes** to continue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get an Elevated Windows PowerShell Running
 
@@ -209,18 +216,21 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-overwatch-the-ultimate-guide-to-recording-gameplay-for-2024/"><u>[New] Overwatch The Ultimate Guide to Recording Gameplay for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-smooth-file-migration-to-computer-5-proven-techniques-for-2024/"><u>[New] Smooth File Migration to Computer – 5 Proven Techniques for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-capture-tools-for-pcmac-devices/"><u>2024 Approved Professional Capture Tools for PC/Mac Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-rockalldlldll-not-found-or-missing-error-on-windows-pc/"><u>How to Fix Rockalldll.dll Not Found or Missing Error on Windows PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/huntings-top-5-high-quality-video-recorders-for-2024/"><u>Hunting's Top 5 High-Quality Video Recorders for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-system-call-error-in-windows-os/"><u>Overcoming System Call Error in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverting-windows-viewer-to-original-arrangement/"><u>Reverting Windows Viewer to Original Arrangement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-integrating-psvr-and-pc-a-comprehensive-tutorial/"><u>Seamlessly Integrating PSVR and PC - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-converting-mp4-videos-to-high-definition-hd-achieve-crystal-clear-1080p-quality/"><u>Step-by-Step Guide: Converting MP4 Videos to High Definition (HD) - Achieve Crystal Clear 1080P Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-your-mobile-setup-with-one-click-apks-in-windows-11/"><u>Supercharge Your Mobile Setup with One Click APKs in Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve/"><u>Updated 2024 Approved A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-picture-potential-with-premium-online-grids/"><u>[New] In 2024, Unleash Picture Potential with Premium Online Grids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-coastlines-best-surfer-cams-for-2024/"><u>Capture Coastlines Best Surfer Cams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-a-unique-workspace-saving-windows-spotlight-images-as-wallpapers/"><u>Design a Unique Workspace: Saving Window's Spotlight Images as Wallpapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-file-format-shifting-in-windows/"><u>Enabling Seamless File Format Shifting in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-vr-capabilities-in-nvidia-gpu/"><u>Guide to Switch Off VR Capabilities in Nvidia GPU</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y27-4g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y27 4G online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-s17-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo S17 Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-energy-saving-on-your-laptop/"><u>Mastering the Art of Energy Saving on Your Laptop</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-shifts-strategy-expected-price-tags-on-future-windows-10-updates-revealed-zdnet/"><u>Microsoft Shifts Strategy: Expected Price Tags on Future Windows 10 Updates Revealed | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cure-for-warcraft-update-freeze/"><u>Quick Cure for Warcraft Update Freeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-endless-file-explorer-opens/"><u>Troubleshooting Windows: Endless File Explorer Opens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uninterrupted-music-streams-how-to-keep-spotify-running-when-iphone-is-locked/"><u>Uninterrupted Music Streams: How to Keep Spotify Running when iPhone Is Locked</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-plunge-apps-that-seem-harmlayered-but-act-otherwise/"><u>Windows 11 Performance Plunge: Apps That Seem Harmlayered but Act Otherwise</u></a></li>
 </ul></div>
 

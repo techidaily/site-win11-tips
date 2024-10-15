@@ -1,7 +1,7 @@
 ---
 title: Remedy Missing Thermal Constraint Policy on PCs
-date: 2024-10-02T04:32:28.679Z
-updated: 2024-10-09T03:12:48.228Z
+date: 2024-10-12T17:42:12.293Z
+updated: 2024-10-15T05:03:55.309Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,10 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +89,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,15 +114,18 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streamlined-video-production-youtube-studio-edition/"><u>[Updated] 2024 Approved Streamlined Video Production YouTube Studio Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capture-in-clarity-best-tools-for-quality-4k-conversion/"><u>[Updated] Capture in Clarity Best Tools for Quality 4K Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-free-online-dei-file-mod-a-wma-con-movavi-ottenere-la-qualita-senza-costo/"><u>Conversione Free Online Dei File MOD a WMA Con Movavi - Ottenere La Qualità Senza Costo</u></a></li>
-<li><a href="https://win-able.techidaily.com/dayz-low-fps-woes-learn-swift-techniques-for-smooth-gaming-now/"><u>DayZ Low FPS Woes? Learn Swift Techniques for Smooth Gaming Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-win1011s-error-0x800704b3/"><u>Navigating the Maze of Win10/11's Error 0X800704B3</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-high-cpu-usage-by-dwmexe-in-windows-11-a-complete-guide/"><u>Resolving the High CPU Usage by dwm.exe in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-monitor-configuration-on-desktops/"><u>Reversing Monitor Configuration on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-recover-failed-steamuidll-load/"><u>Techniques to Recover Failed Steamui.dll Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-a-warframe-game-patch-installation-error/"><u>Troubleshooting Tips: Resolving a Warframe Game Patch Installation Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-pathway-to-a-functional-windows-sandbox/"><u>Your Pathway to a Functional Windows Sandbox</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[Updated] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers-for-2024/"><u>[Updated] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhome-explained-the-gateway-to-cutting-edge-w11/"><u>DevHome Explained: The Gateway to Cutting-Edge W11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-how-to-resolve-msi-afterburners-inability-to-recognize-gpu-in-windows-11/"><u>Fix: How to Resolve MSI Afterburner's Inability to Recognize GPU in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-steam-network-error-on-latest-windows-pcs/"><u>How to Mend Steam Network Error on Latest Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-easycap-software-instantly-fast-and-straightforward-downloads-available/"><u>Install Your EasyCap Software Instantly - Fast and Straightforward Downloads Available!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-videos-to-dvd-format-on-pc-and-mac-a-3-step-guide/"><u>New 2024 Approved Convert Videos to DVD Format on PC and Mac A 3-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/sectionalviewpoint-investigation-for-2024/"><u>SectionalViewpoint Investigation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-microsoft-office-activation-failure/"><u>Strategies to Overcome Microsoft Office Activation Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-text-editor-to-a-dark-screenplay/"><u>Transform Your Text Editor to a Dark Screenplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-uac-dynamics-from-an-admins-perspective/"><u>Transforming Windows UAC Dynamics From an Admin's Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-xc0f1103f-in-geforce-experience-win-1011/"><u>Unraveling Error XC0F1103F in GeForce Experience Win 10/11</u></a></li>
 </ul></div>
 

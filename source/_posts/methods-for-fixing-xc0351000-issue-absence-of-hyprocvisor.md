@@ -1,7 +1,7 @@
 ---
 title: Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor
-date: 2024-09-14T08:57:26.018Z
-updated: 2024-09-17T02:42:36.753Z
+date: 2024-10-09T01:40:08.352Z
+updated: 2024-10-15T03:55:11.331Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ To check the virtualization status:
 
  Wait for your computer to restart. Open Task Manager to see the Virtualization status in the CPU tab. If it says "Enabled," try to open Windows Sandbox to see if it works without the error.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Virtual Machine Platform Features
 
  Windows Sandbox is available as an optional feature that you can install from the Windows Features dialog, and we've covered how to do this in our guide on[how to enable and set up Windows Sandbox in Windows 11](https://www.makeuseof.com/enable-set-up-windows-sandbox-windows-11/) . Similarly, you may need to enable a few additional optional features essential to run the virtualization tool successfully.
@@ -67,10 +74,25 @@ To enable virtualization features:
 2. Type**appwiz.cpl** and click**OK** to open**Control Panel.**  
 ![turn windows features on off windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-featureson-off-windows-11-control-panel.jpg)
 3. In the left pane, click on**Turn Windows features on or off.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn on virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. In the**Windows Features** dialogue, scroll down and locate**Virtual Machine Platform** and**Windows Hypervisor Platform.**
 5. Select both options and click**OK** .
 6. Windows will start installing the necessary files. So, wait for the process to complete. Once done, click on**Restart Now** to restart your system and apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set Hypervisor to Run at System Startup
 
@@ -96,16 +118,10 @@ To set Hypervisor to launch at system startup:
 Once done, restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Set With Your Sandbox Again
@@ -127,5 +143,21 @@ Once done, restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-sky-hdr-perfection-top-website-reviews/"><u>[New] In 2024, Sky HDR Perfection - Top Website Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionize-online-transmission-essential-browsers-screen-capture-vendors/"><u>[Updated] 2024 Approved Revolutionize Online Transmission Essential Browsers' Screen Capture Vendors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweaking-image-previews-for-youtube-like-experience-in-twitter-videos-for-2024/"><u>[Updated] Tweaking Image Previews for YouTube-Like Experience in Twitter Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/alpaka-go-sling-assessment-ideal-protective-cover-tailored-for-devoted-ipad-users/"><u>Alpaka Go Sling Assessment: Ideal Protective Cover Tailored for Devoted iPad Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-10-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 10 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-70-lite-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor 70 Lite 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procreates-parallels-on-windows-a-ranking/"><u>Procreate's Parallels on Windows: A Ranking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-5-non-windows-solutions-to-the-windows-snipping-tool-limitation/"><u>The Top 5 Non-Windows Solutions to the Window’s Snipping Tool Limitation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-streaming-services-offering-stunning-4k-uhd-video-netflix-amazon-prime-directv-now-and-beyond/"><u>Top Streaming Services Offering Stunning 4K UHD Video: Netflix, Amazon Prime, DIRECTV NOW & Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-system-trays-with-personalized-weather-symbols-on-windows-11/"><u>Transforming System Trays with Personalized Weather Symbols on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-creative-cinema-for-kids-bring-your-imagination-to-life/"><u>Updated Creative Cinema for Kids Bring Your Imagination to Life</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-up-space-9-best-video-compression-software-for-windows-10/"><u>Updated In 2024, Free Up Space 9 Best Video Compression Software for Windows 10</u></a></li>
+</ul></div>
 

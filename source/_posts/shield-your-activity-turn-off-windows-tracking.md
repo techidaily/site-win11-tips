@@ -1,7 +1,7 @@
 ---
 title: "Shield Your Activity: Turn Off Windows Tracking"
-date: 2024-10-04T04:29:55.282Z
-updated: 2024-10-08T18:42:07.091Z
+date: 2024-10-10T06:29:20.866Z
+updated: 2024-10-14T20:45:57.269Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
  Some methods Microsoft uses to collect data from an average Windows 11 user are location services, cookies, diagnostic feedback, and browser activity in Microsoft Edge. Any third-party apps installed on your Windows 11 PC may also collect your activity and location data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Be Worried About Your Data Privacy on Windows 11?
@@ -53,9 +53,24 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on Windows 11
 
@@ -72,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 4. Click the**Activity history** tab and disable the**Store my activity history on this device** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. We also recommend choosing the**Clear activity history for this account** option.
@@ -110,24 +125,10 @@ To disable tracking within Microsoft Edge:
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Controlling Your Location Tracking on Windows 11
 
@@ -148,16 +149,20 @@ To disable tracking within Microsoft Edge:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-smoothmoves-recordwatcher-study/"><u>[New] SmoothMoves RecordWatcher Study</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-quickfirerecorder-firefox-plugin/"><u>[Updated] In 2024, QuickFireRecorder Firefox Plugin</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/convert-dvd-movies-to-mp4-format-seamlessly-with-winx-free-software-for-pc-and-iphone/"><u>Convert DVD Movies to MP4 Format Seamlessly with WinX Free Software for PC and iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-procedure-to-clear-steams-domain-name-service-caches/"><u>Essential Procedure to Clear Steam's Domain Name Service Caches</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-6s-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 6s Plus How to Bypass?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-macbook-cam-recording-tutorial/"><u>In 2024, MacBook Cam Recording Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80041015-on-windows-a-step-by-step-guide/"><u>Overcoming Error 0X80041015 on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-input-sluggishness-in-win-os-via-7-fixes/"><u>Overcoming Input Sluggishness in WIN OS via 7 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-system-crash-code-0xc0000001/"><u>Steps to Resolve System Crash: Code 0xC0000001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-ssds-syncing-ssd-fresh-and-windows/"><u>Turbocharge SSDs: Syncing SSD Fresh & Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convert-instagram-vids-to-mp4-optimal-methods-and-results/"><u>[Updated] In 2024, Convert Instagram Vids to MP4 Optimal Methods & Results</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-instagram-livestreams-with-obs-technology-for-2024/"><u>[Updated] Perfecting Instagram Livestreams with OBS Technology for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-zenith-of-pc-gameplay-for-2024/"><u>[Updated] The Ultimate Zenith of PC Gameplay for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instagram-and-soundtracks-demystifying-legalities/"><u>2024 Approved Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-connect-your-pc-and-phone-using-unison-w11/"><u>How to Effortlessly Connect Your PC and Phone Using Unison W11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>In 2024, 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-full-rotation-video-gear-for-social-media-broadcasts/"><u>In 2024, Full Rotation Video Gear for Social Media Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-games-three-windows-methods-for-directory-access/"><u>Navigating Games: Three Windows Methods for Directory Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-1drive-errors-on-windows-11/"><u>Resolving 1Drive Errors on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-window-experience-integrate-additional-menus/"><u>Transform Your Window Experience: Integrate Additional Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-unsupported-systems-the-step-by-step-win11-22h2-path/"><u>Transforming Unsupported Systems: The Step-by-Step Win11 22H2 Path</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-leading-cloud-gaming-providers-for-the-year-2024/"><u>Ultimate Guide to Leading Cloud Gaming Providers for the Year 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-pathways-to-the-cloud-accessible-dropbox-and-drive-letters/"><u>Windows Pathways to the Cloud: Accessible Dropbox & Drive Letters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-elevating-valorant-gameplay/"><u>Winning Strategies: Elevating Valorant Gameplay</u></a></li>
 </ul></div>
 

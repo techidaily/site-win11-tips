@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Using Compressed Windows Archive (CAB) Files
-date: 2024-10-02T02:33:43.985Z
-updated: 2024-10-09T01:47:59.389Z
+date: 2024-10-11T01:07:20.003Z
+updated: 2024-10-15T08:25:19.166Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the installation is complete, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) to see the changes.
 
  If you want to install a CAB file using Windows PowerShell, follow these instructions:
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 `Add-WindowsPackage -Online -PackagePath "CAB location"  
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. PowerShell will install the content of the CAB file on your computer.
 
@@ -89,55 +82,42 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 6. Click **Browse my computer for drivers**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
  You may sometimes come across a CAB file and wonder what it is and how to install it. After reading the above explanation, hopefully, you now have a basic understanding of CAB files. You now also know how to install driver updates that are in the form of CAB files.
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-your-best-side-tips-for-effective-talking-head-shots-for-2024/"><u>[Updated] Capture Your Best Side Tips for Effective Talking-Head Shots for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-step-by-step-on-zooms-video-broadcasting-for-2024/"><u>[Updated] Comprehensive Step-by-Step on Zoom's Video Broadcasting for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-iphone-tips-free-techniques-to-incorporate-music-in-video-projects/"><u>2024 Approved IPhone Tips Free Techniques to Incorporate Music in Video Projects</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-fixing-persistent-camera-zoom-issues-on-whatsapp/"><u>Diagnosing and Fixing Persistent Camera Zoom Issues on WhatsApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-your-windows-mastery-of-lav-filters-application/"><u>Empowering Your Windows: Mastery of LAV Filters Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-keep-screen-distractions-at-bay-folders/"><u>How to Keep Screen Distractions at Bay: Folders</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT 3 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-stop-and-start-strategies-fb-livestream-recovery-methods/"><u>In 2024, Stop and Start Strategies FB Livestream Recovery Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/navigating-the-basics-of-multi-os-skype-chatting/"><u>Navigating the Basics of Multi-OS Skype Chatting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-profile-woes-on-windows-pcs/"><u>Overcoming Chrome Profile Woes on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-routing-failed-files-download-on-windows-11-and-11-pcs/"><u>Re-Routing Failed Files Download on Windows 11 & 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-stubborn-windows-exe-non-opener/"><u>Resolving Stubborn Windows EXE Non-Opener</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-web-based-resources-enhancing-your-ability-in-crafting-effective-prompts/"><u>Top 7 Web-Based Resources Enhancing Your Ability in Crafting Effective Prompts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/forming-youtube-sounds-into-high-quality-wav-files/"><u>Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-diverse-nvidia-driver-options-gaming-studio/"><u>Understanding Diverse Nvidia Driver Options: Gaming, Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-sound-potential-in-windows-11/"><u>Unlock Your Sound Potential in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/usb-wi-fi-woes-heres-a-quick-guide-to-reclaiming-connection-on-windows/"><u>USB Wi-Fi Woes? Here's a Quick Guide to Reclaiming Connection on Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +126,24 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-hardware-excellent-obs-setup-for-2024/"><u>[New] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-matches-ultimate-websites-for-acquiring-snapchat-ringtones/"><u>[New] Best Matches Ultimate Websites for Acquiring Snapchat Ringtones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-androids-latest-advancements-for-immersive-video-viewing/"><u>[Updated] 2024 Approved Android's Latest Advancements for Immersive Video Viewing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-techniques-in-archiving-web-based-music-tracks/"><u>[Updated] 2024 Approved Techniques in Archiving Web-Based Music Tracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-xbox-gaming-avoid-drive-selection-stress/"><u>Effortless Xbox Gaming: Avoid Drive Selection Stress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elusive-disappearance-of-taskbars-control-in-win-11/"><u>Elusive Disappearance of TaskBar's Control in Win 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-note-30-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Note 30 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c210-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C210 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-typing-mastery-through-typingaid/"><u>Rapid Typing Mastery Through TypingAid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-deleted-execution-records-on-windows/"><u>Recovering Deleted Execution Records on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-stuck-issues-during-dota-2-game-startup/"><u>Resolved: Overcoming 'Stuck' Issues During Dota 2 Game Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-start-csgo-in-windows-11-successfully/"><u>Strategies to Start CS:GO in Windows 11 Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-settings-through-alomware-applications/"><u>Transforming Windows Settings Through AlomWare Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-msvcr110dll-missing-error-and-how-do-you-fix-it/"><u>What Is the Msvcr110.dll Missing Error and How Do You Fix It?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+</ul></div>
+

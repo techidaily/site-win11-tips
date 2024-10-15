@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing One-Side Windows Earphone Sound
-date: 2024-10-02T18:07:16.713Z
-updated: 2024-10-09T03:13:27.954Z
+date: 2024-10-07T23:10:18.237Z
+updated: 2024-10-15T06:40:22.148Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  If the above checks don't work, start applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  If you fail to hear anything when connecting the headphones to another device, the problem is likely hardware-related. In that case, either have your headphones inspected by a technician or [watch YouTube videos to learn how to fix headphones yourself](https://www.makeuseof.com/fix-broken-earphones-with-youtube-videos/).
 
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check the Audio Jack or Port for Issues
 
@@ -77,28 +77,37 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![Open More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
-![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
+
  Hopefully you can now hear from both sides of your headphones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Audio Enhancements
 
@@ -115,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  Now give your headphones another try.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Mono Audio
 
  The mono audio format combines the left and right audio channels into one and removes the stereo effect. Enabling this feature will give you the same audio quality on both sides of your headphones.
@@ -129,27 +145,7 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
 
@@ -160,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  Likewise, third-party audio enhancement apps can sometimes interfere with the audio output, blocking sound from one side of your headset. If you use such an app, try temporarily turning it off. If turning off the app solves the problem, delete the app permanently and find an alternative that does not cause the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Perform Some Windows Fixes
@@ -180,29 +176,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-brightening-tactics-for-android-video-enthusiasts/"><u>[New] 2024 Approved Brightening Tactics for Android Video Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>[New] The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-srt-simplified-core-concepts-made-clear/"><u>[Updated] 2024 Approved SRT Simplified Core Concepts Made Clear</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decoding-the-tech-behind-immersive-vr-experiences/"><u>[Updated] In 2024, Decoding the Tech Behind Immersive VR Experiences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[Updated] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-apps-adapt-to-linux-ecosystem/"><u>Android Apps Adapt to Linux Ecosystem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-l2300d-printer-software-upgrade-free-download/"><u>Brother L2300d Printer Software Upgrade - Free Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detect-signs-is-it-time-for-windows-clean-slate/"><u>Detect Signs: Is It Time for Windows Clean Slate?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-diagnosing-and-fixing-cc-issues-on-windows-10/"><u>Efficiently Diagnosing and Fixing CC Issues on Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-boosting-your-videos-popularity-in-a-competitive-space-like-tiktok/"><u>In 2024, Boosting Your Video’s Popularity in a Competitive Space Like TikTok</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-for-characters-the-screenwriters-challenge/"><u>In 2024, Speaking for Characters The Screenwriter's Challenge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-microsoft-store-repairs-fixing-code-0x80072f30-quickly/"><u>Master Microsoft Store Repairs: Fixing Code 0X80072F30 Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-disabling-windows-updates/"><u>Mastering the Art of Disabling Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-approach-locating-your-devices-mac-address-in-windows-11/"><u>Proactive Approach: Locating Your Device's MAC Address in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-audacitys-sound-fault-windows-11-os/"><u>Strategies to Tackle Audacity's Sound Fault, Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-file-management-overcoming-o365-errors-on-win-11/"><u>Streamlined File Management: Overcoming O365 Errors on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-the-process-of-adjusting-pointer-settings-in-windows-11/"><u>Streamlining the Process of Adjusting Pointer Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/work-on-excel-powerpoint-and-word-online-doc-editing-anywhere/"><u>Work on Excel, PowerPoint & Word Online Doc Editing Anywhere</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -210,3 +183,20 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[New] In 2024, Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unleash-the-full-potential-of-your-images-with-powerful-pixlr-hacks-for-2024/"><u>[New] Unleash the Full Potential of Your Images with Powerful Pixlr Hacks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-personalize-chromes-sound-review-of-the-top-web-based-speech-converters/"><u>[Updated] 2024 Approved Personalize Chrome's Sound Review of the Top Web-Based Speech Converters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>[Updated] 2024 Approved Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-removing-stickers-with-precision-a-tiktok-specialists-guide/"><u>[Updated] Removing Stickers with Precision A TikTok Specialist's Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/banishing-blurry-frames-from-interlaced-footage/"><u>Banishing Blurry Frames From Interlaced Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-browser-performance-low-ram-and-cpu-demand-analysis/"><u>Comparing Browser Performance: Low RAM and CPU Demand Analysis</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captioning-techniques-for-professional-youtube-content/"><u>In 2024, Captioning Techniques for Professional YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invalid-profile-error-in-windows-1011/"><u>Overcoming 'Invalid Profile' Error in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-of-error-messages-on-ge-sharing-feature/"><u>Remediation of Error Messages on GE Sharing Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-enable-smartfilter-security-feature/"><u>Windows 10/11: Enable SmartFilter Security Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-achieve-perfect-prints-from-powerpoint-on-pcs/"><u>Winning Strategies to Achieve Perfect Prints From PowerPoint on PCs</u></a></li>
+</ul></div>
+

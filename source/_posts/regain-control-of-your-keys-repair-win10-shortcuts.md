@@ -1,7 +1,7 @@
 ---
 title: "Regain Control of Your Keys: Repair WIN10 Shortcuts"
-date: 2024-10-07T07:52:19.867Z
-updated: 2024-10-08T20:17:10.927Z
+date: 2024-10-14T15:12:35.457Z
+updated: 2024-10-15T08:16:03.242Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  Then, try to use one of the Function keys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
@@ -68,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
 
 ## 7\. Check the Human Interface Device Service
@@ -131,27 +131,6 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-amd-graphics-relic/"><u>[New] In 2024, AMD Graphics Relic</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-camera-stabilizers-for-youtubers/"><u>2024 Approved Best Camera Stabilizers for YouTubers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-surging-through-the-noise-supercharging-telegram-campaigns/"><u>2024 Approved Surging Through the Noise Supercharging Telegram Campaigns</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>2024 Approved Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-vlog-editor-apps-ios-and-android-for-2024/"><u>Best Vlog Editor Apps iOS & Android for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-reawakening-a-shader-driven-journey-to-the-past-with-retroarc/"><u>Game Reawakening: A Shader-Driven Journey to the Past with RetroArc</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-modern-setup-host-causing-high-cpu-usage-on-windows/"><u>How to Fix Modern Setup Host Causing High CPU Usage on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-10-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 10 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y100i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y100i Phones? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-90-gt-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 90 GT?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intel-graphics-command-center-for-gamers-on-windows/"><u>Intel Graphics Command Center for Gamers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/peak-online-cam-dance-battles/"><u>Peak Online Cam Dance Battles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrect-your-pc-with-these-13-system-restoration-methods/"><u>Resurrect Your PC with These 13 System Restoration Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-0xc0000001-in-windows-os/"><u>Solving Error 0xC0000001 in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-team-efficiency-fixing-microsoft-teams-errors-80080300/"><u>Unlocking Team Efficiency: Fixing Microsoft Teams Errors, #80080300</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +138,24 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-effective-real-youtube-promotion/"><u>[New] 2024 Approved The Ultimate Guide to Effective, Real Youtube Promotion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-sound-mastery-pro-tips-for-effective-audiovisual-blending-audacity/"><u>2024 Approved Sound Mastery Pro Tips for Effective Audiovisual Blending (Audacity)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-a05-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy A05? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-generative-ai-emerging-as-the-latest-weapon-in-spreading-false-information/"><u>Is Generative AI Emerging as the Latest Weapon in Spreading False Information?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-silent-systems-voice-finding-sound-solutions/"><u>Restore Silent System's Voice: Finding Sound Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/startup-guide-for-windows-11s-instant-aid-tool/"><u>Startup Guide for Windows 11’S Instant Aid Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-joy-with-these-best-free-players-win/"><u>Streamline Joy with These Best FREE Players (Win)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tapping-into-windows-11-theme-mysteries-with-registry-knowledge/"><u>Tapping Into Windows 11 Theme Mysteries with Registry Knowledge</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-rated-disk-imaging-tools-choose-the-perfect-one-for-your-windows-os-windows-11-10-8-7-vista-xp/"><u>Top-Rated Disk Imaging Tools: Choose the Perfect One for Your Windows OS (Windows 11, 10, 8, 7, Vista, XP)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-wacatacbmls-deception-in-your-windows-ecosystem/"><u>Unmasking Wacatac.B!ml's Deception in Your Windows Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-run-imessage-on-your-windows-laptop-or-desktop/"><u>Unveiling Techniques to Run iMessage on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-techniques-for-overcoming-power-saving-glitches/"><u>Win Techniques for Overcoming Power Saving Glitches</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/windows-winx-video-converter/"><u>Windowsマシン向けの最適なビデオコンバーター - WinX Video Converter詳細ガイド</u></a></li>
+</ul></div>
+

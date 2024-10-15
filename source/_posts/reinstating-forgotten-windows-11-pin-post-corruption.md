@@ -1,7 +1,7 @@
 ---
 title: Reinstating Forgotten Windows 11 PIN Post-Corruption
-date: 2024-10-07T04:01:33.238Z
-updated: 2024-10-09T00:48:39.294Z
+date: 2024-10-09T16:19:40.115Z
+updated: 2024-10-15T03:06:50.315Z
 tags:
   - windows10
   - windows11
@@ -70,25 +70,11 @@ To reset your user account password:
 ![the password is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-password-is-incorrect.jpg)
 3. Next, click on the**Reset Password** option. This will open the reset password dialog.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![reset password lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-password-lock-screen.jpg)
 4. Next, you need to answer the three security questions and press**Enter** .
 5. When successful, Windows will ask you to enter your new password. So, enter your new password and confirm the same. Press enter to save the password.
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Delete the NGC Folder
 
@@ -107,16 +93,23 @@ To delete your NGC folder:
 4. Next, navigate to the following path:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
 5. Next, right-click on the**Ngc** folder and select**Delete** . Click on**Delete** again to confirm the action.
 
  If you see the**You need permission to perform this action** prompt, you'll need to[take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall Windows Updates
 
@@ -139,25 +132,25 @@ To delete your NGC folder:
 ![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
 4. Next, select**Advanced options** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click on**System Restore.**  
 ![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, your system will restart in the**System Restore** environment.  
 ![system restore windows recovery environment 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-windows-recovery-environment-1.jpg)
 2. Click on your user account name under**Choose an account to continue.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, you'll need to enter the password for the selected account and click**Continue** . If your user account doesn't have a password, then press**Enter** to continue without the password.
@@ -169,10 +162,16 @@ To delete your NGC folder:
 ![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Startup repair is a built-in troubleshooting tool on Windows to fix issues with files required to boot the OS. You can run Startup Repair from the Windows Recovery Environment. Here's how to do it.
@@ -184,6 +183,13 @@ To delete your NGC folder:
 ## 6\. Perform a System Reset
 
 ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A system reset helps you reset your computer to its factory default removing all the system settings and configuration, including login credentials.
 
@@ -217,21 +223,21 @@ To perform a system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-dominating-viewership-tips-for-your-video-to-be-a-staff-choice/"><u>[New] Dominating Viewership Tips for Your Video to Be a Staff Choice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-how-to-start-a-facebook-giveaway-post/"><u>[New] How to Start a Facebook Giveaway Post</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-gamers-capturing-solutions/"><u>[New] In 2024, Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>[Updated] 2024 Approved From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[Updated] Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-microsofts-defender-on-win11-systems/"><u>Disabling Microsoft's Defender on Win11 Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-6s-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 6s Plus The Right Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-clear-access-denied-message-when-closing-outlook-files/"><u>How to Clear Access Denied Message When Closing Outlook Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/infiltrating-blocked-powershell-top-4-techniques-for-loading-success/"><u>Infiltrating Blocked PowerShell: Top 4 Techniques for Loading Success</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007379471-minecraft-on-pc-no-sound-here-are-5-quick-fixes/"><u>Minecraft on PC No Sound? Here Are 5 Quick Fixes!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-introduces-cutting-edge-language-compendium/"><u>Mondly Introduces Cutting-Edge Language Compendium</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-memory-use-of-antivirus-software-features/"><u>Optimize Memory Use of Antivirus Software Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-recommendations-best-iphone-tones-designers-for-2024/"><u>Premier Recommendations Best iPhone Tones Designers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reengineering-windowed-discord-search-for-optimal-performance/"><u>Reengineering Windowed Discord Search for Optimal Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-faulty-windows-11-license-numbers/"><u>Reviving Faulty Windows 11 License Numbers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-steam-connection-stalls-coded-in-rustwindows/"><u>Swift Remedies for Steam Connection Stalls, Coded in Rust/Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-action-packed-with-sj7s-4k-capability-full-review-2023-for-2024/"><u>[New] Action-Packed with SJ7's 4K Capability - Full Review 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>[Updated] In 2024, Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-process-of-windows-11s-automated-backups/"><u>Dissecting the Process of Windows 11'S Automated Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-mkv-to-mp4-conversion-tutorial-windows/"><u>Efficient MKV to MP4 Conversion Tutorial (Windows)</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhance-your-django-project-with-argon-dashboard-the-stylish-bootstrap-ve-4-admin-template-by-creative-tim/"><u>Enhance Your Django Project with Argon Dashboard - The Stylish Bootstrap Ve 4 Admin Template by Creative Tim</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-doom-eternal-from-suddenly-crashing/"><u>How to Prevent Doom Eternal From Suddenly Crashing?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 13 Pro?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-extensive-breakdown-gecata-tracking-device-assessment/"><u>In 2024, Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-lens-of-loom-perfecting-your-video-weave/"><u>In 2024, Lens of Loom Perfecting Your Video Weave</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-photo-perfection-best-practices-for-integrating-frames-online/"><u>In 2024, Photo Perfection Best Practices for Integrating Frames Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-developer-insider-content-private/"><u>Keeping Developer Insider Content Private</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rating-7-of-the-ultimate-waterproof-recorder-guide-for-2024/"><u>Rating #7 of the Ultimate Waterproof Recorder Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-deploy-store-bought-programs/"><u>Steps to Successfully Deploy Store-Bought Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-savvy-reestablishing-server-link-with-7-fixes-for-obs-studio/"><u>Sync Savvy: Reestablishing Server Link with 7 Fixes for OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-create-failed-issue-in-windows/"><u>Understanding and Overcoming Create Failed Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-the-top-7-ways-to-optimize-windows-11-use/"><u>Unlocking Potential: The Top 7 Ways to Optimize Windows 11 Use</u></a></li>
 </ul></div>
 

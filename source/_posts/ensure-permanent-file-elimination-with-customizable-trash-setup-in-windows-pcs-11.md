@@ -1,7 +1,7 @@
 ---
 title: Ensure Permanent File Elimination with Customizable Trash Setup in Windows PCs (11)
-date: 2024-10-03T21:09:12.538Z
-updated: 2024-10-08T17:26:15.902Z
+date: 2024-10-09T01:41:08.269Z
+updated: 2024-10-14T17:08:10.499Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
@@ -59,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -89,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
@@ -105,24 +106,24 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -145,22 +146,22 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-echo-into-words-best-transcription-software-for-no-internet/"><u>[Updated] 2024 Approved Echo Into Words Best Transcription Software for No Internet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-brief-snippet-analysis-for-beginners-for-2024/"><u>[Updated] Brief Snippet Analysis for Beginners for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-springs-screen-recorder-unveiled-a-users-perspective/"><u>[Updated] In 2024, Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-sites-visibility-with-optimized-menu-functionality-and-direct-linkedin-facebook-youtube-connectivity/"><u>Boost Your Site's Visibility with Optimized Menu Functionality and Direct LinkedIn, Facebook, YouTube Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-navigating-sharepoint-files-using-copernic-software/"><u>Comprehensive Guide: Navigating SharePoint Files Using Copernic Software</u></a></li>
-<li><a href="https://win11.techidaily.com/detailed-procedure-for-total-disabling-of-windows-subsystem/"><u>Detailed Procedure for Total Disabling of Windows Subsystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-handling-sporadic-misidentified-results-by-copernic/"><u>Effective Strategies for Handling Sporadic Misidentified Results by Copernic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-at-dawn-immediate-open-of-windows-and-notebooks/"><u>Efficiency at Dawn: Immediate Open of Windows and Notebooks</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/free-conversion-of-mp4-to-premium-quality-mp3-6-essential-methods/"><u>Free Conversion of MP4 to Premium-Quality MP3: 6 Essential Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-features-and-enhancements-in-the-latest-version-of-copernic-desktop-search/"><u>New Features & Enhancements in the Latest Version of Copernic Desktop Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-in-your-pubg-gameplay-win-1011/"><u>Restoring Default Settings in Your PUBG Gameplay (Win 10/11)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-interaction-with-chatgpt-through-voice-commands-top-5-ways/"><u>Revolutionize Your Interaction with ChatGPT Through Voice Commands – Top 5 Ways!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-digital-management-with-copernic-exploring-desktop-and-cloud-search-solutions/"><u>Simplifying Digital Management with Copernic: Exploring Desktop and Cloud Search Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-stop-apex-freeze-the-ultimate-guide-for-w11-users/"><u>Strategies to Stop Apex Freeze: The Ultimate Guide for W11 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-iphone-reflections-in-landscapes/"><u>The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essential-toolkit-3d-video-entrances-ranked/"><u>The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unleash-the-potential-of-your-webcam-for-slideshows/"><u>Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-changing-ringtones-on-an-iphone-a-user-friendly-approach/"><u>[New] Changing Ringtones on an iPhone A User-Friendly Approach</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-size-solution-to-boost-your-videos-online-performance/"><u>2024 Approved The Ultimate Size Solution to Boost Your Video's Online Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-frozen-windows-pin-locks/"><u>Breaking Free From Frozen Windows PIN Locks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-news-afbs-secret-to-trending-content-for-2024/"><u>Breaking News AFB's Secret to Trending Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-diy-guide-integrating-soundtracks-with-your-gopro-content-via-pc-software/"><u>Comprehensive DIY Guide: Integrating Soundtracks with Your GoPro Content via PC Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-epic-games-sign-in-on-pc/"><u>Efficiently Tackling Epic Games Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-calendar-look-with-outlook-customization-tricks/"><u>Elevate Your Calendar Look with Outlook Customization Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-gt-710-drivers-download-for-windows/"><u>GeForce GT 710 Drivers Download for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-still-moments-from-clips-on-windows-11/"><u>In 2024, Capturing Still Moments From Clips on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-x9a-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor X9a to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/including-third-party-storage-on-file-explorer/"><u>Including Third-Party Storage on File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-interface-clarity-displaying-this-pc-icon/"><u>Optimizing Interface Clarity: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unknown-disk-error-in-windows/"><u>Overcoming Unknown Disk Error in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-sequencing-of-slideshow-videos/"><u>Swift Sequencing of Slideshow Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-analytical-points-showcasing-pcs-edge-over-macs/"><u>Top 9 Analytical Points Showcasing PC's Edge Over Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-test-failure-immediate-action-plan/"><u>Windows Audio Test Failure: Immediate Action Plan</u></a></li>
 </ul></div>
 

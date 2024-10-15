@@ -1,7 +1,7 @@
 ---
 title: Integrating Microsoft Code Companion Into Your Workflow
-date: 2024-10-02T22:42:37.223Z
-updated: 2024-10-09T06:29:39.516Z
+date: 2024-10-10T23:59:59.725Z
+updated: 2024-10-15T00:48:53.115Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 * [What Are the Copilot Conversation Styles?](#what-are-the-copilot-conversation-styles)
 * [How to Use Microsoft Copilot](#how-to-use-microsoft-copilot)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot is an AI assistant available on Windows 11, Microsoft Office, and Microsoft Edge, offering various functionalities across these.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  A lot of big tech companies have their own AI model, and Microsoft is no different. Its AI model is called "Copilot," and you might have already seen it on Windows 11 or in Microsoft Office. But what is Copilot, and what can you do with it?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Microsoft Copilot?
 
  Microsoft Copilot is an AI-based assistant that Microsoft is rolling out across its operating systems and apps. Copilot will act differently and do different tasks depending on the app that you invoked it in.
@@ -43,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  If you talk to it through a browser, it acts similar to ChatGPT. Use it on Windows 11, and you can use it to toggle dark mode or start an activity session. And if you open Copilot through Microsoft Edge, you can ask it to summarize the page you're currently on.
 
  You'll also find Copilot across Microsoft's Office apps. Copilot on Word lets you generate AI drafts; on PowerPoint, you can ask it to summarize your presentation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access Microsoft Copilot
 
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on Edge
 
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
@@ -74,17 +88,10 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot on the Web
@@ -94,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
@@ -105,6 +112,19 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  Opening Copilot in Microsoft 365 depends on which app you open. However, you do need an active Microsoft 365 subscription for Copilot to work.
 
  Some apps will have Copilot open the instant you boot it up. For example, if you open a new document on Word, Copilot will pop up and ask you if you want to generate a draft. In other apps, you need to poke it out of hiding from the ribbon.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Copilot Conversation Styles?
 
@@ -116,27 +136,20 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  The conversation style doesn't affect the quality of the information that Copilot gives you, so feel free to choose the one that fits you best.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Microsoft Copilot
 
  Now that you've got Copilot open, it's time to check out what you can do with it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Perform Research With Copilot
 
 ![An example of Copilot citing sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-source-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
 
@@ -153,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ### Ask Copilot to Write Code for You
 
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
@@ -180,29 +186,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  If you use any of these apps in your work, give Copilot a try and see what it can do for you.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-screens-on-chrome-os-for-2024/"><u>[New] Streamlined Screens on Chrome OS for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ios-guide-your-step-by-step-vr-video-experience/"><u>[Updated] IOS Guide Your Step-by-Step VR Video Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/clandestine-watching-of-stories-by-the-best-5-apps/"><u>Clandestine Watching of Stories by the Best 5 Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-approach-eliminating-the-infamous-hulu-rununk13-error-once-and-for-all/"><u>DIY Approach: Eliminating the Infamous Hulu RUNUNK13 Error Once and For All</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-bring-back-the-original-file-view/"><u>How To Bring Back the Original File View</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-pova-5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Pova 5 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/inside-out-the-realities-of-youtubing-earning/"><u>Inside Out The Realities of YouTubing Earning</u></a></li>
-<li><a href="https://fox-http.techidaily.com/liberating-your-media-experience-free-movplay-software-for-2024/"><u>Liberating Your Media Experience Free MOV/PLAY Software for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-for-pc-a-short-and-sweet-review-for-2024/"><u>New VN Video Editor for PC A Short and Sweet Review for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/official-nvidia-quadro-driver-downloads-for-windows-10-latest-release-and-support-information/"><u>Official Nvidia Quadro Driver Downloads for Windows 10 - Latest Release & Support Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pushing-limits-top-4-software-for-exceeding-windows-maxed-volume/"><u>Pushing Limits: Top 4 Software for Exceeding Windows’ Maxed Volume</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-requirements-not-met-error-on-windows-oses-10and11/"><u>Resolving Requirements Not Met Error on Windows OSes 10&11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/samsungs-solution-for-device-synergy-flow-streamlined/"><u>Samsung's Solution for Device Synergy - Flow Streamlined</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-remedying-unsettable-windows-nvidia-configs/"><u>Strategies for Remedying Unsettable Windows Nvidia Configs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-defeat-windows-error-0xfffffff/"><u>Strategies to Defeat Windows' Error 0xFFFFFFF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-creating-windows-11-shortcuts-for-uwp/"><u>Streamlining Tasks: Creating Windows 11 Shortcuts for UWP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/syncing-ios-calendars-seamlessly-on-your-windoze-1011-pc/"><u>Syncing iOS Calendars Seamlessly on Your Windoze 10/11 PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-features-of-samsungs-most-recent-phone-launch/"><u>Unlocking Features of Samsung's Most Recent Phone Launch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-first-steps-in-windows-accessibility-features/"><u>Your First Steps in Windows Accessibility Features</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -210,3 +193,22 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-facebook-cover-videos-essential-insights/"><u>[New] 2024 Approved Mastering Facebook Cover Videos Essential Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-architecting-authoritative-adjuncts/"><u>[New] In 2024, Architecting Authoritative Adjuncts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>[Updated] 2024 Approved Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-controlling-netflix-playback-speeds/"><u>[Updated] Fast Track - Controlling Netflix Playback Speeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-vac-blockade-in-steam/"><u>Deciphering & Remedying VAC Blockade in Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-change-user-folder-names-in-the-latest-w11/"><u>Easily Change User Folder Names in the Latest W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embrace-the-best-of-winapps-2023s-choice/"><u>Embrace the Best of WinApps, 2023'S Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-and-exploiting-law-filters-in-window-environments/"><u>Exploring and Exploiting LAW Filters in Window Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reopen-stuck-adobe-photoshop-2021-2023-on-w11/"><u>How to Reopen Stuck Adobe Photoshop (2021-2023) on W11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-play-40c-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor Play 40C</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-12-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 12 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-resolving-a-critical-system-error-in-ark/"><u>Step-by-Step Guide: Resolving a Critical System Error in Ark</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-os-easy-touch-screen-driver-installation/"><u>Streamline OS: Easy Touch Screen Driver Installation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a05s-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A05s? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

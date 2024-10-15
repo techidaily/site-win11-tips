@@ -1,7 +1,7 @@
 ---
 title: "Silent Stealers: Apps That Undermine Windows 11 Performance"
-date: 2024-10-07T20:12:32.489Z
-updated: 2024-10-08T19:00:41.292Z
+date: 2024-10-11T04:40:31.949Z
+updated: 2024-10-14T22:28:04.621Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -77,40 +77,15 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
 
  Some of Windows 11's default apps take a sizable chunk out of your RAM, even if you never boot them up. Fortunately, just hiding them from your taskbar is enough from them latching onto your RAM for no good reason.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-9gag-the-ultimate-resource-for-memetic-innovation/"><u>[New] 9GAG The Ultimate Resource for Memetic Innovation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-endless-creativity-free-youtube-art-resources/"><u>[New] In 2024, Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-immersive-tech-in-everyday-life/"><u>[New] In 2024, Immersive Tech in Everyday Life</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-video-downloading-apps-of-2024-as-suggested-by-reddit-users-ranked-and-reviewed/"><u>Best Video Downloading Apps of 2024 as Suggested by Reddit Users: Ranked and Reviewed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rotate-the-windows-display-by-90-degrees-and-why-you-should/"><u>How to Rotate the Windows Display by 90 Degrees (and Why You Should)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-administering-windows-component-tool/"><u>Introduction to Administering Windows' Component Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberate-your-laptop-slimline-windows-11/"><u>Liberate Your Laptop: Slimline Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-windows-11-task-manager-filter-wizard-and-aesthetic-tweaks-guide/"><u>Master the Windows 11 Task Manager: Filter Wizard & Aesthetic Tweaks Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-your-hardware-space-w10-and-w11-insights/"><u>Navigating Your Hardware Space: W10 & W11 Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-timers-on-the-fly-fixing-scheduler-problems/"><u>Resolve Timers on the Fly: Fixing Scheduler Problems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/strategies-to-promote-vimeo-films-for-2024/"><u>Strategies to Promote Vimeo Films for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-beginners-blueprint-for-windows-11-desktop-art/"><u>The Beginner's Blueprint for Windows 11 Desktop Art</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +94,22 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/approved-top-15-royalty-free-music-hideouts-for-video-artists/"><u>2024 Approved Top 15 Royalty-Free Music Hideouts for Video Artists</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comprehensive-guide-to-digiarty-softwares-winxdvd-eula-compliance/"><u>Comprehensive Guide to Digiarty Software's WinXDVD EULA Compliance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-shortcuts-to-enhance-efficiency/"><u>Essential Windows Shortcuts to Enhance Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-fix-windows-code-28-errors-effectively-for-smooth-operation/"><u>Guide to Fix Windows Code 28 Errors Effectively for Smooth Operation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g34-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G34 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-2024-15/"><u>MP4 剪接軟體全新列表！【2024 綜合排名榜】選出的 15 件高效之選</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-11s-component-services-with-ease/"><u>Opening Windows 11'S Component Services with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-pc-ailments-with-these-13-revival-strategies/"><u>Overcoming PC Ailments with These 13 Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-your-favorite-microsoft-store-products-on-win-oses/"><u>Reinstating Your Favorite Microsoft Store Products on Win OSes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seven-predictions-for-job-markets-transformed-by-generative-artificial-intelligence/"><u>Seven Predictions for Job Markets Transformed by Generative Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reestablish-lock-screen-timer-in-windows/"><u>Steps to Reestablish Lock Screen Timer in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-photographers-roadmap-to-stunning-hdr-portraits-for-2024/"><u>The Photographer's Roadmap to Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-user-discontent-insights-on-windows-11/"><u>Understanding User Discontent: Insights on Windows 11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Internal Error on RDP in Windows 11
-date: 2024-10-06T20:42:21.662Z
-updated: 2024-10-08T18:08:46.506Z
+date: 2024-10-14T10:31:32.822Z
+updated: 2024-10-15T08:10:59.279Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 
  If you don’t see the**Allow connections only from computers** option, that probably means the Windows platform isn’t a Pro or Enterprise edition. You can only enable remote connections on host computers with Windows Pro and Enterprise. However, you can still connect to host PCs with Windows Home client PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Network Layer Authentication
 
  There’s an **Allow connections only from computers running Remote Desktop with Network Level Authentication** setting just below the**Allow Remote connection** radio button. Selecting that option implements tighter Network Layer Authentication security for remote connections. However, some users confirm that disabling NLA by unticking that checkbox can fix the “internal error has occurred” error. So, deselect that option if you’ve got it selected.
@@ -54,23 +61,9 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 ![The Remote Desktop Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/services-window.jpg)
 4. If disabled, select**Automatic** on the**Startup** drop-down menu for Remote Desktop Services.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Start** (inside the properties window) to run Remote Desktop Services.  
 ![The Remote Desktop Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-services-service.jpg)
 6. Select**Apply** to set the new service options.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
@@ -83,14 +76,28 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 2. Click**Show Options** to view RDC’s settings.  
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
 4. Then select the**Reconnect if the connection is dropped** checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press the**Connect** button.
@@ -105,32 +112,11 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
 4. Select**Internet Protocol Version 4** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select**OK** to confirm the new DNS and IP address settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Enable the "Require Use of Specific Security Layer" Group Policy Setting
 
@@ -143,9 +129,25 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 5. Double-click the **Require use of specific security layer for remote (RDP) connections** policy.  
 ![The Security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-policies.jpg)
 6. Select the**Enabled** radio button for that policy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**RDP** in the**Security Layer** drop-down menu.  
 ![The Security Layer RDP option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rdp-option.jpg)
 8. Click**Apply** \>**OK** inside the**Require use of specific security layer** for remote (RDP) connections policy window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
 
 ## 7\. Turn Off UDP on the Client via Group Policy
@@ -159,14 +161,28 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 3. Select that policy’s**Enabled** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Turn Off UDP On Client window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-udp-client-window.jpg)
 4. Click**Apply** to set the new**Turn off UDP** on Client policy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
 
 ## 8\. Disconnect a Domain Account
@@ -182,10 +198,10 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 6. Then try connecting to the remote computer with RDC again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Turn Off Any Active VPNs
@@ -217,14 +233,16 @@ thumbnail: https://thmb.techidaily.com/3186e4df3cd85f5548d507c683f3aba596cb59805
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/asfmpeg-asf-movavi/"><u>ASF格式自由下載與無障礙MPEG-ASF傳輸 - Movavi 影像編解碼器</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/captivating-content-creation-the-best-10-igtv-strategies-for-brands-for-2024/"><u>Captivating Content Creation The Best 10 IGTV Strategies for Brands for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-overuse-signal-fixing-chatgpt-on-windowed-systems/"><u>Easing Overuse Signal: Fixing ChatGPT on Windowed Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-x7b-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor X7b Quickly | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-10-android-mobas-essential-players-list/"><u>In 2024, Top 10 Android MOBAs Essential Players' List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interactive-steps-to-peruse-windows-11s-registry-contents/"><u>Interactive Steps to Peruse Windows 11'S Registry Contents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-dism-your-windows-11-image-salvation/"><u>Leveraging Dism: Your Windows 11 Image Salvation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-file-management-on-windows-with-altwindirstat/"><u>Master the Art of File Management on Windows with altWinDirStat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/wallet-friendly-360-degree-video-technology/"><u>Wallet-Friendly 360-Degree Video Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-reassessing-manycam-search-for-a-top-contender/"><u>[New] Reassessing ManyCam Search for a Top Contender</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[Updated] 2024 Approved Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-iphones-close-up-shots-with-ease-and-precision/"><u>[Updated] Perfecting iPhone's Close-Up Shots with Ease and Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-desktop-space-adding-personalized-weather-symbols-on-taskbar-in-windows-11/"><u>Customize Desktop Space: Adding Personalized Weather Symbols on Taskbar in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/make-a-statement-with-free-profile-pics-for-2024/"><u>Make a Statement With Free Profile Pics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-wins-in-windows-11-easily/"><u>Navigating the World of Wins in Windows 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-scribblers-top-8-notetaking-apps-for-windows-desktops/"><u>Screen Scribblers: Top 8 Notetaking Apps for Windows Desktops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/section-3b-fact5-facts-to-remember/"><u>Section 3B: Fact5 Facts to Remember</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-loading-failures-of-text-messages-on-discord-pc/"><u>Solving Loading Failures of Text Messages on Discord PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/total-uninstallation-tactics-for-win-1011-wsl/"><u>Total Uninstallation Tactics for Win 10/11 WSL</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
 </ul></div>
 

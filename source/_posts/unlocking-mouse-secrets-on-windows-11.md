@@ -1,7 +1,7 @@
 ---
 title: Unlocking Mouse Secrets on Windows 11
-date: 2024-10-07T06:14:58.987Z
-updated: 2024-10-08T22:21:24.832Z
+date: 2024-10-14T14:49:56.436Z
+updated: 2024-10-14T17:56:25.195Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 4. The Mouse Properties window will launch.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Using Settings App
@@ -61,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 3. Scroll down and click on the **Mouse** option.  
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
 
@@ -72,23 +93,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
@@ -111,21 +119,7 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Close the Task Manager.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Using Command Prompt
 
@@ -135,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. Type **control /name Microsoft.Mouse** in the terminal and press the **Enter** key.  
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
 3. Mouse Properties will open in a new window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Type **exit** and press Enter to close the Command Prompt.
 
@@ -168,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 7. You can double-click on the shortcut and adjust mouse settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Using a Keyboard Shortcut
@@ -185,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gain Absolute Control Over Your Mouse on Windows
 
  Mouse Properties is an applet, so you cannot pin it to the Taskbar or Start menu. But, you can launch it using the Run dialog box or Terminal or you can create a desktop shortcut. For the fastest access to the tool, map a shortcut key combination.
@@ -193,24 +187,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unseen-influences-on-your-viewing-habits-of-stories/"><u>[New] 2024 Approved Unseen Influences on Your Viewing Habits of Stories</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting/"><u>[New] In 2024, From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-6-free-online-tools-for-downloading-youtube-shorts/"><u>[New] Top 6 Free, Online Tools for Downloading YouTube Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamers-in-a-dilemma-obs-or-twitch-space/"><u>[Updated] Streamers in a Dilemma OBS or Twitch Space?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiered-5-screen-options-for-ps5-gamers/"><u>2024 Approved Premiered 5 Screen Options for PS5 Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-taskbars-presence-during-window-maximum-size/"><u>Ensuring Taskbar's Presence During Window Maximum Size</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-proactive-tactics-to-rectify-network-key-errors-on-windows-11-systems/"><u>Five Proactive Tactics to Rectify Network Key Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gentle-volume-easing-methods-for-mixers/"><u>Gentle Volume Easing Methods for Mixers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-excellent-canon-temp-video-series/"><u>In 2024, Crafting Excellent Canon Temp Video Series</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-top-8-windows-screen-recording-applications/"><u>In 2024, The Top 8 Windows Screen Recording Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-reclaiming-microsoft-store-on-windows-11/"><u>Regaining Control: Reclaiming Microsoft Store on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-windows-photo-viewer-on-windows-11-systems/"><u>Resurrecting Windows Photo Viewer on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-guide-setting-up-outlook-preview-on-winos/"><u>Simplified Guide: Setting Up Outlook Preview on WinOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-discover-how-businesses-are-leveraging-chatgpt-in-everyday-scenarios/"><u>Unlocking Potential: Discover How Businesses Are Leveraging ChatGPT in Everyday Scenarios</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -218,3 +194,25 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>2024 Approved Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-top-4-substitutes-for-transwiz-you-need-to-try/"><u>Best Top 4 Substitutes for Transwiz You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coping-with-unsuccessful-disco-updates-on-windows-systems/"><u>Coping with Unsuccessful Disco Updates on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dial-back-the-clicking-speed-disabling-acceleration-on-windows-11/"><u>Dial Back the Clicking Speed: Disabling Acceleration on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-spotify-automatic-startup/"><u>Guide to Turn Off Spotify Automatic Startup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-note-30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Note 30 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-get-savvy-with-screen-recording-on-xiaomi-mi-11/"><u>In 2024, Get Savvy with Screen Recording on Xiaomi Mi 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-window-communication-apps-5-1-top-8-list/"><u>In 2024, Window Communication Apps #5-#1 Top 8 List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-print-in-defender-smartscreen-on-edge-browser/"><u>Initiating Print in Defender SmartScreen on Edge Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-minds-discuss-global-ai-trends/"><u>Leading Minds Discuss Global AI Trends</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker-for-2024/"><u>New Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pinnacle-of-participation-events-post-vidcon-for-2024/"><u>Pinnacle of Participation Events Post-VidCon for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-kickstart-windows-operator-downloads/"><u>Quick Remedies to Kickstart Windows Operator Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-backup-mishaps-on-windows-10/"><u>Remedying Steam Backup Mishaps on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-task-execution-in-windows-11-advanced-run-integration/"><u>Revolutionizing Task Execution in Windows 11: Advanced Run Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-windows-memory-hogs-troubleshooting-edges-view2-process/"><u>Taming Windows Memory Hogs: Troubleshooting Edge's View2 Process</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-leading-choices-best-ergonomic-keyboards-on-the-market/"><u>The Leading Choices: Best Ergonomic Keyboards on the Market</u></a></li>
+</ul></div>
+

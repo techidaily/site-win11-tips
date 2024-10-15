@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Desktop Experience with Easy Widget Implementation in Win 11
-date: 2024-10-05T08:18:34.160Z
-updated: 2024-10-08T17:36:19.113Z
+date: 2024-10-13T20:00:28.296Z
+updated: 2024-10-15T12:35:45.887Z
 tags:
   - windows10
   - windows11
@@ -39,22 +39,29 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 ![the widget launcher app in windows 11 search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Widgets to Your Desktop With Widget Launcher
 
  With Widget Launcher open, you’ll see a list of all the available widgets, such as**Weather** ,**Clock** ,**Calendar** ,**Notes** , and**CPU Meter** , in the middle panel. Click on the widget you want to add to the desktop.
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some widgets, such as**Weather** ,**RSS Feed** , and**Slideshow** , will be blank when you first launch them. That’s because you need to tell them where to get the data they need to display.
 
@@ -62,22 +69,15 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 ![a blank rss feed widget in the Windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/rss-fee-widget-windows-11-no-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, enter the URL to the website the**RSS Feed** widget will use to populate itself with feeds, and then click**OK** . Now the widget won't be blank anymore.
 
 ![entering a URL in the RSS Feed widget of the Widget Launcher on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/url-rss-feed-widget-launcher-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this was the**Weather** widget, you'd need to add a location. And if it was the**Slideshow** widget, it would require a folder to find the images to display.
@@ -88,14 +88,14 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 ![the settings of the widget launcher in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-settings-always-top.jpg)
 
- By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
 
 ## Enjoy Widgets on Your Windows 11 Desktop
 
@@ -116,14 +116,22 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>[New] 2024 Approved Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enriching-slides-video-incorporation-from-youtube/"><u>[Updated] 2024 Approved Enriching Slides Video Incorporation From YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>2024 Approved Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-is-operational-3-strategies/"><u>Ensuring Windows 11 Is Operational: 3 Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-windows-11-key-purchases/"><u>Essential Guide to Windows 11 Key Purchases</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalizing-windows-11s-ccleaner-functionality/"><u>Revitalizing Windows 11'S CCleaner Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0x80070522-in-windows-regain-user-rights/"><u>Unraveling Error Code 0X80070522 in Windows: Regain User Rights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-frameflick-recorder-reflection/"><u>[New] FrameFlick Recorder Reflection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-raise-the-bar-top-8-speed-up-video-apps-for-2024/"><u>[New] Raise the Bar Top 8 Speed Up Video Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-dynamics-behind-t-series-profit-on-youtube/"><u>[New] The Dynamics Behind T-Series' Profit on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[Updated] In 2024, Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compatible-creativity-tools-outside-procreate-for-pcs/"><u>Compatible Creativity Tools Outside Procreate for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-excessive-cpu-activity-by-dropbox-tips-for-windows-users/"><u>Curbing Excessive CPU Activity by Dropbox: Tips for Windows Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discovering-the-best-in-android-gaming-kinemaster-edition-for-2024/"><u>Discovering the Best in Android Gaming KineMaster Edition for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-frozen-clicks-6-remedies-for-windows-users/"><u>Eliminating Frozen Clicks: 6 Remedies for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ensuring-safety-while-printing-in-3d-5-common-risks-and-their-solutions/"><u>Ensuring Safety While Printing in 3D: 5 Common Risks and Their Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-perform-an-in-place-upgrade-in-windows-11/"><u>How to Perform an In-Place Upgrade in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-stop-for-windows-and-office-updates/"><u>Immediate Stop for Windows and Office Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-go-2023-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark Go (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/multitask-your-way-through-the-olympics-enjoy-simultaneous-coverage-of-multiple-events-via-peacock-platform/"><u>Multitask Your Way Through the Olympics: Enjoy Simultaneous Coverage of Multiple Events via Peacock Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zip-extraction-hurdle/"><u>Overcoming Windows 11'S ZIP Extraction Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-continuous-login-challenges-with-microsoft-teams/"><u>Remedy for Continuous Login Challenges with Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-prevent-another-pc-using-printer-error/"><u>Tips to Prevent Another PC Using Printer Error</u></a></li>
 </ul></div>
 

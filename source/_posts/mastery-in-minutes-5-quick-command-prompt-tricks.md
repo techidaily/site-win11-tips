@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Minutes: 5 Quick Command Prompt Tricks"
-date: 2024-09-15T09:09:05.719Z
-updated: 2024-09-16T23:22:37.649Z
+date: 2024-10-11T10:05:58.172Z
+updated: 2024-10-15T12:54:44.479Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -60,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
  However, there are actually a few more fun things command prompt can through this connection, and it's definitely worth playing around with.
@@ -71,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -90,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
@@ -107,20 +128,11 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +141,20 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-revolutionary-appeal-of-apples-m1-max-clip/"><u>[New] The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-novice-to-pro-instagram-live-walkthrough/"><u>[Updated] From Novice to Pro Instagram Live Walkthrough</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-no-more-distractions-expert-guide-to-removing-youtube-ads/"><u>[Updated] In 2024, No More Distractions - Expert Guide to Removing YouTube Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-busy-messages-on-windows-11-disks/"><u>Dealing with Busy Messages on Windows 11 Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-apples-desk-to-windows-domain-windows-11-via-parallels/"><u>From Apple's Desk to Windows' Domain: Windows 11 via Parallels</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instantly-swap-your-homepage-to-google-a-step-by-step-no-hassle-tutorial/"><u>Instantly Swap Your Homepage to Google - A Step-by-Step, No Hassle Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-crucial-solutions-for-every-model/"><u>Mastering iPhone Maintenance: 15 Crucial Solutions for Every Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-engagement-with-these-highly-effective-instagram-tags/"><u>Maximize Engagement with These Highly Effective Instagram #Tags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-steam-save-issues-on-your-system/"><u>Overcoming Steam Save Issues on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-innovation-unveiled-asus-s15-reviewed-excellently/"><u>Stealthy Innovation Unveiled: Asus S15 Reviewed Excellently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voice-chat-silence-on-discord-what-to-do-next/"><u>Ultimate Fixes for Voice Chat Silence on Discord - What to Do Next?</u></a></li>
+</ul></div>
+

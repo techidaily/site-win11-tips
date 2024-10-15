@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List for Muting Windows Folders
-date: 2024-10-07T04:00:29.032Z
-updated: 2024-10-09T06:30:06.966Z
+date: 2024-10-09T04:29:31.030Z
+updated: 2024-10-14T16:56:35.953Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable File Explorer Tabs In Windows 11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 vivetool /disable /id:37634385  
@@ -83,15 +83,16 @@ vivetool /disable /id:36354489
 3. Type**37634385** in the search bar. Select the highlighted feature and click on the**Perform Action** button.  
 ![Disable File Explorer Tabs Using the ViVeTool GUI version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool-gui-version.jpg)
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
-5. Now, close the ViVeTool GUI and**restart** your system.
-6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Now, close the ViVeTool GUI and**restart** your system.
+6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 ## Disable Any Windows 11 Feature Using ViVeTool
 
@@ -112,22 +113,22 @@ vivetool /disable /id:36354489
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-4k-revolution-takes-flight-q500-review/"><u>[New] The 4K Revolution Takes Flight - Q500 Review</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-convert-srt-fastly-a-compreenas-the-minute-blueprint-2023/"><u>[Updated] 2024 Approved Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-elite-screen-grabber-for-windows-10/"><u>[Updated] In 2024, Elite Screen Grabber for Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-neural-networks-betray-you-securing-your-chatbot-from-unwanted-data-reconstruction/"><u>Can Neural Networks Betray You? Securing Your Chatbot From Unwanted Data Reconstruction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correction-of-windows-1011-zoom-failure-code-1132/"><u>Correction of Windows 10/11 Zoom Failure - Code 1132</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-the-latest-in-hdtv-with-samsungs-ubd-k850u-update/"><u>Discovering the Latest in HDTV with Samsung's UBD-K850U Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-error-on-windows-no-more-blank-screens/"><u>Fixing Steam Error on Windows: No More Blank Screens</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xr-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XR Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-charmap-problems-with-ease/"><u>Mending Windows CharMap Problems with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-graphics-shortage-on-enchanted-magic-school-platform/"><u>Overcoming Graphics Shortage on Enchanted Magic School Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-unresponsive-windows-webcam/"><u>Remedying Unresponsive Windows Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-taskbar-customization-with-portables/"><u>Simplifying Taskbar Customization with Portables</u></a></li>
-<li><a href="https://win11.techidaily.com/the-future-shaped-by-ai-at-microsofts-hub/"><u>The Future Shaped by AI at Microsoft's Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-issue-code-30005-failed-file-creation-on-windows/"><u>Troubleshooting Issue Code 30005 - Failed File Creation on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-gpu-potential-win-friendly-tools-ranked-1-6/"><u>Unleash GPU Potential: Win-Friendly Tools Ranked #1-#6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-gamers-pathway-to-impeccable-recordings-for-2024/"><u>[New] Gamers' Pathway to Impeccable Recordings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-transforming-drones-into-cinematic-experiences-with-editing/"><u>[New] In 2024, Transforming Drones Into Cinematic Experiences with Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-your-content-potential-with-youtubes-movie-maker/"><u>[Updated] In 2024, Unlock Your Content Potential with YouTube's Movie Maker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-elevating-your-google-meet-engagement-screen-sharing-tips/"><u>2024 Approved Elevating Your Google Meet Engagement Screen Sharing Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-headstarts-curated-spots-with-the-best-music-picks/"><u>2024 Approved Harmonic Headstarts Curated Spots with the Best Music Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-ai-imagery-via-paint-cocreator-on-win11/"><u>Creating AI Imagery via Paint Cocreator on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-updater-error-0x80246007-on-w10w11/"><u>Deciphering and Resolving Updater Error 0X80246007 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-recovery-guide-overcoming-pink-or-purple-windows-glitch/"><u>Desktop Recovery Guide: Overcoming Pink or Purple Windows Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hiding-your-drive-in-the-windows-1110-shadows/"><u>Hiding Your Drive in the Windows 11/10 Shadows</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-auto-color-adjustment-for-win11-applications/"><u>Mastering Auto-Color Adjustment for Win11 Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-correctly-interpret-task-managers-cpu-numbers/"><u>Methods to Correctly Interpret Task Manager's CPU Numbers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-video-file-types-optimized-for-iphones-and-android-devices-by-industry-experts/"><u>Top Video File Types Optimized for iPhones and Android Devices by Industry Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-business-communication-with-intel-unison-in-windows-11/"><u>Transforming Business Communication with Intel Unison in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-shots-with-photoshops-radial-distortion-for-2024/"><u>Unlock Creative Shots with Photoshop's Radial Distortion for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-googles-latest-creation-an-intimate-look-at-bard-the-cutting-edge-ai-chatbot/"><u>Unveiling Google's Latest Creation: An Intimate Look at Bard, The Cutting-Edge AI Chatbot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-exploration-making-and-investigating-system-reports/"><u>Windows Exploration: Making & Investigating System Reports</u></a></li>
 </ul></div>
 

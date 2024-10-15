@@ -1,7 +1,7 @@
 ---
 title: "Elevate Device Security: Increase Length of PINs on Win11/11"
-date: 2024-10-04T20:20:10.698Z
-updated: 2024-10-09T05:15:11.430Z
+date: 2024-10-11T13:29:32.918Z
+updated: 2024-10-15T01:07:49.774Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -81,22 +81,15 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
@@ -105,10 +98,23 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -119,29 +125,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/0-fastest-growing-youtube-channels-to-light-up-your-mind/"><u>[New] 10 Fastest Growing YouTube Channels to Light Up Your Mind</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-no-caps-lock-required-android-and-ios-downloader-hacks/"><u>[New] No Caps Lock Required Android and iOS Downloader Hacks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-audiencier-names-with-top-ai-tools/"><u>[New] Transforming Audiencier Names with Top AI Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-brain-mechanisms-guiding-high-stakes-business-conclusions/"><u>[Updated] In 2024, Brain Mechanisms Guiding High-Stakes Business Conclusions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-seamless-audio-junction-expert-logic-pro-x-tips/"><u>2024 Approved Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>2024 Approved The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-10-no-cost-software-for-professional-capture-at-home/"><u>2024 Approved Top 10 No-Cost Software for Professional Capture at Home</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-black-dashboard-for-professionals-reactive-crm-platform-using-reactstrap-and-bootstrap-v4-created-by-creative-tim/"><u>Advanced Black Dashboard for Professionals: Reactive CRM Platform Using Reactstrap and Bootstrap v4 - Created by Creative Tim</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-refresh-a-modern-take-on-windows-98-vibe/"><u>Classic Refresh: A Modern Take on Windows 98 Vibe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-and-fortify-dotnet-windows-style-max-156/"><u>Fix & Fortify DotNet, Windows Style (Max 156)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-disabled-firewall-in-windows-os/"><u>How to Reactivate Disabled Firewall in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-recover-pasting-functionality-in-top-browsers/"><u>How to Recover Pasting Functionality in Top Browsers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jest-jamboree-utilizing-comic-tools-for-free-for-2024/"><u>Jest Jamboree Utilizing Comic Tools for Free for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skytop-techniques-for-elevated-fps-in-roblox/"><u>Skytop Techniques for Elevated FPS in Roblox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-enhanced-win1011-system-graphics-memory/"><u>Step-by-Step to Enhanced Win10/11 System Graphics Memory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-and-restore-bluetooth-devices-on-win/"><u>Troubleshoot and Restore Bluetooth Devices on WIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-how-to-fix-the-no-server-error-in-pc-apex-legends-(156-chars/"><u>Unveiling Secrets: How to Fix the No-Server Error in PC Apex Legends (<156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-gamers-should-prioritize-dxvk-in-their-win-based-setup/"><u>Why Gamers Should Prioritize DXVK in Their Win-Based Setup?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +132,25 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-peeking-behind-the-scenes-deciphering-youtubes-unlisted-content/"><u>[New] In 2024, Peeking Behind the Scenes Deciphering YouTube's Unlisted Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-excellent-web-based-screen-capture-solutions/"><u>2024 Approved 10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>2024 Approved The Sky's Playground Discovering the Husqvarna X4 FPV</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/artistic-excellence-at-your-fingertesps-the-definitive-10-vector-editors-for-2024/"><u>Artistic Excellence at Your Fingertesps The Definitive 10 Vector Editors for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-analytics-and-marketing-solutions/"><u>Cookiebot-Enabled Analytics & Marketing Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-read-only-mode-for-windows-folders/"><u>Deactivating Read-Only Mode for Windows Folders</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hoe-u-kunt-de-winodlog-locatien-beheersen-in-wndows-10-top-4-afwijkingskundige-methoden/"><u>Hoe U Kunt De Winodlog Locatien Beheersen in Wndows 10: Top 4 Afwijkingskundige Methoden</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-numeric-key-icons-into-win11s-systray/"><u>Implementing Numeric Key Icons Into Win11's SysTray</u></a></li>
+<li><a href="https://win11.techidaily.com/initiate-15-approaches-to-system-controls/"><u>Initiate: 15 Approaches to System Controls</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/joining-the-twitter-community-from-scratch-for-2024/"><u>Joining the Twitter Community From Scratch for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-chrome-files-not-saving-on-windows/"><u>Strategies to Rectify Chrome Files Not Saving on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-messaging-with-emoji-15-on-windows-11/"><u>Streamline Messaging with Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-word-docs-converting-to-pdfs-with-windows-11/"><u>Streamline Your Word Docs: Converting to PDFs with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-tech-troubles-stopping-abrupt-program-quits-in-windows/"><u>Tackling Tech Troubles: Stopping Abrupt Program Quits in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-vs-2-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic Vs 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visionaries-window-transforming-windows-next-era/"><u>Visionaries' Window: Transforming Windows Next Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-map-to-entering-the-world-of-win-11-beta-testers/"><u>Your Map to Entering the World of Win 11 Beta Testers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Removing Unnecessary Items From Win 11 Menu
-date: 2024-09-11T08:51:08.652Z
-updated: 2024-09-17T08:31:52.466Z
+date: 2024-10-08T23:17:07.540Z
+updated: 2024-10-15T10:34:33.398Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 Next, restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -51,6 +58,13 @@ Next, restart your computer for the changes to take effect.
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
@@ -77,6 +91,19 @@ Next, restart your computer for the changes to take effect.
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -89,21 +116,14 @@ Next, restart your computer for the changes to take effect.
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
 4. Check the**Enable classic full context menus** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
@@ -123,5 +143,24 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-comparisons.techidaily.com/deshacerte-de-documentos-importantes-sin-querer-recupere-sus-archivos-urgentemente-ahora-mismo/"><u>¡Deshacerte De Documentos Importantes Sin Querer? ¡Recupere Sus Archivos Urgentemente Ahora Mismo!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[New] The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-revolutionize-your-intellect-with-these-15-yt-channels/"><u>[Updated] 2024 Approved Revolutionize Your Intellect with These 15 YT Channels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-game-capture-software-rivalry-obs-vs-shadowplay/"><u>[Updated] In 2024, Game Capture Software Rivalry OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-superior-wmv-merger-ultimate-guide-to-fusing-various-wmv-videos-into-a-single-file/"><u>1. Superior WMV Merger: Ultimate Guide to Fusing Various WMV Videos Into a Single File</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/a-complete-rundown-on-excellent-screen-recording-of-facetime-calls/"><u>A Complete Rundown on Excellent Screen-Recording of FaceTime Calls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-dell-wireless-network-drivers-for-windows-7-systems/"><u>Download Latest Dell Wireless Network Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-up-permadelete-features-using-customizable-windows-11-and-11-trash/"><u>How to Set Up PermaDelete Features Using Customizable Windows 11 & 11 Trash</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-non-functional-resource-monitor-apps-on-win11/"><u>How to Tackle Non-Functional Resource Monitor Apps on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-directory-restarts-for-distro-and-catroot2-in-ws11/"><u>Navigating Directory Restarts for Distro & Catroot2 in WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-fn-button-actions-in-windows-11/"><u>Personalizing FN Button Actions in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-and-ameliorating-unilateral-windows-audio-glitches/"><u>Pinpointing and Ameliorating Unilateral Windows Audio Glitches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/realign-correcting-hp-laserjet-pro-400-windows-drivers/"><u>Realign: Correcting HP LaserJet Pro 400 Windows Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-adjustments-for-enhanced-devices-with-windows-11/"><u>Streamlined Adjustments for Enhanced Devices with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stylish-practicality-asus-vivobook-s-15s-perfect-fusion/"><u>Stylish Practicality - ASUS Vivobook S 15'S Perfect Fusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11s-power-saving-features-for-swift-wake-up-times/"><u>Unveiling Windows 11'S Power-Saving Features for Swift Wake-Up Times</u></a></li>
+</ul></div>
 

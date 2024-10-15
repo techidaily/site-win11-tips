@@ -1,7 +1,7 @@
 ---
 title: Integrating WIN11 Sticky Notes on Multiple Platforms
-date: 2024-10-01T21:10:54.228Z
-updated: 2024-10-09T06:25:27.007Z
+date: 2024-10-13T08:54:10.145Z
+updated: 2024-10-14T20:15:19.662Z
 tags:
   - windows10
   - windows11
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
 
 Close
@@ -79,33 +72,39 @@ Close
 
  To create a new note, hit the plus icon in the bottom right corner of the screen. You’ll then see a display similar to the Sticky Notes app for Windows, including its text formatting options. One helpful tool is the camera button, which allows you to upload a photo from your camera or iOS photo album.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Use Your Windows Sticky Notes on Android Devices
 
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -119,24 +118,24 @@ Close
 
  To create a new sticky note, hit the three dots in the bottom right corner of the homepage. Then, tap **Create a Sticky Note**. The app includes many options featured on iOS, including the photo upload tool. You can change the note’s color by hitting the three dots in the top right corner. From the same menu, you can also tap the Export button to share sticky notes with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. How to Use Windows Sticky Notes Using Microsoft Launcher
 
 ![Sticky notes widget in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-widget-in-microsoft-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Sticky note window on Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-microsoft-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
@@ -159,28 +158,18 @@ Screenshot by author - Joe Brown
 
  Ensuring you are signed in to your Microsoft Account, you can access [Windows Sticky Notes in Outlook](https://www.onenote.com/stickynotes) directly, or you can sign in to Outlook and access the dedicated **Notes** tab. This can be found inside the Folders dropdown menu from the sidebar. For faster access to your sticky notes, you can hit the star icon next to the **Notes** title to add it to your favorites.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Windows Sticky Notes on Any Device and Boost Your Productivity
 
  If you’re in a rush and need to jot things down fast, Windows Sticky Notes is a great app for quick and easy note-taking. With these solutions, you don’t need to rely on keeping one device to take notes. Access sticky notes everywhere using this guide.
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-gear-up-essential-asmr-microphones-to-consider/"><u>[New] 2024 Approved Gear Up Essential ASMR Microphones to Consider</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-comprehensive-list-of-top-6-facebook-video-downloader-apps-for-2024/"><u>[New] Comprehensive List of Top 6 Facebook Video Downloader Apps for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-core-techniques-for-capturing-smartphone-content/"><u>[New] In 2024, Core Techniques for Capturing Smartphone Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-file-access-in-geforce-experience/"><u>Improving File Access in GeForce Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-vivas-video-experience/"><u>In 2024, Understanding Viva's Video Experience</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/obscure-your-wi-fi-networks-on-windows-pc/"><u>Obscure Your Wi-Fi Networks on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/open-tcpip-port-detection-techniques-on-windows-systems/"><u>Open TCP/IP Port Detection Techniques on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powershell-techniques-to-track-down-win-ipmac-info/"><u>PowerShell Techniques to Track Down Win IP/MAC Info</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/puzzled-by-snipits-shutdown-9-recovery-methods-unveiled/"><u>Puzzled by SnipIt's Shutdown? 9 Recovery Methods Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-onedrive-and-microsoft-account-connection-guide/"><u>Seamless OneDrive & Microsoft Account Connection Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,3 +178,25 @@ Screenshot by author - Joe Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-becoming-a-maestro-at-zoom-broadcasting-on-youtube/"><u>[New] Becoming a Maestro at Zoom Broadcasting on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-screen-saver-saviors-how-to-download-and-save-your-favorite-tweets/"><u>[New] In 2024, Screen Saver Saviors How to Download and Save Your Favorite Tweets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>[Updated] 2024 Approved The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-an-authentic-evaluation-of-recordcast-services/"><u>[Updated] In 2024, An Authentic Evaluation of RecordCast Services</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-techniques-for-accurate-ps3-playback-rendering/"><u>[Updated] In 2024, Techniques for Accurate PS3 Playback Rendering</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soundscapes-infusing-online-photographic-art/"><u>2024 Approved Soundscapes Infusing Online Photographic Art</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capture-the-moment-iphone-time-lapse-tutorial/"><u>Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-an-enhanced-run-tool-to-windows-11-and-11/"><u>How to Add an Enhanced Run Tool to Windows 11 & 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-m6-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco M6 5G Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-10-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 10 & 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-reactivating-the-silenced-obs-video-feed/"><u>In 2024, Reactivating the Silenced OBS Video Feed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-search-functionality-top-11-tips/"><u>Maximizing Windows 11 Search Functionality: Top 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-gaming-setup-with-playnite-and-emulators/"><u>Optimize Your Windows Gaming Setup with Playnite and Emulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-hack-for-flawless-rdc-connection/"><u>The Ultimate Windows 11 Hack for Flawless RDC Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-system-trays-with-personalized-weather-symbols-on-windows-11/"><u>Transforming System Trays with Personalized Weather Symbols on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-a-guide-to-instant-definition-lookup/"><u>Windows 11: A Guide to Instant Definition Lookup</u></a></li>
+</ul></div>
+

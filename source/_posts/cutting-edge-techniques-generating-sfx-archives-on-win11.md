@@ -1,7 +1,7 @@
 ---
 title: "Cutting Edge Techniques: Generating SFX Archives on Win11"
-date: 2024-10-06T08:26:10.417Z
-updated: 2024-10-09T01:32:41.865Z
+date: 2024-10-14T08:05:25.691Z
+updated: 2024-10-14T16:46:25.347Z
 tags:
   - windows10
   - windows11
@@ -66,21 +66,7 @@ Now we can get started using IExpress Wizard:
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
@@ -97,10 +83,10 @@ Now we can get started using IExpress Wizard:
 7. Click the**Archive** box’s ellipses button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Choose a folder to save the SFX archive in and click**Open** .
@@ -113,6 +99,13 @@ Testing the SFX File With 7-ZIP
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
@@ -120,13 +113,20 @@ Testing the SFX File With 7-ZIP
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -149,22 +149,19 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-synthesize-shots-the-photo-montage-methodology/"><u>[Updated] 2024 Approved Synthesize Shots The Photo Montage Methodology</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leveraging-influencer-networks-for-video-game-success-for-2024/"><u>[Updated] Leveraging Influencer Networks for Video Game Success for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-updater-error-0x80246007-in-windows-1011-os/"><u>Disabling Updater Error 0X80246007 in Windows 10/11 OS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-hp-envy-5660-drivers-quick-download-and-easy-installation-guide/"><u>Effortless HP Envy 5660 Drivers: Quick Download and Easy Installation Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/excellent-7-dslrs-elevating-live-stream-cinematic-style-for-2024/"><u>Excellent 7 DSLRs Elevating Live-Stream Cinematic Style for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hide-or-reveal-window-11s-clock-and-date/"><u>Hide or Reveal Window 11'S Clock & Date</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-11-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 11 & 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-civi-3-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Civi 3 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-make-taskview-harder-to-find-in-win-11/"><u>Methods to Make TaskView Harder to Find in Win 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-downloader-compatible-with-windows-1187-platforms/"><u>MPOW Bluetooth Drivers Downloader: Compatible with Windows 11/8/7 Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steam-auth-timeout-in-rust/"><u>Quick Fix for Steam Auth Timeout in Rust</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tests-verifying-webcam-and-microphone-on-windows-pcs/"><u>Quick Tests: Verifying Webcam & Microphone on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-impact-of-ignoring-win-11-notification-pushes/"><u>The Impact of Ignoring Win 11 Notification Pushes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-rainbow-six-siege-network-issues-steps-to-resolve-connections/"><u>Troubleshooting Your Rainbow Six Siege Network Issues: Steps to Resolve Connections</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-step-by-step-instructions-on-how-to-perform-a-nokia-nook-factory-reset/"><u>Ultimate Step-by-Step Instructions on How to Perform a NOKIA NOOK Factory Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-wonders-find-the-best-8-video-trimmer-apps-here/"><u>Window Wonders: Find the Best 8 Video Trimmer Apps Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-converting-your-clips-into-perfect-instagram-stories/"><u>[New] Converting Your Clips Into Perfect Instagram Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-views-prime-seo-equipment-for-videos/"><u>[New] Elevate Views Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pictorial-humor-ranking-10-memes-by-creativity/"><u>[Updated] Pictorial Humor Ranking #10 Memes by Creativity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-steps-to-adobe-audition-fade-in-for-2024/"><u>[Updated] Steps to Adobe Audition Fade In for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-gaming-and-productivity-top-6-gpu-load-checkers-in-windows/"><u>Essential Gaming & Productivity: Top 6 GPU Load Checkers in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-top-pick-by-apple-today/"><u>Global Top Pick by Apple Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi Note 13 5G Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-15-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 15 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-the-load-strategies-to-reduce-ums-impact-on-your-system/"><u>Lowering the Load: Strategies to Reduce UMS Impact on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-vintage-boot-settings-on-windows/"><u>Restoring Vintage BOOT Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-directx-setup-for-your-gaming-experience/"><u>Streamlining DirectX Setup for Your Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-fullscreen-fiasco-fixing-glitches-in-sonic-adventure-w11/"><u>Unraveling the Fullscreen Fiasco: Fixing Glitches in Sonic Adventure (W11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-hello-vulnerability-should-we-trust-our-fingerprints/"><u>Windows Hello Vulnerability: Should We Trust Our Fingerprints?</u></a></li>
 </ul></div>
 

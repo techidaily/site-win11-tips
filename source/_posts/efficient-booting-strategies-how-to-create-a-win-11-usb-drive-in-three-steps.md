@@ -1,7 +1,7 @@
 ---
 title: Efficient Booting Strategies – How to Create a Win 11 USB Drive in Three Steps
-date: 2024-10-07T00:10:00.802Z
-updated: 2024-10-09T03:53:10.922Z
+date: 2024-10-08T09:47:32.250Z
+updated: 2024-10-14T16:14:46.492Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 7. Your download will begin immediately. However, it may take some time to finish downloading, depending on your Internet speed.
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
@@ -86,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 3. In the **Choose which media to use** window, select **USB flash** drive.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Next** button.
@@ -107,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
  Media Creation Tool will now download the necessary Windows 11 files and create an installation media. When the "your USB flash drive is ready" message appears, click the **Finish** button to close the setup wizard. Now you can boot from the USB drive to troubleshoot or [clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Create a Bootable Drive Using Command Prompt
@@ -121,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 2. Press the **Win** key, type cmd, **and** click on **Run as Administrator** under **Command Prompt.** You can also use PowerShell if you prefer it over Command Prompt.  
 ![disk part windows 11 bootable drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disk-part-windows-11-bootable-drive.png)
 3. In the Command Prompt window, type the following command and hit enter to launch the **Windows Diskpart** utility.  
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `DISKPART`
 4. Next, type the following command to list all the available storage devices:  
@@ -162,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 3. Once the ISO is mounted, type the following command to launch Diskpart.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Diskpart`
@@ -185,19 +179,20 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 5. In the above command, replace **I** with the drive letter associated with your USB flash drive.  
 ![copy iso files to usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/copy-iso-files-to-usb-drive.png)
 6. Next, type the following command and hit Enter to copy Windows 11 system files to the USB flash drive:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `xcopy J:\*.* I:\ /E /F /H`
 7. In the above command, replace **K:** and **I:** with your **Mounted ISO Volume** and **USB drive** letter, respectively.
 8. The process may take a 5-10 minutes to complete. If the Command Prompt feels stuck, it is normal behaviour, so wait until the process is complete.
 9. If successful, you will see a **Files (s) Copied** message.
 
  That’s it. Now you can use the USB bootable drive to clean install Windows 11\.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multiple Ways to Create a Windows 11 Bootable USB Drive
 
@@ -207,27 +202,6 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-footage-into-high-quality-content/"><u>[New] Transforming Footage Into High-Quality Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-clear-and-consistent-slug-lines/"><u>[Updated] 2024 Approved Crafting Clear and Consistent Slug Lines</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-marvels-avengers-film-insightful-evaluation-and-reviews/"><u>Decoding Marvel's Avengers Film: Insightful Evaluation and Reviews</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-experience-outlook-preview-for-windows-11-enthusiasts/"><u>Optimize Your Experience: Outlook Preview for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-cinematography-on-the-go-top-smartphones-with-ois-for-2024/"><u>Perfecting Cinematography on the Go Top Smartphones with OIS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-ethernet-connectivity-on-windows/"><u>Re-Establishing Ethernet Connectivity on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-default-view-configurations-in-windows/"><u>Reinstating Default View Configurations in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-non-transferring-usb-cases-in-the-windows-environment/"><u>Remedying Non-Transferring USB Cases in the Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-your-invisible-connection-on-microsofts-new-os/"><u>Resurrecting Your Invisible Connection on Microsoft's New OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-blocking-insecure-device-connections-on-windows/"><u>Tips for Blocking Insecure Device Connections on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-free-window-11-themes-enhance-your-desktop-aesthetics/"><u>Top 15 Free Window 11 Themes: Enhance Your Desktop Aesthetics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-effortless-libdvdcss-integration-for-handbrake-on-macwindows-11-plus-illustrated-instructions/"><u>Ultimate Tutorial: Effortless Libdvdcss Integration for HandBrake on Mac/Windows 11 + Illustrated Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-secrets-to-flawless-subtitle-display-on-windows-11/"><u>Uncover the Secrets to Flawless Subtitle Display on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-greyed-out-bin-fixes-on-win11/"><u>Undoing Greyed Out Bin Fixes on Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -235,3 +209,18 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-choruscheck-live-audio-critique/"><u>[New] In 2024, ChorusCheck Live Audio Critique</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snappy-business-ideas-for-profit/"><u>[New] In 2024, Snappy Business Ideas for Profit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>[Updated] In 2024, The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-black-screen-issue-in-windows-remote-pc/"><u>Correcting Black Screen Issue in Windows Remote PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-your-steam-symbols/"><u>How to Reinstate Your Steam Symbols</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-upload-a-video-from-imovie-to-youtube-in-2024/"><u>How to Upload a Video From iMovie to YouTube, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/struggling-with-windows-11-upgrade-heres-what-you-can-do-instead/"><u>Struggling with Windows 11 Upgrade? Here’s What You Can Do Instead</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-offline-steam-servers-a-guide-to-windows-error-resolution/"><u>Tackling Offline Steam Servers: A Guide to Windows Error Resolution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-monetization-how-to-apply-for-the-youtube-partner-program-2024/"><u>Unlock Monetization How to Apply for the YouTube Partner Program 2024</u></a></li>
+</ul></div>
+

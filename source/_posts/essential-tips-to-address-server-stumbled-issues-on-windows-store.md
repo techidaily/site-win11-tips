@@ -1,7 +1,7 @@
 ---
 title: Essential Tips to Address Server Stumbled Issues on Windows Store
-date: 2024-10-02T06:32:26.618Z
-updated: 2024-10-08T19:13:45.760Z
+date: 2024-10-12T23:05:48.729Z
+updated: 2024-10-14T19:33:36.608Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
  The steps for opening the same troubleshooter in Windows 10 aren’t exactly the because of the Settings app’s different layout. You’ll need to click**Update & Security** \>**Troubleshoot** \>**Additional Troubleshooters** in Windows 10’s Settings app. Click Windows Store Apps to press a**Run the troubleshooter** button that opens that troubleshooting tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check the Date & Time Settings on Your PC
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 4. Press the**Sync now** button to synchronize with the Windows time server.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Start or Restart the Windows Update Service
@@ -79,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 ![The Windows Update Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-properties-window.jpg)
 7. Click**OK** or the**X** button to exit Windows Update’s properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart Windows Update if you find that the service is already running with an**Automatic** startup set. You can do that by clicking Windows Update with your mouse’s right button and selecting**Restart** . Or select**Stop** and then**Start** within its properties window.
 
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Microsoft Store Cache
 
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 ![The wsreset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Proxy Server Settings
@@ -113,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Set Up a Connection to Google's DNS Servers
 
  The “server stumbled” error message highlights that the error could be linked to your PC’s DNS (Domain Name System) server. So, changing to a more reliable public server like Google DNS is a potential resolution that could feasibly work for some users.
@@ -128,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Disable Any Active Third-Party Security Software
 
  Third-party security software packages that incorporate antivirus shields and firewalls can interfere with MS Store’s network connection. The firewall components of security apps will more likely do so since they monitor inbound and outbound network traffic. So, try temporarily disabling a firewall within any third-party security installed on your PC before opening MS Store.
@@ -135,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
  However, don’t rule out the possibility that an antivirus component of an installed third-party security app could also be causing the “server stumbled” error. You can usually disable an antivirus shield by right-clicking the security software’s system tray icon and selecting a turnoff option.
 
  Should this troubleshooting method work, you don’t necessarily need to leave your security software disabled or uninstall it. Instead, add MS Store to the firewall’s allowed app list within your antivirus software. In addition, add that app to the antivirus component’s whitelist.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Enable TLS
 
@@ -156,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Download and Install Apps From the Microsoft Store Again
 
  Many users have stopped the “server stumbled” error crashing MS Store by applying the potential fixes outlined above. So, there’s a strong likelihood that one of those resolutions will get that issue sorted on your Windows 11/10 PC. Then you can get back to downloading and installing apps from Microsoft Store.
@@ -182,24 +182,22 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-capturing-the-essence-of-facetime-on-facebook/"><u>[New] In 2024, Capturing the Essence of FaceTime on Facebook</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-ajeys-youtube-earnings-insight-2023/"><u>2024 Approved Ajey's YouTube Earnings Insight - 2023</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149968116-anticipated-ruling-by-social-medias-governance-authority-on-trump/"><u>Anticipated Ruling by Social Media’s Governance Authority on Trump.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-methods-to-wi-fi-erase-on-windows-11/"><u>Essential Methods to Wi-Fi Erase on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-no-supported-device-for-windows-hello-login/"><u>Fixing 'No Supported Device' For Windows Hello Login</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-activate-w11s-rapid-assistance-feature/"><u>How to Activate W11's Rapid Assistance Feature</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-max-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro Max to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interpreter-invasion-ais-battle-for-clarity/"><u>Interpreter Invasion: AI's Battle for Clarity</u></a></li>
-<li><a href="https://discover-help.techidaily.com/mastering-the-art-of-mp4-subtitling-a-comprehensive-tutorial/"><u>Mastering the Art of MP4 Subtitling: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-win11-like-a-pro-with-powerful-command-shortcuts/"><u>Navigate Win11 Like a Pro with Powerful Command Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstate-missing-sound-configuration-in-windows-10/"><u>Reinstate Missing Sound Configuration in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-11-unpacking-error-code-0xc1900101/"><u>Solving Windows 11: Unpacking Error Code 0xC1900101</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-portaudio-fault-in-audacity-windows-11/"><u>Steps to Rectify PortAudio Fault in Audacity, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-debugging-made-easy-locating-and-resolving-error-codes-via-the-power-of-command-prompt/"><u>System Debugging Made Easy: Locating and Resolving Error Codes via the Power of Command Prompt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-worsening-dilemma-understanding-8-crucial-reasons-for-escalating-generative-ai-safety-issues/"><u>The Worsening Dilemma: Understanding 8 Crucial Reasons for Escalating Generative AI Safety Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-frozen-lol-startup/"><u>Troubleshooting Frozen LOL Startup</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-netgear-orbi-rbs50y-transforming-your-outdoor-internet-experience/"><u>Ultimate Guide to Netgear Orbi RBS50Y: Transforming Your Outdoor Internet Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-chart-ppt-to-video-tools/"><u>[Updated] 2024 Approved Best Chart PPT to Video Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-synchronizing-social-channels-transferring-fb-videos-on-whatsapp/"><u>2024 Approved Synchronizing Social Channels Transferring FB Videos on WhatsApp</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blur-the-boundaries-techniques-to-mask-faces-in-photos-for-2024/"><u>Blur the Boundaries Techniques to Mask Faces in Photos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-identify-your-macbooks-make-and-model-with-these-simple-steps/"><u>Easily Identify Your MacBook's Make and Model with These Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-device-security-increase-length-of-pins-on-win1111/"><u>Elevate Device Security: Increase Length of PINs on Win11/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-amateur-to-pro-excelling-at-instagram-editing-for-2024/"><u>From Amateur to Pro Excelling at Instagram Editing for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy M14 4G Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-non-functional-resource-monitor-apps-on-win11/"><u>How to Tackle Non-Functional Resource Monitor Apps on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exclusive-preview-cut-compilation/"><u>In 2024, Exclusive Preview Cut Compilation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-selection-of-free-high-definition-software-for-both-oss/"><u>In 2024, Superior Selection of Free, High-Definition Software for Both OS's</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-directory-restarts-for-distro-and-catroot2-in-ws11/"><u>Navigating Directory Restarts for Distro & Catroot2 in WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typing-delay-7-tricks-for-windows-1011/"><u>Overcoming Typing Delay: 7 Tricks for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-remote-links-fixing-disconnected-devices-on-pc/"><u>Restoring Remote Links: Fixing Disconnected Devices on PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/roku-or-fire-tv-stick-a-consumers-guide-to-selecting-a-streaming-device/"><u>Roku or Fire TV Stick? A Consumer's Guide to Selecting a Streaming Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-adjustments-for-enhanced-devices-with-windows-11/"><u>Streamlined Adjustments for Enhanced Devices with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stylish-practicality-asus-vivobook-s-15s-perfect-fusion/"><u>Stylish Practicality - ASUS Vivobook S 15'S Perfect Fusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-securing-your-telnet-connection-in-wins-1011/"><u>The Ultimate Guide: Securing Your Telnet Connection in Wins 10/11</u></a></li>
 </ul></div>
 

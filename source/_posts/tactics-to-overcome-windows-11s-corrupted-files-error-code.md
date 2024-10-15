@@ -1,7 +1,7 @@
 ---
 title: Tactics to Overcome Windows 11'S Corrupted Files Error Code
-date: 2024-10-07T02:33:24.794Z
-updated: 2024-10-08T20:11:39.931Z
+date: 2024-10-13T16:42:26.694Z
+updated: 2024-10-15T02:55:33.090Z
 tags:
   - windows10
   - windows11
@@ -31,18 +31,18 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Utilize the Check Disk Tool
 
  Drive file system issues often cause error 0x80070570\. The most widely confirmed solution for that error is to run a CHKDSK scan of the drive you can’t delete files on or transfer files to. The CHKDSK tool can repair file system errors on the drive it’s scanning.
 
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Our [guide to running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) tells you how to initiate a Check Disk scan. You’ll need to run the Check Disk scan for the drive that includes the files you can’t delete or copy to. If that’s an external drive, you’ll need to connect the storage device to the PC and specify its letter within the command. For example, a CHKDSK command for scanning an external E: drive would be:
 
@@ -53,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Real-Time Antivirus Shields
@@ -71,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Perform a Startup Repair
 
  This resolution is recommended if error 0x80070570 occurs when trying to delete files on the C: hard drive or transfer them there. Startup Repair is primarily a utility for fixing Windows startup issues. However, that tool can remedy corrupted system files and C: drive issues. This is how you can utilize Startup Repair:
@@ -82,56 +95,26 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 4. Input your user account password.
 5. Select **Continue** to initiate the repair.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Format an External Drive
 
  Formatting an affected external drive to which you can’t transfer files or delete data because of error 0x80070570 is suggested only as a last resort. Applying this potential fix will wipe all data on the drive, so do not format your PC’s C: drive. However, some users have confirmed formatting affected external drives fixes error 0x80070570\.
 
 ![The format drive utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-format-tool.jpg)
 
- You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
 
 ## Perform the Required File Operations Again on Windows
 
  The potential error 0x80070570 solutions covered here have worked for many Windows 11/10 users. Repairing drive errors with the CHKDSK tool usually does the trick. You could also utilize a third-party utility like Hard Disk Sentinel and HDDScan to check for and repair drive issues. With error 0x80070570 fixed, you can copy or delete files as required again.
 
  Consequently, you can’t delete or copy files on drives affected by error 0x80070570\. It is an error code that predates Windows 8, but many users still encounter this issue on the latest Windows desktop platforms. As such, here is how you can fix error 0x80070570 on Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-viral-power-couple-tiktok-and-twitter-trends-for-2024/"><u>[New] The Viral Power Couple TikTok & Twitter Trends for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-turn-your-video-content-into-revenue-the-vimeo-monetization-way-for-2024/"><u>[New] Turn Your Video Content Into Revenue The Vimeo Monetization Way for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>2024 Approved Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-und-tangro-steigern-sie-die-prozesssicherheit-im-dokumenteneingang-fur-ein-nahtloses-management/"><u>ABBYY Und Tangro®: Steigern Sie Die Prozesssicherheit Im Dokumenteneingang Für Ein Nahtloses Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-short-term-rise-in-game-pass-costs-quick-hacks/"><u>Beat Short-Term Rise in Game Pass Costs - Quick Hacks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-the-official-epson-et-2750-printer-driver-for-windows-computers/"><u>Download and Install the Official Epson ET-2750 Printer Driver for Windows Computers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-can-i-share-videos-to-instagram-for-2024/"><u>How Can I Share Videos to Instagram for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-engage-clipboard-utility-within-microsoft-edges-app-guard-for-windows-11/"><u>How to Engage Clipboard Utility Within Microsoft Edge's App Guard for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-halt-screen-flashes-on-windows-11-devices/"><u>How to Halt Screen Flashes on Windows 11 Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stopping-auto-capture-in-apples-recorder/"><u>In 2024, Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innocuous-looking-apps-notorious-for-slowing-down-pcs/"><u>Innocuous-Looking Apps, Notorious for Slowing Down PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-non-starting-display-on-windows-11-pc/"><u>Overcoming Non-Starting Display on Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/patching-up-a-purple-problem-desktop-restoration-steps/"><u>Patching Up a Purple Problem: Desktop Restoration Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/principles-of-evolving-media-artistry/"><u>Principles of Evolving Media Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-stop-vscode-from-crashing-w11/"><u>Quick Fixes to Stop VSCode From Crashing W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-lsa-error-local-sec-admin-disabled-alert/"><u>Resolving LSA Error: Local Sec Admin Disabled Alert</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-constructing-a-histogram-using-microsoft-excel/"><u>Step-by-Step Guide: Constructing a Histogram Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-windows-hello-fingerprints/"><u>Step-by-Step Guide: Implementing Windows Hello Fingerprints</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-launch-failure-of-obs-studio/"><u>Strategies to Solve Launch Failure of OBS Studio</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +123,25 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-master-class-extracting-and-saving-vimeo-videos/"><u>[New] In 2024, Master Class Extracting and Saving Vimeo Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-trend-driven-infographics-the-leaders-in-23/"><u>[New] In 2024, Trend-Driven Infographics The Leaders in '23</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[New] Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>[Updated] In 2024, Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flac-wav-movavi/"><u>免費線上FLAC-WAV對換服務 - Movavi轉換工具解決方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-wi-fi-networks-usage-meter-settings-on-windows-11/"><u>Configuring Wi-Fi Network's Usage Meter Settings on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-webcams-invisible-screen-problem/"><u>Correcting Webcam's Invisible Screen Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-advanced-protection-implementing-ms-defender-for-edge-browser/"><u>Enable Advanced Protection: Implementing MS Defender for Edge Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-location-of-your-onedrive-folder-in-windows-11/"><u>How to Change the Location of Your OneDrive Folder in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-a-resource-removing-occupied-files-message-on-windows-154-chars/"><u>How to Unlock a Resource: Removing Occupied Files Message on Windows (154 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-refusal-to-unfold-with-double-clicks/"><u>Overcoming Windows' Refusal to Unfold with Double-Clicks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-peak-time-chatgpt-capacity-crash/"><u>Resolving Peak-Time ChatGPT Capacity Crash</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-recurrent-login-issues-with-microsoft-teams/"><u>Solving Recurrent Login Issues with Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-10-audio-amplifiers-enhance-your-devices-sonic-experience-android-and-ios/"><u>Top 10 Audio Amplifiers Enhance Your Devices Sonic Experience (Android & iOS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-pc-for-multimedia-mastery-adopt-tdarr-for-transcoding/"><u>Turbocharge Your PC for Multimedia Mastery - Adopt Tdarr for Transcoding</u></a></li>
+</ul></div>
+

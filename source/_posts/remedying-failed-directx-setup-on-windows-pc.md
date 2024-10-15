@@ -1,7 +1,7 @@
 ---
 title: Remedying Failed DirectX Setup on Windows PC
-date: 2024-10-06T21:56:59.391Z
-updated: 2024-10-08T16:04:52.820Z
+date: 2024-10-14T13:13:34.230Z
+updated: 2024-10-15T05:39:23.658Z
 tags:
   - windows10
   - windows11
@@ -31,24 +31,18 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  However, some users have reported experiencing the error under discussion when installing DirectX on a standard account, despite granting administrative rights. So, before applying further fixes, please switch to your administrator account if you are signed in with a standard user account.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ensure You're Connected to the Internet
 
  Since the error message suggests checking your internet connection, make sure your device is connected to the internet and that it is functioning properly. To confirm that, go to your preferred web browser and search for anything. If the search process goes successfully and search results appear, your device is connected to the internet.
 
  However, if you encounter an error while searching on a browser, there could be a problem with your internet connection. In that case, refer to our guide for[Windows 11 Wi-Fi problems](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/) , assess which problem is relevant to your situation, and apply the appropriate fixes. If the error was caused due to an unstable or inaccessible internet, restoring your connectivity will resolve it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable and Re-enable Your Network Connection
 
@@ -61,20 +55,15 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 4. Click the**Disable** button next to the internet connection you are using.  
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
-![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
@@ -89,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 netsh winsock reset`
 
 ![Run Certain Commands in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-certain-commands-in-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##
 
@@ -115,13 +97,6 @@ netsh winsock reset`
 
  If the framework is already installed, you should repair it once. This step will prevent corrupted framework files from causing problems when installing DirectX. Need help repairing it? Check out our guide on[how to repair the .NET framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Install DirectX Using DXSetup
 
  If you employ the above fixes properly, your DirectX setup should install successfully without any problems. If you encounter the same error again, try this simple trick:
@@ -130,10 +105,26 @@ netsh winsock reset`
 2. After that, create a new folder on your Windows desktop and name it whatever you want.  
 ![Create and Rename the New Folder on Windows Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-create-and-rename-the-new-folder-on-windows-desktop.jpg)
 3. Then, go to the folder where you downloaded DirectX.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run the setup file and accept the agreement by clicking**Yes** .
 5. Click**Browse** and select the location of the folder on your desktop. Click**OK** after selecting it.  
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
 6. Then, click**OK** in the**DirectX** window, and its files will be extracted to the desktop folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click OK in the DirectX Installation Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-click-ok-in-the-directx-installation-window.jpg)
 7. Now, locate**DXSetup** in the folder.  
 ![Locate DXSetup File in the DirectX Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-locate-dxsetup-file-in-the-directx-folder-in-windows-file-explorer.jpg)
@@ -142,10 +133,10 @@ netsh winsock reset`
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Successfully Install DirectX on Your Windows Machine
@@ -167,22 +158,22 @@ netsh winsock reset`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enhancing-photo-stability-with-the-right-gimbal/"><u>[New] In 2024, Enhancing Photo Stability with the Right Gimbal</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-complete-guide-to-aspect-ratios-about-youtube-videosshortsads-for-2024/"><u>[Updated] Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-for-a-non-opening-command-prompt-window/"><u>Bridging the Gap for a Non-Opening Command Prompt Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-through-win11s-disconnecting-gifs-dilemma-fixes-in-discord/"><u>Cutting Through Win11's Disconnecting GIFs Dilemma: Fixes in Discord</u></a></li>
-<li><a href="https://extra-information.techidaily.com/examining-if-reviewers-get-payed/"><u>Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-techniques-to-manage-windows-key-settings/"><u>Expert Techniques to Manage Windows Key Settings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro-for-2024/"><u>Expert Tips for Efficient Music Integration in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-clutter-spot-and-reduce-big-file-usage-windows/"><u>How to Cut Down Clutter: Spot and Reduce Big File Usage Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-connect-and-sync-multiple-bluetooth-speakers-for-optimal-sound/"><u>How to Easily Connect and Sync Multiple Bluetooth Speakers for Optimal Sound</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-usb-security-in-modern-operating-systems/"><u>Optimizing USB Security in Modern Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-windows-touchpad-commands/"><u>Restoring Functionality to Windows Touchpad Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-pc-efficiently-eliminate-extra-software-on-win11/"><u>Revamp Your PC: Efficiently Eliminate Extra Software on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-of-setting-up-pc-manager-on-windows-11/"><u>The Essentials of Setting Up PC Manager on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-clearing-up-windows-update-jams/"><u>The Ultimate Guide to Clearing Up Windows Update Jams</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-to-the-newest-geforce-rtx-3090-drivers-compatible-with-multiple-windows-versions/"><u>Update to the Newest GeForce RTX 3090 Drivers - Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-pro-the-ultimate-guide-to-capturing-your-world-for-2024/"><u>[New] ScreenSnapper Pro The Ultimate Guide to Capturing Your World for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-portable-gba-players-on-android/"><u>[Updated] 2024 Approved Premier Portable GBA Players on Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook-for-2024/"><u>[Updated] Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-c55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme C55 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728479744113-windows-11108/"><u>修正：Windows 11、10和8中的磁碟機不能成功用於备份目的</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-admin-username-on-windows-11-step-by-step-guide/"><u>Altering Admin Username on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diminish-noise-restoring-your-keys-sound-functionality/"><u>Diminish Noise: Restoring Your Key's Sound Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-device-safety-increase-win11-pin-length/"><u>Elevate Your Device Safety: Increase Win11 PIN Length</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-on-menus-in-windows-11/"><u>How to Cut Down on Menus in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-12-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-note-30-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Note 30 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-configuration-basics/"><u>Mastering Windows Terminal Configuration Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-tom-a-hardware-journey/"><u>Navigating the World of Tech with Tom: A Hardware Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-up-your-device-instantly-mastering-win-11s-double-clicked-apk-method/"><u>Power Up Your Device Instantly: Mastering Win 11'S Double-Clicked APK Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-pathways-open-directory-games-in-windows/"><u>The Hidden Pathways: Open Directory Games in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/triumph-over-print-issue-winerror-0x00000709-remedied/"><u>Triumph Over Print Issue: WinError 0X00000709 Remedied</u></a></li>
 </ul></div>
 

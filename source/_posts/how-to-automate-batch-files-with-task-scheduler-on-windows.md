@@ -1,7 +1,7 @@
 ---
 title: How to Automate Batch Files With Task Scheduler on Windows
-date: 2024-10-02T18:16:27.983Z
-updated: 2024-10-09T04:12:12.531Z
+date: 2024-10-08T00:19:02.059Z
+updated: 2024-10-15T07:13:41.788Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 ![the Task Schedular on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-schedular-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Give the task a descriptive name and then click on **Next**. The **Description** part is optional, but it's good practice to fill it in so you don't forget what the task does.
@@ -53,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 ![creating a basic task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/creating-a-basic-task-in-task-scheduler-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pick a trigger, which is when you want the task to run, by clicking on the appropriate radio button, and then click on **Next**. In our example, we picked **Daily**, meaning we want to run the task every day.
 
 ![choosing a trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-trigger-in-task-scheduler.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Each trigger has its own parameters that you need to set. For the **Daily** trigger, you have to pick the day and time it starts, as well as how many days the task will recur. Once you set those, click **Next**.
 
@@ -78,18 +71,25 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
 ![choosing an action in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-an-action-in-task-scheduler.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under **Program/Script** click on **Browse**, select the batch file you want to automate, and then click on **Next**.
 
 ![choosing a program or script to automate in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-a-program-or-script-to-automate-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Removing the Batch File From the Task Scheduler
 
@@ -109,23 +109,6 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-15-youtube-recording-software-for-gamers/"><u>[Updated] In 2024, Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726227939872-m4vwav-movavi/"><u>網路直接免費M4V到WAV過渡 - 利用 Movavi 進行影片格式切換</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-hide-taskbars-search-in-windows-11/"><u>Expert Tips: Hide Taskbar's Search in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-narzo-60x-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme Narzo 60x 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-find-and-replace-outdated-windows-drivers/"><u>How to Find and Replace Outdated Windows Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone XS Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge/"><u>In 2024, Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/relish-in-9-festive-full-length-films-exclusive-youtube-offering-for-2024/"><u>Relish in 9 Festive, Full-Length Films Exclusive YouTube Offering for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-absence-of-files-alerts-in-windows-11/"><u>Remedying Absence of Files Alerts in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-stuck-windows-update-problems-now/"><u>Resolving Stuck Windows Update Problems Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-supercharging-your-windows/"><u>The Ultimate Guide to Supercharging Your Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-adventures-await-in-latest-windows-10-gaming-and-apps/"><u>Virtual Adventures Await in Latest Windows 10 Gaming & Apps</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +116,20 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-embrace-classic-gaming-leading-ps3-tools-for-pcs/"><u>[New] Embrace Classic Gaming Leading PS3 Tools for PCs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences-for-2024/"><u>[New] Unveiling the Art of Video Crafting on PC for YouTube Audiences for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-pursuit-of-perfection-stepwise-processes-for-outstanding-educational-content-on-youtube/"><u>[Updated] In Pursuit of Perfection Stepwise Processes for Outstanding Educational Content on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco X6 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-snapchat-communication-decoding-common-emoji-meanings-at-a-glance/"><u>Mastering Snapchat Communication: Decoding Common Emoji Meanings at a Glance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-mastery-best-apps-for-iphone-and-android/"><u>New Stop Motion Mastery Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728478814619-onedrive6/"><u>OneDriveへのログイン失敗を解消するための6つの方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-post-update-glitches-in-windows-discord/"><u>Overcoming Post-Update Glitches in Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-duplicated-name-errors-in-local-network-setup/"><u>Preventing Duplicated Name Errors in Local Network Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-windows-folders-how-to-enforce-access-controls/"><u>Securing Windows Folders: How to Enforce Access Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-mystery-of-wows-abrupt-stoppage-error-132-on-win11/"><u>Uncovering the Mystery of WoW’s Abrupt Stoppage (Error 132) on Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content-for-2024/"><u>Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tray Upgrade Guide: Custom Resource Monitoring Options"
-date: 2024-10-02T07:39:45.019Z
-updated: 2024-10-09T01:46:09.437Z
+date: 2024-10-14T02:46:52.415Z
+updated: 2024-10-15T03:07:25.579Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
@@ -93,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![The Express Installation radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-express-installation-option.jpg)
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
 
@@ -110,39 +110,24 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ![The settings for System Explorer's system resource panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-for-the-system-explorer-s-system-resource-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## View Your System Resource Usage Info Directly From Your System Tray
 
  It’s always a good idea to keep an eye on CPU and RAM utilization to check you’re not overloading your PC, which impacts system performance. System resource usage details will be much more visible when added to the Windows system tray with Task Manager, Performance Monitor, and System Explorer. To have such computer resource info within the system tray is undoubtedly more convenient for monitoring system resource usage.
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-optimize-your-content-for-higher-views-and-more-likes/"><u>[New] In 2024, How to Optimize Your Content for Higher Views and More 'Likes'</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sweet-screen-snatcher-examination-in-depth/"><u>[New] In 2024, Sweet Screen Snatcher Examination In-Depth</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/boost-your-macs-storage-top-10-fast-track-tricks-for-space-optimization/"><u>Boost Your Mac's Storage: Top 10 Fast-Track Tricks for Space Optimization</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-the-password-reset-counter-in-windows-11-and-11-after-fails/"><u>Fine-Tuning the Password Reset Counter in Windows 11 and 11 After Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-your-usb-active-disabling-hibernation-in-win-11/"><u>Keep Your USB Active: Disabling Hibernation in Win 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-the-chaos-the-best-free-online-glitch-effect-makers/"><u>New 2024 Approved Unleash the Chaos The Best Free Online Glitch Effect Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-lost-power-options-in-ws-11-interface/"><u>Reviving Lost Power Options in WS 11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-methods-for-naming-and-arranging-window-writings-max-156/"><u>Streamlined Methods for Naming and Arranging Window' Writings (Max 156)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/swiftly-switch-songs-in-yt-playlist-heres-how-for-2024/"><u>Swiftly Switch Songs in YT Playlist, Here's How for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-potential-on-app-and-browser/"><u>Unlocking Windows' Potential on App & Browser</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +136,27 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-end-methods-for-monitoring-and-recording-pc-sounds/"><u>[New] High-End Methods for Monitoring and Recording PC Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-digitize-and-organize-with-mematic/"><u>[New] In 2024, Digitize and Organize with Mematic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-11-theme-barriers-using-registry/"><u>Breaking Through Windows 11 Theme Barriers Using Registry</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-driven-website-personalization-and-analytics/"><u>Cookiebot-Driven Website Personalization and Analytics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-reasons-to-never-turn-off-your-windows-11-push-notifications/"><u>Discover Reasons to Never Turn Off Your Windows 11 Push Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-firewall-essential-fixes-for-a-shutdown-system/"><u>Enabling Firewall: Essential Fixes for a Shutdown System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-sharing-capabilities-in-geforce/"><u>Enhancing File-Sharing Capabilities in GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-responsiveness/"><u>Enhancing Windows 11 Taskbar Responsiveness</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xls files</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-a2-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A2 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-external-disk-into-explorer-nav-pane/"><u>Incorporating External Disk Into Explorer Nav Pane</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/put-a-halt-on-application-start-tracking-in-windows/"><u>Put a Halt on Application Start-Tracking in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-your-live-stream-with-hp-laptops-webcam/"><u>Recording Your Live Stream with HP Laptop's Webcam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-version-of-noctuas-nh-d15-g2-now-features-quieter-operation-and-extra-cooling-fins/"><u>Revamped Version of Noctua's NH-D15 G2 Now Features Quieter Operation & Extra Cooling Fins</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-keeping-your-amd-gpu-updated-in-windows-environments/"><u>Step-by-Step Guide: Keeping Your AMD GPU Updated in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-file-denial-in-steam-for-windows-11-users/"><u>Tackling File Denial in Steam for Windows 11 Users</u></a></li>
+</ul></div>
+

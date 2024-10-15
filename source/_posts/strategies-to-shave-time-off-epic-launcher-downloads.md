@@ -1,7 +1,7 @@
 ---
 title: Strategies to Shave Time Off Epic Launcher Downloads
-date: 2024-09-11T22:00:38.329Z
-updated: 2024-09-16T20:16:46.796Z
+date: 2024-10-09T14:33:11.531Z
+updated: 2024-10-14T17:13:44.357Z
 tags:
   - windows10
   - windows11
@@ -57,8 +57,30 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 2. Click the **profile icon** in the top right corner and select **Settings**.  
 ![Open Settings in the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-open-settings-in-the-epic-games-launcher.jpg)
 3. Make sure that the box beside **Throttle Downloads** isn't checked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If it was checked before, click the box once to uncheck it.  
 ![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
@@ -72,19 +94,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 4. Right-click on this process, navigate to **Set Priority,** and select **High**.  
 ![Change the Priority of the Epic Games Launcher Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-change-the-priority-of-the-epic-games-launcher-process-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clear Epic Games Launcher's Cache
 
  The Epic Games Launcher keeps some data in its cache, which makes it easier for the client to find and load necessary information faster. If not cleared timely, the accumulated cache can lead to unforeseen problems, including slow download speeds. Therefore, it is imperative to clear the cache, especially if it hasn't been cleared in a while.
@@ -97,23 +106,10 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reconfigure the Engine.ini File
@@ -139,6 +135,13 @@ RetryTime=0.5`
 ![Save the Engine.ini File After Adding Few Commands in It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-save-the-engine-ini-file-after-adding-few-commands-in-it-1.jpg)
 6. Restart the Epic Games Launcher again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
 
 ## 7\. Perform Some Windows-Specific Changes to Speed Up Downloads
@@ -158,8 +161,6 @@ RetryTime=0.5`
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +168,27 @@ RetryTime=0.5`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>[Updated] Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-seamless-video-editing-using-windows-11-tools/"><u>[Updated] Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-10-product-keys-for-optimal-pricing/"><u>Deciphering Windows 10 Product Keys for Optimal Pricing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icons-disappeared-in-windows-11-solved/"><u>Desktop Icons Disappeared in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-emulation-tools-the-ultimate-ios-game-guide/"><u>Essential Emulation Tools: The Ultimate iOS Game Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-f14-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy F14 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-radiant-faces-mastering-makeup-and-lighting-together/"><u>In 2024, Radiant Faces Mastering Makeup and Lighting Together</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latest-laptop-innovations-at-ifa-2023/"><u>Latest Laptop Innovations at IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-saved-screen-images-on-windows/"><u>Locating Saved Screen Images on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-secure-boot-settings-for-enhanced-virtual-machine-security/"><u>Managing Secure Boot Settings for Enhanced Virtual Machine Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-path-to-pair-older-software-with-new-windows-11/"><u>Navigating the Path to Pair Older Software with New Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-face-swap-revolution-top-apps-for-iphone-and-android-for-2024/"><u>New The Face Swap Revolution Top Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-system-security-through-cli-proficiency/"><u>Optimizing System Security Through CLI Proficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-defender-deletion-blueprint-for-windows-1011-users/"><u>The Defender Deletion Blueprint for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-hey-siri-issues-on-your-iphone-17-tips-and-tricks/"><u>Ultimate Guide: Solving 'Hey Siri' Issues On Your iPhone – 17 Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblock-powerpoint-saving-blocks-6-effective-tactics-for-win11/"><u>Unblock PowerPoint Saving Blocks: 6 Effective Tactics for WIN11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-qr-code-scanner-techniques/"><u>Unveiling Window's QR Code Scanner Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-edition-easily-navigate-and-edit-your-pcs-bios-settings/"><u>Windows 11 Edition: Easily Navigate and Edit Your PC's BIOS Settings</u></a></li>
+</ul></div>
+

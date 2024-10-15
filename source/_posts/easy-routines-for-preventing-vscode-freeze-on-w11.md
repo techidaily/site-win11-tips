@@ -1,7 +1,7 @@
 ---
 title: Easy Routines for Preventing VSCode Freeze on W11
-date: 2024-10-05T17:33:42.571Z
-updated: 2024-10-09T07:47:27.669Z
+date: 2024-10-13T21:48:16.974Z
+updated: 2024-10-15T11:41:11.032Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 4. Close the Task Manager window and open the Start menu.
 5. Type Visual Studio Code and run the app with administrator privileges. Check if it encounters a crash now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Reboot your System
 
  Restarting the system is the oldest trick in the book. It might not sound effective but resolves most of the system issues. Restarting a system helps in closing all the active processes and services, clearing the system memory, and relaunching them. Due to this, any services or apps that aren't working will also restart afresh.
@@ -58,27 +51,21 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 3. Now, enter the following command in the argv.json file:**"disable-hardware-acceleration": true**  
 ![Disable Hardware Acceleration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-hardware-acceleration.jpg)
 4. Press**Ctrl+ S** to save the changes to the file.
-5. Restart the app and check if it crashes now.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Restart the app and check if it crashes now.
 
 ## 4\. Perform a Clean Boot
 
  Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a[clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
 
  If Visual Studio Code works fine after a clean boot, retry the clean boot while enabling some third-party service. Repeat this process until you find the problematic service or app.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Visual Studio Code Extensions
 
@@ -94,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 7. Check if Visual Studio Code encounters a crash when this extension is active. Repeat the process to find the culprit extension and remove it from the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Exclude Visual Studio Code in Windows Defender
@@ -114,13 +101,26 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 3. If there is an update available, download and install it and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Launch the app again and use it for some time while keeping an eye out for crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Roll Back the Last Windows Update
 
@@ -144,6 +144,20 @@ winget uninstall Microsoft.VisualStudioCode
 8. Then type the following command and press the enter key:**winget install Microsoft.VisualStudioCode**  
 ![Reinstall Visual Studio Code 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-2.jpg)
 9. It will take a while to download and install the app on your system. You won’t need to interact with the installer window or grant any permissions.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Run Visual Studio Code now and check if the app encounters any crashes now.
 
 ## 10\. Use the Web Version
@@ -169,24 +183,20 @@ winget uninstall Microsoft.VisualStudioCode
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-assemble-photos-for-a-captivating-storyboard-experience/"><u>[New] In 2024, Assemble Photos for a Captivating Storyboard Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-learn-photoshops-core-techniques-for-shade-adjustment/"><u>[New] Learn Photoshop's Core Techniques for Shade Adjustment</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/6-game-changing-tactics-to-increase-watch-time-and-reduce-churn-rate-for-2024/"><u>6 Game-Changing Tactics to Increase Watch Time and Reduce Churn Rate for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-10-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-email-service-failures-on-windows-error-0x800713f/"><u>Correcting Email Service Failures on Windows (Error 0X800713F)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-extract-large-amounts-of-data-at-once/"><u>Efficient Techniques to Extract Large Amounts of Data at Once</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-overcoming-the-most-common-update-issues/"><u>Expert Advice: Overcoming the Most Common Update Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-your-computers-screen-turning-black-on-zoom-webinars-and-meetings-updated-2e-guide-2024/"><u>Expert Tips to Resolve Your Computer's Screen Turning Black on Zoom Webinars and Meetings (Updated 2E Guide, 2024)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c12-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C12 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-modify-aspect-ratio-of-a-video-in-different-formats-for-youtube/"><u>How to Modify Aspect Ratio of a Video in Different Formats for YouTube</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-zte-blade-a73-5g-by-fonelab-android-recover-data/"><u>Recover lost data from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-energy-levels-after-high-living-in-windows/"><u>Reviving Energy Levels After High Living in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-windows-11-temp-directory-functionality/"><u>Secure Windows 11 Temp Directory Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essence-of-windows-cab-files-and-execution-procedures/"><u>The Essence of Windows Cab Files & Execution Procedures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-code-0x800f0831-the-troubleshoot-tome/"><u>Unraveling Code 0X800f0831: The Troubleshoot Tome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-another-users-ms-error-issue/"><u>Unraveling the Another User’s MS Error Issue</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/uploading-finesse-imovie-videos-meeting-youtube-standards/"><u>Uploading Finesse IMovie Videos Meeting YouTube Standards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-overcoming-the-hypervisor-bsod-crash/"><u>Win 10/11: Overcoming the HYPERVISOR BSOD Crash</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-broadcast-battle-which-platform-wins/"><u>[New] In 2024, Broadcast Battle Which Platform Wins?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highlighted-best-free-efficient-3d-videos-player-software/"><u>[Updated] Highlighted Best Free, Efficient 3D Videos Player Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[Updated] Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-relevance-of-dual-mode-monitors-in-gaming/"><u>Assessing the Relevance of Dual-Mode Monitors in Gaming</u></a></li>
+<li><a href="https://android-location.techidaily.com/1723262369742-ayaneos-am01-your-gateway-to-the-iconic-classic-macintosh-charm-in-a-cutting-edge-amd-mini-pc/"><u>Ayaneo's AM01 – Your Gateway to the Iconic Classic Macintosh Charm in a Cutting-Edge AMD Mini PC!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-performance-experience-windows-11-lightly/"><u>Elevate Performance: Experience Windows 11 Lightly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-update-issue-x8019/"><u>Eradicating Windows Update Issue X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-edge-webview2-process-consuming-your-windows-memory/"><u>How to Fix the Microsoft Edge WebView2 Process Consuming Your Windows Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-yuzu-emulator-fps-window-users/"><u>Maximize Yuzu Emulator FPS, Window Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-info-via-powershell-in-windows/"><u>Navigating Network Info via PowerShell in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-basics-customizing-windows-11-for-you/"><u>Revamping the Basics: Customizing Windows 11 for You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-files-enable-controlled-access-in-windows-11/"><u>Secure Your Files: Enable Controlled Access in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-generative-ai-take-over-our-roles-exploring-the-impact-on-employment/"><u>Will Generative AI Take Over Our Roles: Exploring the Impact on Employment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Clearing Updater Setbacks with Code 0X80073712
-date: 2024-10-06T17:10:56.015Z
-updated: 2024-10-08T18:45:50.710Z
+date: 2024-10-08T10:21:45.767Z
+updated: 2024-10-15T02:29:38.533Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Perform a Complete system shutdown
@@ -57,13 +57,6 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -75,13 +68,6 @@ Repeat the following steps to start the necessary services:
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
@@ -98,13 +84,6 @@ Repeat the following steps to start the necessary services:
 5. Disk Cleanup will close and redirect you to pick the appropriate drive. Click on the**OK** button.
 6. Lastly, click on the**Delete files** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Rename the SoftwareDistribution Folder
 
  Windows update stores its content in the SoftwareDistribution folder. Since it is located inside the Windows folder in the C drive, you mustn’t delete it. Instead, you can rename the folder to force the update service to recreate the folder again.
@@ -116,6 +95,14 @@ Repeat the following steps:
  net stop wuauserv net stop cryptSvc net stop bits net stop msiserver  
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
@@ -125,10 +112,10 @@ net start wuauserv net start cryptSvc net start bits net start msiserver
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Open the Windows update in Settings and try to download and install updates.
@@ -151,9 +138,29 @@ Retrace the following steps to delete the pending.xml file:
 
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update Windows Without Hiccups
 
@@ -174,17 +181,18 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-page-fault-in-nonpaged-area-error-in-windows-10/"><u>[Fixed] Page Fault In Nonpaged Area Error in Windows 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-seeking-speed-identifying-the-top-5-racer-games/"><u>[New] Seeking Speed Identifying the Top 5 Racer Games</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[Updated] 2024 Approved How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users/"><u>[Updated] In 2024, The Essentials of Image Augmentation Inserting Text Into Images for PC & Mac Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unpacking-the-power-of-yis-4k-action-capture/"><u>[Updated] In 2024, Unpacking the Power of Yi's 4K Action Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-fs-apps-crowd-picked-winners/"><u>Essential Windows FS Apps: Crowd-Picked Winners</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-11-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 11 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-the-powerhouse-that-is-dji-phantom-3-for-2024/"><u>In-Depth Analysis The Powerhouse That Is DJI Phantom 3 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-network-key-harmony-5-steps-for-windows-error-resolution/"><u>Mastering Network Key Harmony: 5 Steps for Windows Error Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/running-windows-11-on-classics-utilizing-windows-to-go-and-rufus-guide/"><u>Running Windows 11 on Classics - Utilizing Windows To Go & Rufus Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-gaps-within-explore-interface-elements/"><u>Tackling Gaps Within Explore Interface Elements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharging-yuzus-performance-on-pcs/"><u>Turbocharging Yuzu's Performance on PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[Updated] The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y77t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y77t Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-your-mouse-10-steps-in-windows-11/"><u>Conquer Your Mouse: 10 Steps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-user-defined-volume-levels-on-windows-safe/"><u>Keeping User-Defined Volume Levels On Windows Safe</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-disappearing-panes-top-strategies-in-the-world-of-windows-11/"><u>Overcoming Disappearing Panes: Top Strategies in the World of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-interruciplinary-netflix-errors-on-pc/"><u>Overcoming Interruciplinary Netflix Errors on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reduce-memory-hogs-optimizing-media-tasks-on-windows-1011/"><u>Reduce Memory Hogs: Optimizing Media Tasks on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-operations-deactivating-windows-11-features/"><u>Silent Operations: Deactivating Windows 11 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-overcome-windows-11s-corrupted-files-error-code/"><u>Tactics to Overcome Windows 11'S Corrupted Files Error Code</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k-for-2024/"><u>The Future of Home Entertainment TV or Projection for 4K for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voicemod-for-smooth-operation-a-step-by-step-approach/"><u>Troubleshooting Voicemod for Smooth Operation : A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultra-clarity-the-new-era-of-hd-monitors-envy-27-for-2024/"><u>Ultra Clarity The New Era of HD Monitors - Envy 27 for 2024</u></a></li>
 </ul></div>
 

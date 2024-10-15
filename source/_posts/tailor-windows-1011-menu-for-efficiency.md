@@ -1,7 +1,7 @@
 ---
 title: Tailor Windows 10/11 Menu for Efficiency
-date: 2024-10-03T21:46:11.335Z
-updated: 2024-10-09T00:27:57.610Z
+date: 2024-10-14T13:10:29.768Z
+updated: 2024-10-15T01:11:55.615Z
 tags:
   - windows10
   - windows11
@@ -59,16 +59,16 @@ Now it's time to get SyMenu up and running:
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
@@ -82,13 +82,6 @@ Now it's time to get SyMenu up and running:
 
  If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
@@ -99,13 +92,6 @@ Now it's time to get SyMenu up and running:
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Next** to select the**I accept software license agreement** option.
 
 1. Select**Next** a few more times to reach the directory selection option.
@@ -115,24 +101,38 @@ Now it's time to get SyMenu up and running:
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
@@ -145,26 +145,26 @@ Now it's time to get SyMenu up and running:
 ![The portable app section of the LiberKey website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To customize the menu, select**LiberKey Tools** \>**Configuration** . You can change the menu’s color scheme from the Color tab on the Configuration window. Choose a primary menu color on that tab, and select**Apply** to save it.
 
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
@@ -187,24 +187,20 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-guide-the-8-best-zero-price-video-cutting-software/"><u>[New] 2024 Approved Essential Guide The 8 Best Zero Price Video Cutting Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-enhancing-experience-best-audio-sources-for-unpack-videos/"><u>[New] In 2024, Enhancing Experience Best Audio Sources for Unpack Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-scriptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[New] Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-iphone-with-the-world-of-podcasts/"><u>[Updated] Harmonizing iPhone with the World of Podcasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-6-ingenious-sites-brimming-with-customizable-youtube-themes/"><u>[Updated] In 2024, 6 Ingenious Sites Brimming With Customizable YouTube Themes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-co-creating-content-brands-team-up-for-youtube-success/"><u>2024 Approved Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/data-synchronization-merging-in-win1011-systems/"><u>Data Synchronization: Merging in WIN10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-homescreen-activation-in-windows-11/"><u>Guide to Homescreen Activation in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-xs-max-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XS Max Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-redmi-note-12r-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Redmi Note 12R</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-low-speeds-in-windows-edge-win10win11/"><u>Overcoming Low Speeds in Windows Edge (Win10/Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-wireless-network-detection-on-windows-11/"><u>Reigniting Wireless Network Detection on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-your-pcs-overwatch-2-lossed-graphic-error/"><u>Resolving Your PC’s Overwatch 2 Lossed Graphic Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-better-sighting-of-tasks-on-windows-desktops/"><u>Techniques for Better Sighting of Tasks on Windows Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-windows-user-manual-for-speech-to-text-conversion/"><u>The Complete Window's User Manual for Speech-to-Text Conversion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-maximize-laptop-lifespan-power-management-basics/"><u>Tips: Maximize Laptop Lifespan - Power Management Basics</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>Updated Gaming on a Budget Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-lossed-rendering-support-in-overwatch-2/"><u>Winning Back Lossed Rendering Support in Overwatch 2</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-stepwise-journey-becoming-a-pro-with-audacity-for-recording-for-2024/"><u>[New] Stepwise Journey Becoming a Pro with Audacity for Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-camera-error-code-0xa00f4292/"><u>[SOLVED] Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-precision-techniques-for-messenger-content-extraction/"><u>[Updated] 2024 Approved Precision Techniques for Messenger Content Extraction</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-achieving-expert-control-the-steam-switch-controllers-guide-for-2024/"><u>[Updated] Achieving Expert Control The Steam Switch Controllers Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-about-to-expire-message-in-win11/"><u>Circumventing the 'About To Expire' Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-package-could-not-be-registered-errors-in-win-os/"><u>Counteracting 'Package Could Not Be Registered' Errors in Win OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-p40plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel P40+ Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mixer-connectivity-seamless-live-broadcast-on-macos/"><u>In 2024, Mixer Connectivity Seamless Live Broadcast on macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-art-of-digital-alterations-tips-for-text-in-pictures/"><u>In 2024, The Art of Digital Alterations Tips for Text in Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-address-translation-adjusting-types-for-windows-oses/"><u>Mastering Network Address Translation: Adjusting Types for Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-classics-a-win-11-reboot-plan/"><u>Reclaiming Classics: A Win 11 Reboot Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-desktop-icon-look-in-windows/"><u>Restoring Desktop Icon Look in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-raspberry-pi-pico-rp2040-development-boards-of-2024/"><u>Top Raspberry Pi Pico (RP2040) Development Boards of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-consequences-of-disabling-windows-11-notifications/"><u>Understanding the Consequences of Disabling Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-untimely-sse-windows-issues/"><u>Unraveling Untimely SSE Windows Issues</u></a></li>
 </ul></div>
 

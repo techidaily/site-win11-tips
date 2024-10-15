@@ -1,7 +1,7 @@
 ---
 title: "Unleash Power in Windows 11: Banishing Slowness"
-date: 2024-10-04T02:46:16.105Z
-updated: 2024-10-08T16:05:36.461Z
+date: 2024-10-11T00:54:13.375Z
+updated: 2024-10-15T13:03:04.384Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
@@ -53,15 +59,23 @@ To turn off these services, follow these steps:
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Notifications
@@ -75,10 +89,10 @@ To turn off these notifications, follow the below steps:
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
@@ -86,10 +100,10 @@ To turn off these notifications, follow the below steps:
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
@@ -100,13 +114,6 @@ To turn off these notifications, follow the below steps:
 2. Select the**Privacy & security** tab.
 3. Go through all the settings under**Windows permissions** and disable the ones you think won't affect any Windows features you might need.  
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
@@ -121,14 +128,14 @@ To pause updates, follow these steps:
 3. Expand the dropdown next to**Pause updates** and select the desired timeframe.  
 ![Paused Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-2-Resuming-the-Paused-Windows-Updates-in-Windows-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
@@ -167,24 +174,24 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-techniques-in-archiving-web-based-music-tracks-for-2024/"><u>[New] Techniques in Archiving Web-Based Music Tracks for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cross-era-compatibility-using-windows-7-product-key-in-11/"><u>Cross-Era Compatibility: Using Windows 7 Product Key in 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-memory-usage-by-microsoft-edges-view2/"><u>Decoding Windows Memory Usage by Microsoft Edge's View2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deployment-guide-for-intel-networking-on-ubuntu/"><u>Deployment Guide for Intel Networking on Ubuntu</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-chatgpt-prompts-unlocking-insights-into-the-world-of-cryptocurrsy/"><u>Essential ChatGPT Prompts: Unlocking Insights Into the World of Cryptocurrsy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gear-up-for-virtual-racing-with-logitechs-driving-force-pro-steering-software-compatible-with-windows-7-8-and-10/"><u>Gear Up for Virtual Racing with Logitech's Driving Force Pro - Steering Software Compatible With Windows 7, 8 & 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-sony-vegas-from-frequently-stopping-unexpectedly/"><u>How To Stop Sony Vegas From Frequently Stopping Unexpectedly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-frozen-itunes-on-your-windows-system/"><u>How to Tackle Frozen iTunes on Your Windows System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-caption-manipulation/"><u>In 2024, Innovative Image Caption Manipulation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-microscope-mode-in-roblox-games/"><u>In 2024, Mastering Microscope Mode in Roblox Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone X You Should Try Out</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-8-best-fbx-game-recorder-alternatives/"><u>In 2024, Top 8 Best FBX Game Recorder Alternatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-the-empty-directory-claim-in-windows-with-error-0x80070091-resolutions/"><u>Overcome the Empty Directory Claim in Windows with Error 0X80070091 Resolutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-projector-found-message-in-windows/"><u>Overcoming No Projector Found Message in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-dealing-with-network-failures-on-windows-11-devices/"><u>Quick Fix: Dealing with Network Failures on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-handle-not-handled-interrupt-in-windows-systems/"><u>Steps to Handle Not Handled Interrupt in Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-best-notetaking-apps-for-apples-ipad-family/"><u>The Ultimate Guide: Best Notetaking Apps for Apple's iPad Family</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-your-ip-terminal-window-steps/"><u>Unveiling Your IP: Terminal Window Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-secret-screengrabs-elusive-methods-for-concealed-photo-taking/"><u>[New] 2024 Approved Secret ScreenGrabs Elusive Methods for Concealed Photo-Taking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ignite-user-interaction-via-thoughtfully-crafted-insta-lives/"><u>[New] Ignite User Interaction via Thoughtfully-Crafted Insta Lives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-cost-digital-revenue-prognosticator-for-2024/"><u>[New] No-Cost Digital Revenue Prognosticator for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/boost-your-content-with-top-notch-tiktok-video-edit-tricks-for-2024/"><u>Boost Your Content with Top-Notch TikTok Video Edit Tricks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-drive-invisibility-phenomenon/"><u>Eliminate Windows Drive Invisibility Phenomenon</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-framework-understanding-its-governance-entity/"><u>Facebook's Framework: Understanding Its Governance Entity</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-invisible-scrolldown-in-winworlds/"><u>Halt Invisible Scrolldown in Winworlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-adobe-photoshop-not-working-on-windows/"><u>How to Fix Adobe Photoshop Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-disconnected-windows-printers/"><u>Methods To Revive Disconnected Windows Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pixel-perfect-protection-sneaky-storage-solutions-on-windows-11/"><u>Pixel Perfect Protection: Sneaky Storage Solutions on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-error-enabling-roblox-games-on-your-pc/"><u>Remedying the Error: Enabling Roblox Games on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-0xa00f429f-camera-issue-on-pctablet-windows/"><u>Resolving the 0xA00F429F Camera Issue on PC/Tablet Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-software-sync-setting-up-microsoft-on-windows/"><u>Seamless Software Sync: Setting up Microsoft on WIndows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-videos-directly-on-twitter-via-mobile-devices-only-for-2024/"><u>Share Videos Directly on Twitter via Mobile Devices Only for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-using-the-windows-odbc-toolkit/"><u>The Complete Guide to Using the Windows ODBC Toolkit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-successful-access-to-steam-after-log-in-problems/"><u>Troubleshooting Steps for Successful Access to Steam After Log In Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated 2024 Approved From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
 </ul></div>
 

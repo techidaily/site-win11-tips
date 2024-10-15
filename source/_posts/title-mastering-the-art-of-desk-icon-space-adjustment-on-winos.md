@@ -1,7 +1,7 @@
 ---
 title: "Title: Mastering the Art of Desk Icon Space Adjustment on WINOS"
-date: 2024-10-07T01:38:26.346Z
-updated: 2024-10-09T07:53:25.421Z
+date: 2024-10-12T05:45:32.100Z
+updated: 2024-10-14T23:02:48.929Z
 tags:
   - windows10
   - windows11
@@ -73,12 +73,27 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
 3. Click the**Icons** option shown directly below.
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -90,21 +105,22 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
@@ -122,39 +138,12 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -175,22 +164,14 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] 2024 Approved Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevated-engagement-awards-on-video-realms/"><u>[Updated] 2024 Approved Elevated Engagement Awards on Video Realms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-unique-online-presence-youtube-edition/"><u>[Updated] In 2024, Crafting a Unique Online Presence YouTube Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-rumors-and-announcements-ahead-of-samsungs-epic-unpacked-event/"><u>Breaking Down Rumors & Announcements Ahead of Samsung's Epic Unpacked Event</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-print-settings-for-windows-11-edge-shield-mode/"><u>Configuring Print Settings for Windows 11 Edge Shield Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-perfect-sound-mixer-program-the-ultimate-guide-to-top-10-audio-software-picks-by-movavi/"><u>Find Your Perfect Sound Mixer Program: The Ultimate Guide to Top 10 Audio Software Picks by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-server-stumbled-microsoft-store-error-in-windows-11-and-11/"><u>How to Fix the “Server Stumbled” Microsoft Store Error in Windows 11 & 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmissable-vr-cinematic-journeys/"><u>In 2024, Unmissable VR Cinematic Journeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-digital-drawing-embrace-4-essential-updates-to-paint/"><u>Mastering Digital Drawing - Embrace 4 Essential Updates to Paint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-challenges-for-fbm-connectivity/"><u>Overcoming Windows Challenges for FBM Connectivity</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-equipment-evaluations-at-toms-systems-critique/"><u>Precision Equipment Evaluations at Tom's Systems Critique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-repairing-frequent-rainmeter-hiccups/"><u>Quick Guide to Repairing Frequent Rainmeter Hiccups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/snagged-by-slow-text-messages-on-your-iphone-try-these-effective-9-tricks-to-resolve-the-issue/"><u>Snagged by Slow Text Messages on Your iPhone? Try These Effective 9 Tricks to Resolve the Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-airpods-microphone-issues-in-windows-11-a-step-by-step-guide/"><u>Solving AirPods Microphone Issues in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/superior-gaming-experience-with-windows-software/"><u>Superior Gaming Experience with Windows Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-ordinary-into-exquisite-windows-outlook-calendar-tactics/"><u>Transforming Ordinary Into Exquisite: Windows Outlook Calendar Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-pc-from-nvidias-geforce-now-error-0xc0f1103f/"><u>Unlocking Windows PC From Nvidia's GeForce Now Error 0Xc0f1103f</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-broadcast-bunkers-for-facebooks-2023-for-2024/"><u>[New] Broadcast Bunkers for Facebook's 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-do-youtubers-make-per-view/"><u>[Updated] 2024 Approved How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-realities-how-ar-vr-mr-and-xr-stand-apart/"><u>Comparing Realities: How AR, VR, MR and XR Stand Apart</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-11-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 11 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-lock-and-unlock-the-function-fn-key-in-windows/"><u>How to Lock and Unlock the Function (Fn) Key in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-chrome-from-generating-new-tabs-on-windows/"><u>How to Stop Chrome From Generating New Tabs on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-mouse-access-in-win11-easy-way/"><u>Personalize Mouse Access in Win11 Easy Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unreachable-settings-issue-with-nvidia-experience/"><u>Troubleshooting Unreachable Settings Issue with NVIDIA Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-efficiency-end-stutter-issues/"><u>Unleashing Efficiency: End Stutter Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Your Commands: Setting up WIN Shortcuts Swiftly"
-date: 2024-10-04T04:06:18.799Z
-updated: 2024-10-09T07:28:38.142Z
+date: 2024-10-09T06:18:01.307Z
+updated: 2024-10-15T02:00:48.211Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -74,25 +81,11 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
 
 `nircmd.exe emptybin`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Center Align All Windows
 
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Read Out the Copied Clipboard Item
 
@@ -126,24 +126,18 @@ keywords: Command Mastery Guide,Win Shortcut Setup Tips,Swift Command Configurat
 thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe181500be81f958d9b44354162.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Close All Open File Explorer Windows
 
@@ -157,43 +151,24 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-chromatic-excellence-program/"><u>[Updated] Chromatic Excellence Program</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pros-picks-best-10-terraria-mods/"><u>[Updated] In 2024, Pro's Picks Best 10 Terraria Mods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-discontinuation-of-3dnow-instruction-set-impact-on-performance-and-the-llvm-compiler/"><u>AMD's Discontinuation of 3DNow! Instruction Set: Impact on Performance and the LLVM Compiler</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-the-cumulus-pro-anti-fatigue-mat-for-a-healthier-standing-experience/"><u>Expert Evaluation of the Cumulus PRO Anti-Fatigue Mat for a Healthier Standing Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovative-recorder-options-without-latency-anxiety/"><u>Innovative Recorder Options Without Latency Anxiety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-virtual-memory-settings-to-power-windows-11-systems/"><u>Mastering Virtual Memory Settings to Power Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-should-focus-on-making-windows-11-better-not-just-more-fun/"><u>Microsoft Should Focus on Making Windows 11 Better, Not Just More Fun</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-visual-impact-activate-windows-11s-color-management/"><u>Optimize Your Visual Impact - Activate Windows 11'S Color Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-painless-way-to-find-out-your-nvidia-driver-version/"><u>Quick and Painless Way to Find Out Your Nvidia Driver Version</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sculpting-images-a-beginners-guide-to-pics-distortion/"><u>Sculpting Images A Beginner's Guide to Pics Distortion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-controlled-chromeedge-use-in-enterprise-environments/"><u>Simplifying Controlled Chrome/Edge Use in Enterprise Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-boots-with-5-key-fixes-to-security-errors/"><u>Unlock Windows Boots with 5 Key Fixes to Security Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-over-a-shaky-desktop-pointer-with-these-steps/"><u>Win Over a Shaky Desktop Pointer with These Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-the-war-against-failed-chromebook-file-uploads-win-wise/"><u>Win the War Against Failed Chromebook File Uploads, WIN-Wise</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +177,27 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-comprehensible-guide-to-leveraging-videos-for-social-media-success/"><u>[New] In 2024, The Comprehensible Guide to Leveraging Videos for Social Media Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[New] Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-see-every-participant-in-google-meet/"><u>2024 Approved How to See Every Participant in Google Meet?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-remedies-to-resolve-persistent-phone-display-fluttering-issues/"><u>7 Effective Remedies to Resolve Persistent Phone Display Fluttering Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-taskbar-disappearance-in-maximized-browser-frames/"><u>Fixing Taskbar Disappearance in Maximized Browser Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-effective-video-narration-techniques/"><u>In 2024, The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-system-enough-to-welcome-windows-11/"><u>Is Your System Enough to Welcome Windows 11?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-poco-c55-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Poco C55 FRP Without Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-rm-fixing-excessive-cpu-consumption/"><u>Mastering Windows RM: Fixing Excessive CPU Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-video-ram-in-windows-1011-systems/"><u>Maximizing Video RAM in Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-windows-default-display-adapter/"><u>Removing Windows Default Display Adapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smashing-verification-delays-9-tactics-for-faster-setup-confirmations/"><u>Smashing Verification Delays: 9 Tactics for Faster Setup Confirmations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-microsoft-mislead-navigating-avoiding-falseware-pitfalls/"><u>The Microsoft Mislead: Navigating Avoiding Falseware Pitfalls</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-steam-remote-connectivity/"><u>Troubleshooting Non-Functional Steam Remote Connectivity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-mastering-the-art-of-emailing-videos-discover-three-simple-techniques/"><u>Ultimate Guide: Mastering the Art of Emailing Videos - Discover Three Simple Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-fixes-for-apex-crashes-on-w11/"><u>Unveiling Hidden Fixes for Apex Crashes on W11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Infinix Hot 30i | Dr.fone</u></a></li>
+</ul></div>
+

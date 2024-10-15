@@ -1,7 +1,7 @@
 ---
 title: Tackling WinError 0X8007043C in Media Creator Tool
-date: 2024-10-07T22:12:12.133Z
-updated: 2024-10-08T20:43:07.579Z
+date: 2024-10-11T12:35:43.800Z
+updated: 2024-10-14T19:30:46.016Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To run Media Creation Tool as administrator:
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
@@ -57,10 +57,10 @@ To run Media Creation Tool as administrator:
 5. Click**Apply** , and the security option will disappear.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Next, click**OK** to apply the changes.
@@ -78,6 +78,13 @@ To update your Windows computer:
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  The built-in Windows Update troubleshooter is a great way to fix Windows Update issues on Windows 11\. It will scan the system for issues and try to fix them automatically.
@@ -88,37 +95,19 @@ To run the Windows Update Troubleshooter:
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
@@ -128,13 +117,6 @@ To run the Windows Update Troubleshooter:
  Third-party antivirus can be overzealous and block genuine system modifications as malicious. You can disable the security app temporarily to determine if your third-party antivirus is triggering the error.
 
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
 
@@ -161,6 +143,13 @@ sfc /scannow
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
@@ -186,20 +175,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-imagery-best-google-meet-screen-savers/"><u>[New] 2024 Approved Ideal Imagery Best Google Meet Screen Savers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-asmr-a-soundtrack-to-better-health-and-happiness-for-2024/"><u>[New] ASMR A Soundtrack to Better Health and Happiness for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone-for-2024/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-choice-of-5-fpv-vision-technology/"><u>2024 Approved Expert Choice of 5 FPV Vision Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/becoming-a-youtube-pro-the-ultimate-picture-post-guide-for-2024/"><u>Becoming a YouTube Pro The Ultimate Picture Post Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-10-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 10 & 11 Desktop Context Menu Not Working</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-xs-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone XS Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/image-isolation-pro-eliminate-backgrounds-in-affinity-for-2024/"><u>Image Isolation Pro Eliminate Backgrounds in Affinity for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 13 Pro Max Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/python-server-integration-effective-windows-file-sharing/"><u>Python Server Integration: Effective Windows File Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-steps-for-managing-windows-key-status/"><u>Simple Steps for Managing Windows Key Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-winerror-code-0x8007043c-media-tool-fix-guide/"><u>Solving WinError Code: 0X8007043C - Media Tool Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-your-adventure-terminal-and-quake-mode/"><u>Start Your Adventure: Terminal and Quake Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-finder-power-adopting-everywhereapp-techniques/"><u>Swift Finder Power: Adopting EverywhereApp Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-error-clues-using-ms-error-tools/"><u>Unlock Windows Error Clues Using MS Error Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-remote-piloted-vehicles-their-inner-workings/"><u>2024 Approved Exploring Remote-Piloted Vehicles Their Inner Workings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-quadcopter-showdown-dji-pro-and-hero-4-black/"><u>2024 Approved Quadcopter Showdown DJI Pro and Hero 4 Black</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-swift-strategies-randomize-your-video-playlist-quickly/"><u>2024 Approved Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-performance-optimizing-nvidias-3d-settings-via-control-panel/"><u>Boost Performance: Optimizing NVIDIA's 3D Settings via Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-anti-phishing-protection-on-windows-filters/"><u>Enabling Anti-Phishing Protection on Windows Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-window-11-experience-with-these-6-top-android-apps/"><u>Enhancing Your Window 11 Experience with These 6 Top Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-saving-errors-microsoft-os-guide/"><u>Fixing Saving Errors: Microsoft OS Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-6-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Samsung Galaxy A05?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-manual-navigating-the-process-of-website-pinging-with-ease/"><u>How-To Manual: Navigating the Process of Website Pinging with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-best-selections-for-youtube-ringtone-downloads/"><u>In 2024, Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-administrative-access-for-win11-and-10-homes-edition/"><u>Mastering Administrative Access for Win11 & 10 Homes Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-failed-remote-links-a-windows-guide/"><u>Reestablishing Failed Remote Links: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-usb-capacity-on-desktops/"><u>Steps to Enhance USB Capacity on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-the-flawless-slide-showprint-top-tips-from-powerpoint-and-pcs/"><u>The Art of the Flawless Slide Showprint: Top Tips From PowerPoint & PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-to-wipe-email-from-windowed-login/"><u>Tips & Tricks to Wipe Email From Windowed Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-fix-discords-setup-errors/"><u>Winning Strategies to Fix Discord's Setup Errors</u></a></li>
 </ul></div>
 

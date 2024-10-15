@@ -1,7 +1,7 @@
 ---
 title: Masterful Guide on Downloading, Setting Up, and Utilizing MSixbundle Extensions
-date: 2024-10-03T18:38:12.985Z
-updated: 2024-10-08T21:55:30.113Z
+date: 2024-10-08T01:27:19.312Z
+updated: 2024-10-14T18:29:02.686Z
 tags:
   - windows10
   - windows11
@@ -59,8 +59,23 @@ To generate a Microsoft Store app downloading link using Fiddler:
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, launch**Microsoft Store,** search for the app you want to download, and click**Install** . Wait for the app to download and install completely. Fiddler will start capturing the traffic as the necessary files for the app download and install.
 2. Once the download is complete, open the**Fiddler** app and press**Ctrl + F** to open**Find** .
@@ -70,16 +85,16 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
 
@@ -89,19 +104,19 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
 1. Locate the saved app package in the**Downloads** folder.
 2. Next, double-click on the file to open the installation wizard and click on the**Install** button to install the software.
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
@@ -120,10 +135,10 @@ To install App Installer:
 5. Click**Install** and wait for the app installation to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
@@ -149,23 +164,9 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Download and Install Appx, Appxbundle, and Msixbundle from Microsoft Store on Windows
 
@@ -186,18 +187,17 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-clear-audio-in-videos-essential-tips-and-tool-reviews-for-2024/"><u>[New] Clear Audio in Videos Essential Tips and Tool Reviews for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution-for-2024/"><u>[New] How To Create a Memorable Podcast Name From Brainstorming to Execution for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719580359221-2022-goals-achieved-speak-like-a-native-at-half-the-cost/"><u>2022 Goals Achieved - Speak Like a Native at Half the Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-change-moving-software-on-a-new-windows-installation/"><u>Conquering Change: Moving Software on a New Windows Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-update-of-desktop-picture-with-windows-tweaks/"><u>Effortless Update of Desktop Picture with Windows Tweaks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-note-30-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Note 30 Device SIM</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24FRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-display-failure/"><u>Overcoming Chrome Display Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-saved-settings-in-your-battlefield-win-1110/"><u>Regaining Saved Settings in Your Battlefield (Win 11/10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-blocked-login-overcoming-windows-sign-in-failures/"><u>Resolving Blocked Login: Overcoming Windows Sign-In Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-failure-with-error-code-0x00000000/"><u>Tackling Microsoft Store Failure with Error Code 0X00000000</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-rounder-panasonic-fz80s-review/"><u>The All-Rounder: Panasonic FZ80's Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-solutions-for-fixing-dreamlight-valleys-pc-compatibility-and-stability/"><u>Top 6 Solutions for Fixing Dreamlight Valley's PC Compatibility and Stability</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-turn-on-google-meet-grids-to-see-all-attendees/"><u>[New] 2024 Approved Turn On Google Meet Grids to See All Attendees</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-insight-into-magix-design-studio/"><u>[New] Insight Into MAGIX Design Studio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-step-by-step-handbrake-tutorial-convert-vob-files-to-mp4-effortlessly/"><u>Comprehensive Step-by-Step HandBrake Tutorial: Convert VOB Files to MP4 Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-crashing-screens-winning-strategies-for-sonic-games-w11/"><u>Conquering Crashing Screens: Winning Strategies for Sonic Games (W11)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargas-gratuitas-para-convertir-archivos-de-audio-aifbam4r-rapido-y-eficiente-con-movavi/"><u>Descargas Gratuitas Para Convertir Archivos De Audio - AIFBaM4r Rápido Y Eficiente Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-running-the-sfc-command-in-windows/"><u>Guide to Running the SFC Command in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-much-power-does-my-windows-pc-use-heres-how-to-find-out/"><u>How Much Power Does My Windows PC Use? Here's How to Find Out</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy F04</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-vscode-running-smoothly-w11-style/"><u>Keeping VSCode Running Smoothly W11-Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-with-simple-app-resets/"><u>Optimizing Windows 11 with Simple App Resets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-panzoid-framework-assemblage/"><u>Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-periscopes-full-potential-your-ultimate-guide-for-2024/"><u>Unveiling Periscope's Full Potential Your Ultimate Guide for 2024</u></a></li>
 </ul></div>
 

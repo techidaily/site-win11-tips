@@ -1,7 +1,7 @@
 ---
 title: "Tackling DirectX on PCs: Update Essentials Unveiled"
-date: 2024-10-08T02:01:42.094Z
-updated: 2024-10-08T19:41:09.847Z
+date: 2024-10-10T09:48:42.368Z
+updated: 2024-10-14T23:01:44.590Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 * [Should I Uninstall or Reinstall DirectX?](#should-i-uninstall-or-reinstall-directx)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  If you game on Windows, you've probably heard of DirectX. But what does DirectX actually do, and do you need to update it or tweak any options? Let's go over how to check what version of DirectX you have, and whether you need to take any action with it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is DirectX?
 
  As explained in [our overview of DirectX](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/), this term refers to a set of APIs ([learn more about APIs](https://www.makeuseof.com/what-is-api/)) in Windows that handles graphical elements in games. Because no two gaming PCs have the same set of components, game developers use the DirectX libraries to write games that work on computers of all kinds.
@@ -58,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  The APIs help games properly interface with the hardware inside your computer—meaning a developer can make sure their game works with one DirectX version, rather than hundreds of GPUs. This is in contrast to game consoles, where the developers know exactly what hardware they're working with (because every PS5, for example, has the same internals).
 
  Note that DirectX isn't the only graphics API. We've [compared DirectX to OpenGL](https://www.makeuseof.com/opengl-vs-directx-game-development-best/), one of the most popular alternative graphics APIs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Version of DirectX Do I Have?
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  You'll see a window titled **DirectX Diagnostic Tool** a moment later.
 
 ![DirectX Tool Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/directx-tool-windows-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the **System** tab, at the bottom of the **System Information** box, you'll see **DirectX Version** where you can confirm what you have installed. If you're on Windows 11 or Windows 10, you should see **DirectX 12** here. Check for Windows updates if not.
 
@@ -89,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  As long as you haven't disabled Windows Update, you should always be current with your installed version of DirectX. You can always [manually check for Windows updates](https://www.makeuseof.com/update-windows-manually/) if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Do I Have So Many DirectX Versions Installed?
@@ -109,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  While games should always install what they need, you can also run [Microsoft's DirectX End-User Runtime tool](https://www.microsoft.com/en-us/download/details.aspx?id=35) to install legacy DirectX libraries on your system. This won't affect the modern version of DirectX you're using, but could be a time-saver to install all these libraries at once if you play lots of older games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I Uninstall or Reinstall DirectX?
 
  There's no official way to uninstall or reinstall DirectX. You can't remove it from the **Apps** panel of the **Settings** app in Windows. But there's no reason you would need to, as it's not a normal program. It's a core part of how Windows displays graphics.
@@ -119,23 +119,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  We've covered what DirectX is, how to check which version you have installed, and how to get the latest updates. This powerful library of graphics tools is part of the reason why Windows is such a popular platform for gaming. It's a normal part of your computer if you play games, and in most cases, you shouldn't have to do anything to manage DirectX.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-adobe-cloud-essentials-and-top-alternatives/"><u>[Updated] Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-techniques-for-maximum-zoom-utility-on-chromebook/"><u>2024 Approved Innovative Techniques for Maximum Zoom Utility on Chromebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aprende-el-oficio-con-winxvideo-ai-una-guia-completa-para-mejorar-grabar-editar-comprimir-y-convertir-videos-perfectamente/"><u>Aprende El Oficio Con Winxvideo AI: Una Guía Completa Para Mejorar, Grabar, Editar, Comprimir Y Convertir Vídeos Perfectamente</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone-for-2024/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/dynamic-virtual-spaces-google-meets-backdrop-customization/"><u>Dynamic Virtual Spaces Google Meet's Backdrop Customization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-why-keeping-windows-11s-alerts-is-important/"><u>Explore Why Keeping Windows 11'S Alerts Is Important</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-non-compatible-controllers-in-windows/"><u>Guide to Reviving Non-Compatible Controllers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-10-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 10 & 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40+ to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-shopping-redefined-by-microsofts-ai-hub/"><u>Seamless Shopping Redefined by Microsoft’s AI Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-access-to-non-local-files/"><u>Streamlining Access to Non-Local Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-graphics-errors-a-comprehensive-d3d11-fix-in-windows-1110/"><u>Tackling Graphics Errors: A Comprehensive D3D11 Fix in Windows 11/10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-successfully-uploading-extended-length-content-on-youtube/"><u>Ultimate Guide: Successfully Uploading Extended-Length Content on YouTube</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +126,25 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-audio-aesthetics-weaving-tunes-into-snapchat/"><u>[New] Audio Aesthetics Weaving Tunes Into Snapchat</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[Updated] 2024 Approved Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[Updated] Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-most-inexpensive-video-cameras-reviewed-for-2024/"><u>[Updated] The Most Inexpensive Video Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-smart-8-pro-frp-bypass-by-drfone-android/"><u>About Infinix Smart 8 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-biometrics-for-domain-admins-on-windows-11/"><u>Controlling Biometrics for Domain Admins on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-underperforming-machines-addressing-intel-hd-specs-issues/"><u>Correcting Underperforming Machines: Addressing Intel HD Specs Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-inadequate-pcs-fixing-game-bar-errors/"><u>Defeating Inadequate PCs: Fixing Game Bar Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-read-only-windows-file-constraints/"><u>Easing Read-Only Windows File Constraints</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-pokemon-gaming-secrets-revealed/"><u>From Novice to Pro: Pokémon Gaming Secrets Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g84-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-user-expectations-in-windows-11/"><u>Redefining User Expectations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-vanished-5ghz-connection-link-in-windows-11-swiftly/"><u>Restore Vanished 5GHz Connection Link in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-ahead-of-the-curve-without-moving-to-win11/"><u>Stay Ahead of The Curve without Moving to Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-your-pcs-boot-process-with-windows-11s-fast-startup-feature/"><u>Turbocharge Your PC's Boot Process With Windows 11'S Fast Startup Feature</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/"><u>Updated Trim and Refine A Step-by-Step Guide to Cropping Videos in Avidemux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-against-steam-login-time-outs-in-rust-on-pc/"><u>Winning Strategies Against Steam Login Time-Outs in Rust on PC</u></a></li>
+</ul></div>
+

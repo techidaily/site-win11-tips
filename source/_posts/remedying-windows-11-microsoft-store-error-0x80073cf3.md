@@ -1,7 +1,7 @@
 ---
 title: Remedying Windows 11 Microsoft Store Error 0X80073cf3
-date: 2024-10-04T22:09:31.958Z
-updated: 2024-10-09T03:54:47.409Z
+date: 2024-10-09T09:20:29.677Z
+updated: 2024-10-14T23:56:58.042Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Clear the Microsoft Store’s Cache
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Repair the Gaming Services App
 
  A few users who’ve needed to fix error 0x80073CF3 for their Microsoft Store game apps have confirmed that repairing Gaming Services can resolve the issue. Gaming Services is a Microsoft Store app required by Xbox Game Pass apps on Microsoft’s storefront. To do so, select the **Repair** option for Gaming Services in Settings, as covered within our [guide to repairing apps in Windows](https://www.makeuseof.com/windows-repair-apps-programs/).
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
@@ -85,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
@@ -97,21 +104,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Free Up Some Drive Storage Space
 
@@ -120,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall the Microsoft Store App
@@ -146,34 +133,18 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
  Error 0x80073CF3 can be a tricky one to sort out because it has numerous variable potential causes. This guide includes some of the most widely confirmed error 0x80073CF3 resolutions to work by users who’ve fixed that issue. So, one of those possible resolutions will probably get that Microsoft Store issue sorted on your Windows PC.
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-uncover-recent-instagram-unfollow-patterns/"><u>[New] In 2024, Uncover Recent Instagram Unfollow Patterns</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-toolkit-facebook-live-recording-conversion/"><u>[Updated] 2024 Approved The Ultimate Toolkit Facebook Live Recording Conversion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-collaborate-for-success-video-strategies-for-2024/"><u>[Updated] Collaborate for Success Video Strategies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dialogue-initiation-on-modern-windows-pcs/"><u>Dialogue Initiation on Modern Windows PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminate-developer-not-verified-hurdles-for-app-launching-on-macos/"><u>Eliminate 'Developer Not Verified' Hurdles for App Launching on macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expand-your-windows-reach-incorporating-enhanced-script-tools/"><u>Expand Your Window's Reach: Incorporating Enhanced Script Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-window-11-apps-essential-tips/"><u>Fast-Track Window 11 Apps: Essential Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-and-workarounds-for-windows-and-xbox-collision/"><u>Fixes & Workarounds for Windows and Xbox Collision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-reload-of-printer-service/"><u>Immediate Reload of Printer Service</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-note-30i-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Note 30i Data? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lenovo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lenovo FRP</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-applecareplus-a-smart-choice-for-your-iphone-protection-plan/"><u>Is AppleCare+ a Smart Choice for Your iPhone Protection Plan?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/relaunch-google-chrome-on-win11-fixes-and-tips-here/"><u>Relaunch Google Chrome on Win11 – Fixes and Tips Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-usb-detection-issues-on-windows-11-a-step-by-step-guide/"><u>Resolving USB Detection Issues on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speeding-up-your-battlenet-game-downloads-on-pc/"><u>Speeding Up Your Battle.net Game Downloads on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-keeping-calc-always-on-windows/"><u>Strategies for Keeping Calc Always On Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-silencing-chrome-pop-ups/"><u>Tips for Silencing Chrome Pop-Ups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-intel-cores-epoch-discover-through-windows-8-ways/"><u>Your Intel Core's Epoch: Discover Through Windows (8 Ways)</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -182,3 +153,22 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-color-grading-a-look-at-luts-significance/"><u>[New] In 2024, Navigating Color Grading A Look at LUT's Significance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-pdf-visual-improvements/"><u>2024 Approved Top-Tier PDF Visual Improvements</u></a></li>
+<li><a href="https://fox-where.techidaily.com/iphone-1415-6/"><u>如何将 iPhone 14/15 相片下载到计算机：6个有效技巧</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009775164-destiny-2-pc-version-fixed-errors-and-now-running-smoothly/"><u>Destiny 2 PC Version: Fixed Errors & Now Running Smoothly!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-online-presence-with-fb-tweets-from-twitter/"><u>Elevate Your Online Presence with FB Tweets From Twitter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-windows-copilot-using-vivetool/"><u>How to Enable Windows Copilot Using ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-pc-writable-cursor-shake/"><u>How to Stop Your PC' Writable-Cursor Shake</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-we-addressed-cod-black-ops-iv-latency-and-frame-rate-fluctuations-successfully/"><u>How We Addressed Cod Black Ops IV Latency and Frame Rate Fluctuations Successfully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-2-ways-to-fade-audio-in-ableton/"><u>In 2024, 2 Ways to Fade Audio in Ableton</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-personalization-tips-and-tricks/"><u>Mastering Windows 11 Personalization: Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-wi-fi-on-windows-11-a-comprehensive-guide-with-9-strategies/"><u>Optimize Wi-Fi on Windows 11: A Comprehensive Guide with 9 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-blue-screen-woes-win11s-top-11-fixes-unveiled/"><u>Overcome Blue Screen Woes: Win11's Top 11 Fixes Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/spectral-footage-innovation-in-cams/"><u>Spectral Footage Innovation in Cams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A78 | Dr.fone</u></a></li>
+</ul></div>
+

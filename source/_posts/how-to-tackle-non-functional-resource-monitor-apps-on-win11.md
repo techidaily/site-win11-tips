@@ -1,7 +1,7 @@
 ---
 title: How to Tackle Non-Functional Resource Monitor Apps on Win11
-date: 2024-10-05T06:13:29.116Z
-updated: 2024-10-09T07:23:44.845Z
+date: 2024-10-12T08:59:32.487Z
+updated: 2024-10-15T06:25:23.938Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ So, let's move on to the solution and fix this problem.
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
@@ -71,10 +78,10 @@ To do this, follow these steps:
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -93,13 +100,6 @@ sfc /scannow
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -110,23 +110,16 @@ sfc /scannow
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
 
@@ -139,13 +132,20 @@ sfc /scannow
 ![Create a New User Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-a-new-user-account.jpg)
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
@@ -160,16 +160,17 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
@@ -194,24 +195,16 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-make-my-video-perfectly-fit-instagram/"><u>[New] In 2024, Make My Video Perfectly Fit Instagram?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-views-not-video-length-expert-guide-to-yt-desc-templates-for-2024/"><u>[Updated] Elevate Views, Not Video Length Expert Guide to YT Desc Templates for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-leap-to-the-top-with-these-8-fast-track-tiktok-steps-for-2024/"><u>[Updated] Leap to the Top with These 8 Fast-Track TikTok Steps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>[Updated] Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-like-a-pro-with-telegram-web/"><u>2024 Approved Navigating Like a Pro with Telegram Web</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>2024 Approved Universal Guide to Capturing Cinema PC, Mac & Mobile Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-itel-p40-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Itel P40 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-save-your-cortana-activity-log/"><u>Download and Save Your Cortana Activity Log</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-a-step-by-step-guide/"><u>Fixing Windows Update Error: A Step-By-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-past-the-roadblock-solutions-for-unpreviewable-files-in-email-apps/"><u>Getting Past the Roadblock: Solutions for Unpreviewable Files in Email Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/innovating-partnerships-the-journey-of-bringing-it-takes-two-to-market-success/"><u>Innovating Partnerships: The Journey of Bringing 'It Takes Two' To Market Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-accessible-wastecan-icon-on-windows-11/"><u>Reinstating Accessible Wastecan Icon on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reliable-re-boot-methods-your-explore-experience-win-11/"><u>Reliable Re-Boot Methods: Your Explore Experience, Win 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-windows-explorer-not-responding-errors-on-your-windows-7-system/"><u>Resolve 'Windows Explorer Not Responding' Errors on Your Windows 7 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-locating-and-using-the-component-services-tool/"><u>Step-by-Step: Locating and Using the Component Services Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-1011-error-0x0000004e-quick-guide/"><u>Tackling Windows 10/11 Error 0X0000004E Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-notepad-freeze-issues/"><u>Troubleshooting Windows Notepad Freeze Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-the-calculator-a-windows-11-primer/"><u>Uncovering the Calculator: A Windows 11 Primer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-boost-clicks-and-conversions-the-top-15-powerful-tools-for-fb-data-analysis/"><u>[Updated] In 2024, Boost Clicks & Conversions The Top 15 Powerful Tools for FB Data Analysis</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-time-on-win-1011-desktops/"><u>Concealing Time on Win 10/11 Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-tackling-the-most-common-directdraw-errors-on-windows-11/"><u>Expert Advice: Tackling the Most Common DirectDraw Errors on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-reno-10-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Reno 10 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-note-30i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Note 30i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-google-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Google Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-win-11-touch-settings-resetting-initial-positions/"><u>Navigate Win 11 Touch Settings: Resetting Initial Positions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-not-a-microsoft-verified-app-warning-from-installation/"><u>Removing Not a Microsoft-Verified App Warning From Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/self-made-windows-voice-recognition-tool-integrating-whisper-and-autohotkey/"><u>Self-Made Windows Voice Recognition Tool: Integrating Whisper & AutoHotkey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-ai-potential-with-lifewires-free-online-course-selection-of-15-top-picks/"><u>Unleash AI Potential with Lifewire's Free Online Course Selection of 15 Top Picks</u></a></li>
 </ul></div>
 

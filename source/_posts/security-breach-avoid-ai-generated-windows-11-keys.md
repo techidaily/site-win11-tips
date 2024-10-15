@@ -1,7 +1,7 @@
 ---
 title: "Security Breach: Avoid AI Generated Windows 11 Keys"
-date: 2024-10-04T19:37:57.961Z
-updated: 2024-10-08T21:46:44.338Z
+date: 2024-10-09T23:45:48.350Z
+updated: 2024-10-14T16:34:38.858Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
  Clearly, this isn't what's being reported so widely across the web – so what's really going on here?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do AI-Generated Windows 11 Keys Actually Work?
@@ -51,10 +51,10 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
  Unsurprisingly, it turns out ChatGPT and Bard are providing default keys for Windows operating systems. With a default key, you can download, install and even upgrade to specific versions of Windows–but there’s a catch. Default keys cannot activate Windows 11 or any other version of the OS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Even AI-Generated Activation Keys Work, They're a Bad Idea
@@ -68,16 +68,10 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
  Using free or [cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Believe Everything You Read Online
@@ -86,26 +80,6 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
 
  It’s disappointing to see so many publications cover this story without any research, fact-checking, or due diligence. The moral of the story? Don’t believe everything you read online–or use dodgy activation keys to steal software. And there are plenty other AI chatbot myths circling around online.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-boost-your-content-access-free-vocal-sfx/"><u>[Updated] Boost Your Content Access Free Vocal SFX!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-blackout-phenomenon-in-pc-titles-on-windows/"><u>Combatting Blackout Phenomenon in PC Titles on Windows</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a23-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A23 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-linux-access-without-wsl/"><u>Direct Linux Access, Without WSL</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-apple-can-rise-in-the-ai-arena-essential-features-for-competition-against-google-and-openai-insights/"><u>How Apple Can Rise in the AI Arena: Essential Features for Competition Against Google & OpenAI - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-search-in-windows-11-effective-tips-and-hacks/"><u>How to Restore Search in Windows 11 - Effective Tips and Hacks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-becoming-an-expert-at-using-zoom-for-your-windows-pc-win10/"><u>In 2024, Becoming an Expert at Using Zoom for Your Windows PC (Win10)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-customization-in-windows/"><u>Mastering Time Display Customization in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/releasing-locked-resources-in-windows-environments-154-chars/"><u>Releasing Locked Resources in Windows Environments (154 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-microsofte-shop-error-code-0x80073cf3/"><u>Tackling Microsoft'e Shop Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-onedrive-fixing-invalid-tag-errors-in-windows/"><u>Troubleshooting OneDrive: Fixing Invalid Tag Errors in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-steam-network-errors-in-windows-11/"><u>Unblocking Steam Network Errors in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,3 +87,20 @@ Over the past few days, reports have popped up everywhere about ChatGPT and Bard
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-country-grooves-for-calmness-top-20-tiktok-anthems/"><u>[New] Country Grooves for Calmness Top 20 TikTok Anthems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-designing-engaging-film-teasers-for-2024/"><u>[Updated] Designing Engaging Film Teasers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-choices-for-livestreaming-made-simple-mac-edition-for-2024/"><u>Best Choices for Livestreaming Made Simple - Mac Edition for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-uptime-failure-error-code-0x80246007-on-win11/"><u>Conquering Uptime Failure: Error Code 0X80246007 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-effective-windows-troubleshooting/"><u>Eliminating Not Found: Effective Windows Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/growth-tactics-for-windows-storage-preserve-information/"><u>Growth Tactics for Windows Storage, Preserve Information</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-12-mini-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 12 mini You Should Try Out</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-s17-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo S17 Pro Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reopening-calendars-and-mail/"><u>Mastering the Art of Reopening Calendars and Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-resource-usage-settings-in-the-windows-subsystem/"><u>Navigating Resource Usage Settings in the Windows Subsystem</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-get-your-glitch-on-the-top-10-mobile-video-editing-apps-for-experimental-artists/"><u>Updated 2024 Approved Get Your Glitch On The Top 10 Mobile Video Editing Apps for Experimental Artists</u></a></li>
+</ul></div>
+

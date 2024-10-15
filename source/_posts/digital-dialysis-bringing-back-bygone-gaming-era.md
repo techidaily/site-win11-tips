@@ -1,7 +1,7 @@
 ---
 title: "Digital Dialysis: Bringing Back Bygone Gaming Era"
-date: 2024-10-03T17:05:44.269Z
-updated: 2024-10-08T23:46:01.912Z
+date: 2024-10-10T22:38:04.128Z
+updated: 2024-10-14T23:21:22.602Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
  For this article, though, we'll stick to classic DOS games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Download and Install DOSBox-X
 
  DOSBox-X is free and available on Windows, Macs, and Linux. In this guide, we'll be using its Windows version.
@@ -43,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![DOSBox-X executable in folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-executable-in-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the version you've downloaded, and if you installed or extracted it, you'll either find a shortcut to the DOSBox-X app in the **Windows Start menu**/your **Desktop**, or you'll have to visit its folder with your favorite file manager and double-click **dosbox-x.exe** to launch it.
 
  Keep that in mind, but don't launch the app yet - we first have to do some folder juggling.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setting Up Your Storage for DOSBox-X
 
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
@@ -88,24 +95,18 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![DOSBox-X DriveC Game Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-drivec-game-folders.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
 
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Setting Up the Directory
 
@@ -126,16 +127,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 ![DOSBox-X Configuration Tool Editing AutoExec](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-editing-autoexec.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press **Enter** and type **c:** in the line underneath. That's how you "change the active drive" inside a DOS environment.
@@ -152,21 +147,7 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
 ![DOSBox-X Configuration Tool Calling For Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-calling-for-help.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  DOSBox's **Help** offers information about all its configuration options, but for now, turn your attention to those under **aspect**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Setting Up the Aspect Ratio
 
@@ -185,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 ![DOSBox-X Configuration Tool Choosing Config File and Restarting App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-choosing-config-file-and-restarting-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Launching Your Retro-Favorites With DOSBox-X
@@ -207,10 +188,10 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 ![DOSBox-X Dir Virtual C Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-virtual-c-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Let's say you want to launch the classic shareware version of id's genre-defining Doom that you already have in your storage in a folder with the game's name.
@@ -218,6 +199,19 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
  Type **cd doom** to "enter" the game's folder.
 
 ![DOSBox-X CD Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-cd-doom.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **dir \*.bat** to check for any runnable batch files in the folder. You'll see two, **IAFIX.BAT** and **RUN.BAT**.
 
@@ -243,25 +237,6 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-no-cost-voice-altering-app-for-valorant-enthusiasts/"><u>[New] 2024 Approved Best No-Cost Voice Altering App for Valorant Enthusiasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-excellent-video-recorders-for-desktops-for-2024/"><u>[New] Excellent Video Recorders for Desktops for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-watch-instagram-live-anonymously/"><u>[Updated] How to Watch Instagram Live Anonymously</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplify-lenovo-screen-casting-today/"><u>[Updated] Simplify Lenovo Screen Casting Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-insights-budgeted-windows-11-codes/"><u>Exclusive Insights: Budgeted Windows 11 Codes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-navigating-the-telegram-online-experience/"><u>Expert Tips for Navigating the Telegram Online Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-maintaining-reliable-windows-notepad-performance/"><u>Mastery in Maintaining Reliable Windows Notepad Performance</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/securely-transferring-camera-photos-to-snapchat-correctly/"><u>Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-palette-of-digital-artistic-possibilities-on-win10/"><u>The Ultimate Palette of Digital Artistic Possibilities on Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-recover-from-lost-connection-error-in-win/"><u>Tips to Recover From Lost Connection Error in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-loadlibrary-err-87-misstep/"><u>Troubleshooting LoadLibrary Err 87 Misstep</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-fixing-0x0000004e-in-windows-1011/"><u>Unraveling and Fixing 0X0000004E in Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-affordable-1440p-gaming-displays/"><u>Unveiling the Best Affordable 1440P Gaming Displays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-isnt-my-usb-mouse-working-on-my-laptop-top-repair-strategies-inside/"><u>Why Isn't My USB Mouse Working on My Laptop? Top Repair Strategies Inside</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -269,3 +244,23 @@ thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-iphone-and-android-photo-and-video-capture-applications-reviewed/"><u>[New] In 2024, Best iPhone & Android Photo & Video Capture Applications Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-facebook-stories-a-comprehensive-users-handbook/"><u>2024 Approved Mastering Facebook Stories A Comprehensive User's Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-hyper-v-error-code-0x8009030e/"><u>Diagnosing and Fixing Hyper-V Error Code 0X8009030E</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-the-ultimate-free-screen-capture-app-compatible-with-windows-and-macos/"><u>Download the Ultimate Free Screen Capture App Compatible with Windows & macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-scraps-to-stunning-a-photomontage-journey-for-2024/"><u>From Scraps to Stunning A Photomontage Journey for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-kanaal-omvangvergroten-m4b-naar-avi-converter-overheidsloos-en-echtzeit/"><u>Gratuit Kanaal-Omvangvergroten: M4B Naar Avi Converter Overheidsloos en Echtzeit</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-soundscape-by-tuning-irqs/"><u>Mastering Windows Soundscape by Tuning IRQs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-windows-11-personal-hub/"><u>Mastering Your Windows 11 Personal Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-inaccessible-displays-on-nvidia-software/"><u>Overcoming Inaccessible Displays on Nvidia Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/re4-reborn-stability-fixes-expert-tips-for-a-smooth-gaming-experience/"><u>RE4 Reborn Stability Fixes: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-system-updates-notification-on-pc/"><u>Silence System Updates Notification on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-picks-of-screen-recording-applications-for-modern-windows-users/"><u>Top Picks of Screen Recording Applications for Modern Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-and-def5-nine-strategies-to-resolve-onedrive-errors/"><u>Win11 and DEF5: Nine Strategies to Resolve Onedrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-under-siege-how-to-spot-and-expel-wacatacbml-trojan/"><u>Windows Under Siege: How to Spot and Expel Wacatac.B!ml Trojan</u></a></li>
+</ul></div>
+

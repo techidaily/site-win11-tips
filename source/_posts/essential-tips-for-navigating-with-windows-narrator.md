@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Navigating with Windows Narrator
-date: 2024-10-01T20:14:20.034Z
-updated: 2024-10-09T06:05:06.046Z
+date: 2024-10-10T08:01:33.065Z
+updated: 2024-10-15T01:16:04.377Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +171,10 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,21 +196,15 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dslr-or-mirrorless-the-ultimate-question-for-videographers-for-2024/"><u>[New] DSLR or Mirrorless? The Ultimate Question for Videographers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-vivid-visions-compiling-the-leading-10-4k-capable-phone-cameras-for-2024/"><u>[Updated] Vivid Visions Compiling the Leading 10 4K-Capable Phone Cameras for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-your-mac-streaming-experience/"><u>2024 Approved Revolutionize Your Mac Streaming Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-help-you-master-the-art-of-healthy-meal-prep/"><u>Can AI Help You Master the Art of Healthy Meal Prep?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-differences-unveiling-the-separate-paths-of-local-and-microsoft-windows-login/"><u>Dissecting Differences: Unveiling The Separate Paths of Local & Microsoft Windows Login</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-analysis-of-srt-unpacking-its-significance/"><u>Expert Analysis of SRT Unpacking Its Significance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expertise-unlocked-comprehensively-scan-qr-codes-on-windows/"><u>Expertise Unlocked: Comprehensively Scan QR Codes on Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-gionee-f3-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Gionee F3 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-halt-gaming-lists-on-windows-11-ui/"><u>How to Halt Gaming Lists on Windows 11 UI</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>In 2024, Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-failed-voice-narration-in-word-for-windows/"><u>Resetting Failed Voice Narration in Word for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-absent-pin-problems-post-windows-11-system-glitch/"><u>Resolving Absent PIN Problems Post-Windows 11 System Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surface-laptop-studio-2-the-ultimate-creative-device/"><u>Surface Laptop Studio 2 - The Ultimate Creative Device?</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-90-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor 90 password or pattern lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-vitalsource-content-step-by-step-guide-to-removing-drm-from-vbk-files/"><u>Unlock Your VitalSource Content: Step-by-Step Guide to Removing DRM From .VBK Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-unveiled-generating-and-interpreting-essential-insights/"><u>Windows Unveiled: Generating & Interpreting Essential Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-srt-to-sub-pivotal-approaches-for-content-transformation/"><u>[New] 2024 Approved SRT to SUB Pivotal Approaches for Content Transformation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-override-auto-suggesting-feature-for-podcasts-in-spotify-for-2024/"><u>[New] Override Auto-Suggesting Feature for Podcasts in Spotify for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nuous-streams-perfect-loops-of-youtube-videos-for-tvs/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transfer-and-revamp-your-videos-from-microsofts-moviemaker-to-apples-imovie/"><u>How to Transfer and Revamp Your Videos From Microsoft's Moviemaker to Apple's iMovie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-one-side-windows-earbud-sound-issue/"><u>Mending One-Side Windows Earbud Sound Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-windows-0x0000011b-crash-problem/"><u>Mending the Windows 0X0000011B Crash Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-underperforming-systems-amidst-intel-errors/"><u>Navigating Through Underperforming Systems Amidst Intel Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-voice-commands-xbox-and-windows-harmony/"><u>Repairing Voice Commands: Xbox & Windows Harmony</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-2022-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 2022 Game Crashing Issues on Windows</u></a></li>
 </ul></div>
 

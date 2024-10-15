@@ -1,7 +1,7 @@
 ---
 title: Fixes for Disk Management Encountering Virtual Errors
-date: 2024-10-01T22:02:31.898Z
-updated: 2024-10-08T17:05:58.314Z
+date: 2024-10-07T17:16:20.442Z
+updated: 2024-10-14T17:20:56.435Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
  First, try disconnecting all non-essential USB devices from your PC. Make sure there aren’t any external drives, USB sticks, mobile phones, or card readers connected to your PC. Then try [opening the Disk Management utility](https://www.makeuseof.com/ways-open-disk-management-windows-10/) again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run System File and Image Repair Scans
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
  If SFC detects corrupted system files but can’t repair them, you may need to run a Deployment Image Service Management scan. That’s a tool for fixing issues with the Windows system image. You can run that utility by executing this Deployment Image command within the Command Prompt:
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable and Run the Virtual Disk Service
 
@@ -65,19 +58,19 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-type-drop-down-menu.jpg)
 5. Press **Start** within the Virtual Disk Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Select the window’s **Log on** tab.
 2. Next, click the **Allow service to interact with desktop** checkbox to select that option.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-on-tab.jpg)
 3. Click **Apply** to save your new Virtual Disk service settings.
 4. Select the Virtual Disk Properties window’s **OK** option.
 5. If you encounter the Disk Management VDS error within a remote connection environment, repeat the above steps to check the Virtual Disk service is enabled on both the local and remote PCs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Allow Remote Volume Management Through Windows Defender Firewall
 
@@ -86,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 ![The allowed apps firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/firewall-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Third-Party Security Software
@@ -100,34 +93,18 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Manage Your Drives With Disk Management Again
 
  The potential solutions in this guide aren’t totally guaranteed, but they’re the most likely ways to fix the Disk Management VDS error on a Windows PC. So, maybe one will get the Disk Management VDS issue sorted on your PC. Then you can manage and partition your drives with Disk Management again.
 
  This error means users can’t access and utilize Disk Management. The issue more typically arises in remote connection environments. This is how you can fix the Disk Management Virtual Disk Service error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-steps-to-extract-instagram-video-files-from-pcmac/"><u>[New] Easy Steps to Extract Instagram Video Files From PC/Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-on-demand-broadcasts-a-guide-to-efficient-recording/"><u>[Updated] 2024 Approved On-Demand Broadcasts A Guide to Efficient Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-hdrs-impact-on-improved-video-workflow/"><u>[Updated] 2024 Approved Unveiling HDR's Impact on Improved Video Workflow</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-optimal-camcorders-transforming-podcast-engagement/"><u>[Updated] In 2024, Optimal Camcorders Transforming Podcast Engagement</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1-streamline-your-editing-effective-techniques-to-split-audio-from-video-on-a-windows-computer/"><u>1. Streamline Your Editing: Effective Techniques to Split Audio From Video on a Windows Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-extracting-nested-archives-in-windows/"><u>Comprehensive Guide to Extracting Nested Archives in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/connecting-your-xbox-gamepad-to-pc-a-comprehensive-tutorial/"><u>Connecting Your Xbox Gamepad to PC - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-website-optimization-boosting-traffic-and-conversions/"><u>Cookiebot-Driven Website Optimization: Boosting Traffic and Conversions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-correct-the-advrcntr2dll-error-in-nero/"><u>Effective Solutions to Correct the advrcntr2.dll Error in Nero</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-toranse-of-wsl-in-windows-environment/"><u>End-Toranse of WSL in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-to-ensure-utorrent-operates-correctly-in-windows/"><u>Fixes to Ensure uTorrent Operates Correctly in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-common-windows-11-error-code-0xc0000001/"><u>Fixing the Common Windows 11 Error Code 0XC0000001</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-a70-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel A70</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-success-with-office-works-setup-in-win11/"><u>Instant Success with Office Works Setup in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-your-linux-environment-into-windows-11-seamlessly/"><u>Integrating Your Linux Environment Into Windows 11 Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-gaps-between-explore-elements/"><u>Mending Gaps Between Explore Elements</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-your-game-with-these-top-7-stardew-valley-modifications/"><u>Perfect Your Game with These Top 7 Stardew Valley Modifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-defective-battery-life-meter-on-windows-11-machines/"><u>Realigning Defective Battery Life Meter on Windows 11 Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-login-story-valiant-entries-or-fumbled-attempts/"><u>Unveiling the Login Story: Valiant Entries or Fumbled Attempts</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +113,27 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-full-screen-in-obs-no-more-worry-for-2024/"><u>[New] Full Screen in Obs, No More Worry for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-hand-tracking-explained/"><u>[Updated] Comprehensive Hand Tracking Explained</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-splitcam-probe-in-video-techs-top-spot/"><u>2024 Approved SplitCam Probe - In Video Tech's Top Spot?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-update-processes-windows-os-explored/"><u>Dissecting Update Processes: Windows OS Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-c270-webcam-drivers-and-software-compatible-with-windows-10-and-11-download-now/"><u>Free Logitech C270 Webcam Drivers & Software Compatible with Windows 10 and 11 - [Download Now]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-iphone-photo-import-errors-on-computers/"><u>How to Handle iPhone Photo Import Errors on Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y36i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y36i to iPhone | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>In 2024, The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-3-windows-group-policy-approaches/"><u>Navigating 3 Windows Group Policy Approaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-better-with-terminal-set-as-default/"><u>Navigating Better with Terminal Set as Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-reset-failed-in-windows-11/"><u>Overcoming 'Device Reset Failed' In Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-file-access-barriers-with-powershell/"><u>Overcoming File Access Barriers with PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-file-formats-transforming-docx-into-plain-pdf-text-via-windows-11/"><u>Perfecting File Formats: Transforming DOCX Into Plain PDF Text via Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-streams-audio-the-6-best-fixes-for-an-obs-microphone-that-wont-work/"><u>Revive Your Stream's Audio : The 6 Best Fixes for an OBS Microphone That Won't Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-unseen-networks-a-win11-guide/"><u>Reviving Unseen Networks: A Win11 Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>Sizzling Skills 7 Keys for Scrumptious Video Cooking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-chrome-stuck-in-w11-quick-fixes/"><u>Troubleshooting: Chrome Stuck in W11? Quick Fixes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users-for-2024/"><u>Updated The Art of Slow Motion Tips and Tricks for Windows Live Movie Maker Users for 2024</u></a></li>
+</ul></div>
+

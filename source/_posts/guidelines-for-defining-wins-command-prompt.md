@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Defining Win's Command Prompt
-date: 2024-10-04T05:56:44.171Z
-updated: 2024-10-09T03:02:11.450Z
+date: 2024-10-09T11:55:27.166Z
+updated: 2024-10-15T02:07:05.966Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
 
  Another way to change the default terminal app on your Windows 10 or 11 PC is via the Windows Console Host properties. Here are the steps for the same.
@@ -54,17 +61,17 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -77,20 +84,13 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 4. Use the drop-down menu next to **Terminal** to select your chosen terminal app, or choose **Let Windows decide** to undo any changes you've made previously.  
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -101,20 +101,6 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://buynow-info.techidaily.com/fire-up-or-tame-down-comparing-amazon-and-samsung-tablets-to-discover-your-perfect-fit/"><u>Fire Up or Tame Down? Comparing Amazon and Samsung Tablets to Discover Your Perfect Fit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-the-0x80071a90-windows-problem/"><u>How to Solve the 0X80071a90 Windows Problem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovating-sound-quality-top-6-recommendations-for-streamers-for-2024/"><u>Innovating Sound Quality Top 6 Recommendations for Streamers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-insider-beta-features-hidden/"><u>Keeping Insider Beta Features Hidden</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamer-soundscape-the-top-5-headset-guidebook-for-2024/"><u>Streamer Soundscape The Top 5 Headset Guidebook for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-imperative-of-routine-windows-file-protection/"><u>The Imperative of Routine Windows File Protection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-application-switching-aids-mac-to-windows-migration-made-easy/"><u>Top 5 Application Switching Aids: Mac-to-Windows Migration Made Easy</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-video-trailer-creation-software-for-mac-and-pc-for-2024/"><u>Top Video Trailer Creation Software for Mac and PC for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-15-pro-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 15 Pro? Fixed | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,3 +108,24 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-guides.techidaily.com/1726792603655-y-plus-3-0/"><u> [Y + 3 = 0 </u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-black-and-white-to-color-classic-video-transition-tips/"><u>[New] 2024 Approved From Black-and-White to Color Classic Video Transition Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-audience-allure-spinning-solo-podcasts-that-go-viral/"><u>[New] In 2024, Audience Allure Spinning Solo Podcasts That Go Viral</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-guide-to-video-cross-upload-twitter-and-tumblr-for-2024/"><u>[Updated] Quick Guide to Video Cross-Upload Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-the-most-frequent-iphone-display-difficulties/"><u>Best Ways to Resolve the Most Frequent iPhone Display Difficulties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elite-weather-solutions-for-windows-enthusiasts/"><u>Elite Weather Solutions for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-visible-file-images-again-in-your-windows-11-setup/"><u>Enable Visible File Images Again in Your Windows 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lan-gaming-disruptions-a-windows-mc-guide/"><u>Fixing LAN Gaming Disruptions: A Windows MC Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-your-license-expires-message-in-windows/"><u>Fixing the Your License Expires Message in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-recording-deciding-between-slower-and-faster-frame-rates/"><u>Mastering Recording Deciding Between Slower and Faster Frame Rates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-function-for-non-functional-win11-codes/"><u>Regaining Function for Non-Functional Win11 Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-dismantle-geforce-now-error-code-xc0f1103f/"><u>Strategies to Dismantle GeForce Now Error Code: Xc0f1103f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-blueprint-to-decipher-windowsstore-access-code/"><u>The Blueprint to Decipher WindowsStore Access Code</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-apps-to-stream-your-favorite-podcasts-on-iphone-for-2024/"><u>Top 5 Apps to Stream Your Favorite Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process/"><u>Updated In 2024, The Best Video Editing Apps for Mac Simplify Your Video Creation Process</u></a></li>
+</ul></div>
+

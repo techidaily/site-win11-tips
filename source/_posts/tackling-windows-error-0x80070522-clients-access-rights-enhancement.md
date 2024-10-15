@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows Error 0X80070522: Client's Access Rights Enhancement"
-date: 2024-10-08T00:33:38.026Z
-updated: 2024-10-09T00:48:04.082Z
+date: 2024-10-10T15:35:29.495Z
+updated: 2024-10-15T04:59:57.598Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
 
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
 
@@ -61,37 +68,37 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
-4. Select**Close** to exit the properties window.
-5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select**Close** to exit the properties window.
+5. Then click**Power** and select**Restart** within your Start menu.
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -114,20 +121,16 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-precision-preservation-adding-dates-to-photos-with-ease/"><u>[New] In 2024, Precision Preservation Adding Dates to Photos with Ease</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>[New] Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigating-your-way-through-screen-recording-on-mac-os-x-for-2024/"><u>[New] Navigating Your Way Through Screen Recording on Mac OS X for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-fantasy-to-reality-vrs-path/"><u>[Updated] From Fantasy to Reality VR’s Path</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiovisual-wizards-ranking-the-finest-photo-and-video-making-pros-with-soundtracks/"><u>2024 Approved Audiovisual Wizards Ranking the Finest Photo & Video Making Pros with Soundtracks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cool-climates-cozy-cinematics-selecting-winter-backgrounds-for-2024/"><u>Cool Climates, Cozy Cinematics Selecting Winter Backgrounds for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/devhomes-blueprint-for-cutting-edge-w11-living/"><u>DevHome's Blueprint for Cutting-Edge W11 Living</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unsuccessful-execution-of-high-privileges-tasks/"><u>Fixing Unsuccessful Execution of High Privileges Tasks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-clock-screen-protectors-for-windows-users/"><u>Masterful Clock Screen Protectors for Windows Users</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-4-hatsune-miku-voice-ai-generators-for-all-times/"><u>New Top 4 Hatsune Miku Voice AI Generators for All Times</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-methods-to-discover-windows-vocabulary/"><u>Rapid Methods to Discover Windows Vocabulary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/returning-your-windows-system-backup-to-start/"><u>Returning Your Windows System Backup to Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-wi-fi-connectivity-puzzles-clarifying-incomplete-instructions/"><u>Solving Wi-Fi Connectivity Puzzles: Clarifying Incomplete Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-and-reinstalling-troubled-apps-in-windows/"><u>Uninstalling and Reinstalling Troubled Apps in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hart-success-using-youtube-statistics-to-grow-engagement-for-2024/"><u>[New] Chart Success Using YouTube Statistics to Grow Engagement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secrets-of-streaming-sound-record-and-preserve-for-2024/"><u>[Updated] Secrets of Streaming Sound Record and Preserve for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/change-your-gmail-alert-tones-instructions-and-best-practices/"><u>Change Your Gmail Alert Tones - Instructions and Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-overscan-for-optimal-screen-display/"><u>Fixing Windows Overscan for Optimal Screen Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-disk-read-failures-on-windows/"><u>How To Resolve Disk Read Failures On Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-launch-system-file-checker-sfc-tool/"><u>Instructions to Launch System File Checker (SFC) Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x6s-the-ultimate-wi-fi-booster-for-seamless-internet-experience/"><u>Netgear Nighthawk X6S: The Ultimate Wi-Fi Booster for Seamless Internet Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-discord-loading-issues-on-windows-devices/"><u>Overcoming Discord Loading Issues on Windows Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-in-focus-delete-facebook-tags-quickly/"><u>Privacy in Focus: Delete Facebook Tags Quickly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia G310? | Dr.fone</u></a></li>
 </ul></div>
 

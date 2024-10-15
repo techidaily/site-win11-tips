@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Messaging Obstacles with FBM Tips
-date: 2024-10-03T01:22:03.638Z
-updated: 2024-10-09T07:42:52.111Z
+date: 2024-10-10T21:11:06.599Z
+updated: 2024-10-14T21:36:38.871Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 Now, check if Messenger is working or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Download All Pending Windows Updates
 
  As usual with Windows oddities, updating the operating system to the latest build can fix./ As such, it's worth a try if Facebook Messenger isn't working or opening.
@@ -72,11 +65,25 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 4. Click**Run** next to**Windows Store Apps** .  
 ![Running Windows Store Apps Troubleshooter in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Image-16-Running-Windows-Store-Apps-Troubleshooter-in-Windows-11-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A troubleshooter window will open and start detecting problems. The process is not going to take more than a minute.
 
  If any issue is found, the troubleshooter will try to fix it. Alternatively, it might also suggest steps on how you can do it yourself.
 
  Sometimes the troubleshooter may not be able to resolve the issue, or it might not even detect any problem in the first place, but it's worth considering anyway.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check the System Date and Time
 
@@ -91,15 +98,15 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Disabling Automatic Set Time Zone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Time-Zone.jpg)
 4. Make sure your**Time zone** is correct and change it if not.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Enable the toggle next to**Set time zone automatically** .
 6. Click the**Sync now** button under the**Additional settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair and Reset the Facebook Messenger App
 
@@ -113,13 +120,20 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 5. Click on the**Repair** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Repairing Messenger in the Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Repair-Messenger-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, launch the Messenger app and check whether it is working. If not, you will have to reset the application.
 
@@ -134,13 +148,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
  Clearing the Windows Store cache is another effective solution you can try if Facebook Messenger is not working on Windows PC. In fact, removing the Store cache can eliminate many other Windows issues as well. It's very simple to clear the Store cache and will take less than a minute.
 
 [Open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) , type**wsreset.exe** and press Enter. A black Command Prompt window will pop up, indicating that the cache is being cleared. After a few seconds, the window will close, and Microsoft Store will open automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable the Security App
 
@@ -166,23 +173,17 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Reset the Windows Update Components
@@ -197,13 +198,6 @@ Here's how to use the tool:
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
 
 ## 10\. Reinstall Facebook Messenger
@@ -214,16 +208,16 @@ Here's how to use the tool:
 ![Uninstall button in the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Uninstall-Messenger.jpg)
 2. Confirm your selection by choosing**Uninstall** from the prompt that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Now, open the Microsoft Store, type Messenger, and press Enter.  
 ![Installing Messenger from Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Install-Messenger.jpg)
 4. Click on**Install** to begin the installation process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connect With Friends Again on Messenger
 
@@ -244,21 +238,24 @@ Here's how to use the tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-leveraging-youtube-for-seamless-facebook-sharing/"><u>[New] Leveraging YouTube for Seamless Facebook Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>[New] The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-tracing-your-steps-how-to-negative-play-on-instagram/"><u>[New] Tracing Your Steps How to Negative-Play on Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-thumbnail-crafting/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Thumbnail Crafting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-bandicam-in-focus-the-updated-guide-users-for-2024/"><u>[Updated] Bandicam in Focus The Updated Guide Users for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-techniques-preventing-apex-crashes-on-windows-11/"><u>Dive Into Techniques: Preventing Apex Crashes on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-ce-3-lite-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord CE 3 Lite 5G Device SIM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-system-tools-sfc-chkdsk-and-dissect-wintools-decoded/"><u>Exploring System Tools: SFC, CHKDSK, and Dissect - WinTools Decoded</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unheard-sound-from-devices-on-microsoft-windows/"><u>Fixing Unheard Sound From Devices on Microsoft Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-find-x6-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Find X6 Phone Now with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterful-solutions-to-address-adobes-start-up-issue-handling-error-code-0xc0000022-effectively/"><u>Masterful Solutions to Address Adobe's Start Up Issue: Handling Error Code 0xC0000022 Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-high-definition-screen-scale-glitches/"><u>Overcoming High-Definition Screen Scale Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-lower-ntoskrnlexe-usage/"><u>Strategies to Lower Ntoskrnl.exe Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-win-11-way-merging-folders-and-files-with-precision/"><u>The Win 11 Way: Merging Folders & Files with Precision</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-srt-from-a-securely-packed-zip-file/"><u>Unlocking SRT From a Securely Packed Zip File</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>[Updated] Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[Updated] From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-70-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 70 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-buys-in-the-realm-of-4k-video-tools-for-2024/"><u>Best Buys in the Realm of 4K Video Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-how-windows-displays-relaxation/"><u>Deciphering How Windows Displays Relaxation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc/"><u>Download Twitter GIF 3 Ways to Download GIFs From Twitter on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-non-responsive-printer-a-guide-for-wwin-issues-on-pcs/"><u>Eliminate Non-Responsive Printer: A Guide for WWin Issues on PCs.</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-virtual-machine-speed-in-windows-a-6-step-guide/"><u>Enhance Virtual Machine Speed in Windows - A 6-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-strategies-for-clear-communication-on-google-meet/"><u>Expert Strategies for Clear Communication on Google Meet</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>In 2024, TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
+<li><a href="https://solve-news.techidaily.com/las-tacticas-mas-efectivas-para-mejorar-la-calidad-de-sus-fotos-ranking-del-2024/"><u>Las Tácticas Más Efectivas Para Mejorar La Calidad De Sus Fotos: Ranking Del 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-your-system-microsofts-pc-manager-on-win11/"><u>Perfecting Your System: Microsoft's PC Manager on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-blue-screen-error-with-vmware-in-win11/"><u>Preventing Blue Screen Error with VMware in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purge-the-pasts-3-methods-to-clean-windows/"><u>Purge the Pasts: 3 Methods to Clean Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-windows-success-with-enhancements/"><u>Redefining Windows Success with Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-browsing-with-defender-aguard-on-windows-11-edge/"><u>Secure Browsing with Defender Aguard on Windows 11 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-the-widely-reported-error-code-0x8004def5-in-windows-11/"><u>Strategies to Overcome the Widely Reported Error Code 0X8004def5 in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-motivations-behind-corporate-decisions-to-prohibit-chatgpt-use/"><u>Top 5 Motivations Behind Corporate Decisions to Prohibit ChatGPT Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-disk-management-in-w10w11/"><u>Unveiling the Power of Disk Management in W10/W11</u></a></li>
 </ul></div>
 

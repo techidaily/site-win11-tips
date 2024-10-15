@@ -1,7 +1,7 @@
 ---
 title: "Win 10/11: Personalize Your Functional Keys"
-date: 2024-10-06T20:32:48.485Z
-updated: 2024-10-08T21:22:41.516Z
+date: 2024-10-09T19:23:48.938Z
+updated: 2024-10-15T15:23:35.490Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ Here is how to proceed:
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
@@ -60,10 +53,10 @@ Here is how to proceed:
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
@@ -97,20 +90,13 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
@@ -120,6 +106,13 @@ If you are a Windows 11 user, follow these steps:
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
@@ -127,16 +120,16 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -145,6 +138,19 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -179,19 +185,19 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-instagram-data-a-complete-analysis-for-businesses-and-individuals/"><u>[Updated] 2024 Approved Navigating Instagram Data A Complete Analysis for Businesses and Individuals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-fix-valorant-thumbnails-professionally-done-now/"><u>[Updated] Quick-Fix Valorant Thumbnails Professionally Done Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-inverting-your-media-files/"><u>2024 Approved IPhone Guide Inverting Your Media Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-chrome-glitches-a-guide-for-windows-users/"><u>Clearing Chrome Glitches: A Guide for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/gue-enrichment-system-for-2024/"><u>Dialogue Enrichment System for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-the-absence-of-windows-hello-scanner-error/"><u>Guiding Through the Absence of Windows Hello Scanner Error</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-defy-2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Defy 2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-save-windows-screen-shots-made-simple/"><u>In 2024, Capture and Save Windows Screen Shots Made Simple</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-revitalize-disappearing-watch-preview/"><u>In 2024, Revitalize Disappearing Watch Preview</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-win11s-network-provisioning-via-netstat-command-line/"><u>Insight Into Win11's Network Provisioning via Netstat Command-Line</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerpoint-audio-troubleshooting-non-operational-mic/"><u>PowerPoint Audio Troubleshooting: Non-Operational Mic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagine-desktop-management-crafting-personalized-snap-layouts/"><u>Reimagine Desktop Management: Crafting Personalized Snap Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-dysfunctional-windows-registry-entries/"><u>Restoring Dysfunctional Windows Registry Entries</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-manycam-premium-live-streaming-and-virtual-camera-app/"><u>Ultimate Guide to ManyCam - Premium Live Streaming and Virtual Camera App</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>[Updated] In 2024, Advanced Setup Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-comprehensive-path-to-instagram-riches/"><u>[Updated] In 2024, The Ultimate Comprehensive Path to Instagram Riches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimal-platforms-for-remote-team-engagement/"><u>2024 Approved Optimal Platforms for Remote Team Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-mobile-and-desktop-player-for-avis/"><u>2024 Approved Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-igtv-media-step-by-step-guide-for-pc-and-mac-devices/"><u>Capture IGTV Media Step-by-Step Guide for PC & Mac Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-disk-space-graph-in-windows-explorer-context/"><u>Creating a Disk Space Graph in Windows Explorer Context</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-solutions-to-rectify-iomap64-freeze-error-in-winos/"><u>Easy Solutions to Rectify IOMap64 Freeze Error in WinOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-performance-improved-how-to-prevent-your-football-manager-2020-from-crashing/"><u>Game Performance Improved: How to Prevent Your Football Manager 2020 From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-disk-unknown-not-initialized-issue-on-windows/"><u>How to Fix the “Disk Unknown Not Initialized” Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>How to Fix Your Webcam Showing a Black Screen on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lsa-safety-measures-fully-operational-again-secure-your-system-now/"><u>LSA Safety Measures Fully Operational Again - Secure Your System Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-multiple-close-down-in-one-swift-action-on-windows/"><u>Master Multiple Close-Down in One Swift Action on Windows</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/optimisez-vous-votre-portfolio-avec-une-sauvegarde-pour-ameliorer-la-distinction/"><u>Optimisez-Vous Votre Portfolio Avec Une Sauvegarde Pour Améliorer La Distinction?</u></a></li>
 </ul></div>
 

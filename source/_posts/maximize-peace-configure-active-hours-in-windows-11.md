@@ -1,7 +1,7 @@
 ---
 title: "Maximize Peace: Configure Active Hours in Windows 11"
-date: 2024-10-04T19:32:08.776Z
-updated: 2024-10-09T06:38:47.008Z
+date: 2024-10-12T02:48:48.989Z
+updated: 2024-10-14T23:58:13.735Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 6. In the **Start time** and **End time** fields, specify the hours during which you typically use your device.  
 ![Set Active Hours Manually via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Set Active Hours Manually Using the Group Policy Editor
 
  Although the Group Policy Editor on Windows is commonly used to manage advanced system-level settings, you can also use it to set active hours on your computer.
@@ -62,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Set Active Hours Manually via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Set Active Hours Manually With the Registry Editor
@@ -85,14 +78,28 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 8. Double-click the **ActiveHoursEnd** entry to set the end time of your active hours in the 24-hour format. For instance, if you want to set the end time to **5:00 PM**, type **17** in the Value data field and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Exit the Registry Editor window.  
 ![Set Active Hours Manually via the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Configure Windows to Set Active Hours Automatically
 
@@ -105,41 +112,11 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 3. Click the drop-down menu next to **Adjust active hours** and select **Automatically**.  
 ![Set Active Hours Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-automatically-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting Active Hours on Windows Is Easy
 
  Once you set the active hours using one of the above methods, Windows will avoid initiating automatic restarts for updates during the specified period. As a result, you won’t be interrupted by sudden reboots during your work hours.
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[New] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-perfecting-the-fisheye-lens-for-immersive-views/"><u>[New] 2024 Approved Perfecting the Fisheye Lens for Immersive Views</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtubes-elite-annual-showcases-post-vidcon/"><u>[New] 2024 Approved YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-free-online-meeting-software-roundup/"><u>[New] The Ultimate List Free Online Meeting Software Roundup</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-monetization-masterclass-with-carminati-ajay-crafting-content-for-commerce/"><u>[Updated] Monetization Masterclass with Carminati (AJay) Crafting Content for Commerce</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-adobes-art-of-amusement-and-jest/"><u>2024 Approved Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-play-8t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor Play 8T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-video-quality-chrome-and-youtube-optimization/"><u>Elevating Video Quality: Chrome and YouTube Optimization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-the-role-of-ai-in-microsofts-store/"><u>Inside: The Role of AI in Microsoft's Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-concurrent-subfolder-creation-on-windows-pcs/"><u>Maximize Your Efficiency with Concurrent Subfolder Creation on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-disconnecting-woes-essential-fixes-for-windows-usb-wifi/"><u>Overcome Disconnecting Woes – Essential Fixes for Windows USB Wifi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-share-denial-in-microsoft-os/"><u>Overcome Share Denial in Microsoft OS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/revive-lost-media-icons-on-facebook-users-for-2024/"><u>Revive Lost Media Icons on Facebook Users for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/seaside-and-spa-tech-perfection-guidebook/"><u>Seaside & Spa Tech Perfection Guidebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaky-storage-concealing-drives-on-windows-os/"><u>Sneaky Storage: Concealing Drives on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80071a90/"><u>Step-by-Step Fix for Windows Error 0X80071A90</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-login-processes/"><u>Streamlining Windows 11 Login Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-drivers-that-wont-load-in-win11/"><u>Tips for Fixing Drivers that Won't Load in Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-15-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 15 Without Passcode Easily</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +125,20 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-buy-youtube-views-everything-you-need-to-know-for-2024/"><u>[Updated] How to Buy YouTube Views - Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-acceleration-trendsetting-with-likes-and-videos/"><u>[Updated] In 2024, Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-visibility-of-clock-on-windows-11-bar/"><u>Controlling Visibility of Clock on Windows 11 Bar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-asus-rog-strix-xg27acs-qhd-180hz-gaming-display-a-true-game-changer-in-visuals-and-response-times/"><u>Exploring the Asus ROG Strix XG27ACS QHD 180Hz Gaming Display - A True Game Changer in Visuals and Response Times</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-windows-emailcalendar-pop-infuse-it-with-pics/"><u>Make Windows Email/Calendar Pop: Infuse It With Pics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/razer-gaming-drivers-for-all-windows-platforms-windows-10-8-7-xp-and-vista-download-instructions/"><u>Razer Gaming Drivers for All Windows Platforms (Windows 10, 8, 7, XP, and Vista): Download Instructions</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-disabled-radeon-software-on-windows-computers/"><u>Solutions for Disabled Radeon Software on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-high-energy-spikes-a-guide-for-windows-users/"><u>Taming High Energy Spikes: A Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-techniques-for-an-improved-start-screen-in-windows-11/"><u>Top Techniques for an Improved Start Screen in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zerogpt-and-peers-are-they-trustworthy-for-accurate-ai-detection-evidence-based-analysis/"><u>ZeroGPT and Peers: Are They Trustworthy for Accurate AI Detection? Evidence-Based Analysis</u></a></li>
+</ul></div>
+

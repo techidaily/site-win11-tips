@@ -1,7 +1,7 @@
 ---
 title: Navigating High DPI Settings in Windows
-date: 2024-10-07T21:14:33.212Z
-updated: 2024-10-08T16:09:14.804Z
+date: 2024-10-09T14:44:36.474Z
+updated: 2024-10-15T02:38:16.914Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -42,25 +49,19 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 6. Select the one that best fits your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Display DPI Scaling Using the Registry Editor
@@ -81,13 +82,6 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 ![Change Display DPI Scaling in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-in-windows.jpg)  
 | Value data | DPI scale                  |  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 | ---------- | -------------------------- |  
 | 96         | Smaller 100% (Recommended) |  
 | 120        | Medium 125%                |  
@@ -103,10 +97,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select**Hexadecimal** as the base and click**OK** .
@@ -132,24 +126,14 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/astering-medias-closing-chapters-for-2024/"><u>[New] Mastering Media's Closing Chapters for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapchat-a-commerce-strategy/"><u>[New] Navigating Snapchat A Commerce Strategy</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-essentials-of-adding-emojis-to-youtube-discussions/"><u>[Updated] 2024 Approved The Essentials of Adding Emojis to Youtube Discussions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-to-vsco-image-enhancement/"><u>2024 Approved Comprehensive Guide to VSCO Image Enhancement</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-cost-conscious-aerial-assistants-top-5-drones/"><u>2024 Approved Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-honor-magic-6-frp-bypass-by-drfone-android/"><u>About Honor Magic 6 FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-error-code-0xca00a009-in-windows-update/"><u>Deciphering Error Code 0xCA00A009 in Windows Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-speakers-software-compatible-with-windows-11-7-and-8/"><u>Download Logitech Speakers Software Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fix-disk-read-error-in-windows/"><u>Essential Guide to Fix Disk Read Error in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 6 Plus?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-the-headset-comprehensive-vr-gear-analysis/"><u>Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-techniques-distinguishing-between-storage-disks-on-windows/"><u>Masterful Techniques: Distinguishing Between Storage Disks on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-childs-digital-experience-in-windows-11/"><u>Secure Your Child’s Digital Experience in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-custom-keyboard-combo-for-sound-in-windows-11/"><u>Setting Up Custom Keyboard Combo for Sound in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-unearth-windows-policy-rules/"><u>Strategies to Unearth Windows Policy Rules</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-cursor-for-a-unique-visual-identity/"><u>Tailoring Your Cursor for a Unique Visual Identity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-isolate-audio-devices-on-windows-platform/"><u>Why Isolate Audio Devices on Windows Platform?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-idle-lock-custom-settings-guide/"><u>Windows Idle Lock: Custom Settings Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-detect-windows-proxies/"><u>How to Correctly Detect Windows Proxies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-and-use-google-play-in-w11-os/"><u>How to Install and Use Google Play in W11 OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-the-world-with-these-leading-4k-cams/"><u>In 2024, Capture the World with These Leading 4K Cams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-note-30-vip-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Note 30 VIP Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12r-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12R to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reassigning-win11s-network-identities/"><u>Reassigning Win11's Network Identities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-stashing-zips-integrating-extracts-into-images-on-pcs/"><u>Securely Stashing Zips: Integrating Extracts Into Images on PCs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 30i</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sidestep Windows 11'S Default USB Suspend
-date: 2024-10-07T04:38:00.597Z
-updated: 2024-10-08T16:37:41.877Z
+date: 2024-10-09T23:23:18.721Z
+updated: 2024-10-15T08:40:49.928Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  Now that you know the reason, let’s check out different ways to disable USB selective suspend on Windows 11\.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Using the Device Manager
 
  The Device Manager on Windows is the go-to place to manage USB devices connected to your system. You can use it to [update outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/), uninstall devices, and much more. It can also help you turn off the USB selective suspend feature.
@@ -45,18 +58,19 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 2. Double-click on the **Universal Serial Bus controllers** node.  
 ![Universal Serial Bus controllers node in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/universal-serial-bus-controllers-node.jpg)
 3. Right-click on any **Generic USB Hub** or **USB Root Hub** drivers and choose **Properties**.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![USB Root Hub driver in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-root-hub.jpg)
 4. Switch to the **Power** **Management** tab and uncheck the **Allow the computer to turn off this device to save power** option. Then, click **OK** to save the changes.  
 ![Allow the computer to turn off this device to save power option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-the-computer-to-turn-off-this-device-to-save-power-option.jpg)
 
  Now, repeat the above steps for all the USB drivers for which you want to disable USB selective suspend.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Using the Control Panel
 
@@ -71,26 +85,20 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 4. Double-click on the **USB settings** option and then expand **USB selective suspend setting**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![USB selective suspend setting in Power Option window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-selective-suspend-setting.jpg)
 5. Choose **Disabled** for both the **On battery** and **Plugged in** options.  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disabled option in Power Option window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disabled-option.jpg)
@@ -107,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 `powercfg /SETACVALUEINDEX SCHEME_CURRENT 2a737441-1930-4402-8d77-b2bebba308a3 48e6b7a6-50f5-4782-a5d4-53bb8f07e226 0`  
 ![Disable USB Selective Suspend command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-usb-selective-suspend.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And you're done! The USB selective suspend feature is now disabled on your Windows computer. If you wish, you can easily turn it back on using the same navigation as shown above.
 
 ## USB Selective Suspend Is Good, but Not Perfect
@@ -124,27 +125,6 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  If you encounter issues with USB devices on your Windows 11 computer, consider disabling the USB selective suspend feature. Here’s how to do so on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-reel-game-on-insta-with-tiktoks-best-practices-for-2024/"><u>[New] Elevate Your Reel Game on Insta with TikTok's Best Practices for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/eady-yourself-for-youtube-video-production-finalcut-pro-techniques-for-2024/"><u>[New] Ready Yourself for YouTube Video Production - FinalCut Pro Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tailor-your-subscribe-bar-a-quick-filmora-method-for-youtube-authentics/"><u>[New] Tailor Your Subscribe Bar A Quick Filmora Method for YouTube Authentics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-video-apps-review-youtube-iphones-and-androids/"><u>[Updated] 2024 Approved Best Video Apps Review YouTube iPhones & Androids</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>[Updated] 2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-your-content-on-vimeo-free-plus-or-pro-for-2024/"><u>[Updated] Mastering Your Content on Vimeo Free, Plus or Pro for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-method-to-delete-wsl/"><u>Comprehensive Method to Delete WSL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-out-delays-for-administrator-level-terminals/"><u>Cut Out Delays for Administrator-Level Terminals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-fitbit-inspire-hr-revolutionizes-247-wearable-fitness-technology/"><u>How the Fitbit Inspire HR Revolutionizes 24/7 Wearable Fitness Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-controlled-folder-access-in-windows-10-and-11/"><u>How to Enable Controlled Folder Access in Windows 10 & 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-the-apple-watch-s-worth-it-an-in-depth-review-for-savvy-buyers/"><u>Is The Apple Watch S Worth It? An In-Depth Review For Savvy Buyers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speeding-up-browsing-with-microsoft-edge-on-win10w11/"><u>Speeding Up Browsing with Microsoft Edge on Win10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-up-synergy-launching-sticky-notes-with-windows-logon/"><u>Start-Up Synergy: Launching Sticky Notes with Windows Logon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-reestablishing-remote-network-links-in-winvpn/"><u>Strategies for Reestablishing Remote Network Links in WinVPN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/take-charge-of-your-computer-task-manager-elevated-mode-demystified-in-win11/"><u>Take Charge of Your Computer: Task Manager Elevated Mode Demystified in Win11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-experts-insights-on-iphone-based-podcast-acquisition-for-2024/"><u>The Expert's Insights on iPhone-Based Podcast Acquisition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unboxing-the-stars-latest-laptops-from-ifa-2023/"><u>Unboxing the Stars - Latest Laptops From IFA 2023</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +132,24 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-smart-scale-for-visual-content/"><u>[New] Smart Scale for Visual Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>[New] Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs-for-2024/"><u>[Updated] How-To Guide Advanced Techniques for Skype Screenshots via OBS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jokes-just-a-click-away-iphone/"><u>[Updated] Jokes Just a Click Away (iPhone)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-ipads-full-potential-a-timelapse-journey-begins-here-for-2024/"><u>[Updated] Unveiling iPad's Full Potential A Timelapse Journey Begins Here for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dissection-of-fb-video-dimensions/"><u>2024 Approved Dissection of FB Video Dimensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-which-is-better-for-raspberry-pi-retro-gaming/"><u>Batocera Vs. RetroPie: Which Is Better for Raspberry Pi Retro Gaming?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expediting-torrent-downloads-windows-solutions/"><u>Expediting Torrent Downloads: Windows Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g34-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G34 5Gwith/without a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interface-innovations-dissecting-changes-from-w10-to-w11/"><u>Interface Innovations: Dissecting Changes From W10 to W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-corrections-overcoming-frequent-freezes-in-wwe-games/"><u>Quick Corrections: Overcoming Frequent Freezes in WWE Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-unable-to-manage-default-audio-device/"><u>Remedying 'Windows Unable to Manage Default Audio Device'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-solution-tackling-unrecognized-disk-in-windows-11-environment/"><u>Stepwise Solution: Tackling 'Unrecognized Disk' In Windows 11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-task-managers-cpu-statistics-with-clarity/"><u>Understanding Task Manager's CPU Statistics with Clarity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-dissecting-its-enhanced-data-preservation-system/"><u>Windows 11: Dissecting Its Enhanced Data Preservation System</u></a></li>
+</ul></div>
+

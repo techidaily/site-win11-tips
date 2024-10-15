@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: A Guide to Instant Definition Lookup"
-date: 2024-10-02T23:25:52.159Z
-updated: 2024-10-08T22:58:37.808Z
+date: 2024-10-13T22:51:10.988Z
+updated: 2024-10-15T04:25:35.136Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ These are the steps to use the dictionary in Microsoft Edge:
  Edge will now show a popup containing the different meanings of that word. However, if you do not like the Mini menu, the browser's right-click context menu also includes the**Define** option. You can get definitions of words from the context menu, too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find Definitions in the Windows 11 Search Box
@@ -61,21 +61,22 @@ Here's how:
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Ask the Cortana App for a Definition
 
 ![Cortana app showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-cortana-n.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Cortana app is another helpful tool in Windows 11 to help you look up definitions. To use the app as a tool to find the meanings of words, follow the below steps:
 
@@ -85,20 +86,13 @@ Here's how:
 3. Type "define" followed by the word you want to know the meaning of.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Press**Enter** on your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Finding Definitions in Windows 11
 
@@ -121,22 +115,24 @@ Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-critical-analysis-the-best-skype-recorders-of-2023/"><u>[New] Critical Analysis The Best Skype Recorders of 2023</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-precision-in-prose-enhancing-narrative-scripts/"><u>[Updated] 2024 Approved Precision in Prose Enhancing Narrative Scripts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-concoct-chuckles-giphy-edition/"><u>2024 Approved Concoct Chuckles - Giphy Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>2024 Approved Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/defend-your-web-assets-blocking-openais-automated-information-extraction-tools/"><u>Defend Your Web Assets: Blocking OpenAI's Automated Information Extraction Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-4-paths-to-protect-windows-post-bitlocker/"><u>Discover 4 Paths to Protect Windows Post-BitLocker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-changing-passwords-for-other-users-in-windows-systems/"><u>Guide: Changing Passwords for Other Users in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quash-disconnecting-drama-in-discord-on-windows-11-pcs/"><u>How to Quash Disconnecting Drama in Discord on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-creativity-opening-ms-paint-on-win11/"><u>Jumpstart Creativity: Opening MS Paint on Win11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-essential-hashtag-tips-for-2024/"><u>Mastering Instagram Essential Hashtag Tips for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013888931-obs-microphone-not-working-discover-the-6-most-effective-solutions-of-2024/"><u>OBS Microphone Not Working? Discover the 6 Most Effective Solutions of 2024!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-printmanagement-not-found-issue-quickly/"><u>Overcoming Windows Printmanagement Not Found Issue Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/purchase-the-ultimate-video-tool-movavi-suite-your-key-to-professional-quality/"><u>Purchase the Ultimate Video Tool: Movavi Suite – Your Key to Professional Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-reactivate-your-preferred-microsoft-store-apps/"><u>Quick Fix: Reactivate Your Preferred Microsoft Store Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-folder-interruption-noise-in-win11/"><u>Reducing Folder Interruption Noise in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-powershell-workflow-with-script-policy-controls/"><u>Streamline Your PowerShell Workflow with Script Policy Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-taskbars-hidden-features/"><u>Unveiling Windows Taskbar's Hidden Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>[New] Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[Updated] Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-full-breakdown-mastering-facetune-for-photo-enhancement/"><u>2024 Approved The Full Breakdown Mastering Facetune for Photo Enhancement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/breakthrough-strategies-for-effective-fb-health-promotion/"><u>Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-tools-the-leading-camera-selections/"><u>Cinematic Tools The Leading Camera Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-cut-cinematic-9-ways-to-ensure-smooth-videos-on-windows-os/"><u>Clear Cut Cinematic: 9 Ways to Ensure Smooth Videos on Windows OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo N55 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-map-integration-microsoft-meets-google/"><u>Master the Art of Map Integration: Microsoft Meets Google</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-bring-back-missing-windows-patch-service/"><u>Methods to Bring Back Missing Windows Patch Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-domain-services-printing-issues-in-windows-oses/"><u>Navigating Through Domain Services Printing Issues in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-smooth-files-transfer-on-win11-systems-2/"><u>Re-Establishing Smooth Files Transfer on WIN11 Systems (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-default-menu-with-advanced-move-and-copy-options/"><u>Revamping the Default Menu with Advanced Move and Copy Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fix-for-critical-system-data-handling-failures/"><u>Step-by-Step Fix for Critical System Data Handling Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-pc-toggle-folders-visibility-windows-11/"><u>Streamline Your PC: Toggle Folders Visibility (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-blueprint-for-snaps-via-powertoys/"><u>The Ultimate Blueprint for Snaps via PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-applications-for-your-pc-switch-from-mac/"><u>The Ultimate Guide to Applications for Your PC Switch From Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-banishing-your-bass-boxs-buzzing-noise/"><u>Ultimate Guide: Banishing Your Bass Box's Buzzing Noise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-zoom-quality-addressing-code-1132-concerns/"><u>Win 10/11 Zoom Quality: Addressing Code 1132 Concerns</u></a></li>
 </ul></div>
 

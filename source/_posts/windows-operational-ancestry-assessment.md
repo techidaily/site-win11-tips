@@ -1,7 +1,7 @@
 ---
 title: Windows Operational Ancestry Assessment
-date: 2024-09-14T04:37:19.369Z
-updated: 2024-09-17T00:42:19.163Z
+date: 2024-10-14T03:37:11.555Z
+updated: 2024-10-15T11:34:11.237Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
@@ -84,6 +91,13 @@ systeminfo.exe
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
  To view the Original install date, open Command Prompt and type the following command. Press Enter to continue.
@@ -92,31 +106,31 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
@@ -129,10 +143,10 @@ systeminfo | find /I "install date"
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
@@ -154,5 +168,17 @@ systeminfo | find /I "install date"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-funnyframefinder-your-source-for-meme-creation-online/"><u>[New] 2024 Approved FunnyFrameFinder Your Source for Meme Creation Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>[New] 2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cryptic-file-migration-protecting-data-on-winos-platforms/"><u>Cryptic File Migration: Protecting Data on WinOS Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-fuzz-to-fine-nine-tactics-for-window-11-visual-perfection/"><u>From Fuzz to Fine: Nine Tactics for Window 11 Visual Perfection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-locales-for-immersive-content-for-2024/"><u>Leading Locales for Immersive Content for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastery-over-moments-jake-pauls-youtube-saga-for-2024/"><u>Mastery Over Moments Jake Paul's YouTube Saga for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-hello-fingerprint-scanner-hurdles/"><u>Overcoming Windows Hello Fingerprint Scanner Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-raw-images-to-jpgs-without-cost-using-top-online-converters-like-movavi/"><u>Transform Your RAW Images to JPGs Without Cost Using Top Online Converters Like Movavi</u></a></li>
+</ul></div>
 

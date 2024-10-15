@@ -1,7 +1,7 @@
 ---
 title: Workaround for Restricted Window Apps
-date: 2024-09-15T18:12:16.331Z
-updated: 2024-09-17T04:45:31.064Z
+date: 2024-10-11T20:53:26.877Z
+updated: 2024-10-14T19:12:15.682Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ To open Windows apps using Command Prompt:
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
@@ -75,10 +82,10 @@ To run an app as an administrator:
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair or Reset the Microsoft Store Apps
@@ -108,11 +115,31 @@ Reset the Microsoft Store app:
 3. Click the**three-dots menu** near the app name and select**Advanced options** .
 4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Microsoft Defender SmartScreen
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
 
  You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Your Antivirus Program
 
@@ -121,13 +148,6 @@ Reset the Microsoft Store app:
  You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
@@ -145,16 +165,17 @@ To remove the admin block using Registry Editor:
 5. In the right pane, locate**EnableLUA** .  
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
@@ -177,5 +198,26 @@ To remove the admin block using Registry Editor:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-is-it-illegal-to-archive-your-youtube-watch-history/"><u>[New] In 2024, Is It Illegal to Archive Your YouTube Watch History?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-your-brands-message-top-terminology-secrets/"><u>2024 Approved Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-popular-photographs-their-narratives-unveiled/"><u>2024 Approved Popular Photographs Their Narratives Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-approaches-for-fixing-windows-errors-in-asana/"><u>Comprehensible Approaches for Fixing Windows Errors in Asana</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-softer-beats-with-ableton/"><u>Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pathfinder-game-error-resolving-non-launch-issue-on-pc/"><u>Fixing Pathfinder Game Error: Resolving Non-Launch Issue on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-stop-default-search-functionality-opens-in-win11/"><u>Guide: Stop Default Search Functionality Opens in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hush-win11s-file-explorer-tab-interruptions/"><u>Hush Win11's File Explorer Tab Interruptions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 6 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microphone-checkup-guide-for-windows-users/"><u>Microphone Checkup Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-run-history-failure/"><u>Overcoming Windows Run History Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-faulty-amd-195-installer-processes/"><u>Remedying Faulty AMD 195 Installer Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-11-microsoft-store-error-0x80073cf3/"><u>Remedying Windows 11 Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-windows-11s-default-usb-suspend/"><u>Sidestep Windows 11'S Default USB Suspend</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-disk-readwrite-issue-a-win-friendly-guide/"><u>Steam Disk Read/Write Issue: A Win-Friendly Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-digital-collage-creator-8x/"><u>Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://win-news.techidaily.com/umgang-mit-versehentlich-geladener-mullbox-losungen-und-tipps/"><u>Umgang Mit Versehentlich Geladener Müllbox: Lösungen Und Tipps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-german-skills-with-netflixs-dark-favorite/"><u>Unlock German Skills with Netflix's Dark Favorite</u></a></li>
+</ul></div>
 

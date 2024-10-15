@@ -1,7 +1,7 @@
 ---
 title: How to Fix the The Memory Could Not Be Written Error on Windows
-date: 2024-10-05T05:07:08.105Z
-updated: 2024-10-09T04:58:15.311Z
+date: 2024-10-08T10:03:30.668Z
+updated: 2024-10-15T09:57:59.443Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ Here are a few solutions to fix this annoying problem.
 
  Should you get this error randomly while you're using your computer, you should restart it. If it doesn't recur after turning on your PC again, then it confirms that the problem might have only been a temporary hiccup.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Repair Corrupt System Files
 
  If you're still encountering the error, ensure it isn't caused by corrupted or missing system files. The best way to do this is by running an SFC scan. SFC checks the integrity of your system—it repairs corrupted files and rebuilds missing ones. It often resolves most issues on Windows PCs.
@@ -56,6 +43,13 @@ Here are a few solutions to fix this annoying problem.
 
  Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Perform a Clean Boot to Disable Third-Party Services
 
  Another solution suggested by users in the[Microsoft Community thread](https://answers.microsoft.com/en-us/windows/forum/all/the-memory-could-not-be-written/21e2d589-04d7-42bd-9836-d089067edbb2) is to perform a clean boot. Technically, performing a clean boot means starting Windows with minimal drivers and without third-party apps and services. This technique helps identify whether a conflict from another app is responsible for the issue.
@@ -65,10 +59,10 @@ Here are a few solutions to fix this annoying problem.
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run a Memory Diagnostic Check
@@ -76,6 +70,13 @@ Here are a few solutions to fix this annoying problem.
  If you're RAM is starting to have issues, it could cause this error too. The best way to test your RAM's health is by using the Windows Memory Diagnostic Tool.
 
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
@@ -87,31 +88,24 @@ Here are a few solutions to fix this annoying problem.
 
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Repair Corrupted App or Game Files
 
  If you experience the error when running a particular app or game, then its files might be corrupted. You should repair or reset the problematic app to see if it deals with the issue you're experiencing. You should check out our[solutions to misbehaving apps](https://www.makeuseof.com/apps-arent-working-properly-windows/) if you're unfamiliar with how to go about these procedures.
 
  As a last resort for app-specific problems, you can reinstall the app. Although it isn't the most favorable fix, it usually fixes app-specific problems. And if it still causes issues after reinstalling it, the nuclear option is to remove the app and replace it with a different but similar one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perform a System Restore
 
  If none of the other fixes work and you still encounter the error, you should restore your system to a previous restore point as a last resort. This process reverts your operating system settings and files to an earlier point, often effectively fixing critical Windows issues.
 
 ![system restore point selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-point-selection-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you are unfamiliar with the process, see our guide on[creating a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions on performing a System Restore. However, remember that you can only restore your system if you have already created a restore point. If you haven't made it before, you can skip this step.
 
@@ -124,10 +118,16 @@ Here are a few solutions to fix this annoying problem.
  If you get the error with a GPU-intensive app, like AAA games, it might use too much RAM on your integrated GPU. To solve this,[configure the problematic app to use your dedicated GPU](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) . That way, you can ensure that it uses the more powerful video card instead of the less powerful integrated GPU on your CPU that shares your system RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Rid of Annoying Memory-Related Errors
@@ -151,22 +151,20 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-core-strategies-for-android-video-capture/"><u>[New] Core Strategies for Android Video Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-download-pc-sound-logger-x-recorder-app-for-2024/"><u>[New] Download Pc Sound Logger - X-Recorder App for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-starting-with-a-gopro-essential-upgrades-for-new-filmmakers/"><u>[Updated] 2024 Approved Starting with a GoPro Essential Upgrades for New Filmmakers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro/"><u>2024 Approved [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/boost-brand-awareness-with-selective-marketing-vernacular/"><u>Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ejecting-unrequested-windows-updates/"><u>Ejecting Unrequested Windows Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-how-to-get-your-conexant-smartaudio-hd-working-again-for-a-perfect-sound-experience-on-windows-11/"><u>Guide: How to Get Your Conexant SmartAudio HD Working Again for a Perfect Sound Experience on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-nvidia-geforce-experience-error-in-windows-10-and-11/"><u>How to Fix the “Unable to Connect to NVIDIA” GeForce Experience Error in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-hitching-windows-tasks/"><u>Immediate Fixes for Hitching Windows Tasks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y27-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y27 4G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-permanent-erase-configuring-a-trash-bin-for-irreversible-deletion-in-windows-pcs-11/"><u>Mastering Permanent Erase: Configuring a Trash Bin for Irreversible Deletion in Windows PCs (11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-lost-drive-restore-data-stability-in-windows/"><u>Regain Lost Drive, Restore Data Stability in WINDOWS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-self-triggered-cmd-appearance-issues-in-windows/"><u>Solving Self-Triggered CMD Appearance Issues in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-biometric-access-control-windows-11-domains/"><u>Tailoring Biometric Access Control: Windows 11, Domains</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-theme-creation-in-windows-terminal/"><u>The Art of Theme Creation in Windows Terminal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-best-free-ai-powered-tools-and-chatgpt-applications-for-quick-travel-itineraries/"><u>Top 7 Best FREE AI-Powered Tools & ChatGPT Applications for Quick Travel Itineraries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-snapchats-ai-goes-beyond-playful-interaction/"><u>Why Snapchat’s AI Goes Beyond Playful Interaction</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices/"><u>[Updated] Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-find-n3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo Find N3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/control-resource-use-fixing-news-apps-heavy-cpu-impact/"><u>Control Resource Use: Fixing News Apps' Heavy CPU Impact</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/discover-top-ranked-trivia-shows-for-24/"><u>Discover Top-Ranked Trivia Shows for '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-setup-windows-11-tailored-keyboard-volume-shortcuts/"><u>Expert Setup: Windows 11 Tailored Keyboard Volume Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-recovery-techniques-reactivating-explorer-in-win-11/"><u>Immediate Recovery Techniques: Reactivating Explorer in Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-compromising-your-privacy-learn-how-to-withdraw-without-issues/"><u>Is ChatGPT Compromising Your Privacy? Learn How to Withdraw Without Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>New Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-smartphone-interaction-explore-the-best-5-auto-clicker-solutions-tailored-for-android-users/"><u>Simplify Smartphone Interaction: Explore the Best 5 Auto Clicker Solutions Tailored for Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-dynamic-app-arrangement-by-taskmgr/"><u>Strategies to Prevent Dynamic App Arrangement by TaskMgr</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-uncover-non-visible-disk-problems/"><u>Tactics to Uncover Non-Visible Disk Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-m14-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy M14 5G Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-netflix-issues-on-your-lg-television-a-step-by-step-guide/"><u>Troubleshoot Netflix Issues on Your LG Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-printmanagement-msconfig-error-in-windows/"><u>Troubleshooting Missing 'PrintManagement' MSCONFIG Error in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x8b-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X8b Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

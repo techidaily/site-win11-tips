@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Failed Drag-and-Drop on Win11
-date: 2024-10-02T03:59:07.169Z
-updated: 2024-10-08T19:02:58.798Z
+date: 2024-10-08T01:23:40.056Z
+updated: 2024-10-15T01:09:44.006Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
  Left-click and hold the file or folder you want to drag and click the **Esc** key. Then, release the left click on your mouse, and check if you can drag and drop items after that.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Problematic App
@@ -63,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reopen your app and check if the issue still occurs.
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 4. Right-click on your mouse or touchpad device and select **Update driver**.  
 ![Update Mouse Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-mouse-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen prompts to finish updating the driver.
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
@@ -113,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Edit Registry Files
@@ -136,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
@@ -147,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: How Do You Drag Maximized Windows in Windows 11?
@@ -167,25 +173,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/limbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[New] Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest/"><u>[New] Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-optimizing-live-periscope-video-speed/"><u>[Updated] Optimizing Live Periscope Video Speed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-best-video-effect-sites-that-never-charges-you/"><u>2024 Approved 5 Best Video Effect Sites That Never Charges You</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyys-open-source-neoml-bibliothek-erlebt-einen-sprung-nach-vorn-mit-python-integration-und-beispielloser-geschwindigkeit/"><u>ABBYY's Open-Source NeoML Bibliothek Erlebt Einen Sprung Nach Vorn Mit Python-Integration Und Beispielloser Geschwindigkeit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-impossible-roblox-app-failures/"><u>Eliminating Impossible Roblox App Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-lsa-not-available-alert-in-windows/"><u>Mitigating LSA Not Available Alert in Windows</u></a></li>
-<li><a href="https://discover-able.techidaily.com/online-video-omzetter-omzetten-van-mp4-mov-avi-tot-andere-popular-video-formaten/"><u>Online Video-Omzetter: Omzetten Van MP4, MOV, AVI Tot Andere Popular Video Formaten</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-non-automatic-timezone-change/"><u>Overcoming Windows' Non-Automatic Timezone Change</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-screens-harmony-uncover-hidden-apps-and-windows-in-windows-11/"><u>Restore Your Screen's Harmony: Uncover Hidden Apps & Windows in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamlessly-connecting-wi-fi-and-ethernet-in-one-operating-system/"><u>Seamlessly Connecting Wi-Fi & Ethernet in One Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-non-existent-device-error-in-windows-11/"><u>Solving Non-Existent Device Error in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-improve-win-11s-virtual-memory/"><u>Tips to Improve Win 11'S Virtual Memory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-microsoft-windows-11-for-child-safety/"><u>Utilizing Microsoft Windows 11 for Child Safety</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-golden-age-of-video-gamers-for-2024/"><u>YouTube's Golden Age of Video Gamers for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,3 +180,22 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>[New] 2024 Approved Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-simplified-steps-for-sequential-youtube-video-viewing-free/"><u>[New] 5 Simplified Steps for Sequential YouTube Video Viewing (Free)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-editors-face-off-which-is-superior-filmora-or-democreator-for-2024/"><u>[New] Editors Face-Off Which Is Superior, Filmora or Democreator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-10-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 10 & 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-keep-the-momentum-ios-and-android-gif-savings-for-2024/"><u>How to Keep the Momentum IOS & Android GIF Savings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-apps-supporting-mac-users-in-their-windows-journey/"><u>Ideal Apps Supporting Mac Users in Their Windows Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/imessage-troubles-learn-how-to-turn-off-bothersome-reactions-on-android-phones/"><u>IMessage Troubles? Learn How to Turn Off Bothersome Reactions on Android Phones!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-skills-faster-with-these-top-8-study-tips-on-a-windowed-pc/"><u>Sharpen Skills Faster with These Top 8 Study Tips on a Windowed PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-to-overcome-windows-11-unresponsive-typing-error-x80049dd3/"><u>Swift Fixes to Overcome Windows 11 Unresponsive Typing Error - X80049DD3</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/synchronize-your-team-with-easy-slack-and-filmora-integration-for-2024/"><u>Synchronize Your Team with Easy Slack & Filmora Integration for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-congestion-in-windows-10-essential-techniques-and-solutions/"><u>Tackling Complete Disk Congestion in Windows 10: Essential Techniques and Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-timed-lock-screen-issue-in-windows/"><u>Troubleshooting Non-Timed Lock Screen Issue in Windows</u></a></li>
+</ul></div>
+

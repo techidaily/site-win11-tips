@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity: Linking Gmail and Outlook on Windows"
-date: 2024-10-01T17:27:14.931Z
-updated: 2024-10-08T18:12:41.233Z
+date: 2024-10-09T01:20:06.645Z
+updated: 2024-10-15T02:22:13.649Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Gmail Account to Outlook
@@ -58,15 +58,22 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
@@ -75,23 +82,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -113,22 +107,22 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-clever-ways-to-neglect-edge-academy-vids/"><u>[New] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-your-watch-time-enable-youtube-autoplay-on-fb/"><u>2024 Approved Streamline Your Watch Time Enable YouTube Autoplay on FB</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-11-restrictions-a-beginners-guide/"><u>Bypassing Windows 11 Restrictions: A Beginner's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-find-the-sid-of-any-user-in-windows-11/"><u>How to Find the SID of Any User in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-overcome-device-resumes-operation/"><u>IGFX Malfunction Overcome, Device Resumes Operation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-s23plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy S23+ Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevent-digital-breach-recognize-illicit-use-signs/"><u>Prevent Digital Breach: Recognize Illicit Use Signs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Quick Steps to Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-preview-hurdles-in-windows-version-of-office-mail/"><u>Removing Preview Hurdles in Windows Version of Office Mail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-typing-routine-with-9-quick-fixes-for-broken-windows-shortcuts/"><u>Revitalize Your Typing Routine with 9 Quick Fixes for Broken Windows Shortcuts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlined-recording-experience-with-macbooks-webcam-for-2024/"><u>Streamlined Recording Experience with MacBook's Webcam for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-workflow-with-additional-context-menu-commands/"><u>Streamlined Workflow with Additional Context Menu Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unpacking-the-variability-in-cloud-and-local-windows-protocols/"><u>Unpacking the Variability in Cloud & Local Windows Protocols</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-a56s-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A56s 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-live-boost-your-pc-with-these-3-usb-steps/"><u>Windows 11 Live! Boost Your PC with These 3 USB Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-content-with-free-audio-samples/"><u>[New] 2024 Approved Amplify Content with Free Audio Samples</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[New] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-intuitive-streaming-and-storage-on-mstream-network-for-2024/"><u>[New] Intuitive Streaming & Storage on MStream Network for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>[Updated] Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-saving-videos-from-vlc-live-streaming/"><u>[Updated] In 2024, Saving Videos From VLC Live Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-pro-snipers-on-macos/"><u>2024 Approved Top 5 Pro Snipers on macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use-for-2024/"><u>Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-jotting-down-made-simple-in-win11/"><u>Effortless Jotting Down Made Simple in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-method-for-windows-11-dialer-activation/"><u>Fast-Track Method for Windows 11 Dialer Activation</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-c67-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme C67 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-google-maps-a-windows-users-manual/"><u>Integrating Google Maps: A Windows User's Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-conundrum-how-to-solve-cant-get-mail-error-in-windows-11/"><u>Overcoming the Conundrum: How to Solve 'Can’t Get Mail' Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-counteract-misleading-anti-virus-alerts-by-chrome/"><u>Strategies to Counteract Misleading Anti-Virus Alerts by Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-mouse-secrets-on-windows-11/"><u>Unlocking Mouse Secrets on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-screen-sharing-feature-after-connection-failure/"><u>Unlocking Screen Sharing Feature After Connection Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-seamless-auto-restart-when-idle/"><u>Windows 10/11: Seamless Auto Restart When Idle</u></a></li>
 </ul></div>
 

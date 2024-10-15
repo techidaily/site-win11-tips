@@ -1,7 +1,7 @@
 ---
 title: "The Inaccessible Window' Writable Solution: Reopen Your Notepad Efficiently"
-date: 2024-10-03T02:08:09.710Z
-updated: 2024-10-09T06:37:18.120Z
+date: 2024-10-07T22:35:31.779Z
+updated: 2024-10-15T06:50:41.434Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -55,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Try opening a few text files and see if they open in Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair or Reset the Notepad App
@@ -104,6 +90,14 @@ To repair the Notepad app on Windows:
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
@@ -111,13 +105,20 @@ To repair the Notepad app on Windows:
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the SFC and DISM Scans
 
@@ -157,16 +158,16 @@ To create a new user account on Windows:
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -187,19 +188,20 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>[New] 2024 Approved Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-to-use-logo-making-tools-for-everyone-free-download/"><u>[Updated] Easy-to-Use Logo Making Tools for Everyone - FREE Download</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-reality-superior-rift-players-evaluation/"><u>[Updated] Revolutionizing Reality Superior Rift Players Evaluation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-the-dynamics-behind-youtube-video-rankings/"><u>[Updated] Understanding the Dynamics Behind YouTube Video Rankings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-concept-to-implementation-how-openais-gpt/"><u>From Concept to Implementation: How OpenAI’s GPT-</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y56-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y56 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-ms-stores-premier-choices/"><u>Jumpstart Your PC: MS Store's Premier Choices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-your-guide-for-windows-users/"><u>Mastering Map Integration: Your Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-windows-11-policy-editor-efficiently/"><u>Navigate Windows 11 Policy Editor Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tackling-integration-issues-repairing-the-chatgpt-plugin-link/"><u>Tackling Integration Issues: Repairing the ChatGPT-Plugin Link</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-approaches-to-overcoming-disabled-errors-in-ps-execution/"><u>Tactical Approaches to Overcoming 'Disabled' Errors in PS Execution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-android-and-pc-simple-synchronization-techniques/"><u>Uniting Android & PC: Simple Synchronization Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/windows-1011avchd/"><u>Windows 10/11上でのAVCHDフォーマット動画編集ガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-health-5-key-steps-for-device-status-tracking/"><u>Windows 11 Health: 5 Key Steps for Device Status Tracking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-getting-started-with-snapseed-editing/"><u>[New] Step by Step Getting Started with Snapseed Editing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>2024 Approved Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-out-the-vibes-of-your-channel-top-10-online-artists-unite-for-2024/"><u>Bring Out the Vibes of Your Channel Top 10 Online Artists Unite for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-camera-software-for-windows-1087-users/"><u>Download Logitech Brio Camera Software for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr/"><u>In 2024, Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y100-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y100 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-d-drive-into-explorer-toolbar/"><u>Integrating D: Drive Into Explorer Toolbar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-vehicle-personalization-through-interactive-sessions-with-chatgpt/"><u>Mastering the Art of Vehicle Personalization Through Interactive Sessions with ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-easing-endless-prompts-after-login-attempts/"><u>Methods for Easing Endless Prompts After Login Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-faulty-amd-195-installer-processes/"><u>Remedying Faulty AMD 195 Installer Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-taskbar-in-windows-11/"><u>Streamlining Your Taskbar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-devices-boot-process-with-expert-service-configurations-in-win11/"><u>Tailoring Your Device's Boot Process with Expert Service Configurations in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-system-errors-in-dwarf-fortress/"><u>Understanding and Correcting System Errors in Dwarf Fortress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-performance-potential-windows-11-hdd-defrag/"><u>Unlock Performance Potential: Windows 11 HDD Defrag</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Three Easy Steps to Remove Store App From Win11
-date: 2024-09-12T09:13:27.271Z
-updated: 2024-09-16T17:58:40.894Z
+date: 2024-10-10T19:47:08.445Z
+updated: 2024-10-15T01:12:43.621Z
 tags:
   - windows10
   - windows11
@@ -48,9 +48,30 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using winget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-winget.jpg)
 6. Type**exit** in the command prompt window and press enter to close it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
 
@@ -64,22 +85,15 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 4. Click on the**Save** button. Close the Notepad window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
 
@@ -98,5 +112,20 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-photodirector-masterclass-review/"><u>[New] PhotoDirector Masterclass Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquering-zoom-meetings-a-tech-savvy-setup-strategy-for-2024/"><u>Conquering Zoom Meetings A Tech-Savvy Setup Strategy for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-chronological-misfire-in-chrome-for-pcs/"><u>Correcting Chronological Misfire in Chrome for PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hilarity-unleashed-kinemaster-meme-creation-for-2024/"><u>Hilarity Unleashed KineMaster Meme Creation for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pros-list-top-5-timelapse-software/"><u>In 2024, Pro's List Top 5 Timelapse Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/independent-operation-of-microsofts-onedrive-on-pc/"><u>Independent Operation of Microsoft's OneDrive on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-dysfunctional-troubleshooting-tools-in-windows-1011/"><u>Perfecting Dysfunctional Troubleshooting Tools in Windows 10/11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/reliable-source-for-lenovo-thinkpad-drivers-safe-downloads-and-fresh-installations/"><u>Reliable Source for Lenovo ThinkPad Drivers – Safe Downloads & Fresh Installations</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-unresponsive-xbox-on-windows-with-ease/"><u>Resolve Unresponsive Xbox on Windows with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-remedy-the-msvcr110dll-missing-error/"><u>Steps to Remedy the msvcr110.dll Missing Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-fix-a-comprehensive-camera-problem-solver/"><u>Windows Photo Fix: A Comprehensive Camera Problem Solver</u></a></li>
+</ul></div>
 

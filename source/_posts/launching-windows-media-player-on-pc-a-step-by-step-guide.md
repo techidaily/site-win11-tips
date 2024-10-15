@@ -1,7 +1,7 @@
 ---
 title: "Launching Windows Media Player on PC: A Step-by-Step Guide"
-date: 2024-10-05T21:03:25.828Z
-updated: 2024-10-09T02:07:57.567Z
+date: 2024-10-08T04:42:57.488Z
+updated: 2024-10-14T23:17:08.865Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
 
  The Run dialog box is one of the most useful tools on Windows. It's a quick and easy way to access frequently used programs and files without having to search through your computer's file system.
@@ -58,6 +65,13 @@ To open Windows Media Player using Task Manager, follow these steps:
 
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Open Windows Media Player From File Explorer
 
  Another way to access Windows Media Player is by using File Explorer. To do this, follow the below steps:
@@ -76,17 +90,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 4. Double-click**Windows Media Player Legacy** on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Windows Media Player Using Control Panel
@@ -102,10 +109,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
@@ -117,6 +124,14 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on your desktop area and select**New > Shortcut** .  
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 3. Give the shortcut a name and click**Finish** .
 
@@ -139,23 +154,9 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Next, click**Apply > OK** to save the changes
 
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Media Player Is Now at Your Fingertips
 
@@ -176,17 +177,21 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-edits-mastering-picart-backdrop-removal-for-2024/"><u>[Updated] Cutting-Edge Edits Mastering PicArt Backdrop Removal for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-captivate-and-enchant-explore-the-best-creative-reactions-on-yt/"><u>[Updated] In 2024, Captivate and Enchant Explore the Best Creative Reactions on YT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-art-of-image-detection-opposite-on-facebook-networks/"><u>2024 Approved The Art of Image Detection Opposite on Facebook Networks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-windows-discover-2023s-community-favorites/"><u>Elevate Windows: Discover 2023'S Community Favorites</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>In 2024, Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-uncomplicate-your-workflow-5-free-online-tone-tools/"><u>New Uncomplicate Your Workflow 5 Free Online Tone Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-password-inclusion-for-your-windows-file-system/"><u>Seamless Password Inclusion for Your Windows File System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-spot-in-digital-communication-hubs-without-phone-numbers-joining-chatgpt-telegram-and-whatsapp-easily/"><u>Secure Your Spot in Digital Communication Hubs without Phone Numbers: Joining ChatGPT, Telegram, and WhatsApp Easily!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-email-management-pin-gmail-to-windows-taskbar/"><u>Streamline Email Management: Pin Gmail to Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-from-pin-based-login-on-windows-11-to-traditional-passwords/"><u>Transitioning From PIN-Based Login on Windows 11 to Traditional Passwords</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-leveraging-tools-for-seamless-powerpoint-transcription-for-2024/"><u>[Updated] Leveraging Tools for Seamless PowerPoint Transcription for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-stream-wars-obs-versus-twitch-studio/"><u>2024 Approved Ultimate Stream Wars OBS Versus Twitch Studio</u></a></li>
+<li><a href="https://discover-best.techidaily.com/abbyy-selectionne-par-costain-pour-la-digitalisation-des-services-fiscaux/"><u>ABBYY Sélectionné Par Costain Pour La Digitalisation Des Services Fiscaux</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-intuitive-guide-to-performing-a-windows-rollback-via-system-restore/"><u>An Intuitive Guide to Performing a Windows Rollback via System Restore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-personalization-guide-attaching-this-pc-image/"><u>Desktop Personalization Guide: Attaching 'This PC' Image</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-story-viewer-view-facebook-stories-anonymously-for-2024/"><u>Facebook Story Viewer View Facebook Stories Anonymously for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-fujitsus-ix1400-scanning-unit-a-must-have-device-for-micro-offices-and-smb-operations/"><u>In-Depth Review of Fujitsu's iX1400 Scanning Unit: A Must-Have Device for Micro Offices & SMB Operations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luminous-clips-discover-5-apps-that-shine-online-for-2024/"><u>Luminous Clips Discover 5 Apps That Shine Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-highlighted-text-challenges-in-windows-pdfs/"><u>Overcome Highlighted Text Challenges in Windows PDFs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990926316-resident-evil-village-and-pc-compatibility-fixing-game-crash-problems-once-and-for-all/"><u>Resident Evil Village and PC Compatibility: Fixing Game Crash Problems Once & For All!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-cyberpunk-2027-disconnecting-on-pc-top-troubleshooting-steps-revealed/"><u>Stop Cyberpunk 2027 Disconnecting on PC - Top Troubleshooting Steps Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-microsoft-store-error-error-x800704cf/"><u>Strategies to Overcome Microsoft Store Error (Error X800704CF)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-parsing-failure-code-0xc00ce556/"><u>Tackling Windows' Parsing Failure Code 0xC00CE556</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-mechanics-behind-windows-operating-security/"><u>The Mechanics Behind Windows Operating Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traversing-through-user-identification-landscapes-in-win11/"><u>Traversing Through User Identification Landscapes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-tweaks-create-a-unique-digital-space/"><u>Windows 11 Tweaks: Create a Unique Digital Space</u></a></li>
 </ul></div>
 

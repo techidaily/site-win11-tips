@@ -1,7 +1,7 @@
 ---
 title: Sharpen Your Skills in WSL 2 for Smarter Docker Execution
-date: 2024-09-11T07:31:33.113Z
-updated: 2024-09-17T09:14:32.613Z
+date: 2024-10-08T10:21:55.353Z
+updated: 2024-10-14T22:39:22.430Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![newly built image on docker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/newly-built-image-on-docker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows Subsystem for Linux (WSL) is a valuable feature that allows Windows users to run Linux distributions like Ubuntu and Kali without setting up a virtual machine or dual-boot.
 
  This also means that[Windows users can directly use Linux command-line tools](https://www.makeuseof.com/run-linux-commands-windows-wsl-2/) , applications, and utilities without extra installation steps. The most recent version of WSL, WSL 2, provides greater stability and a dedicated Linux kernel.
@@ -63,22 +70,16 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  To[set up VS Code with WSL 2 on Windows](https://www.makeuseof.com/how-to-set-up-vs-code-with-wsl-2-windows-10-11/) , you can configure the**WSL** extension from the VS Code Marketplace and get things going.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Utilize the WSL 2 File System
 
  To properly run your Docker containers, it's vital that you rely on the file system of your WSL 2 distro and not heavily depend on the native Windows file system. Throughout my experience of working with Docker containers on WSL 2, I’ve discovered it’s better to store your project files within WSL.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Native Linux Scripts
 
@@ -96,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 `export DOCKER_BUILDKIT=1.`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Set Up Resource Limits
 
  When you integrate the WSL 2 backend with Docker Desktop, you give Docker access to all your CPU resources. Doing so helps improve performance for containers that are resource heavy.
@@ -104,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  Fortunately, you can configure Docker containers to limit the system memory and CPU usage. You should always be careful while configuring the system memory, even a minor mistake can have significant consequences. You can refer to the[official Docker documentation](https://docs.docker.com/config/containers/resource%5Fconstraints/) for a more detailed guide on limiting the memory and CPU resources consumed by a Docker container.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Recover Cached Memory
 
  If you’re running a Docker container in WSL 2, its memory should be freed once the container terminates. Unfortunately, the operating system kernel tends to maintain data in the cache; this means that the effective memory reclaimed by the WSL 2 won’t be sufficient.
@@ -111,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  You can recover all of the memory that is unnecessarily being utilized as a cache by running the following command via root in WSL 2:
 
 `echo 1 > /proc/sys/vm/drop_caches`
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Smarter With WSL 2
 
@@ -136,5 +144,26 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-your-storyline-three-ways-to-border-instagram-videos-for-2024/"><u>[New] Craft Your Storyline Three Ways to Border Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-analyzed-the-finest-screen-capture-software-for-macos/"><u>[Updated] 2024 Approved Analyzed The Finest Screen Capture Software for macOS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[Updated] 2024 Approved Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-craft-proficient-content-for-short-form-video-best-edits-reviewed-for-2024/"><u>[Updated] Craft Proficient Content for Short-Form Video Best Edits Reviewed for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-dispelling-myths-about-tiktok-bans/"><u>[Updated] In 2024, Dispelling Myths About TikTok Bans</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-pushing-boundaries-upward-an-incisive-mavic-pro-review/"><u>[Updated] In 2024, Pushing Boundaries Upward An Incisive Mavic Pro Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-insider-tips-for-documenting-your-favorite-games-on-ps4-for-2024/"><u>[Updated] Insider Tips for Documenting Your Favorite Games on PS4 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-windows-startup-a-comprehensive-guide/"><u>Direct Route to Windows Startup: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-muted-bluetooth-speakers-in-win11/"><u>Fixing Muted Bluetooth Speakers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-overcome-steam-content-blocks/"><u>How to Effortlessly Overcome Steam Content Blocks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-fast-techniques-for-reordering-youtube-video-queues/"><u>In 2024, Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-12-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-windows-xpatch-issue/"><u>Navigating the Maze of Windows XPatch Issue</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-experts-choice-identifying-the-top-11-high-quality-fee-free-speech-alteration-tools-for-iphone-and-android-users/"><u>New 2024 Approved The Experts Choice Identifying the Top 11 High-Quality, Fee-Free Speech Alteration Tools for iPhone & Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-cannot-connect-problems-for-win-users/"><u>Overcoming Cannot Connect Problems for Win Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sound-access-failure-with-audacity-windows-1011/"><u>Resolving Sound Access Failure with Audacity (Windows 10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-edthemes-on-your-windows-11/"><u>Streamline EdThemes on Your Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-gaming-pc-power-use-optimize-winwm-graphical-engine/"><u>Trim Down Gaming PC Power Use: Optimize WinWM Graphical Engine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-discord-fatal-javascript-glitch-in-windows-os/"><u>Troubleshooting Discord Fatal JavaScript Glitch in Windows OS</u></a></li>
+</ul></div>
 

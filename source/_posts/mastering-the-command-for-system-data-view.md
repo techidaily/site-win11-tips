@@ -1,7 +1,7 @@
 ---
 title: Mastering the Command for System Data View
-date: 2024-10-07T03:50:10.167Z
-updated: 2024-10-09T00:38:33.824Z
+date: 2024-10-13T21:40:28.540Z
+updated: 2024-10-14T23:41:47.696Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![Typing msinfo32 in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-msinfo32-in-the-File-Explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Run Command Dialog Box
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![Opening the System Information tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Use the Start Menu
 
  The Start Menu is a great place to access most of the apps on your device.
@@ -88,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![Selecting the System Information tool on the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-System-Information-tool-on-the-Start-menu-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the System Settings
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![Selecting System from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-System-from-the-Control-Panel-menu-items.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Use the Task Manager
 
  You’ve likely used Task Manager before to close PC programs or analyze system performance. But did you know that this tool makes it easy for you to access various apps?
@@ -129,19 +129,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 4. Type**msinfo32** in the search box and press**OK** to open the System Information tool.
 
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Search for the System Information Tool in the System32 Folder
 
@@ -157,32 +144,26 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![Clicking the msinfo32 option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-msinfo32-option-in-the-System32-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Use the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
@@ -199,6 +180,13 @@ Want to make the System Information tool easily accessible?
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
 1. Press**Win + D** to access the desktop.
@@ -213,10 +201,10 @@ Want to make the System Information tool easily accessible?
  From now on, you can easily access the System Information app by clicking your desktop shortcut. And if you want to make things easier, you can pin your desktop shortcut to the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access the Windows System Information Tool Using Your Favorite Method
@@ -238,16 +226,22 @@ Want to make the System Information tool easily accessible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-masterful-artwork-corrections/"><u>[New] 2024 Approved Masterful Artwork Corrections</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-clear-and-clean-vocal-audio-for-your-videos/"><u>[New] Capturing Clear and Clean Vocal Audio for Your Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[Updated] 2024 Approved The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools-for-2024/"><u>[Updated] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[Updated] Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-missing-file-updates-on-windows-os/"><u>Mastering the Art of Fixing Missing File Updates on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-windows-10-value-with-expert-key-tips/"><u>Maximize Windows 10 Value with Expert Key Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-agenda-linking-to-dot-to-ifttt/"><u>Simplify Your Agenda: Linking To-Dot to IFTTT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-regain-smooth-operation-of-asana-on-desktop-computers/"><u>Steps to Regain Smooth Operation of Asana on Desktop Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-ways-win11-gathers-your-digital-footprint/"><u>Top 5 Ways Win11 Gathers Your Digital Footprint</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-master-the-art-of-backup-phones-camera-roll-upload-to-social-apps/"><u>[New] In 2024, Master the Art of Backup Phone's Camera Roll Upload to Social Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] In 2024, Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] In 2024, Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-snap-the-scene-comprehensive-no-cost-pcmac-capture-tools/"><u>[New] Snap the Scene Comprehensive, No-Cost PC/Mac Capture Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mp3-streaming-simplified-youtube-upload-in-three-steps/"><u>[Updated] MP3 Streaming Simplified YouTube Upload in Three Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>[Updated] The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clean-slate-windows-11-uninstalling-edge/"><u>Clean Slate Windows 11: Uninstalling Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-remedying-frozen-asana-windows-instances/"><u>Diagnosing and Remedying Frozen Asana Windows Instances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-bluetooth-devices-not-showing-in-device-manager-for-windows/"><u>How to Fix Bluetooth Devices Not Showing in Device Manager for Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-x50-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor X50 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-office-excel-scroll-hiccups-windows/"><u>Overcome Office Excel Scroll Hiccups (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-preferred-ms-store-programs-on-windows-devices/"><u>Restore Your Preferred MS Store Programs on Windows Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-your-youtube-profitability-monetization-auditing-guide-for-2024/"><u>Securing Your YouTube Profitability Monetization Auditing Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-responsive-ctrl-keys-on-modern-windows-11-pcs/"><u>Tackling Non-Responsive Ctrl Keys on Modern Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/universal-accessibility-for-win11s-sticky-notes-feature/"><u>Universal Accessibility for Win11's Sticky Notes Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-enhancement-for-desktops-inserting-this-pc-signpost/"><u>Visual Enhancement for Desktops: Inserting 'This PC' Signpost</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-3/"><u>Windowsサーバ上において効率的なバックアップイメージの生成手順 - ベスト3</u></a></li>
 </ul></div>
 

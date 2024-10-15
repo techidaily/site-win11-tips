@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Securing Your Telnet Connection in Wins 10/11"
-date: 2024-10-07T04:21:02.467Z
-updated: 2024-10-08T23:34:12.149Z
+date: 2024-10-13T15:02:20.997Z
+updated: 2024-10-15T05:23:09.315Z
 tags:
   - windows10
   - windows11
@@ -47,15 +47,22 @@ If you need to disable Telnet:
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
 
@@ -71,10 +78,10 @@ To enable Telnet using Windows PowerShell:
 6. Close PowerShell and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install Telnet Client Using Command Prompt
@@ -100,10 +107,10 @@ Follow these steps to install Telnet using Command Prompt:
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
@@ -111,13 +118,6 @@ Follow these steps to install Telnet using Command Prompt:
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
@@ -140,24 +140,19 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capturing-quality-lens-recommendations-for-content-makers/"><u>[New] 2024 Approved Capturing Quality Lens Recommendations for Content Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ive-into-youtubes-top-vr-experiences-for-2024/"><u>[New] Dive Into YouTube's Top VR Experiences for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] In 2024, Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways-for-2024/"><u>[New] Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-4-proven-methods-to-perfect-instagram-video-loops/"><u>[Updated] 2024 Approved 4 Proven Methods to Perfect Instagram Video Loops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-powerhouse-exes-from-windows-bat-files/"><u>Crafting Powerhouse EXEs From Windows .bat Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-best-windows-to-dos-uncovered/"><u>Enhancing Efficiency: Best Windows To-Dos Uncovered</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-separate-graphic-card-on-win-1011/"><u>How To Enable Separate Graphic Card on Win 10/11</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g84-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G84 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-language-barriers-with-these-top-20-video-translators/"><u>In 2024, Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installing-windows-11-arm-detailed-iso-based-guide/"><u>Installing Windows 11 ARM: Detailed ISO-Based Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-premium-sound-experience-windows-11-and-dolby-atmos/"><u>Integrating Premium Sound Experience: Windows 11 & Dolby Atmos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovering-missing-enter-action-from-keyboard/"><u>Recovering Missing 'Enter' Action From Keyboard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-update-failure-code-0x8019/"><u>Rectifying Update Failure: Code 0X8019</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-system-recovery-activation-in-the-latest-windows-os/"><u>Simplifying System Recovery Activation in the Latest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-transformation-from-a-simple-pin-to-a-stronger-passphrase-in-windows-11/"><u>Tackling the Transformation: From a Simple PIN to a Stronger Passphrase in Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tamping-your-youtube-videos-desktop-and-mobile-guide/"><u>Timestamping Your YouTube Videos Desktop & Mobile Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ideal-images-scenery-for-engaging-online-audiences/"><u>[Updated] Ideal Images Scenery for Engaging Online Audiences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-visualize-for-a-friendly-facebook/"><u>[Updated] Visualize for a Friendly Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/add-auditory-components-to-premiere-pro-videos/"><u>Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/evolve-workflow-strategies-with-varied-project-formats/"><u>Evolve Workflow Strategies with Varied Project Formats</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-instantaneous-windows-image-player/"><u>In 2024, Instantaneous Windows Image Player</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-text-messages-from-android-on-your-iphone-let-us-help-you-solve-the-problem/"><u>Missing Text Messages From Android on Your iPhone? Let Us Help You Solve the Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-0x800700e1-in-windows-11/"><u>Steps to Rectify Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-auto-restarts-windows-11-edition/"><u>Stopping Auto Restarts: Windows 11 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-design-with-new-fonts-in-after-effects/"><u>Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-next-frontier-unveiling-changes-to-windows-11s-explorer/"><u>The Next Frontier: Unveiling Changes to Windows 11'S Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-11-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme 11 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-anywhere-advanced-powertoys-mouse-control-tips/"><u>Traverse Anywhere: Advanced PowerToys Mouse Control Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-bluetooth-issues-in-windows-7/"><u>Troubleshooting and Solving Bluetooth Issues in Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vanishing-act-hide-keys-without-disruption/"><u>Vanishing Act: Hide Keys Without Disruption</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Proper Icon Display in Windows 11
-date: 2024-10-03T19:05:15.979Z
-updated: 2024-10-09T01:29:33.720Z
+date: 2024-10-12T18:29:39.651Z
+updated: 2024-10-14T17:48:37.373Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Restore Icon Size by Deleting Icon Cache
 
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
@@ -66,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
@@ -77,38 +83,15 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-rise-to-editing-greatness-with-our-top-10-youtube-tips/"><u>[New] Rise to Editing Greatness with Our Top 10 YouTube Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-resolution-showdown-hero4-to-hero5/"><u>[Updated] In 2024, Resolution Showdown Hero4 to Hero5</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/audiovisual-fusion-incorporating-songs-in-ig-media-for-2024/"><u>Audiovisual Fusion Incorporating Songs in IG Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/core-functionality-within-vcplusplus-releases/"><u>Core Functionality Within VC++ Releases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-rectifying-onedrive-operational-glitches-on-windows-11/"><u>Decoding and Rectifying OneDrive Operational Glitches on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-latest-intel-hduhd-graphics-drivers-for-windows-11/"><u>Download and Install Latest Intel HD/UHD Graphics Drivers for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-the-frustration-of-non-scrolling-cells-ranges-and-sheets-excel-36516/"><u>End the Frustration of Non-Scrolling Cells, Ranges, and Sheets (Excel 365/16)</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-graphics-performance-elevate-fps-in-windows/"><u>Enhance Graphics Performance, Elevate FPS in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaining-insight-into-your-gpus-potential-using-these-6-essential-windows-apps/"><u>Gaining Insight Into Your GPU's Potential Using These 6 Essential Windows Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-address-the-arduino-uno-driver-glitches-on-a-windows-pc/"><u>How to Address the Arduino Uno Driver Glitches on a Windows PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sync-googles-email-service-on-the-apple-watch-seamlessly/"><u>How to Sync Google's Email Service on the Apple Watch Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/incorporating-update-info-into-right-click-context-menu/"><u>Incorporating Update Info Into Right-Click Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-system-support-setting-up-custom-hotkeys-for-windows-fixes/"><u>Instant System Support: Setting Up Custom Hotkeys for Windows Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/post-update-anomalies-restoring-your-discord-on-windows/"><u>Post-Update Anomalies: Restoring Your Discord On Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-winerror-code-0x80190001/"><u>Resolving WinError: Code 0X80190001</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/simplified-guide-to-creating-movies-in-windows-8-movie-maker/"><u>Simplified Guide to Creating Movies in Windows 8 Movie Maker</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +100,18 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-how-to-film-seamless-ocean-vibes-with-these-7-hacks/"><u>[New] How to Film Seamless Ocean Vibes with These 7 Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-unlimited-fb-photomovie-builder/"><u>[New] Ultimate Unlimited FB Photo/Movie Builder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pc-2023/"><u>前十个最烂的PC视频编辑软件 - 2023度冠军</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/build-your-metropolis-addiction-unraveling-the-appeal-of-cities-skylines-gameplay/"><u>Build Your Metropolis Addiction – Unraveling the Appeal of Cities: Skylines' Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-gpsvc-wait-time-on-pcs/"><u>Demystifying GPSVC Wait Time on PCs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>In 2024, Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-cmd-as-standard-operating-environment/"><u>Streamlining CMD as Standard Operating Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-rectify-type-error-code-x80049dd3-on-pc/"><u>Swift Solutions to Rectify Type Error Code X80049DD3 on PC</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-ranked-wma-file-splitter-effortless-techniques-for-splitting-audio-files-on-and-off-the-web/"><u>Top-Ranked WMA File Splitter: Effortless Techniques for Splitting Audio Files On and Off the Web</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-the-windows-package-manager-wpm/"><u>Understanding and Using the Windows Package Manager (WPM)</u></a></li>
+</ul></div>
+

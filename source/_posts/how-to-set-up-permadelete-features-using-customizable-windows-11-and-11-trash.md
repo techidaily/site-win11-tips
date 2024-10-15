@@ -1,7 +1,7 @@
 ---
 title: How to Set Up PermaDelete Features Using Customizable Windows 11 & 11 Trash
-date: 2024-10-01T17:34:41.535Z
-updated: 2024-10-08T16:51:40.778Z
+date: 2024-10-11T07:47:19.287Z
+updated: 2024-10-14T17:26:57.308Z
 tags:
   - windows10
   - windows11
@@ -54,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
@@ -73,14 +73,20 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
- You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
@@ -120,10 +126,16 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
@@ -147,19 +159,18 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-podcast-beat-initiation-essential-melody-hotspots/"><u>[Updated] Podcast Beat Initiation Essential Melody Hotspots</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-deeper-look-into-magix-visual-processing/"><u>2024 Approved A Deeper Look Into MAGIX Visual Processing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-learners-guide-to-japanese-kanji-and-kana/"><u>A Learner's Guide to Japanese Kanji & Kana</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhance-engagement-learn-to-dim-youtube-video-backgrounds-for-2024/"><u>Enhance Engagement Learn to Dim YouTube Video Backgrounds for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-elusive-recordings-errors-on-windows-11-os/"><u>How to Eradicate Elusive Recordings Errors on Windows 11 OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-cannot-open-file-error-in-windows/"><u>Immediate Fixes for Cannot Open File Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-your-startup-clearing-and-regenerating-windows-icons/"><u>Improve Your Startup: Clearing and Regenerating Windows Icons</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedy-fixes-resolving-sluggish-startup-times-on-your-windows-7-pc/"><u>Speedy Fixes: Resolving Sluggish Startup Times on Your Windows 7 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-fixing-unsuccessful-connection-with-nvidia-experience/"><u>Step-by-Step Guide: Fixing Unsuccessful Connection with Nvidia Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-selection-activating-selective-filters-in-win11/"><u>Streamline Selection: Activating Selective Filters in Win11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-why-isnt-your-thaumaturge-game-launching/"><u>Troubleshooting: Why Isn't Your Thaumaturge Game Launching?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[New] In 2024, Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-to-success-boosting-viewership-and-subs-on-youtube/"><u>[Updated] Navigating to Success Boosting Viewership and Subs on Youtube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>2024 Approved Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-list-of-instagram-downloaders/"><u>2024 Approved The Ultimate List of Instagram Downloaders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-audiences-writing-compelling-titles-and-descriptions-for-youtube-for-2024/"><u>Engaging Audiences Writing Compelling Titles and Descriptions for YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycam-advanced-live-streaming-and-digital-camera-solutions/"><u>Enhance Your Broadcasts Using ManyCam - Advanced Live Streaming & Digital Camera Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-camera-timer-setup-made-easy-a-user-friendly-walkthrough/"><u>IPhone Camera Timer Setup Made Easy: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-display-settings-on-windows-os/"><u>Mastering Firewall Display Settings on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-key-activation-and-deactivation/"><u>Mastering Windows Key Activation & Deactivation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-essential-requirements-error-in-win10win11/"><u>Removing 'Essential Requirements' Error in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-w11-csgo-opening-errors/"><u>Resolving W11 CS:GO Opening Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-the-game-fix-low-fps-and-smoothing-out-stutter/"><u>Solving Lag Issues in 'Avatar: The Game' - Fix Low FPS & Smoothing Out Stutter</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unravel-time-on-your-mobile-screen-with-videos-for-2024/"><u>Unravel Time on Your Mobile Screen with Videos for 2024</u></a></li>
 </ul></div>
 

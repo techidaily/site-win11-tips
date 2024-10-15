@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Windows 11 Snipping Tool Edits
-date: 2024-10-07T01:56:15.553Z
-updated: 2024-10-09T03:06:10.009Z
+date: 2024-10-10T21:16:07.647Z
+updated: 2024-10-15T13:56:40.884Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
@@ -55,29 +61,16 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
 
@@ -87,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
 
@@ -104,34 +97,18 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-terria-customization-collection/"><u>[New] 2024 Approved Ultimate Terria Customization Collection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-reverse-video-on-instagram-complete-guide/"><u>[New] How to Reverse Video on Instagram? [Complete Guide]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-collage-app-for-androidandios-for-2024/"><u>[New] Instagram Video Collage App for Android&iOS for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-upside-down-up-in-popularity-the-instagram-way-for-2024/"><u>[Updated] Upside Down, Up in Popularity The Instagram Way for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-dual-displays-in-windows-11-easy-guide/"><u>Configuring Dual Displays in Windows 11 Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-missing-display-in-boot-sequence/"><u>Diagnosing Missing Display in Boot Sequence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-errors-with-copypaste-feature-on-windows-11/"><u>Fixing Errors with Copy/Paste Feature on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-sign-out-other-users-on-windows-11/"><u>How to Sign Out Other Users on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V27 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your HTC U23 Pro Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-fixing-winget-issues-w11-style/"><u>Master the Art of Fixing Winget Issues W11 Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfectly-positioned-win11s-6-image-rotation-methods/"><u>Perfectly Positioned: Win11's 6 Image Rotation Methods</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-5-simple-strategies-for-repairing-winwordexe-hiccups/"><u>Top 5 Simple Strategies for Repairing WINWORD.EXE Hiccups</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ousting-the-focused-wallpaper-symbol/"><u>Windows 11: Ousting the Focused Wallpaper Symbol</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-system-lifespan-indicator/"><u>Windows System Lifespan Indicator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-own-voice-recognition-tool-building-with-ahk-and-whisper-on-windows/"><u>Your Own Voice Recognition Tool: Building with AHK and Whisper on Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +117,23 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prime-photograph-peruser-in-windows-10/"><u>[Updated] In 2024, Prime Photograph Peruser in Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-treat-tracks-review-exhaustive-guide-on-frozen-food-filming/"><u>[Updated] In 2024, Treat Tracks Review Exhaustive Guide on Frozen Food Filming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-is-there-a-business-model-for-shopping-blog-reviews/"><u>[Updated] Is There a Business Model for Shopping Blog Reviews?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-music-management-for-social-media-iphone-and-android-basics-for-2024/"><u>[Updated] Music Management for Social Media IPhone & Android Basics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-and-correcting-windows-security-missteps/"><u>Confronting and Correcting Windows Security Missteps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-made-simple-android-and-windows-shared-files-guide/"><u>Connectivity Made Simple: Android & Windows Shared Files Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-scout-for-empty-folders-delete-them-in-windows/"><u>Efficiently Scout for Empty Folders, Delete Them in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ethical-ambiance-music-streams/"><u>Ethical Ambiance Music Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-addressing-error-0x800700e1-on-windows-11/"><u>Guidelines for Addressing Error 0X800700E1 on Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-securely-protect-your-sql-databases-for-free-a-step-by-step-instructional-on-automated-tools-and-software/"><u>How to Securely Protect Your SQL Databases for Free: A Step-by-Step Instructional on Automated Tools and Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-online-cam-dance-duels/"><u>In 2024, Exclusive Online Cam Dance Duels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-trailblazing-google-pixel-9-the-premier-android-device-featuring-groundbreaking-satellite-emergency-calling/"><u>Introducing the Trailblazing Google Pixel 9: The Premier Android Device Featuring Groundbreaking Satellite Emergency Calling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-locating-missing-gpeditmsc-error/"><u>Mastering the Art of Locating Missing Gpedit.msc Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-java-installer-glitches-on-pc/"><u>Steps to Resolve Java Installer Glitches on PC</u></a></li>
+</ul></div>
+

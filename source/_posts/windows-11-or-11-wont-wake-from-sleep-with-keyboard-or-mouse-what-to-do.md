@@ -1,7 +1,7 @@
 ---
 title: Windows 11 or 11 Won't Wake From Sleep With Keyboard or Mouse? What to Do
-date: 2024-10-04T17:21:37.936Z
-updated: 2024-10-08T16:44:42.516Z
+date: 2024-10-12T10:51:44.491Z
+updated: 2024-10-15T12:34:11.635Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -59,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -78,24 +71,31 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -118,18 +118,20 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-webcam-methods-for-powerpoint-recordings/"><u>[New] Essential Webcam Methods for PowerPoint Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bridge-the-gap-youtube-tweet-functionality/"><u>[New] In 2024, Bridge the Gap YouTube Tweet Functionality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-designing-impactful-social-media-fb-ads/"><u>[Updated] 2024 Approved Designing Impactful Social Media FB Ads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bridging-the-gap-how-to-successfully-export-srt-from-premiere/"><u>[Updated] Bridging the Gap How to Successfully Export SRT From Premiere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-fresh-perspective-on-watch-dogs-evaluating-the-innovative-environment-of-legion/"><u>A Fresh Perspective on Watch Dogs: Evaluating the Innovative Environment of Legion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-turning-esd-to-iso-on-windows-instantly/"><u>Efficiency in Action: Turning ESD to ISO on Windows Instantly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s23plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S23+</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-windows-zoom-disruptions-fatal-error-1132/"><u>Preventing Windows Zoom Disruptions - Fatal Error 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-excessive-cpu-consumption-by-vanguards-ums-in-windows/"><u>Resolving Excessive CPU Consumption by Vanguard's UMS in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-disarm-frozen-app-block-on-windows/"><u>Techniques to Disarm Frozen App Block on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-6-pc-performance-monitors-in-windows/"><u>Top 6 PC Performance Monitors in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-ts-file-editor-advanced-editing-techniques-including-trimming-cropping-and-rotating/"><u>Top Rated TS File Editor: Advanced Editing Techniques Including Trimming, Cropping & Rotating</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-to-becoming-a-9gag-meme-genius/"><u>[Updated] Step-by-Step to Becoming a 9GAG Meme Genius</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-how-to-turn-on-encrypted-private-dns-for-enhanced-security-on-android-phones/"><u>Expert Tips: How to Turn On Encrypted Private DNS for Enhanced Security on Android Phones</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x50-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-hosted-network-starting-issues/"><u>How to Resolve Windows 11 Hosted Network Starting Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-test-and-calibrate-your-gaming-controller-on-windows/"><u>How to Test and Calibrate Your Gaming Controller on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-agni-2-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Agni 2 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/indispensable-gratuitous-tools-for-win11-users/"><u>Indispensable Gratuitous Tools for Win11 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics-for-2024/"><u>IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-your-win11-chrome-freeze-effective-fix-strategies/"><u>Overcome Your Win11 Chrome Freeze: Effective Fix Strategies.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/parrot-ar-drone-enhanced-a-compreayer-report/"><u>Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-note-taking-with-windows-11/"><u>Quick Tips for Note-Taking with Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-directdraw-failures-on-windows-11-systems/"><u>Tackling DirectDraw Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-folder-not-openable-errors-in-office-for-desktop-systems/"><u>Troubleshoot Folder Not Openable Errors in Office for Desktop Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-interface-revolution-learning-the-widget-basics/"><u>Windows 11 Interface Revolution: Learning the Widget Basics</u></a></li>
 </ul></div>
 

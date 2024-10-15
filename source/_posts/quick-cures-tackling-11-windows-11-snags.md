@@ -1,7 +1,7 @@
 ---
 title: "Quick Cures: Tackling 11 Windows 11 Snags"
-date: 2024-10-07T20:30:11.273Z
-updated: 2024-10-08T23:19:50.362Z
+date: 2024-10-07T21:23:20.609Z
+updated: 2024-10-15T08:36:06.935Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  The update issue can occur due to a corrupted software distribution folder and insufficient storage space. Explore our guide on[how to fix the Windows 11 Version 22H2 update not installing](https://www.makeuseof.com/windows-11-22h2-not-installing/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Windows 11 No Sound Issues
 
 ![troubleshoot sound problems windows taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshoot-sound-problems-windows-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[no sound problem in Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) is largely due to external factors. At times, you may also experience[low audio on your Windows 11 PC](https://www.makeuseof.com/windows-11-low-audio/) . The audio issues are often due to an incorrect configuration of playback devices.
 
@@ -72,10 +86,10 @@ To run the audio troubleshooter:
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The File Explorer Not Working on Windows 11
@@ -98,10 +112,10 @@ To run the audio troubleshooter:
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
@@ -134,25 +148,19 @@ To do this:
 4. Click**Reset** now to confirm the action.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
@@ -172,10 +180,10 @@ To do this:
  If you encounter a black screen issue, try to[perform a repair install of Windows 11](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . If that does not help, assuming that you don't have a hardware issue, a reset or fresh install may be necessary to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Disabling Bing Web Search in Windows 11
@@ -192,19 +200,6 @@ To do this:
 
  Then there are more subtle forms of ads. You may find ads on the lock screen, start menu, device usage recommendations, notifications, and even in File Explorer. Fortunately, most of these ads can be turned off without much effort. Follow our detailed guide to[remove all the annoying ads on Windows 11](https://www.makeuseof.com/windows-11-remove-ads/) .
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Disable Windows 11's Automatic Updates
 
 ![Windows update blocker disable update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-blocker-disable-update.jpg)
@@ -216,13 +211,6 @@ To do this:
 1. Go to the[Windows Update Blocker page](https://www.sordum.org/9470/windows-update-blocker-v1-7/) and download the utility.
 2. Run the tool and select**Disable updates.**
 3. Click**Apply Now** and restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows 11's Most Frequent Issues
 
@@ -243,22 +231,14 @@ To do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[Updated] 2024 Approved Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-connect-to-googles-meeting-platform-a-guide/"><u>[Updated] Connect to Google's Meeting Platform A Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-net-archives-downloading-personal-tones/"><u>2024 Approved Expert Net Archives Downloading Personal Tones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>2024 Approved The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-catalog-of-playstation-vr2-software-officially-announced-selection/"><u>Complete Catalog of PlayStation VR2 Software: Officially Announced Selection</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-7-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 7 and iPad Securely</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-formulating-flashy-podcast-moments/"><u>In 2024, Formulating Flashy Podcast Moments</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-machine-11-ways-to-open-control-panel/"><u>Master Your Machine: 11 Ways to Open Control Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-win-11-experience-game-changing-advice-for-the-winning-side/"><u>Optimizing Your Win 11 Experience: Game-Changing Advice for the Winning Side</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-setups-mastering-the-invisible-menu-features/"><u>Stealthy Setups: Mastering the Invisible Menu Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automated-file-deletion-on-windows/"><u>The Ultimate Guide to Automated File Deletion on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-modern-standby-a-critical-analysis/"><u>Unveiling Modern Standby: A Critical Analysis</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-how-to-define-ai-video-in-2024/"><u>Updated How to Define AI Video, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgraded-performance-ahead-steps-to-amplify-virtual-memory-in-windows-11/"><u>Upgraded Performance Ahead: Steps to Amplify Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-should-i-do-if-i-cant-upgrade-my-pc-to-windows-11/"><u>What Should I Do If I Can't Upgrade My PC to Windows 11?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-windows-wont-show-notification-badges-on-taskbar-icons/"><u>What to Do if Windows Won’t Show Notification Badges on Taskbar Icons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-elevating-your-instagram-engagement-through-hashtags/"><u>[New] Step-by-Step Elevating Your Instagram Engagement Through Hashtags</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>[Updated] In 2024, Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x9a-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X9a</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-creme-de-la-creme-of-mobile-gaming-ranked-list/"><u>Discover the Crème De La Crème of Mobile Gaming: Ranked List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-launch-failed-lunar-client-on-pcs/"><u>Guide to Overcoming Launch Failed Lunar Client on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-picture-processing-removing-background-artifacts/"><u>Perfect Picture Processing: Removing Background Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-from-announcing-patches/"><u>Preventing Windows From Announcing Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-windows-1011-menu-for-efficiency/"><u>Tailor Windows 10/11 Menu for Efficiency</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-the-nature-of-4k-uhd-images/"><u>Unveiling the Nature of 4K UHD Images</u></a></li>
 </ul></div>
 

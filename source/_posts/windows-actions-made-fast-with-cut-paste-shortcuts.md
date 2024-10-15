@@ -1,7 +1,7 @@
 ---
 title: Windows Actions Made Fast with Cut-Paste Shortcuts
-date: 2024-10-03T04:59:51.828Z
-updated: 2024-10-09T03:37:06.317Z
+date: 2024-10-08T23:35:18.216Z
+updated: 2024-10-15T08:05:52.995Z
 tags:
   - windows10
   - windows11
@@ -63,24 +63,31 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
-![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
-4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
+4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
 
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control Your System Volume With Your Mouse Wheel
@@ -90,10 +97,16 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select Text Easily on Documents
@@ -105,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Shortcuts to Work Faster on Windows
@@ -117,21 +130,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-kakaotalk-elites-flash-chats-on-snapchat/"><u>[New] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-step-by-step-guide-to-snapchats-boomerang-magic-for-2024/"><u>[Updated] A Step-by-Step Guide to Snapchat's Boomerang Magic for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-remove-samsung-calendar-from-your-galaxy-device-a-step-by-step-guide/"><u>1. Remove Samsung Calendar From Your Galaxy Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/amazon-accusations-focus-heat-on-facebook-group-administration/"><u>Amazon Accusations Focus Heat on Facebook Group Administration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-workflow-with-process-management-and-aesthetic-overhaul-in-w11/"><u>Elevate Workflow with Process Management & Aesthetic Overhaul in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-chromiums-network-access-over-windows-security-barrier/"><u>Enabling Chromium's Network Access Over Windows Security Barrier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-a-portable-software-menu-to-windows-11-and-11/"><u>How to Add a Portable Software Menu to Windows 11 & 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-download-and-setup-dell-wd19-printer-drivers/"><u>How to Successfully Download and Setup Dell WD19 Printer Drivers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-free-video-hosting-platforms-for-monetizing-your-content/"><u>The Best Free Video Hosting Platforms for Monetizing Your Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-strategies-enhancing-productivity-using-wsl-2/"><u>Top Strategies: Enhancing Productivity Using WSL 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-live-streaming-intel-graphics-recording-tips/"><u>Winning at Live Streaming: Intel Graphics Recording Tips</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,3 +137,22 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-break-boundaries-with-these-7-unique-platforms-for-art-to-nfts/"><u>[New] Break Boundaries with These 7 Unique Platforms for Art to NFTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-nikon-j5s-4k-capability/"><u>[New] In 2024, The Ultimate Guide to Nikon J5's 4K Capability</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations-for-2024/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-booting-strategies-how-to-create-a-win-11-usb-drive-in-three-steps/"><u>Efficient Booting Strategies – How to Create a Win 11 USB Drive in Three Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-leveraging-github-desktop-in-windows-development/"><u>Essential Guide to Leveraging GitHub Desktop in Windows Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/forza-horizon-4-players-rejoice-silent-gameplay-issue-now-fixed-with-crystal-clear-sounds/"><u>Forza Horizon 4 Players Rejoice! Silent Gameplay Issue Now Fixed with Crystal Clear Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-power-of-automatic-color-correction-in-win11/"><u>Harness the Power of Automatic Color Correction in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-tools-for-creating-animation-with-models-for-2024/"><u>Ideal Tools for Creating Animation with Models for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y27-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y27 5G Lock Screen Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-file-management-in-windows-with-these-top-5-tips/"><u>Master File Management in Windows with These Top 5 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-peace-configure-active-hours-in-windows-11/"><u>Maximize Peace: Configure Active Hours in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-pcs-from-stuck-in-bios-boot-menu/"><u>Stop Windows PCs From Stuck in BIOS Boot Menu</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/take-your-games-to-the-next-level-install-updated-drivers-for-geforce-rtx-2080-ti/"><u>Take Your Games to The Next Level - Install Updated Drivers for GeForce RTX 2080 Ti</u></a></li>
+</ul></div>
+

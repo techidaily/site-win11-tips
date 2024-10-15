@@ -1,7 +1,7 @@
 ---
 title: Streamlining CPU & Memory for Seamless Browsing Experience
-date: 2024-10-03T07:26:03.655Z
-updated: 2024-10-09T05:22:03.443Z
+date: 2024-10-13T04:36:25.576Z
+updated: 2024-10-14T23:12:01.851Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ To install a Windows 11 update:
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Turn Off News and Interests on Windows 10
 
  If you don't use News and Interests, you can turn off the feature from the Taskbar on Windows 10\. To turn off News and Interests on Windows 10:
@@ -51,24 +58,24 @@ To install a Windows 11 update:
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable News and Interests on Windows 11
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
@@ -93,21 +100,7 @@ To install a Windows 11 update:
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -127,10 +120,10 @@ To disable the news feed feature using Windows Registry:
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
@@ -153,6 +146,13 @@ To disable the news feed feature using Windows Registry:
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
  Memory leakage is a common cause for the News and Interests high memory usage issue. While a hotfix is available, you'll need to disable the News and Interests widget item to resolve the problem if the issue persists.
@@ -172,14 +172,24 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-immortalizing-moments-facebook-live-to-file-finesse-for-2024/"><u>[New] Immortalizing Moments Facebook Live to File Finesse for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>[Updated] Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-device-efficiency-surface-computers-firmware-update-processes/"><u>Enhancing Device Efficiency: Surface Computers' Firmware Update Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-energy-spike-during-intense-gaming-on-windows/"><u>Minimizing Energy Spike During Intense Gaming on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/relocating-qbittorrent-on-windows-a-comprehensive-instructional-walkthrough/"><u>Relocating qBittorrent on Windows: A Comprehensive Instructional Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revive-and-protect-scratched-discs-seamless-dvd-restoration-ensuring-original-quality-preservation/"><u>Revive & Protect Scratched Discs: Seamless DVD Restoration Ensuring Original Quality Preservation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-office-tasks-with-powerful-windows-shortcuts/"><u>Speed Up Office Tasks With Powerful Windows Shortcuts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktoks-anime-revolution-innovative-ideas-countdown/"><u>TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adapt-video-ratios-through-web-interface/"><u>[Updated] Adapt Video Ratios Through Web Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-access-download-your-own-tailored-tracks/"><u>2024 Approved Exclusive Access Download Your Own Tailored Tracks</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inadequate-usb-support-on-desktops/"><u>Addressing Inadequate USB Support on Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-of-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Avoidance of Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-old-file-management-interface/"><u>Bringing Back Old File Management Interface</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-giants-how-does-googles-gemini-ai-stack-up-against-chatgpt/"><u>Comparing the Giants: How Does Google's Gemini AI Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-taming-high-cpu-use-in-modern-windows-host/"><u>Deciphering and Taming High CPU Use in Modern Windows Host</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-checks-when-windows-obs-studio-wont-launch/"><u>Essential Checks When Windows' OBS Studio Won't Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-watch-project-hints-at-dual-cam-features-in-upcoming-devices/"><u>FB Watch Project Hints at Dual Cam Features in Upcoming Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/filmmakers-companion-quickly-convert-any-avi-file-into-a-trendy-gif-using-filmora/"><u>Filmmakers' Companion Quickly Convert Any AVI File Into a Trendy GIF Using Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-c65-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco C65 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-mastering-the-process-of-software-installation-and-removal/"><u>Step-by-Step Guide: Mastering the Process of Software Installation & Removal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resolving-user-not-found-issue-windows-1011/"><u>Steps for Resolving 'User Not Found' Issue: Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-terminal-and-powershell-identifying-what-sets-them-aside/"><u>Windows Terminal and PowerShell: Identifying What Sets Them Aside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmvasf-movavi/"><u>WMVとASFファイルの効率的な無料変換 - Movavi</u></a></li>
 </ul></div>
 

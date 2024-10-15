@@ -1,7 +1,7 @@
 ---
 title: Tips for Controlling Lights on Windows 11 Search Results
-date: 2024-10-03T16:50:25.227Z
-updated: 2024-10-08T18:21:08.658Z
+date: 2024-10-08T18:23:40.581Z
+updated: 2024-10-14T21:15:28.055Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
  You should no longer see search lights now.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Turn Search Highlights On and Off in the Local Group Policy Editor
@@ -52,24 +52,24 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![the Local Group Policy Editor on Windows with the Allow search highlights policy highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lgpe-windows-allow-search-highlights-policy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To show search highlights, make sure the **Not Configured** or **Enabled** radio button is checked, and then click **OK**.
 
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To disable search highlights, check the **Disabled** radio button, and then click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
@@ -86,37 +86,24 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![creating a dword value in the Windows registry for the SearchSettings key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/creating-dword-windows-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the right panel, double-click **IsDynamicSearchBoxEnabled** (the value you just created) and then enter **1** in the **Value data** text box to turn search highlights on. Then, click **OK** to apply the change.
 
 ![the IsDynamicSearchBoxEnabled value in the Registry Editor and Value data has been set to 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/editing-isdynamicsearchboxenabled-value-windows-registry.jpg)
 
  To turn search highlights off, enter **0** in the **Value data** text box, and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Control Your Search Highlights on Windows 11
 
  Windows 11 being customizable is what makes interacting with the OS enjoyable. The power is in your hands whether you want to see search highlights or not in Windows Search. And now you know three ways to enable or disable them.
 
  So, keep on reading to find out three ways to turn search highlights on and off.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-beginning-conversations-in-the-cloud-mastering-zoom-on-android-phones/"><u>[New] 2024 Approved Beginning Conversations in the Cloud Mastering Zoom on Android Phones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>2024 Approved Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-ipad-pro-and-macbook-pro-unveiling-key-distinctions/"><u>Comparing iPad Pro & MacBook Pro: Unveiling Key Distinctions</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-deck-game-a-selection-of-superior-accessories/"><u>Elevating Your Deck Game: A Selection of Superior Accessories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empower-your-mouse-movements-with-global-friendly-powertoys/"><u>Empower Your Mouse Movements with Global-Friendly PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-updater-issue-code-x80246007-on-win1011/"><u>Overcome Updater Issue Code X80246007 on WIn10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-full-potential-of-your-windows-11-display/"><u>Unleash the Full Potential of Your Windows 11 Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-capabilities-of-windows-11-key-adjustments-made-easy/"><u>Unlocking the Full Capabilities of Windows 11: Key Adjustments Made Easy</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,3 +112,27 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-acquiring-igtv-media-easily-a-comprehensive-pcmac-guide/"><u>[New] In 2024, Acquiring IGTV Media Easily A Comprehensive PC/Mac Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategic-social-sharing-master-facebook-story-linking-for-2024/"><u>[New] Strategic Social Sharing Master Facebook Story Linking for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-smallest-flyers-yet-big-impact-top-brands-reviewed/"><u>2024 Approved Smallest Flyers Yet Big Impact - Top Brands Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-smart-high-fidelity-gaming-monitors-selection/"><u>Budget-Smart, High Fidelity Gaming Monitors Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cold-chronicles-the-2022-winter-olympics-in-china/"><u>Cold Chronicles The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-mac-with-windows-11-the-parallels-technique/"><u>Conquering Mac with Windows 11: The Parallels Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-setup-positioning-quick-access-tools-in-win11-interface/"><u>Effortless Setup: Positioning Quick Access Tools in Win11 Interface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-llm-your-ultimate-starter-pack/"><u>Getting Started with LangChain LLM: Your Ultimate Starter Pack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-linux-side-of-windows-uninterrupted-by-win-11/"><u>Keeping Linux Side of Windows Uninterrupted by Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rearranging-onedrive-storage-in-win10/"><u>Mastering the Art of Rearranging OneDrive Storage in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-high-dpi-screen-challenges-on-windows/"><u>Overcoming High DPI Screen Challenges on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rerouting-to-reinstalled-microsoft-store-programs-on-pc/"><u>Rerouting to Reinstalled Microsoft Store Programs on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-favorite-feature-how-to-bring-back-photo-viewer-on-win11/"><u>Restore Your Favorite Feature: How to Bring Back Photo Viewer on Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-here-are-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Here Are 7 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-in-the-stream-7-ways-to-reopen-reluctant-websites-on-win-os/"><u>Stuck in the Stream? 7 Ways to Reopen Reluctant Websites on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-comic-file-management-in-win11/"><u>The Ultimate Guide to Comic File Management in Win11</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c300-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C300</u></a></li>
+</ul></div>
+

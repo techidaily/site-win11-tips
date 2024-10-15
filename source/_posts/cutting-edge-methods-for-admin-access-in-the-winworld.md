@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Methods for Admin Access in the WinWorld
-date: 2024-10-03T05:58:51.575Z
-updated: 2024-10-09T06:35:36.840Z
+date: 2024-10-14T11:04:30.312Z
+updated: 2024-10-14T18:45:19.140Z
 tags:
   - windows10
   - windows11
@@ -46,26 +46,26 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![Gpedit In Run Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Gpedit-In-Run-Menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the left panel, navigate to **Configuration > Windows Settings > Security Settings > Local Policies > Security Options**. In the right panel, double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy to access its **Properties** window.
 
 ![the UAC behavior for admin policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/uac-behavior-admin-policy-local-group-policy-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the dropdown and select the UAC behavior you want.
 
 ![Editing the UAC behavior for admin policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-uac-behavior-admin-policy-local-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply and save the changes, click on **OK**.
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the UAC prompt, click **Yes** to [open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-local-security-policy/).
@@ -106,14 +106,20 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![Editing the ConsentPromptBehaviorAdmin value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-consentpromptbehavior-value-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, click **OK** to apply and save the changes.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Control the UAC’s Behavior as an Administrator
 
@@ -123,23 +129,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
  As an administrator, you can change how UAC behaves. In this guide, we’re going to show you how to do that using the Local Group Policy Editor and Registry Editor.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-ios-screenshots-and-recordings-for-2024/"><u>[New] Mastering iOS Screenshots & Recordings for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-top-5-methods-for-turning-tiktok-videos-into-gifs/"><u>[Updated] In 2024, Discovering Top 5 Methods for Turning TikTok Videos Into GIFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-the-requires-elevation-error-in-windows-11-devices/"><u>Eliminating the Requires Elevation Error in Windows 11 Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-insights-you-need-to-know-about-buying-icloud-storage-read-up-first/"><u>Essential Insights You Need to Know About Buying iCloud Storage: Read Up First!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-unmatched-convenience-with-our-ankers-powercoreplus-26800-charger-bundle-analysis/"><u>Experience Unmatched Convenience with Our Anker's PowerCore+ 26800 Charger Bundle Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-hacks-unlock-these-18-features-in-apples-shortcuts-app/"><u>Expert Hacks: Unlock These 18 Features in Apple's Shortcuts App</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-preserving-your-tunes-ultimate-strategies-for-securing-your-songs-on-all-iphones-model-15-14-13-and-earlier/"><u>Guide: Preserving Your Tunes - Ultimate Strategies for Securing Your Songs on All iPhones (Model 15, 14, 13, and Earlier)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12 5G Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-zero-30-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Zero 30 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigniting-fidelity-in-windows-colors/"><u>Reigniting Fidelity in Windows Colors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskers-puzzle-edge-and-other-processes/"><u>Tasker's Puzzle: Edge and Other Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-tactics-for-vmstart-disruptions-on-wm11os/"><u>Top 8 Tactics for VMstart Disruptions on WM11OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-complexities-of-microsofts-error-0x80040610/"><u>Unraveling the Complexities of Microsoft's Error 0X80040610</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +136,25 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-vs-camera-edition-deciding-between-gopro-hero-and-polaroid-cube/"><u>[New] In 2024, Vs. Camera Edition Deciding Between GoPro Hero & Polaroid Cube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-integrating-audio-elements-into-facebooks-visual-stories-for-2024/"><u>[New] Integrating Audio Elements Into Facebook's Visual Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook/"><u>[Updated] The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>2024 Approved Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/combatting-the-rise-of-adblock-youtubes-ongoing-battle/"><u>Combatting the Rise of Adblock: YouTube's Ongoing Battle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-the-essential-windows-key-with-confidence/"><u>Command the Essential Windows Key with Confidence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-dynamic-images-carousel-in-win11-effortlessly/"><u>Creating Dynamic Images Carousel in Win11 Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-cpu-impact-from-ntoskrnlexe/"><u>Decreasing CPU Impact From Ntoskrnl.exe</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-c53-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme C53 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-efficient-tagging-techniques-to-boost-your-youtube-traffic/"><u>In 2024, Efficient Tagging Techniques to Boost Your Youtube Traffic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-for-pc-users-features-in-win11-feb-2023-patch/"><u>New Horizons for PC Users - Features in Win11 FEB 2023 Patch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scribing-success-best-writing-aids-for-windows-pc/"><u>Scribing Success: Best Writing Aids for Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-system-performance-through-vram-upgrade-on-windows/"><u>Skyrocketing System Performance Through VRAM Upgrade on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-terminal-hurdles-on-your-pc/"><u>Solving Terminal Hurdles on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-from-cr2-to-jpg-format-with-windows-ease/"><u>Transition From CR2 to JPG Format with Windows Ease</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-of-the-nokia-31-your-ultimate-entry-level-smartphone-choice/"><u>Unveiling the Features of the Nokia 3.1 - Your Ultimate Entry-Level Smartphone Choice</u></a></li>
+</ul></div>
+

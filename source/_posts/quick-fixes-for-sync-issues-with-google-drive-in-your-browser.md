@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Sync Issues with Google Drive in Your Browser
-date: 2024-10-05T04:10:21.074Z
-updated: 2024-10-08T22:37:23.307Z
+date: 2024-10-14T01:13:01.041Z
+updated: 2024-10-14T22:14:45.018Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 
 ![Restart Option In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-option-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disconnect and Reconnect Your Google Account
 
  If your Google account doesn’t connect properly during the initial Drive setup, it starts throwing syncing errors. So, if you’re unable to modify any files in the Drive, you should try reconnecting your Google account. Note that before reconnecting your account, you first need to disconnect it from Google Drive preferences.
@@ -56,27 +49,28 @@ Follow the below steps to disconnect your Google account from Drive:
 3. On the**Preferences** window, click**Disconnect account** next to your Google account.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Google Drive Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-preferences-window.jpg)
 4. Again, click**Disconnect** to confirm your action. Once done, open Google Drive from the start menu.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Sign in with browser** and reconnect your Google account.  
 ![Sign In Option In Google Drive's Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-option-in-google-drive.jpg)
 
  Note that, during signing in with your Google account, it'll ask for some permissions—so make sure you tick all the checkboxes. This should hopefully fix the syncing issues on your computer.
 
  Once you login again, it'll take some time to fetch all your files from the cloud, depending on the files you've stored in Google Drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Clear Temporary Files
 
@@ -85,6 +79,13 @@ Follow the below steps to disconnect your Google account from Drive:
  The Windows operating system generates temporary files to ensure the smooth functioning of all programs that run on your computer. However, if such files become corrupted for any reason, Windows programs begin to behave abnormally and stop working properly.
 
  If you run into problems with Windows programs often, you should know[how to delete temporary files in Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) . By deleting the temporary files, you force all the Windows programs to recreate them at startup. This removes all the corrupted files and fixes some common sync errors.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Examine the Internet Connection
 
@@ -96,20 +97,13 @@ Follow the below steps to disconnect your Google account from Drive:
 
 ![Ipconfig Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ipconfig-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your issue is still not resolved, keep reading, as you may need to jump on to some advanced troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check the Required Permissions to Sync Files
@@ -137,6 +131,14 @@ Follow the below steps to disconnect your Google account from Drive:
 1. Go to[Google Drive’s website](https://www.google.com/drive/download/) and click**Download Drive for desktop** .  
 ![Google Drive's Official Website Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-website-overview.jpg)
 2. Run the installer file you just downloaded and click**Install** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Drive For Desktop Installer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-for-desktop-installer.jpg)
 3. Click**Sign in with browser** and log in with your desired Google account.
 4. Once you’ve signed into Google Drive, click**Close** to exit the installer.
@@ -145,10 +147,10 @@ Follow the below steps to disconnect your Google account from Drive:
  All sync-related errors should be resolved after reinstalling Drive for desktop program. However, if it’s still not fixed, the chances are that the problem is not with your Google account but with your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Other Fixes for Resolving Sync Issues
@@ -182,24 +184,24 @@ Follow the below steps to disconnect your Google account from Drive:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-prepare-your-fb-content-hv-orientation-matters-for-2024/"><u>[Updated] How to Prepare Your FB Content H/V Orientation Matters for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-optimal-lighting-for-stellar-video-production/"><u>[Updated] In 2024, Optimal Lighting for Stellar Video Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-and-mending-windows-audio-glitch-code-9999/"><u>Demystifying and Mending Windows Audio Glitch: Code 9999</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-quick-and-efficient-ways-to-access-windows-11-sounds/"><u>Discover Quick and Efficient Ways to Access Windows 11 Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-xbox-microphone-integration-in-windows-11-ecosystem/"><u>Ensuring Smooth Xbox Microphone Integration in Windows 11 Ecosystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-windows-flashing-screen-in-windows-11-pcs/"><u>Fix Window's Flashing Screen in Windows 11 PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-tech-troubles-effective-solutions-for-error-43-rectification/"><u>Navigating Through Tech Troubles: Effective Solutions for Error 43 Rectification</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-connect-windows-7-to-wi-fi/"><u>Quickly Connect Windows 7 to Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-control-over-your-text-editor-fixing-windows-notepad-open-issues/"><u>Regain Control Over Your Text Editor: Fixing Windows Notepad Open Issues</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/revolutionize-your-content-harnessing-the-power-of-fb-lives-for-2024/"><u>Revolutionize Your Content Harnessing the Power of FB Lives for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-game-cannot-load-error-with-our-effective-troubleshooting-steps/"><u>Solve the 'Game Cannot Load' Error with Our Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-fixes-to-steam-logins-in-rust-on-your-windows-machine/"><u>Step-by-Step Fixes to Steam Logins in Rust on Your Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-perpetual-challenge-decoding-the-concepts-behind-eternal-black-return/"><u>The Perpetual Challenge: Decoding the Concepts Behind Eternal Black Return</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-a-brighter-bolder-cursor-on-windows/"><u>The Ultimate Guide to a Brighter, Bolder Cursor on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-gaming-graphics-cards-optimized-for-stunning-4k-movie-experience-on-desktop/"><u>Top Gaming Graphics Cards Optimized for Stunning 4K Movie Experience on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-o365-sync-issues-on-windows/"><u>Troubleshooting O365 Sync Issues on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-8-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 8 Plus has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-5-fixes-rectifying-secure-key-mismatch-errors/"><u>Win11's 5 Fixes: Rectifying Secure Key Mismatch Errors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-discover-why-these-games-are-virtual-gold-for-2024/"><u>[New] Discover Why These Games Are Virtual Gold for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-screen-capture-on-macbook-webcam/"><u>[Updated] In 2024, Mastering Screen Capture on MacBook Webcam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamline-screen-recording-processes-during-facetime/"><u>[Updated] In 2024, Streamline Screen-Recording Processes During FaceTime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>2024 Approved Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-shutdownrestart-blockage-due-to-deceptive-apps-in-windows/"><u>Counteracting Shutdown/Restart Blockage Due to Deceptive Apps in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-system-tray-and-secret-icons-in-win11/"><u>Decoding System Tray & Secret Icons in Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dts-disabled-message-understanding-and-solving-the-issue/"><u>DTS Disabled Message - Understanding and Solving the Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-x7007043c-in-windows-media-creator/"><u>Eradicating Error X.7007043C in Windows' Media Creator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29 Prowith/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a1x-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A1x 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-choices-elite-ringtone-developers-iphone/"><u>In 2024, Best Choices Elite Ringtone Developers iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719320946567-list-three-benefits-of-applying-a-cultural-relativist-approach-when-encountering-unfamiliar-customs-or-beliefs/"><u>List Three Benefits of Applying a Cultural Relativist Approach when Encountering Unfamiliar Customs or Beliefs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-11-home-settings/"><u>Navigating to Windows 11 Home Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-salvage-dormant-wsreset-service-on-windows/"><u>Steps to Salvage Dormant WSReset Service on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-repairing-razer-synapse-fixes-for-modern-oses/"><u>Swift Repairing: Razer Synapse Fixes for Modern OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-censored-windows-11-theme-options-with-registry/"><u>Unveiling Censored Windows 11 Theme Options with Registry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/videocapture-with-vlc-appraisal-for-2024/"><u>Videocapture with VLC Appraisal for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-eradicate-wow-error-132-in-1011/"><u>Winning Strategies: Eradicate WoW Error 132 in 10/11</u></a></li>
 </ul></div>
 

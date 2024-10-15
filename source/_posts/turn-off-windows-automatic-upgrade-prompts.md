@@ -1,7 +1,7 @@
 ---
 title: Turn Off Windows Automatic Upgrade Prompts
-date: 2024-10-06T22:07:02.923Z
-updated: 2024-10-08T20:10:09.692Z
+date: 2024-10-09T21:54:23.245Z
+updated: 2024-10-14T20:33:02.516Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
  Once you complete the above steps, Windows should not bother you with update notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Windows Update Notifications Using Group Policy Editor
@@ -60,19 +60,25 @@ To disable Windows update notifications using Group Policy Editor:
 ![Disable Windows Update Notifications Using the Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-windows-update-notifications-using-group-policy-editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to re-enable the Windows update notifications later, follow the same steps above and set the**Display options for update notifications** policy to**Not configured** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Windows Update Notifications With Registry Editor
@@ -97,10 +103,10 @@ To disable Windows update notifications using Registry Editor:
  Exit the Registry Editor window and restart your PC to apply the changes. Following that, Windows will not display update notifications on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Update Notifications on Windows
@@ -124,14 +130,22 @@ To disable Windows update notifications using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[New] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-everyones-guide-to-youtube-success-10-straightforward-video-tips-for-2024/"><u>[Updated] Everyone's Guide to YouTube Success 10 Straightforward Video Tips for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vcs-quickcapture-critique-full-review-and-guide/"><u>[Updated] In 2024, VCS QuickCapture Critique Full Review & Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-actions-to-resolve-windowed-games-issue/"><u>Essential Actions to Resolve Windowed Games Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-synchronization-glitches-in-monitors/"><u>How to Fix Synchronization Glitches in Monitors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-superior-5-web-video-capture-kits/"><u>In 2024, Superior 5 Web Video Capture Kits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-survival-kit-top-13-ways-to-resurrect-windows/"><u>System Survival Kit: Top 13 Ways to Resurrect Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/universal-media-player-stream-and-play-any-videoaudio-on-pc-and-mac-os/"><u>Universal Media Player: Stream & Play Any Video/Audio on PC & Mac OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-angling-images-a-comprehensive-instagram-rotation-handbook/"><u>[New] In 2024, The Art of Angling Images A Comprehensive Instagram Rotation Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigating-through-the-top-8-blended-mobile-video-collage-choices-on-android-for-2024/"><u>[New] Navigating Through the Top 8 Blended Mobile Video Collage Choices on Android for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>[New] Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-screen-capture-in-snapchat-for-beginners-and-pros/"><u>[Updated] Seamless Screen Capture in Snapchat for Beginners and Pros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expedite-your-experience-quick-iphone-time-lapse-for-2024/"><u>Expedite Your Experience Quick iPhone Time-Lapse for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-optimizing-package-dependencies-on-windows-11/"><u>Expert Techniques for Optimizing Package Dependencies on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-unexpected-window-scrolling/"><u>How To Halt Unexpected Window Scrolling</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-mobile-virtual-realitys-elite-selection/"><u>In 2024, Discovering Mobile Virtual Reality's Elite Selection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v29e-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo V29e Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-supreme-song-synchronizer-app-android/"><u>In 2024, Supreme Song Synchronizer App (Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-secure-storage-integrating-passwords-with-win-oses/"><u>Innovative Secure Storage: Integrating Passwords with Win OSes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-counter-strike-2-expert-advice-to-improve-fps-fluctuations-and-reduce-stutter-for-enhanced-gameplay/"><u>Optimize Counter-Strike 2: Expert Advice to Improve FPS Fluctuations and Reduce Stutter for Enhanced Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-brightness-limitation-strategies-shared/"><u>Overcoming Windows 11 Brightness Limitation: Strategies Shared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-failures-fixing-amd-195-on-pcs/"><u>Preventing Failures: Fixing AMD 195 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-media-format-rejection-by-vlc/"><u>Remedying Windows Media Format Rejection by VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-d3dx939dll-issue-on-win11-pcs/"><u>Unlocking D3DX9_39.dll Issue on Win11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/widows-locked-handbrake-swift-fix-guide/"><u>Widows' Locked HandBrake: Swift Fix Guide</u></a></li>
 </ul></div>
 

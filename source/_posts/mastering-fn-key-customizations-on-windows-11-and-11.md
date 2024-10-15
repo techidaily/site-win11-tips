@@ -1,7 +1,7 @@
 ---
 title: Mastering FN Key Customizations on Windows 11 & 11
-date: 2024-10-05T00:02:41.710Z
-updated: 2024-10-09T02:53:46.744Z
+date: 2024-10-14T08:33:57.301Z
+updated: 2024-10-15T13:56:08.513Z
 tags:
   - windows10
   - windows11
@@ -45,26 +45,34 @@ Here is how to proceed:
 3. Click on**Windows Mobility Center** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -86,6 +94,13 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -105,26 +120,12 @@ If you are a Windows 11 user, follow these steps:
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
@@ -137,13 +138,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -158,6 +152,19 @@ If you are a Windows 11 user, follow these steps:
 * **Compatibility** : If you use software that requires input from the standard function keys, it may be necessary to change the Fn key settings to ensure compatibility.
 
  Ultimately, whether it is a good idea to change the Fn key settings or not will depend on how you use your computer and what you prefer. We recommend weighing the pros and cons and consider your usage patterns before you make a decision.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the Function Keys Like a Pro
 
@@ -178,17 +185,18 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-audio-mastery-your-guide-to-youtube-soundtracking/"><u>[New] 2024 Approved Audio Mastery Your Guide to Youtube Soundtracking</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-converting-youtube-to-interactive-animated-gifs/"><u>[New] 2024 Approved Mastering the Art of Converting YouTube to Interactive Animated GIFs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-25-social-stars-essential-instagram-icons/"><u>[New] 2024 Approved Top 25 Social Stars Essential Instagram Icons</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-master-image-correction-in-just-5-essential-android-editing-tools-for-2024/"><u>[New] Master Image Correction in Just 5 Essential Android Editing Tools for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tweet-titans-social-networks-10-most-shared-posts/"><u>[New] Tweet Titans Social Network’s 10 Most Shared Posts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-jargon-uncovered-essential-terms-for-tech-professionals/"><u>AI Jargon Uncovered: Essential Terms for Tech Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-0x0-errors-in-windows-11-successfully/"><u>Correcting 0X0 Errors in Windows 11 Successfully</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-tech-a-comprehensive-guide-to-hardware-ids-in-windows/"><u>Decoding Tech: A Comprehensive Guide to Hardware ID's in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-your-windows-11-photo-experience-with-slide-shows-and-fixing-tricks/"><u>Enhancing Your Windows 11 Photo Experience with Slide Shows & Fixing Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y17s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y17s Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-file-download-failures-of-directx/"><u>Solving File Download Failures of DirectX</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-practical-guide-to-swapping-gender-representation-online-from-basics-to-expertise/"><u>[New] In 2024, Practical Guide to Swapping Gender Representation Online From Basics to Expertise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-magix-music-maker-review-for-2024/"><u>[New] Magix Music Maker Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-path-to-professionalism-morphvox-transformation-guide/"><u>[New] Path to Professionalism MorphVOX Transformation Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/bypass-issue-twitter-video-on-chrome-freeze/"><u>Bypass Issue Twitter Video on Chrome Freeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-steps-to-rectify-management-tool-inaccessibility-in-windows-11/"><u>Decoding Steps to Rectify Management Tool Inaccessibility in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-trouble-heres-how-you-can-get-it-running-again/"><u>Discord Trouble? Here's How You Can Get It Running Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-secure-windows-tcpip-network-configuration/"><u>Ensuring Secure Windows TCP/IP Network Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-15-pro-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 15 Pro Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-12-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 12 mini has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-no-media-found-error-on-hard-drive-windows/"><u>Stop 'No Media Found' Error on Hard Drive Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-customization-in-win11-layouts/"><u>Unleash the Power of Customization in Win11 Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-access-fixing-epic-launcher-login-gaps/"><u>Unlocking Win Access: Fixing Epic Launcher Login Gaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-overcoming-obs-studio-connection-failures/"><u>Winning Strategies: Overcoming OBS Studio Connection Failures</u></a></li>
 </ul></div>
 

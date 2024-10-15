@@ -1,7 +1,7 @@
 ---
 title: "Unlock Performance Potential: Windows 11 HDD Defrag"
-date: 2024-10-08T00:29:20.755Z
-updated: 2024-10-09T07:31:49.178Z
+date: 2024-10-12T14:46:46.363Z
+updated: 2024-10-15T02:20:11.043Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Defrag a Hard Drive With the Command Prompt
 
  Alternatively, you can utilize a defragger command-line tool within the Command Prompt. That tool is more flexible because it has various parameters you can set in commands. This is how to defrag your hard drive with the Command Prompt in Windows 11.
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With Defraggler
@@ -103,20 +96,27 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
 
 ![The Action menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-action-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I Defrag a Solid-State Drive?
 
@@ -125,16 +125,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
  Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enhance Your PC’s HDD Efficiency in Windows 11
@@ -156,22 +150,15 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-techniques-for-capturing-ppt-sessions-for-2024/"><u>[New] Optimal Techniques for Capturing PPT Sessions for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-sound-recorder-quality-overview-for-2024/"><u>[Updated] Sound Recorder Quality Overview for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578225825-2022-speak-anywhere-for-a-bargain-priced-language-bundle/"><u>2022: Speak Anywhere for a Bargain-Priced Language Bundle!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-calculating-your-digital-footprint-understanding-views-and-income-from-youtube/"><u>2024 Approved Calculating Your Digital Footprint Understanding Views & Income From YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-ios-tools-mimicking-playstation-2-experience/"><u>2024 Approved Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-admin-restrictions-from-windows-security-error/"><u>Clearing Admin Restrictions From Windows Security Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dodging-the-hurdle-of-microsoft-store-error-0x80072efd-on-windows-devices/"><u>Dodging the Hurdle of Microsoft Store Error 0X80072EFD on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-new-heights-increasing-window-11-icon-size/"><u>Explore New Heights: Increasing Window 11 Icon Size</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-does-high-dynamic-range-hdr-imaging-work-in-photography-unveil-the-secrets-with-top-7-tips/"><u>How Does High Dynamic Range (HDR) Imaging Work in Photography? Unveil the Secrets with Top 7 Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-g24-power-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola G24 Power to iPod | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-zero-5g-2023-turbo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Zero 5G 2023 Turbo Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-a1-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo A1 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-windows-11s-default-touch-interface-positioning/"><u>Redefining Windows 11'S Default Touch Interface Positioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-windows-error-code-0xc0000001-instances/"><u>Remedy for Windows Error Code 0XC0000001 Instances</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tracking-desktop-image-save-path-in-windows-11/"><u>Tracking Desktop Image Save-Path in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-for-iphone-photo-import-error-on-windows-pc/"><u>Troubleshooting for iPhone Photo Import Error on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-pros-and-cons-of-different-win-video-codes/"><u>Understanding the Pros & Cons of Different Win Video Codes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-7-superior-mac-video-applications/"><u>[New] 7 Superior Mac Video Applications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[New] In 2024, Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-full-spectrum-review-of-obs-screen-recording/"><u>[New] In 2024, The Full Spectrum Review of OBS Screen Recording</u></a></li>
+<li><a href="https://driver-download.techidaily.com/a-step-by-step-walkthrough-on-updating-your-sound-card-drivers-for-windows-7-systems/"><u>A Step-by-Step Walkthrough on Updating Your Sound Card Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-ai-the-case-for-altering-chatgpt/"><u>Challenging AI: The Case for Altering ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-7-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 7 using find my iphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-browsing-with-microsofts-defender-guard-feature/"><u>Streamline Your Browsing with Microsoft's Defender Guard Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-rdp-fails-internal-error-resolution/"><u>Tackling Windows 11 RDP Fails: Internal Error Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-text-enhancements-in-windows-11-snip-tool/"><u>Unlocking Text Enhancements in Windows 11 Snip Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-through-improvement-not-just-innovation/"><u>Winning Through Improvement, Not Just Innovation</u></a></li>
 </ul></div>
 

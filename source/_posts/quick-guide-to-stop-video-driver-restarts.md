@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Stop Video Driver Restarts
-date: 2024-10-07T00:33:39.085Z
-updated: 2024-10-09T06:14:48.863Z
+date: 2024-10-10T02:28:52.110Z
+updated: 2024-10-15T11:02:01.458Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,17 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-nvidia-driver-download-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall Your PC’s Graphics Driver
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 4. Select a checkbox option for deleting the driver and click **Uninstall**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option3.jpg)
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
  The “Video driver crashed” error can sometimes occur when a game’s graphical settings are set too high. That’s more likely on lower-spec PCs with poorer GPUs that can’t handle higher graphics settings so well.
@@ -103,22 +103,16 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
 ![A game's Graphics Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/graphics-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can try selecting a lower graphics preset option instead. Most games have three or more graphics presets that generally change graphical settings. Selecting a lower-quality preset will automatically reduce various graphics options.
 
  Some players have also reported this error occurring after enabling DirectX 12\. So, look for a DirectX setting in the graphics menu. If you can find it, make sure that option is set to DirectX 11\.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set a Higher TDR Delay Value
 
@@ -133,17 +127,18 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 4. If a **TDRDelay** DWORD already exists, you can skip to step six. If not, right-click **GraphicsDrivers** in Registry Editor’s left sidebar and select the **New** and **DWORD (32-bit) Value** options from the context menu.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-dword-32-bit-value-option.jpg)
 5. Input **TDRDelay** for the key’s title.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Double-click on the **TDRDelay** registry entry.
 7. Delete the current number and enter **8** in the **Value data** box.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-edit-dword-window.jpg)
 8. Select **OK** to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the PC after applying this registry tweak. Then, try playing games or videos to see if this error still occurs.
 
@@ -155,20 +150,6 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-top-tier-affordable-photo-enhancement-software-online/"><u>[New] Top-Tier Affordable Photo Enhancement Software Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>[Updated] In 2024, Aesthetic Assembly Android & iOS Video Sets for Insta</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[Updated] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-clear-computer-cache-windows-10-revo-uninstaller/"><u>How to Clear Computer Cache Windows 10? - Revo Uninstaller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-the-netstat-command-in-windows-11-to-monitor-network-activity/"><u>How to Use the Netstat Command in Windows 11 to Monitor Network Activity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-paths-initiating-windows-self-repair/"><u>Quick Paths: Initiating Windows' Self-Repair</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-keyboard-vertical-arrow-buttons-expert-solutions-for-you/"><u>Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-stabilization-nine-fixes-for-wwe-2k23-on-windows-11/"><u>Swift Stabilization: Nine Fixes for WWE 2K23 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-text-display-on-pc-discord/"><u>Troubleshooting Missing Text Display on PC Discord</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/winx-dvd-ripper-complete-edition-updated-history-and-new-capabilities-revealed/"><u>WinX DVD Ripper Complete Edition Updated History & New Capabilities Revealed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +157,25 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-supercharge-your-content-editing-and-enhancing-youtube-tags/"><u>[New] In 2024, Supercharge Your Content Editing and Enhancing YouTube Tags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-manycam-app-enhance-your-streaming-experience-with-professional-live-video-features/"><u>Best Free ManyCam App: Enhance Your Streaming Experience with Professional Live Video Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x7-ultra-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X7 Ultra Device SIM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-stable-mouse-movement-on-win-1011/"><u>Enabling Stable Mouse Movement on Win 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-in-room-entertainment-with-apple-airplay-top-hotels-embrace-smart-connectivity-zdnet-insight/"><u>Enhance In-Room Entertainment with Apple Airplay – Top Hotels Embrace Smart Connectivity | ZDNET Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-asus-vivobook-s-15-a-modern-tech-marvel/"><u>Exploring the ASUS Vivobook S 15: A Modern Tech Marvel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-recover-and-fix-windows-photos-app-on-windows-11/"><u>How to Recover and Fix Windows Photos App on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-disable-microsofts-default-keyboard/"><u>Methods to Disable Microsoft's Default Keyboard</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-game-saving-woes-in-the-climactic-parts-of-games-strategies-for-a-smooth-playthrough/"><u>PC Game Saving Woes in the Climactic Parts of Games: Strategies for a Smooth Playthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-power-management-setting-up-full-charge-notification-in-windows-11/"><u>Proactive Power Management: Setting Up Full Charge Notification in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/radiant-palette-adjuster-for-2024/"><u>Radiant Palette Adjuster for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/senior-solutions-enhancing-older-windows-pc-usage/"><u>Senior Solutions: Enhancing Older Windows PC Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-try-connecting-bluetooth-problems-with-ease-in-win-11/"><u>Tackling 'Try Connecting' Bluetooth Problems with Ease in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-unresponsive-read-aloud-feature-in-word-2019plus/"><u>Tips for Troubleshooting Unresponsive Read Aloud Feature in Word 2019+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-meets-chrome-integration-details/"><u>Windows 11 Meets Chrome: Integration Details</u></a></li>
+</ul></div>
+

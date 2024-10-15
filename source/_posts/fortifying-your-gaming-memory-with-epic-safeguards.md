@@ -1,7 +1,7 @@
 ---
 title: Fortifying Your Gaming Memory with Epic Safeguards
-date: 2024-10-04T22:52:13.152Z
-updated: 2024-10-08T20:27:14.598Z
+date: 2024-10-09T17:19:29.899Z
+updated: 2024-10-15T10:59:17.960Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check if a Game Supports Cloud Sync
 
  After selecting the **Enable Cloud Saves** setting, you must also check if a game you need to reinstall supports that feature. Many games installed with Epic Games don’t support its Cloud Saves feature. This is how you can check if a Windows game supports Epic’s cloud synchronization:
@@ -56,27 +49,20 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
@@ -89,9 +75,30 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
 
@@ -104,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Secure Saved Gaming Progress for Your Epic Games Library
@@ -118,27 +125,6 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/21-vegas-pro-roundup-from-beginner-to-expert-tips-for-2024/"><u>'21 Vegas Pro Roundup – From Beginner to Expert Tips for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-become-an-instagram-star-expert-5-strategies-and-illustrative-examples/"><u>[New] 2024 Approved Become an Instagram Star Expert 5 Strategies and Illustrative Examples</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-free-converting-youtube-videos-to-wav/"><u>[New] 2024 Approved The Ultimate Guide to Free Converting YouTube Videos to WAV</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-bite-sized-video-lessons-clearly-for-2024/"><u>[New] Bite-Sized Video Lessons, Clearly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-smudges-quick-windows-11-remedies-for-distorted-displays/"><u>Decoding Smudges: Quick Windows 11 Remedies for Distorted Displays</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-videos-advanced-recording-in-adobe-presenter-for-2024/"><u>Elevate Your Videos Advanced Recording in Adobe Presenter for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-on-picking-the-right-nvidia-driver-type/"><u>Expert Tips on Picking the Right Nvidia Driver Type</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x80131500/"><u>How to Fix the Microsoft Store Error Code 0X80131500</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/incorporating-chatgpt-into-your-teams-online-interactions-for-improved-communication/"><u>Incorporating ChatGPT Into Your Team's Online Interactions for Improved Communication</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-networks-configure-win11s-dns-client-service/"><u>Mastering Networks: Configure Win11's DNS Client Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-chromes-sudden-shutdown-a-windows-guide/"><u>Preventing Chrome's Sudden Shutdown: A Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventive-tactics-against-ms-store-on-windows-10/"><u>Preventive Tactics Against MS Store on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-repair-your-corsair-hs50-headset-when-the-mic-isnt-functioning/"><u>Solved! How to Repair Your Corsair HS50 Headset When the Mic Isn't Functioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-restore-your-pcs-renderer-state-in-overwatch-2/"><u>Steps to Restore Your PC's Renderer State in Overwatch 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +132,22 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-compose-your-story-best-mobile-annotation-tools/"><u>[Updated] Compose Your Story Best Mobile Annotation Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/detailed-review-the-essence-of-hero4-black/"><u>Detailed Review The Essence of Hero4 Black</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-oneplus-6t-a-perfect-blend-of-speed-quality-and-cost-efficiency/"><u>Evaluating the OnePlus 6T - A Perfect Blend of Speed, Quality and Cost Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-affordable-windows-10-licenses/"><u>Exclusive Guide to Affordable Windows 10 Licenses</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-stunning-clarity-with-the-samsung-qn55q6f-4k-uhd-smart-tv-in-depth-review/"><u>Experience Stunning Clarity with the Samsung QN55Q6F 4K UHD Smart TV - In-Depth Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-permit-or-block-usb-devices-on-windows-pcs/"><u>Guidelines to Permit or Block USB Devices on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-vip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-your-windows-apps-with-swift-internet-solutions/"><u>Ignite Your Windows Apps with Swift Internet Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>In 2024, Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-past-notpads-blockade-with-these-7-effective-fixes-in-windows/"><u>Navigate Past Notpad's Blockade with These 7 Effective Fixes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-zeroxc000003e-windows-error-in-software-launching/"><u>Overcoming ZeroXc000003e Windows Error in Software Launching</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sharpen-your-scopes-essential-close-up-techniques-for-mines-for-2024/"><u>Sharpen Your Scopes Essential Close-Up Techniques for Mines for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-run-task-manager-as-admin-in-win11/"><u>Step-by-Step to Run Task Manager as Admin in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+</ul></div>
+

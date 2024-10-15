@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Text Input: Embedding Keyboard Triggers Into Context Menu Bar"
-date: 2024-10-07T17:47:21.905Z
-updated: 2024-10-08T23:58:02.939Z
+date: 2024-10-13T04:04:48.224Z
+updated: 2024-10-15T08:00:50.280Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,16 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
@@ -79,20 +85,19 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Erase the WordPad Context Menu Shortcuts
 
@@ -106,10 +111,17 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
@@ -131,19 +143,22 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-multiple-youtube-videos-into-one-for-2024/"><u>[Updated] Streamlining Multiple YouTube Videos Into One for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-both-sides-the-positives-and-negatives-of-using-chnagpt-plus/"><u>Assessing Both Sides: The Positives and Negatives of Using Chnagpt Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/complete-windows-11-clean-install-tutorial/"><u>Complete Windows 11 Clean Install Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-locate-and-restore-missing-pin-on-windows-11-system/"><u>How To Locate and Restore Missing PIN on Windows 11 System</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-webinar-mastery-record-without-monetary-burden/"><u>In 2024, Webinar Mastery Record Without Monetary Burden</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-by-drfone-ios/"><u>Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-dxgierrordeviceremoved-in-oses/"><u>Steps to Address DXGI_ERROR_DEVICE_REMOVED in OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/students-new-tech-ally-asus-s15-oled-review-revealed/"><u>Students' New Tech Ally: Asus S15 OLED Review Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-accelerate-your-windows-printer-pace/"><u>Turbo-Accelerate Your WIndows Printer Pace</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-quality-comparison-mirrorless-or-dslr-cameras-in-2024/"><u>Video Quality Comparison Mirrorless or DSLR Cameras, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-you-should-stick-with-windows-over-linux-for-gaming/"><u>Why You Should Stick With Windows Over Linux for Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-build-your-dreamy-oriental-villas-in-minecraft/"><u>[Updated] 2024 Approved Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-picture-to-motion-transformation-with-music-elements/"><u>[Updated] In 2024, Picture-to-Motion Transformation with Music Elements</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>About Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-dim-aesthetic-in-power-options-menu/"><u>Enabling/Disabling Dim Aesthetic in Power Options Menu</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-pros-and-cons-of-the-winegard-fl5500a-antenna-balancing-performance-and-price/"><u>Exploring the Pros and Cons of the Winegard FL5500A Antenna: Balancing Performance and Price</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-dell-display-adapters-quickly-and-safely-online/"><u>Get the Latest Version of Dell Display Adapters Quickly & Safely Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-p40-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel P40</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories/"><u>In 2024, Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker/"><u>In 2024, Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-pcs-memory-with-these-simple-tricks/"><u>Master Your PC's Memory with These Simple Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-windows-steam-efficiency-dodging-zero-speed-phenomena/"><u>Maximize Windows Steam Efficiency: Dodging Zero-Speed Phenomena</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/meet-your-pcs-eligibility-for-windows-11/"><u>Meet Your PC's Eligibility for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-halt-unlock-code-x80131500/"><u>Microsoft Store Halt: Unlock Code X80131500</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-maze-of-error-80080300-in-teams-w11-edition/"><u>Navigating Through the Maze of Error 80080300 in Teams W11 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-limitations-of-using-ai-chatbots-for-professional-content-creation/"><u>Top 8 Limitations of Using AI Chatbots for Professional Content Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-your-processors-age-through-windows-8-helpful-methods/"><u>Unveil Your Processor’s Age Through Windows: 8 Helpful Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-prevent-desktop-icon-shrinkage/"><u>Win 11: Prevent Desktop Icon Shrinkage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Task Scheduler: Automate Batch Operations"
-date: 2024-10-02T22:02:07.256Z
-updated: 2024-10-08T23:18:23.172Z
+date: 2024-10-12T16:43:22.479Z
+updated: 2024-10-15T01:58:16.136Z
 tags:
   - windows10
   - windows11
@@ -31,63 +31,69 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
  It is an efficient way to ensure that you don't forget to run the batch file at specific times or when certain events happen. Not to mention that it also saves you time and effort, especially if you have a lot of batch files to run, allowing you to be more productive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scheduling a Batch File to Run Automatically on Windows
 
  To start the batch file automation process, you'll have to [open Task Scheduler](https://www.makeuseof.com/windows-11-open-task-scheduler/). To do that, click on **Search** in the Taskbar and enter **task scheduler** in the search box. In the results, click **Task Scheduler** to open the app.
 
 ![the Task Scheduler in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-scheduler-in-windows-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the right panel, under **Actions**, click on **Create Basic Task**.
 
 ![the Task Schedular on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-schedular-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Give the task a descriptive name and then click on **Next**. The **Description** part is optional, but it's good practice to fill it in so you don't forget what the task does.
 
 ![creating a basic task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/creating-a-basic-task-in-task-scheduler-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pick a trigger, which is when you want the task to run, by clicking on the appropriate radio button, and then click on **Next**. In our example, we picked **Daily**, meaning we want to run the task every day.
 
 ![choosing a trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-trigger-in-task-scheduler.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Each trigger has its own parameters that you need to set. For the **Daily** trigger, you have to pick the day and time it starts, as well as how many days the task will recur. Once you set those, click **Next**.
 
 ![setting the preferences for the daily trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-the-preferences-for-the-daily-trigger-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you need to select an action, and for our batch file, will are going to select the **Start a program** radio button and click **Next**.
 
 ![choosing an action in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-an-action-in-task-scheduler.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under **Program/Script** click on **Browse**, select the batch file you want to automate, and then click on **Next**.
 
 ![choosing a program or script to automate in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-a-program-or-script-to-automate-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
 
@@ -109,23 +115,6 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comparing-sharex-with-industry-leaders/"><u>[New] Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-lg-360-camera-full-review-2023-update/"><u>[New] LG 360 Camera Full Review -2023 Update</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-tone-transmitter-for-voice-artists/"><u>[Updated] Top-Tier Tone Transmitter for Voice Artists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/designing-individualized-win11-screensavers/"><u>Designing Individualized Win11 Screensavers</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhanced-playtime-for-families-valve-updates-steam-sharing-today/"><u>Enhanced Playtime for Families: Valve Updates Steam Sharing Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-alternatives-to-geforce-rtx-4060-ti/"><u>Exploring Alternatives to GeForce RTX 4060 Ti</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/finnish-innovation-challenges-apple-with-cutting-edge-vr-headset-for-professionals-discover-the-surprise/"><u>Finnish Innovation Challenges Apple with Cutting-Edge VR Headset for Professionals - Discover the Surprise</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-t2-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo T2 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-device-conflict-multiple-ms-logins/"><u>Mastering Device Conflict: Multiple MS Logins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-low-valorant-download-rate-woes-in-windows/"><u>Overcoming Low Valorant Download Rate Woes in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-the-looks-like-youre-stranded-from-xbox-app-windows/"><u>Removing the 'Looks Like You're Stranded' From Xbox App Windows</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/4k2k/"><u>スムーズな変換: 高解像度4K動画を2Kへ効率良くダウンサイジングする手引き</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +122,21 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-screen-recorders-playbook/"><u>[New] The Complete Screen Recorder's Playbook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-essential-guide-to-muting-intruders-on-google-video-chats/"><u>[New] The Essential Guide to Muting Intruders on Google Video Chats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-insiders-guide-to-mobile-screen-capture-in-snapchat-for-2024/"><u>[New] The Insider’s Guide to Mobile Screen Capture in Snapchat for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-the-ultimate-mc-community-dwellings/"><u>[Updated] Crafting the Ultimate MC Community Dwellings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-demystifying-vimeos-triplet-plans-for-content-creators/"><u>[Updated] Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio/"><u>Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-your-systems-kickstart-area/"><u>Navigating to Your System's Kickstart Area</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-audio-enhancements-utilizing-free-plugins-for-audacitys-autotune-effect/"><u>New In 2024, Exploring Audio Enhancements Utilizing Free Plugins for Audacitys AutoTune Effect</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/protegez-vos-informations-critiques-grace-a-la-strategie-de-sauvegarde-microsoft-point-of-recovery/"><u>Protégez Vos Informations Critiques Grâce À La Stratégie De Sauvegarde Microsoft Point of Recovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-unsignatured-drivers-on-modern-windows/"><u>Tricks for Unsignatured Drivers on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-the-ultimate-alternatives-to-native-software/"><u>Win 11: The Ultimate Alternatives to Native Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Using the Windows ODBC Toolkit
-date: 2024-10-01T20:55:43.299Z
-updated: 2024-10-09T03:31:18.492Z
+date: 2024-10-13T16:35:01.116Z
+updated: 2024-10-15T11:19:16.402Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,19 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Want to discover the various ways to access the ODBC Data Sources tool? Let's help you out!
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar
 
 ![Windows computer next to a book and a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-computer-next-to-a-book-and-a-cup.jpg)
@@ -69,17 +82,16 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![Accessing the ODBC Data Sources app using the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Access the ODBC Data Sources App Using the Control Panel
@@ -94,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. Select **Administrative Tools** from the options.
 5. Double-click on one of the **ODBC Data Sources** options.  
 ![Accessing the ODBC Data Sources app using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Access the ODBC Data Sources App Using the File Explorer Address Bar
 
@@ -117,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. Type **odbcad32.exe** in the search box and press **OK** to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Access the ODBC Data Sources App From the Windows System32 Directory
 
  You can also open the ODBC Data Sources app by clicking the relevant file in the Windows System32 folder.
@@ -138,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![Accessing the ODBC Data Sources app from the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-from-the-system32-directory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Access the ODBC Data Sources App Using the Command Prompt or PowerShell
@@ -164,15 +176,22 @@ odbcad32.exe
 
 odbcad32.exe
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
@@ -181,13 +200,6 @@ odbcad32.exe
 2. Right-click on a blank space and select **New > Shortcut**.
 3. Type **%windir%\\system32\\odbcad32.exe** in the location box and press **Next** to continue.  
 ![Creating the ODBC Data Sources desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-odbc-data-sources-desktop-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **ODBC Data Sources App** in the "name" box and then click the **Finish** button. Now, you can easily access the ODBC Data Sources app using the desktop shortcut you've just created.
 
@@ -212,21 +224,24 @@ odbcad32.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-insiders-tips-for-sharing-videos-on-instagram/"><u>[New] In 2024, The Insider's Tips for Sharing Videos on Instagram</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/create-your-blogs-best-impressions-with-our-no-cost-nextjstailwind-template-by-creative-tim-get-it-here/"><u>Create Your Blog's Best Impressions with Our No-Cost NextJS/Tailwind Template by Creative Tim – Get It Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-error-0x887a0006-on-graphics-issues/"><u>Guide to Rectify Error 0X887A0006 on Graphics Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-counteract-failed-imports-of-iphone-photos-in-windows-os/"><u>How To Counteract Failed Imports of iPhone Photos in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-active-directory-domain-services-printer-failures-in-win-1011/"><u>How to Tackle Active Directory Domain Services Printer Failures in WIN 10/11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-15-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 15</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-15-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 15 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-8-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 8 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quickfirerecorder-firefox-plugin/"><u>In 2024, QuickFireRecorder Firefox Plugin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-qr-code-scanning-on-windows-pcs/"><u>Quick & Easy: QR Code Scanning on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-win-tips-for-windows-file-order-max-156/"><u>Quick Win Tips for Windows File Order (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/screen-stickers-top-8-notebook-apps-for-pc/"><u>Screen Stickers: Top 8 Notebook Apps for PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/strengthen-your-security-end-to-end-encrypted-messaging-on-facebooks-social-network/"><u>Strengthen Your Security: End-to-End Encrypted Messaging on Facebook’s Social Network.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-decisions-your-roadmap-to-the-right-windows-device/"><u>Top 7 Decisions: Your Roadmap to the Right Windows Device</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-free-mkv-cutters-for-2024/"><u>Updated The Ultimate List of Free MKV Cutters for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-your-youtube-revenue-breakdown-per-branded-playlist-for-2024/"><u>What's Your Youtube Revenue Breakdown per Branded Playlist for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>[Updated] 2024 Approved Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-reply-message-on-discord-desktop-and-mobile-app-for-2024/"><u>[Updated] How to Reply Message on Discord Desktop and Mobile App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-mac-audio-recording-with-audacity/"><u>2024 Approved A Comprehensive Guide to Mac Audio Recording with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-lifeline-for-gaming-ensuring-persistent-connection-of-your-ps4-controller-in-windows/"><u>A Lifeline for Gaming: Ensuring Persistent Connection of Your PS4 Controller in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-restricted-it-administrator-message-in-os/"><u>Eliminating 'Restricted IT Administrator' Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-solutions-to-resolve-windows-update-error-0x800f080a/"><u>Essential Solutions to Resolve Windows Update Error 0X800F080A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-camera-error-0xa00f425d/"><u>Fixing Windows 10/11 Camera Error: 0XA00F425D</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/income-streams-from-windows-11-an-examination/"><u>Income Streams From Windows 11: An Examination</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms-for-2024/"><u>One Step at a Time How to Create a Skype Group on Both Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-page-lockout-in-windows-systems/"><u>Overcoming Page Lockout in Windows Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-animated-design-kits-for-2024/"><u>Premium Animated Design Kits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-windows-safety-edge-context-menu-firewall-customization-guide/"><u>Sharpen Windows Safety Edge: Context Menu Firewall Customization Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-spectrum-mastering-windows-network-adapter-assessment-methods/"><u>Speed Spectrum: Mastering Windows' Network Adapter Assessment Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-the-apple-imac-21cu-inch-4k-display-revealed/"><u>The Perfect Blend of Form and Function in the Apple iMac - 21.cu Inch 4K Display Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-msvcr110dll-gap/"><u>Uncovering & Fixing the Msvcr110.dll Gap</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visualizing-success-designing-captivating-teasers-and-trailers-for-your-podcasts/"><u>Visualizing Success Designing Captivating Teasers and Trailers for Your Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-keyboard-doesnt-work/"><u>What to Do if Your Keyboard Doesn’t Work?</u></a></li>
 </ul></div>
 

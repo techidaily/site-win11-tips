@@ -1,7 +1,7 @@
 ---
 title: "Exploring Developer's Playground: Windows 11'S Enhanced Dev Drive"
-date: 2024-10-04T01:28:41.062Z
-updated: 2024-10-09T00:09:25.628Z
+date: 2024-10-13T18:53:45.195Z
+updated: 2024-10-15T00:39:24.176Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
  As a developer using Dev Home, you no longer need to constantly switch between different apps, navigate to the relevant file system directories repeatedly, and juggle multiple sign-in identities to get the job done.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Dev Drive on Windows 11
 
  At the time of writing, Dev Drive is in preview to Windows Insiders only. If you’re on the Dev Channel of the Windows Insider Program, you can immediately start using Dev Drive on Windows 11\. Otherwise, you’ll have to wait for Microsoft to ship Dev Drive with the next major Windows 11 update.
@@ -53,39 +46,47 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 1. Navigate to **Settings > Storage > Advanced Storage Settings > Disks & volumes**, and select **Create Dev Drive**. Alternatively, you can also launch **Dev Home** and choose **Create Dev Drive**.  
 ![create dev drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-create-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Should You Use Dev Drive For?
 
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Dream Developer PC With Windows 11
@@ -94,24 +95,6 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cross-device-iptv-broadcasting/"><u>[New] Cross-Device IPTV Broadcasting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-spectacular-racing-sims-number-one-to-five-for-2024/"><u>[New] Spectacular Racing Sims Number One to Five for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-secrecy-in-images-with-photoshop/"><u>[Updated] Crafting Secrecy in Images with Photoshop</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2-covert-techniques-silent-screen-recording-on-snapchat-apps/"><u>2. Covert Techniques: Silent Screen Recording on Snapchat Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-webcam-error-code-a00f4289-in-windows-11-panorama/"><u>Disarming Webcam Error Code A00F4289 in Windows 11 Panorama</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-make-money-with-a-beauty-channel-in-2024/"><u>How to Make Money with a Beauty Channel, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-online-workshop-replay/"><u>In 2024, Online Workshop Replay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-edges-steady-presence-in-windows-11/"><u>Managing Edge's Steady Presence in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-office-error-0x80041015-on-windows/"><u>Mastering the Art of Fixing Office Error: 0X80041015 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-sticky-menu-issues-in-windows-11/"><u>Overcoming Sticky Menu Issues in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-fresh-targus-displaylink-driver-updates-on-windows-11-ve-or-7-systems/"><u>Step-by-Step Instructions for Fresh Targus DisplayLink Driver Updates on Windows 11, Ve, or 7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-file-installation-with-microsofts-windows-cab-format/"><u>Streamlining File Installation with Microsoft's Windows CAB Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-rdp-connectivity-woes/"><u>Understanding and Resolving RDP Connectivity Woes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -119,3 +102,19 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-dynamic-shade-corrector/"><u>[New] Dynamic Shade Corrector</u></a></li>
+<li><a href="https://extra-information.techidaily.com/astronomy-enthusiasts-top-website-picklist-for-2024/"><u>Astronomy Enthusiasts' Top Website Picklist for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/commentateur-video-sur-youtube/"><u>Commentateur Vidéo Sur YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-complex-archives-efficiently-handling-multiple-zips-in-one-go/"><u>Decoding Complex Archives: Efficiently Handling Multiple ZIPS in One Go</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-delete-email-from-windows-sign-in-screen/"><u>Efficient Ways to Delete Email From Windows Sign-In Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-webcamwizardry-techniquesforperfectrecordings/"><u>In 2024, WebCamWizardry TechniquesForPerfectRecordings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-wmv-video-splitter-free-download-top-choices/"><u>New 2024 Approved WMV Video Splitter Free Download Top Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-unending-teams-sign-in-requests/"><u>Overcoming Windows Error: Unending Teams Sign-In Requests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-unsuited-file-vlc-problem/"><u>Overcoming Windows' 'Unsuited File' VLC Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-d3dx939dll-loss-in-windows-11/"><u>Resolving D3DX9_39.dll Loss in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+</ul></div>
+

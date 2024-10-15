@@ -1,7 +1,7 @@
 ---
 title: Efficiently Streamline Your Application Management Using Windows Package Manager
-date: 2024-10-04T21:59:50.566Z
-updated: 2024-10-08T18:13:01.642Z
+date: 2024-10-10T19:10:04.449Z
+updated: 2024-10-14T19:06:56.473Z
 tags:
   - windows10
   - windows11
@@ -53,18 +53,18 @@ Some examples of popular package managers include:
 
 ![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
  Winget utilizes a YAML package manifest format that makes it easy to understand and configure. Developers typically use the YAML manifest format to bundle their applications to be compatible with the Windows Package Manager.
 
  Previously, Windows users had to rely on Chocolatey—a third-party package manager specialized for Windows OS. Chocolatey is quite powerful and widely adopted by the larger Windows fraternity. On the other hand, most Windows users are not familiar or comfortable with the Windows Package Manager yet; we hope this guide will help change that.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Windows Package Manager on Windows 11
 
@@ -84,10 +84,17 @@ Some examples of popular package managers include:
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Install Winget Through PowerShell
@@ -111,6 +118,13 @@ To download an application using winget, use the following command:
 
 `winget install <APP_NAME>`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How to Browse for Applications
 
  If you’re looking for a new app to install but don’t know how to browse the available apps, you can use the search feature of winget. One method is to use the search command of winget within the command line. Enter a search query with the below command, and you’ll get a list of available apps that satisfy your search criteria.
@@ -123,13 +137,6 @@ For example, to search for zipping programs, you can type:
 
  Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How to View Installed Applications
 
  You can view applications that have been installed on your PC through:
@@ -141,22 +148,15 @@ For example, to search for zipping programs, you can type:
 ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To look into the installation details and software version of a specific app, you can use the following command:
 
 `winget show <APP_NAME>`
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are Package Managers Worth the Hassle on Windows?
 
@@ -177,22 +177,14 @@ For example, to search for zipping programs, you can type:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-boosting-post-engagement-strategies/"><u>[New] Mastering Instagram Boosting Post Engagement Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unwrapping-utopia-creating-magical-unboxing-moments/"><u>[New] Unwrapping Utopia Creating Magical Unboxing Moments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-rewind-with-ease-iphone-video-restoration-methods-for-2024/"><u>[Updated] Rewind with Ease IPhone Video Restoration Methods for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-review-mastering-the-art-of-picsart/"><u>2024 Approved Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-user-interface-widgets-for-windows-11/"><u>Enabling User Interface Widgets for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identify-and-solve-disappearing-devices-from-management-screen/"><u>Identify & Solve Disappearing Devices From Management Screen</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-transforming-data-into-strategic-content-moves/"><u>In 2024, Transforming Data Into Strategic Content Moves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-cab-format-and-its-windows-installer-role/"><u>Introduction to CAB Format and Its Windows Installer Role</u></a></li>
-<li><a href="https://fox-access.techidaily.com/maximizing-speed-with-top-pc-monitor-controls-for-2024/"><u>Maximizing Speed with Top PC Monitor Controls for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-insufficient-computer-specifications-intel-graphic-challenges/"><u>Overcoming Insufficient Computer Specifications: Intel Graphic Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-non-functional-activation-in-os-11/"><u>Resolving Non-Functional Activation in OS 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secrets-to-clean-up-and-free-your-pc-in-windows/"><u>Secrets to Clean Up and Free Your PC in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sims-4-video-card-troubles-heres-how-to-fix-your-gaming-experience/"><u>Sims 4 Video Card Troubles? Here's How to Fix Your Gaming Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-gamingproductivity-screen-the-samsung-pixel-dense-viewfinity-s9-monitor-with-stunning-5k-display-and-inbuilt-4k-cam-now-at-an-unbelievable47/"><u>Snag the Ultimate Gaming/Productivity Screen: The Samsung Pixel-Dense ViewFinity S9 Monitor with Stunning 5K Display & Inbuilt ^4K Cam – Now at an Unbelievable $899 Price, Save 44%</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-the-missing-wireless-network-in-windows-11/"><u>Solutions for the Missing Wireless Network in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-and-tailor-image-dimensions-with-these-key-steps-in-windows-11/"><u>Transform and Tailor Image Dimensions with These Key Steps in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vlc-file-not-accepted-windows-error/"><u>Troubleshooting VLC File Not Accepted Windows Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-garmin-virb-ultra-30-action-camera-review/"><u>[Updated] 2024 Approved Garmin VIRB Ultra 30 Action Camera Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>2024 Approved Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extend-windows-security-integrating-firewalls-into-context-menus/"><u>Extend Window's Security: Integrating Firewalls Into Context Menus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-audio-glitches-for-smooth-powerpoint-delivery/"><u>Solving Audio Glitches for Smooth PowerPoint Delivery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/storytellers-sanctum-summit-selections/"><u>Storytellers Sanctum – Summit Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-eliminating-0x0000004e-in-os/"><u>Strategies for Eliminating 0X0000004E in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-access-control-system-glitches/"><u>Tackling Windows Access Control System Glitches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-finest-airtag-wallets-of-2024-expert-opinions/"><u>Ultimate Guide to the Finest AirTag Wallets of 2024: Expert Opinions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-security-installing-kali-on-a-windows-machine/"><u>Unlocking Security: Installing Kali on a Windows Machine</u></a></li>
 </ul></div>
 

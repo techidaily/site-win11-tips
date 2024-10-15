@@ -1,7 +1,7 @@
 ---
 title: "Effortless Expertise: Crafting Convenient Directories"
-date: 2024-10-08T02:37:46.249Z
-updated: 2024-10-08T18:53:46.313Z
+date: 2024-10-09T23:49:06.315Z
+updated: 2024-10-14T18:56:19.548Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,23 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -63,10 +76,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
@@ -86,28 +99,16 @@ To create a new folder using File Explorer's menu:
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
 
@@ -128,20 +129,19 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-advanced-strategies-for-rl-capture-success/"><u>[New] Advanced Strategies for RL Capture Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clandestine-file-storage-win11s-image-encryption-tricks/"><u>Clandestine File Storage: Win11's Image Encryption Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-security-turn-on-controlled-folder-access-in-windows-11/"><u>Command Security: Turn on Controlled Folder Access in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-powershell-mastery-of-execution-policy-settings/"><u>Empowering PowerShell: Mastery of Execution Policy Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-insight-on-locating-windows-1110-product-key/"><u>Exclusive Insight on Locating Windows 11/10 Product Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-zero-to-dev-windows-11s-jdk-integration/"><u>From Zero to Dev: Windows 11'S JDK Integration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808226860-get-the-latest-asus-aura-software-update-windows-11-edition-download-here/"><u>Get the Latest ASUS Aura Software Update – Windows 11 Edition Download Here</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-impactful-youtube-conclusion/"><u>In 2024, Creating Impactful YouTube Conclusion</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-xr-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone XR without Apple ID?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-faulty-ports-the-windows-way-to-reclaim-usb-health/"><u>Restoring Faulty Ports - The Windows Way to Reclaim USB Health</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-windows-calculator-display-to-dark/"><u>Set Windows Calculator Display to Dark</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-15-sites-offering-free-mp3-downloads/"><u>Top 15 Sites Offering Free MP3 Downloads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos-for-2024/"><u>Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-your-minecraft-skills-with-the-art-of-circle-and-sphere-creation-for-2024/"><u>[New] Elevate Your Minecraft Skills with the Art of Circle & Sphere Creation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-visual-quality-in-ar-the-role-of-luts-for-2024/"><u>[Updated] Enhancing Visual Quality in AR The Role of LUTs for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods/"><u>[Updated] In 2024, Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 8 Plus How to Bypass?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-focusrite-scarlett-18i20-driver-software-for-windows-pc/"><u>Download Focusrite Scarlett 18I20 Driver Software for Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-shift-your-video-format-from-mkv-to-mp4-windows/"><u>Efficiently Shift Your Video Format: From MKV to MP4 (Windows)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-90-gt-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor 90 GT Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C51? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-0xa00f425d-in-microsofts-windows-camera-app/"><u>Overcoming Error Code: 0XA00F425D in Microsoft's Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-error-0xc004f050/"><u>Overcoming Windows Upgrade Error: 0XC004F050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-error-e8024002e-in-updates-process/"><u>Prevent Error E:8024002E in Updates Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-elusive-error-0x80073d26-on-windows/"><u>Resolving the Elusive Error 0X80073D26 on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-gta-5-online-connectivity-issues/"><u>Troubleshooting Tips for GTA 5 Online Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ai-computers-distinctions-explored/"><u>Unveiling AI Computers: Distinctions Explored</u></a></li>
 </ul></div>
 

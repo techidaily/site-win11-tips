@@ -1,7 +1,7 @@
 ---
 title: "Handling HDD Not Installed Problems: A Windows 11 Boot-Up Woes Guide"
-date: 2024-10-04T21:48:44.231Z
-updated: 2024-10-09T00:35:34.233Z
+date: 2024-10-07T20:24:48.766Z
+updated: 2024-10-14T23:47:10.461Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  After that, carefully inspect the hard drive for any physical damage. Check for cracks, dents, or any other signs of wear. Additionally, check for any indications of liquid damage or unusual noises emanating from the hard drive. If you detect any of these issues, unfortunately, the only option is to replace your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Perform a Hard PC Reset
 
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
@@ -68,13 +61,6 @@ Image Credit: Tina Sieber
 
  If the issue persists, you can try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the Boot Priority Order
 
  You might face the "hard drive not installed" issue if your computer is trying to boot from a connected external device. To confirm this, unplug all external devices from your computer, including your USB mouse, keyboard, and external backup hard drive.
@@ -91,14 +77,14 @@ Image Credit: Tina Sieber
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
 4. Click **Apply**.
 
- Then, restart your computer and check for the issue.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then, restart your computer and check for the issue.
 
 ## 4\. Change Your System Date and Time
 
@@ -108,7 +94,21 @@ Image Credit: Tina Sieber
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
@@ -118,27 +118,6 @@ Image Credit: Tina Sieber
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ermanently-quit-youtube-shorts-now-in-2024/"><u>[New] Permanently Quit YouTube Shorts Now, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can’t Install Google Chrome on Windows 10 in S Mode</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-copyrights-and-creatives-uploading-tiktoks-safely-for-2024/"><u>[Updated] Copyrights and Creatives Uploading TikToks Safely for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-story-complete-guide-what-is-it-and-how-to-use-it/"><u>[Updated] Facebook Story Complete Guide What Is It and How to Use It?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-instagram-story-layering-a-visual-journey-for-2024/"><u>[Updated] The Art of Instagram Story Layering A Visual Journey for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-random-openings-of-file-explorer/"><u>Deactivating Random Openings of File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-temperature-tracker-guide/"><u>Essential Windows Temperature Tracker Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-elusive-obs-recording-error-in-windows-11/"><u>Fixing Elusive OBS Recording Error in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-error-other-software-misusing-your-pc-speakers/"><u>Handling Error: Other Software Misusing Your PC Speakers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-your-craft-a-guide-to-samsungs-photography-tools/"><u>In 2024, Mastering Your Craft A Guide to Samsung's Photography Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-ways-to-revamp-your-nvidia-graphics-drivers/"><u>Intuitive Ways to Revamp Your Nvidia Graphics Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/macbook-pro-13-fintie-case-tested-unveiling-strengths-in-durability-and-cost-efficiency/"><u>MacBook Pro 13 Fintie Case Tested: Unveiling Strengths in Durability & Cost-Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-high-end-audio-installing-dolby-atmos-on-pc/"><u>The Path to High-End Audio: Installing Dolby Atmos on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-graphics-driver-on-windows-overwatch-2/"><u>Troubleshooting Missing Graphics Driver on Windows (Overwatch 2)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-wintoys-a-primer-on-windows-powerhouse-tool/"><u>Understanding 'WinToys': A Primer on Windows' Powerhouse Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-10-artists-choice-best-7-drawing-apps-ranked/"><u>Windows 10 Artists' Choice: Best 7 Drawing Apps Ranked</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-1011mpgmp4/"><u>Windows 10・11上でMPGビデオをMP4形式へ容易な変換方法</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +125,24 @@ Image Credit: Tina Sieber
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-detailed-analysis-life-in-spiral-with-gear-360-cam-for-2024/"><u>[New] Detailed Analysis Life in Spiral with Gear 360 Cam for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-scouring-youtubes-notable-responses/"><u>[New] In 2024, Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stop-video-buffering-during-streaming/"><u>[New] Stop Video Buffering During Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapidly-enhance-your-content-reach-with-simple-steps/"><u>[Updated] Rapidly Enhance Your Content Reach with Simple Steps</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enhanced-enhance-your-websites-traffic-with-efficient-tracking/"><u>Cookiebot-Enhanced: Enhance Your Website's Traffic with Efficient Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-0x80072efd-on-windows-store-apps/"><u>Disabling Error 0X80072EFD on Windows Store Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-13-mini-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-synapse-non-detection-of-razers-in-win/"><u>Methods to Rectify Synapse Non-Detection of Razers in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-workspace-mastery-over-hidden-windows-in-windows-11/"><u>Reclaim Your Workspace: Mastery Over Hidden Windows in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-pc-not-valid-warning-on-windows-11/"><u>Remedy for PC Not Valid Warning on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rustic-tech-resurgence-atlasos-update/"><u>Rustic Tech Resurgence: AtlasOS Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-network-adapter-error-31-on-windows/"><u>Steps to Rectify Network Adapter Error 31 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-windows-11-settings-search-bar/"><u>Troubleshooting Non-Responsive Windows 11 Settings Search Bar</u></a></li>
+</ul></div>
+

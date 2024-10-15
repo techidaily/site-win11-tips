@@ -1,7 +1,7 @@
 ---
 title: Remedy for Non-Present Device Warning in Windows 11
-date: 2024-10-03T01:00:15.872Z
-updated: 2024-10-08T19:25:19.837Z
+date: 2024-10-14T12:08:54.612Z
+updated: 2024-10-15T11:14:17.717Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 
  If you need to resolve this error for an internal drive, check the drive’s internal connections. To do that, you’ll need to open the case for a desktop PC. Then make sure none of the drive’s connection cables are in any way loose.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC Tool
 
  Users have confirmed the System File Checker tool can resolve this drive error. That highlights system file corruption can cause this issue, which an SFC scan will likely resolve. Our guide to[running a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to execute the SFC command in Windows.
@@ -38,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 
 `chkdsk D: /f /r`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Try Changing the Drive’s Letter
 
  Changing the affected drive’s letter is a potential fix that users have confirmed to work. You can change the drive’s letter with the Disk Management tool like this:
@@ -70,21 +84,14 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 ![The Change Drive Letter and Paths option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-paths.jpg)
 4. Press the**Change** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Change Drive Letter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-window.jpg)
 5. Click the drop-down menu for the**Assign the following drive lette** r option.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
@@ -118,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e
 7. Click**Apply** \>**OK** on the drive’s permissions window.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Drive
@@ -135,6 +142,14 @@ Insert the affected drive into one of your PC’s USB ports.
 3. Right-click your drive and select**Uninstall device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device2.jpg)
 4. Then select the**Uninstall** option on the dialog box prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-option3.jpg)
 5. Disconnect the drive plugged into the PC.
 6. Plug the drive back into the computer to reinstall its driver.
@@ -149,35 +164,21 @@ Insert the affected drive into one of your PC’s USB ports.
 ![Baseboard specs in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-specs.jpg)
 4. [Open the Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) if the System Information app doesn’t include a serial number for the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Execute this baseboard command:  
 `wmic baseboard get product,Manufacturer,version,serialnumber`  
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
  The driver package might be included within a ZIP archive, which you’ll need to extract as outlined within this guide to[unzipping files in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Access Your Drive Again on Windows
 
@@ -198,18 +199,22 @@ Insert the affected drive into one of your PC’s USB ports.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-gauging-influence-tracking-metrics-that-predict-igtv-performance/"><u>[New] In 2024, Gauging Influence Tracking Metrics that Predict IGTV Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-twittersphere-treasure-trove-for-2024/"><u>[New] The Twittersphere Treasure Trove for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-error-code-0xc00000f/"><u>Decoding and Correcting Windows Error Code: 0Xc00000f</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972130258-free-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10-get-your-downloads-here/"><u>Free Epson WF-2630 Printer Drivers: Compatible with Windows 7, 8.1 & 10 - Get Your Downloads Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-free-video-conferencing-software-showcase-best-10-picks-for-commercial-use-and-learning-environments/"><u>In 2024, Free Video Conferencing Software Showcase Best 10 Picks for Commercial Use & Learning Environments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark 10C?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-mp4-motion-modulation/"><u>In 2024, Master the Art of MP4 Motion Modulation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>In 2024, Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/propel-productivity-to-the-next-level-with-collective-folder-formation/"><u>Propel Productivity to the Next Level with Collective Folder Formation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-file-images-in-windows-11-the-how-to-guide/"><u>Reinstating File Images in Windows 11 – The How-To Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-grayed-out-secure-boot-on-windows-bios-settings/"><u>Restoring Grayed-Out Secure Boot on Windows BIOS Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-non-identified-wireless-networks-in-win11/"><u>Strategies to Recover Non-Identified Wireless Networks in Win11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-user-manual-for-music-licensing-on-insta/"><u>[New] The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-proportions-a-guide-to-video-aspect-ratios/"><u>2024 Approved Ideal Proportions A Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-sony-xperia-1-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Sony Xperia 1 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dispatching-digital-speed-dismantling-windows-100mbps-barrier/"><u>Dispatching Digital Speed: Dismantling Windows’ 100Mbps Barrier</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-into-dynamic-footage-the-review-of-polaroid-cubeplus/"><u>Dive Into Dynamic Footage The Review of Polaroid Cube+</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-hp-deskjet-printing-solutions-updated-drivers-for-your-device/"><u>Download the Newest HP DeskJet ²³) Printing Solutions: Updated Drivers for Your Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-say-goodbye-to-stumbles-in-your-instagram-stream/"><u>In 2024, Say Goodbye to Stumbles in Your Instagram Stream</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-recurring-bios-failures-on-windows/"><u>Mitigating Recurring BIOS Failures on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nostalgic-rebrand-update-windows-11-to-match-98/"><u>Nostalgic Rebrand: Update Windows 11 to Match 98</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-malfunctional-windows-troubleshooting/"><u>Optimizing Malfunctional Windows Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-signature-checks-for-updating-unsigned-drivers-in-oses/"><u>Removing Signature Checks for Updating Unsigned Drivers in OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-full-usb-controller-functionality/"><u>Restoring Full USB Controller Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-browser-hiccups-in-windows-11-quick-fixes-for-chrome-stalls/"><u>Stop Browser Hiccups in Windows 11 - Quick Fixes for Chrome Stalls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-eight-fixes-if-your-iphone-or-ipad-wont-connect-to-wi-fi-anymore/"><u>Top Eight Fixes If Your iPhone or iPad Won't Connect to Wi-Fi Anymore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-how-to-find-your-pcs-identity/"><u>Unlocking the Secrets: How to Find Your PC's Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-hardware-specs-on-windows/"><u>Unravel Hardware Specs on Windows</u></a></li>
 </ul></div>
 

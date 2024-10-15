@@ -1,7 +1,7 @@
 ---
 title: How To Regain Accessibility of Vanished Ubisoft Launcher
-date: 2024-10-02T04:20:14.219Z
-updated: 2024-10-08T21:15:32.698Z
+date: 2024-10-12T14:50:45.986Z
+updated: 2024-10-14T20:49:32.514Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  If you’re trying to start a Ubisoft game with a desktop shortcut, there could be an issue with the shortcut. So, try launching the same game from within Ubisoft Connect instead. Recreate the game’s shortcut if that potential fix works.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Start Ubisoft Connect as an Administrator
@@ -48,16 +48,22 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
  If the “Unable to find the Ubisoft Game Launcher” error occurs for an older game that predates Windows 10, try running the game in compatibility mode as well. You can do that by selecting a**Run this program in compatibility** mode setting on the same tab that includes the**Run this program as administrator** option. Then select the Windows platform the game was originally designed for in the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Verify the Affected Game’s Files
 
  The “Unable to find the Ubisoft Game Launcher” error can arise because the affected game is missing files or has a corrupted installation. Verifying a game’s files in the Ubisoft Connect software will be a probable solution in such a scenario. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) includes instructions for verifying files within Ubisoft Connect.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Erase Ubisoft Cache Data
 
@@ -66,29 +72,23 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 1. Make sure Ubisoft Connect isn’t running in the background. Check the system tray and right-click the Ubisoft Connect icon there if you see it to select**Quit** .  
 ![The Quit option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/quit-option.jpg)
 2. Click the folder library taskbar button for opening File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Bring up the Ubisoft Game Launcher installation folder. This is the default installation directory for that Ubisoft software:  
 `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher`
 4. Next, click the cache folder with the mouse’s right button to select**Rename** .  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-option.jpg)
 5. Change the folder’s name to cache\_backup and press**Return** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then launch the Ubisoft Connect software.
 
  In addition, select to delete game installer files within a cache subfolder. You can do that by clicking the menu button in the top-left corner of Ubisoft Connect to select**Settings** and**Downloads** . Press the**Download** tab’s**Delete all game installers** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus Shields
 
@@ -111,21 +111,23 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 3. Right-click the affected game and select**Uninstall** .  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/an-uninstall-option.jpg)
 4. Restart Ubisoft Connect after removing the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then select the**Download** option for the uninstalled game in Ubisoft Connect.
 
  If the game uses cloud backup, you won’t lose any saved data when reinstalling it. You can back up saved games for other titles that don’t support cloud saves, as instructed on this Ubisoft support page.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall Ubisoft Connect
@@ -157,24 +159,19 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-best-youtube-keyword-tools-to-get-more-views/"><u>[New] In 2024, 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-monetize-youtube-videos-the-ultimate-guide-to-ad-revenue/"><u>[New] In 2024, Monetize YouTube Videos | The Ultimate Guide to Ad Revenue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2-ways-to-increase-your-youtube-audience-fast-for-2024/"><u>[Updated] 2 Ways to Increase Your YouTube Audience Fast for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-advanced-image-manipulation-with-pixlr-tips/"><u>[Updated] Advanced Image Manipulation with Pixlr Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-ig-success-a-guide-to-best-management-tools-for-2024/"><u>[Updated] Navigating IG Success A Guide to Best Management Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtubes-full-potential-top-6-tactics-for-improved-viewership-retention/"><u>[Updated] Unlock YouTube's Full Potential Top 6 Tactics for Improved Viewership Retention</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-asus-rt-ac68u-a-leap-in-speed-and-security-with-5g-wi-fi/"><u>Comprehensive Analysis of the Asus RT-AC68U – A Leap in Speed & Security with 5G Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-file-handling-zipping-with-cli-tools-on-windows-os/"><u>Efficient File Handling: Zipping with CLI Tools on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-android-performance-via-wsl-resource-tweaks/"><u>Improving Android Performance via WSL Resource Tweaks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-face-obscuring-made-easy-expert-video-editing-solutions/"><u>New 2024 Approved Face Obscuring Made Easy Expert Video Editing Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-adobe-flash-player-crashes-on-google-chrome-solved/"><u>Resolving Adobe Flash Player Crashes on Google Chrome - Solved</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-guide-modify-your-windows-security-pin/"><u>Simplified Guide: Modify Your Windows Security Pin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-bluetooth-connection-failures-in-windows-11/"><u>Steps for Correcting Bluetooth Connection Failures in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-freeze-fix-for-non-opener-exe-files/"><u>Taming the Freeze: Fix for Non-Opener .exe Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unknown-errors-in-windows-1011/"><u>Troubleshooting Unknown Errors in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-screen-sharing-issues-in-teammers/"><u>Unlock Screen Sharing Issues in Teammers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windowsstore-apps-entry-procedures/"><u>Unlocking WindowsStore Apps: Entry Procedures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-windows-self-scrolling/"><u>Unraveling the Mystery of Windows Self-Scrolling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecrets-to-effective-video-tagging-revealed-here-in-2024/"><u>[New] Secrets to Effective Video Tagging Revealed Here, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-creative-tactics-for-medical-ad-success-on-facebook/"><u>[Updated] 2024 Approved Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enjoy-every-frame-best-free-download-apps-for-mobile-devices/"><u>2024 Approved Enjoy Every Frame Best Free Download Apps for Mobile Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/become-a-shorts-connoisseur-must-know-facts/"><u>Become a Shorts Connoisseur Must-Know Facts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-upgrade-to-latest-drivers-for-your-lenovo-t430-with-compatibility-for-windows-11-8-and-7-systems/"><u>Effortless Upgrade to Latest Drivers for Your Lenovo T430 with Compatibility for Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-download-velocity-within-microsofts-app-hub/"><u>Maximizing Download Velocity Within Microsoft’s App Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestepping-winerror-740-elevation-solution-guide/"><u>Sidestepping WinError 740: Elevation Solution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-edges-ongoing-run-in-win11-environments/"><u>Steering Edge's Ongoing Run in Win11 Environments</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transforming-avi-files-into-quicktime-mov-format-using-your-pc/"><u>Step-by-Step Guide: Transforming AVI Files Into QuickTime MOV Format Using Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-file-dates-the-windows-edition-approach/"><u>Tailoring File Dates: The Windows Edition Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-distinctive-edge-of-artificial-intelligence-devices/"><u>The Distinctive Edge of Artificial Intelligence Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-secrets-of-effective-free-youtube-video-transcriptions-revealed-for-2024/"><u>The Secrets of Effective, FREE YouTube Video Transcriptions Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-uniqueness-in-ai-enhanced-computers/"><u>Unraveling the Uniqueness in AI-Enhanced Computers</u></a></li>
 </ul></div>
 

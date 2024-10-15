@@ -1,7 +1,7 @@
 ---
 title: Preventive Measures for Unrecognized Hard Drives in Windows 11 Systems
-date: 2024-10-03T07:27:12.722Z
-updated: 2024-10-09T02:14:25.916Z
+date: 2024-10-09T22:30:07.165Z
+updated: 2024-10-14T23:47:27.015Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
@@ -62,10 +62,10 @@ Image Credit: Tina Sieber
  If the issue persists, you can try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Boot Priority Order
@@ -86,13 +86,6 @@ Image Credit: Tina Sieber
 
  Then, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change Your System Date and Time
 
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
@@ -101,13 +94,20 @@ Image Credit: Tina Sieber
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
@@ -118,20 +118,6 @@ Image Credit: Tina Sieber
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-art-of-capturing-stories-gopro-hero5-black-in-focus/"><u>[New] 2024 Approved The Art of Capturing Stories GoPro Hero5 Black in Focus</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-the-art-of-valorant-thumbnail-design-for-youtube-content/"><u>[New] In 2024, Mastering the Art of Valorant Thumbnail Design for YouTube Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-picks-top-5-high-performing-android-recorders/"><u>[Updated] 2024 Approved Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-orientation-overhaul-instagrams-video-rotation-secret/"><u>[Updated] In 2024, Orientation Overhaul Instagram's Video Rotation Secret</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-access-issues-with-nvidia-cp/"><u>Fixing Windows Access Issues with NVIDIA CP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-of-jdk-steps-for-windows-11-users/"><u>Making the Most of JDK: Steps for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-seamless-play-eliminate-windows-xbox-error/"><u>Restoring Seamless Play: Eliminate Windows Xbox Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-thought-process-adopting-visually-organized-notetaking-via-obsidian-canvas/"><u>Streamline Your Thought Process: Adopting Visually Organized Notetaking via Obsidian Canvas</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-web-development-online-courses/"><u>The Ultimate Selection of Web Development Online Courses</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,3 +125,21 @@ Image Credit: Tina Sieber
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] 2024 Approved 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mac-os-unveiled-comprehensive-review-of-screenflow-v4/"><u>[New] In 2024, Mac OS Unveiled Comprehensive Review of ScreenFlow V4</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-configuration-clock-integration-for-streaming-software/"><u>[Updated] 2024 Approved Expert Configuration Clock Integration for Streaming Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieve-smooth-victory-master-fps-upsurge-and-lag-downfall-techniques-in-the-latest-genshin-impact/"><u>Achieve Smooth Victory: Master FPS Upsurge and Lag Downfall Techniques in the Latest Genshin Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cryptic-file-migration-protecting-data-on-winos-platforms/"><u>Cryptic File Migration: Protecting Data on WinOS Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-guide-to-connecting-airpods-on-windows-systems/"><u>Easy Guide to Connecting AirPods on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-fuzz-to-fine-nine-tactics-for-window-11-visual-perfection/"><u>From Fuzz to Fine: Nine Tactics for Window 11 Visual Perfection</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-control-over-play-rate-2-methods-for-checking-frame-rates-on-android/"><u>Gain Control Over Play Rate: 2 Methods for Checking Frame Rates on Android</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-6s-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 6s Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>In 2024, Enhance Engagement Select Best Fonts for Your Thumbnails</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-hello-fingerprint-scanner-hurdles/"><u>Overcoming Windows Hello Fingerprint Scanner Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+</ul></div>
+

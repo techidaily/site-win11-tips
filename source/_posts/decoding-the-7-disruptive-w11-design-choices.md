@@ -1,7 +1,7 @@
 ---
 title: Decoding the 7 Disruptive W11 Design Choices
-date: 2024-10-05T05:03:52.112Z
-updated: 2024-10-09T01:19:18.593Z
+date: 2024-10-11T00:09:01.651Z
+updated: 2024-10-15T00:39:45.272Z
 tags:
   - windows10
   - windows11
@@ -48,34 +48,48 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
  One would think such a minor text element would be an easy fix, but here we are.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Menu Differences on Lock Screen
 
 ![screenshot of the differences between menus on the windows 11 lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_lockscreen_differences.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here's another one that's hard to miss. On the lock screen, the network menu has a nice dark shade, regardless of if your system is in dark mode or not.
 
  The accessibility menu is a bright white color, again ignoring your system's dark mode settings. This creates a noticeable contrast when opening two menus that are right next to each other.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Taskbar Oddities
 
 ![screenshot of the windows 11 taskbar showing context menu differences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_taskbar_context_menu_differences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The taskbar is full of some interesting quirks. First, the context menu will appear slightly differently depending on if you're right-clicking the taskbar, an icon, or a system icon. Additionally, the flyouts for different system menus can adhere to different spacing, sizing, or brush coloration.
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. UI Ignoring Dark Mode
 
@@ -87,28 +101,15 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Settings Is a Mess
 
 ![screenshot of the windows 11 settings menu and different inconsistent sub menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_settings_inconsistencies-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The settings menu is full of UI design inconsistencies. The overall menu itself has been brought in line over the years, with many functions now adhering to the same sleek design decisions.
@@ -132,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 ## 7\. On-Screen Keyboard
 
 ![screenshot of the windows 11 on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_onscreen_keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In an interesting inverse to the rest of the UI inconsistencies, the on-screen keyboard actually sticks to a dark theme even if you've selected a light theme.
 
@@ -167,14 +161,20 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>[New] In 2024, Masterclass Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-use-jump-cuts-in-your-vlog/"><u>[Updated] In 2024, How To Use Jump Cuts in Your Vlog</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-maximize-your-impact-top-10-insta-tools-for-post-management-for-2024/"><u>[Updated] Maximize Your Impact Top 10 Insta Tools for Post Management for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-visual-storytelling-for-online-platforms-for-2024/"><u>[Updated] The Art of Visual Storytelling for Online Platforms for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-data-conversion-tips-for-turning-json-files-into-microsoft-excel-documents/"><u>Master the Art of Data Conversion: Tips for Turning JSON Files Into Microsoft Excel Documents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cell-management-a-step-by-step-guide-to-combining-and-separating-cells-in-excel/"><u>Mastering Cell Management: A Step-by-Step Guide to Combining and Separating Cells in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cell-replication-a-comprehensive-tutorial-on-cloning-formulas-in-excel/"><u>Mastering Cell Replication: A Comprehensive Tutorial on Cloning Formulas in Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-chart-selection-with-filters-in-ms-excel-tips-and-tricks/"><u>Mastering Chart Selection with Filters in MS Excel: Tips & Tricks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-list-of-8-chromebook-compatible-digital-audio-workstations-for-composers-and-producers/"><u>New 2024 Approved The Ultimate List of 8 Chromebook-Compatible Digital Audio Workstations for Composers and Producers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-focus-on-clarity-top-10-phones-excelling-at-4k-video-recording/"><u>[New] Focus on Clarity Top 10 Phones Excelling at 4K Video Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-why-your-camera-stops-in-the-mid-action/"><u>[New] Understanding Why Your Camera Stops in the Mid-Action</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>2024 Approved Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-services-on-windows-a-step-by-step-approach/"><u>Fixing Non-Responsive Services on Windows: A Step-By-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-breakpoint-exception-error-on-windows-devices/"><u>Fixing the Breakpoint Exception Error on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-yesteryear-to-today-reviving-gaming-with-shader-technology/"><u>From Yesteryear to Today: Reviving Gaming with Shader Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-error-code-0x80073712/"><u>How to Fix Windows Update Error Code 0X80073712</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-data-analytics-methods-for-market-research-analysis/"><u>In 2024, Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>In 2024, Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules-for-2024/"><u>Mastering Full-Rotation Shoots 9 Must-Follow Rules for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-windows-missing-press-enter-action/"><u>Rectifying Windows' Missing Press Enter Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-erroneous-cpu-usage-readings-in-windows-monitoring-tool/"><u>Strategies to Address Erroneous CPU Usage Readings in Windows Monitoring Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-chronicles-of-classic-graphics-reviving-games-via-retroarc/"><u>The Chronicles of Classic Graphics: Reviving Games via RetroArc</u></a></li>
 </ul></div>
 

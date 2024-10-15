@@ -1,7 +1,7 @@
 ---
 title: Simplified Process for Adding MsiBundle Files to Devices via Store
-date: 2024-10-05T04:57:37.544Z
-updated: 2024-10-09T00:32:44.669Z
+date: 2024-10-11T08:55:14.972Z
+updated: 2024-10-15T12:20:40.597Z
 tags:
   - windows10
   - windows11
@@ -58,22 +58,8 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
@@ -90,10 +76,10 @@ To generate a Microsoft Store app downloading link using Fiddler:
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
@@ -104,6 +90,13 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
 1. Locate the saved app package in the**Downloads** folder.
@@ -111,9 +104,23 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
 ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
@@ -126,6 +133,13 @@ To install App Installer:
 3. Click on Install and wait for it to complete the process.
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
 
@@ -150,23 +164,9 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Download and Install Appx, Appxbundle, and Msixbundle from Microsoft Store on Windows
 
@@ -187,24 +187,16 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aximize-viewership-with-innovative-youtube-thumbnail-ideas-for-2024/"><u>[New] Maximize Viewership with Innovative YouTube Thumbnail Ideas for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-precision-recording-a-stepwise-plan-for-pc-ios-macbooks-for-2024/"><u>[New] Precision Recording A Stepwise Plan for PC, iOS, MacBooks for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>[Updated] In 2024, Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-spotlight-on-top-tiktok-gaming-pros-for-2024/"><u>[Updated] Spotlight on Top TikTok Gaming Pros for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-inspire-dont-impose-the-art-of-attracting-subscribers/"><u>2024 Approved Inspire, Don't Impose The Art of Attracting Subscribers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-x8b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor X8b to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquer-coding-repair-x-script-in-ragnarok/"><u>Conquer Coding: Repair X-Script in Ragnarok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-key-differences-between-exe-software-packages-and-msi/"><u>Deciphering Key Differences Between Exe Software Packages & Msi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-ssd-optimize-with-ssd-fresh-for-windows-users/"><u>Enhance Your SSD: Optimize with SSD Fresh for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-key-principles-to-uphold-youtube-civility/"><u>In 2024, Key Principles to Uphold YouTube Civility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-focus-with-our-select-8-windows-pomodoro-tools/"><u>Maximize Focus with Our Select 8 Windows Pomodoro Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998099983-overcome-platform-hurdles-the-much-anticipated-la-noire-now-launches-on-windows-devices/"><u>Overcome Platform Hurdles: The Much-Anticipated 'L.A. Noire' Now Launches on Windows Devices!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x00000001-in-xbox-game-pass-with-windows-11/"><u>Overcoming Error 0X00000001 in Xbox Game Pass with Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-essential-checklist-for-using-zoom-on-your-windows-pc-for-2024/"><u>The Essential Checklist for Using Zoom on Your Windows PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-window-whisperer-decoding-and-fixing-windows-11-screen-issues/"><u>The Window Whisperer: Decoding and Fixing Windows 11 Screen Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-transforming-xbox-one-dvds-from-standard-to-full-hd-widescreen-display/"><u>Ultimate Guide: Transforming Xbox One DVDs From Standard to Full HD Widescreen Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-removing-windows-bt-directories-effectively/"><u>Understanding and Removing Windows ~BT Directories Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-steps-to-fullscreen-integrity/"><u>Unveiling Hidden Steps to Fullscreen Integrity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-reset-reclaim-default-user-access-rights/"><u>Windows 11 Reset: Reclaim Default User Access Rights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-your-niche-and-style-a-starters-guide/"><u>[New] In 2024, How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-biz-cloud-storage-excellence/"><u>[Updated] In 2024, Leading Biz Cloud Storage Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxgidll-apearance-how-to-recover-in-windows-11/"><u>Dxgi.dll Apearance: How to Recover in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routines-for-preventing-vscode-freeze-on-w11/"><u>Easy Routines for Preventing VSCode Freeze on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-text-emphasis-and-search-highlights/"><u>How To Adjust Text Emphasis and Search Highlights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100t for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-guide-to-macs-finest-sniping-tools-uncovered/"><u>In 2024, A Guide to Mac's Finest Sniping Tools Uncovered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-new-era-the-windows-11-plus-android-second-screen-fusion/"><u>Navigating a New Era: The Windows 11 + Android Second Screen Fusion</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-10-must-hear-tunes-as-your-phones-greeting-melody/"><u>New In 2024, 10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-file-save-restrictions-on-microsoft-pcs/"><u>Overcoming File Save Restrictions on Microsoft PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fatal-pnp-detected-error-in-windows-11-a-comprehensive-guide/"><u>Resolving the Fatal 'PNP Detected' Error in Windows 11 - A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips to Optimize RAM Allocation in Windows Operating System
-date: 2024-10-02T01:03:46.489Z
-updated: 2024-10-09T05:04:16.516Z
+date: 2024-10-13T19:03:34.265Z
+updated: 2024-10-15T01:35:56.744Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
  Now that you have an idea about what might be resulting in the problem, let’s take a look at the troubleshooting methods that can help you fix the issue for good.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check BIOS Settings
@@ -60,10 +60,10 @@ Here is all that you need to do:
 6. Finally, exit BIOS and restart your computer. Upon reboot, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Modify System Configuration Settings
@@ -84,13 +84,6 @@ Here is how you can do that:
 
  Hopefully, upon reboot, your system will be able to use all of your RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use the 64-bit Version of Windows
 
  As we mentioned earlier, the 32-bit version of Windows can only use 4 GB of RAM. If you have more RAM available that you want to utilize, you can switch to the 64-bit version.
@@ -101,22 +94,16 @@ Here is how you can do that:
 
  You can now use any one of the[different methods to install Windows](https://www.makeuseof.com/different-methods-to-install-windows-11/) . Just make sure you choose the 64-bit version when asked to select the architecture for installation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Identify Issues With the RAM
 
 ![Two RAM discs placed side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ram.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There can be issues with the RAM itself. To check if this is the case in your situation, the first thing we recommend trying is turning off the computer, unplugging the cords, and changing the order of the memory modules.
 
@@ -125,6 +112,13 @@ Here is how you can do that:
  Another way of testing the RAM for issues is by using the[Memory Diagnostic tool](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/) . This utility will scan the RAM for errors and notify you if any issues are found. You can then take appropriate steps to troubleshoot those problems.
 
  We also recommend that you consult the manufacturer’s guide to ensure that all the memory modules are inserted in the right slots. In case your device requires you to use specific slots for certain modules, you might be facing a problem because of that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use All of Your RAM for a Performance Upgrade
 
@@ -145,18 +139,18 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-web-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>[New] Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-to-extracting-youtube-subtitles-srt/"><u>[Updated] In 2024, The Ultimate Guide to Extracting YouTube Subtitles (SRT)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asus-bw-16d1x-u-blu-ray-burner-analysis-elegant-design-and-minor-imperfections/"><u>Asus BW-16D1X-U Blu-Ray Burner Analysis: Elegant Design & Minor Imperfections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-perfect-srt-output-with-premiere-pro-for-2024/"><u>Crafting Perfect SRT Output with Premiere Pro for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/e-education-video-logging/"><u>E-Education Video Logging</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-lenovo-ideapad-a-robust-design-for-the-cost-conscious-consumer/"><u>Evaluating the Lenovo Ideapad: A Robust Design for the Cost-Conscious Consumer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-blank-game-listings-on-windows-with-discord/"><u>Fixing Blank Game Listings on Windows with Discord</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-12r-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus 12R Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouseclicklock-a-guide-to-smoother-windows-navigation/"><u>Mastering MouseClickLock: A Guide to Smoother Windows Navigation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-c12-plus-video-recovery-recover-deleted-videos-from-nokia-c12-plus-by-fonelab-android-recover-video/"><u>Nokia C12 Plus Video Recovery - Recover Deleted Videos from Nokia C12 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-entry-not-found-error-in-windows/"><u>Quick Fix for Entry Not Found Error in Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streaming-success-how-to-keep-a-record-of-live-tv-for-2024/"><u>Streaming Success How to Keep a Record of Live TV for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-power-of-shortcut-commands-with-windows-narrator/"><u>Unraveling the Power of Shortcut Commands with Windows Narrator</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-instructor-friendly-screen-recording-software-guide/"><u>[New] 2024 Approved Instructor-Friendly Screen Recording Software Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-vlc-users-guide-to-screen-capturing/"><u>[New] In 2024, VLC User's Guide to Screen Capturing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>[Updated] How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>[Updated] In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tunefab-vs-competitors-screen-recorder-showdown-for-2024/"><u>[Updated] Tunefab vs Competitors Screen Recorder Showdown for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-problem-of-packet-drops-in-your-discord-connections/"><u>Fixing the Problem of Packet Drops in Your Discord Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-10-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-7-techniques-to-revitalize-stubborn-windows-services-mgmt-tool/"><u>Mastering 7 Techniques to Revitalize Stubborn Windows Services Mgmt Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-visuals-adjust-win11-scaling/"><u>Maximize Visuals: Adjust Win11 Scaling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-11-menus-interactive-functionality/"><u>Restoring Windows 11 Menus' Interactive Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80041015-in-ms-office-for-windows-users/"><u>Unlocking Error 0X80041015 in MS Office for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-guide-simple-steps-for-telnet-use/"><u>Win11 Guide: Simple Steps for Telnet Use</u></a></li>
 </ul></div>
 

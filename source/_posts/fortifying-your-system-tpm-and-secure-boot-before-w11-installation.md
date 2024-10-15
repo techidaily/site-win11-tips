@@ -1,7 +1,7 @@
 ---
 title: "Fortifying Your System: TPM and Secure Boot Before W11 Installation"
-date: 2024-09-15T21:30:03.376Z
-updated: 2024-09-16T19:43:01.041Z
+date: 2024-10-09T19:43:14.765Z
+updated: 2024-10-14T20:05:28.504Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ![windows bios secure boot warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-bios-secure-boot-warning.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But it also has some side effects. For example, Secure Boot will stop you from dual-booting Linux distributions, which has led many [users to disable Secure Boot.](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/)
 
  On top of those two vital features, [Windows 11 has specific hardware requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/), with Microsoft opting to block the automatic upgrade path for millions of users. If you're using Windows 10 on an AMD Ryzen 3000 series or later or an Intel 7th Gen CPU or later, you can upgrade to Windows 11 directly.
@@ -67,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  You should be in your BIOS/UEFI settings menu when the computer restarts again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Enable TPM in Your BIOS/UEFI
@@ -80,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 ![msi motherboard enable tpm settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-tpm-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Be aware that the TPM might be listed under a different name on some motherboards, depending on your CPU manufacturer:
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Press **Windows key + R** to open the Run dialog, then input **tpm.msc** and press Enter. The TPM management console will load, indicating if TPM is enabled—and if so, which version you're using.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Enable Secure Boot
 
  While you're deep in your system settings, take a moment to check if Secure Boot is enabled.
@@ -104,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  Like the TPM options, where you find the Secure Boot option will differ depending on hardware, but it is generally located in the **Boot** tab. Find your **Boot** tab, scroll down to find the **Secure Boot** option, and ensure it's enabled.
 
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
 
@@ -124,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  So there you have it. You've enabled two of the most important settings that will block your Windows 11 upgrade path. Once enabled, and presuming you're running compatible hardware, Microsoft will offer you the Windows 11 upgrade. To check if your Windows 11 upgrade is ready, head to **Settings > Update & Security > Windows Update**, where you'll find the big update button.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +138,25 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-compreehing-and-engaging-with-your-twitter-archive/"><u>[New] In 2024, Compreehing & Engaging with Your Twitter Archive</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fast-fixes-effortless-screenshots-and-captures-with-dell-for-2024/"><u>[Updated] Fast Fixes Effortless Screenshots & Captures with Dell for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-performance-and-features-from-win11-home-to-pro/"><u>Boost Performance & Features: From Win11 Home to Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-shift-your-video-format-from-mkv-to-mp4-windows/"><u>Efficiently Shift Your Video Format: From MKV to MP4 (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-visuals-and-speed-on-roblox-windows-app/"><u>Enhancing Visuals and Speed on Roblox Windows App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-demystifying-best-hdr-cameras-for-professionals/"><u>In 2024, Demystifying Best HDR Cameras for Professionals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-magic5-ultimate-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor Magic5 Ultimate Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-0xa00f425d-in-microsofts-windows-camera-app/"><u>Overcoming Error Code: 0XA00F425D in Microsoft's Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-error-0xc004f050/"><u>Overcoming Windows Upgrade Error: 0XC004F050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-error-e8024002e-in-updates-process/"><u>Prevent Error E:8024002E in Updates Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-elusive-error-0x80073d26-on-windows/"><u>Resolving the Elusive Error 0X80073D26 on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-strategies-for-capturing-lol-matches/"><u>Top Strategies for Capturing LOL Matches</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from Red Magic 8S Pro+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ai-computers-distinctions-explored/"><u>Unveiling AI Computers: Distinctions Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-where-your-wallpaper-saves-in-pc/"><u>Unveiling Where Your Wallpaper Saves in PC</u></a></li>
+</ul></div>
+

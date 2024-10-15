@@ -1,7 +1,7 @@
 ---
 title: Methods for Easing Endless Prompts After Login Attempts
-date: 2024-10-06T01:07:16.412Z
-updated: 2024-10-08T20:33:11.563Z
+date: 2024-10-12T03:04:20.458Z
+updated: 2024-10-14T20:23:00.431Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  After you've transferred the files, re-enable password-protected sharing so that others don't get easy access to your PC.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Your Microsoft Account Credentials or the Computer's Name
 
  You can also try logging onto the target PC using the Microsoft account credentials instead of the local username and password.
@@ -63,26 +76,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Create a New User Account on Both Devices
 
  There are times when user accounts become corrupt and stop you from performing certain actions. If this has happened, either on your PC or the target computer, it can interrupt the file-sharing process.
@@ -90,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  To fix this problem, first, try [switching to a different user account](https://www.makeuseof.com/windows-11-switch-user-accounts/) on your own computer and see if that works. If this strategy fails, then we recommend [creating a new user account](https://www.makeuseof.com/windows-11-create-local-user-account/) on both devices with the same username and password. Make sure that both accounts have administrative privileges. While you are at it, we also suggest temporarily disabling any third-party antivirus program that you might be using, as it can sometimes block network access.
 
  If the root of your issue was a corrupt user account, this should be enough to fix the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Restart the Credential Manager Service
 
@@ -119,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
  Now try connecting to the targeted computer and see if you can do so without any problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Make Changes to the Local Security Policy
 
  Several users also managed to fix the problem by modifying the settings of the "Accounts: Limit local account use of blank passwords to console logon only" policy. Here is how you can give it a try too:
@@ -130,6 +123,20 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 4. Choose **Disabled** and click **Apply** \> **OK** to save the changes.  
 ![Make changes to the Local Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-security-policy.jpg)
 5. Restart your computer and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Using Safe Mode With Networking
 
@@ -153,35 +160,11 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[New] 2024 Approved Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/irect-to-device-converting-youtube-tracks-for-idevices/"><u>[New] Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters-for-2024/"><u>[Updated] Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-post-tomorrow-assessment-original-ideas/"><u>2024 Approved Post-Tomorrow Assessment Original Ideas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-connect-and-share-a-printer-among-various-electronics/"><u>Easy Ways to Connect and Share a Printer Among Various Electronics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-d3dx939dll-gap-on-windows-11/"><u>How to Mend D3DX9_39.dll Gap on Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-itel-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Itel Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-13-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi 13 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-your-new-amd-rx-6800-xt-driver-downloads-for-windows-111087-users/"><u>Installing Your New AMD RX 6800 XT - Driver Downloads for Windows 11/10/8/7 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-tricks-navigating-through-winerror-in-oculus-setup-for-ws11ws10/"><u>Proven Tricks: Navigating Through WinError in Oculus Setup for WS11/WS10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-common-windows-app-glitches-7-fixes/"><u>Troubleshooting Common Windows App Glitches: 7 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-to-a-responsive-esc-key-in-windows-systems/"><u>Unlock the Secrets to a Responsive Esc Key in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-windows-correcting-access-violations/"><u>Winning Over Windows: Correcting Access Violations</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -190,3 +173,27 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/counteracting-icon-badges-non-display-issue/"><u>Counteracting Icon Badges Non-Display Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directory-discovery-3-approaches-on-windows-os/"><u>Directory Discovery: 3 Approaches on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-on-managing-users-in-the-cli/"><u>Expert Tips on Managing Users in the CLI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-asus-rog-phone-7-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Asus ROG Phone 7 Face Lock?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-through-audio-transition-in-ableton-live-for-2024/"><u>Guiding Through Audio Transition in Ableton Live for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-10-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 10 Pro Is Unlocked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-zoom-visuals-top-techniques/"><u>In 2024, Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rise-above-the-rest-one-person-podcast-mastery/"><u>In 2024, Rise Above the Rest One-Person Podcast Mastery</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-in-windows-11-avoid-these-slips/"><u>Navigating New Horizons in Windows 11: Avoid These Slips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-notes-top-7-windows-tech-choices/"><u>Navigating Notes: Top 7 Windows Tech Choices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/"><u>New 2024 Approved The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-pausefreeze-in-windows-environment/"><u>Overcoming uTorrent Pause/Freeze in Windows Environment</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-tips-on-fixing-broken-jpeg-files-without-losing-quality-discover-how/"><u>Professional Tips on Fixing Broken JPEG Files Without Losing Quality – Discover How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-your-cortana-experiences-step-by-step-guide/"><u>Saving Your Cortana Experiences: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-solving-windows-errors-top-8-methods/"><u>Swiftly Solving Windows Errors: Top 8 Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-customize-windows-1011-icons-with-spacing-tweaks/"><u>Title: Customize Windows 10/11 Icons with Spacing Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-se-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone SE?</u></a></li>
+</ul></div>
+

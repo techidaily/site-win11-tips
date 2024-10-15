@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Issues Resolved: Rehab Your Keystrokes in Win10"
-date: 2024-09-15T01:56:38.804Z
-updated: 2024-09-17T06:47:16.344Z
+date: 2024-10-12T07:15:02.269Z
+updated: 2024-10-15T14:06:49.805Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 2. For a Bluetooth keyboard, remove the battery, wait a few minutes, and reconnect it.
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  On older Windows versions, you could’ve accessed the Hardware and Device troubleshooter via Control Panel. Now, you need a command line to access it. Here is how you can do it:
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Filter Keys
@@ -110,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  Then, restart your computer and check if the problem is now fixed.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Back the Convenience of Fn Keys
@@ -130,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,3 +138,21 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-navigating-instagrams-new-updates/"><u>[New] A Guide to Navigating Instagram's New Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastery-of-image-warping-made-simple-for-2024/"><u>[New] Mastery of Image Warping Made Simple for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-comprehensive-iptv-accessibility/"><u>[Updated] 2024 Approved Comprehensive IPTV Accessibility</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>2024 Approved Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/easy-methods-to-watch-vob-movies-on-an-ipad-the-ultimate-tutorial/"><u>Easy Methods to Watch VOB Movies on an iPad – The Ultimate Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-leveraging-github-desktop-in-windows-development/"><u>Essential Guide to Leveraging GitHub Desktop in Windows Development</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-hdd-not-installed-problems-a-windows-11-boot-up-woes-guide/"><u>Handling HDD Not Installed Problems: A Windows 11 Boot-Up Woes Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-browser-use-memory-and-cpu-on-windowsmacoschromeos/"><u>Optimal Browser Use: Memory & CPU on Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-and-reliable-vimeo-file-retrievers-for-2024/"><u>Quick and Reliable Vimeo File Retrievers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-windows-update-failure-code-0x800f080a/"><u>Quick Fixes for Windows Update Failure: Code 0X800f080a</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-pcs-from-stuck-in-bios-boot-menu/"><u>Stop Windows PCs From Stuck in BIOS Boot Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-unlocking-sound-with-xbox-on-windows/"><u>Strategies for Unlocking Sound with Xbox on Windows</u></a></li>
+</ul></div>
+

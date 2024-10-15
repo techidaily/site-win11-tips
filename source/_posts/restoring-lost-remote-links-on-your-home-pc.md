@@ -1,7 +1,7 @@
 ---
 title: Restoring Lost Remote Links on Your Home PC
-date: 2024-10-03T02:47:54.029Z
-updated: 2024-10-08T23:44:36.810Z
+date: 2024-10-10T17:41:14.534Z
+updated: 2024-10-14T17:05:56.597Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 1. Open Chrome and click the three-dot icon in the top-right corner.  
 ![the three dot icon in google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-three-dot-icon-in-google-chrome.jpg)
 2. In the menu, click on **Settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the google chrome menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-google-chrome-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Reset settings to their original defaults** on the right.  
 ![the reset settings page of google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-google-chrome.jpg)
@@ -52,25 +60,11 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 ![the three dot icon in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-three-dot-icon-in-microsoft-edge.jpg)
 2. In the menu, click on **Settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the microsoft edge menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-edge-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Restore settings to their default values** on the right.  
 ![the reset settings page of microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-microsoft-edge.jpg)
 4. In the pop-up, confirm you want to reset Edge by clicking on **Reset**.  
 ![the pop up to reset settings in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-microsoft-edge.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To reset Firefox, follow the steps below:
 
@@ -81,49 +75,40 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 3. Click on **More troubleshooting information**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the firefox help menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-help-menu.jpg)
 4. In the small panel on the right side, click on **Refresh Firefox**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the troubleshooting information page of firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-troubleshooting-information-page-of-firefox.jpg)
 5. In the pop-up, confirm you want to reset Firefox by clicking on **Refresh Firefox**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the pop up to reset settings in firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-firefox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After resetting the browser, try and see if the error has disappeared in the Windows Network Diagnostics tool.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset Your IP Address
 
@@ -134,12 +119,27 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 1. Press **Win + S** to bring up Windows Search. Type **cmd** in the search results, and when Command Prompt shows up in the search results, right-click it and select **Run as administrator**.  
 ![Opening CMD as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/opening-CMD-as-administrator.jpg)
 2. Type the following command in Command Prompt and then press **Enter**:  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ipconfig/release
 3. Next, type the following command and press **Enter**:  
 ipconfig/renew  
 ![resetting and renewing an ip address in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/reseting-and-renewing-an-ip-address-in-command-prompt.jpg)
 
  Once you finish running the commands, check to see if the error is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off the Proxy Server
 
@@ -153,16 +153,38 @@ ipconfig/renew
 3. Select the **Connections** tab and then click on the **LAN settings** button towards the bottom.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the connections tab in internet properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-connections-tab-in-internet-properties.jpg)
 4. In the **Proxy server** section, uncheck the **Use a proxy server for your LAN** checkbox.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the lan settings page on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lan-settings-page-on-windows.jpg)
 5. Click **OK** to close LAN Settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** in Internet Properties to apply the changes and close it.
 
  Check to see if the internet on your computer is working properly again.
@@ -181,21 +203,6 @@ ipconfig/renew
 
  Well, don't panic, as we're going to show you how to get rid of that error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-best-budget-friendly-video-stock-sites/"><u>[New] 2024 Approved Best Budget-Friendly Video Stock Sites</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-recording-the-next-level-of-play/"><u>[New] In 2024, Recording the Next Level of Play</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-famebit-alternatives-for-finding-youtube-sponsorships/"><u>[Updated] In 2024, FameBit Alternatives for Finding YouTube Sponsorships</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-display-problems-heres-how-you-can-get-your-screen-share-audio-working-again/"><u>Discord Display Problems? Here's How You Can Get Your Screen Share Audio Working Again!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/escape-s-mode-confinement-on-win-1011-systems/"><u>Escape S Mode Confinement on Win 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-approach-for-windows-error-management/"><u>Essential Approach for Windows Error Management</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-game-latency-problems-on-the-naraka-bladepoint-platform/"><u>Fixing Game Latency Problems on the Naraka Bladepoint Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-for-limiting-user-permissions-in-windows-10-filesystem/"><u>Method for Limiting User Permissions in Windows 10 Filesystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-taskbar-scaling-in-windows-11/"><u>Personalized Taskbar Scaling in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-poco-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Poco</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-failed-login-to-game-pass-service-on-windows-1011/"><u>Reversing Failed Login to Game Pass Service on Windows 10/11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +210,27 @@ ipconfig/renew
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-brilliant.techidaily.com/1728496490061-aomei-backupper/"><u>配置データのエクスポート・インポート - AOMEI Backupperガイド</u></a></li>
+<li><a href="https://article-tips.techidaily.com/augmented-reality-how-android-enhances-viewing-experience/"><u>Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-magic-automating-archive-creation-in-windows/"><u>Command Line Magic: Automating Archive Creation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-the-new-os-build-a-focused-and-effective-windows-11-boot-drive-in-three-ways/"><u>Conquer the New OS – Build a Focused and Effective Windows 11 Boot Drive in Three Ways</u></a></li>
+<li><a href="https://fox-info.techidaily.com/harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>Harnessing the Power of Audio on Your Device Apple's Podcast Download Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-this-file-cannot-be-previewed-error-in-outlook-for-windows/"><u>How to Fix the This File Cannot Be Previewed Error in Outlook for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-11-and-11/"><u>How to Highlight the Mouse Cursor in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ifttt-and-microsoft-to-dot-synergy-explained/"><u>IFTTT & Microsoft To-Dot Synergy Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-edge-40-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Edge 40 Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-nubia-flip-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change ZTE Nubia Flip 5G Lock Screen Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-google-pixel-8-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Google Pixel 8 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/leveraging-cookiebot-technology-for-advanced-site-engagement-and-seo-success/"><u>Leveraging Cookiebot Technology for Advanced Site Engagement and SEO Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-isarcextract-error-in-windows-11-updates/"><u>Overcoming ISArcExtract Error in Windows 11 Updates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/persistent-display-repository-solutions-for-2024/"><u>Persistent Display Repository Solutions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-driver-initialization-failure-in-windows-11/"><u>Solutions for Driver Initialization Failure in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/storeroom-in-mp60-speed-still-scarce/"><u>Storeroom in MP60, Speed Still Scarce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-mechanics-of-windows-11s-compatibility-tool/"><u>Uncovering the Mechanics of Windows 11’S Compatibility Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-inside-chatgpt-an-in-depth-look-at-microsofts-ai-creation/"><u>What's Inside ChatGPT? An In-Depth Look at Microsoft’s AI Creation</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1725285616590-winxvideo-ai-gpu/"><u>Winxvideo AI - 使用GPU优化快速转换视频与音频</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Understanding Windows Component Services Interface Details
-date: 2024-10-02T00:15:39.391Z
-updated: 2024-10-08T17:08:43.967Z
+date: 2024-10-12T03:39:26.566Z
+updated: 2024-10-14T21:46:15.929Z
 tags:
   - windows10
   - windows11
@@ -49,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 
 ![Opening the Component Services Tool Using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Open the Component Services Tool Using the File Explorer Address Bar
 
  The File Explorer address bar can help you locate your file and folder paths with ease. In addition to that, you can use File Explorer’s address bar to open various apps.
@@ -73,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 
 ![Opening the Component Services Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Open the Component Services Tool Using the Start Menu
 
  Most of your apps and tools are located on the Windows Start menu. So, let’s check out how you can access the Component Services tool from this menu:
@@ -82,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 3. Select the**Component Services** option.
 
 ![Opening the Component Services tool using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Open the Component Services Tool Using the Control Panel
 
@@ -98,17 +99,10 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 ![Opening the Component Services tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Open the Component Services Tool Using the Task Manager
@@ -137,20 +131,13 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 ![Selecting the comexp option in the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selecting-the-comexp-option-in-the-system32-directory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt
 
@@ -179,10 +166,16 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
@@ -195,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 4. Type**%windir%\\system32\\comexp.msc** in the location box and then press**Next** to continue.
 
 ![Creating the Component Services Tool desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-component-services-tool-desktop-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type**Component Services Tool** in the "Name" box and then click the**Finish** button. From there, you can start using your desktop shortcut by simply clicking on it.
 
@@ -221,20 +221,20 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[New] 2024 Approved Easy Ways to Add Music to iMovie From YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instagram-mastery-build-stunning-group-photos-in-a-flash/"><u>[New] Instagram Mastery Build Stunning Group Photos in a Flash</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-get-hd-quality-facebook-videos-on-pcmobile/"><u>[Updated] 2024 Approved Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-revolutionize-your-photo-editing-skills-with-pixlr-insights/"><u>[Updated] In 2024, Revolutionize Your Photo Editing Skills with Pixlr Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-unsupported-apps-on-windows-vista/"><u>Dealing with Unsupported Apps on Windows Vista</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-s24-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy S24 Device SIM</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/freedom-in-memories-your-instagrams-savior-for-2024/"><u>Freedom in Memories Your Instagram's Savior for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-horizons-essential-alterations-to-windows-11s-explorer/"><u>New Horizons: Essential Alterations to Windows 11'S Explorer</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-powerdirector-competitors-best-video-editors-for-android-and-ios-for-2024/"><u>New PowerDirector Competitors Best Video Editors for Android & iOS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/returning-to-standard-windows-folder-layouts/"><u>Returning to Standard Windows Folder Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skip-unverified-warning-in-adobe-software/"><u>Skip Unverified Warning in Adobe Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-weather-icon-integration-into-windows-11/"><u>Step-by-Step Guide: Weather Icon Integration Into Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-for-rectifying-inaccurate-malware-warning-in-chrome/"><u>Tactics for Rectifying Inaccurate Malware Warning in Chrome</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-4k-video-editing-top-software-for-creators-for-2024/"><u>The Ultimate Guide to 4K Video Editing Top Software for Creators for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-off-windows-app-start-monitoring/"><u>Turn Off Windows App Start Monitoring</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-through-the-clutter-youtubes-copyright-evolution/"><u>[Updated] 2024 Approved Cutting Through the Clutter YouTube's Copyright Evolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-leading-free-stock-video-and-image-archives/"><u>[Updated] Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-techniques-for-windows-administrators/"><u>Command Prompt Techniques for Windows Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dynamic-control-of-windows-11-taskbar-space/"><u>Dynamic Control of Windows 11 Taskbar Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0xc0351000-error-windows-sandbox-without-hypervisor/"><u>Eliminating 0xC0351000 Error: Windows Sandbox without Hypervisor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-viewing-the-ultimate-zoom-journey-for-2024/"><u>Fine-Tune Viewing The Ultimate Zoom Journey for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-10t-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme 10T 5G Phone?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v30-lite-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V30 Lite 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-windows-look-like-macos-with-these-5-simple-tweaks/"><u>Make Windows Look Like macOS with These 5 Simple Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-troubleshooting-for-opened-manage-interface/"><u>Navigating Windows 11 Troubleshooting for Opened Manage Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-effective-use-of-windows-11s-auto-hdr/"><u>Strategies for Effective Use of Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-failed-proc-invocation-errors-in-malwarebytes/"><u>Tips for Correcting Failed Proc Invocation Errors in Malwarebytes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-11-free-mp4-video-editors-of-2024-windows-and-mac-compatible-options/"><u>Top 11 Free MP4 Video Editors of 2024: Windows and Mac Compatible Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-lost-ark-wont-start-issue/"><u>Ultimate Guide: Solving the 'Lost Ark Won't Start' Issue</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-mastery-40-essential-keyboard-shortcuts-to-improve-your-skills/"><u>Updated 2024 Approved FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills</u></a></li>
 </ul></div>
 

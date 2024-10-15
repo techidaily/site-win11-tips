@@ -1,7 +1,7 @@
 ---
 title: Immediate Stop for Windows and Office Updates
-date: 2024-10-07T23:20:46.798Z
-updated: 2024-10-08T17:07:58.086Z
+date: 2024-10-13T04:38:10.360Z
+updated: 2024-10-15T03:15:50.632Z
 tags:
   - windows10
   - windows11
@@ -46,15 +46,28 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 5. Select**Yes** to confirm.  
 ![Stop Office Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-office-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, your Office apps will not check for and install newer updates. Don't worry, you'll still be able to install updates manually.
 
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
@@ -76,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 9. Return to the folder where you extracted the files and open the**admx** folder again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Open the**en-US** folder and copy all the**adml files** within.
@@ -94,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 4. Double-click the**Enable Automatic Updates** policy on your right.  
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
 5. Select the**Disabled** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
@@ -124,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
 3. Rename the key as**16.0** .
@@ -136,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
 
@@ -163,21 +169,22 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-every-word-in-high-fidelity-with-discord/"><u>[New] Capture Every Word in High Fidelity with Discord</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-guide-the-leading-10-live-streaming-networks/"><u>[New] In 2024, Ultimate Guide The Leading 10 Live Streaming Networks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>[Updated] Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tips-for-removing-fisheye-from-gopro-footage/"><u>[Updated] Tips for Removing Fisheye From GoPro Footage</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-11-affordable-word-game-apps-for-smartphones/"><u>Best 11 Affordable Word Game Apps for Smartphones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-11s-evolution-via-copilot-key-integration/"><u>Demystifying Windows 11'S Evolution via Copilot Key Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-audio-fails-in-win11-error-0xc00d36b4/"><u>Fixing Audio Fails in Win11: Error 0XC00D36B4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-a70-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel A70</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mending-non-pressable-windows-keys/"><u>Mending Non-Pressable Windows Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-vcplusplus-distributable-explained/"><u>Microsoft's VC++ Distributable Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/missing-features-alert-restore-windows-11s-enhancement-settings/"><u>Missing Features Alert! Restore Windows 11'S Enhancement Settings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-windows-driver-woes-with-simple-steps/"><u>Overcoming Windows Driver Woes with Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-time-management-top-5-pc-clock-screensavers-reviewed/"><u>Prioritize Time Management – Top 5 PC Clock Screensavers Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-folder-titles-in-explorer-bar/"><u>Reinstating Folder Titles in Explorer Bar</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-vanished-settings-heres-where-to-locate-them/"><u>Win11's Vanished Settings? Here’s Where to Locate Them</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-video-capture-software-is-bandicam-superior-to-camtasia/"><u>[New] Navigating Video Capture Software Is Bandicam Superior to Camtasia?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-differentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>[Updated] In 2024, Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-safe-copyrestore-of-notebooks/"><u>Ensuring Safe Copy/Restore of Notebooks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-blue-screen-error-0xc00000e9-on-windows-computers/"><u>Expert Tips for Repairing Blue Screen Error 0Xc00000e9 on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-flickering-mouse-pointer-on-windows/"><u>How to Fix the Flickering Mouse Pointer on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-15-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 15 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ultimate-budget-headphones-to-enhance-game-sounds/"><u>In 2024, Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-apples-rumored-personal-robot-what-to-expect-in-price-and-tech-specs/"><u>Inside Look at Apple’s Rumored Personal Robot – What to Expect in Price and Tech Specs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-filesize-calculation-with-advanced-powershell-methods/"><u>Mastering Filesize Calculation with Advanced Powershell Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-leveraging-windows-11s-developer-tools/"><u>Maximizing Productivity: Leveraging Windows 11'S Developer Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-windows-original-sleepwake-patterns/"><u>Regaining Windows' Original Sleep/Wake Patterns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-games-images-on-steam/"><u>Reinstating Lost Games Images on Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-broken-keys-on-modern-microsoft-operating-systems/"><u>Step-by-Step Guide: Restoring Broken Keys on Modern Microsoft Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-system-the-windows-11-reset-method/"><u>Streamlining Your System: The Windows 11 Reset Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-avi-to-mp3-converters-online-and-desktop-your-ultimate-guide/"><u>Top Free AVI to MP3 Converters Online and Desktop – Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-present-promotions-for-your-new-ipad/"><u>Unbeatable Present Promotions for Your New iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-enabled-three-routes-to-telnet-success/"><u>Win 10/11 Enabled: Three Routes to Telnet Success</u></a></li>
 </ul></div>
 

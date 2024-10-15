@@ -1,7 +1,7 @@
 ---
 title: "Restoring Remote Links: Fixing Disconnected Devices on PC"
-date: 2024-10-08T01:33:53.018Z
-updated: 2024-10-09T01:50:31.621Z
+date: 2024-10-13T14:25:05.936Z
+updated: 2024-10-15T00:55:51.091Z
 tags:
   - windows10
   - windows11
@@ -43,70 +43,90 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![the google chrome menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-google-chrome-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Reset settings to their original defaults** on the right.  
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the reset settings page of google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-google-chrome.jpg)
 4. In the pop-up, confirm you want to reset Chrome by clicking on **Reset settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the pop up to reset settings in google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-google-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To reset Edge, follow the steps below:
 
 1. Open Edge and click on the three-dot icon in the top-right corner.  
 ![the three dot icon in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-three-dot-icon-in-microsoft-edge.jpg)
 2. In the menu, click on **Settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the microsoft edge menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-edge-menu.jpg)
 3. On the left side menu, select **Reset settings**, and then click on **Restore settings to their default values** on the right.  
 ![the reset settings page of microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-reset-settings-page-of-microsoft-edge.jpg)
 4. In the pop-up, confirm you want to reset Edge by clicking on **Reset**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the pop up to reset settings in microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-microsoft-edge.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To reset Firefox, follow the steps below:
 
 1. Open Firefox and click on the hamburger menu icon in the top-right corner.  
 ![the hamburger menu icon in firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-hamburger-menu-icon-in-firefox.jpg)
 2. In the menu, click on **Help**.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the firefox menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-menu.jpg)
 3. Click on **More troubleshooting information**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the firefox help menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-firefox-help-menu.jpg)
 4. In the small panel on the right side, click on **Refresh Firefox**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the troubleshooting information page of firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-troubleshooting-information-page-of-firefox.jpg)
 5. In the pop-up, confirm you want to reset Firefox by clicking on **Refresh Firefox**.  
 ![the pop up to reset settings in firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-reset-settings-in-firefox.jpg)
 
- After resetting the browser, try and see if the error has disappeared in the Windows Network Diagnostics tool.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After resetting the browser, try and see if the error has disappeared in the Windows Network Diagnostics tool.
 
 ## 3\. Reset Your IP Address
 
@@ -122,27 +142,7 @@ ipconfig/release
 ipconfig/renew  
 ![resetting and renewing an ip address in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/reseting-and-renewing-an-ip-address-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you finish running the commands, check to see if the error is gone.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off the Proxy Server
 
@@ -154,40 +154,22 @@ ipconfig/renew
 2. In the Run text box, type **inetcpl.cpl**, and then hit the **Enter** key on your keyboard to open Internet Properties.  
 ![run inetcpl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-inetcpl.png)
 3. Select the **Connections** tab and then click on the **LAN settings** button towards the bottom.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the connections tab in internet properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-connections-tab-in-internet-properties.jpg)
 4. In the **Proxy server** section, uncheck the **Use a proxy server for your LAN** checkbox.  
 ![the lan settings page on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lan-settings-page-on-windows.jpg)
 5. Click **OK** to close LAN Settings.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **OK** in Internet Properties to apply the changes and close it.
 
  Check to see if the internet on your computer is working properly again.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Force Update Your Group Policies
 
@@ -203,29 +185,6 @@ ipconfig/renew
 
  Well, don't panic, as we're going to show you how to get rid of that error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-quieting-down-the-sound-a-step-by-step-logic-pro-method/"><u>[New] 2024 Approved Quieting Down the Sound A Step-by-Step Logic Pro Method</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-swapping-gender-representation-in-snapchatfacebook-photos/"><u>[Updated] 2024 Approved Mastering the Art of Swapping Gender Representation in Snapchat/Facebook Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/begin-your-journey-with-any-of-the-8-accessible-gpt-instances-right-now/"><u>Begin Your Journey with Any of the 8 Accessible GPT Instances Right Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-mute-issues-in-screencasts-with-powerpoint/"><u>Correcting Mute Issues in Screencasts with PowerPoint</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cyber-conference-capture-for-2024/"><u>Cyber Conference Capture for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delving-into-windows-mechanism-for-allocated-ram/"><u>Delving Into Windows' Mechanism for Allocated RAM</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/education-discount-eligibility-with-microsoft-how-students-can-save-big/"><u>Education Discount Eligibility with Microsoft: How Students Can Save Big</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/five-proactive-measures-to-counter-network-security-keys-misalignment-in-win11/"><u>Five Proactive Measures to Counter Network Security Keys Misalignment in Win11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-se-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone SE?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msidll-not-found-or-missing-errors/"><u>How to Fix Msi.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-audio-device-missing-on-windows-1011-computers-efficiently/"><u>How To Solve 'Audio Device Missing' On Windows 10/11 Computers Efficiently</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>In 2024, The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/onedrive-opening-woes-on-pc-find-solutions-here/"><u>OneDrive Opening Woes on PC? Find Solutions Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-windowss-uncommon-pink-issues/"><u>Strategies for Fixing WINDOWS's Uncommon Pink Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskbar-transition-in-microsoft-ui-over-38-years/"><u>Taskbar Transition in Microsoft UI Over 38 Years</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-and-bypassing-sound-access-issues-in-audacity-win/"><u>Troubleshooting and Bypassing Sound Access Issues in Audacity (Win)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-themes-undiscovered-so-far/"><u>Unraveling Windows 11 Themes Undiscovered So Far</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-exploring-6-unusual-visual-aspects/"><u>Windows 11: Exploring 6 Unusual Visual Aspects</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -233,3 +192,27 @@ ipconfig/renew
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-brainy-brigade-top-11-quiz-channels/"><u>[New] 2024 Approved Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>[New] 2024 Approved Your Handy Hint Downloading YouTube Videos to Your Apple Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-trailers-showcase/"><u>[New] Premiere Trailers Showcase</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-straightforward-video-recorders-for-win10/"><u>[New] Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-into-the-rhythm-of-social-video-editing-with-music/"><u>[Updated] In 2024, Step Into the Rhythm of Social Video Editing with Music</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-getting-rid-of-the-extra-windows-partition-reserved-for-recovery/"><u>Easy Steps for Getting Rid of the Extra Windows Partition Reserved for Recovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-display-quality-with-windows-11s-auto-hdr/"><u>Elevating Display Quality with Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-audio-to-video-makers-online/"><u>In 2024, Top 5 Audio to Video Makers Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-new-windows-interface-add-folder-to-menu/"><u>Navigating the New Windows Interface - Add Folder to Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-setbacks-when-altering-windows-11-defaults/"><u>Overcoming Common Setbacks When Altering Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-invisible-second-display-in-w11/"><u>Resolving Invisible Second Display in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11s-mac-search-with-ease/"><u>Streamlining Windows 11'S MAC Search with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rejuvenate-stuck-hibernate-mode-on-pcs/"><u>Tips to Rejuvenate Stuck Hibernate Mode on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/topi-6-piu-ottimi-programmi-di-montaggio-video-gratuiti-per-windows-7-2023/"><u>Topi 6 Più Ottimi Programmi Di Montaggio Video Gratuiti per Windows 7 - 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-context-menu-into-a-god-mode-hub/"><u>Transform Context Menu Into a God Mode Hub</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-heartcrashes-in-hearthstone-on-your-windows-pc/"><u>Troubleshooting: How to Fix Heartcrashes in Hearthstone on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-of-windows-updates-with-these-solutions/"><u>Unlock the Potential of Windows Updates with These Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-ai-via-vivetool-instructions/"><u>Unlock Windows AI via ViveTool Instructions</u></a></li>
+</ul></div>
+

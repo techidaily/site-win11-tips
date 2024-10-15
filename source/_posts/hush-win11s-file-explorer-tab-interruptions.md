@@ -1,7 +1,7 @@
 ---
 title: Hush Win11's File Explorer Tab Interruptions
-date: 2024-10-02T20:12:05.407Z
-updated: 2024-10-08T21:31:27.685Z
+date: 2024-10-13T16:32:31.637Z
+updated: 2024-10-14T17:44:29.181Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable File Explorer Tabs In Windows 11
 
  You can disable the File Explorer Tabs by either using the ViVeTool or the ViVeTool GUI version. The latter is much simpler to use because you can search for a feature and activate or deactivate it in one click. But before doing that, download and install both of these tools on your system. Also,[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) for added precaution, in case the tool wrecks something on your Windows 11 computer.
@@ -45,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
@@ -68,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 ![Disable File Explorer Tabs Using the ViVeTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool.jpg)
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 vivetool /disable /id:37634385  
 vivetool /disable /id:36354489
 6. You will see the “**Successfully set feature configuration(s)** ” if the command executes successfully.
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
 
@@ -89,14 +76,22 @@ vivetool /disable /id:36354489
 3. Type**37634385** in the search bar. Select the highlighted feature and click on the**Perform Action** button.  
 ![Disable File Explorer Tabs Using the ViVeTool GUI version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool-gui-version.jpg)
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Any Windows 11 Feature Using ViVeTool
@@ -118,17 +113,14 @@ vivetool /disable /id:36354489
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-standing-out-on-airwaves-podcast-brand-logo-tips/"><u>[New] Standing Out on Airwaves Podcast Brand Logo Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creative-video-ends-top-6-budget-friendly-options/"><u>[Updated] 2024 Approved Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-quick-guide-to-instagrams-magnification-magic/"><u>[Updated] In 2024, The Quick Guide to Instagram's Magnification Magic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-computers-predict-your-future-like-astrology/"><u>Can Computers Predict Your Future Like Astrology?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-code-fixing-windows-11-emails-html-anomalies/"><u>Decoding the Code: Fixing Windows 11 Email's HTML Anomalies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-comprehensive-msi-z370-a-pro-drivers/"><u>Download Enhanced Performance: Comprehensive MSI Z370-A Pro Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-into-text-with-openais-whisper-for-windows/"><u>How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-mastering-the-procedure-of-attaining-facebooks-blue-status-badge/"><u>In 2024, Mastering the Procedure of Attaining Facebook's Blue Status Badge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberating-windows-dialogue-with-freedomgpt-engagement/"><u>Liberating Windows Dialogue: With FreedomGPT Engagement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-invisible-viewership-on-instagram-live-for-2024/"><u>Mastering the Art of Invisible Viewership on Instagram Live for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-split-view-failures-in-win-10/"><u>Tackling Split View Failures in Win 10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-entrepreneurs-guide-to-youtube-earnings-thriving-without-ad-support-for-2024/"><u>The Entrepreneur’s Guide to YouTube Earnings Thriving Without Ad Support for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-thriving-in-the-digital-age-mastering-facebook-interaction/"><u>[New] Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-picks-video-grabbers-on-microsofts-os/"><u>[New] Top Picks Video Grabbers on Microsoft's OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-income-101-from-ideas-to-earnings-in-action/"><u>2024 Approved YouTube Income 101 From Ideas to Earnings in Action</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-speech-to-text-solutions/"><u>In 2024, High-Quality Speech-to-Text Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-with-the-malfunctioning-google-nearby-sharing/"><u>Overcoming Obstacles with the Malfunctioning Google Nearby Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-ending-windows-gpsvc-delays/"><u>Quick Guide: Ending Windows GPSVC Delays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snippet-savvy-crafting-custom-keybinds-for-speed-and-precision-in-win11/"><u>Snippet Savvy: Crafting Custom Keybinds for Speed & Precision in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-runtime-broker-a-key-to-optimized-pc-operations/"><u>Understanding Runtime Broker: A Key to Optimized PC Operations</u></a></li>
 </ul></div>
 

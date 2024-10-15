@@ -1,7 +1,7 @@
 ---
 title: "Unauthorized Access: Swiftly Severing User Ties in Windows 11"
-date: 2024-09-13T07:52:54.534Z
-updated: 2024-09-16T19:42:07.957Z
+date: 2024-10-14T10:56:25.545Z
+updated: 2024-10-15T12:10:54.807Z
 tags:
   - windows10
   - windows11
@@ -85,15 +85,23 @@ To disable a user account using Command Prompt:
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
@@ -111,10 +119,10 @@ To disable a user account using Command Prompt:
 4. Next, locate and select**Local Users and Groups.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select the**Users** folder**.**
@@ -125,6 +133,13 @@ To disable a user account using Command Prompt:
 3. In the**Properties** dialog, select the**Account is disabled** option.
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
@@ -137,16 +152,17 @@ To disable a user account using Command Prompt:
 3. Right-click on the user account you want to disable and select**Edit** .  
 ![run lusrmgr exe file edit account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account.jpg)
 4. Next, open the**Account** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
 
@@ -167,5 +183,22 @@ To disable a user account using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-social-sensation-best-insta-stories-effects-for-2024/"><u>[New] Social Sensation Best Insta Stories Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena-for-2024/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-your-experience-with-key-iphone-x-hacks/"><u>[Updated] Maximize Your Experience with Key iPhone X Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webcam-tech-unveiled-best-recording-practices/"><u>[Updated] WebCam Tech Unveiled Best Recording Practices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-goal-games-capturing-kicks-without-costs/"><u>2024 Approved Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-system-how-to-add-and-protect-your-bios-hyperlink-on-tiktok/"><u>2024 Approved Perfect System How to Add and Protect Your Bio's Hyperlink on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-ppt-media-rendering-velocity/"><u>Boosting PPT Media Rendering Velocity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2370dw-printer-drivers-download-latest-version-now/"><u>Brother HL-L2370DW Printer Drivers: Download Latest Version Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-display-difficulties-simplified-windows-solutions/"><u>Demystifying Display Difficulties: Simplified Windows Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-place-shortcuts-near-power-in-win11/"><u>Efficient Ways: Place Shortcuts Near Power in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-wrong-password-error-in-windows-11/"><u>How to Tackle 'Wrong Password' Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-windows-11-arm-from-iso-a-step-by-step-guide/"><u>Installing Windows 11 ARM From ISO: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-a-cleaner-day-with-w11s-minimalist-start/"><u>Starting a Cleaner Day with W11's Minimalist Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-rare-windows-11-skins-and-themes/"><u>Uncover Rare Windows 11 Skins & Themes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unleash-your-culinary-creativity-essential-strategies-and-tips-from-experts/"><u>Unleash Your Culinary Creativity: Essential Strategies and Tips From Experts</u></a></li>
+</ul></div>
 

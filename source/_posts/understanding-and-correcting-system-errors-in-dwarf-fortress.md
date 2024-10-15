@@ -1,7 +1,7 @@
 ---
 title: Understanding and Correcting System Errors in Dwarf Fortress
-date: 2024-10-01T19:29:29.184Z
-updated: 2024-10-08T16:38:26.137Z
+date: 2024-10-13T11:28:17.464Z
+updated: 2024-10-15T09:44:54.774Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
@@ -50,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
 
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New Game Version, New Game Crashes
@@ -144,18 +144,15 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-tricks-turn-your-images-upside-down-sideways/"><u>[New] IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cyber-celebrity-surge-2024/"><u>[Updated] Cyber Celebrity Surge 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-finalized-choices-best-10-video-editing-tools-for-reels/"><u>[Updated] Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-depth-analysis-av1-versus-vp9-video-encoding-for-2024/"><u>[Updated] In-Depth Analysis AV1 versus VP9 Video Encoding for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-personal-vlogs-that-resonate-deeply-with-viewers/"><u>[Updated] Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-5-monitors-to-boost-your-ps5/"><u>2024 Approved Perfect 5 Monitors to Boost Your PS5</u></a></li>
-<li><a href="https://facebook.techidaily.com/data-for-dollars-tracking-trends-and-targets/"><u>Data for Dollars: Tracking Trends and Targets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-screen-captures-in-windows-snip-tool-vs-printscreen/"><u>Efficient Screen Captures in Windows: Snip Tool Vs. Printscreen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insider-look-at-opened-windows-content/"><u>Insider Look at Opened Windows Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades-for-2024/"><u>Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precise-windows-lockout-after-downtime/"><u>Precise Windows Lockout After Downtime</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-audiospeed-editors-mobile-and-desktop-edition/"><u>Premier Audiospeed Editors Mobile & Desktop Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rescue-lost-co-pilot-in-windows-new-era-11/"><u>Rescue Lost Co-Pilot in Windows' New Era, 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-adventure-companion-unveiling-panasonic-hx-a1-actioncam/"><u>[New] The Adventure Companion Unveiling Panasonic HX-A1 ActionCam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-digital-mastery-top-10-instagram-enhancers/"><u>2024 Approved Digital Mastery Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-frozen-amd-software-on-windows-systems/"><u>Fixing Frozen AMD Software on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-winerror-0x80072746-in-windows-mail/"><u>How to Mend WinError 0X80072746 in Windows Mail</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-dead-by-daylight-error-code-8014-issue-for-a-smooth-gameplay-experience/"><u>How to Overcome the Dead by Daylight Error Code 8014 Issue for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/restoring-erased-social-media-posts-on-facebook/"><u>Restoring Erased Social Media Posts on Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-nonfunctional-astro-a50-microphones/"><u>Step-by-Step Fixes for Nonfunctional Astro A50 Microphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-office-error-code-0x80041015/"><u>Troubleshooting Microsoft Office: Error Code 0X80041015</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-offon-battery-saver-step-by-step-guide/"><u>Turn Off/On Battery Saver: Step-by-Step Guide</u></a></li>
 </ul></div>
 

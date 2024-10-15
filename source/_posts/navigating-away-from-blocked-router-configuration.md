@@ -1,7 +1,7 @@
 ---
 title: Navigating Away From Blocked Router Configuration
-date: 2024-10-02T04:00:36.190Z
-updated: 2024-10-09T02:13:21.916Z
+date: 2024-10-08T10:39:52.779Z
+updated: 2024-10-14T22:41:15.911Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 * Not accessing the router’s login page over a secure HTTP protocol.
 * Temporary glitches with router settings and firmware.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access the Login Page Over HTTPS
 
  By default, your browser uses HTTP (Hypertext Transfer Protocol) to access the login page. However, some routers' login page is only accessible when you use the secure version of HTTP, that is, Hypertext Transfer Protocol Secure(HTTPS). Before you try anything, check if you can access the router’s login page using HTTPS followed by the IP address. To do this:
@@ -57,13 +44,6 @@ https:\\ 192.168.1.1
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
@@ -78,13 +58,6 @@ To find your Default Gateway IP address for the router:
 4. The command will return information related to Windows IP configuration. Here, locate the**Default Gateway** address for the**Ethernet** **adapter** . Note the Default Gateway address.
 5. Next, launch your web browser and type in the Default Gateway address in the address bar. Press Enter to access the router’s login page.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use a Different Web Browser
 
  At times the problem can be due to your web browser. Bad cache or other glitches can prevent the browser from redirecting to your router’s login page.
@@ -98,6 +71,13 @@ To find your Default Gateway IP address for the router:
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
@@ -115,17 +95,33 @@ To find your Default Gateway IP address for the router:
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Invisibility on Any LAN VPNs
@@ -142,10 +138,10 @@ To disable Invisibility on LAN on NordVPN:
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reset Your Router to Its Factory Defaults
@@ -175,24 +171,21 @@ To disable Invisibility on LAN on NordVPN:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevate-your-entertainment-perfecting-the-art-of-using-netflixs-floating-window-feature/"><u>[New] 2024 Approved Elevate Your Entertainment Perfecting the Art of Using Netflix's Floating Window Feature</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-process-for-successful-obs-integration-on-macos/"><u>[New] 2024 Approved Step-by-Step Process for Successful OBS Integration on macOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-sound-on-your-apple-device-top-picks/"><u>[New] Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rediscovering-eliminated-reddit-discussions-efficiently/"><u>2024 Approved Rediscovering Eliminated Reddit Discussions Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-music-apps-for-ios-devices/"><u>Discover the Ultimate List of Free Music Apps for iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x80070570-and-repairing-files-in-windows-11-os/"><u>Eradicating Error 0X80070570 & Repairing Files in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unleash-virtualization-power-win11/"><u>Essential Steps to Unleash Virtualization Power Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-masking-language-indicator-on-win11/"><u>Expert Guide to Masking Language Indicator on Win11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-12-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme 12 5G Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrate-these-3-platforms-into-your-switch-routine/"><u>Integrate These 3 Platforms Into Your Switch Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-phones-as-windows-microphones/"><u>Leveraging Phones as Windows Microphones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/meet-the-system-and-hardware-needs-of-big-sur-os/"><u>Meet the System & Hardware Needs of Big Sur OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/on-premise-self-hosted-gpt-the-windows-path-via-gpt4all/"><u>On-Premise, Self-Hosted GPT: The Windows Path via GPT4All.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-measures-against-wlanextexe-cpu-spikes/"><u>Proactive Measures Against WLANEXT.EXE CPU Spikes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-guide-how-to-transform-your-m4r-ringtones-into-mp3-audio/"><u>Quick Guide: How to Transform Your M4R Ringtones Into MP3 Audio</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-minecraft-game-failures-due-to-faulty-video-card-software-for-windows-users/"><u>Resolve Minecraft Game Failures Due to Faulty Video Card Software for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisit-your-digital-trail-in-windows-11/"><u>Revisit Your Digital Trail in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-efficiency-boost-crafting-uwp-app-shortcuts/"><u>Windows 11 Efficiency Boost: Crafting UWP App Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-harmony-restored-5-solutions-to-glitches/"><u>Windows Harmony Restored: 5 Solutions to Glitches</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decode-insta-success-your-comprehensive-guide-to-understanding-user-insights/"><u>[Updated] 2024 Approved Decode Insta Success Your Comprehensive Guide to Understanding User Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-photographers-guide-top-editing-and-writing-apps/"><u>[Updated] Photographer's Guide Top Editing & Writing Apps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>2024 Approved From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-try-these-20-best-youtube-thumbnail-fonts-in-your-video/"><u>2024 Approved Try These 20 Best YouTube Thumbnail Fonts in Your Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-your-marketing-potential-with-our-50plus-free-youtube-banners/"><u>2024 Approved Unlock Your Marketing Potential with Our 50+ Free YouTube Banners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delineating-differences-cloud-downloads-vs-disk-based-windows-setup/"><u>Delineating Differences: Cloud Downloads vs Disk-Based Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-unresponsive-razer-synapse-in-windows-11/"><u>Guide to Fixing Unresponsive Razer Synapse in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-troubleshoot-malfunctioning-google-nearby-share/"><u>Guidelines to Troubleshoot Malfunctioning Google Nearby Share</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-s23plus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy S23+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-virtual-memory-a-comprehensive-guide-for-win-11/"><u>Managing Virtual Memory: A Comprehensive Guide for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-overcome-not-working-error-on-your-devices/"><u>Swift Steps to Overcome 'Not Working' Error on Your Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-overcoming-windows-store-glitches-the-0x00000000-strategy/"><u>Swiftly Overcoming Windows Store Glitches: The 0X00000000 Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-dissecting-and-organizing-windows-storage/"><u>The Complete Guide to Dissecting and Organizing Windows Storage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hyperx-cloud-alpha-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your HyperX Cloud Alpha Microphone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-a58-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A58 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

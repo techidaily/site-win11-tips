@@ -1,7 +1,7 @@
 ---
 title: Steps to Recover Windows ALT Code Errors (53 Characters)
-date: 2024-10-02T07:24:47.895Z
-updated: 2024-10-09T05:04:39.061Z
+date: 2024-10-13T13:59:51.792Z
+updated: 2024-10-14T16:23:49.179Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn On Mouse Keys
 
  If you need to use ALT codes on Windows but find that they are not working, you might want to enable Mouse Keys when NUM LOCK is ON. This is an easy fix for many ALT code problems.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
  The method involves pressing the**left ALT + left SHIFT + NUM LOCK** keys simultaneously on your keyboard. In the popup menu that appears, click**Yes** and Mouse Keys will be enabled.
 
  Doing this should allow you to use ALT codes again, as it will enable you to type characters by clicking the numeric keypad with the mouse cursor. This is especially useful if your laptop does not have a separate number pad or if you’re using a smaller keyboard without one.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Modify the System Settings
 
@@ -80,10 +80,10 @@ To get started, follow these steps:
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 HKEY_CURRENT_USER\Control Panel\Input Method
@@ -94,13 +94,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Remove the Problematic Application
 
  If you have installed any third-party applications that might be causing problems with the ALT codes, then uninstalling them could also help fix this issue. To do this, follow these steps:
@@ -110,6 +103,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -118,13 +118,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
@@ -140,6 +133,14 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
@@ -163,18 +164,19 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-utilizing-b-roll-to-enrich-narrative-arcs/"><u>[Updated] Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/youtube72024/"><u>「推薦される最強のYouTubeダウンローダー7組！2024年版ランキング完全ガイド」</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-diagnosing-and-rectifying-incorrect-pc-cpu-readings/"><u>Guide to Diagnosing and Rectifying Incorrect PC CPU Readings</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-report-on-djis-inspire-1/"><u>In 2024, Comprehensive Report on DJI's Inspire 1</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>In 2024, Metaverse Mirth Makers Top Tips for Crafting Hilarious Virtual Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-windows-subsystem-for-android-resource-utilization/"><u>Innovating Windows Subsystem for Android Resource Utilization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/lead-the-way-in-ai-text-innovation-openais-custom-gpt-space/"><u>Lead the Way in AI Text Innovation: OpenAI's Custom GPT Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-faults-0x0000004e-demystified/"><u>Mastery of Windows Faults: 0X0000004E Demystified</u></a></li>
-<li><a href="https://facebook.techidaily.com/nine-methods-to-reset-and-secure-fb-password/"><u>Nine Methods to Reset and Secure Fb Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-wins-alert-settings-on-windows-11/"><u>Perfecting Wins Alert Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-error-30005-creating-files-unsuccessful-in-windows/"><u>Solving Error 30005: Creating Files Unsuccessful in Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enabling-hearing-in-twitter-video-links/"><u>[New] 2024 Approved Enabling Hearing in Twitter Video Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-background-computation-load/"><u>Cutting Down Background Computation Load</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-mobile-gamings-dichotomy/"><u>Dive Into Mobile Gaming's Dichotomy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-quest-xi-crash-woes-heres-the-solution/"><u>Dragon Quest XI Crash Woes? Here's the Solution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhanced-performance-officejet-pro-8600-driver-for-windows/"><u>Enhanced Performance: Officejet Pro 8600 Driver for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 8 and iPad?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-insights-on-engaging-top-tier-visual-storytellers/"><u>In 2024, Insights on Engaging Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-troubleshooting-uncovering-and-resolving-error-codes-via-command-prompt/"><u>Mastering PC Troubleshooting: Uncovering & Resolving Error Codes via Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-gaming-potential-tackling-fps-challenges-in-valorant/"><u>Maximize Gaming Potential: Tackling FPS Challenges in Valorant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-forecasting-with-predictive-ai-technology/"><u>Navigating the World of Forecasting with Predictive AI Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-0xc0000005-problem-in-windows/"><u>Strategies to Resolve 0Xc0000005 Problem in Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-7-apps-altering-vocal-soundtracks-for-2024/"><u>Top 7 Apps Altering Vocal Soundtracks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-overcoming-windows-11-error/"><u>Understanding and Overcoming Windows 11 Error</u></a></li>
 </ul></div>
 

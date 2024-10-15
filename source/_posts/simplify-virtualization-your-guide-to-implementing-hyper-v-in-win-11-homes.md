@@ -1,7 +1,7 @@
 ---
 title: "Simplify Virtualization: Your Guide to Implementing Hyper-V in Win 11 Homes"
-date: 2024-09-15T18:04:44.550Z
-updated: 2024-09-16T16:52:37.949Z
+date: 2024-10-11T02:48:07.033Z
+updated: 2024-10-14T18:54:14.941Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 ![hyper v install windows 11 home script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/hyper-v-install-windows-11-home-script.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. In the Notepad file, copy and paste the following script:
 
 `pushd "%~dp0"  
@@ -69,6 +76,13 @@ pause`
  4\. In the file name field, type **hyperv.bat.** The **.bat** extension at the end of the file name is important to execute the script.
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
@@ -98,9 +112,23 @@ pause`
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
@@ -116,13 +144,6 @@ pause`
 
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -131,8 +152,6 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +159,23 @@ pause`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-quintessential-plots-making-movies-great/"><u>[Updated] Quintessential Plots Making Movies Great</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-windows-11-restrictions-for-store-app/"><u>Easing Up Windows 11 Restrictions for Store App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-ideas-to-illustrations-mastering-drawing-in-windows-11/"><u>From Ideas to Illustrations: Mastering Drawing in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-13c-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi 13C is off? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-geforce-gtx-3070-ti-windows-drivers-compatible-with-windows-10-8-and-7/"><u>Official GeForce GTX 3070 Ti Windows Drivers: Compatible with Windows 10, 8 and 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-hardware-stress-tests/"><u>Proactive Hardware Stress Tests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-submenus-with-desktop-environment-in-window-11/"><u>Syncing Submenus with Desktop Environment in Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-counteract-failed-pages-in-windows-store/"><u>Tactics to Counteract Failed Pages in Windows Store</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-gt-10-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix GT 10 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-free-windows-compatible-imaging-software-beyond-the-best-terabyte-image/"><u>Top Free Windows-Compatible Imaging Software: Beyond the Best Terabyte Image</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-gpus-the-ultimate-list-of-leading-graphics-cards/"><u>Top-Ranking GPUs: The Ultimate List of Leading Graphics Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trusting-robot-generated-passwords-think-again-win-11-edition/"><u>Trusting Robot-Generated Passwords? Think Again! (Win 11 Edition)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound/"><u>Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Chrome From Generating New Tabs on Windows
-date: 2024-10-03T03:41:56.280Z
-updated: 2024-10-09T05:53:04.675Z
+date: 2024-10-11T06:04:32.663Z
+updated: 2024-10-14T21:20:12.404Z
 tags:
   - windows10
   - windows11
@@ -46,20 +46,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -72,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
@@ -99,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
  The Chrome browser can also misbehave or act strangely if infected with malware or viruses. If none of the fixes above resolve the problem, your browser could be infected with a [browser hijacker](https://www.makeuseof.com/what-is-browser-hijacking/).
@@ -106,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset and Reinstall Chrome
@@ -120,13 +113,20 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
@@ -141,29 +141,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  If you'd like to open new links in the same tab or stop the browser from opening new tabs automatically, here are a few fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>[New] Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-edge-it-all-out-the-finest-frame-options-for-social-media-photography/"><u>[New] Edge It All Out The Finest Frame Options for Social Media Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>[New] Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>[Updated] In 2024, Effortless FB Stream Setup Using OBS on Laptops, Mac & PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-for-slow-motion-videos-on-gopro-hero-10/"><u>[Updated] Pro Tips for Slow Motion Videos on GoPro Hero 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-pro-6-driver-rollbacks/"><u>Effortless Pro 6 Driver Rollbacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-xc10100bf-from-your-windows/"><u>Eliminating XC10100BF From Your Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-tips-and-tricks-for-professional-green-screen-videos/"><u>Essential Tips and Tricks for Professional Green Screen Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-metaverse-vs-multi-meva-key-differences-explained/"><u>Exploring Metaverse Vs. Multi-Meva Key Differences Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/extending-displayed-apps-on-w11-start-screen/"><u>Extending Displayed Apps on W11 Start Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-hard-drive-read-failure-in-windows/"><u>How to Overcome Hard Drive Read Failure in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-insights-on-gadgets-the-toms-hardware-explanation/"><u>In-Depth Insights on Gadgets - The Tom's Hardware Explanation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/level-up-on-windows-11-the-seven-must-try-strategies-to-boost-your-gameplay/"><u>Level Up on Windows 11: The Seven Must-Try Strategies to Boost Your Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-store-error-code-x80131500/"><u>Mastering Microsoft Store Error Code: X80131500</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-swedish-sounds-a-quick-guide/"><u>Mastering Swedish Sounds: A Quick Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-functionality-of-the-absent-windows-update/"><u>Regain Functionality of the Absent Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-non-transferring-usb-issues-in-windows-os/"><u>Resolving Non-Transferring USB Issues in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-error-40-in-chrome-browser/"><u>Troubleshooting Windows Error 40 in Chrome Browser</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +148,24 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-a-to-z-guide-to-recording-games-using-obs/"><u>[New] 2024 Approved The A-to-Z Guide to Recording Games Using OBS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-visual-narratives-instagram-carousel/"><u>[New] 2024 Approved Visual Narratives Instagram Carousel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-an-honest-review-of-recordcast/"><u>[New] In 2024, An Honest Review of RecordCast</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cumulative-community-capture/"><u>2024 Approved Cumulative Community Capture</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-11-sfc-scannow/"><u>如何在 Windows 11上使用 SFC / Scannow 快速修复 - 全程解释图文对比</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/aacitunes/"><u>AAC形式でiTunesへ曲転送するための対処法</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-movie-watchlists-for-efficient-screen-time/"><u>In 2024, Ultimate Movie Watchlists for Efficient Screen Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-best-software-dependency-manager-on-windows/"><u>Navigating the Best Software Dependency Manager on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-routing-defective-disk-segmentation-procedure/"><u>Re-Routing Defective Disk Segmentation Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-your-user-directory-label-on-win11-os/"><u>Reimagine Your User Directory Label on Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-split-view-issues-on-microsoft-os/"><u>Remedying Split View Issues on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-mmc-snap-creation-issues/"><u>Steps for Correcting MMC Snap Creation Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-elevated-tiworkerexe-usage/"><u>Strategies to Combat Elevated TiWorker.exe Usage</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/tecniche-di-ottimizzazione-perfette-per-i-file-video-mp4-nel-2023/"><u>Tecniche Di Ottimizzazione Perfette per I File Video MP4 Nel 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-9-drone-video-editing-software-for-different-level-for-2024/"><u>Top 9 Drone Video Editing Software for Different Level for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/websites-want-to-hide-seven-solutions-for-windows-users-to-find-them/"><u>Websites Want to Hide? Seven Solutions for Windows Users to Find Them</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Preventing Duplicated Name Errors in Local Network Setup
-date: 2024-10-02T05:43:10.665Z
-updated: 2024-10-08T17:18:58.737Z
+date: 2024-10-09T06:13:46.850Z
+updated: 2024-10-15T11:13:15.720Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  If the network server has ample space, you can move on to trying the methods below to solve the problem on your local device.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Enable File and Printer Sharing
 
 [You should always keep your firewall enabled](https://www.makeuseof.com/tag/5-reasons-use-firewall/) , but it can sometimes interfere with file and printer sharing. This can lead to seeing the Local device name is already in use error. Luckily you can enable file and printer sharing easily in the firewall settings.
@@ -57,21 +64,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ![the remap network drive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-network-drive.jpg)
 3. Now remap the drive by typing:**net use D: \\\\server\\share /user:username password** . Replace the drive letter and user and username password with the relevant details.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this doesn't help, you may need to try reassigning the drive letters manually. The end result is similar, but sometimes remapping won't work when manually reassigning the drive path will work.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Re-assign Drive Letters
 
@@ -84,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 4. Click**Assign the following drive letter** and use the drop-down menu to choose a new letter for the partition or drive.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the drive letter you require is not available, it may already be being used on another drive or partition. It could also be associated with a removable drive that is not currently connected. If the A and B drive letters are available, and they often aren't, it is best not to use them. These letters are traditionally reserved for floppy drives and for use with old OS versions.
 
  Learn more about[why drive letters usually start with C on Windows](https://www.makeuseof.com/why-local-drives-windows-start-from-c/) .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Reinitialize the Computer Browser
 
@@ -109,6 +95,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 2. At the Command Prompt cursor, type:**net stop "Computer Browser"** and then press**Enter** .  
 ![reinitialize the browser on command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinitialize-browser.jpg)
 3. When the command finishes executing, type:**net start "Computer Browser"** and press**Enter** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. You can now close the Registry Editor and check to see if the error persists.
 
  Reinitializing the browser is different from simply closing and reopening the browser window. It is a much more forceful solution to clearing any browser settings that may be in conflict.
@@ -127,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 5. Close the Registry Editor and restart your computer.
 
  The MountPoint registry key will be regenerated after deleting and restarting. You can then check to see if this fixed the Local Device name is already in use error.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Local Device Name Errors on Windows
 
@@ -147,22 +148,19 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-recording-options-virtual-office-meetings-desktop/"><u>[New] Navigating Recording Options Virtual Office Meetings (Desktop)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-precision-screening-advanced-tips-for-hp-laptop-recording-for-2024/"><u>[New] Precision Screening Advanced Tips for HP Laptop Recording for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-novices-companion-to-av1-technology/"><u>[Updated] In 2024, Novice’s Companion to AV1 Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-iphoneipad-playtime-with-top-video-game-apps/"><u>Enhance iPhone/iPad Playtime with Top Video Game Apps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-fixing-the-problematic-nvidia-geforce-experience-error-code-0x0003/"><u>Expert Advice on Fixing the Problematic NVIDIA Geforce Experience Error Code 0X0003</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-causes-and-solutions-for-a-non-responsive-discord-overlay/"><u>Identifying Causes and Solutions for a Non-Responsive Discord Overlay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-low-resource-browsers-for-windows-macos-chromeos-users/"><u>Identifying Low Resource Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/laptop-maintenance-tips-how-to-replace-a-missing-or-faulty-keystroke/"><u>Laptop Maintenance Tips: How to Replace a Missing or Faulty Keystroke</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-x-solutions-for-windows-mail-mistakes/"><u>Mastering Error X: Solutions for Windows Mail Mistakes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-installation-hurdles-in-windows-11/"><u>Overcoming Steam Installation Hurdles in Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/proven-steps-to-enhance-your-facetime-call-experience-for-2024/"><u>Proven Steps to Enhance Your FaceTime Call Experience for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/razer-portal-for-gamers-a-comprehensive-seo-review-on-wi-fi-connectivity/"><u>Razer Portal for Gamers - A Comprehensive SEO Review on Wi-Fi Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-to-resolve-screen-size-settings-issues-on-pcs/"><u>Remedies to Resolve Screen Size Settings Issues on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-accessible-nvidia-display-settings/"><u>Restoring Accessible Nvidia Display Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-permanent-delete-on-windows-pcs-with-the-power-of-your-desktop-bin-11/"><u>Streamlining Permanent Delete on Windows PCs with the Power of Your Desktop Bin (11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-intersection-of-ai-and-windows-11-user-experience/"><u>The Intersection of AI and Windows 11 User Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-8-camera-lineup-to-elevate-streaming-success/"><u>Ultimate 8 Camera Lineup to Elevate Streaming Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-approach-to-conquering-igtv/"><u>[New] 2024 Approved Step-By-Step Approach to Conquering IGTV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-conquer-the-digital-landscape-10-steps-towards-dominating-smm-for-2024/"><u>[New] Conquer the Digital Landscape 10 Steps Towards Dominating SMM for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>[New] Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-for-harvesting-instagram-highlights/"><u>[Updated] 2024 Approved Essential Tips for Harvesting Instagram Highlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/high-speed-hack-quick-windows-methods-for-checking-router-speed/"><u>High-Speed Hack: Quick Windows Methods for Checking Router Speed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-reno-8t-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Reno 8T 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oneplus-12r-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from OnePlus 12R to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-screenplay-excellence-genre-based-achievement-showcase/"><u>In 2024, Screenplay Excellence Genre-Based Achievement Showcase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-the-value-of-different-windows-n-models/"><u>Investigating the Value of Different Windows N Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-cpu-cost-of-ntoskrnlexe-tasks/"><u>Minimizing CPU Cost of Ntoskrnl.exe Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-wow-offline-pc-lol-solutions/"><u>Overcoming WoW Offline: PC LoL Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-windows-11s-elevation-obstacle-error-code-740/"><u>The Ultimate Fix for Windows 11’S Elevation Obstacle Error Code 740</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-tutorial-on-reverting-app-settings-in-windows/"><u>The Ultimate Tutorial on Reverting App Settings in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Taming the Beast: Conquering Crashes in Windows DF"
-date: 2024-10-03T06:54:00.502Z
-updated: 2024-10-08T20:10:48.728Z
+date: 2024-10-11T19:31:41.776Z
+updated: 2024-10-14T17:20:45.998Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
@@ -61,22 +61,21 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
@@ -96,15 +95,22 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
@@ -144,22 +150,22 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-discover-the-lesser-known-page-picks-for-memelings/"><u>[New] Discover the Lesser-Known Page Picks for Memelings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-by-step-screen-shotting-for-xbox-enthusiasts/"><u>[Updated] In 2024, Step-by-Step Screen Shotting for Xbox Enthusiasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[Updated] The Role of Creative Commons in YouTube Content Sharing</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-a2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi A2 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-disk-read-problems-in-windows/"><u>Eliminating Disk Read Problems in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-unhandled-exception-a-step-by-step-process/"><u>Fixing Windows 'Unhandled Exception': A Step-by-Step Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-rectify-windows-bluetooth-outputs-music-only/"><u>Guidelines to Rectify Windows Bluetooth Outputs - Music Only</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-p55-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel P55</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-pixel-gatherings-unique-ringtone-repository-for-2024/"><u>Ideal Pixel Gatherings Unique Ringtone Repository for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-comprehensive-laptop-screenrec-users-handbook/"><u>In 2024, The Comprehensive Laptop ScreenRec User's Handbook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-era-of-advertising-embracing-the-metaverse/"><u>In 2024, The New Era of Advertising Embracing the Metaverse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-text-environment-a-windows-11-notepad-guide/"><u>Mastering Your Text Environment: A Windows 11 Notepad Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-the-menu-strategies-against-freezing-windows/"><u>Reactivating the Menu: Strategies Against Freezing Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sleep-mode-stuck-keyboard-mouse-fix-for-win1011/"><u>Sleep Mode Stuck: Keyboard, Mouse Fix for Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-a-nonresponsive-discord-overlay-window-on-windows/"><u>Solutions for a Nonresponsive Discord Overlay Window on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-trigger-camera-notification-in-win11-os/"><u>Techniques to Trigger Camera Notification in Win11 OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726029405291-windows-11/"><u>Windows 11におけるボイスレコーダーの録音トラブル:修正手順詳細</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-behind-the-scenes-of-effective-online-streaming/"><u>[New] Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-x-sound-engineer-edition-pc/"><u>[New] In 2024, X-Sound Engineer Edition - PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-uncovering-secrets-in-instagram-story-watchers-for-2024/"><u>[New] Uncovering Secrets in Instagram Story Watchers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[Updated] Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-sow-and-reap-rivalries-farming-games-to-remember/"><u>2024 Approved Sow & Reap Rivalries Farming Games to Remember</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/abruptly-quell-windows-11-interruptions/"><u>Abruptly Quell Windows 11 Interruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-restricted-world-of-windows-11/"><u>Delving Into the Restricted World of Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-htc-u23-by-drfone-android/"><u>How To Fix OEM Unlock Missing on HTC U23?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-window-11-with-these-6-desirable-android-apps/"><u>Maximize Window 11 With These 6 Desirable Android Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-command-prompt-landscape-for-admin-tasks/"><u>Navigating the Command Prompt Landscape for Admin Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-sensitive-info-from-custom-gpts-strategies-for-enhanced-security/"><u>Safeguarding Sensitive Info From Custom GPTs: Strategies for Enhanced Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-11-sign-in-errors/"><u>Strategies for Bypassing Windows 11 Sign-In Errors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-windows-upgrade-notifications/"><u>Turn Off Windows Upgrade Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vcplusplus-redistribution-purpose-explored/"><u>VC++ Redistribution Purpose Explored</u></a></li>
 </ul></div>
 

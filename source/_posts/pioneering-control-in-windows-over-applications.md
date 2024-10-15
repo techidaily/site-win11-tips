@@ -1,7 +1,7 @@
 ---
 title: Pioneering Control in Windows over Applications
-date: 2024-10-05T02:36:29.559Z
-updated: 2024-10-09T06:54:50.489Z
+date: 2024-10-09T13:58:52.828Z
+updated: 2024-10-15T14:51:00.353Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  The tool is part of Windows Security, the in-built Windows antivirus program. It offers three distinct sections that work in tandem to protect you from malicious apps and websites: Smart App Control, Reputation-based protection, and Exploit protection—each with a different but critical part to play. To enable and get the most out of the App and browser control, then, you will need to tweak the settings of individual sections. So let's cover all of them one by one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Smart App Control
 
 [Smart App Control](https://www.makeuseof.com/windows-11-smart-app-control-explain/) protects you from arbitrary security breaches by blocking out all untrustworthy or malicious apps. This is a vital function, as third-party malicious apps often show you a host of dallying ads, make your device excessively slow, and come with additional baggage that can make your Windows experience overall subpar.
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
 ![smart app control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/smart-app-control.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moreover, if the Smart App Control feature is turned off, you must do a clean Windows reinstall to turn it on again.
 
 ## 2\. Reputation-Based Protection
@@ -62,25 +82,19 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Check Apps and Files
@@ -90,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Phishing Protection
 
@@ -115,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
  Not all apps are created equal. While some programs run well and do what they're designed to do efficiently, others don't deserve to see the light of day after the testing cycle.
 
  Turning on this filter allows you to block out all the lower-tier apps that won't work as productively as required, or perhaps even your app.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### SmartScreen for Microsoft Store apps
 
@@ -156,18 +156,20 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>[Updated] Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-folder-size-evaluation-using-powershell-commands/"><u>Demystifying Folder Size Evaluation Using PowerShell Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-alternatives-to-cortana-in-windows-10/"><u>Exploring Alternatives to Cortana in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>In 2024, Simplified Access How to Dive Into YouTube Comment Threads</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/methods-for-subtle-volume-reduction-in-fl-studio/"><u>Methods for Subtle Volume Reduction in FL Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-best-free-srt-translator-tools-expert-insight-for-2024/"><u>Navigating the Best Free SRT Translator Tools – Expert Insight for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-hot-40i-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Hot 40i Phone? Unlock It Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-fitness-routine-with-airpods-pro-3-the-latest-feature-to-track-heart-rates-directly-in-your-ears-according-to-zdnet/"><u>Revolutionize Your Fitness Routine with AirPods Pro 3 – The Latest Feature to Track Heart Rates Directly in Your Ears, According to ZDNET</u></a></li>
-<li><a href="https://discover-great.techidaily.com/secrets-revealed-downloading-and-listening-to-free-songs-offline-with-itunes/"><u>Secrets Revealed: Downloading and Listening to Free Songs Offline with iTunes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-system-5-must-have-pc-tools/"><u>Streamline Your System: 5 Must-Have PC Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-concealreveal-windows-security-zones/"><u>Tactics to Conceal/Reveal Windows Security Zones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undo-customization-reverting-win11-user-permissions/"><u>Undo Customization: Reverting Win11 User Permissions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-chromeos-direct-screens-capture-tool-for-2024/"><u>[New] ChromeOS Direct Screens Capture Tool for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pros-and-cons-of-syma-x8c/"><u>[New] Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-free-online-meeting-software-roundup/"><u>[New] The Ultimate List Free Online Meeting Software Roundup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transitioning-smoothly-the-technology-enhancers-handbook/"><u>[New] Transitioning Smoothly The Technology Enhancer's Handbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ranking-the-best-non-sportful-activities-at-first-row/"><u>2024 Approved Ranking the Best Non-Sportful Activities at First Row</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-xbox-experience-through-dual-display-setup/"><u>Boosting Xbox Experience Through Dual Display Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-steam-goals-a-complete-walkthrough/"><u>Clearing Steam Goals: A Complete Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/from-zero-to-twitter-an-instagram-guide-for-2024/"><u>From Zero to Twitter An Instagram Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-to-combat-windows-1011-error-740/"><u>Swift Strategies to Combat Windows 10/11 Error 740</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-windows-read-only-constraints/"><u>Taking Control of Windows Read-Only Constraints</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-shake-it-off-8-excellent-free-video-stabilizers-to-try-this-year/"><u>Updated 2024 Approved Shake It Off 8 Excellent Free Video Stabilizers to Try This Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-sid-exploration-a-comprehensible-guidebook/"><u>Windows 11 SID Exploration: A Comprehensible Guidebook</u></a></li>
 </ul></div>
 

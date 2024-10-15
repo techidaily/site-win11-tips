@@ -1,7 +1,7 @@
 ---
 title: Unveil Where Windows Preserves Photos
-date: 2024-10-03T18:25:58.345Z
-updated: 2024-10-08T18:17:14.035Z
+date: 2024-10-07T23:02:38.450Z
+updated: 2024-10-14T21:31:48.446Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 * [Can You Change Where Screenshots Are Saved on Windows?](#can-you-change-where-screenshots-are-saved-on-windows)
 * [What to Do if You Can't Find Your Screenshots](#what-to-do-if-you-can-39-t-find-your-screenshots)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Screenshots taken using the Prt Sc key are saved to the clipboard and must be manually saved to your drive using an image editor.
@@ -47,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows Key + Prt Sc
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Snipping Tool (Windows Key + Shift + S)
 
  If you're [using the Snipping Tool instead of Prt Sc](https://www.makeuseof.com/snipping-tool-vs-printscreen-windows/), you will find the screenshot in the **Pictures > Screenshots** folder. You'll also be able to find it on the clipboard.
@@ -82,26 +75,26 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Xbox Game Bar (Windows Key + G)
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
 
@@ -123,13 +116,20 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Change Where Screenshots Are Saved on Windows?
@@ -148,24 +148,6 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-complete-kinetic-review-2023/"><u>[New] 2024 Approved Complete Kinetic Review 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-find-your-photo-oasis-a-guide-to-pexels/"><u>[New] In 2024, Find Your Photo Oasis A Guide to Pexels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snap-into-fun-step-by-step-guide-for-adding-gifs-in-conversations-for-2024/"><u>[New] Snap Into Fun Step-by-Step Guide for Adding Gifs in Conversations for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro-for-2024/"><u>[Updated] A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decades-best-car-surveillance-camera-list/"><u>[Updated] In 2024, Decade's Best Car Surveillance Camera List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-second-count-in-20mb-video-files/"><u>Decoding Second Count in 20MB Video Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-to-windows-11-safe-mode-via-easy-methods/"><u>Fast Track to Windows 11 Safe Mode via Easy Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-your-game-running-fixes-for-roblox-on-windows-pcs/"><u>Keeping Your Game Running: Fixes for Roblox on Windows PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fixes-for-persistent-wireless-adapter-or-ap-error-signals/"><u>Master the Fixes for Persistent Wireless Adapter or AP Error Signals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-auto-gpt-the-ultimate-guide-to-install-and-configure-it-on-ubuntu/"><u>Mastering Auto-GPT: The Ultimate Guide to Install and Configure It on Ubuntu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-activation-error-0x8007251d-a-step-by-step-guide/"><u>Resolving Windows Activation Error 0X8007251D: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-pcs-safety-audit-with-wins-11-tactics/"><u>Streamline Your PC's Safety Audit with Wins 11 Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-secrets-automating-selective-file-shifts/"><u>Windows 11 Secrets: Automating Selective File Shifts</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +155,21 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-inspiration-in-frames-top-20-creative-instagrams/"><u>[New] Inspiration in Frames Top 20 Creative Instagrams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-top-5-subaquatic-filter-choices/"><u>2024 Approved GoPro's Top 5 Subaquatic Filter Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bavarder-setup-made-simple-for-linux-enthusiasts/"><u>Bavarder Setup Made Simple for Linux Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-choosing-the-ultimate-8-windows-video-editing-tools/"><u>Cut Down to Size: Choosing the Ultimate 8 Windows Video Editing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-60x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo 60x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-blueprint-for-flawless-srt-construction/"><u>In 2024, The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/novice-cinematographers-initial-work-analysis-and-replacements/"><u>Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-windows-scanner-errors/"><u>Overcoming Common Windows Scanner Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-files-in-winrar-using-6-checksum-adjustments/"><u>Realigning Files in WinRAR Using 6 Checksum Adjustments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-11-search-steps-for-successful-reinstatement/"><u>Reviving Windows 11 Search: Steps for Successful Reinstatement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-unfreeze-spotify-on-windows-11-devices/"><u>Steps to Unfreeze Spotify on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-system-check-finding-gpu-model-in-win11-os/"><u>Swift System Check: Finding GPU Model in Win11 OS</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Right Way to Linux: Exclude WSL"
-date: 2024-10-03T21:35:30.848Z
-updated: 2024-10-09T05:53:49.414Z
+date: 2024-10-09T08:59:18.995Z
+updated: 2024-10-15T10:55:45.122Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
  WSL was mainly designed with web developers in mind. Many developers work on Linux, but they need to test their websites on Windows to make sure they look right. WSL lets them do this without needing to switch back and forth between operating systems. It also provides access to a full version of Bash (which is the default shell for many Linux distros), as well as its underlying toolset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Advantages of WSL?
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 * It's easy to install: If installing WSL wasn't already simple enough, Microsoft has made it even easier by providing an installer that guides users through each step needed before installing WSL on their computers--and even includes troubleshooting tips if something goes wrong during the installation process!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disadvantages of WSL
@@ -71,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 
  Your[system PATHs are also completely separate](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) when using WSL. So if you install a program like Node just on the Windows side, none of the commands will work in WSL unless you separately install Node on Linux.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Alternatives to WSL?
 
 ![Git bash move to destination directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/git-bash-move-to-directory.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're an experienced Linux user unfamiliar with the Windows command line, there are other options for running Linux/Bash on your Windows machine.
 
@@ -89,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 * **Linux in a VM:** There are many virtualization programs out there. You could install the[VMware Workstation Player](https://www.vmware.com/uk/products/workstation-player.html) free edition ($0) or[VirtualBox](https://www.virtualbox.org/) ($0) on your PC then download an ISO image file containing Ubuntu 18 LTS (or whatever flavor appeals most).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WSL Is a Nice Feature... but It Isn’t Essential
@@ -116,18 +122,16 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>[New] Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] 2024 Approved Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficient-way-to-place-multiple-markers-on-google-maps-learn-how/"><u>Efficient Way to Place Multiple Markers on Google Maps – Learn How</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ensuring-clear-communication-solve-persistent-audio-issues-on-discord-a-comprehensive-guide/"><u>Ensuring Clear Communication: Solve Persistent Audio Issues on Discord - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-insight-efficiently-identify-hdd-vs-ssd-type-on-windows/"><u>Expert Insight: Efficiently Identify HDD vs SSD Type on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo V30 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/losungsansatze-fur-das-problem-mit-der-hevc-abspielfahigkeit-auf-ihrem-pc-tipps-zur-fehlerbehebung/"><u>Lösungsansätze Für Das Problem Mit Der HEVC-Abspielfähigkeit Auf Ihrem PC - Tipps Zur Fehlerbehebung</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-hurdles-restoring-access-to-notepad/"><u>Navigating Through Windows' Hurdles: Restoring Access to Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-your-windows-11-control-panel/"><u>Overhauling Your Windows 11 Control Panel</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-guide-converting-mkv-files-into-avchd-format-in-minutes/"><u>Quick & Simple Guide: Converting MKV Files Into AVCHD Format in Minutes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/unable-to-start-the-bluetooth-stack-service-solved/"><u>Unable to Start the Bluetooth Stack Service [Solved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-arm-installation-iso-file-journey/"><u>Windows 11 ARM Installation: ISO File Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-cutting-edge-design-a-look-at-the-newest-monitor-in-town-hp-envy-27/"><u>[New] In 2024, Cutting Edge Design - A Look at the Newest Monitor in Town, HP Envy 27</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-wolcen-lords-of-mayhem-crashes-pc/"><u>[Solved] Wolcen: Lords of Mayhem Crashes PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement-for-2024/"><u>[Updated] From Sideways to Symmetry Mastering the Art of Rotating Visual Content for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-logitech-g533-microphone-malfunctions-step-by-step-resolution/"><u>Effective Fixes for Logitech G533 Microphone Malfunctions: Step-by-Step Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-elimination-of-superfluous-software-on-win11/"><u>Effortless Elimination of Superfluous Software on Win11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-stream-high-efficiency-video-coding-hevcav1-content-with-your-plex-setup/"><u>How to Stream High-Efficiency Video Coding (HEVC/AV1) Content with Your Plex Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-tactics-to-remove-tpm-on-modern-windows/"><u>Innovative Tactics to Remove TPM on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighter-tech-deeper-connections-in-teams/"><u>Lighter Tech, Deeper Connections in Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-blending-apple-maps-into-your-windows-setup/"><u>Seamlessly Blending Apple Maps Into Your Windows Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-dichotomy-of-triller-and-tiktok-a-deep-dive-analysis/"><u>The Dichotomy of Triller & TikTok A Deep-Dive Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-artificial-intelligence-determine-the-fate-of-apples-next-phenomenon-the-iphone-16-explored-at-zdnet/"><u>Will Artificial Intelligence Determine the Fate of Apple's Next Phenomenon, the iPhone 16? | Explored at ZDNET</u></a></li>
 </ul></div>
 

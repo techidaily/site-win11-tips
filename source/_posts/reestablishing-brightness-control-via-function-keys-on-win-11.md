@@ -1,7 +1,7 @@
 ---
 title: Reestablishing Brightness Control via Function Keys on Win 11
-date: 2024-10-08T03:41:10.486Z
-updated: 2024-10-08T18:45:52.468Z
+date: 2024-10-12T14:32:35.295Z
+updated: 2024-10-15T06:10:57.090Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -48,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `msdt.exe -id DeviceDiagnostic`
 
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update the Keyboard Driver
 
  An outdated or corrupt driver could also be malfunctioning the brightness function key. In such a case, you can try to update your keyboard drivers and see if it solves the issue.
@@ -84,21 +98,7 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -124,13 +124,6 @@ To update the keyboard driver, follow these steps:
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now check if your keyboard is working properly.
 
 ## 8\. Scan for Malicious Programs
@@ -144,10 +137,10 @@ Now check if your keyboard is working properly.
  This should help you fix the issue of your keyboard not functioning properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Switch to a Different Keyboard
@@ -155,6 +148,13 @@ Now check if your keyboard is working properly.
  Sometimes the problem is not others but the keyboard itself. It could have defective keys or some other hardware issue preventing it from functioning correctly; in that case, try using your device on another computer or laptop to be sure that the problem is not the operating system or software.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Use of the Function Key Again on Windows
 
@@ -175,15 +175,20 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[New] 2024 Approved How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dial-back-to-digital-delight-playing-vintage-pc-games/"><u>Dial Back to Digital Delight: Playing Vintage PC Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diving-deep-into-bsod-memory-information/"><u>Diving Deep Into BSOD Memory Information</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-creators-uniting-for-marvels-digital-future/"><u>In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4-mot3/"><u>MP4への変換: MOT制作者が気になる3つの無料ツール</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-steams-unavailability-issue-with-game-server-links-in-windows/"><u>Rectifying Steam's Unavailability Issue with Game Server Links in Windows</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-f54-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy F54 5G won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-windows-defender-error-0x80004004/"><u>Steps to Fix Windows Defender Error 0X80004004</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-data-merge-tactics-for-windows-users/"><u>Streamlining Data: Merge Tactics for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-substitutes-for-video-frame-enhancement-exploring-svp-alternatives/"><u>Top Substitutes for Video Frame Enhancement: Exploring SVP Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-captivating-online-media-summaries/"><u>[New] 2024 Approved Building Captivating Online Media Summaries</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-comprehensive-introduction-to-streamlabs-obs/"><u>2024 Approved A Comprehensive Introduction to Streamlabs OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-success-top-ideas-for-memorable-snaps/"><u>2024 Approved Snapchat Success Top Ideas for Memorable Snaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-advice-for-overcoming-iphone-images-not-uploading-problem/"><u>Comprehensive Advice for Overcoming iPhone Images Not Uploading Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-user-interface-affixing-this-pc-symbols/"><u>Enhance User Interface: Affixing 'This PC' Symbols</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-and-reels-the-new-era-of-social-media-showdown-with-tiktok/"><u>Facebook and Reels: The New Era of Social Media Showdown with TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flawless-audio-and-visual-recording-using-the-modern-windows-11-snipping-tool-max-156/"><u>Flawless Audio & Visual Recording Using the Modern Windows 11 Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-application-couldnt-start-error-xc000003e-in-win11/"><u>How to Unblock The Application Couldn't Start: Error Xc000003e in Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-a70-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel A70 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-virtual-memory-a-step-by-step-for-windows-11-users/"><u>Leveraging Virtual Memory: A Step-by-Step for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-advanced-techniques-for-efficient-qr-code-scanning-in-windows-systems/"><u>Navigating Advanced Techniques for Efficient QR Code Scanning in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-asus-pce-ac56-driver-update-and-repair-on-windows-1187-now-fixed/"><u>Step-by-Step ASUS PCE-AC56 Driver Update and Repair on Windows 11/8/7: Now Fixed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tips-for-endlessly-playing-facebook-videos-for-2024/"><u>Tips for Endlessly Playing Facebook Videos for 2024</u></a></li>
 </ul></div>
 

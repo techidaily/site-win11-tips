@@ -1,7 +1,7 @@
 ---
 title: Initiating Driver Verifier Tool in Win11
-date: 2024-10-03T05:51:15.383Z
-updated: 2024-10-09T05:43:45.339Z
+date: 2024-10-08T14:41:02.547Z
+updated: 2024-10-14T22:23:46.336Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
 
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
@@ -58,10 +51,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 5. Now click**OK** to launch Driver Verifier Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. When UAC prompts, click**Yes** to grant administrative rights.
@@ -74,19 +67,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. In Windows File Explorer, go to the address bar.
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
@@ -102,6 +82,19 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
  Once you have followed the above instructions, double-click the shortcut on your desktop to open Driver Verifier Manager.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Opening the Driver Verifier Manager With a Command Prompt Command
 
  In addition, if you prefer using command line methods, you can use Command Prompt to run the Driver Verifier Manager tool. Here's how you can do it:
@@ -112,13 +105,20 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting the Driver Verifier Manager Open, the Easy Way
 
@@ -139,20 +139,14 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-tips-for-reducing-unsteady-shots/"><u>[New] Tips for Reducing Unsteady Shots</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unlock-the-potential-of-audience-feedback-on-youtube/"><u>[New] Unlock the Potential of Audience Feedback on YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-seo-101-boost-your-videos-visibility/"><u>[Updated] 2024 Approved YouTube SEO 101 Boost Your Video's Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-items-in-windows-explorer-navigation/"><u>Fixing Missing Items in Windows Explorer Navigation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-elitebook-x360-gen9-laptop-free-download-of-latest-device-drivers/"><u>HP EliteBook X360 Gen9 Laptop - Free Download of Latest Device Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-outlook-preview-in-windows-11-a-step-by-step-guide/"><u>Launching Outlook Preview in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterbatch-execution-automation-via-task-scheduler/"><u>Masterbatch Execution: Automation via Task Scheduler</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-camon-20-premier-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Camon 20 Premier 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-failures-in-windows-systems/"><u>Resolving GeForce Experience Failures in Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-unveils-revolutionary-galaxy-z-flip-6-the-next-generation-of-foldable-technology/"><u>Samsung Unveils Revolutionary Galaxy Z Flip 6: The Next Generation of Foldable Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-blue-screen-on-hybrid-os-5-ways-to-correct-bsos-errors/"><u>Stop Blue Screen on Hybrid OS: 5 Ways to Correct BSOS Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-next-leap-in-machine-learning-decoding-googles-gemini-endeavor/"><u>The Next Leap in Machine Learning: Decoding Google's Gemini Endeavor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722136856964-voice-activated-chatbot-experience-with-voicegpt-on-android-get-started-now/"><u>Voice-Activated Chatbot Experience with VoiceGPT on Android - Get Started Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-performance-boost-with-strategic-feature-deactivation/"><u>Windows 11 Performance Boost with Strategic Feature Deactivation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-avoid-boredom-learn-to-shuffle-youtube-lists/"><u>[Updated] 2024 Approved Avoid Boredom Learn to Shuffle YouTube Lists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-visualizing-the-most-influential-23-social-trends/"><u>[Updated] Visualizing the Most Influential '23 Social Trends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>2024 Approved Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-the-steady-freeze-top-9-fixes-for-windows-update-stall/"><u>Decode the Steady Freeze: Top 9 Fixes for Windows Update Stall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-troubleshoot-cant-get-mail-on-windows-11-mail/"><u>Essential Tips to Troubleshoot Can't Get Mail on Windows 11 Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-driver-cant-load-on-this-device-on-windows-11/"><u>How to Fix “A Driver Can’t Load on This Device” On Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/quickcastpro-a-step-by-step-guide-for-flawless-podcast-streaming/"><u>QuickCastPro A Step-by-Step Guide for Flawless Podcast Streaming</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/resident-evil-village-troubleshooting-guide-for-overcoming-black-screen-glitches-on-pc/"><u>Resident Evil Village: Troubleshooting Guide for Overcoming Black Screen Glitches on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essence-of-ai-pcs-and-their-distinct-features/"><u>The Essence of AI PCs and Their Distinct Features</u></a></li>
 </ul></div>
 

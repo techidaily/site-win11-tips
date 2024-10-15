@@ -1,7 +1,7 @@
 ---
 title: Effortless Jotting Down Made Simple in Win11
-date: 2024-10-02T01:21:56.475Z
-updated: 2024-10-09T04:01:56.032Z
+date: 2024-10-12T21:50:57.502Z
+updated: 2024-10-15T08:45:38.852Z
 tags:
   - windows10
   - windows11
@@ -49,54 +49,47 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
 ![Windows 11 Colored Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While there are many great [sticky note apps for Windows](https://www.makeuseof.com/tag/post-screen-x-sticky-note-apps-windows/), one of the best is offered directly by the operating system. Windows Sticky Notes is a note-taking app to jot down quick thoughts and ideas.
 
  The app offers a neat and colorful way to take notes. You can hit the three dots on the top banner of a note to change its color and access your notes list. Windows Sticky Notes is one of the most flexible ways to take notes. You can have multiple notes open at once—hit **Ctrl + N** to add a new note. You can also easily resize notes and drag them anywhere on your desktop by clicking and dragging.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Take Notes Online With Memo Notepad
 
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
  The text interface features key formatting tools, including bold, underlining, and italics. In the "style" tab, you can change the font style and increase the overall text size. The app’s cloud-based technology offers syncing to multiple devices, so you write notes wherever you are.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use Windows Clipboard to Save Snippets of Text
 
 ![Windows clipboard history display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-clipboard-history-display.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you’re multitasking or doing online research, you’ll often come across pieces of information you need to remember. The good news is, using the Windows Clipboard feature, you no longer have to rely on writing things on the back of your hand.
@@ -105,28 +98,18 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
  You can access the clipboard at any point by using the shortcut **Ctrl + V**. For the most important pieces of information, you can pin notes by hitting the small pin icon. Now, you no longer have to remember bits of information while browsing online.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Take Notes Easily on Windows 11
 
  Whether you want to remind yourself of small things or take long-from notes, Windows offers many tools to get you started with note-taking. Using these tools, you avoid the effort of downloading and setting up software to write things down. Take notes easily using these simple tips.
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-highlights-comprehensive-photography-tips/"><u>[Updated] Mastering Instagram Highlights Comprehensive Photography Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-transforming-followers-into-loyalists-with-instagram-videos-for-2024/"><u>[Updated] Transforming Followers Into Loyalists with Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-internet-jesters-arsenal/"><u>2024 Approved Internet Jester's Arsenal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-new-frontiers-in-technology-a-comprehensive-guide-to-samsung-devices-including-galaxy-ring-z-fold-and-flip-6-and-the-watch-ultra/"><u>Discover New Frontiers in Technology - A Comprehensive Guide to Samsung Devices Including Galaxy Ring, Z Fold & Flip 6, and the Watch Ultra.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-the-best-drone-motor-choices-for-enhanced-control/"><u>Discovering the Best Drone Motor Choices for Enhanced Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diving-into-windows-sound-system-architecture/"><u>Diving Into Windows' Sound System Architecture</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-s17-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo S17? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/naming-conventions-editing-windows-11-user-folders/"><u>Naming Conventions: Editing Windows 11 User Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-installer-efficiency/"><u>Optimizing Windows Installer Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-in-accessing-network-router/"><u>Overcoming Hurdles in Accessing Network Router</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-entry-into-windows-startup-hub/"><u>Stepwise Entry Into Windows Startup Hub</u></a></li>
-<li><a href="https://some-tips.techidaily.com/united-creatives-brands-meet-youtube-for-2024/"><u>United Creatives Brands Meet YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-your-game-restoring-ps4-input-link-to-stability-on-computer/"><u>Winning Back Your Game: Restoring PS4 Input Link to Stability on Computer</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +118,24 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-screen-recording-the-benefits-of-using-bandicam/"><u>[New] 2024 Approved Mastering Screen Recording The Benefits of Using Bandicam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-strategies-to-combat-freezing-in-high-quality-mode/"><u>[New] In 2024, Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resonating-with-your-device-a-comprehensive-guide-for-customizing-auditory-experience-on-android/"><u>[New] Resonating With Your Device A Comprehensive Guide for Customizing Auditory Experience on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-aural-ascent-step-by-step-guide-to-audio-submission/"><u>[Updated] 2024 Approved Aural Ascent Step-by-Step Guide to Audio Submission</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-laptops-showcase-at-ifa-2023/"><u>Cutting-Edge Laptops Showcase at IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-multilingual-keystrokes-in-windows-11/"><u>Efficiently Manage Multilingual Keystrokes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unable-to-open-on-ge-share-menu/"><u>Eliminating Unable to Open on GE Share Menu</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-90-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 90 Lite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-local-group-policies-for-power-users-windows-11/"><u>Mastering Local Group Policies for Power Users, Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-11-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus 11 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/no-root-audio-recording-on-android-devices-tutorial/"><u>No-Root Audio Recording on Android Devices [Tutorial]</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-f25-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/powerhouse-tri-band-connectivity-with-netgears-ac3200-a-detailed-review/"><u>Powerhouse Tri-Band Connectivity with Netgear's AC3200 - A Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-windows-1011-ui-with-portable-menu-tools/"><u>Revamp Windows 10/11 UI with Portable Menu Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-net-anchorage-stability-verification-tips/"><u>Windows Net Anchorage: Stability Verification Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-step-by-step-guide-for-triggering-system-restore-in-windows-11/"><u>Your Step-by-Step Guide for Triggering System Restore in Windows 11</u></a></li>
+</ul></div>
+

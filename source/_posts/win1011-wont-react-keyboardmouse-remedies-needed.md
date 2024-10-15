@@ -1,7 +1,7 @@
 ---
 title: Win10/11 Won't React? Keyboard/Mouse Remedies Needed
-date: 2024-10-03T16:18:50.085Z
-updated: 2024-10-09T06:17:44.001Z
+date: 2024-10-12T02:26:19.385Z
+updated: 2024-10-15T11:23:33.963Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
  If you don't see the**Power Management** tab on any of your keyboards or mice, either your hardware doesn't support waking the computer from sleep, or you don't have the proper drivers installed. Check our[guide on updating Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for help with getting the latest ones.
 
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
 
@@ -78,24 +71,31 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -118,20 +118,20 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quick-video-playback-with-vimeo/"><u>[New] In 2024, Quick Video Playback with Vimeo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[Updated] In 2024, Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-pinterest-content-top-5-free-download-apps/"><u>[Updated] Mastering Pinterest Content Top 5 FREE Download Apps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-streamline-strategies-softwares-versus-hardware-harmony-in-2024/"><u>[Updated] Streamline Strategies Softwares Versus Hardware Harmony, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-information-with-mematics-app/"><u>2024 Approved Streamline Your Information with Mematic's App</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-v30-pro-frp-bypass-by-drfone-android/"><u>About Vivo V30 Pro FRP Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Gionee F3 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-and-easy-macx-mp4-video-converter-convert-videos-to-mp4-format-on-macos-without-cost/"><u>Free & Easy MacX MP4 Video Converter: Convert Videos to MP4 Format on macOS Without Cost</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ion-air-pro-3-review-unleashing-videography-potential-for-2024/"><u>ION Air Pro 3 Review Unleashing Videography Potential for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-batch-installation-in-windows-11-with-ease-and-speed-winstall-way/"><u>Master the Art of Batch Installation in Windows 11 with Ease and Speed – Winstall Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixed-guide-for-frozen-epic-game-launcher/"><u>Quick Fixed Guide for Frozen Epic Game Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-up-to-the-peak-of-pc-digital-experience/"><u>Step Up to the Peak of PC Digital Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-lag-solving-windows-pc-vs-mobile-internet-speeds/"><u>Tackling Lag: Solving Windows PC vs Mobile Internet Speeds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-importance-of-cplusplus-redistributors/"><u>Understanding the Importance of C++ Redistributors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-for-your-windows-solid-state-drive-through-fresh-methods/"><u>Unlock Peak Performance for Your Windows' Solid State Drive - Through Fresh Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-haptic-realities-now/"><u>[New] Haptic Realities Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transforming-twitter-video-links-to-audio/"><u>[Updated] In 2024, Transforming Twitter Video Links to Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-ai-driven-transformations-for-windows-11-enthusiasts/"><u>Delving Into AI-Driven Transformations for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-clicks-top-tags-for-gamers-content/"><u>In 2024, Crafting Clicks Top Tags for Gamers' Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-free-graphic-hubs-best-websites-for-quality-vector-art/"><u>In 2024, Free Graphic Hubs Best Websites for Quality Vector Art</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y36-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y36 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserving-your-productivity-transferring-legacy-programs-to-11/"><u>Preserving Your Productivity: Transferring Legacy Programs to 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-windows-platforms-superior-nintendo-switch-simulators/"><u>Prime Windows Platforms: Superior Nintendo Switch Simulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quitting-linkedin-how-to-close-your-account-properly-for-2024/"><u>Quitting LinkedIn How To Close Your Account Properly for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-miscalculated-cpu-percentages-on-task-manager-window/"><u>Rectifying Miscalculated CPU Percentages on Task Manager Window</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-nokia-g42-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Nokia G42 5G on Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-remedying-windows-screens-that-flash/"><u>Strategies for Remedying Windows Screens that Flash</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-v27-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo V27 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-visual-power-with-windows-11s-protected-browsing/"><u>Unleashing Visual Power with Windows 11'S Protected Browsing</u></a></li>
 </ul></div>
 

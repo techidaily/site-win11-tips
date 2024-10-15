@@ -1,7 +1,7 @@
 ---
 title: Solving the 'No Files' Mystery on Windows 11
-date: 2024-09-13T17:46:11.007Z
-updated: 2024-09-16T16:26:06.469Z
+date: 2024-10-08T02:45:55.992Z
+updated: 2024-10-14T19:36:10.446Z
 tags:
   - windows10
   - windows11
@@ -49,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Perform a Clean Boot
 
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
 
@@ -67,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
  If it doesn't, it means there is another third-party app on your system causing this error. Try deleting any recent apps you've installed and see if that fixes the problem.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Roll Back Windows With a System Restore
@@ -89,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -98,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
@@ -110,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 
  The “there are no more files” error is quite a serious issue that users can’t exactly ignore. It typically arises on ASUS Windows PCs but isn’t necessarily restricted to them. If you're facing this error, here is how you can fix the “there are no more files” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -119,3 +118,25 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-how-to-create-unique-ringtone-experiences-on-iphone-for-2024/"><u>[New] How to Create Unique Ringtone Experiences on iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-video-visibility-with-strategic-youtube-links/"><u>[New] In 2024, Enhancing Video Visibility with Strategic YouTube Links</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-youtube-shorts-revenue-strategy/"><u>[New] Understanding YouTube Shorts Revenue Strategy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-skillful-stylization-efficiently-tap-into-windows-paints-features/"><u>2024 Approved Skillful Stylization Efficiently Tap Into Windows Paint's Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/chromebooks-finest-drawing-software-compared-for-2024/"><u>Chromebook's Finest Drawing Software Compared for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-absence-of-drive-letters-in-windows-os-understanding-issues-solutions/"><u>Decoding Absence of Drive Letters in Windows OS: Understanding Issues, Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-strengthen-windows-defenses-with-these-5-techniques/"><u>Expert Advice: Strengthen Window's Defenses with These 5 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-errors-during-iphone-image-upload-to-windows/"><u>Guidelines for Fixing Errors During iPhone Image Upload to Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-reno-10-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Reno 10 Pro 5G?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-portable-apps-into-windows-desktop/"><u>Integrating Portable Apps Into Windows Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-your-memories-top-online-print-experts-of-2024/"><u>Mastering Your Memories: Top Online Print Experts of 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cures-tackling-11-windows-11-snags/"><u>Quick Cures: Tackling 11 Windows 11 Snags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-task-scheduler-and-batches/"><u>Streamlining System Operations: Task Scheduler & Batches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-mastering-the-art-of-desk-icon-space-adjustment-on-winos/"><u>Title: Mastering the Art of Desk Icon Space Adjustment on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-moment-update-a-symphony-of-new-functions/"><u>Unraveling Windows 11’S Moment Update - A Symphony of New Functions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-final-cut-pro-essentials-creating-breathtaking-time-lapses/"><u>Updated Final Cut Pro Essentials Creating Breathtaking Time Lapses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-actions-made-fast-with-cut-paste-shortcuts/"><u>Windows Actions Made Fast with Cut-Paste Shortcuts</u></a></li>
+</ul></div>
+
