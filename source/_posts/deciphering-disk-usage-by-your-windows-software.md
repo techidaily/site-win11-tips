@@ -1,7 +1,7 @@
 ---
 title: Deciphering Disk Usage by Your Windows Software
-date: 2024-10-07T22:04:21.266Z
-updated: 2024-10-14T19:34:07.496Z
+date: 2024-10-18T16:58:32.959Z
+updated: 2024-10-21T00:08:20.584Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -95,21 +95,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-engagement-10-must-have-tools-for-ig-gurus/"><u>[Updated] Enhancing Engagement 10 Must-Have Tools for IG Gurus</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-list-of-10-ways-to-fine-tune-windows-11-screens/"><u>A Comprehensive List of 10 Ways to Fine-Tune Windows 11 Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automate-mass-rename-with-powertoys/"><u>Automate Mass Rename with PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/documentation-skills-snapping-windows-uac-prompts/"><u>Documentation Skills: Snapping Windows UAC Prompts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/download-australian-broadcasting-corporation-content-with-ease-tips-and-tricks-for-iview-downloads-from-abcnnetau/"><u>Download Australian Broadcasting Corporation Content with Ease: Tips & Tricks for iView Downloads From abcn.net.au</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-webm-naar-mp4-versterker-vrije-geavanceerde-videoconverteertool-by-movavi/"><u>Online WEBM Naar MP4 Versterker: Vrije, Geavanceerde Videoconverteertool by Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-amd-installer-crash-in-windows/"><u>Quick Fixes for the AMD Installer Crash in Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-gt-neo-5-se-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme GT Neo 5 SE Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-successful-java-setup-in-windows/"><u>Strategies for Successful Java Setup in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +102,21 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-campaigns-innovative-approaches-to-fb-video-ads/"><u>[New] 2024 Approved Elevate Your Campaigns Innovative Approaches to FB Video Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fraps-screen-recorder-review-for-2024/"><u>[New] Fraps Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-overcoming-sound-hurdles-in-zoom-calls/"><u>[Updated] Overcoming Sound Hurdles in Zoom Calls</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-action-camera-deals-top-6-for-less-than-100-only-for-2024/"><u>Affordable Action Camera Deals Top 6 for Less Than $100 Only for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/first-steps-with-windows-canary-channel-for-security/"><u>First Steps with Windows Canary Channel for Security</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-netstat-command-in-windows-11-to-monitor-network-activity/"><u>How to Use the Netstat Command in Windows 11 to Monitor Network Activity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-silence-on-windows-11-shut-down-tabs/"><u>Master Silence on Windows 11: Shut Down Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-stabilization-nine-fixes-for-wwe-2k23-on-windows-11/"><u>Swift Stabilization: Nine Fixes for WWE 2K23 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-text-display-on-pc-discord/"><u>Troubleshooting Missing Text Display on PC Discord</u></a></li>
+</ul></div>
+

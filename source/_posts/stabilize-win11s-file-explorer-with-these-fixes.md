@@ -1,7 +1,7 @@
 ---
 title: Stabilize Win11's File Explorer With These Fixes
-date: 2024-10-12T19:26:27.844Z
-updated: 2024-10-14T19:25:17.177Z
+date: 2024-10-14T02:37:07.107Z
+updated: 2024-10-20T19:20:38.610Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Clear File Explorer Cache
@@ -50,6 +50,19 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Configure File Explorer Options
 
 [Issues with Quick Access in Windows 11](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) can also cause File Explorer to malfunction at times. If that's the case, you can configure File Explorer to open on This PC page to resolve the issue. Here are the steps you can follow.
@@ -59,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 3. In the**Folder Options** window, click the drop down menu next to**Open File Explorer to** and select**This PC** .
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
 
@@ -82,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 5. Hit**Apply** followed by**OK** .  
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Run the Windows Memory Diagnostic Tool
 
  You are likely to experience such File Explorer crashes if there is an issue with your PC’s RAM. Fortunately, Windows includes a useful Memory Diagnostic tool that can examine your RAM for any potential errors. Running the tool requires a system restart, so be sure to save all your work beforehand.
@@ -93,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot Mode
@@ -104,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
  We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
@@ -142,19 +148,22 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] In 2024, Unveiling Animated Magic with Movie Maker Software</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cure-for-unresponsive-wired-gaming-accessories/"><u>Cure for Unresponsive Wired Gaming Accessories</u></a></li>
-<li><a href="https://facebook.techidaily.com/demystifying-shadowbans-in-online-communities/"><u>Demystifying Shadowbans in Online Communities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-bot-explained-why-are-many-sites-blocking-it/"><u>GPT Bot Explained: Why Are Many Sites Blocking It?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-cloud-strategies-revealed/"><u>In 2024, Budget-Friendly Cloud Strategies Revealed</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-the-most-recommended-natural-ai-hindi-voice-generator/"><u>In 2024, The Most Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-win1011-recycle-bin-repair-strategies/"><u>Mastering WIN10/11 Recycle Bin Repair Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-with-ease-to-windows-11s-security-management/"><u>Navigate with Ease to Windows 11’S Security Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-switching-nat-type-on-wins-10-and-11/"><u>Step-By-Step Walkthrough: Switching NAT Type on Wins 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-future-of-windows-interface-winbubbles-8-innovations/"><u>The Future of Windows Interface: WinBubble's 8 Innovations</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-selection-of-android-screen-casting-apps-discover-the-top-9-options-to-enhance-your-experience/"><u>The Ultimate Selection of Android Screen Casting Apps: Discover the Top 9 Options to Enhance Your Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tune-into-excellence-a-comprehensive-review-of-g533/"><u>Tune Into Excellence: A Comprehensive Review of G533</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere/"><u>[New] 2024 Approved Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-samsungs-photo-enhancing-tools/"><u>[Updated] Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[Updated] How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-video-conversion-in-vlc-from-mp4-onward/"><u>[Updated] Navigating Video Conversion in VLC From MP4 Onward</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vdr-hd-vision-recorder-report-full-overview/"><u>[Updated] VDR HD Vision Recorder Report Full Overview</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725287909819-dvd/"><u>DVDへの変換テクニック：高解像度ビデオ全てが安く保存できる方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-essential-steps-to-overcome-windows-os-hypervisor-faults/"><u>Five Essential Steps to Overcome Windows OS Hypervisor Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-exclude-email-address-in-windows-login-settings/"><u>How to Exclude Email Address in Windows Login Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-steam-error-missing-files-on-modern-windows-11-pc/"><u>Rectify Steam Error: Missing Files on Modern Windows 11 PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/refined-lineup-of-conversation-starters-for-podcasting/"><u>Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-absence-of-supported-scanner-for-windows-hello/"><u>Remedying the Absence of Supported Scanner for Windows Hello</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-get-help-issue/"><u>Resolving Windows 11 'Get Help' Issue</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steelseries-arctis-5-drivers-download-and-install/"><u>SteelSeries Arctis 5 Drivers | Download & Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-windows-compatible-ios-apps-for-android-users/"><u>Top 8 Windows-Compatible iOS Apps for Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-system-potential-enhancing-virtual-memory/"><u>Unlocking System Potential: Enhancing Virtual Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-rescue-your-operators-download/"><u>Windows Woes? Rescue Your Operator's Download</u></a></li>
 </ul></div>
 

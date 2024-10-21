@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Using Windows 11 Volume Mixer Easily"
-date: 2024-10-14T00:23:02.437Z
-updated: 2024-10-15T03:44:11.918Z
+date: 2024-10-18T16:24:14.588Z
+updated: 2024-10-20T18:58:13.252Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  This will open the Volume Mixer window where you can control the volume levels of different applications and adjust their output devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Control Panel
 
  Along with the above two methods, you can also launch the Volume Mixer directly from the Control Panel. This program lets you control the volume levels independently for each application running on your computer.
@@ -46,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 ![Open Volume Mixer Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To access it,[open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) , select**Hardware and Sound** , and then click**Adjust system volume** under the**Sound** section.
 
 ![Volume Mixer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-mixer-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
 
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
 ![Open Volume Mixer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
 
 ## 6\. Use the Command Prompt
@@ -83,20 +90,20 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
 ![Open Volume Mixer Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-command-prompt.jpg)
 
- In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
-
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
 
 ## 7\. Use Windows Search Tool
 
@@ -113,22 +120,15 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 ![Open Volume Mixer By Creating a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-by-creating-a-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the shortcut window, type**sndvol.exe** in the text box, and click**Next** .
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
 
@@ -151,20 +151,18 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-avoiding-instagrams-false-facade-for-a-solid-stature/"><u>[Updated] In 2024, Avoiding Instagram's False Facade for a Solid Stature</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>2024 Approved From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-examination-razer-kiyo-cam/"><u>Comprehensive Examination Razer Kiyo Cam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-geforce-experiences-retrieval-failure-on-windows-11-systems/"><u>Fixing GeForce Experience's Retrieval Failure on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reboot-dns-cache-in-windows-11/"><u>How to Reboot DNS Cache in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-gaming-service-failures-on-pcs-and-laptops/"><u>How To Resolve Gaming Service Failures on PCs and Laptops</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/integrate-audio-magic-the-secrets-of-musical-stories-on-instagram-for-2024/"><u>Integrate Audio Magic The Secrets of Musical Stories on Instagram for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-navigation-tips-on-using-narrator-commands/"><u>Streamlining Windows Navigation: Tips on Using Narrator Commands</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-asus-rog-phone-7-ultimate-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Asus ROG Phone 7 Ultimate FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-troubleshooting-tips-to-ease-team-communication-errors-on-w11/"><u>Transformative Troubleshooting Tips to Ease Team Communication Errors on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-amd-radeon-ssp-on-windows/"><u>Troubleshooting Non-Operational AMD Radeon SSP on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-maximum-speed-for-your-digital-purchases-at-microsoft/"><u>Unlock Maximum Speed for Your Digital Purchases at Microsoft</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-pc-and-mac-use-of-dslr-for-online-sharing/"><u>[Updated] Elevating PC & Mac Use of DSLR for Online Sharing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-captivate-with-these-14-astonishing-text-animations/"><u>[Updated] In 2024, Captivate with These 14 Astonishing Text Animations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-7-voice-changer-recorder-apps-for-2024/"><u>[Updated] Top 7 Voice Changer Recorder Apps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-poise-achieving-dynamic-motion-blur-on-facial-elements-through-picsart/"><u>2024 Approved Photographic Poise Achieving Dynamic Motion Blur on Facial Elements Through Picsart</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-serious-risks-why-you-should-avoid-medical-advice-from-chatgpt/"><u>5 Serious Risks: Why You Should Avoid Medical Advice From ChatGPT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-screen-recording-methods-on-dell-laptops-for-2024/"><u>Advanced Screen Recording Methods on Dell Laptops for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemaster-app-for-android-complete-review/"><u>KineMaster App for Android - Complete Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-ethernet-offline-issue/"><u>Overcoming Windows Ethernet Offline Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-windows-machines-powerful-video-conversion-synergy-with-tdarr-technology/"><u>Sync Windows Machines: Powerful Video Conversion Synergy with Tdarr Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-ad-free-high-quality-video-experience-awaits-you/"><u>The Ultimate Ad-Free, High Quality Video Experience Awaits You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-your-powerpoint-slides-fixing-their-prints-on-windows/"><u>Unleashing the Full Potential of Your PowerPoint Slides: Fixing Their Prints on Windows</u></a></li>
 </ul></div>
 

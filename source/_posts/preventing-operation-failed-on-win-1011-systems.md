@@ -1,7 +1,7 @@
 ---
 title: Preventing 'Operation Failed' On Win 10/11 Systems
-date: 2024-10-08T14:42:24.652Z
-updated: 2024-10-14T20:11:02.894Z
+date: 2024-10-16T22:31:59.679Z
+updated: 2024-10-21T02:05:35.448Z
 tags:
   - windows10
   - windows11
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/f9e691ab1179ca5da97e6ab8b312a61013e41cba8
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -65,13 +65,6 @@ To check and install Windows updates:
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Install the Printer Manually via the Local Port
 
  A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
@@ -81,22 +74,31 @@ To check and install Windows updates:
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**OK** to save the printer.
 
@@ -107,6 +109,13 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -131,13 +140,6 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
 ## 5\. Uninstall Recently Installed Updates
@@ -153,25 +155,26 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -193,21 +196,19 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-captivating-intros-on-mobile-platforms/"><u>[New] In 2024, Crafting Captivating Intros on Mobile Platforms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-masterclass-in-meme-template-selection/"><u>[New] In 2024, Masterclass in Meme Template Selection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-superiorly-crafted-radio-scripts/"><u>[New] Superiorly Crafted Radio Scripts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-techniques-for-safeguarding-your-favorite-live-discord-chats-for-2024/"><u>[New] Top Techniques for Safeguarding Your Favorite Live Discord Chats for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-alternatives-when-bitlocker-isnt-available-on-windows/"><u>5 Alternatives When Bitlocker Isn't Available on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-new-era-for-ai-linguistics-with-googles-palm-2-model/"><u>A New Era for AI Linguistics with Google's PaLM 2 Model</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-newcomers-path-in-the-world-of-original-diablo/"><u>A Newcomer's Path in the World of Original Diablo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-visual-journey-customizing-your-windows-11-monitor-walls/"><u>A Visual Journey: Customizing Your Windows 11 Monitor Walls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-incompatibility-with-windows-11-at-home/"><u>Addressing Incompatibility with Windows 11 at Home</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-dpi-settings-for-optimal-display-performance/"><u>Adjust DPI Settings for Optimal Display Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-with-top-fixes-for-file-explorer-glitches-on-win11/"><u>Avoid Disruptions with Top Fixes for File Explorer Glitches on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-integrating-new-folders-into-windows-11-menu/"><u>Boosting Efficiency: Integrating New Folders Into Windows 11 Menu</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-perfecting-phone-screenshots-with-snapchat/"><u>In 2024, Perfecting Phone Screenshots with Snapchat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-pixel-perfect-facebook-recording-tools/"><u>In 2024, Pixel-Perfect Facebook Recording Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-the-fisheye-lens-for-immersive-views/"><u>Perfecting the Fisheye Lens for Immersive Views</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-store-cache-may-be-damaged-solved/"><u>Windows Store Cache May Be Damaged [SOLVED]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhance-clips-best-winter-bgs-for-video-warmth/"><u>[Updated] 2024 Approved Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-eliminating-obstacles-to-successful-srt-premiere-export/"><u>[Updated] In 2024, Eliminating Obstacles to Successful SRT Premiere Export</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 12 mini? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-guide-how-to-transfer-your-images-flawlessly-onto-an-sd-card/"><u>Easy Guide: How to Transfer Your Images Flawlessly Onto an SD Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-and-irreversible-file-removal-creating-a-customizable-desktop-bin-windows-11/"><u>Effortless and Irreversible File Removal: Creating a Customizable Desktop Bin (Windows 11)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>In 2024, Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-maze-digital-games-refunds-on-series-sx/"><u>Navigating the Maze: Digital Games Refunds on Series S/X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-enhance-windows-11-bar/"><u>Quick Fixes to Enhance Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-directx-download-errors-on-pcs/"><u>Rectifying DirectX Download Errors on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-onedrive-for-microsoft-live-users/"><u>Setting Up OneDrive for Microsoft Live Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/straightforward-steps-upside-down-video-with-vlc-software/"><u>Straightforward Steps Upside-Down Video with VLC Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-thermal-regulation-options/"><u>Unlocking Windows Thermal Regulation Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-defender-log-cleanse-a-practical-approach-for-users/"><u>Win 11'S Defender Log Cleanse: A Practical Approach for Users</u></a></li>
 </ul></div>
 

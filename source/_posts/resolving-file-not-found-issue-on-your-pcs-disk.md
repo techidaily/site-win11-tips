@@ -1,7 +1,7 @@
 ---
 title: Resolving File Not Found Issue on Your PC's Disk
-date: 2024-10-11T22:49:35.963Z
-updated: 2024-10-14T21:37:33.422Z
+date: 2024-10-19T03:26:06.148Z
+updated: 2024-10-20T16:18:36.604Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run a Check Disk Scan
 
  Running a Check Disk scan is a widely confirmed fix for the “Cannot read from the source file” error. That highlights this error is often caused by bad disk sectors on drives. Running a Check Disk scan via the Command Prompt for the drive that includes the files will usually remedy such a cause. Our [how to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) article tells you how to apply this potential fix.
@@ -47,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-chkdsk-command2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try a Different USB Cable or Port for External Drives
 
  Another possible cause for the “Cannot read from the source file or disk” error is that there’s an issue with your USB cable or a port on your PC. So, connect your external drive to a different USB port to see if that makes a difference. If you have an alternative USB cable available, try connecting the drive to your PC with it.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Compress the Files You’re Trying to Copy Into a ZIP Folder
 
@@ -73,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 ![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-edit-button.jpg)
 4. Next, select the checkbox labeled **Full control** with the **Allow** column.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-full-control-checkbox.jpg)
 5. Press **Apply** to save the file’s permission settings.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** to exit.
 
  If you can’t see your account username within the Group box, you’ll need to add it. To do so, click **Add** on the **Security** tab to bring up a Select Users or Group window; then click **Advanced** \> **Find now** to select your user account. Click **OK** to add the selected account.
@@ -89,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 ![The Find now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-find-now-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access Files on Mac-Formatted Drives With Third-Party Software
@@ -113,26 +126,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  This Windows error message can sometimes pop up when users try to copy certain files from or to external USB drives. As such, here is how you can fix the “Cannot read from the source file or disk” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-free-melodies-a-guide-for-youtube-producers-for-2024/"><u>[Updated] Mastering Free Melodies A Guide for YouTube Producers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-stop-screen-blackouts-with-obs-game-recordings/"><u>[Updated] Stop Screen Blackouts with OBS Game Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-ways-to-open-system-restore-on-windows-11/"><u>11 Ways to Open System Restore on Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>2024 Approved How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-github-desktop-in-windows-1011/"><u>A Comprehensive Guide to GitHub Desktop in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-11s-network-settings/"><u>Accessing Windows 11'S Network Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-driver-verifier-on-windows-11/"><u>Activating Driver Verifier on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/aoemi-for-streamlined-file-management-on-two-independent-windows-systems/"><u>AOEMi for Streamlined File Management on Two Independent Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-operations-efficient-data-alignment-in-win11/"><u>Boost Operations: Efficient Data Alignment in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719324521716-elevating-your-windows-screenshot-game-with-these-fixes/"><u>Elevating Your Windows Screenshot Game with These Fixes.</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ative-strategies-to-optimize-youtube-edits-after-upload/"><u>Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
-<li><a href="https://fox-within.techidaily.com/losung-fur-verlorene-fotografien-auf-der-speicherkartenlaufwerk-ihres-kamerasystems-einfuhrung-in-die-fehlersuche/"><u>Lösung Für Verlorene Fotografien Auf Der Speicherkartenlaufwerk Ihres Kamerasystems - Einführung in Die Fehlersuche</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-dell-audio-driver-installation-made-simple/"><u>Seamless Dell Audio Driver Installation Made Simple</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transforming-wav-files-into-mp3-format-using-itunes/"><u>Step-by-Step Guide: Transforming WAV Files Into MP3 Format Using iTunes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +133,19 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>[New] 2024 Approved Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-to-successful-live-sessions-obs-and-streaming-platforms/"><u>[Updated] Secrets to Successful Live Sessions OBS and Streaming Platforms</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728508758701-windows-11/"><u>「從 Windows 11 中切換項目的部分映像到其他硬碟上 - 教程」</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-systems-soundscape-by-updating-nvidia-hd-audio-on-win11/"><u>Elevate Your System's Soundscape by Updating NVIDIA HD Audio on Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-user-experience-top-free-must-haves-for-win11/"><u>Optimal User Experience: Top Free Must-Haves for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-reliable-way-to-convert-mkv-to-mp4-on-pcs/"><u>Quick and Reliable Way to Convert MKV to MP4 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-code-22-re-enable-your-windows-11-device/"><u>Resolving Code 22: Re-Enable Your Windows 11 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-the-webcam-feature-on-a-lenovo-computer/"><u>Step-by-Step Guide: Reactivating the Webcam Feature on a Lenovo Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unverified-ai-keys-may-jeopardize-win-11-security/"><u>Unverified AI Keys May Jeopardize Win 11 Security</u></a></li>
+</ul></div>
+

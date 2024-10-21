@@ -1,7 +1,7 @@
 ---
 title: Overcome Not an Empty Directory Error Code 0X80070091 in Windows 11
-date: 2024-10-09T16:00:01.634Z
-updated: 2024-10-15T16:00:06.434Z
+date: 2024-10-14T23:42:21.836Z
+updated: 2024-10-21T02:11:20.763Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart Windows File Explorer
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Modify the Affected Folder’s Permissions
 
  Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
@@ -90,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 2. Click the window’s**Security** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, press the**Advanced** button.  
@@ -103,8 +96,23 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 5. Enter your Windows user account name inside the object name text box.  
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run an Antivirus Scan
 
@@ -118,21 +126,14 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 4. Press**Scan now** to start the antivirus scanning.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Delete Your Folders in File Explorer Again With These Fixes
 
@@ -153,18 +154,18 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mac-audio-sync-for-screen-captures/"><u>[New] In 2024, Mac Audio Sync for Screen Captures</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-charting-the-course-to-digital-stardom-launch-your-chanel-today/"><u>[Updated] In 2024, Charting the Course to Digital Stardom Launch Your Chanel Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-roadmap-for-smoother-files-transfer-in-win11-systems-1/"><u>A Roadmap for Smoother Files Transfer in WIN11 Systems (1)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-setup-5-key-tools-to-turbocharge-windows/"><u>Accelerate Your Setup: 5 Key Tools to Turbocharge Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-errors-missing-dll-mfc71u-in-os/"><u>Addressing Errors: Missing DLL – Mfc71u in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-practices-for-command-line-access-management/"><u>Best Practices for Command-Line Access Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creativity-clash-analyzing-the-features-of-midjourney-against-dall-e-3/"><u>Creativity Clash: Analyzing the Features of MidJourney Against DALL-E 3</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-lava-blaze-2-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Lava Blaze 2 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-valorant-experience-with-proper-hrtf-knowledge/"><u>Maximizing Valorant Experience with Proper HRTF Knowledge</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mov-video-trimming-made-easy-top-6-free-tools/"><u>New In 2024, MOV Video Trimming Made Easy Top 6 Free Tools</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267287647-unlock-your-websites-potential-with-our-revolutionary-cookiebot-integration/"><u>Unlock Your Website's Potential with Our Revolutionary Cookiebot Integration!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-superior-benefits-of-the-chatgpt-desktop-application-compared-to-its-web-counterpart/"><u>Unveiling the Superior Benefits of the ChatGPT Desktop Application Compared to Its Web Counterpart</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-complete-tutorial-on-saving-your-instagram-story/"><u>[New] In 2024, A Complete Tutorial on Saving Your Instagram Story</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unparalleled-mac-capture-tools-assessed/"><u>[New] Unparalleled Mac Capture Tools Assessed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008724988-cold-war-cod-how-to-overcome-the-challenge-of-error-code-80070057-easily/"><u>Cold War Cod: How to Overcome the Challenge of Error Code 80070057 Easily!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-lenovo-thinkpad-x1-titanium-yoga-a-revolutionary-choice-for-traditional-thinkpad-fans/"><u>Comprehensive Guide to the Lenovo ThinkPad X1 Titanium Yoga: A Revolutionary Choice for Traditional ThinkPad Fans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-artistry-the-top-new-additions-to-paint-suite/"><u>Crafting Artistry: The Top New Additions to Paint Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-accuracy-in-winrar-with-six-checksum-methods/"><u>Ensuring Data Accuracy in WinRAR with Six Checksum Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-unheard-audio-devices-in-computers/"><u>Regain Control of Unheard Audio Devices in Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-windows-11-usability-with-exclusive-run-command-features/"><u>Skyrocket Windows 11 Usability with Exclusive Run Command Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-techniques-to-locate-graphic-card-model-in-win11/"><u>Swift Techniques to Locate Graphic Card Model in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-professional-way-of-keeping-windows-calls-logged/"><u>The Professional Way of Keeping Windows Calls Logged</u></a></li>
 </ul></div>
 

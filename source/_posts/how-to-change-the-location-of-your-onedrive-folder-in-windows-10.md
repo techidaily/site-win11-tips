@@ -1,7 +1,7 @@
 ---
 title: How to Change the Location of Your OneDrive Folder in Windows 10
-date: 2024-10-13T02:11:23.314Z
-updated: 2024-10-15T05:27:19.914Z
+date: 2024-10-20T01:28:48.881Z
+updated: 2024-10-21T04:22:04.697Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Moving Your OneDrive Folder
 
 With that done, you can now relocate your OneDrive folder.
@@ -47,34 +54,20 @@ With that done, you can now relocate your OneDrive folder.
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
 
@@ -90,10 +83,10 @@ With that done, you can now relocate your OneDrive folder.
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
@@ -101,6 +94,19 @@ With that done, you can now relocate your OneDrive folder.
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -121,21 +127,19 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-stories-advanced-bokeh-techniques/"><u>[New] Elevate Your Stories Advanced Bokeh Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-explained-a-streaming-media-service/"><u>[Updated] 2024 Approved Vimeo Explained A Streaming Media Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-in-depth-evaluation-affordable-quality-and-rich-functions-in-the-keychron-c3-pro-wired-mechanical-keyboard/"><u>1. In-Depth Evaluation: Affordable Quality and Rich Functions in the Keychron C3 Pro Wired Mechanical Keyboard</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebooks-shift-to-short-videos-a-look-into-2023-trends/"><u>2024 Approved Facebook's Shift to Short Videos A Look Into 2023 Trends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-11-safe-mode-6-routes-covered/"><u>Accessing Windows 11 Safe Mode: 6 Routes Covered</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/app-aesthetics-overshadowing-computational-efficiency-issues/"><u>App Aesthetics Overshadowing Computational Efficiency Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-unwanted-updates-in-windows-11-with-proactive-measures/"><u>Avoid Unwanted Updates in Windows 11 with Proactive Measures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-computers-space-on-windows-using-these-free-tools/"><u>Boost Your Computer's Space on Windows Using These Free Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windo-package-fixing/"><u>Fixing Flawed Setups: A Guide to Windo Package Fixing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gigabyte-z370p-essential-software-pack-secure-your-d3-drivers-today/"><u>Gigabyte Z370P Essential Software Pack - Secure Your D3 Drivers Today</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-20-guidelines-livestream-webinars-at-no-extra-charge/"><u>In 2024, 20 Guidelines Livestream Webinars at No Extra Charge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-saving-netflix-movies-for-offline-viewing-on-your-laptop/"><u>Step-by-Step Tutorial: Saving Netflix Movies for Offline Viewing on Your Laptop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719241162172-update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3dr-the-soloists-voyage-in-3d-printing-tech/"><u>[Updated] '3DR' The Soloist’s Voyage in 3D Printing Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-preserving-gh-meetings-live/"><u>[Updated] 2024 Approved Preserving GH Meetings Live</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-commercial-ventures-enhanced-by-virtual-engineering-for-2024/"><u>[Updated] Commercial Ventures Enhanced by Virtual Engineering for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-srt-openedit-manual-for-mac-users/"><u>[Updated] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-university-sound-snatchers/"><u>2024 Approved Ultimate University Sound Snatchers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-confidentiality-tactics-skillfully-concealing-your-conversations-while-retaining-access/"><u>ChatGPT Confidentiality Tactics: Skillfully Concealing Your Conversations While Retaining Access</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-c55-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco C55 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-glitch-how-to-overcome-server-slips-in-ms-store/"><u>Mending the Glitch: How to Overcome Server Slips in MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seven-simple-solutions-for-tackling-windows-based-obs-failures/"><u>Seven Simple Solutions for Tackling Windows-Based OBS Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sound-and-sight-synergy-on-windows-an-efficient-drivers-upgrade-guide/"><u>Sound and Sight Synergy on Windows: An Efficient Drivers Upgrade Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-erase-microsoft-edge-w11/"><u>Step-by-Step: Erase Microsoft Edge W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategizing-diskspace-management-with-disc-usage-insights-in-windows/"><u>Strategizing DiskSpace Management with Disc Usage Insights in Windows</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-what-is-emoji/"><u>Updated 2024 Approved What Is Emoji?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-windows-woes-unraveling-and-fixed-11-issues/"><u>Win Over Windows Woes - Unraveling & Fixed 11 Issues</u></a></li>
 </ul></div>
 

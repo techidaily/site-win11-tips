@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Open Installation Packages on Windows 10, 11
-date: 2024-10-10T20:53:36.649Z
-updated: 2024-10-14T22:40:11.101Z
+date: 2024-10-14T22:16:56.287Z
+updated: 2024-10-21T00:13:30.113Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  The setup file you’ve downloaded might not be compatible with your PC’s platform or could be corrupted. So, try downloading the setup wizard for the software you want to install again in a different folder path on the local drive. Make sure you download an installer for your Windows 11/10 platform (not a Linux or Mac OS). If there are alternative 64/32-bit versions, download the one that matches your platform’s architecture.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check if the Setup File is Blocked
 
  Windows sometimes applies blocks to ‘suspicious’ files downloaded. If your setup file is blocked, you’ll see an**Unblock** option within its properties window. You can unblock a setup file like this:
@@ -40,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![The Unblock checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unblock-checkbox1.jpg)
 5. Select**Apply** to save the file’s new properties.
 6. Click**OK** to close the properties window for the file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Scan Your System's Files for Corruption
 
@@ -64,30 +70,23 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-service-window-1.jpg)
 4. If Windows Installer isn’t running, click its**Start** button.  
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Start button for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/start-button-1.jpg)
 5. Select**Apply** to save the new service settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Press the service window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Install the Software in a New Admin Account
 
@@ -98,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
  However, there’s no need to switch to the new user account you’ve set up. Log in to the new admin account you’ve set up and try downloading and installing the software you need from there. Then that software should also be available within the other user account you couldn’t install it in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Your Antivirus Software Before Installing the Software
@@ -114,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
  If you’ve installed third-party security software, disable its antivirus component from the app’s settings tab or context menu. How you can do that varies a little bit between apps, but most of them have context menus with options for disabling their antivirus shields. Right-click the antivirus tool’s icon in the system tray and select an option for turning off its shield.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Unregister and Reregister the Windows Installer Service
 
  Windows Installer won’t work right if it’s not properly registered. So, reregistering that service could feasibly resolve the “installation package could not be opened” error for some users. This is how you can unregister and reregister Windows Installer:
@@ -131,7 +123,22 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 `msiexec /unregister`  
 ![The unregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unregister-command-2.jpg)
 4. Then reregister Windows Installer by executing the following command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `msiexec /regserver`
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Edit the FileSystem Registry Key
 
@@ -146,16 +153,16 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-option-2.jpg)
 5. Click**OK** to close the**Value** box.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Double-click**Win31FileSystem** to bring up its**Value data** box.
 7. Set the value to**0** for the**Win31FileSystem** and click**OK** .
 8. Click the**X** (Close) button on the Registry Editor and restart Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Your Software Installed Again in Windows
 
@@ -176,24 +183,22 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-diligent-duplication-in-the-world-of-insta-for-2024/"><u>[New] Diligent Duplication in the World of Insta for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-10-premier-travel-blogs-to-watch-online-for-2024/"><u>[Updated] 10 Premier Travel Blogs to Watch Online for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-pc-snippets-tools-handy-guide-to-top-5-choices/"><u>[Updated] 2024 Approved Best Pc Snippets Tools Handy Guide to Top 5 Choices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-formulating-engaging-instagram-story-titles-for-2024/"><u>[Updated] Formulating Engaging Instagram Story Titles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-steps-pinpointing-policies-in-windows-environments/"><u>3 Steps: Pinpointing Policies in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-with-auto-moves-the-w11-way/"><u>Accelerate Workflow with Auto-Moves: The W11 Way</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-optimal-configuration-windows-11-and-pc-manager/"><u>Achieving Optimal Configuration: Windows 11 & PC Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-in-use-files-errors-in-windows-152-chars/"><u>Addressing 'In-Use' Files Errors in Windows (152 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-file-management-techniques-dragging-tabs-in-windows-11/"><u>Advanced File Management Techniques: Dragging Tabs in Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-the-perfect-2-in-1-device-on-a-budget/"><u>Affordable Lenovo Chromebook Duet Evaluation: The Perfect 2-in-1 Device on a Budget</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-90-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 90 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artistry-made-easy-top-7-windows-11-drawing-apps-reviewed/"><u>Artistry Made Easy: Top 7 Windows 11 Drawing Apps Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/auditory-capture-made-simple-with-microsofts-win-11/"><u>Auditory Capture Made Simple with Microsoft's Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-history-welcome-new-hues-on-windows/"><u>Banish History, Welcome New Hues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-11-efficiency-key-modifications-to-apply/"><u>Boost Windows 11 Efficiency: Key Modifications to Apply</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-the-best-tablet-for-your-needs-amazon-fire-vs-ipad/"><u>Choosing the Best Tablet for Your Needs: Amazon Fire Vs. IPad</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-download-youtube-videos-as-m4a-format-easy-conversion-guide/"><u>How to Download YouTube Videos as M4A Format | Easy Conversion Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-copypaste-dilemma-sudden-vid-deletion/"><u>In 2024, Copypaste Dilemma Sudden Vid Deletion</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-way-to-edit-mp4-video-tags-and-properties/"><u>New In 2024, The Best Way to Edit MP4 Video Tags and Properties</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-professional-video-editing-simplified-with-mac-mp4-cutters/"><u>[Updated] In 2024, Professional Video Editing Simplified with Mac MP4 Cutters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-capturing-sound-via-mac/"><u>[Updated] In 2024, The Art of Capturing Sound via Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-screen-capture-tools/"><u>[Updated] In 2024, The Ultimate Guide to Screen Capture Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-your-windows-11s-performance-on-5g-networks/"><u>Boosting Your Windows 11'S Performance on 5G Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-new-life-into-computers-13-restoration-techniques/"><u>Breathing New Life Into Computers: 13 Restoration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-windows-11-with-android-a-dual-screen-journey-begins-here/"><u>Bridging Windows 11 with Android: A Dual-Screen Journey Begins Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brighten-grayed-extend-volume-functionality-windows/"><u>Brighten Grayed Extend Volume Functionality, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-dull-screen-on-pcs-boot-menu/"><u>Brightening Dull Screen on PC's BOOT Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-cc-setup-hurdles/"><u>Bypassing Windows 11 CC Setup Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cheap-licenses-high-prices-top-8-risks-with-low-cost-windows-keys/"><u>Cheap Licenses, High Prices? Top 8 Risks with Low-Cost Windows Keys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/choreographing-ideal-canon-time-lapse-shots-for-2024/"><u>Choreographing Ideal Canon Time-Lapse Shots for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/optimal-viewing-angles-for-fb-videos/"><u>Optimal Viewing Angles for FB Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-uncover-the-causes-behind-age-of-empires-iv-not-starting-and-how-to-fix-it/"><u>Resolved: Uncover the Causes Behind Age of Empires IV Not Starting and How to Fix It</u></a></li>
 </ul></div>
 

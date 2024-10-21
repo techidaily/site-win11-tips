@@ -1,7 +1,7 @@
 ---
 title: Simply Streamlined Steps for New Windows 11 Dossiers
-date: 2024-10-13T03:55:59.988Z
-updated: 2024-10-15T09:22:41.639Z
+date: 2024-10-18T00:33:29.467Z
+updated: 2024-10-21T00:33:04.186Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. Type in a suitable name for your folder and then press**Enter** .  
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a New Folder Using File Explorer
 
  File Explorer's menu bar provides access to many useful options. One of them also lets you create a new folder with a couple of mouse clicks.
@@ -48,10 +61,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -63,10 +76,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
@@ -87,21 +100,14 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -123,17 +129,16 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-panopticam-review-breakdown/"><u>[Updated] PanoptiCam Review Breakdown</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>[Updated] The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unleashing-musical-talent-with-magix-studio/"><u>2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/actions-to-take-when-facing-invalid-name-on-pc/"><u>Actions to Take When Facing Invalid Name on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-clockdate-display-in-window-11-interface/"><u>Adjust Clock/Date Display in Window 11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-application-runtime-to-compensate-for-lack-of-qt-plugins/"><u>Adjusting Application Runtime to Compensate for Lack of Qt Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-sign-in-restrictions-after-errors/"><u>Adjusting Windows Sign In Restrictions After Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-sound-experience-with-senso-buds/"><u>Affordable Sound Experience with Senso Buds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722058682171-chatgpt-goes-mobile-seamlessly-integrate-ai-with-your-android-phone/"><u>ChatGPT Goes Mobile: Seamlessly Integrate AI with Your Android Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incompatibility-errors-with-windows-10-update-build-1607/"><u>Incompatibility Errors with Windows 10 Update (Build 1607)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/upgrading-32-bit-windows-11-to-a-64-bit-system/"><u>Upgrading 32-Bit Windows 11 to a 64-Bit System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-that-care-debunking-3-common-misconceptions-on-privacy/"><u>Bots That Care? Debunking 3 Common Misconceptions on Privacy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>Comprehensive Analysis Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exposing-windows-11s-data-collection-strategies/"><u>Exposing Windows 11'S Data Collection Strategies</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y71-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y71 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-play-7ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Play 7Ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-microsofts-xbox-sound-setup/"><u>Optimizing Microsoft's Xbox Sound Setup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/selective-online-shopping-destinations-fancy-wrapped-gifts/"><u>Selective Online Shopping Destinations Fancy Wrapped Gifts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-with-python-and-windows-server/"><u>Streamlining Data Exchange with Python and Windows Server</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-media-creation-tool-error-x90017/"><u>Unblocking Windows' Media Creation Tool Error X.90017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-fuller-sounds-4-tools-to-exceed-windows-limit/"><u>Unleash Fuller Sounds: 4 Tools to Exceed Windows' Limit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-hp-officejet-pro-n8610-drivers-seamless-compatibility-with-modern-and-legacy-windows-systems/"><u>Updated HP Officejet Pro N8610 Drivers: Seamless Compatibility with Modern and Legacy Windows Systems</u></a></li>
 </ul></div>
 

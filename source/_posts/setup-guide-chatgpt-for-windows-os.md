@@ -1,7 +1,7 @@
 ---
 title: "Setup Guide: ChatGPT for Windows OS"
-date: 2024-10-11T05:48:54.853Z
-updated: 2024-10-15T08:42:34.740Z
+date: 2024-10-16T21:54:47.307Z
+updated: 2024-10-21T02:04:41.940Z
 tags:
   - windows10
   - windows11
@@ -51,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Uninstall the ChatGPT Web App on Edge
@@ -70,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -97,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
 3. In the **Control Panel** window, locate and select **ChatGPT**.
@@ -105,15 +99,22 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -124,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
@@ -161,25 +155,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-from-basics-to-advanced-the-hand-trackers-playbook-for-2024/"><u>[Updated] From Basics to Advanced The Hand Tracker's Playbook for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-excellence-hdr-cameras-decoded-for-2024/"><u>Choosing Excellence HDR Cameras Decoded for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circuit-breakers-fixes-to-power-up-your-photoshop/"><u>Circuit Breakers: Fixes to Power Up Your PhotoShop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-logitech-k400-plus-peripheral-drivers-for-optimal-performance/"><u>Easy Guide to Downloading Logitech K400 Plus Peripheral Drivers for Optimal Performance</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>In 2024, Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-visionary-gear-best-10-lenses-for-sharp-images/"><u>In 2024, Visionary Gear Best 10 Lenses for Sharp Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-msvcrt120dll-on-your-computer/"><u>Overcoming Missing Msvcrt120dll on Your Computer</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/recover-deleted-notes-on-iphone-post-ios-17-and-18-software-update-solutions/"><u>Recover Deleted Notes on iPhone Post-iOS 17 and 18 Software Update Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-fm20dll-error-a-step-by-step-guide-on-how-to-find-and-repair-it/"><u>Solving fm20.dll Error: A Step-by-Step Guide on How To Find and Repair It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-new-age-of-computing-from-w10s-familiarity-to-w11s-novelty/"><u>The New Age of Computing: From W10's Familiarity to W11's Novelty</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-resolving-active-directory-printer-issues-on-win11/"><u>Tips & Tricks for Resolving Active Directory Printer Issues on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-efficiency-mastering-ms-projectenaside-from-what-ive-provided-please-give-me-5-new-book-titles-related-to-ai-in-healthcare/"><u>Unlock Efficiency: Mastering MS Project'enaside From What I've Provided, Please Give Me 5 New Book Titles Related to AI in Healthcare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-non-displaying-storepages-on-win-10/"><u>Unveiling Fixes for Non-Displaying Storepages on Win 10</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +162,27 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-the-art-of-video-clarity-with-version-22-vce/"><u>[New] 2024 Approved Mastering the Art of Video Clarity with Version 2.2 VCE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ideal-beginning-enhancer-for-your-devices/"><u>[New] The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-access-10-free-thumbnail-downloader-apps/"><u>[Updated] In 2024, Access 10 Free Thumbnail Downloader Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-industry-standards-prime-gimbals-for-drones-for-2024/"><u>[Updated] Industry Standards Prime Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-2024s-best-friend-ranked-8-sticks/"><u>[Updated] Iphone 2024'S Best Friend Ranked #8 Sticks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-10-best-free-photo-collage-apps-to-combine-photos-on-iphone/"><u>2024 Approved 10 Best FREE Photo Collage Apps to Combine Photos on iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-growing-engagement-ethically-youtube-success-stories/"><u>2024 Approved Growing Engagement Ethically YouTube Success Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-ais-special-properties-a-comparative-study/"><u>Deciphering AI's Special Properties: A Comparative Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-app-f429f-crash-in-windows-11/"><u>Diagnosing and Repairing APP F429F Crash in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-security-enable-controlled-access-in-windows-11/"><u>Elevate Security: Enable Controlled Access in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-fantastic-free-roku-streaming-options/"><u>Explore These Fantastic Free Roku Streaming Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for .csv files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-approaches-to-tackling-robloxs-error-262/"><u>Insightful Approaches to Tackling Roblox's Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-lead-teams-with-winning-strategies-free-style/"><u>Learn to Lead Teams with Winning Strategies, Free Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-smooth-video-transitions-in-vlc/"><u>Mastering Smooth Video Transitions in VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-productivity-with-custom-winkeys/"><u>Maximize Productivity with Custom WinKeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-msvcr120dll-not-found-windows-issue/"><u>Overcoming 'Msvcr120_dll' Not Found Windows Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth-for-2024/"><u>Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-correct-password-discrepancies-top-5-methods-for-win11-network-security/"><u>Swiftly Correct Password Discrepancies: Top 5 Methods for Win11 Network Security</u></a></li>
+</ul></div>
+

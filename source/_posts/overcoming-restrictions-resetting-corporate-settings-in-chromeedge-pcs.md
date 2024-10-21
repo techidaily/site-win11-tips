@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Restrictions: Resetting Corporate Settings in Chrome/Edge PCs"
-date: 2024-10-08T17:11:07.251Z
-updated: 2024-10-15T09:18:18.017Z
+date: 2024-10-16T03:59:20.150Z
+updated: 2024-10-20T22:54:32.069Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
@@ -69,16 +69,24 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 4. Under the**Policies** key, locate and select the**Chrome** or**Edge** folder. If you see any policies in the right pane that you didn’t create yourself, right-click on the policies and select**Delete** .  
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close Registry Editor and restart your computer to see if the message is removed.
@@ -99,16 +107,16 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -125,28 +133,21 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -194,20 +195,24 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-youtube-video-reaction-ideas/"><u>[New] In 2024, Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-master-2-screen-grab-tools-for-2024/"><u>[New] Master 2 Screen Grab Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-understanding-and-controlling-facebook-video-playback-for-2024/"><u>[Updated] Understanding and Controlling Facebook Video Playback for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/clonar-dvd-con-winx-dvd-copy-pro-convertir-a-iso-y-guardar-copias-de-seguridad-sin-problemas/"><u>Clonar DVD Con WinX DVD Copy Pro - Convertir a ISO Y Guardar Copias De Seguridad Sin Problemas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-10-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 10 and 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-setup-for-bings-ai-assistance-in-windows-11-search-shortcuts/"><u>Instant Setup for Bing's AI Assistance in Windows 11 Search Shortcuts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instant-view-enabling-fb-videos-to-play-by-themselves/"><u>Instant View Enabling FB Videos to Play By Themselves</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/movavis-no-cost-image-magic-seamlessly-switch-from-png-to-gif-online/"><u>Movavi's No-Cost Image Magic: Seamlessly Switch From PNG to GIF Online!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disconnection-issues-with-ea-services-in-win/"><u>Overcoming Disconnection Issues with EA Services in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snowflake-surprises-gifting-windows-games-via-mstore/"><u>Snowflake Surprises: Gifting Windows Games via MSTORE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-win11s-blue-screen-through-these-tips/"><u>Swiftly Resolve Win11's Blue Screen Through These Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-police-scanners-of-2024/"><u>The Best Police Scanners of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wins-update-failure-on-win11-v22h2/"><u>Troubleshooting Wins Update Failure on Win11 V22H2</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-getting-started-with-video-editing-on-mac-os-x-yosemite/"><u>Updated 2024 Approved Getting Started with Video Editing on Mac OS X Yosemite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tiktok-edit-tricks-to-boost-creativity-for-2024/"><u>Advanced TikTok Edit Tricks to Boost Creativity for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-win11-stay-up-to-date-essential-uptime-checks/"><u>Ensure Win11 Stay Up-to-Date: Essential Uptime Checks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-server-crashes-in-media-software/"><u>Fixing Server Crashes in Media Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-evaluation-what-makes-theta-s-special/"><u>Full Evaluation What Makes Theta S Special</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-crucial-is-being-polite-to-your-virtual-helpers-including-chatgpt-alexa-and-siri/"><u>How Crucial Is Being Polite to Your Virtual Helpers Including ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-connect-non-original-logitech-mouse-receivers/"><u>How to Connect Non-Original Logitech Mouse Receivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminate-interruption-5-solutions-to-bring-back-keyboard-glow/"><u>Illuminate Interruption: 5 Solutions to Bring Back Keyboard Glow</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-n3-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find N3 Flip Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-over-jerks-top-techniques-to-address-win-11s-typing-latency/"><u>Jump Over Jerks: Top Techniques to Address Win 11'S Typing Latency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-absent-items-from-file-explorer-list/"><u>Mending Absent Items From File Explorer List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-widows-handbrake-freeze-woes/"><u>Overcome Widows' HandBrake Freeze Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-opengl-error-code-3-with-nvidia/"><u>Overcoming OpenGL Error Code 3 with NVIDIA</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-digital-label-changing-username-in-windows-11/"><u>Revolutionize Your Digital Label: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-distribution-the-ultimate-sefx-guide-for-win11/"><u>Streamlining File Distribution: The Ultimate SEFx Guide for Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secrets-of-aether-revealed-what-it-is-and-how-you-can-join/"><u>The Secrets of Aether Revealed: What It Is & How You Can Join</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-io-manager-and-driver-verifier-conflicts/"><u>Troubleshooting Guide: Fixing IO Manager and Driver Verifier Conflicts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
 

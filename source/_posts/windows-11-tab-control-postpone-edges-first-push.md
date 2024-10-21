@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tab Control: Postpone Edge's First Push"
-date: 2024-10-13T04:41:28.202Z
-updated: 2024-10-15T07:24:12.327Z
+date: 2024-10-15T03:49:09.169Z
+updated: 2024-10-20T18:33:37.893Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 9. **Restart** your PC for the policy changes to take effect and disable the tab preloading feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable Edge Tab Preloading Using the Registry Editor
@@ -66,16 +66,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 ![Disable Microsoft Edge Tab Preloading Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you need to create a new subkey and add a new DWORD value:
@@ -102,10 +96,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 ![Disable Microsoft Edge Tab Preloading Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Disable Edge Tab Preloading Using the Ultimate Windows Tweaker App
@@ -116,42 +110,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 2. Click on the **Search For Tweaks** option. Type “**edge tab**” in the search box and click on the **Go** button.  
 ![Disable Microsoft Edge Tab Preloading Using Ultimate Windows Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-ultimate-windows-tweaker.jpg)
 3. Click on the **Disable Edge Tab Preloading** checkbox to enable it. Then, click on the **Apply Tweaks** button.  
-![Disable Microsoft Edge Tab Preloading Using Ultimate Windows Tweaker 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-ultimate-windows-tweaker-2.jpg)
-4. **Close** the Ultimate Windows Tweaker app and **restart** your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable Microsoft Edge Tab Preloading Using Ultimate Windows Tweaker 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-ultimate-windows-tweaker-2.jpg)
+4. **Close** the Ultimate Windows Tweaker app and **restart** your PC to apply the changes.
 
 ## Disable Edge Tab Preloading for Good on Windows 11
 
  Edge tab preloading serves no useful purpose if you use other browsers. You can disable it using the Group Policy Editor or the Registry Editor. Lastly, if you want a GUI app to disable the feature, you can use the Ultimate Windows Tweaker app.
 
  For Edge lovers, it is a boon, but if you don’t use the default browser and prefer something else, it is a waste of resources. Fortunately, you can easily disable Edge's tab preloading in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-proven-strategies-for-creating-superb-igtv-videos-on-smartphonesdlsrs-for-2024/"><u>[New] Proven Strategies for Creating Superb IGTV Videos on Smartphones/DLSRs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transform-your-memories-into-engaging-facebook-slides/"><u>[Updated] In 2024, Transform Your Memories Into Engaging Facebook Slides</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-exclusive-content-on-twitter-no-twitting/"><u>2024 Approved Exclusive Content on Twitter - No Twitting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-file-organization-grouped-directories-at-a-glance-on-windows-11/"><u>Enhance File Organization - Grouped Directories at a Glance on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-a-tidy-desktop-unnecessary-windows-software-list/"><u>Get a Tidy Desktop: Unnecessary Windows Software List</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-20-proplus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 20 Pro+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>In 2024, Step Up Your Storytelling Effortless Text Addition for Video Clips with Photos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-viral-content-showdown-is-the-time-for-likee-to-surpass-tiktok-nearing/"><u>In 2024, Viral Content Showdown Is the Time for Likee to Surpass TikTok Nearing?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instructions-for-legit-free-vlc-player-download-on-macos-for-2024/"><u>Instructions for Legit Free VLC Player Download on macOS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-challenges-a-guide-to-fixing-your-manager-tool-in-windows-11/"><u>Navigating Challenges: A Guide to Fixing Your Manager Tool in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-cooling-policies-in-microsofts-os-environment/"><u>Navigating Cooling Policies in Microsoft's OS Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-keyboard-functionality-embedding-commands-for-wordpad-into-context-bar/"><u>Optimizing Keyboard Functionality: Embedding Commands for Wordpad Into Context Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-sudden-security-hurdles/"><u>Overcoming Windows 11'S Sudden Security Hurdles</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/tecnicas-efectivas-de-recuperacion-de-informacion-borrada-en-un-unidad-exterior/"><u>Técnicas Efectivas De Recuperación De Información Borrada en Un Unidad Exterior</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-subtle-art-of-windows-11s-user-information-extraction/"><u>The Subtle Art of Windows 11'S User Information Extraction</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-troubleshoot-non-syncing-of-iphones-calendar-with-microsoft-outlook/"><u>The Ultimate Guide to Troubleshoot Non-Syncing of iPhones Calendar with Microsoft Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-adobes-secrets-ms-store-version-acquisition/"><u>Unlocking Adobe's Secrets: MS Store Version Acquisition</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +134,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-integrating-chroma-keying-into-your-edit-suite/"><u>[New] 2024 Approved Integrating Chroma Keying Into Your Edit Suite</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keeping-memories-alive-on-androidmac-with-snaps/"><u>[New] Keeping Memories Alive on Android/Mac with Snaps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] In 2024, Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photos-come-alive-with-accompanied-melodies/"><u>[Updated] Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simplified-webinar-recording-methods-for-windows-and-mac-users-for-2024/"><u>[Updated] Simplified Webinar Recording Methods for Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-predictive-ai-anticipate-the-future-exploring-its-inner-workings/"><u>How Does Predictive AI Anticipate the Future? Exploring Its Inner Workings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y100t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y100t Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-fetching-ip-and-mac-addresses-windows-wise/"><u>Quick Guide: Fetching IP & MAC Addresses, Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-unlocking-telnet-on-wins-os-x/"><u>Step-by-Step Guide: Unlocking Telnet on Wins OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-autonomous-restarts-win11-strategy/"><u>Stop Autonomous Restarts: Win11 Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-screech-start-scroll-mouse-adjustment-guide/"><u>Stop Screech, Start Scroll: Mouse Adjustment Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-online-giants-list-the-most-trafficked-websites-today/"><u>The Ultimate Online Giants List: The Most Trafficked Websites Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-empty-directory-error-code-x80070091/"><u>Troubleshooting Windows' Empty Directory Error Code X80070091</u></a></li>
+</ul></div>
+

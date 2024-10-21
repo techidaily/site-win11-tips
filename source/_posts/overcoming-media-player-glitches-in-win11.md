@@ -1,7 +1,7 @@
 ---
 title: Overcoming Media Player Glitches in Win11
-date: 2024-10-10T20:45:52.394Z
-updated: 2024-10-15T06:27:27.877Z
+date: 2024-10-19T19:47:35.073Z
+updated: 2024-10-21T00:48:23.176Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  If you find that your file is unsupported, use a[free online converter](https://www.makeuseof.com/tag/free-online-file-converters/) to change its format to a compatible one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Video Library Access for the App
 
  The Media Player app may fail to show videos stored on your PC if you have inadvertently disabled video library access for the app. Here’s how you can enable it.
@@ -56,10 +63,10 @@ To refresh libraries in the Media Player app, follow these steps:
 ![Refresh Libraries in the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/refresh-libraries-in-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Switch to the**Library** tab and check if your media files appear now.
@@ -76,13 +83,6 @@ To disable video enhancements in Windows, use these steps:
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -96,18 +96,18 @@ To disable video enhancements in Windows, use these steps:
 
  After running these troubleshooters, restart the Media Player app and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Repair or Reset the Media Player App
 
  Windows 11 includes a useful app repair tool for fixing common issues with apps. You can use this feature to fix issues with most of your apps, including Media Player. Windows will scan the app’s files and settings during this process and attempt to fix any issues it discovers. For more instructions on this, check our guide on[how to repair apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Re-Register the Relevant DLL Files
 
@@ -124,16 +124,10 @@ regsvr32 wmp.dll`
  Restart your PC after this and then check if the Media Player app works as before.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update the Media Player App
@@ -163,16 +157,20 @@ regsvr32 wmp.dll`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] 2024 Approved FIFA Highlights & Trends Charting on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/an-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[New] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-peek-behind-ustreams-curtain-and-more/"><u>[New] Peek Behind Ustream's Curtain and More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-onedrive-tags-in-windows-file-system/"><u>Correcting Erroneous OneDrive Tags in Windows File System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-with-these-8-innovative-personalization-steps-from-bubbleui/"><u>Elevate Your Desktop with These 8 Innovative Personalization Steps From BubbleUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-switching-on-or-off-the-registry-editor/"><u>Guide: Switching on or Off the Registry Editor</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Get and Use Pokemon Go Promo Codes On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-blaze-2-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>In 2024, Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373411881-navigate-and-solve-frozen-shift-problems/"><u>Navigate and Solve Frozen Shift Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-power-indicators-ensure-a-full-charge-with-windows-11-alerts/"><u>Proactive Power Indicators: Ensure a Full Charge with Windows 11 Alerts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-perfect-ad-videos-on-youtube-without-expense/"><u>[New] In 2024, Crafting Perfect Ad Videos on YouTube Without Expense</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-iphone-screen-sharing-made-simple/"><u>[Updated] 2024 Approved IPhone Screen Sharing Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook-in-2024/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ten-steps-to-keeping-vr-healthy/"><u>[Updated] Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-gaming-experience-using-intel-graphics-hub/"><u>Enhance Your Gaming Experience: Using Intel Graphics Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>In 2024, Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-methods-to-shift-beyond-s-mode-confinement/"><u>Mastering Methods to Shift Beyond S Mode Confinement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-2024-with-ease-our-choice-for-best-notetaking-applications/"><u>Navigate 2024 with Ease: Our Choice for Best Notetaking Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-set-microsoft-words-preference-for-text-only-attachment-viewing/"><u>Streamline Your Workflow: Set Microsoft Word's Preference for Text-Only Attachment Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-note-visibility-with-tips-for-modern-windows-users/"><u>Streamlining Note Visibility with Tips for Modern Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-video-conversion-mkv-to-mp4-on-pcs/"><u>Streamlining Video Conversion: MKV to MP4 on PCs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-your-viewer-numbers-a-comprehensive-guide-to-youtube-growth/"><u>Surge Your Viewer Numbers A Comprehensive Guide to YouTube Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-configuration-made-simple-for-win11-users/"><u>Telnet Configuration Made Simple: For Win11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-m6-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco M6 Pro 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-revenue-per-million-viewer-count/"><u>Youtube Revenue Per Million Viewer Count</u></a></li>
 </ul></div>
 

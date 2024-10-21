@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Command Proficiency: A Guide to Windows Narrator"
-date: 2024-10-08T11:12:09.965Z
-updated: 2024-10-14T17:15:41.798Z
+date: 2024-10-19T16:24:52.993Z
+updated: 2024-10-21T01:53:09.478Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +171,10 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,20 +196,20 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-how-to-subtitling-your-igtv-videos/"><u>[New] In 2024, The Ultimate How-To Subtitling Your IGTV Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-over-20-unique-collages-for-brightening-spaces/"><u>[New] Over 20 Unique Collages for Brightening Spaces</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-engagement-amplify-audience-youtube-marketing-for-2024/"><u>[Updated] Elevate Engagement, Amplify Audience (YouTube Marketing) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-secure-your-screen-captures-online/"><u>[Updated] Secure Your Screen Captures Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>2024 Approved Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guidetosettingupdarkinterfaceonwinnotepad/"><u>A GuideToSettingUpDarkInterfaceOnWinNotepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-for-moving-programs-in-windows-11/"><u>A Step-by-Step Approach for Moving Programs in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-advanced-settings-for-windows-11s-bar/"><u>Achieve Advanced Settings for Windows 11'S Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-system-restore-five-tactics/"><u>Activating System Restore: Five Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blank-screenshare-reconnecting-windows-microphone-to-google-meet/"><u>Blank Screenshare: Reconnecting Windows Microphone to Google Meet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bluetooth-harmony-linking-airpods-with-windows/"><u>Bluetooth Harmony: Linking AirPods with Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719203477260-how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-methodology-explored/"><u>Mondly's Methodology Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-virtual-background-for-google-meet/"><u>[Updated] 2024 Approved Best Virtual Background for Google Meet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-snapchat-savants-handbook-perfecting-every-boomerang/"><u>2024 Approved The Snapchat Savant's Handbook Perfecting Every Boomerang</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-performance-dashboard-functionality/"><u>Bridging Gaps in Performance Dashboard Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-smooth-drag-and-drop-on-windows-11-pcs/"><u>Bring Back Smooth Drag & Drop on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-compatibility-barriers-with-simple-fixes-in-xp-vista-and-7/"><u>Bypass Compatibility Barriers with Simple Fixes in XP, Vista & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unwanted-team-sign-in-prompts-on-windows-pcs/"><u>Bypassing Unwanted Team Sign-In Prompts on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-digital-legacy-windows-11-archive/"><u>Charting Your Digital Legacy: Windows 11 Archive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-x8b-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor X8b FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-screenshot-handling-in-steam/"><u>Efficient Screenshot Handling in Steam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone SE | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-g2-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo G2 Phone with Broken Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-ace-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus Ace 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stunning-feats-in-figure-skating-22-moments-for-2024/"><u>Stunning Feats in Figure Skating '22 Moments for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vives-discomfort-follow-these-motion-sickness-fixes/"><u>Vive's Discomfort? Follow These Motion Sickness Fixes</u></a></li>
 </ul></div>
 

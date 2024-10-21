@@ -1,7 +1,7 @@
 ---
 title: "Crafting Artistry: The Top New Additions to Paint Suite"
-date: 2024-10-08T15:54:13.082Z
-updated: 2024-10-15T07:33:25.936Z
+date: 2024-10-14T00:07:46.061Z
+updated: 2024-10-21T00:37:02.271Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
@@ -43,38 +50,37 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enhanced Zoom Controls and Accessibility
 
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
@@ -83,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Classic Paint App Is Here to Stay
@@ -95,27 +107,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics/"><u>[Updated] In 2024, Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lecture-transcription-at-zero-expense/"><u>2024 Approved Lecture Transcription at Zero Expense</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6plus-strategies-for-a-superior-windows-11-taskbar-use/"><u>6+ Strategies for a Superior Windows 11 Taskbar Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-system-load-in-win11/"><u>Accelerate System Load in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-4k-gaming-laptops/"><u>Best 4K Gaming Laptops</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-the-meaning-of-inactive-contacts-on-social-media/"><u>Discovering the Meaning of Inactive Contacts on Social Media</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-windows-compatible-drivers-for-amd-radeon-r9-series-cards-instantly/"><u>Get the Latest Windows-Compatible Drivers for AMD Radeon R9 Series Cards Instantly!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images/"><u>In 2024, No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-pc-compatibility-solutions-for-detroit-become-human/"><u>Mastering PC Compatibility: Solutions for 'Detroit: Become Human'</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +114,24 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-key-principles-for-powerful-video-testimonial-production/"><u>[Updated] Key Principles for Powerful Video Testimonial Production</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971340463-boost-your-computer-intuitive-update-for-intel-iris-graphics-540-drivers-available-now/"><u>Boost Your Computer: Intuitive Update for Intel Iris Graphics 540 Drivers Available Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-new-life-into-wt-color-schemes/"><u>Breathing New Life Into WT: Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-data-gaps-the-art-of-file-integration/"><u>Bridging Data Gaps: The Art of File Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-safe-window-shortcut-for-easy-hardware-disconnect-on-win11/"><u>Building a Safe Window Shortcut for Easy Hardware Disconnect on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-brick-wall-top-fixes-for-windows-install-verification-pause/"><u>Bypass the Brick Wall: Top Fixes for Windows Install Verification Pause</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-worst-8-bad-habits-in-windows-11-life/"><u>Bypass the Worst: 8 Bad Habits in Windows 11 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-extract-error-1152-in-windows-oses/"><u>Bypassing 'Extract Error 1152 in Windows OSes'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-quick-access-go-straight-to-file-explorer-via-onedrive/"><u>Bypassing Quick Access: Go Straight to File Explorer via OneDrive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-vivo-y100i-power-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Without Passcode Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-truthgpt-the-real-deal-or-just-hot-air/"><u>Is TruthGPT The Real Deal or Just Hot Air?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/permitted-recording-youtube-video-screenshots-for-2024/"><u>Permitted Recording YouTube Video Screenshots for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722122990351-why-upgrading-to-chatgpt-plus-is-a-smart-move-discover-the-9-main-advantages/"><u>Why Upgrading to ChatGPT Plus Is a Smart Move - Discover the 9 Main Advantages!</u></a></li>
+</ul></div>
+

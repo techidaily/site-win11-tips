@@ -1,7 +1,7 @@
 ---
 title: Mastery Over 'Package Could Not Be Registered' Errors on Win OS
-date: 2024-10-08T07:31:04.185Z
-updated: 2024-10-15T06:46:13.625Z
+date: 2024-10-17T23:11:06.892Z
+updated: 2024-10-21T00:50:13.286Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Photos
 
  Updating Microsoft Store apps like Photos can fix issues with them. So, try updating Microsoft Photos like this:
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Photos Apps
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Deployment Image and System File Checker Tools
 
@@ -82,36 +96,9 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![The uninstall Photos command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-photos-command.jpg)
 3. To reinstall Photos, input this PowerShell command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset Windows
 
@@ -120,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -140,20 +134,18 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-11-video-cameras-under-500-a-frugal-filmmakers-list/"><u>[New] 2024 Approved Top 11 Video Cameras Under $500 A Frugal Filmmaker's List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-list-superior-gaming-live-options/"><u>[Updated] 2024 Approved Expert List Superior Gaming Live Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>2024 Approved The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-career-boosting-classes-on-linkedin-platform/"><u>2024'S Premier Career-Boosting Classes on LinkedIn Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/closed-folder-fixes-for-w11w10-double-click-malfunction/"><u>Closed Folder Fixes for W11/W10 Double-Click Malfunction</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-picks-premium-mesh-networking-for-homes-and-businesses/"><u>Expert Picks: Premium Mesh Networking for Homes & Businesses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-dangers-of-keygen-malware-symptoms-and-removal-strategies/"><u>Exploring the Dangers of Keygen Malware: Symptoms & Removal Strategies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-15-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 15? Find the Best Solution Here</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-screen-record-on-dell-laptop/"><u>In 2024, How to Screen Record on Dell Laptop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-ranking-the-real-heavies-youtube-video-watch-hours-top-10/"><u>In 2024, Ranking the Real Heavies YouTube Video Watch Hours Top 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-battery-alert-strategies-for-win-users/"><u>Proactive Battery Alert Strategies for Win Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-your-cyber-voyage-checking-stable-connections-on-pc/"><u>Securing Your Cyber Voyage: Checking Stable Connections on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-intelligent-assistant-protocol-on-windows/"><u>Stopping Intelligent Assistant Protocol on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-unanticipated-error-messages-in-wins-secure/"><u>Tackling Unanticipated Error Messages in WINS Secure</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-superior-screen-refinement-software-for-video-lovers/"><u>[New] In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/aeiousys-mobile-solar-generator-perfect-pure-sine-wave-output-reviewed-for-healthcare-device-compatibility/"><u>Aeiousy's Mobile Solar Generator: Perfect Pure Sine Wave Output Reviewed For Healthcare Device Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-hyper-v-installation-in-windows-11-home-systems/"><u>Conquering Hyper-V Installation in Windows 11 Home Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-gap-in-intel-extended-cpu-warranty-coverage-among-leading-pc-companaders-survey-findings/"><u>Exploring the Gap in Intel Extended CPU Warranty Coverage Among Leading PC Companaders - Survey Findings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-smart-8-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Smart 8 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovation-meets-efficiency-top-6-to-do-list-apps-for-win-11/"><u>Innovation Meets Efficiency - Top 6 To-Do List Apps for Win 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-complete-guide-to-audio-manipulation-in-avidemux-for-2024/"><u>New The Complete Guide to Audio Manipulation in Avidemux for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-dead-headset-on-your-machine-instantly/"><u>Resurrect Dead Headset on Your Machine, Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-success-in-windows-service-starts/"><u>Strategies to Trigger Success in Windows Service Starts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-synergy-of-ai-and-windows-software-development/"><u>The Synergy of AI and Windows Software Development</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-rectify-steam-server-connection-failures-in-windows/"><u>Tips to Rectify Steam Server Connection Failures in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-15-plus-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 15 Plus to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nubia Red Magic 8S Pro+ Device</u></a></li>
 </ul></div>
 

@@ -1,0 +1,158 @@
+---
+title: Unveiling Opened Windows with a Click
+date: 2024-10-17T01:09:38.317Z
+updated: 2024-10-20T16:29:36.709Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Unveiling Opened Windows with a Click
+excerpt: This Article Describes Unveiling Opened Windows with a Click
+keywords: Click to Unlock Windows,Quick Window Access,Ease Window Entry,Simplified Window Opens,Instant Windows Start,Swiftly Open Doors,Effortless Portal Use
+thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4de409efc683d784a7434cf5.jpg
+---
+
+## Unveiling Opened Windows with a Click
+
+ Have you recently edited a file, then accidentally closed it and lost it somewhere? Do you want to know which files someone you're sharing your computer with opened recently? Locating recently opened files is super easy with Windows. So, whether you wish to re-edit recently closed files or track who accessed them last time, you can do so easily.
+
+ In this article, we'll discuss how to see the recently opened files on Windows, when they were modified the last time, and how to recover them if they have been deleted.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to See Recently Opened Files on Windows
+
+ Windows offers two ways to view recently opened files; using Quick Access or the Recent Items folder.
+
+ While Quick Access shows only a few files opened recently (approx. 20), the Recent Items folder keeps a history of files and folders opened many days ago. So, a user can go back to check which files were opened on a particular day, even a week or month ago.
+
+ Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
+
+### How to View Recently Opened Files in Quick Access
+
+ You can view recently opened items in Quick Access by opening**File Explorer** from the taskbar and selecting**Quick access** from the left sidebar. Following that, you will see a list of recently opened files in the right pane. So, scroll down to find the recent file or folder you were looking for.
+
+ In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
+
+ If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
+
+### How to View Recently Opened Items in the Recent Items Folder
+
+ Follow these steps to view recently opened items in the Recent Items folder:
+
+1. From the taskbar, open File Explorer.
+2. Paste the following path into File Explore's navigation bar.  
+`C:\Users\username\AppData\Roaming\Microsoft\Windows\Recent`
+3. Press**Enter** .
+
+ Don't forget to replace your actual username in the path mentioned above. If you don't do this, you won't be able to access the Recent Items folder.
+
+ The above steps will take you to the Recent Items folder, where you can view recently opened items. And depending on how many files and folders you have opened recently, you can even check those opened last month.
+
+**How to Sort Recently Opened Items**
+
+ When viewing recently opened items in the Recent Items folder, you can sort them by various parameters, such as date modified, type, size, authors, etc. To sort the items by a specific parameter, follow these steps:
+
+1. Right-click in the same folder.
+2. Navigate to**Sort by** in the context menu.
+3. Click on the parameter you wish to sort the files by.  
+![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
+4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
+![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
+5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
+
+## How to View Recently Opened Files for Specific Apps on Windows
+
+ Although most apps allow users to view recently opened files within the app, Windows also keeps track of recently opened files in most cases.
+
+ To see recently opened files for a specific app, go to Windows Search and type the app name. In the right pane of the search results, you'll see the recently opened items in that app, which you can access with a single click.
+
+ To see more recently opened items than what appears in the search results, open the app and navigate to its recent files section.
+
+![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to See Recently Opened Files Removed From Quick Access
+
+ Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to See Recently Opened Files Deleted From the Recent Items Folder
+
+ When you clear the File Explorer history or delete recently opened files from the Recent Items folder, they are permanently removed from Windows. Restoring this data is complex, and your chances of doing so are slim. However, some workarounds may allow you to access the recently opened files again.
+
+ Go to the location of the**Recent Items** folder, right-click on the folder and select**Restore previous versions** from the context menu. After that, click on the most recent version of the folder(if available) and then click on**Restore** .
+
+ If this option isn't available in the context menu for the Recent Items folder, repeat the process for its parent folder,**"Windows."** So, right-click on the**Windows** folder and select**Restore previous versions** from the context menu.
+
+![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
+
+ If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
+
+## Access Recently Opened Files With Ease
+
+ Recently opened files give us a quick overview of which files have been worked on by you or someone else recently. We hope our guide made it easy for you to access recently opened files in Quick Access and the Recent Items folder.
+
+ If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-game-console-deals-under-100/"><u>[New] 2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online/"><u>[Updated] In 2024, Galaxy of Play Ultimate List of the Cheapest RPGs Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shopping-spree-to-stunning-video-haul-editing-explained/"><u>2024 Approved From Shopping Spree to Stunning Video Haul Editing Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-underperforming-machines-addressing-intel-hd-specs-issues/"><u>Correcting Underperforming Machines: Addressing Intel HD Specs Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-read-only-windows-file-constraints/"><u>Easing Read-Only Windows File Constraints</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-impact-of-photoshops-stabilization-on-quality-control/"><u>In 2024, The Impact of Photoshop's Stabilization on Quality Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photography-in-windows-11-building-impressive-slide-shows-and-fixes/"><u>Mastering the Art of Photography in Windows 11: Building Impressive Slide Shows & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-vanished-5ghz-connection-link-in-windows-11-swiftly/"><u>Restore Vanished 5GHz Connection Link in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-clutter-a-fast-way-to-remove-bloatware-in-win11/"><u>Slash Clutter: A Fast Way to Remove Bloatware in Win11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-for-confirming-youtube-identity-for-2024/"><u>Steps for Confirming YouTube Identity for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-no-cost-malware-scrubbers-in-2er-2024/"><u>Top 5 No-Cost Malware Scrubbers in 2Er 2024</u></a></li>
+</ul></div>
+

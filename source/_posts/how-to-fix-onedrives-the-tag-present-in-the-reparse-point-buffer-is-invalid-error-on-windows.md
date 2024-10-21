@@ -1,7 +1,7 @@
 ---
 title: How to Fix OneDrive’s The Tag Present in the Reparse Point Buffer Is Invalid Error on Windows
-date: 2024-10-09T06:14:47.843Z
-updated: 2024-10-15T14:17:35.795Z
+date: 2024-10-16T01:16:17.859Z
+updated: 2024-10-20T16:22:31.589Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
  "Error 0x80071129" or "Location not found" appears as the title of the error window, while the main part of the error appears in the error window. Any variation of this error has nearly the same causes, regardless of its nature. In light of that, similar fixes are effective in resolving the issue. Let's see how you can fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But First, Some Preliminary Checks
 
  Apply the following preliminary checks before attempting the major fixes:
@@ -60,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 4. Then press**Enter** .  
 ![Running Check Disk Scan in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-check-disk-scan-in-windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here,**C:** refers to the drive where your operating system is installed. If your operating system resides on a different drive, change the command accordingly. Also, don't forget to enter the**"/f"** and**"/r"** parameters since these are needed to fix errors, locate bad sectors, and recover corrupted information.
 
  The CHKDSK scan has the greatest chance of adequately fixing the error under discussion. However, if it doesn't resolve the problem, you can move on to the next solution.
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
  To better understand the results of these scans, see our[article about the differences between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . If the error persists after running the above scans, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check for File-Specific Issues
 
  Next, you should check whether the error occurs for a particular file or all files synced on OneDrive. Attempt to make the exact change that caused the error in a different folder and see if the problem repeats. If the issue is file-specific, it is recommended that you restore the file to its previous version, if possible. Here are the steps you need to follow:
@@ -104,16 +97,29 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 4. Click the**Restore** button, then click**Apply** and**OK** .  
 ![Restoring Previous Version of a File in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restore-previous-file-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the Passwords From the Problematic Files
 
  Has this error occurred after password-protecting a synced file on OneDrive? In this case, you should go to OneDrive, check the history of modified files, and restore the problematic file to a previous version. Our article on[recovering OneDrive files from version history](https://www.makeuseof.com/tag/restore-onedrive-files-version-history/#rolling-back-a-file) explains how to roll back a file. Reset OneDrive if this fix does not solve the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset OneDrive
 
@@ -130,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
  If the file you are experiencing the error with has value to you and you cannot delete it, move it to another computer and delete it from your primary device. Hopefully, relocating or deleting the file will prevent the error from occurring again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Annoying OneDrive Errors at Bay
@@ -155,15 +161,19 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevating-your-content-insights-into-viewership-lead/"><u>[Updated] 2024 Approved Elevating Your Content Insights Into Viewership Lead</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-pioneering-youtube-fitness-ideas-for-a-movement-driven-viewership/"><u>[Updated] In 2024, Pioneering YouTube Fitness Ideas for a Movement-Driven Viewership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-vivetool-innovations/"><u>Elevate Your Windows Experience with ViVeTool Innovations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/erase-with-ease-the-top-rated-stellar-file-remover-for-windows-users/"><u>Erase with Ease: The Top-Rated Stellar File Remover for Windows Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-landscape-of-online-interaction-insights-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Landscape of Online Interaction: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-nullify-audio-amplification-in-windows/"><u>Guide to Nullify Audio Amplification in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016983310-reviving-hdmi-sound-outputs-for-your-windows-presso-pc-easy-fixes/"><u>Reviving HDMI Sound Outputs for Your Windows Presso PC - Easy Fixes!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-idt-hd-audio-drivers-for-optimal-performance-on-windows-11/"><u>Troubleshooting and Fixing the IDT HD Audio Drivers for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-excellent-frames-for-your-pics/"><u>[New] 2024'S Excellent Frames for Your Pics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-glee-and-gags-the-classic-vhs-of-a-goofy-adventure/"><u>2024 Approved 'Glee and Gags' - The Classic VHS of A Goofy Adventure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlocking-instagram-potential-with-video-descriptions/"><u>2024 Approved Unlocking Instagram Potential with Video Descriptions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-performance-of-discord-searches-on-windows/"><u>Enhancing the Performance of Discord Searches on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-counteract-failed-imports-of-iphone-photos-in-windows-os/"><u>How To Counteract Failed Imports of iPhone Photos in Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12t-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12T Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-freeze-whole-panel-of-content/"><u>In 2024, Freeze Whole Panel of Content</u></a></li>
+<li><a href="https://discover-help.techidaily.com/optimiza-tus-videos-para-la-excelencia-logra-la-maxima-calidad-gracias-a-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia: Logra La Máxima Calidad Gracias a Winxvideo AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-win-tips-for-windows-file-order-max-156/"><u>Quick Win Tips for Windows File Order (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-stickers-top-8-notebook-apps-for-pc/"><u>Screen Stickers: Top 8 Notebook Apps for PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-installation-fresh-geforce-gtx-460-graphics-card-drivers-for-windows-users/"><u>Seamless Installation: Fresh GeForce GTX 460 Graphics Card Drivers for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-decisions-your-roadmap-to-the-right-windows-device/"><u>Top 7 Decisions: Your Roadmap to the Right Windows Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-your-windows-10-audio-troubles-in-just-five-easy-steps/"><u>Ultimate Guide: Solving Your Windows 10 Audio Troubles in Just Five Easy Steps</u></a></li>
 </ul></div>
 

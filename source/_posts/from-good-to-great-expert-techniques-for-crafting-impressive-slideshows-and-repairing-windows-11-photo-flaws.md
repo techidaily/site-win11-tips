@@ -1,7 +1,7 @@
 ---
 title: "From Good to Great: Expert Techniques for Crafting Impressive Slideshows & Repairing Windows 11 Photo Flaws"
-date: 2024-10-07T21:37:56.306Z
-updated: 2024-10-15T04:31:54.906Z
+date: 2024-10-17T16:08:40.882Z
+updated: 2024-10-20T16:23:18.480Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the Slideshow Feature in the Photos App
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
  If you want to adjust the volume of the slideshow, you can hover on the **speaker** icon and use the **slider bar**. It doesn’t affect the system volume settings. Click on the **speaker** icon or press the **M** key to mute the slideshow.
@@ -78,17 +78,10 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -96,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the Spot Fix Feature in the Photos App
 
@@ -126,26 +112,27 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
 
  Microsoft Photos never captured the interest of users until this update came around. The ability to organize photo collection, add a captivating slideshow, and image editing features make it a competent photo editing app.
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-best-video-equipment-for-documenting-dynamic-musical-performances-for-2024/"><u>[Updated] Best Video Equipment for Documenting Dynamic Musical Performances for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-7-prime-free-password-generators-for-pcs/"><u>Explore 7 Prime Free Password Generators for PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-overcome-compatibility-challenges-with-xbox-accessories-on-older-windows-systems/"><u>How to Overcome Compatibility Challenges with Xbox Accessories on Older Windows Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-achieve-excellence-in-fb-video-marketing-essential-free-kit-included/"><u>In 2024, Achieve Excellence in FB Video Marketing - Essential FREE Kit Included</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-evaluation-the-moto-g-stylus-delivers-topnotch-performance-reliable-battery-life-and-a-functional-stylus/"><u>In-Depth Evaluation: The Moto G Stylus Delivers Topnotch Performance, Reliable Battery Life, and a Functional Stylus</u></a></li>
-<li><a href="https://fox-access.techidaily.com/scripting-an-emotionally-charged-trailer-draft-for-2024/"><u>Scripting an Emotionally Charged Trailer Draft for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x80070570-file-corruption-in-windows-11/"><u>Troubleshooting Code 0X80070570 File Corruption in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-winerror-0x80071a90-in-windows/"><u>Understanding & Resolving WinError: 0X80071a90 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unified-tech-experience-windows-pc-and-galaxy-device-flow/"><u>Unified Tech Experience – Windows PC & Galaxy Device Flow</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,3 +141,20 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/lotting-the-pathway-for-engaging-youtube-content/"><u>[New] Plotting the Pathway for Engaging YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-and-confident-windows-viewing-top-6-fixes-now/"><u>Clear and Confident Windows Viewing: Top 6 Fixes Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhomes-blueprint-for-cutting-edge-w11-living/"><u>DevHome's Blueprint for Cutting-Edge W11 Living</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-ensure-your-surfaces-software-stays-current/"><u>Expert Tips to Ensure Your Surface's Software Stays Current</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-sj7s-high-definition-action-footage-in-new-review/"><u>Explore SJ7's High-Definition Action Footage in New Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-i-upgraded-to-budget-friendly-xr-glasses-leaving-behind-apple-vision-pro-and-meta-quest-3-zdnet/"><u>How I Upgraded to Budget-Friendly XR Glasses, Leaving Behind Apple Vision Pro & Meta Quest 3 | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-hidden-5ghz-networks-in-windows-11-using-7-tips/"><u>How to Uncover Hidden 5GHz Networks in Windows 11 Using 7 Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fall-guys-startup-issues-no-crash-gameplay/"><u>Resolving 'Fall Guys' Startup Issues: No-Crash Gameplay</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-and-solutions-for-non-booting-replicated-ssds-on-dell-systems/"><u>Troubleshooting and Solutions for Non-Booting Replicated SSDs on DELL Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/zing-jump-cuts-to-amplify-your-vlog-impact/"><u>Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
+</ul></div>
+

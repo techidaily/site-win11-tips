@@ -1,7 +1,7 @@
 ---
 title: Fixing Frozen Task Manager in Windows Operations
-date: 2024-10-08T02:02:54.577Z
-updated: 2024-10-14T19:17:14.092Z
+date: 2024-10-16T02:41:26.172Z
+updated: 2024-10-20T21:16:34.738Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
  If this policy is not enabled, try turning it on and off. Click **Enabled** and **Apply** to activate the policy. Then select **Disabled**/**Not configured** to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Initiate an Antivirus Scan
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 ![The antivirus scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-now-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Policies Key
@@ -87,23 +87,9 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 ![The DisableTaskMgr DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabletskmgr-dword.jpg)
 3. The value for the **DisableTaskMrg** DWORD should be **0**. If it’s set any differently, erase the number in the **Value** box and input **0**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **OK** to set the **DisableTaskMgr** value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-edit-dword-window.jpg)
 5. Now close the Registry Editor. To ensure the changes take effect, [restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) after editing the registry.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the PowerShell Command for Re-Registering Apps
 
@@ -117,6 +103,20 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 ![The PowerShell command that can fix Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-reinstall-apps-command.jpg)
 5. Press **Enter** to execute the command and wait for it to finish before exiting PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Change Your User Account
 
  Windows user account issues can also cause Task Manager to stop working. For example, your user account might be corrupted in some way. In this case, you can try to repair the corrupted user account or set up an entirely new one. Task Manager might work fine in a new user account.
@@ -125,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-account-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows to an Earlier Time
 
  The System Restore tool can address some of the potential causes for Task Manager not working if you have it enabled. Much depends on whether you can select a restoration point that will roll Windows back to a date when Task Manager worked okay. If you can, rolling Windows back to an earlier time is worth a try when other potential solutions are ineffective.
@@ -139,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
  Our article about [how to utilize System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) tells you how to apply this potential fix. Choose a restoration point that will restore Windows to a time when you could utilize Task Manager without issues. You’ll need to reinstall desktop software and apps installed after a chosen restore point.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Window PC
 
@@ -149,16 +149,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Task Manager Within Windows Again
@@ -167,25 +161,6 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  Task Manager might throw up an error message or simply not respond when it’s not working. Task Manager opens with a blank window and crashes soon after for some users. Users can’t utilize Task Manager when it’s not working. This is how you can fix Task Manager not working on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>2024 Approved Expert Insights Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-color-mastery-11-tutorials/"><u>2024 Approved Unveiling the Secrets of Color Mastery (11 Tutorials)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-tips-to-quickly-solve-windows-screen-problems/"><u>5 Tips to Quickly Solve Windows Screen Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-free-up-local-drive-space-without-deleting-files-on-windows-11/"><u>8 Ways to Free Up Local Drive Space Without Deleting Files on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-and-amending-system-call-failures-in-modern-windows/"><u>Addressing and Amending System Call Failures in Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-user-interface-customization-for-win-11/"><u>Advanced User Interface Customization for Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719365152122-boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-net-speed-win-pc-download-acceleration-tips/"><u>Boosting Net Speed: Win-PC Download Acceleration Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-sonys-playstation-5-solely-offered-games-and-titles/"><u>Explore Sony's PlayStation 5 Solely Offered Games & Titles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-fifa-19-from-freezing-or-crashing-on-your-computer-solutions-proven-effective/"><u>How to Stop FIFA 19 From Freezing or Crashing on Your Computer - Solutions Proven Effective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-video-enhancer-22-for-2024/"><u>How To Use Video Enhancer 2.2 for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-11-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 11 Pro+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-gps-devices-for-modern-cars/"><u>Premier GPS Devices for Modern Cars</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-pick-top-3d-lights-for-gamers-sanctuaries/"><u>The Ultimate Pick: Top 3D Lights for Gamers' Sanctuaries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719366332809-trouble-at-clipcraft-unravel-fixes-today/"><u>Trouble at ClipCraft? Unravel Fixes Today</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,3 +168,25 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-top-notch-drones-for-professionals-our-curated-list-for-2024/"><u>[New] Top-Notch Drones for Professionals – Our Curated List for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-choice-of-9-free-youtube-logos-and-graphics-maker/"><u>[Updated] Premier Choice of 9 Free YouTube Logos & Graphics Maker</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-impressive-hdr-photography-for-portraits-for-2024/"><u>[Updated] Unveiling Impressive HDR Photography for Portraits for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-6-completely-different-places-to-get-youtube-icons-and-logos/"><u>2024 Approved 6 Completely Different Places to Get YouTube Icons and Logos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/avatar-architecture-your-uncomplicated-guide-to-virtual-existence-for-2024/"><u>Avatar Architecture Your Uncomplicated Guide to Virtual Existence for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-notification-preferences-in-windows-11/"><u>Customizing Notification Preferences in Windows 11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/embedding-audio-content-across-multiple-pages-a-guide-for-your-flipboard-ebook/"><u>Embedding Audio Content Across Multiple Pages: A Guide for Your FlipBoard eBook</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-10-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-mix-fold-3-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Mix Fold 3 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-11-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 11 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-the-games-three-methods-for-directory-entry/"><u>Inside the Games: Three Methods for Directory Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-way-to-group-policies-on-windows/"><u>Navigate Your Way to Group Policies on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-profiles-not-valid-issue-on-modern-windows/"><u>Overcoming Profiles Not Valid Issue on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purely-user-centric-start-in-w11/"><u>Purely User-Centric Start in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-way-into-a-windows-shared-location/"><u>Secure Your Way Into a Windows Shared Location</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-clippy-enhancement-simplify-compatibility-issues/"><u>Windows CLIppy Enhancement: Simplify Compatibility Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-the-winerror-0x80072746-email-mishaps/"><u>Zeroing in on the WinError 0X80072746 Email Mishaps</u></a></li>
+</ul></div>
+

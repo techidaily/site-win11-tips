@@ -1,7 +1,7 @@
 ---
 title: Overhauling Windows 11 Terminal Configuration
-date: 2024-10-08T16:37:22.676Z
-updated: 2024-10-15T05:42:16.030Z
+date: 2024-10-14T19:08:07.952Z
+updated: 2024-10-21T00:02:25.883Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  Let's now move to the below sections and see how it can be reset.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -44,16 +51,23 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -65,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 2. In the Command Prompt window, copy and paste the following command:  
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
@@ -86,10 +93,10 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Press**Enter** to execute the command.
@@ -102,13 +109,6 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 2. Copy and paste the following path into the address bar:  
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
@@ -133,18 +133,19 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-audio-collection-from-your-imac/"><u>[New] Effortless Audio Collection From Your iMac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-prime-propeller-picks-unveiling-top-5-motors-for-drones/"><u>[New] Prime Propeller Picks Unveiling Top 5 Motors for Drones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-still-shots-to-movies-mastering-logitech-webcam-videos-for-2024/"><u>[Updated] From Still Shots to Movies Mastering Logitech Webcam Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-online-audio-video-fusion-platform/"><u>[Updated] Online Audio Video Fusion Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-fresh-windows-11-approach-to-system-cleanliness/"><u>A Fresh Windows 11 Approach to System Cleanliness</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-best-podcast-tools/"><u>Android's Best Podcast Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/baldurs-gate-glitches-be-gone-discover-six-key-solutions-to-enhance-gameplay/"><u>Baldur's Gate Glitches Be Gone! Discover Six Key Solutions to Enhance Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-effective-picture-call-applications-available-today/"><u>Discover the Most Effective Picture Call Applications Available Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rescue-your-vscode-session-w11/"><u>How to Rescue Your VSCode Session W11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-how-to-quickly-obtain-wacom-drivers/"><u>Instant Access: How to Quickly Obtain Wacom Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweak-windows-11-shutdown-procedure-for-active-operations/"><u>Tweak Windows 11 Shutdown Procedure for Active Operations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-visual-clarity-the-art-of-background-softening-on-youtube/"><u>[New] 2024 Approved Mastering Visual Clarity The Art of Background Softening on Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>[New] 2024 Approved Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-pc-vr-headsets-for-2024/"><u>[New] Top 10 PC VR Headsets for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-a-broken-corsair-virtuoso-microphone-a-comprehensive-guide/"><u>Diagnosing and Fixing a Broken Corsair Virtuoso Microphone: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-wake-up-speed-tweaking-boot-menu-wait-timer/"><u>Enhance Wake-Up Speed: Tweaking Boot Menu Wait Timer</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>In 2024, Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-your-heat-in-check-with-these-gamers-laptop-care-guidelines/"><u>Keep Your Heat in Check with These Gamer's Laptop Care Guidelines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-windows-11-search-strategies-for-enhanced-efficiency/"><u>Masterful Windows 11 Search Strategies for Enhanced Efficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-restoring-sound-to-netflix-viewing/"><u>Troubleshooting Tips for Restoring Sound to Netflix Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win11-potential-with-devhome-exploration/"><u>Unlocking Win11 Potential with DevHome Exploration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-viairs-portable-88p-air-compressor-strength-vs-weaknesses/"><u>Unveiling the Pros and Cons of Viair's Portable 88P Air Compressor - Strength Vs. Weaknesses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-computers-clock-display-top-5-dynamic-windows-clock-screensavers-using-these-apps/"><u>Upgrade Your Computer’s Clock Display: Top 5 Dynamic Windows Clock Screensavers Using These Apps</u></a></li>
 </ul></div>
 

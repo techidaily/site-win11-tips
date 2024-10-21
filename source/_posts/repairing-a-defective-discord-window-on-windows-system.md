@@ -1,7 +1,7 @@
 ---
 title: Repairing a Defective Discord Window on Windows System
-date: 2024-10-10T04:10:48.687Z
-updated: 2024-10-15T01:35:11.577Z
+date: 2024-10-14T20:00:30.214Z
+updated: 2024-10-21T02:41:52.890Z
 tags:
   - windows10
   - windows11
@@ -52,34 +52,20 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 ![Turn On the Toggle Next to Enable in-game Overlay Option in Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-turn-on-the-toggle-next-to-enable-in-game-overlay-option-in-discord-s-game-overlay-settings.jpg)
 5. After that, navigate to the **Registered Games** tab and see whether the game you're playing is listed under **Added Games**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Ensure the Game is Listed in the Added Games Section of the Registered Games Tab in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-ensure-the-game-is-listed-in-the-added-games-section-of-the-registered-games-tab-in-discord-settings.jpg)
 6. If the game is already added there, skip this step. If it isn't added, run the game again while Discord is open, and the app will automatically recognize it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. If Discord fails to detect the game automatically, click **Add it!**, select the game from the dropdown, and click **Add Game**.  
 ![Click on Add It And Select the Game From the Dropdown Menu in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-click-on-add-game-button-and-select-the-game-from-the-dropdown-menu-in-discord-settings.jpg)
 8. Upon seeing the game in the **Added Games** list, turn on its overlay. You can do that by clicking the **monitor icon** next to the game.  
 ![Turn On the Overlay Option for the Game in the Added Games List in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-turn-on-the-overlay-option-for-the-game-in-the-added-games-list-in-discord-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If any of the above settings weren't configured correctly, configuring them properly will resolve the problem.
 
@@ -90,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
  To see that, launch Discord, go to **User Settings**, and navigate to **Game Overlay**. Here you can see the assigned hotkey under **Toggle Overlay Lock**.
 
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the hotkey differs from what you pressed earlier, try pressing the correct key combinations. However, if you are pressing the correct hotkey, but it isn't working, you should change it; click on the already set hotkey and press the different combination of keys.
 
@@ -110,7 +89,21 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 ![Select the Recommended Scale Next to the Scale Dropdown in Display Settings of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-select-the-recommended-scale-next-to-the-scale-dropdown-in-display-settings-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're running Windows 10, check out our guide on [how to configure display scaling](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) to select the recommended scale. The recommended scale percentage can vary depending on the screen size and resolution; select the one Windows suggests.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Hardware Acceleration
 
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
  To disable hardware acceleration, launch Discord, open **User Settings**, select **Advanced** under **App Settings**, and toggle **Hardware Acceleration** off.
 
 ![Turn Off the Toggle Next to Hardware Acceleration in Advanced Tab of App Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-turn-off-the-toggle-next-to-hardware-acceleration-in-advanced-tab-of-app-settings-in-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Overlay Position
 
@@ -136,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 5. Then, simply press **CTRL+S** to save the document and close the file.  
 ![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the developer tools have been enabled, follow these steps:
 
 1. Relaunch Discord.
@@ -150,21 +143,14 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 ![Open the Developer Console in Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-open-the-developer-console-in-discord-app-on-windows.jpg)
 3. Click the **double arrow icon (>>)** and select **Application**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Select Application by Clicking the Double Arrow Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-select-application-by-clicking-the-double-arrow-icon.jpg)
 4. Expand the **Local Storage** category under **Storage**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Look for the **"OverlayStoreV2"** or **"OverlayStore"** keys. Most likely, you will find only one of these keys.
@@ -172,26 +158,27 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 ![Delete the OverlayStore Key by Right-clicking on It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-delete-the-overlaystore-key-by-right-clicking-on-it.jpg)
 7. Then, restart Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully, the overlay position will be reset, and the overlay will begin working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Discord Overlay Back on Track
 
  When the Discord overlay fails to show up during gameplay, we are forced to minimize the game to view texts, respond to calls, or do anything else on Discord. We've shown you what causes the feature to stop working and what fixes you can apply to resolve it. If the issue persists for too long, reach out to Discord support.
 
  If you are unable to enable the Discord overlay while playing the game, here are some checks and fixes that may assist you in resolving the issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-creation-your-guide-to-googles-audio-upload/"><u>[Updated] In 2024, From Creation Your Guide to Google's Audio Upload</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-ae-integrating-custom-typefaces/"><u>[Updated] Mastering AE Integrating Custom Typefaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-novel-way-to-manage-galaxy-devices-with-windows-11/"><u>A Novel Way to Manage Galaxy Devices with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-lookup-resurrecting-w11-file-explorer/"><u>Classic Lookup: Resurrecting W11 File Explorer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/metaverse-or-fiction-separating-fact-from-beliefs/"><u>Metaverse or Fiction: Separating Fact From Beliefs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-pin-access-issues/"><u>Resolving Windows 11 PIN Access Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncompromised-security-in-windows-app-downloads/"><u>Uncompromised Security in Windows App Downloads</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -200,3 +187,21 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-horizon-proworks-complete-4k-integrated-solution/"><u>[New] Horizon ProWorks Complete 4K Integrated Solution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-detailed-protocols-for-filming-films-across-multiplatform-systems/"><u>[New] In 2024, Detailed Protocols for Filming Films Across Multiplatform Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-create-a-square-video-for-instragram-in-imovie/"><u>[New] In 2024, How to Create a Square Video for Instragram in iMovie?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-secret-weapon-unveiling-the-strategy-behind-transfer-learning/"><u>AI's Secret Weapon: Unveiling the Strategy Behind Transfer Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-these-exceptional-ai-powered-story-generators-you-need-to-try-out/"><u>Discover These Exceptional AI-Powered Story Generators You Need To Try Out</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discovering-available-storage-a-comprehensive-guide-to-monitoring-disk-space-in-windows-10/"><u>Discovering Available Storage: A Comprehensive Guide to Monitoring Disk Space in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-repair-openal32dll-errors-on-windows-os/"><u>How to Address and Repair OpenAL32.dll Errors on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-inconsistent-gestures-on-your-windows-device/"><u>Mending Inconsistent Gestures on Your Windows Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/most-downloaded-android-apps-of-the-month/"><u>Most-Downloaded Android Apps of the Month</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-missing-windows-logins-with-ease/"><u>Navigating Through Missing Windows Logins with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-media-tool-errors-0x8007043c-and-0x90017-fixes/"><u>Overcoming Media Tool Errors: 0X8007043C and 0X90017 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-powertoys-experience-with-system-switch-up/"><u>Uninterrupted PowerToys Experience with System Switch-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-woes-how-to-re-enable-the-hidden-enhancement-panel/"><u>Windows 11 Woes: How to Re-Enable the Hidden Enhancement Panel</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Restoring Paste Functionality in Common Web Browsers
-date: 2024-10-11T23:01:14.224Z
-updated: 2024-10-15T14:36:07.506Z
+date: 2024-10-17T16:55:30.819Z
+updated: 2024-10-21T03:35:14.032Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check for Problems With Your Keyboard
@@ -58,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
@@ -92,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
 
  Turning off the mini menu that appears when selecting text in Microsoft Edge resolved the copy-paste issue for some users. This feature reportedly blocks copy-pasting. So, if you are experiencing the problem in Microsoft Edge, follow these steps to turn it off:
@@ -110,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Check for Browser Interference
@@ -125,16 +124,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 * [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Alternative Methods to Copy and Paste Text
@@ -144,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
  Simply select the text you want to copy from a website, right-click on it and select **Copy** from the context menu. Then, go to the text editor of your choice, right-click again, and select **Paste** from the context menu.
 
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
 
@@ -157,25 +157,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-unleashing-brand-potential-with-essential-phrases/"><u>[Updated] Unleashing Brand Potential with Essential Phrases</u></a></li>
-<li><a href="https://win-community.techidaily.com/6kej5rg656il5byp6yyv6kqk5b6m77ym5aac5l2v5pyj5pwi5zyw5lplusu5b6p56ob56kf55qe5yih54mh/"><u>解決程式錯誤後，如何有效地修復磁碟的切片</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-fixing-outdated-windows-user-password-issue/"><u>Bypassing: Fixing Outdated Window's User Password Issue</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-freefire-gameplay-on-youtube-channels/"><u>Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-red-magic-8s-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Red Magic 8S Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-cab-files-their-purpose-within-the-windows-domain/"><u>Insight Into CAB Files: Their Purpose Within the Windows Domain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-modifying-login-credentials-on-win-11/"><u>Quick Guide to Modifying Login Credentials on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-missing-power-configurations-in-win-11-os/"><u>Reclaiming Missing Power Configurations in Win 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-deleted-input-strategies-for-windows-computers/"><u>Reviving the Deleted Input: Strategies for Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seize-the-deal-unmissable-black-friday-612-win10/"><u>Seize the Deal: Unmissable Black Friday - $6.12 Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-battlenet-not-available-errors-on-win-1011/"><u>Tips for Resolving Battle.net Not Available Errors on Win 10/11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-gpeditmsc-comprehensive-guide-for-windows-home-users/"><u>Unlocking gpedit.msc: Comprehensive Guide for Windows Home Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-status-a-windows-bios-solution-manual/"><u>Unlocking Secure Boot Status: A Windows BIOS Solution Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-not-turning-off-heres-how-to-resolve-the-issue/"><u>Windows 10 Not Turning Off? Here’s How to Resolve the Issue!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -183,3 +164,24 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>[New] In 2024, Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>[New] Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>[Updated] 2024 Approved Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-cpu-to-gpu-discover-top-tier-components-through-toms-hardware-lens/"><u>From CPU to GPU - Discover Top-Tier Components Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-redmi-a2plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Redmi A2+?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-world-of-warcraft-update-stuck-on-initializing-on-windows/"><u>How to Fix a World of Warcraft Update Stuck on Initializing on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-13-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 13 online without SIM Card?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-list-timely-humor-for-various-gatherings/"><u>In 2024, Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-edge-written-for-optimal-system-performance/"><u>Managing Edge' Written for Optimal System Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-productivity-make-terminal-first/"><u>Prioritizing Productivity: Make Terminal First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-resurrect-your-chrome-browser-in-w11/"><u>Quick Fix Guide: Resurrect Your Chrome Browser in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-system-changes-mastery-of-cli-and-registry-modifications/"><u>Simplifying System Changes: Mastery of CLI and Registry Modifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-inaccessible-game-sessions-due-to-steams-vac/"><u>Tackling Inaccessible Game Sessions Due to Steam’s VAC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-auto-transcription-experts-choice-top-6-software-picks/"><u>Updated The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
+</ul></div>
+

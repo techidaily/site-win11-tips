@@ -1,7 +1,7 @@
 ---
 title: Why's My Screen Mute? Fixing Microphone Issues on Microsoft-Powered Google Meet
-date: 2024-10-10T01:08:36.733Z
-updated: 2024-10-15T15:10:14.439Z
+date: 2024-10-15T03:49:34.442Z
+updated: 2024-10-20T18:26:30.315Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 
  Before you begin troubleshooting, check if you're in [Companion Mode on Google Meet](https://www.makeuseof.com/what-is-companion-mode-on-google-meet/). If so, leave and rejoin the meeting as the microphone and speaker are unavailable in this mode. Once you’ve verified that, try these fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Unmute the Microphone
 
  If you’re unable to use your Google Meet microphone, check if it is muted. If so, other people can't hear you. To unmute it, click the Microphone icon in the lower-left corner of the Google Meet window.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 ![Unmute the Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/unmute-the-microphone.jpg)
 
  If you don’t see this icon, press **Ctrl + D** on your keyboard. This will unmute the Microphone and allow others to hear you in the meeting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Test Google Meet Microphone
 
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 3. In the pop-up window, click **Audio** from the left sidebar.  
 ![Test Google Meet Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-google-meet-microphone.jpg)
 4. Click the **Microphone** drop-down menu and go with the default.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Now speak out loud and check whether the meter next to the microphone icon moves.
 
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 ![Microphone Array in Input Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microphone-array-in-input-settings.jpg)
 3. Scroll down to the **Input** section and click on **Microphone Array**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Under **General**, make sure Windows and apps can use this device for audio.  
 ![Allow apps and Windows to use this device for audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-apps-and-windows-to-use-this-device-for-audio.jpg)
 5. Next, in the **Input settings**, set the microphone volume to an optimal level.
@@ -96,16 +82,16 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 ![Test Your Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-your-microphone.jpg)
 7. Then click **Stop test** to end the test. You should see a percentage display telling you how loud your microphone is.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. If the volume is not accurate, adjust it accordingly.
 
  Now that everything is set up right and the microphone test works, try starting a Google Meet call to test the sound.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot Microphone Problems
 
@@ -123,20 +109,14 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 6. Let the troubleshooter finish and apply the changes.  
 ![Finished Microphone Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/finished-microphone-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, close the troubleshooter window and find the microphone array option in your settings. Now follow the steps described in the previous section to check your microphone. After that, try a Google Meet call again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Let Desktop Apps Access Your Microphone
 
@@ -152,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 6. Scroll down and make sure the apps you want to use have permission to access your microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once all settings are correct, try starting a Google Meet call and see if the microphone works.
@@ -178,13 +158,32 @@ Screenshot by Digvijay Kumar - No attribution
 8. Under the **Permission** section, click the **Microphone** drop-down menu and select **Allow**.  
 ![Allow Google Meet to access your microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-google-meet-to-access-your-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve checked the permissions are correct, try joining a Google Meet call using your microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Clear Browser Cache and Cookies
@@ -198,34 +197,24 @@ Screenshot by Digvijay Kumar - No attribution
 4. Click **Clear data** at the bottom of the window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you clear the browser data, restart the browser and join the Google Meet call again. Your microphone should work now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing Google Meet Microphone Issues on Windows
 
  When your microphone doesn't work during Google Meet meetings, it can be frustrating. However, allowing Google Meet to access your microphone usually solves the issue. If the problem persists, there are other options like Zoom and Microsoft Teams you can try. This means you don't have to stick to unstable web conferencing services.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-30-must-have-youtube-intros-tools-for-beginners-all-free-for-2024/"><u>[New] 30 Must-Have YouTube Intros Tools for Beginners, All Free for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-choreographing-pictures-and-tunes-in-video/"><u>2024 Approved Choreographing Pictures & Tunes in Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-views-with-captivating-intros-filmed-in-imovie-for-2024/"><u>Boosting Views with Captivating Intros Filmed in iMovie for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/corsair-mouse-driver-download-install-and-setup-instructions/"><u>Corsair Mouse Driver Download - Install & Setup Instructions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-mpow-microphone-problems-on-windows-systems/"><u>Diagnose and Solve MPOW Microphone Problems on Windows Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-basics-to-advanced-the-hand-trackers-playbook/"><u>From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-lowering-windows-acoustic-amplifiers/"><u>Guide to Lowering Windows Acoustic Amplifiers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-touchpad-gestures-not-working-in-windows/"><u>How to Fix Touchpad Gestures Not Working in Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/making-the-most-out-of-creative-commons-licenses-for-2024/"><u>Making the Most Out of Creative Commons Licenses for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-exploring-the-causes-of-your-windows-10-machines-unexpected-boot-cycles/"><u>Resolved! Exploring the Causes of Your Windows 10 Machine's Unexpected Boot Cycles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-print-management-tool-and-how-do-you-access-it/"><u>What Is the Windows Print Management Tool, and How Do You Access It?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-10s-guide-to-effortlessly-merge-data/"><u>Win 10'S Guide to Effortlessly Merge Data</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -234,3 +223,23 @@ Screenshot by Digvijay Kumar - No attribution
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-uplifting-movies-a-top-10-list-of-inspiration/"><u>[Updated] In 2024, Uplifting Movies A Top 10 List of Inspiration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubing-success-final-stages-and-top-resources/"><u>[Updated] In 2024, YouTubing Success Final Stages and Top Resources</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-the-ultimate-video-editing-handbook/"><u>2024 Approved Mastering Instagram The Ultimate Video Editing Handbook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-snack-sensation-tiktoks-viral-culinary-adventures/"><u>2024 Approved Snack Sensation TikTok's Viral Culinary Adventures</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/definitive-ipad-face-off-detailed-side-by-side-analysis/"><u>Definitive iPad Face-Off: Detailed Side-by-Side Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-filtering-in-task-manager-and-theme-implementation-in-windows-11/"><u>Essential Guide to Filtering in Task Manager & Theme Implementation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-invisible-windows-11-account-entry-screen/"><u>Fixes for Invisible Windows 11 Account Entry Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-fast-and-easy-top-5-choices-for-pinterest-video-downloaders-for-2024/"><u>Free, Fast & Easy Top 5 Choices for Pinterest Video Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook-for-2024/"><u>From Camera to Feed IPhone & Android Broadcast Guide for Facebook for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-spotify-code-4-connection-error-in-windows-11-and-11/"><u>How to Fix the Spotify Code 4 Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-default-settings-for-folder-display-mode/"><u>Reclaiming Default Settings for Folder Display Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-lost-5ghz-connectivity-for-your-windows-11-pc/"><u>Regain Lost 5GHz Connectivity for Your Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-stop-built-in-laptop-input-device-on-desktop/"><u>Tips to Stop Built-In Laptop Input Device on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-windows-discord-latency-issues/"><u>Troubleshooting: Resolving Windows Discord Latency Issues</u></a></li>
+</ul></div>
+

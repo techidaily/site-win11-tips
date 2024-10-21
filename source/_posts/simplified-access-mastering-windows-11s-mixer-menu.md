@@ -1,7 +1,7 @@
 ---
 title: "Simplified Access: Mastering Windows 11'S Mixer Menu"
-date: 2024-10-10T11:13:53.007Z
-updated: 2024-10-15T06:32:00.481Z
+date: 2024-10-15T20:20:34.762Z
+updated: 2024-10-20T23:27:11.643Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
  Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Taskbar Volume Icon
 
  Notification Center is another way to access Volume Mixer in Windows 11\. To do this, right-click the volume icon in the bottom right corner of your taskbar and choose**Open volume mixer** .
@@ -45,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 ![Open Volume Mixer Using the Taskbar Volume Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-taskbar-volume-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open the Volume Mixer window where you can control the volume levels of different applications and adjust their output devices.
@@ -65,22 +64,15 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Use the Windows File Explorer
 
  Windows File Explorer has an address bar that allows you to reach almost all files or programs on your computer. To open Volume Mixer, type**sndvol.exe** into the address bar and press Enter. This will open the Volume Mixer instantly, and you can adjust each app's volume from here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
@@ -99,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
  In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Use Windows Search Tool
 
  You can also use the Windows Search tool to open Volume Mixer in Windows 11\. To do this, type “**Volume Mixer** ” in the search bar and then click on the corresponding result.
 
  Once the Volume Mixer window opens, you can adjust individual volume levels for applications or change their output devices in order to get your desired sound experience.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Create a Desktop Shortcut
 
@@ -120,9 +112,23 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
 ![Open Volume Mixer By Creating a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-by-creating-a-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the shortcut window, type**sndvol.exe** in the text box, and click**Next** .
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
 
@@ -145,24 +151,18 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-essential-fixes-to-tackle-fb-story-load-failures/"><u>[Updated] Essential Fixes to Tackle Fb Story Load Failures</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-superior-virtual-music-showcase/"><u>[Updated] In 2024, Superior Virtual Music Showcase</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-top-12-screen-recorders-no-timer/"><u>[Updated] In 2024, Ultimate Top 12 Screen Recorders (No Timer)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-switch-to-the-future-capture-cards-guide/"><u>[Updated] Switch to the Future Capture Cards Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-recovering-cortana-insights-on-pcs/"><u>A Guide to Recovering Cortana Insights on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/androidwindows-twinning-effortless-sync-instructions/"><u>Android/Windows Twinning: Effortless Sync Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-vivo-v29e-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Vivo V29e</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-effective-high-performance-asmr-microphones-guide-for-2024/"><u>Cost-Effective, High-Performance ASMR Microphones Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-nokia-c210-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Nokia C210</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/poptoons-ultimate-insight-24-annual/"><u>PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-elite-asus-routers-what-experts-are-saying-about-the-best-models/"><u>Ultimate Guide to Choosing Elite Asus Routers: What Experts Are Saying About the Best Models</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/your-roadmap-to-mastery-the-ultimate-guide-to-google-podcasting-for-2024/"><u>Your Roadmap to Mastery The Ultimate Guide to Google Podcasting for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>[New] 2024 Approved The Dynamics of Home Security ManyCam Vs. Single-Camera Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-5-reddit-marketing-tips-that-will-turn-beginners-into-experts/"><u>[Updated] In 2024, 5 Reddit Marketing Tips that Will Turn Beginners Into Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-classrooms-future-learning-unleashed/"><u>[Updated] Virtual Classrooms Future Learning Unleashed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-free-premium-video-callers/"><u>2024 Approved Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-exception-breaking-point-message-in-windows/"><u>Handling the Exception Breaking Point Message in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swap-cr2-images-seamlessly-to-windows-jpgs/"><u>How to Swap CR2 Images Seamlessly to Windows JPGs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-points-preparing-for-a-full-system-reinstallation/"><u>Key Points: Preparing for a Full System Reinstallation</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese-served-with-a-lemon-vinaigrette-dressing/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese. Served with a Lemon Vinaigrette Dressing.</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/mvp-mastery-unveiled-detailed-ms-sql-tips/"><u>MVP Mastery Unveiled - Detailed MS SQL Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-12-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme 12 Pro+ 5G on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-hidden-desktop-icons-on-windows-11/"><u>Restore Hidden Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model.</u></a></li>
 </ul></div>
 

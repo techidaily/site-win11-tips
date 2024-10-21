@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Mastering Direct Drawing on Windows 11"
-date: 2024-10-12T20:34:21.218Z
-updated: 2024-10-15T01:14:52.156Z
+date: 2024-10-15T03:55:36.420Z
+updated: 2024-10-21T02:04:50.634Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 
 Now you can get scribbling on the Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -73,6 +66,20 @@ Now you can get scribbling on the Windows desktop.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -84,10 +91,10 @@ Now you can get scribbling on the Windows desktop.
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
@@ -100,13 +107,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -118,10 +118,10 @@ Now you can get scribbling on the Windows desktop.
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
@@ -143,17 +143,20 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-authenticity-on-instagrams-platform/"><u>[New] Mastering Authenticity on Instagram's Platform</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-must-have-tech-for-clear-streamed-content-for-2024/"><u>[New] Must-Have Tech for Clear Streamed Content for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-google-meet-conversation-blueprint-for-success/"><u>[Updated] The Google Meet Conversation Blueprint for Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-essential-steps-for-dealing-with-windows-http-error-0x80860010/"><u>7 Essential Steps for Dealing with Windows' HTTP Error 0X80860010</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx9-point-on-windows-11/"><u>Addressing Missing D3DX9 Point on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-overview-of-user-dissatisfaction-with-windows-11-upgrade/"><u>An Overview of User Dissatisfaction with Windows 11 Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackview-spacious-and-slow-a-bittersweet-blend/"><u>Blackview: Spacious and Slow - A Bittersweet Blend</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-instantly-update-your-system-with-intel-thunderbolt-support/"><u>How to Instantly Update Your System with Intel Thunderbolt Support</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-kinetic-illustration-101-core-skills-and-concepts/"><u>In 2024, Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266840560-prevent-unwanted-updates-on-your-pc-today/"><u>Prevent Unwanted Updates on Your PC Today!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-boosting-your-blog-income-through-buyselladscom-advertising/"><u>The Ultimate Guide to Boosting Your Blog Income Through buySellAds.com Advertising</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-video-editing-on-chromebook/"><u>Updated The Ultimate Guide to Video Editing on Chromebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-peeking-behind-the-screen-instagram-audience-explorer/"><u>[New] 2024 Approved Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>[Updated] Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-story-behind-aomei-with-award-winning-writer-catherine-pierce/"><u>Discover the Story Behind 'AOMEI' With Award-Winning Writer, Catherine Pierce</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ance-in-video-landscape-mirrorless-vs-dslr-cameras-for-2024/"><u>Dominance in Video Landscape Mirrorless vs DSLR Cameras for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029565734-dvd/"><u>DVDジブリコレクションの高精度コピー手順：購入またはレンタル後</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-marketing-strategy-with-nextgencookie-solutions-for-smarter-ppc-campaigns/"><u>Elevate Your Digital Marketing Strategy with NextGenCookie Solutions for Smarter PPC Campaigns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intellij-unison-crashes-in-windows-11/"><u>Fixing IntelliJ Unison Crashes in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-3-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-problems-on-win-11/"><u>Mitigating Missing File Detection Problems on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-failed-system-call-on-windows-systems/"><u>Steps to Tackle Failed System Call on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-dxgierrordeviceremoved-challenge/"><u>Tackling the DXGI_ERROR_DEVICE_REMOVED Challenge</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
 

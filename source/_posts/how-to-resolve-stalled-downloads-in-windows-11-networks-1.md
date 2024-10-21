@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Stalled Downloads in Windows 11 Networks (1)
-date: 2024-10-11T14:57:07.487Z
-updated: 2024-10-15T15:48:29.208Z
+date: 2024-10-18T20:44:29.285Z
+updated: 2024-10-21T00:33:10.005Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select a Different Download Location in Your Browser
@@ -57,17 +57,17 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run an Antivirus Scan
 
  Malware is another potential cause for your browsers not downloading files since it can cause many kinds of internet-related issues. If you have third-party antivirus software installed, run an antivirus scan with that app to check for and purge malware. Or you can run a manual antivirus can with Windows Security like this:
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
@@ -114,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -129,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -148,14 +148,14 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Reset** inside the confirmation prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
 
@@ -173,29 +173,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-why-does-imovie-adjust-video-borders/"><u>[New] 2024 Approved Why Does iMovie Adjust Video Borders?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/vercoming-the-most-frequent-youtube-short-hurdles-for-2024/"><u>[New] Overcoming the Most Frequent YouTube Short Hurdles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-tour-to-windows-easy-entry-point/"><u>A Step-by-Step Tour to Windows Easy Entry Point</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-6s-imei-checker-by-drfone-ios/"><u>Best Free iPhone 6s IMEI Checker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-component-services-access-in-windows-11/"><u>Demystifying Component Services Access in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-up-stuck-exe-files-on-windows-platform/"><u>Easing Up Stuck EXE Files on Windows Platform</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-step-by-step-process-for-locating-heavy-files-across-various-windows-versions/"><u>Easy Step-by-Step Process for Locating Heavy Files Across Various Windows Versions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-connectivity-issues-with-logitech-g-hub-software-on-a-windows-pc/"><u>Fixing Connectivity Issues with Logitech G Hub Software on a Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-directx-file-downloads-on-pcs/"><u>Fixing Failed DirectX File Downloads on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-offline-lsa-message-in-windows-os/"><u>Fixing the Offline LSA Message in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-play-your-favorite-oldschool-pc-games-with-dosbox-x/"><u>How to Play Your Favorite Oldschool PC Games With DOSBox-X</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-taskmanagers-dominance/"><u>Mastery Over TaskManager's Dominance</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/simple-guide-transforming-your-dvds-into-avi-files-without-hitch/"><u>Simple Guide: Transforming Your DVDs Into AVI Files Without Hitch</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-a1-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from A1 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-wi-fi-connection-problems-on-iphone-and-ipad-the-ultimate-8-fix-guide/"><u>Solving Wi-Fi Connection Problems on iPhone and iPad: The Ultimate 8 Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sonic-success-overcoming-no-sound-glitches-in-chrome-now-fixed/"><u>Sonic Success: Overcoming No-Sound Glitches in Chrome, Now Fixed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-addressing-roblox-shutdown-issues-on-your-windows-machine/"><u>Swiftly Addressing Roblox Shutdown Issues on Your Windows Machine</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +180,23 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>[New] 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>[New] The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-unique-video-reaction-strategies-for-online-enthusiasts/"><u>[Updated] In 2024, 10 Unique Video Reaction Strategies for Online Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-green-screen-mastery-on-youtube-ideas-unleashed/"><u>2024 Approved Green Screen Mastery on YouTube - Ideas Unleashed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/double-the-protection-with-our-nomad-iphone-case-sale-buy-one-get-a-second-free/"><u>Double the Protection with Our Nomad iPhone Case Sale: Buy One, Get a Second Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-fs-apps-crowd-picked-winners/"><u>Essential Windows FS Apps: Crowd-Picked Winners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixers-compendium-tackling-active-directory-printer-errors-on-win-1011/"><u>Fixer's Compendium: Tackling Active Directory Printer Errors on WIN 10/11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-key-harmony-5-steps-for-windows-error-resolution/"><u>Mastering Network Key Harmony: 5 Steps for Windows Error Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-remedying-windows-11-package-complications/"><u>Quick Fixes: Remedying Windows 11 Package Complications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/running-windows-11-on-classics-utilizing-windows-to-go-and-rufus-guide/"><u>Running Windows 11 on Classics - Utilizing Windows To Go & Rufus Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-gaps-within-explore-interface-elements/"><u>Tackling Gaps Within Explore Interface Elements</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transferir-datos-facilmente-hacia-una-memoria-usb-en-versiones-recientes-de-windows-11-10-8-y-tambien-7/"><u>Transferir Datos Fácilmente Hacia Una Memoria USB en Versiones Recientes De Windows (11, 10, 8 Y También 7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-yuzus-performance-on-pcs/"><u>Turbocharging Yuzu's Performance on PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/vidcap-quality-check-top-choices-for-capturing-action/"><u>VidCap Quality Check Top Choices for Capturing Action</u></a></li>
+</ul></div>
+

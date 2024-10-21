@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows Thermal Regulation Options
-date: 2024-10-10T06:07:41.433Z
-updated: 2024-10-14T16:04:09.745Z
+date: 2024-10-13T18:52:01.537Z
+updated: 2024-10-20T18:22:41.501Z
 tags:
   - windows10
   - windows11
@@ -43,52 +43,46 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![the Power Options screen in the Control Panel on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Change advanced power settings** to open the Power Options menu.
 
 ![The Edit Power Plan Settings screen in the Control Panel on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-power-plan-settings-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Expand**Processor power management** by clicking the**plus sign** on the right, and you will see**System cooling policy** . Expand that too.
 
 ![Power Options menu on Windows with the System cooling policy expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will then see how the cooling policies are set – of course, what you see will depend on whether you’re on a desktop computer or laptop. To change them, click on the cooling policy’s link – so if**On battery** is set to**Passive** , click on**Passive** . This will turn it into a**dropdown** , so click on that and select the other cooling policy.
 
 ![Selecting the system cooling policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-changing-system-cooling.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can set the cooling policy for all your power plans. And if you’re changing the cooling policy to save battery power, consider reading our guide on[creating a custom power plan on Windows](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/) as well.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set the System Cooling Policy You Want to Use
@@ -112,18 +106,24 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-beyond-borders-blurring-techniques-for-global-audienes/"><u>[Updated] Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-visionarys-toolkit-for-personalized-animation-techniques/"><u>[Updated] The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-key-steps-to-reinstall-missing-optional-windows-features/"><u>7 Key Steps to Reinstall Missing Optional Windows Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-windows-internet-information-services-iis-manager/"><u>8 Ways to Open the Windows Internet Information Services (IIS) Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-walkthrough-windows-11-sandbox-setup/"><u>A Comprehensive Walkthrough: Windows 11 Sandbox Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-package-registration-hurdles-in-win11-image-files/"><u>Addressing Package Registration Hurdles in Win11 Image Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-stalled-keys-for-active-windows-11/"><u>Addressing Stalled Keys for Active Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-insights-with-resource-tracking-tiles/"><u>Boost System Insights with Resource Tracking Tiles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-red-dead-redemption-2-not-starting-here-are-some-proven-tips/"><u>Dealing with Red Dead Redemption 2 Not Starting? Here Are Some Proven Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-s24plus-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy S24+ FRP In 3 Different Ways</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/your-first-steps-for-youtube-earning-8-methods/"><u>Your First Steps for YouTube Earning - 8 Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-amplify-your-earnings-universal-strategies-for-youtube-revenue/"><u>[New] In 2024, Amplify Your Earnings Universal Strategies for YouTube Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-action-into-photos-using-illustrators-features/"><u>[New] Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-breaking-down-vimeo-streaming-giants-secrets-revealed-for-2024/"><u>[Updated] Breaking Down Vimeo Streaming Giant's Secrets Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-a-reappearing-deleted-file-or-folder-on-windows/"><u>8 Ways to Fix a Reappearing Deleted File or Folder on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-using-system-restore-in-windows-os/"><u>A Detailed Walkthrough of Using System Restore in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-clickable-items-in-the-latest-os-update/"><u>Addressing Non-Clickable Items in the Latest OS Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-fun-integrating-games-into-windows-11-through-google-play/"><u>Android Fun: Integrating Games Into Windows 11 Through Google Play</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/"><u>Arabic For Beginners: A Step By Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-troubleshooting-in-obs-studio-on-windows-11-devices/"><u>Audio Troubleshooting in OBS Studio on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-clutter-boost-clarity-keeping-your-notifications-centered-in-windows-11/"><u>Avoid Clutter, Boost Clarity: Keeping Your Notifications Centered in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-unwanted-bios-access-during-windows-initialization/"><u>Avoiding Unwanted BIOS Access During Windows Initialization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor X50i+</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/faster-alternatives-overcoming-lengthy-sql-database-backups/"><u>Faster Alternatives: Overcoming Lengthy SQL Database Backups</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-plus-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 15 Plus Prevention & Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-photos-with-ease-comprehensive-guide-on-background-erasure-tool-usage/"><u>In 2024, Transform Your Photos with Ease Comprehensive Guide on Background Erasure Tool Usage</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users-for-2024/"><u>New Fundamental Features to Consider When Selecting an Audio Editor for Mac Users for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-truth-about-the-samsung-un65nu8000fxza-high-end-price-meets-disappointing-performance/"><u>The Truth About the Samsung UN65NU8000FXZA: High-End Price Meets Disappointing Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719376942389-windows-gptmimicry-a-costless-local-edition-via-gpt4all/"><u>Windows GPTMimicry: A Costless Local Edition via GPT4All.</u></a></li>
 </ul></div>
 

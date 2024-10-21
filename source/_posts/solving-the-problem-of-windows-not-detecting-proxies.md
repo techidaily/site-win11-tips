@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Windows Not Detecting Proxies
-date: 2024-10-09T05:40:04.003Z
-updated: 2024-10-15T09:37:57.173Z
+date: 2024-10-19T22:28:00.316Z
+updated: 2024-10-20T16:59:23.623Z
 tags:
   - windows10
   - windows11
@@ -43,22 +43,16 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What's a Proxy Server?
 
@@ -69,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
  Essentially, a proxy server acts as a middleman between your computer and the internet. Instead of you connecting directly to the internet, you connect to the proxy server, which grabs information from the internet for you.
 
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Network Adapter Troubleshooter
 
@@ -101,13 +82,20 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update or Roll Back Your Network Driver
@@ -121,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
@@ -172,28 +166,28 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
  Thankfully, Windows 10 makes it easy to reset your whole configuration. Open**Settings > Network & Internet** . On the**Status** tab, find**Network reset** at the bottom and click it. On Windows 11, this is under **Settings > Network & internet > Advanced network settings > Network reset** instead.
 
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows Could Not Detect Proxy Settings: Resolved
 
@@ -216,16 +210,21 @@ thumbnail: https://thmb.techidaily.com/1c82bb77bafb99b9b6611b5302d1fb010d446c70d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-guide-to-create-engaging-thumbnails-for-your-videos-on-youtube/"><u>[New] 2024 Approved Step-by-Step Guide to Create Engaging Thumbnails for Your Videos on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-list-the-10-free-android-and-iphone-video-chat-apps/"><u>[Updated] Essential List The 10 Free, Android & iPhone Video Chat Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocketing-to-million-dollar-views-best-hashtags/"><u>[Updated] Skyrocketing to Million-Dollar Views Best Hashtags</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>[Updated] The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-cease-chromes-unintended-tabs/"><u>A Step-By-Step Guide to Cease Chrome's Unintended Tabs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-and-annotate-comics-easily-on-win11/"><u>Access and Annotate Comics Easily on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-webcam-integration-on-windows-11-pcs/"><u>Android Webcam Integration on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-performance-of-windows-for-swift-steam-uploads/"><u>Boosting Performance of Windows for Swift Steam Uploads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/chorus-cache-secure-and-inspect-audio-recordings/"><u>Chorus Cache Secure & Inspect Audio Recordings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/finding-icons-a-targeted-approach-to-instas-powerful-voices/"><u>Finding Icons A Targeted Approach to Insta's Powerful Voices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rhythm-made-simple-top-online-analyzers-to-try-now-for-free-for-2024/"><u>Rhythm Made Simple Top Online Analyzers to Try Now for Free for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-truth-behind-your-instagram-selfie/"><u>[New] 2024 Approved The Truth Behind Your Instagram Selfie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-overcoming-launch-failures-in-obs-studio/"><u>Comprehensive Guide: Overcoming Launch Failures in OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-missing-essentials-issue-on-windows-11-system/"><u>Correcting 'Missing Essentials' Issue on Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-unique-look-for-your-window-terminal/"><u>Crafting a Unique Look for Your Window Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unauthorized-users-4-routines-for-restraining-windows-access/"><u>Eliminating Unauthorized Users: 4 Routines for Restraining Windows Access</u></a></li>
+<li><a href="https://win11.techidaily.com/five-methods-for-protecting-your-pc-avoiding-bitlocker/"><u>Five Methods for Protecting Your PC: Avoiding BitLocker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-protected-windowsapps-folder-on-windows/"><u>How to Access the Protected WindowsApps Folder on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>In 2024, Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-preserve-your-pics-and-videos-top-15-tools-reviewed/"><u>In 2024, Preserve Your Pics & Videos Top 15 Tools Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-recovering-missing-regedit/"><u>Mastering the Art of Recovering Missing Regedit</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-common-windows-1110-gpu-challenges/"><u>Navigating Through Common Windows 11/10 GPU Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-samsung-galaxy-f15-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy F15 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-of-the-prolific-usb-to-serial-adapter-driver-on-windows-systems/"><u>Seamless Installation of the Prolific USB to Serial Adapter Driver on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-reinstallation-when-applications-dont-start-on-ms-marketplace/"><u>Strategies for Reinstallation When Applications Don't Start on MS Marketplace</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-language-learning-apps/"><u>Top 5 Best Free Language Learning Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Detection of Speakers or Headphones in Microsoft Windows
-date: 2024-10-09T19:01:08.184Z
-updated: 2024-10-15T10:46:02.450Z
+date: 2024-10-15T21:13:01.671Z
+updated: 2024-10-21T01:55:03.578Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ To run the troubleshooter:
  If the troubleshooter left a good impression on you, check out our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Perform an Audio Device Driver Rollback
@@ -71,6 +71,14 @@ To run the troubleshooter:
 3. In**Computer Management** , click on**Local User and Groups.**  
 ![computer management windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/computer-management-windows-11.jpg)
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
@@ -81,13 +89,6 @@ To run the troubleshooter:
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -95,13 +96,6 @@ To run the troubleshooter:
  If you use the Windows Home edition, you can use Command Prompt to add Local Network and Local Services to the local administrator group. Here's how to do it.
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
@@ -131,10 +125,10 @@ To uninstall an audio device:
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
@@ -148,10 +142,10 @@ To uninstall an audio device:
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press the**Win** key, and type**device installation settings.**
@@ -160,6 +154,13 @@ To uninstall an audio device:
 4. Click**Save Changes** . Click**Yes** if prompted by**User Account Control.**
 
  With the automatic driver download disabled, reinstall the existing driver to fix the no audio issue.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the "No Speaker or Headphones Are Plugged In" Error
 
@@ -180,17 +181,19 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-online-video-saving-tools-reviewed-and-ranked/"><u>[New] 2024 Approved Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[New] Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-jokejigsaw-compiler-for-2024/"><u>[Updated] JokeJigsaw Compiler for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-proven-strategies-to-solve-windows-update-woes/"><u>10 Proven Strategies to Solve Windows Update Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-secure-windows-strategies-when-bitlocker-fails/"><u>5 Secure Windows Strategies When Bitlocker Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-lunar-client-startup-failures-on-windows-systems/"><u>Addressing “Lunar Client Startup Failures” On Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asus-zenbook-14-oled-ux3405-review-is-this-the-macbook-of-windows/"><u>ASUS Zenbook 14 OLED (UX3405) Review: Is This the MacBook of Windows?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitlock-cracked-staying-secure-yet-unmoved/"><u>BitLock Cracked: Staying Secure Yet Unmoved</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-reconfigured-wrongly/"><u>Gear-Up Glitch: Printer Reconfigured Wrongly?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation/"><u>In 2024, Aspire with Angles Crafting Compelling Visuals Through Instagram Rotation</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/neon-is-one-of-the-noble-gases-and-is-indeed-a-gas-at-room-temperature/"><u>Neon Is One of the Noble Gases and Is Indeed a Gas at Room Temperature.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-commanding-youtube-realm-through-strategic-creator-studio-utilization/"><u>[New] Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-phantom-a-guide-to-backward-video-capture-techniques/"><u>[New] Phantom A Guide to Backward Video Capture Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-language-of-cinema-writing-as-an-art/"><u>[Updated] The Language of Cinema Writing as an Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-privilege-restrictions-for-windows-installer-success/"><u>Easing Privilege Restrictions for Windows Installer Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-underutilized-tools-for-system-monitoring/"><u>Exploring the Underutilized Tools for System Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-uninstallation-blueprint-for-wsl-in-modern-windows/"><u>Full Uninstallation Blueprint for WSL in Modern Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ice-cream-capture-gadget-detailed-examination-for-2024/"><u>Ice Cream Capture Gadget Detailed Examination for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-aerial-broadcasting-a-dji-drone-guide-for-facebook/"><u>In 2024, The Art of Aerial Broadcasting A DJI Drone Guide for Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-art-of-correcting-bcm2045a0-driver-glitches-quick-fix-strategies-revealed/"><u>Master the Art of Correcting BCM20#45A0 Driver Glitches: Quick Fix Strategies Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move-for-2024/"><u>Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205671582-speeding-up-league-of-legends-setup-fixes-for-sluggish-downloads/"><u>Speeding Up League of Legends Setup – Fixes for Sluggish Downloads!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-resetting-video-driver-errors/"><u>Steps to Fix Resetting Video Driver Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-error-0xc0000001-quickly/"><u>Understanding & Fixing Windows Error 0xC0000001 Quickly</u></a></li>
 </ul></div>
 

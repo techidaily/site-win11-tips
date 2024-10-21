@@ -1,7 +1,7 @@
 ---
 title: Resolving Camera App File Creation Problem in Windows 11
-date: 2024-10-08T10:17:18.856Z
-updated: 2024-10-15T02:03:19.667Z
+date: 2024-10-17T23:05:18.041Z
+updated: 2024-10-21T00:11:10.295Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
@@ -57,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
@@ -83,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option3.jpg)
 4. Click **Add** on the **Library** tab.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, select a folder location such as **Downloads**.
 
 1. Right-click inside the Include Folder in the Camera Roll window to select **New** \> **Folder**.
@@ -103,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 3. Click the **Include folder** button.  
 ![The Include folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/include-folder-button.jpg)
 4. Select the Photo folder in the **Library locations** box.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
@@ -125,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
@@ -142,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
@@ -158,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
 
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Windows Camera
 
@@ -185,28 +166,18 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Snapping With the Windows Camera App Again
 
  The “photo capture file creation failed” error is quite a common Windows Camera app file-saving error. Lots of users have remedied that Camera error with the potential fixes outlined in this guide.
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-initiate-google-meet-using-your-gadget/"><u>[New] 2024 Approved Initiate Google Meet Using Your Gadget</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-insta-influence-made-simple/"><u>[Updated] Insta-Influence Made Simple</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-no-more-distractions-expert-guide-to-removing-youtube-ads/"><u>[Updated] No More Distractions - Expert Guide to Removing YouTube Ads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-wallet-harness-w11-pro-offers-wisely/"><u>Advance Your Wallet: Harness W11 Pro Offers Wisely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-lighter-browsing-options-best-in-class-for-ram-consumption/"><u>Assessing Lighter Browsing Options: Best in Class for RAM Consumption</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-errors-secure-your-onedrive-login-on-windows/"><u>Avoiding Errors: Secure Your OneDrive Login on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-win11-blue-screen-quick-fixes-for-your-pc-top-11/"><u>Banish Win11 Blue Screen: Quick Fixes for Your PC (Top 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-android-app-integration-on-windows-11-systems/"><u>Best Android App Integration on Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g24-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G24 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-everything-you-want-to-know-about-kapwing-video-translation/"><u>New In 2024, Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sony-xperia-xz-premium-an-odyssey-into-ultra-hd-phones-for-2024/"><u>Sony Xperia XZ Premium An Odyssey Into Ultra HD Phones for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mlining-the-editing-process-elevating-your-youtube-content-with-pc-for-2024/"><u>Streamlining the Editing Process Elevating Your YouTube Content with PC for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-windows-update-error-code-0x8024402c-successfully/"><u>Ultimate Guide: Resolving Windows Update Error Code 0X8024402c Successfully</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -215,3 +186,23 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-elevating-your-twitters-with-a-snapchat-integration/"><u>[New] 2024 Approved Elevating Your Twitters with a Snapchat Integration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-pros-guide-to-uploading-twitter-videos-to-snapchat/"><u>[New] In 2024, The Pro's Guide to Uploading Twitter Videos to Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pioneering-apps-for-synching-pictures-and-beats/"><u>[Updated] Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-cost-efficient-drone-buying-guide-find-the-best-deals/"><u>2024 Approved Cost-Efficient Drone Buying Guide Find the Best Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-wi-fi-disconnect-in-win-11/"><u>Best Practices for Wi-Fi Disconnect in Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-termination-immersive-reality/"><u>Ideal Termination Immersive Reality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-power-menus-suppress-dim-screen/"><u>Mastering Windows Power Menus: Suppress Dim Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-conquer-format-missing-on-windows/"><u>Methods to Conquer Format Missing On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-windows-exception-breakpoint-error/"><u>Overcoming the Challenge of Windows Exception Breakpoint Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-browser-quick-fixes-to-unlock-chrome-on-win11/"><u>Reclaim Your Browser: Quick Fixes to Unlock Chrome on Win11.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-inactive-cleanup-tools-for-win11/"><u>Reinvigorating Inactive Cleanup Tools for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-phantom-device-mistake-in-windows-1011/"><u>Resolving Phantom Device Mistake in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-troublesome-downloads-in-windows-11-networks-2/"><u>Tackling Troublesome Downloads in Windows 11 Networks (2)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-enhanced-viewport-management/"><u>Windows 11: Enhanced Viewport Management</u></a></li>
+</ul></div>
+

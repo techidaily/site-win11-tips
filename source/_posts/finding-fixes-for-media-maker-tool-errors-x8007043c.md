@@ -1,7 +1,7 @@
 ---
 title: "Finding Fixes for Media Maker Tool Errors: X.8007043C"
-date: 2024-10-10T03:58:45.569Z
-updated: 2024-10-15T03:08:45.303Z
+date: 2024-10-19T17:26:27.111Z
+updated: 2024-10-20T16:54:23.174Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To run Media Creation Tool as administrator:
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
@@ -55,6 +55,14 @@ To run Media Creation Tool as administrator:
 4. Next, check the**Unblock** option.  
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
 
@@ -70,19 +78,6 @@ To update your Windows computer:
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Update Troubleshooter
 
  The built-in Windows Update troubleshooter is a great way to fix Windows Update issues on Windows 11\. It will scan the system for issues and try to fix them automatically.
@@ -95,10 +90,10 @@ To run the Windows Update Troubleshooter:
 3. Next, click on**Other troubleshooters.**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
@@ -113,13 +108,6 @@ To run the Windows Update Troubleshooter:
  Third-party antivirus can be overzealous and block genuine system modifications as malicious. You can disable the security app temporarily to determine if your third-party antivirus is triggering the error.
 
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
 
@@ -137,10 +125,10 @@ DISM.exe /Online /Cleanup-image /Restorehealth
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Type the following command and press**Enter** to run the System File Checker utility:  
@@ -153,6 +141,13 @@ sfc /scannow
  While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to[create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can[download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
@@ -179,24 +174,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>[Updated] 2024 Approved 5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-one-connected-video-experience-joining-on-youtube/"><u>[Updated] In 2024, One Connected Video Experience Joining on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>[Updated] Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-audio-experience-selecting-the-top-mics/"><u>[Updated] Ultimate Audio Experience Selecting the Top Mics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/art-and-proven-tactics-to-get-your-youtube-channel-noticed-for-2024/"><u>25 Smart & Proven Tactics to Get Your YouTube Channel Noticed for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ensuring-complete-data-security-a-visual-guide-to-using-bitraser-for-enterprises/"><u>Ensuring Complete Data Security: A Visual Guide to Using BitRaser for Enterprises</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-program-harmony-in-os-with-win-pct-wisdom/"><u>Master Program Harmony in OS with Win-PCT Wisdom</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-solving-wi-fi-and-bluetooth-hiccups-on-iphone-via-network-restore/"><u>Master the Art of Solving Wi-Fi and Bluetooth Hiccups on iPhone via Network Restore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-search-for-program-install-spots-on-pc/"><u>Mastering the Search for Program Install Spots on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-cleanup-automating-deletion-of-files-in-windows/"><u>Quick Cleanup: Automating Deletion of Files in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-camon-20-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Camon 20 Pro 5G has been deleted</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-administrative-controls-on-windows-defense-measures/"><u>Reversing Administrative Controls on Windows Defense Measures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speak-write-and-transform-an-intuitive-guide-to-text-generation-with-windows-whisper/"><u>Speak, Write and Transform: An Intuitive Guide to Text Generation with Windows Whisper</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154626988-strengthen-your-security-end-to-end-encrypted-messaging-on-facebooks-social-network/"><u>Strengthen Your Security: End-to-End Encrypted Messaging on Facebook’s Social Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-household-connectivity-with-the-tri-band-netgear-nighthawk-x6-ac3200-a-gamers-and-familys-dream/"><u>Unleashing Household Connectivity with the Tri-Band Netgear Nighthawk X6 AC3200 - A Gamer's and Family's Dream!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-should-you-care-about-runtime-brokers-on-your-system/"><u>Why Should You Care About Runtime Brokers on Your System?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-access-clearing-windowss-prior-passcode/"><u>Winning Back Access: Clearing “Windows's Prior Passcode”</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-bits-of-bulb-tech-top-17-choices/"><u>[New] In 2024, Best Bits of Bulb Tech - Top 17 Choices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-brightness-slider-missing-windows-1110/"><u>[SOLVED] Brightness Slider Missing Windows 11/10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-manual-altering-your-users-status-in-discord/"><u>[Updated] In 2024, Step-by-Step Manual Altering Your User's Status in Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audio-recipe-converting-insta-vids-to-mp3/"><u>Audio Recipe Converting Insta Vids to Mp3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-comparison-the-pixel-9-vs-pixel-9-pro-vs-pixel-9-pro-xl-unveiled/"><u>Comprehensive Comparison: The Pixel 9 Vs. Pixel 9 Pro Vs. Pixel 9 Pro XL Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-a00f4289-from-your-windows-11-webcam/"><u>Eliminating Error A00F4289 From Your Windows 11 Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pc-efficiently-eliminate-extra-software-on-win11/"><u>Revamp Your PC: Efficiently Eliminate Extra Software on Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-unregister-or-remove-gadgets-from-your-google-home-setup/"><u>Simple Steps to Unregister or Remove Gadgets From Your Google Home Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-navigation-replacing-ls-command-usage/"><u>Simplifying Windows Navigation: Replacing LS Command Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-clearing-up-windows-update-jams/"><u>The Ultimate Guide to Clearing Up Windows Update Jams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-chrome-and-system-time-in-windows-land/"><u>Unifying Chrome and System Time in Windows Land</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-8s-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 8S Pro+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
 </ul></div>
 

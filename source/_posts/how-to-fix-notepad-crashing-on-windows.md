@@ -1,7 +1,7 @@
 ---
 title: How to Fix Notepad Crashing on Windows
-date: 2024-10-14T15:40:09.372Z
-updated: 2024-10-15T13:43:14.392Z
+date: 2024-10-15T22:46:17.279Z
+updated: 2024-10-20T21:44:22.242Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
  Note that this is just a temporary fix that you can use if you don’t have time to figure out what’s causing the problem. To resolve the underlying issue for good, it's time to dive into the potential root causes of this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair the Notepad App
@@ -54,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 4. Click the **Repair** button.  
 ![Repair the Notepad App on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-notepad-app-on-windows-11.jpg)
 
- Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
 
 ## 3\. Reinstall the Notepad App
 
@@ -75,13 +75,20 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 4. Select **Uninstall** to confirm.  
 ![Uninstall Notepad App From Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-notepad-app-from-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Generic Fixes
@@ -93,47 +100,11 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 * **Install the latest Windows updates:** If you are experiencing similar app crashes with other apps as well, there may be an issue with the Windows build your PC is running. Try [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and see if that fixes the problem.
 * **Create another user account:** If nothing else works, your current user account may be at fault. In that case, you will have to [create a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to get Notepad working again.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Start Using Notepad Again on Windows
 
  Notepad is a handy app for jotting down notes and editing text files on your Windows computer. However, your experience while using it may not always be without problems. Hopefully, one of the above suggestions has helped you fix Notepad crashes on Windows, and things are back to normal.
 
  If the Notepad app is constantly closing or crashing on your Windows 10 or 11 PC, don’t fret. Here are some tips that should help fix the problem.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-beat-of-instagram-music-strategies/"><u>[New] The Beat of Instagram Music Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-for-achieving-crystal-clear-1080p-on-fb/"><u>2024 Approved Tips for Achieving Crystal Clear 1080P on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-msresourceappname-text-glitch-win11-fix/"><u>Addressing 'MsResource/AppName Text' Glitch, Win11 Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-defenders-0x80004004-issue/"><u>Breaking Down Windows Defender's 0X80004004 Issue</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/educational-excellence-unveiled-mondlys-german-achievement/"><u>Educational Excellence Unveiled: Mondly's German Achievement</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/extend-your-snapstreak-success-with-these-ideas/"><u>Extend Your Snapstreak Success with These Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-20c-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 20C 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-details-with-intimate-filming-techniques/"><u>In 2024, Capturing Details with Intimate Filming Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-blaze-2-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lava Blaze 2 Pro Phones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/master-iphone-photo-watermarks-the-top-apps-reviewed-for-2024/"><u>Master iPhone Photo Watermarks The Top Apps Reviewed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlocking-picture-in-picture-a-beginners-guide-to-final-cut-pro/"><u>New In 2024, Unlocking Picture-in-Picture A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-google-drives-synced-files-with-7-key-steps/"><u>Reviving Google Drive's Synced Files with 7 Key Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-integration-of-video-filters-in-zoom-for-2024/"><u>Seamless Integration of Video Filters in Zoom for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-solution-for-fixing-error-code-0x80073d26/"><u>The Ultimate Solution for Fixing Error Code: 0X80073D26</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transition-to-new-life-for-your-outdated-computer/"><u>Transition to New Life for Your Outdated Computer</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +113,20 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies-for-2024/"><u>[New] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>[New] Gaming Mastery The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transforming-your-instagram-films-with-border-magic/"><u>[Updated] Transforming Your Instagram Films with Border Magic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-guide-to-mobizens-screen-capture-tool/"><u>2024 Approved Ultimate Guide to Mobizen's Screen Capture Tool</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-pop-7-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pop 7 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-windows-and-android-6-syncing-apps-to-elevate-your-experience/"><u>Harmonize Windows and Android: 6 Syncing Apps to Elevate Your Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-tip-push-gmail-to-top-of-windows-desktop/"><u>Quick Access Tip: Push Gmail to Top of Windows Desktop</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-sentinel-identifying-9-unexplained-changes-to-your-account/"><u>Social Media Sentinel: Identifying 9 Unexplained Changes to Your Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-six-essentials-for-restoring-frozen-menu-functions/"><u>The Six Essentials for Restoring Frozen Menu Functions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-performance-unleashed-a-comprehensive-alienware-aurora-r11-gaming-computer-assessment-top-pick/"><u>Ultimate Performance Unleashed: A Comprehensive Alienware Aurora R11 Gaming Computer Assessment - Top Pick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-the-reason-why-was-the-operating-system-called-android/"><u>Unraveling the Reason: Why Was The Operating System Called 'Android'?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-disk-management-secrets-insightful-guide-win-1011/"><u>Unveiling Disk Management Secrets: Insightful Guide (Win 10/11)</u></a></li>
+</ul></div>
+

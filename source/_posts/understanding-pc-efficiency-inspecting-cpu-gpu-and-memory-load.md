@@ -1,7 +1,7 @@
 ---
 title: "Understanding PC Efficiency: Inspecting CPU, GPU, and Memory Load"
-date: 2024-10-09T09:18:16.217Z
-updated: 2024-10-15T10:07:25.361Z
+date: 2024-10-19T19:42:55.486Z
+updated: 2024-10-20T22:12:36.462Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
  Keeping an eye on system resources can be vital, especially when experiencing glitches or slowdowns. If you're on Windows, there are tools baked into the operating system that let you quickly look up just how much of your RAM, CPU, and GPU are being used by a specific process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check Windows 11's System Resource Usage With Task Manager
 
  The Task Manager is one of Windows 11’s primary system resource monitoring utilities. The tool is the easiest way to see which programs and processes are running and how many resources each takes up.
@@ -55,18 +48,18 @@ Related: [How to Access the Task Manager on Windows 11](https://www.makeuseof.co
 
 ![task-manager-cpu-summary-view-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/task-manager-cpu-summary-view-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check which programs consume the most resources, click the **Processes** tab. This tab displays all running apps and background processes, their memory, CPU, disk, network, and GPU usage. You can also free up system resources by selecting unnecessary third-party background programs (or processes and services) you don’t need and clicking the **End task** button.
 
 ![task-manager-processes-tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/task-manager-processes-tab.jpg)
 
 Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Windows 11's System Resource Usage With the Resource Monitor
 
@@ -80,14 +73,14 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 ![resource-monitor-CPU-page-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/resource-monitor-cpu-page-2.jpg)
 4. Select the **Network** tab to view processes with network (internet) activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click **Overview** to view memory, CPU, network, and disk usage details within a single tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Windows 11's System Resource Usage With the Performance Monitor
 
@@ -99,26 +92,20 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 2. Select **Performance** on the left side of the window to view the system summary resource usage data.  
 ![performance-monitor-main-screen-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-main-screen-1.jpg)
 3. Click **Performance Monitor** to view real-time performance data. By default, the graph shows the processor performance counter.  
-![performance-monitor-real-time-graph-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-real-time-graph-1.jpg)
-4. To add other counters to the graph, click the **\+ Add** button.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![performance-monitor-real-time-graph-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-real-time-graph-1.jpg)
+4. To add other counters to the graph, click the **\+ Add** button.
 
 5. Then select a counter, such as Memory, on the window shown directly below. The committed bytes line for the Memory counter highlights the average RAM usage over time.  
 ![performance-monitor-add-counter-screen-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-add-counter-screen-1.jpg)
 6. Press the **Add** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click **OK** to view performance data for your selected counter on the graph.
 
@@ -132,40 +119,31 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 
 ![Openhardware UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openhardwaremonitor-ui-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Using the tool is also quite simple, all you have to do is head over to the [OpenHardwareMonitor website](http://openhardwaremonitor.org/downloads/) and download the tool. Once downloaded, simply double-click the executable file to run it and you'll see all the metrics you need.
 
  Alternatives to OpenHardwareMonitor include [HWiNFO](https://www.hwinfo.com/), [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), and [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), [which can also be used for overclocking](https://www.makeuseof.com/the-complete-guide-to-using-msi-afterburner/). That said, while Windows has since discontinued desktop widgets, you can use [8GadgetPack](https://8gadgetpack.net/) to add system resource monitoring widgets to your desktop. Do keep in mind that the program hasn't been updated in a while though, so there's a chance it might not work as expected.
 
 ![The gadget selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/gadget-selection-window.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows 11 will become slower and less responsive to your actions when system resource utilization is high (especially for RAM and CPU). Whenever it feels like you need to speed up Windows, check your PC’s resource utilization with the tools and gadgets above
 
  Once done, you can identify what programs or background processes are hogging the most resources and close them. And once they're close, you’ll notice an improved system performance overall.
 
  Keeping an eye on system resources can be vital, especially when experiencing glitches or slowdowns. If you're on Windows, there are tools baked into the operating system that let you quickly look up just how much of your RAM, CPU, and GPU are being used by a specific process.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-scrutinizing-the-significance-of-high-dynamic-range-hdr-for-2024/"><u>[New] Scrutinizing the Significance of High Dynamic Range HDR for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/18153784-updated-youtube-style-essentials-download-for-free/"><u>[Updated] YouTube Style Essentials - Download for FREE!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>2024 Approved The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-adobe-reader-setup-on-ms-store/"><u>Effortless Adobe Reader Setup on MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-enhancement-streamlined-file-exploration-for-windows-11/"><u>Effortless Enhancement: Streamlined File Exploration for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-using-windows-file-browsing-in-place-of-ls/"><u>Expert Tips for Using Windows File Browsing in Place of LS</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-what-if-my-videos-removed-immediately-due-to-copyright/"><u>In 2024, What If My Videos Removed Immediately Due to Copyright?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-and-intel-unison-for-smooth-phone-integration/"><u>Leveraging Windows 11 & Intel Unison for Smooth Phone Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-reversed-computer-screen-angle/"><u>Rectifying Reversed Computer Screen Angle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-the-dilemma-obs-not-opening-on-windows/"><u>Resolving the Dilemma: OBS Not Opening on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-windows-11-widget-techniques/"><u>Revamp Your Workspace: Windows 11 Widget Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-process-of-printing-directly-to-your-computer-screen/"><u>Step-by-Step Process of Printing Directly to Your Computer Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-nord-n30-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Nord N30 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-changing-app-size-using-pc-keys-on-windows-11/"><u>Tips for Changing App Size Using PC Keys on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-pens-tools-for-the-modern-windowed-tech-user/"><u>Top Pens' Tools For the Modern Windowed Tech User</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-broken-key-on-your-keyboard-a-step-by-step-guide/"><u>Troubleshooting a Broken '@' Key on Your Keyboard - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-power-enable-the-outlook-preview-app/"><u>Unlock Windows' Power: Enable the Outlook Preview App</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +152,27 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[New] 2024 Approved Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-change-name-in-google-meet/"><u>[New] In 2024, How to Change Name in Google Meet?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-review-unveiling-the-potential-of-vidma-capture-tech/"><u>[Updated] 2024 Approved Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-optimizing-film-length-for-instagram-on-mac-for-2024/"><u>[Updated] Optimizing Film Length for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-injecting-spark-into-your-unique-podcast-format/"><u>2024 Approved Injecting Spark Into Your Unique Podcast Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbot-faceoff-choosing-between-the-power-of-chatgpt-plus-and-perplexity/"><u>AI Chatbot Faceoff: Choosing Between the Power of ChatGPT Plus and Perplexity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-steps-to-stabilize-screen-flickering-in-windows/"><u>Effective Steps to Stabilize Screen Flickering in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-explore-tab-noise-in-windows/"><u>How to Minimize Explore Tab Noise in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-notable-book-trailers-showcasing-stories/"><u>In 2024, Notable Book Trailers Showcasing Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimum-virtual-options-tailored-for-windows-11-systems/"><u>Optimum Virtual Options Tailored for Windows 11 Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-hacks-how-to-flip-your-snapchat-videos/"><u>Quick Hacks How to Flip Your Snapchat Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-wi-fi-harmony-top-solutions-to-cure-non-functioning-usb-on-windows/"><u>Regain Wi-Fi Harmony: Top Solutions to Cure Non-Functioning USB on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snippets-from-cinema-to-skillful-editors-arsenal-for-2024/"><u>Snippets From Cinema to Skillful Editors' Arsenal for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-audacity-audio-error-win1011/"><u>Strategies to Overcome Audacity Audio Error (Win10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transferring-older-pc-tools-from-legacy-systems-to-windows-11/"><u>Transferring Older PC Tools: From Legacy Systems to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unified-workspace-managing-windows-folders-and-files/"><u>Unified Workspace: Managing Windows Folders & Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-and-phone-link-debate-best-windows-phone-app-evaluation/"><u>Unison & Phone Link Debate: Best Windows Phone App Evaluation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-software-to-supercharge-macos-functionality/"><u>Utilizing Windows Software to Supercharge macOS Functionality</u></a></li>
+</ul></div>
+

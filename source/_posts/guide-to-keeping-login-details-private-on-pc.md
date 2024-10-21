@@ -1,7 +1,7 @@
 ---
 title: Guide to Keeping Login Details Private on PC
-date: 2024-10-09T16:58:58.828Z
-updated: 2024-10-15T02:03:17.150Z
+date: 2024-10-15T03:50:48.954Z
+updated: 2024-10-20T20:07:49.843Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
@@ -57,21 +63,14 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
 
@@ -91,13 +90,20 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 ![Hide Email From Windows Login Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Exit the Registry Editor and restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
 
@@ -118,19 +124,18 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-screen-capture-with-1-5-of-the-best-pc-snipers-for-2024/"><u>[Updated] Mastering Screen Capture with #1-#5 of the Best Pc Snipers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-array-of-unique-video-cameras-by-type/"><u>2024 Approved Array of Unique Video Cameras by Type</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-your-profile-the-complete-guide-to-editing-numbers-on-tiktok/"><u>2024 Approved Elevate Your Profile The Complete Guide to Editing Numbers on TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-videos-direct-and-alternative-saves/"><u>2024 Approved Mastering Instagram Videos Direct & Alternative Saves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-why-pcs-take-the-lead-over-macs-9/"><u>A Closer Look at Why PCs Take the Lead over Macs (#9)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-printers-under-edge-guard-on-windows-11/"><u>Accessing Printers Under Edge Guard on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-pc-display-orientation-via-windows/"><u>Adjust PC Display Orientation via Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-frustrations-mastering-windows-11-management-tool-access/"><u>Avoiding Frustrations: Mastering Windows 11 Management Tool Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-the-deadly-js-error-in-discord-a-quick-guide-for-win-11-users/"><u>Banish the Deadly JS Error in Discord: A Quick Guide for Win 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-ssd-performance-power-of-ssfresh-unleashed/"><u>Boost Windows' SSD Performance: Power of SSFresh Unleashed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freeze-action-with-iphone-mastery-of-motion-blur-techniques-for-2024/"><u>Freeze Action with iPhone Mastery of Motion-Blur Techniques for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m34-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M34 Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-browser-snapshot-guide-for-tech-enthusiasts/"><u>The Ultimate Browser Snapshot Guide for Tech Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-joke-maker-snapsnicker/"><u>Visual Joke Maker SnapSnicker</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-protecting-video-content-during-youtube-to-mp4-transfer-for-2024/"><u>[Updated] Protecting Video Content During YouTube-to-MP4 Transfer for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-default-alter-clock-region-on-the-fly/"><u>Bypass Windows' Default: Alter Clock Region On-the-Fly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-0x8000fffd-for-a-smooth-print-run/"><u>Bypassing Error 0X8000FFFD for a Smooth Print Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-gloom-bringing-back-daylight-in-windows/"><u>Bypassing The Gloom: Bringing Back Daylight in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/character-map-unlocked-in-windows-11-edition/"><u>Character Map Unlocked in Windows 11 Edition</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/como-copiar-de-manera-eficiente-los-ultimos-documentos-con-herramientas-nativas-de-copia-como-xcopy-o-robocop/"><u>Cómo Copiar De Manera Eficiente Los Últimos Documentos Con Herramientas Nativas De Copia Como XCopy O RoboCop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversao-gratuita-de-filmes-mov-para-mp4-funcionando-na-web-agora/"><u>Conversão Gratuita De Filmes MOV Para MP4 - Funcionando Na Web Agora!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhancing-your-privacy-on-apple-music-top-4-strategies-for-discreet-enjoyment/"><u>Enhancing Your Privacy on Apple Music: Top 4 Strategies for Discreet Enjoyment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fix-game-lag-issues-on-your-computer/"><u>FIX Game Lag Issues on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-12-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi 12 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/path-to-youtube-riches-optimal-view-figures-for-monetization-success/"><u>Path to YouTube Riches Optimal View Figures for Monetization Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-notes-on-the-web-via-microsoft-edge/"><u>Step-by-Step Guide: Creating Notes on the Web via Microsoft Edge</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
 </ul></div>
 

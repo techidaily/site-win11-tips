@@ -1,7 +1,7 @@
 ---
 title: "Solving 0X0000011B Errors: Operation Issue Resolved"
-date: 2024-10-14T13:03:29.611Z
-updated: 2024-10-14T20:56:07.825Z
+date: 2024-10-13T23:48:25.730Z
+updated: 2024-10-21T02:01:26.484Z
 tags:
   - windows10
   - windows11
@@ -45,15 +45,22 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -74,6 +81,14 @@ To check and install Windows updates:
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
@@ -94,10 +109,10 @@ To check and install Windows updates:
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
@@ -123,20 +138,13 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
@@ -152,13 +160,6 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
@@ -166,10 +167,10 @@ To uninstall Windows updates:
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -191,21 +192,20 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/banish-windows-store-issue-0x80072ee7-with-these-proven-fixes/"><u>Banish Windows Store Issue 0X80072EE7 with These Proven Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-winrars-summation-missteps-with-6-fixes/"><u>Combatting WinRAR's Summation Missteps with 6 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-installation-time-with-proper-deps-setup/"><u>Cut Down Installation Time with Proper Deps Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-the-freeze-in-photo-booth-videos/"><u>Decoding the Freeze in Photo Booth Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-to-digital-jetprot-8710-drivers-for-enhanced-windows-printing/"><u>Direct to Digital: JetProt 8710 Drivers for Enhanced Windows Printing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/do-you-want-to-know-how-to-freeze-video-check-this-article-and-find-the-easiest-way-to-freeze-frame-of-your-video-for-2024/"><u>Do You Want to Know How to Freeze Video? Check This Article and Find the Easiest Way to Freeze Frame of Your Video for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341658979-experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-11-calendar-space/"><u>Navigating the Windows 11 Calendar Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-memory-feature-on-new-windows-11/"><u>Overcoming Disabled Memory Feature on New Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Infinix Note 30 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-exquisite-photography-building-inspiring-slideshows-and-fixing-spots-in-win11/"><u>Step-by-Step Guide to Exquisite Photography: Building Inspiring Slideshows & Fixing Spots in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-overcome-ownership-challenges-with-org-managed-configurations-in-windows-11/"><u>Tips to Overcome Ownership Challenges with Org-Managed Configurations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-pro-mastery-a-guide-to-successfully-uninstall-and-reinstall-extras/"><u>Windows 11 & 11 Pro Mastery: A Guide to Successfully Uninstall and Reinstall Extras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[Updated] 2024 Approved Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-your-imovie-content-for-vimeo-display/"><u>[Updated] Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-ace-2v-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Ace 2V?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-directdraw-fails-a-practical-approach-for-win11-users/"><u>Conquering DirectDraw Fails: A Practical Approach for Win11 Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/effortless-edits-streamlining-your-tiktok-archives-excessive-saves-for-2024/"><u>Effortless Edits Streamlining Your TikTok Archive's Excessive Saves for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-video-playback-sounds-problem-for-youtube-users-on-windows-10-system/"><u>Guide to Overcoming Video Playback Sounds Problem for YouTube Users on Windows 10 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-rectify-windows-bluetooth-outputs-music-only/"><u>Guidelines to Rectify Windows Bluetooth Outputs - Music Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-unstrand-your-gaming-experience-in-windows/"><u>How to Correctly Unstrand Your Gaming Experience in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-zbook-15-g3-drivers-download-and-install-for-windows/"><u>HP ZBook 15 G3 Drivers Download and Install for Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-exchange-of-fb-vids-on-whatsapp-for-2024/"><u>Mastering the Exchange of FB Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-11s-geforce-now-xc0f1103f-fix/"><u>Mending Windows 11’S GeForce Now: Xc0f1103f Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refresh-classics-atlasos-gaming-update/"><u>Refresh Classics: AtlasOS Gaming Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/refresh-your-mornings-the-best-7-alarm-clock-apps-to-enhance-wakefulness/"><u>Refresh Your Mornings: The Best 7 Alarm Clock Apps to Enhance Wakefulness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-android-studio-operations-a-win32-guide/"><u>Streamlining Android Studio Operations: A Win32 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-trigger-camera-notification-in-win11-os/"><u>Techniques to Trigger Camera Notification in Win11 OS</u></a></li>
 </ul></div>
 

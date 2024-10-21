@@ -1,7 +1,7 @@
 ---
 title: "Optimize Viewing Experience: Shift to Tiled Desktops"
-date: 2024-10-14T08:01:16.490Z
-updated: 2024-10-14T23:06:08.249Z
+date: 2024-10-15T02:49:31.581Z
+updated: 2024-10-20T16:26:31.479Z
 tags:
   - windows10
   - windows11
@@ -55,20 +55,27 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  Interactions with FancyWM start with its activation hotkey, by default mapped to the **Shift** \+ **Windows key** combination, followed by another key. If you only press the initial activation hotkey, FancyWM will show you a panel with the actions you can perform at any time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Managing Window Groups
 
  FancyWM allows you to create horizontally, vertically, and stacked groups of windows and combine them on your screen. However, you can't create horizontal and vertical "sub-groups" within a stacked group, and vice-versa.
 
 ![FancyWM Horizontal Vertical Layout Combination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-horizontal-vertical-layout-combination.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press FancyWM's activation hotkey followed by **V**, **H**, or **S** to turn the active window into a vertical, horizontal, or stacked window group. To add more windows to a group, drag and drop them where you want them to appear.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tweaking Your Layouts
 
@@ -85,17 +92,17 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 ![FancyWM Split Vertical Layout with Stacked Spotify Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-split-vertical-layout-with-stacked-spotify-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using All Your Virtual Desktops & Monitors
@@ -105,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Are you using multiple monitors with your computer? You can switch between the displays (after using FancyWM's activation key) with the **function keys** (F1-F9). To move a window to any of them, keep **Shift** held while pressing a function key.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Floating Windows With FancyWM
@@ -119,18 +126,18 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  To remove a window from a tiled layout and have it freely float on your screen, use FancyWM's **activation hotkey** followed by **F**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use FancyWM's Mouse Controls
 
  FancyWM also offers a mouse-friendly menu for managing your windows. To access it, move your mouse "over" any window managed by FancyWM and then back to its "title bar" area. You should see a floating menu appear.
 
 ![FancyWM Pop Up Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-pop-up-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * By dragging one of the first three buttons on this menu to another window, both windows will be placed in a new **vertical**, **horizontal**, or **stacked** group.
 * The fourth button moves the window a **level up**.
@@ -138,16 +145,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 * The three dots button gives access to two options for setting a window to always float, based on its **process** a) **name**, or b) **class**.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize FancyWM
@@ -159,19 +160,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  If you like how it upgrades window management and decide to keep using it, on the **General** page, under **Startup**, you can set FancyWM to **Run automatically at system startup**. Also, enable **Run with administrator privileges** if you want it to manage any windows with elevated privileges (otherwise, it won't "have the rights" to do so).
 
 ![FancyWM Settings Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-startup.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make FancyWM feel zippier, especially on older or underpowered PCs, scroll down to the **Window movement** section and turn off **Animate window movement**. From the same spot, you can set FancyWM to **Automatically activate the moved window**.
 
@@ -185,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 ![FancyWM Settings Displays](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-displays.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You don't like FancyWM's default shortcuts, or they clash with other software you're using? Change them on the **Keybindings** page.
 
 ![FancyWM Settings Keybinding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-keybinding.jpg)
@@ -192,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  As its name implies, from the **Rules** page, you can "tell" FancyWM to skip managing particular windows and have them always **float** (until you manually "tile them").
 
 ![FancyWM Settings Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-rules.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you check out FancyWM's **Advanced** Settings page, you'll find AutoHotkey. This lets you create complex scripts for managing your windows.
 
@@ -214,27 +202,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  The "tiling" approach is regaining popularity in the world of Linux but, tools like FancyWM bring window tiling to Microsoft's Windows. Here's how it can help you keep your desktop clean and organized and, as a bonus, boost your productivity.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-shadowed-sojourn-versus-luminous-journey-black-vs-silver/"><u>[New] 2024 Approved Shadowed Sojourn Versus Luminous Journey BLACK vs SILVER</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-10-youtube-growth-titles-where-creativity-soars-quickly/"><u>[New] In 2024, Top 10 YouTube Growth Titles Where Creativity Soars Quickly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-magic-in-marketing-top-20-keyphrases/"><u>[Updated] Unlocking Magic in Marketing - Top 20 Keyphrases</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-lol-recording-three-easy-techniques/"><u>2024 Approved Mastering LOL Recording Three Easy Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/advanced-techniques-for-using-the-instagram-sticker-question-mark/"><u>Advanced Techniques for Using the Instagram Sticker Question Mark</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-practices-for-cleaning-up-the-icon-cache/"><u>Best Practices for Cleaning Up the Icon Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-silent-camera-activation-in-windows-11/"><u>Bypassing Silent Camera Activation in Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easy-ways-to-record-gotomeeting-sessions-for-2024/"><u>Easy Ways to Record GoToMeeting Sessions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-empty-directory-error-code-0x80070091-in-win11/"><u>Eliminating Empty Directory Error Code 0X80070091 in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y17s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y17s FRP</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/learn-to-modify-snapchats-audio-effect-in-two-ways-for-2024/"><u>Learn to Modify Snapchat's Audio Effect in Two Ways for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-task-managers-dominance-over-desktop-applications/"><u>Mastering Task Manager's Dominance Over Desktop Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-and-correcting-rdp-fails-in-modern-windows-os/"><u>Preventing and Correcting RDP Fails in Modern Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-faulty-resource-monitors-on-windows-11/"><u>Resetting Techniques for Faulty Resource Monitors on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-non-installing-java-in-windows-environment/"><u>Solutions for Non-Installing Java in Windows Environment</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-getting-started-with-video-editing-a-windows-movie-maker-handbook/"><u>Updated 2024 Approved Getting Started with Video Editing A Windows Movie Maker Handbook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-app-usage-a-comprehensive-review/"><u>Window's App Usage: A Comprehensive Review</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -242,3 +209,27 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-guide-to-establishing-a-twitter-presence/"><u>[New] The Ultimate Guide to Establishing a Twitter Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-influential-impact-celebrating-instagrams-most-dynamic-stars/"><u>[Updated] 2024 Approved Influential Impact Celebrating Instagram's Most Dynamic Stars</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>[Updated] Deciding on FPS To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>[Updated] In 2024, Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-kings-arena/"><u>2024 Approved Capture King's Arena</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-guide-to-start-recording-with-vlc-software/"><u>2024 Approved Guide to Start Recording with VLC Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-and-device-assessments-toms-hardware-insight/"><u>Comprehensive Computer and Device Assessments - Tom's Hardware Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-integrating-dolby-atmos-into-windows-1111/"><u>Comprehensively Integrating Dolby Atmos Into Windows 11/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-to-download-drivers-for-xbox-360-controllers-trusted-sources/"><u>Direct Links to Download Drivers for Xbox 360 Controllers (Trusted Sources)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-replacements-for-photoshop-here/"><u>Discover the Best Free Replacements for Photoshop Here!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-extended-support-changes-the-game-for-windows-11-computers/"><u>How Extended Support Changes the Game for Windows 11 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-mouse-acceleration-in-windows-11-and-11/"><u>How to Turn Off Mouse Acceleration in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-v30-lite-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo V30 Lite 5G? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-portaudio-error-in-audacity-windows-11-and-11-devices/"><u>Overcoming PortAudio Error in Audacity, Windows 11 & 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-cure-onedrive-synch-problems-with-windows-11/"><u>Quick Remedies to Cure OneDrive Synch Problems with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-deleted-default-energy-management-in-win-11/"><u>Reinstating Deleted Default Energy Management in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-endless-unlocked-windows-experience/"><u>Tips for Endless Unlocked Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-the-credential-manager-in-windows-11-os/"><u>Triggering the Credential Manager in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-windows-11-s-mode-and-should-you-use-it/"><u>What Is Windows 11 S Mode, and Should You Use It?</u></a></li>
+</ul></div>
+

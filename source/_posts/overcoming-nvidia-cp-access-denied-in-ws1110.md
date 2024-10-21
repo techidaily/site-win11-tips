@@ -1,7 +1,7 @@
 ---
 title: Overcoming Nvidia CP Access Denied in WS11/10
-date: 2024-10-10T00:37:42.478Z
-updated: 2024-10-15T05:32:31.886Z
+date: 2024-10-15T20:32:45.146Z
+updated: 2024-10-21T00:49:37.527Z
 tags:
   - windows10
   - windows11
@@ -37,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 `C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.964.0_x64__56jybvy8sckqj`
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Select the Repair and Reset Options for the NVIDIA Control Panel
 
  The NVIDIA Control Panel app has**Repair** and**Reset** troubleshooting options you can select in Settings. Both options can be useful for fixing apps when they’re not working right. So, try selecting the**Repair** option first and then**Reset** to clear the app’s data if repairing isn’t enough. Check out this[article about resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this potential fix.
@@ -73,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 8. Close the NVIDIA Display Container Properties window by clicking**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Your NVIDIA Graphics Card Driver
@@ -87,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 ![The Perform a clean installation checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perform-a-clean-installation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Roll Back the NVIDIA Driver
 
  If the “Access denied” error arises after installing a new NVIDIA driver, rolling back that driver to a previous one could be a viable potential solution. You’ll only be able to do that if the previous NVIDIA GPU driver file is still available. Our[article about rolling back drivers](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes guidelines for how to apply this potential fix.
@@ -96,10 +90,16 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This[post about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows. Select a restore point that will restore the previous NVIDIA graphics driver. You can click**Scan for affected** programs in System Restore to check if a chosen restoration point will restore an NVIDIA graphics driver.
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 4. Clear Explorer’s address bar to input the following path:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\ProgramData\NVIDIA Corporation`
@@ -130,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
  To select the same**Hidden Items** option in Windows 10, you’ll need to open the**View** tab in Explorer. Then select the checkbox labeled**Hidden Items** on that tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn Off the Game Bar
 
  It’s also recommended to turn off the Game Bar in case that’s causing any issues with the NVIDIA Control Panel. This potential resolution applies more to Windows 10 since Windows 11’s Settings app doesn’t include a specific option for disabling the Game Bar. You can turn off the Game Bar in Windows 10 like this:
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 2. Click the**Gaming** category.
 3. Then turn off the**Enable Xbox Game Bar** option.  
 ![The Xbox Game Bar setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change Your Settings in the NVIDIA Control Panel Again
 
@@ -165,22 +165,22 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-thriving-amidst-the-world-of-podcasts/"><u>[New] 2024 Approved The Ultimate Guide to Thriving Amidst the World of Podcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-vr-gameplay-for-2024/"><u>[New] How to Record VR Gameplay for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-soundshapers-for-content-makers-on-youtube/"><u>[Updated] Best Soundshapers for Content Makers on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-music-tools-for-pcs/"><u>[Updated] Exclusive Music Tools for PCs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-9-smartphone-video-call-solutions-iphone-vs-android-reviewed/"><u>[Updated] In 2024, Best 9 Smartphone Video Call Solutions IPhone vs Android Reviewed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-can-you-afford-to-exclude-itop-from-your-setup/"><u>[Updated] In 2024, Can You Afford to Exclude ITop From Your Setup?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-winter-wonderland-adjustments-in-windows-11/"><u>7 Winter Wonderland Adjustments in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-video-stuttering-issues-on-windows/"><u>9 Ways to Fix Video Stuttering Issues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-uninstallation-block-in-win-11-edition/"><u>Addressing Uninstallation Block in Win 11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-access-windows-shared-folders/"><u>Android: Access Windows Shared Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-resource-allocation-for-ntoskrnlexe/"><u>Balancing Resource Allocation for Ntoskrnl.exe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-automatic-windows-updates/"><u>Banishing Automatic Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-capacity-securely-without-erasing-files/"><u>Boost Windows Capacity Securely without Erasing Files</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-ace-2v-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Ace 2V FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719357869666-quick-remedies-to-address-compatibility-issues-on-windows-xp/"><u>Quick Remedies to Address Compatibility Issues on Windows XP</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-total-review-demystifying-googles-podcast-app/"><u>[New] Total Review Demystifying Google's Podcast App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>[Updated] Bridging Worlds Fusing Photos Into Majestic Tiles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transcribing-chats-efficient-techniques-for-fb-live-recordings/"><u>[Updated] In 2024, Transcribing Chats Efficient Techniques for FB Live Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-secrets-to-youtube-success-titles-and-tags/"><u>[Updated] Unveiling the Secrets to Youtube Success Titles & Tags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-velvet-vaults-2022-olympic-skaters/"><u>2024 Approved Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://win-best.techidaily.com/5-steps-to-duplicate-a-folder-in-google-drive/"><u>5 Steps to Duplicate a Folder in Google Drive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-tecno-spark-10-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Tecno Spark 10 5G</u></a></li>
+<li><a href="https://win-webster.techidaily.com/como-mantener-tus-archivos-sincronizados-en-tiempo-real-con-windows-10-8-o-7/"><u>Cómo Mantener Tus Archivos Sincronizados en Tiempo Real Con Windows 10, 8 O 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-the-noise-wake-on-idle-restarts-in-w10w11/"><u>Cutting the Noise: Wake on Idle Restarts in W10/W11</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-g24-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G24 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-file-corruption-problems-error-0x80070570-on-windows-11/"><u>How to Tackle File Corruption Problems (Error 0X80070570) on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-to-fix-file-or-directory-is-corrupt-error-x70-in-windows/"><u>Proven Methods To Fix 'File or Directory Is Corrupt' Error X70 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-win1011s-recycle-bin-with-these-fixes/"><u>Revive Your WIN10/11's Recycle Bin with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-apps-in-disguise-hurt-your-windows-11-performance/"><u>Stealthy Apps in Disguise Hurt Your Windows 11 Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-for-spotify-error-4-windows-11-fixes/"><u>Swift Action for Spotify Error 4: Windows 11 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-for-handling-windows-update-failures-and-errors-0x80070003/"><u>Swift Solution for Handling Windows Update Failures & Errors: 0X80070003</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-cdrive-and-ddrive-distinctions/"><u>Understanding C:Drive & D:Drive Distinctions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Windows Transformations Using Shortcuts
-date: 2024-10-08T23:22:51.104Z
-updated: 2024-10-14T20:45:32.531Z
+date: 2024-10-16T19:13:42.719Z
+updated: 2024-10-20T17:12:13.653Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
@@ -76,24 +76,24 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
@@ -114,15 +114,20 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-reimagine-your-youtube-approach-with-tubebuddy/"><u>[New] 2024 Approved Reimagine Your YouTube Approach with TubeBuddy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[Updated] Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-network-unity-wi-fi-plus-ethernet-integration-in-windows/"><u>Achieving Network Unity: Wi-Fi + Ethernet Integration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-harness-windows-smart-launcher-techniques/"><u>Boost Productivity: Harness Windows' Smart Launcher Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-edges-app-guard-with-enhanced-graphics/"><u>Boosting Edge's App Guard with Enhanced Graphics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-malfunctioning-apps-on-your-samsung-television-set/"><u>Diagnosing and Repairing Malfunctioning Apps on Your Samsung Television Set</u></a></li>
-<li><a href="https://fox-access.techidaily.com/getting-to-know-the-premium-p2715q-a-high-definition-marvel-for-2024/"><u>Getting to Know the Premium P2715Q A High-Definition Marvel for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719327147890-secrets-to-perfect-full-screen-snipping-with-windows-toolkit/"><u>Secrets to Perfect Full-Screen Snipping with Windows' Toolkit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-logitech-g430-restore-your-sound-now/"><u>Step-by-Step Fixes for a Malfunctioning Logitech G430 - Restore Your Sound Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-quickly-installing-corsair-void-pro-drivers-windows/"><u>Step-by-Step Tutorial for Quickly Installing Corsair Void Pro Drivers (Windows)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-5-best-dvd-creators-on-mac-os/"><u>[New] 2024 Approved 5 Best DVD Creators on Mac OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-listenguide-review-for-2024/"><u>[New] ListenGuide Review for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-retweeted-gifs-iphoneandroid-step-by-step-savings/"><u>[New] Retweeted Gifs IPhone/Android Step-by-Step Savings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-7-indicative-windows-activities-of-malware/"><u>Deciphering 7 Indicative Windows Activities of Malware</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-2-ways-to-increase-your-youtube-audience-fast/"><u>In 2024, 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-14-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 14 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-your-productivity-in-windows-with-flow-launcher/"><u>Increase Your Productivity in Windows With Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-efficiency-in-windows-1011-with-top-rated-productivity-tools/"><u>Master Efficiency in Windows 10/11 with Top-Rated Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system32-access-on-windows-11/"><u>Mastering System32 Access on Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-steps-to-translate-video-on-twitter/"><u>New In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-the-disruptive-noise-irq-tuning-guide/"><u>Silencing the Disruptive Noise: IRQ Tuning Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-way-to-cut-out-unwanted-onedrive-in-explorer/"><u>The Way to Cut Out Unwanted OneDrive in Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-office-capabilities-installing-outlook-preview-on-windows-11/"><u>Unlock Full Office Capabilities: Installing Outlook Preview on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decorating Taskbar: Step-by-Step on Adding a Weather Indicator to Windows 11"
-date: 2024-10-10T16:35:42.809Z
-updated: 2024-10-15T06:44:47.150Z
+date: 2024-10-14T22:13:45.237Z
+updated: 2024-10-20T22:17:12.271Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
@@ -73,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
@@ -84,17 +90,17 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -103,27 +109,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Would you prefer to have current and forecast weather details directly accessible from the system tray instead? If so, this is how you can add a weather icon to Windows 11’s system tray for quick access to forecasts with two third-party apps.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-comprehensible-walkthrough-finding-your-youtube-remarks/"><u>[New] 2024 Approved A Comprehensible Walkthrough Finding Your YouTube Remarks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[New] 2024 Approved Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-overcoming-connectivity-issues-in-your-live-feed-for-2024/"><u>[New] Overcoming Connectivity Issues in Your Live Feed for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automating-iphones-calendar-into-windows-os/"><u>Automating iPhone's Calendar Into Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-oculus-quest-to-function-in-windows-vr/"><u>Customizing Oculus Quest to Function in Windows VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dial-up-decibels-the-top-4-programs-to-increase-volume-on-windows/"><u>Dial Up Decibels: The Top 4 Programs to Increase Volume on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excellent-windows-apps-transforming-videos/"><u>Excellent Windows Apps Transforming Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools/"><u>Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-techniques-to-elevate-your-fullscreen-experience-in-premiere/"><u>Expert Techniques to Elevate Your Fullscreen Experience in Premiere</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-free-up-drive-space-in-windows-11-revouninstaller/"><u>How to Free Up Drive Space in Windows 11 - RevoUninstaller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-0x0000011b-failures-in-windows-os/"><u>How to Stop 0X0000011B Failures in Windows OS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-practical-technique-swap-film-direction-in-vlc-player/"><u>In 2024, Practical Technique Swap Film Direction in VLC Player</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-adding-wordpad-shortcut-accessibility/"><u>Mastering Windows 11: Adding WordPad Shortcut Accessibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-unintentional-erasure-of-panel-settings-by-cp/"><u>Techniques to Prevent Unintentional Erasure of Panel Settings by CP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-htc-u23-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on HTC U23 Pro Phones</u></a></li>
-<li><a href="https://win-hot.techidaily.com/understanding-and-removing-trojan-droppers-a-complete-guide-by-malwarefox/"><u>Understanding and Removing Trojan Droppers: A Complete Guide by MalwareFox</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +116,23 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-android-tips-creating-stunning-slow-motion-videos/"><u>[New] 2024 Approved Android Tips Creating Stunning Slow Motion Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[New] Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-business-visions-no-money-just-templates/"><u>[Updated] Shape Business Visions - No Money, Just Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-precision-of-portioning-video-length-optimization-on-youtube/"><u>[Updated] The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clean-slate-clearing-windows-11-activity-record/"><u>Clean Slate: Clearing Windows 11 Activity Record</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-on-time-spent-error-0x800736cc-in-windows-update/"><u>Cutting Down on Time Spent: Error 0X800736CC in Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-command-line-experience-make-terminal-first/"><u>Enhance Command Line Experience: Make Terminal First</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-restore-your-clownfish-voice-changers-functionality/"><u>Expert Tips to Restore Your Clownfish Voice Changer's Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-link-disneyplus-to-chromecast-for-hassle-free-viewing/"><u>How To Link Disney+ to Chromecast for Hassle-Free Viewing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-art-of-intel-82579lm-driver-patches-for-windows/"><u>Master the Art of Intel 82579LM Driver Patches for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-recovering-lost-settings-from-nvidia-control-center/"><u>Methods for Recovering Lost Settings From NVidia Control Center</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/speed-shots-and-stills-quicktime-techniques-for-samsung-users/"><u>Speed Shots & Stills Quicktime Techniques for Samsung Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-uncovering-the-secrets-of-your-windows-11-activation-code/"><u>Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-10-store-errors-a-quick-guide/"><u>Tackling Windows 10 Store Errors: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-github-desktop-efficiently-on-windows-11-pro/"><u>Utilizing GitHub Desktop Efficiently on Windows 11 Pro</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows Audio Device Connectivity Issue
-date: 2024-10-08T12:07:35.903Z
-updated: 2024-10-14T21:44:50.648Z
+date: 2024-10-16T18:37:40.493Z
+updated: 2024-10-21T03:41:31.795Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ To run the troubleshooter:
 
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
  Another way to fix this error is to add**Network service** and**Local Services** to the Local Administrator Group. Network Service and Local Service are predefined accounts part of the service control manager. Adding these accounts to the Local Administrator Group should help you fix the sound problem on your Windows PC.
@@ -67,28 +74,22 @@ To run the troubleshooter:
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -96,19 +97,6 @@ To run the troubleshooter:
  If you use the Windows Home edition, you can use Command Prompt to add Local Network and Local Services to the local administrator group. Here's how to do it.
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
@@ -118,6 +106,19 @@ To run the troubleshooter:
 `net localgroup Administrators /add networkservice`
 5. If both the commands are executed successfully, type**exit** and press**Enter** to close Command Prompt.
 6. Restart your PC and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Uninstall the Audio Device and Driver
 
@@ -131,14 +132,22 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
@@ -162,19 +171,6 @@ To uninstall an audio device:
 
  With the automatic driver download disabled, reinstall the existing driver to fix the no audio issue.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing the "No Speaker or Headphones Are Plugged In" Error
 
  The error often occurs due to a bad driver update. To fix it, you can perform a rollback or manually reinstall the audio device driver. In addition, try to update the audio device driver from the manufacturer's website.
@@ -194,20 +190,20 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-growth-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively/"><u>[New] 2024 Approved Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-industrys-airborenas-titans-10-lifters-reviewed/"><u>[New] Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-can-i-share-videos-on-facebook/"><u>2024 Approved Can I Share Videos on Facebook?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>2024 Approved Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
-<li><a href="https://howto.techidaily.com/discovering-superior-bot-talent-gpt-plus-or-perplexity/"><u>Discovering Superior Bot Talent: GPT Plus or Perplexity?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-your-preferred-soft-install-tool-on-win-devices/"><u>Finding Your Preferred Soft Install Tool on Win Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpts-power-a-guide-for-modern-data-analysts/"><u>Harnessing ChatGPT's Power: A Guide for Modern Data Analysts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-non-starting-adobe-photoshopping-in-windows-11/"><u>How to Enable Non-Starting Adobe Photoshopping in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-dir-not-empty-error-0x80070091/"><u>Overcoming Windows 11 Dir Not Empty Error (0X80070091)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reintroducing-versatility-beyond-win-1110s-s-mode/"><u>Reintroducing Versatility Beyond Win 11/10'S S Mode</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-nvme-drivers-for-windows-systems/"><u>Step-by-Step Guide: Installing NVMe Drivers for Windows Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/techniques-in-producing-accelerated-video-narratives-for-2024/"><u>Techniques in Producing Accelerated Video Narratives for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-ways-to-record-video-without-sound-for-2024/"><u>[New] Best Ways to Record Video Without Sound for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lyric-video-makers-you-should-try/"><u>Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-windows-ipmac-using-powershell-techniques/"><u>Easy Windows IP/MAC: Using PowerShell Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-disk-space-on-win11-safely-keep-files-intact-max-156-chars/"><u>Enhancing Disk Space on Win11 Safely (Keep Files Intact, Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essentials-of-windows-iscsi-initiator-and-access-methods/"><u>Essentials of Windows iSCSI Initiator and Access Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-video-driver-crashed-and-was-reset-error-in-windows-1110/"><u>How to Fix the “Video Driver Crashed and Was Reset” Error in Windows 11/10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-sudden-stop-of-your-hamachi-service-a-users-handbook/"><u>How To Repair The Sudden Stop of Your Hamachi Service - A User's Handbook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-ad-revenue-through-animated-campaigns-on-facebook/"><u>In 2024, Elevating Ad Revenue Through Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-controls-five-techniques/"><u>Mastering Firewall Controls: Five Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-essential-wins11-god-mode-tips/"><u>Transforming Workflow: Essential Wins11 God Mode Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-nvidia-cp-unresponsiveness-on-win-11/"><u>Troubleshooting Nvidia CP Unresponsiveness on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-password-reset-lockout-period-change/"><u>Windows 10/11 Password Reset Lockout Period Change</u></a></li>
 </ul></div>
 

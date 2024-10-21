@@ -1,7 +1,7 @@
 ---
 title: Optimize Terminal Backdrop for Style
-date: 2024-10-08T09:46:22.940Z
-updated: 2024-10-15T12:51:27.361Z
+date: 2024-10-17T21:41:08.709Z
+updated: 2024-10-21T02:39:58.259Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  In the settings window's left column, go to**Defaults** . Now move to the right side of the page and tap**Appearance** to expand it.
 
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
@@ -80,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
@@ -107,29 +114,16 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
@@ -151,20 +145,17 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>[Updated] Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[Updated] Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-computer-experience-with-these-6-tools/"><u>Accelerate Your Computer Experience with These 6 Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-visual-fields-in-windows-systems/"><u>Altering Visual Fields in Windows Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-captivating-intros-for-podcasts-for-2024/"><u>Crafting Captivating Intros for Podcasts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-defusing-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Deciphering and Defusing Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-hardware-store-comprehensive-guides/"><u>Expert Insights at Tom’s Hardware Store - Comprehensive Guides</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-14-pro-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 14 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-a78-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A78 5G Phone?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-device-opens-issue-on-audacity-in-windows/"><u>Steps to Correct Device Opens Issue on Audacity in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-teamsters-downtime-on-windows-11-10/"><u>Troubleshooting Teamsters Downtime on Windows 11, 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-new-possibences-in-private-messaging-utilize-duckduckgos-advanced-ai-chat-features-today/"><u>Unlock New Possibences in Private Messaging – Utilize DuckDuckGo's Advanced AI Chat Features Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-art-of-iphone-photography-in-the-dark/"><u>[New] 2024 Approved The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>[New] In 2024, Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-sprinkle-life-into-your-videos-free-text-tricks/"><u>[New] Sprinkle Life Into Your Videos Free Text Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-peeling-back-layers-what-hides-beneath-each-snapchat-emoji/"><u>[Updated] In 2024, Peeling Back Layers What Hides Beneath Each Snapchat Emoji?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-replay-engine-how-to-download-and-preserve-lives-for-2024/"><u>Digital Replay Engine How to Download and Preserve Lives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-tiny-tycoons-car-contests/"><u>In 2024, Tiny Tycoons' Car Contests</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canon-ip110-driver-software-for-win11win10win8win7-users/"><u>Latest Canon IP110 Driver Software for Win11/Win10/Win8/Win7 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowest-on-bf-day-save-612-lifetime-windows-10/"><u>Lowest on BF Day: Save $6.12, Lifetime Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-mmc-fixing-missing-snap-ins/"><u>Mastering Windows MMC: Fixing Missing Snap-Ins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/null-device-alert-a-guide-for-win-11-users/"><u>Null Device Alert: A Guide for Win 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-folder-options-adding-movecopy-to-context-menu/"><u>Personalize Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-storage-steam-writes-correctly-now/"><u>Streamlining Storage: Steam Writes Correctly Now</u></a></li>
 </ul></div>
 

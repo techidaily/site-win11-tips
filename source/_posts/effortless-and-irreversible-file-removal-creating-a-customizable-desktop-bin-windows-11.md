@@ -1,7 +1,7 @@
 ---
 title: "Effortless and Irreversible File Removal: Creating a Customizable Desktop Bin (Windows 11)"
-date: 2024-10-11T08:03:15.149Z
-updated: 2024-10-15T01:35:40.023Z
+date: 2024-10-18T03:38:35.426Z
+updated: 2024-10-21T04:00:53.176Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -96,20 +96,14 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
@@ -124,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
@@ -153,17 +147,14 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlock-full-scale-viewing-on-facebook/"><u>[New] 2024 Approved Unlock Full-Scale Viewing on Facebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-adding-emojis-in-youtube-discussions/"><u>2024 Approved Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-live-streaming-360-video-to-youtube/"><u>2024 Approved How to Live Streaming 360 Video to Youtube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tackling-muted-frames-on-snapchat-videos-the-ultimate-solution/"><u>2024 Approved Tackling Muted Frames on Snapchat Videos - The Ultimate Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-microsoft-can-improve-phone-link-on-windows-11/"><u>7 Ways Microsoft Can Improve Phone Link on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-optimal-dns-performance-via-reset/"><u>Achieving Optimal DNS Performance via Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-windows-subsystem-for-linux-wsl-steps/"><u>Activating Windows Subsystem for Linux (WSL) Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adding-networked-resources-in-explorers-sidebar/"><u>Adding Networked Resources in Explorer's Sidebar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-game-interruption-preventing-frequent-ps4-controller-drop-outs-in-windows/"><u>Avoid Game Interruption: Preventing Frequent PS4 Controller Drop-Outs in Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-make-your-instagram-pop-with-sharing-gifs-in-4-easy-steps/"><u>How to Make Your Instagram Pop with Sharing GIFs in 4 Easy Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-phone-applications-altering-your-natural-tone/"><u>In 2024, Innovative Phone Applications Altering Your Natural Tone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-s23plus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy S23+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unpacking-the-advanced-capabilities-of-movavi-video-editor-2024plus/"><u>[New] Unpacking the Advanced Capabilities of Movavi Video Editor 2024+</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>2024 Approved Insta-Popularity Boost Mastering the 25 Essential Hashtags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-premiere-guide-uploading-vids-for-youtube/"><u>2024 Approved Premiere Guide Uploading Vids for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-guide-for-persistent-crash-problems-in-oddworld-soulstorm-on-desktop-computers/"><u>Comprehensive Fix Guide for Persistent Crash Problems in Oddworld: Soulstorm on Desktop Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dispatching-opengl-problem-code-3-on-nvidia-windows/"><u>Dispatching OpenGL Problem Code 3 on Nvidia, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-share-error-messages-with-nvidias-gui/"><u>Eliminating Share Error Messages with NVIDIA’s GUI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-flaky-snipshot-commands-on-pc/"><u>Enabling Flaky Snipshot Commands on PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-14-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 14 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
 </ul></div>
 

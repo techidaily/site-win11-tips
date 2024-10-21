@@ -1,7 +1,7 @@
 ---
 title: How to Fix a USB Stick Not Transferring Data on Windows
-date: 2024-10-13T16:00:00.347Z
-updated: 2024-10-15T16:00:00.223Z
+date: 2024-10-17T16:10:51.693Z
+updated: 2024-10-20T21:08:26.162Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update Your USB Device's Drivers
 
  The USB driver is the set of instructions that lets your USB stick interact with Windows. In practical terms, this means without a proper driver installed, your USB stick is as good as a pebble for your PC.
@@ -58,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  If Windows still can't find any drivers, then you can try locating them yourself. Take note of the manufacturer and model number
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
@@ -72,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
 
@@ -84,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restart Your PC
@@ -99,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  So do a simple restart and see if that fixes your USB copying problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check for Compatibility Issues
@@ -110,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  Another addition to checking things out with the PC first, it’s often helpful to check the compatibility of whatever software or hardware you’re using with your PC. Remember that compatibility is often one of the first things you should check out when buying software or hardware for yourself.
 
  If you cannot transfer the data through your USB stick, then it’s pretty likely that the USB stick isn’t compatible with your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Out a Different USB Stick (or Plug It Into a Different PC)
 
@@ -127,29 +121,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-critical-vr-movies-you-cant-skip/"><u>[New] Critical VR Movies You Can't Skip</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-zooms-full-power-with-share-screen-expertise/"><u>[Updated] Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-fixing-windows-error-xffffff/"><u>A Comprehensive Guide to Fixing Windows' Error XFFFFFF</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-glimpse-into-gloom-crafting-art-in-paints-dim-modes/"><u>A Glimpse Into Gloom: Crafting Art in Paint's Dim Modes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-mastering-windows-11s-search-functionality/"><u>A Quick Guide to Mastering Windows 11'S Search Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-disappearing-badge-icons/"><u>Addressing Disappearing Badge Icons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-restart-and-shutdown-disruptions-from-windows-faulty-apps/"><u>Addressing Restart and Shutdown Disruptions From Windows Faulty Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-taskbar-scaling/"><u>Adjusting Windows 11 Taskbar Scaling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-revenue-flow-in-microsofts-windows-11-landscape/"><u>Analyzing Revenue Flow in Microsoft's Windows 11 Landscape</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/best-instagram-highlight-cover-maker-online/"><u>Best Instagram Highlight Cover Maker Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-typing-velocity-with-windows-powertools/"><u>Boost Typing Velocity with Windows' PowerTools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/compact-mp3-skype-archive-on-the-cheap-for-2024/"><u>Compact MP3 Skype Archive on the Cheap for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-6-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 6 Plus and iPad</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-meizu-21-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Meizu 21 Pro Device</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-the-mystery-of-non-displaying-fb-posts-with-our-12-expert-steps-facebook/"><u>In 2024, Unlock the Mystery of Non-Displaying FB Posts with Our 12 Expert Steps, Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719320814373-reclaim-control-of-freeze-shift-keys/"><u>Reclaim Control of Freeze Shift Keys.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roboix-crashing-with-low-memory-alert-heres-how-you-can-resolve-it-on-ios-devices/"><u>Roboix Crashing with Low Memory Alert? Here's How You Can Resolve It on iOS Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/streamlining-color-grading-with-lut-techniques-in-ae-for-2024/"><u>Streamlining Color Grading with LUT Techniques in AE for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-smart-8-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Smart 8</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +128,22 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-key-gear-for-broadcast-engineers-and-directors/"><u>[New] 2024 Approved Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tutorial-transforming-video-content-into-captivating-animated-gifs/"><u>[New] Tutorial Transforming Video Content Into Captivating Animated GIFS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[Updated] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-sd-card-view-in-explorer-step-by-step/"><u>Enabling SD Card View in Explorer: Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-microsoft-store-problem-code-x800704cf-on-windows/"><u>How To Mend the Microsoft Store Problem: Code X800704CF on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-static-positioning-within-windowed-apps/"><u>Mastery of Static Positioning Within Windowed Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-task-sequence-failure-error-0x8007000f/"><u>Navigating Through Windows' Task Sequence Failure (Error 0X8007000f)</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ricoveri-immagini-cancellare-per-sistema-windows-10/"><u>Ricoveri Immagini Cancellare per Sistema Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-filmography-viewing-taylor-swifts-movies-in-sequence/"><u>The Complete Filmography - Viewing Taylor Swift's Movies in Sequence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-web-search-with-these-7-fantastic-chatgpt-chrome-extensions-for-superior-ai-interaction/"><u>Transform Your Web Search with These 7 Fantastic ChatGPT Chrome Extensions for Superior AI Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-unnecessary-cpu-costs-from-ntoskrnlexe/"><u>Trimming Unnecessary CPU Costs From Ntoskrnl.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-windows-11-desk-into-a-gallery-sketch-guide-here/"><u>Turn Your Windows 11 Desk Into a Gallery - Sketch Guide Here</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-fcp-project-saving-cheat-sheet/"><u>Updated In 2024, The Ultimate FCP Project Saving Cheat Sheet</u></a></li>
+</ul></div>
+

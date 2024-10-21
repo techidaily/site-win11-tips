@@ -1,7 +1,7 @@
 ---
 title: Diverse Tricks to Fire Up Your Favorite Apps on Windows
-date: 2024-10-09T07:30:49.761Z
-updated: 2024-10-15T04:38:13.884Z
+date: 2024-10-15T21:29:19.030Z
+updated: 2024-10-20T18:59:11.883Z
 tags:
   - windows10
   - windows11
@@ -33,22 +33,15 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 2. Type the name of the app or program you want to open in the text box and press**Enter** .  
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
@@ -64,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Programs via Task Manager
@@ -81,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Open Apps and Programs via Command Prompt
@@ -109,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
 ## The Many Ways to Open Apps and Programs on Windows
@@ -130,22 +136,22 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-12-video-channels-at-your-command-seamless-viewing/"><u>[New] 12 Video Channels at Your Command – Seamless Viewing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-updated-list-of-phones-for-gear-vr-use/"><u>[New] Updated List of Phones for Gear VR Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-videos-into-attractors-try-these-7-thumbnail-makers/"><u>[Updated] In 2024, Transform Videos Into Attractors - Try These 7 Thumbnail Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-xps-error-0x80300024-issue/"><u>Addressing Windows XP's Error 0X80300024 Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-11-editions-a-compre-point-by-point-analysis/"><u>Deciphering Windows 11 Editions: A Compre Point-by-Point Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dodging-the-dead-zone-fix-for-stranded-xbox-on-windows-11/"><u>Dodging the Dead Zone: Fix for Stranded Xbox on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-data-protection-top-7-win-apps-148-chars/"><u>Enhancing Data Protection: Top 7 Win Apps (148 Chars)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-huawei-nova-y91-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Huawei Nova Y91</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-moto-g24-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G24 Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-phone-applications-altering-your-natural-tone/"><u>In 2024, Innovative Phone Applications Altering Your Natural Tone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-restoring-file-transfer-on-win11/"><u>Navigating Network Hurdles: Restoring File Transfer on WIN11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-art-of-epic-save-preservation/"><u>Navigating the Art of Epic Save Preservation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/summit-elite-production-space-25-for-2024/"><u>Summit Elite Production Space 25 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/years-best-sale-612-for-eternal-windows-10-life/"><u>Year's Best Sale: $6.12 for Eternal Windows 10 Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zenith-of-clarity-top-strategies-for-combating-blurry-windows-views/"><u>Zenith of Clarity: Top Strategies for Combating Blurry Windows Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-video-reach-sharing-youtube-content-via-facebook-network/"><u>[New] 2024 Approved Maximizing Video Reach Sharing YouTube Content via Facebook Network</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-success-best-business-management-and-economy-games-for-2024/"><u>[Updated] Navigating Success Best Business Management and Economy Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown/"><u>2024 Approved Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5byk56splus44g444gu5psv5oplus044go44gu55cg6kej44gr5rex44gp5b6h56s8ic0g5ywx44gr5oiq6zw344gx44gm5yplusc44kk44gplus44gx44kh44gg/"><u>弊社への支援とご理解に深く御礼 - 共に成長して参りましょう</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-pc-unplugged-controller-setup-guide/"><u>Direct-to-PC: Unplugged Controller Setup Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-stubborn-epic-launcher-on-windows-11-pcs-guide/"><u>Disabling Stubborn Epic Launcher on Windows 11 PCs: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fixing-authentication-in-windows-os/"><u>Essential Guide to Fixing Authentication in Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-printer-ready-downloading-the-universal-driver-on-windows/"><u>Get Your HP Printer Ready: Downloading the Universal Driver on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-asus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Asus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-razer-mice-on-windows-effortlessly/"><u>Installing Razer Mice on Windows Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-correcting-security-missteps/"><u>Mastering Windows: Correcting Security Missteps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-efficiently/"><u>Step-by-Step Guide: Removing Windows 11 Updates Efficiently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-best-25-gratis-creatie-prezentarii-de-diapozitive-software-si-aplicativele-perfecte-pentru-decizii-dumnezei/"><u>The Best 25 Gratis Creație Prezentării De Diapozitive: Software Și Aplicativele Perfecte Pentru Decizii Dumnezei</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-keyboard-gurus-guide-to-windows-photos/"><u>The Keyboard Guru's Guide to Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-print-management-interface/"><u>Unveiling Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-disk-read-failures/"><u>Winning the Battle Against Disk Read Failures</u></a></li>
 </ul></div>
 

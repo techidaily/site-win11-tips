@@ -1,7 +1,7 @@
 ---
 title: Reducing Win 11 Context Menu Clutter
-date: 2024-10-14T08:28:45.904Z
-updated: 2024-10-15T04:55:38.750Z
+date: 2024-10-19T19:12:02.942Z
+updated: 2024-10-20T18:25:10.790Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
 Next, restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -58,6 +51,13 @@ Next, restart your computer for the changes to take effect.
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
@@ -84,13 +84,20 @@ Next, restart your computer for the changes to take effect.
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
@@ -105,21 +112,14 @@ Next, restart your computer for the changes to take effect.
 4. Check the**Enable classic full context menus** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
 
@@ -140,24 +140,16 @@ Next, restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[Updated] Amazon Prime’s Social Success Stories Likes & Watches Galore</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>[Updated] Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-is-picku-the-best-photo-editor-for-android-our-in-depth-review/"><u>[Updated] Is PickU The Best Photo Editor for Android? Our In-Depth Review</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-lg-k92s-value-a-look-at-its-5g-capabilities/"><u>Analyzing the LG K92's Value: A Look at Its 5G Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-tackling-large-storage-consumers-in-windows/"><u>Cut Down Clutter: Tackling Large Storage Consumers in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-right-epson-l3110-driver-for-your-windows-version-11-10-or-7/"><u>Download & Install the Right Epson L3110 Driver for Your Windows Version (11, 10 or 7)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-on-resolving-windows-error-code-0xc0000001/"><u>Expert Advice on Resolving Windows Error Code 0XC0000001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-credential-store-lockups-on-pcs/"><u>Fix Credential Store Lockups on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-steps-to-correct-windows-operating-system-office-errors/"><u>Immediate Steps to Correct Windows Operating System Office Errors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-tips-for-producing-ai-powered-live-game-streaming-content/"><u>In 2024, Tips for Producing AI-Powered Live Game Streaming Content</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>New 2024 Approved 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-how-to-locate-missing-events-on-your-iphone-calendar/"><u>Solutions: How to Locate Missing Events on Your iPhone Calendar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedily-seek-synonyms-with-win11-dictionary/"><u>Speedily Seek Synonyms with Win11 Dictionary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-functionality-of-microsofts-phone-link-an-introduction/"><u>The Functionality of Microsoft's 'Phone Link': An Introduction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-secret-techniques-for-a-transparent-windows-11-title-bar/"><u>The Secret Techniques for a Transparent Windows 11 Title Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-picks-for-trusted-free-software-downloads-on-windows/"><u>Top Picks for Trusted, Free Software Downloads on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-time-with-selective-copymove-features-in-win-11/"><u>Winning Time with Selective Copy/Move Features in Win 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube/"><u>[New] 2024 Approved A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>[Updated] Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture-for-2024/"><u>[Updated] Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-most-exceptional-computer-sound-solutions-discover-the-leading-brands-and-models/"><u>2024'S Most Exceptional Computer Sound Solutions – Discover the Leading Brands and Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-tips-to-control-the-fn-key-functionality/"><u>Effective Tips to Control the Fn Key Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-a-trouble-free-avatar-journey-in-the-world-of-pandora-for-desktop-users/"><u>Enjoy a Trouble-Free Avatar Journey in the World of Pandora for Desktop Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-newbies-guide-6-strategic-social-media-tactics-for-growth/"><u>In 2024, Newbies Guide 6 Strategic Social Media Tactics for Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wex-windows-exe-structure/"><u>Understanding WEX: Windows EXE Structure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-devices-full-internet-potential-in-windows-11/"><u>Unlock Your Device’s Full Internet Potential in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wonderland-how-to-identify-your-computers-brand-and-model/"><u>Windows Wonderland: How To Identify Your Computer's Brand & Model</u></a></li>
 </ul></div>
 

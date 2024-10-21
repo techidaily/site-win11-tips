@@ -1,7 +1,7 @@
 ---
 title: De-Gray Extended Volume Options in Windows DiscMgmt
-date: 2024-10-11T11:18:00.238Z
-updated: 2024-10-15T04:30:31.407Z
+date: 2024-10-17T00:36:01.679Z
+updated: 2024-10-21T02:13:11.664Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 2. Choose **NTFS** from the File system drop-down menu. Then, click **OK**.  
 ![File system option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-system-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
 ## 2\. Delete a Partition and Create Unallocated Space
@@ -64,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 ![Delete Volume option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-volume-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the partition is a recovery partition, you cannot delete it using Disk Management. You'll have to delete it using the Command Prompt. Here are the steps to do it:
 
 1. Press the **Win** key to open the Start Menu, type **Command** **Prompt**, and choose **Run as administrator** from the right pane. If this method doesn't work, check out other [ways to launch Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
@@ -78,30 +64,38 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 3. Type **list disk** and press **Enter**. This command will display all the available disks.  
 ![list disk command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command-2.jpg)
 4. Select the disk that you want to extend. For example, if you want to extend disk 0, type **select disk 0** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
 
@@ -109,25 +103,18 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
  Once the wizard completes, you will see the partition size has been increased.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Extend Your Windows Partitions Without Any Further Issues
 
  If you run out of space on a drive, you can use the unallocated space to increase storage. However, you will not be able to do so if the extend volume option is grayed out in the Disk Management tool. Fortunately, you can quickly troubleshoot this issue using the solutions above.
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-android-6-premier-podcast-platforms/"><u>[New] Ranking Android 6 Premier Podcast Platforms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>[Updated] Integrating Social Networks Sharing FB Videos on WhatsApp</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1726029357749-avidemux/"><u>動画圧縮のためのAvidemux代替方法とヒント</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-more-value-black-friday-offers-at-612-win10/"><u>Get More Value: Black Friday Offers at $6.12 Win10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-lava-storm-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Lava Storm 5G’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-credible-power-consumption-forecasts-in-win-11-setup/"><u>Reestablishing Credible Power Consumption Forecasts in Win 11 Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-your-desktop-layout-with-one-click/"><u>Restoring Your Desktop Layout with One Click</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-resolving-file-corrupted-error-x70-on-windows-1011/"><u>Swiftly Resolving 'File Corrupted' Error X70 on Windows 10/11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +123,23 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-listen-to-podcasts-on-your-iphone/"><u>[New] How To Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>[Updated] 2024 Approved Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-your-digital-footprint-facebook-lives-made-easy-for-2024/"><u>[Updated] Mastering Your Digital Footprint Facebook Lives Made Easy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>2024 Approved Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-forward-hotkeys-for-fast-clicking/"><u>Drive Efficiency Forward: Hotkeys for Fast Clicking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/"><u>Essential Fix Guide for WIN10/11's Corrupted Bin Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-hd-classics-unlocked-the-perfect-scummvm-techniques-for-windows-users/"><u>Full HD Classics Unlocked: The Perfect ScummVM Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-z50-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Z50 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-14-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 14 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win-11-edge-security-using-ms-defender-application-guard/"><u>Optimize Win 11 Edge Security Using MS Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-standard-user-restrictions-now/"><u>Override Standard User Restrictions Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-asus-rog-phone-7-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Asus ROG Phone 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-tame-fps-fluctuations-in-dying-light-2-for-a-seamless-pc-adventure/"><u>Troubleshoot & Tame FPS Fluctuations in Dying Light 2 for a Seamless PC Adventure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-fix-a-step-by-step-guide/"><u>WinError 0Xc0000005 Fix: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

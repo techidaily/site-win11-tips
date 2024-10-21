@@ -1,7 +1,7 @@
 ---
 title: Integrating USB Drives Into File System Navigation
-date: 2024-10-13T23:38:19.805Z
-updated: 2024-10-15T07:45:04.540Z
+date: 2024-10-15T21:49:50.046Z
+updated: 2024-10-20T23:50:25.193Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Furthermore, we highly recommend that you learn how to [back up and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). That way, you have a way of returning it to the state it was in before you made any changes that broke it.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Add the D: Drive to the Navigation Pane in File Explorer?
@@ -47,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then copy and paste the below text into Notepad:
 
@@ -88,30 +89,23 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
@@ -133,26 +127,6 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-chromebook-real-time-screenshot-app-for-2024/"><u>[Updated] Chromebook Real-Time Screenshot App for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y27-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y27 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-the-cannot-find-gpeditmsc-error-in-windows/"><u>4 Ways to Fix the “Cannot Find Gpedit.msc” Error in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-key-steps-to-resolve-epic-launcher-security-code-errors-on-windows/"><u>7 Key Steps to Resolve Epic Launcher Security Code Errors on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-and-using-components-settings/"><u>A Guide to Understanding and Using Components Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-crashing-keep-your-file-explorer-fixed-in-windows-11/"><u>Avoid Crashing: Keep Your File Explorer Fixed in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-the-past-erasing-defenders-track-of-security-efforts/"><u>Banish the Past: Erasing Defender’s Track of Security Efforts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-bsod-exploring-the-causes-and-consequences-of-blue-screens-in-computers/"><u>Decoding BSOD: Exploring the Causes and Consequences of Blue Screens in Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-drivers-for-nvidias-rtx-2080-compatible-with-windows-1011-systems/"><u>Download the Newest Drivers for NVIDIA's RTX 2080 - Compatible with Windows 10/11 Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-digital-makeup-on-video-platforms/"><u>In 2024, The Art of Digital Makeup on Video Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719371223006-master-the-digital-age-essential-keys-fan-deal-at-lowest-price-on-windows-11-612lifetime/"><u>Master the Digital Age - Essential Keys Fan Deal at Lowest Price on Windows 11, $6.12/Lifetime!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-servers-now-online-previous-connection-issues-solved/"><u>Steam Servers Now Online - Previous Connection Issues Solved</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-incorporating-audio-into-ppts/"><u>Step-by-Step Incorporating Audio Into PPTs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-5-social-networking-apps-to-enhance-your-friends-collection/"><u>The Ultimate List of 5 Social Networking Apps to Enhance Your Friends Collection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719355984111-troubleshooting-made-simple-your-guide-to-windows-help/"><u>Troubleshooting Made Simple: Your Guide to Windows Help</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +134,21 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-the-world-of-internet-hilarity-for-2024/"><u>[Updated] Navigating the World of Internet Hilarity for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlock-full-potential-of-your-zoom-sessions-with-obs-for-2024/"><u>[Updated] Unlock Full Potential of Your Zoom Sessions With OBS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-pc-qbittorrent-migration-tips-and-techniques/"><u>Cross-PC qBittorrent Migration Tips & Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-fixing-the-notorious-code-19-error-in-windows-os/"><u>Expert Tips on Fixing the Notorious Code 19 Error in Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-12-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 12 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a59-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A59 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-language-dialogues-with-windows-11-keyboard-combinations/"><u>Mastering Cross-Language Dialogues with Windows 11 Keyboard Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-cmd-window-set-as-default/"><u>Personalize Your CMD Window: Set as Default</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-tools-for-gopro-action-footage-for-2024/"><u>Prime Tools for GoPro Action Footage for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>Shopper's Insight Making an Informed Choice on Your Next 360Camera</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-k70e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi K70E Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-shortcut-insights/"><u>Windows Photo Shortcut Insights</u></a></li>
+</ul></div>
+

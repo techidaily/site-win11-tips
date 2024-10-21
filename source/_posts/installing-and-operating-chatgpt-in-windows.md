@@ -1,7 +1,7 @@
 ---
 title: Installing and Operating ChatGPT in Windows
-date: 2024-10-09T09:25:43.443Z
-updated: 2024-10-14T22:45:19.667Z
+date: 2024-10-17T19:32:14.257Z
+updated: 2024-10-20T17:17:22.363Z
 tags:
   - windows10
   - windows11
@@ -50,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
@@ -73,6 +73,14 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
@@ -91,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -111,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
@@ -132,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -155,23 +156,6 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-foremost-5-online-video-editors-for-2024/"><u>[New] Foremost 5 Online Video Editors for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-full-exploration-new-features-in-videoshow-app-24-for-2024/"><u>[Updated] Full Exploration New Features in VideoShow App '24 for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-10-vr-360-video-players-for-pc-reviews/"><u>[Updated] In 2024, Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quintessential-scripts-elevating-blockbusters/"><u>[Updated] Quintessential Scripts Elevating Blockbusters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-straightforward-steps-to-find-windows-ram-details/"><u>5 Straightforward Steps to Find Windows RAM Details</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-excel-operations-in-windows-os/"><u>Accelerate Your Excel Operations in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-windows-11-shutdown-time-when-applications-are-running/"><u>Altering Windows 11 Shutdown Time when Applications Are Running</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719276634403-microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-disconnects-fixing-pc-network-problems-in-fallout-76/"><u>Overcoming Disconnects: Fixing PC Network Problems in Fallout 76</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-highlow-res-display-issues-in-upgraded-windows-10/"><u>Overcoming High/Low-Res Display Issues in Upgraded Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-error-troubleshooting-failed-temp-folder-execution-and-setup-interruption/"><u>Resolve 'Access Denied' Error: Troubleshooting Failed Temp Folder Execution and Setup Interruption</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamline-channels-effortlessly-top-10-online-design-aids-for-2024/"><u>Streamline Channels Effortlessly Top 10 Online Design Aids for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-reno-9a-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Reno 9A on Mac?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +163,27 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-choosing-perfect-thumbnails/"><u>[New] In 2024, The Art of Choosing Perfect Thumbnails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-clan-the-challenge-best-games-similar-to-ghost-of-tsushima-for-2024/"><u>[Updated] Clan the Challenge Best Games Similar to Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-gadgets-for-capturing-zoom-sessions/"><u>[Updated] In 2024, Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-code-how-long-can-your-password-be/"><u>Breaking the Code: How Long Can Your Password Be?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-the-barrier-of-ms-store-access/"><u>Breaking Through the Barrier of MS Store Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-old-videos-using-madvr-in-the-windows-sphere/"><u>Breathe Life Into Your Old Videos: Using MadVR in the Windows Sphere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-internet-access-methods-a-guide-to-dual-connectivity-on-windows/"><u>Bridging the Gap Between Internet Access Methods: A Guide to Dual Connectivity on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-down-your-pc-with-grace/"><u>Bringing Down Your PC with Grace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browser-barriers-overcome-top-strategies-for-website-access-in-win-os/"><u>Browser Barriers Overcome: Top Strategies for Website Access in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-sign-out-barrier-fixing-software-conflict-on-windows/"><u>Bypassing the Sign-Out Barrier: Fixing Software Conflict on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-tricky-email-mishap-defeating-error-code-0x800713f/"><u>Bypassing Windows' Tricky Email Mishap: Defeating Error Code 0X800713F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cable-free-controller-configuration-windows-plus-playstation-3/"><u>Cable-Free Controller Configuration: Windows + PlayStation 3</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-moto-g23-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola Moto G23 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-tracks-to-your-next-online-gamers/"><u>Fast Tracks to Your Next Online Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-skype-audio-input-on-windows-11-systems/"><u>How to Repair a Malfunctioning Skype Audio Input on Windows 11 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/roguelikes-traditional-tactics-vs-modern-mechanics/"><u>Roguelike's Traditional Tactics Vs. Modern Mechanics</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-saving-techniques-for-your-game-console/"><u>Strategic Saving Techniques for Your Game Console</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-linksys-wusb6300-drivers-finding-and-installing-them-correctly/"><u>Troubleshooting Guide: Linksys WUSB6300 Drivers - Finding and Installing Them Correctly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor X50i? | Dr.fone</u></a></li>
+</ul></div>
+

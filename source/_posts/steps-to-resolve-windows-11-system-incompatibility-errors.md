@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Windows 11 System Incompatibility Errors
-date: 2024-10-11T19:59:18.717Z
-updated: 2024-10-15T09:14:32.064Z
+date: 2024-10-17T17:24:06.157Z
+updated: 2024-10-20T17:29:05.435Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ Additionally, you may also see the following error:
 
  If you are experiencing similar errors, it is possible that your PC doesn't have the minimum system requirements to run Windows 11\. That said, the error can be a false flag as well as it will not detect a Secure Boot and TMP 2.0-supported systems if the features are disabled in BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the System Requirements to Install Windows 11?
 
  Interestingly, the official[Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
@@ -61,14 +54,20 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
 
@@ -86,27 +85,20 @@ Additionally, you may also see the following error:
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
@@ -134,6 +126,13 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
  If your PC doesn't support Secure Boot and TPM 2.0, you can bypass the restriction using a workaround. To do this, we will modify the registry entry, allowing you to upgrade without Secure Boot and TPM 2.0 requirements.
@@ -149,21 +148,23 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Right-click on the**MoSetup** key and selec**t New > DWORD** (32-bit) value.  
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
@@ -199,16 +200,17 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/a-curated-list-of-the-best-windows-photo-organizers/"><u>A Curated List of the Best Windows Photo Organizers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-low-memory-alerts-for-vmware-hosts/"><u>Addressing Low Memory Alerts for VmWare Hosts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-zooming-anomalies-fix-7-way-for-mouse-wheels/"><u>Banish Zooming Anomalies: Fix 7 Way for Mouse Wheels</u></a></li>
-<li><a href="https://article-posts.techidaily.com/comprehensively-reviewed-androids-lightroom-features-and-functions/"><u>Comprehensively Reviewed Android’s Lightroom Features & Functions</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/effortless-syncing-strategies-how-to-import-your-ipods-playlist-into-itunes-in-just-3-steps/"><u>Effortless Syncing Strategies: How to Import Your iPod's Playlist Into iTunes in Just 3 Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719233153106-eliminate-printer-problems-fast-win11-fixed/"><u>Eliminate Printer Problems Fast: Win11 Fixed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-fixing-euro-truck-simulator-2-glitches-and-ensuring-smooth-gameplay/"><u>Expert Guide to Fixing Euro Truck Simulator 2 Glitches and Ensuring Smooth Gameplay</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-file-inspection-6-steps-for-windows/"><u>The Art of File Inspection: 6 Steps for Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unwind-and-learn-your-guide-to-podcasting-multitasking/"><u>Unwind and Learn Your Guide to Podcasting Multitasking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719376441397-why-arent-window-11-thumbnail-images-displayed-solutions-available/"><u>Why Aren't Window 11 Thumbnail Images Displayed? Solutions Available</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-6-ways-to-screen-record-netflix-on-mac/"><u>[New] 6 Ways to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhancing-immersive-video-editing-techniques-for-360-in-premiere-for-2024/"><u>[New] Enhancing Immersive Video Editing Techniques for 360° in Premiere for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[Updated] 2024 Approved Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra-for-2024/"><u>Become a PIP Expert Enhancing Visual Narratives on macOS Sierra for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-meaning-and-solution-of-winerror-0x80071a90/"><u>Decoding the Meaning & Solution of WinError 0X80071a90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-automated-software-fixes-windows-way/"><u>Delving Into Automated Software Fixes: Windows Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/msstore-dilemma-resolving-windows-error-code-0x0-in-3-steps/"><u>MsStore Dilemma - Resolving Windows Error Code 0X0 in 3 Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premiere-10-battle-royale-titles/"><u>Premiere 10 Battle Royale Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-0x80072746-email-failure-on-windows-pc/"><u>Resolving the 0X80072746 Email Failure on Windows PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solucion-de-recuperacion-de-datos-sin-coste-con-aomei-onekey-online/"><u>Solución De Recuperación De Datos Sin Coste Con AOMEI OneKey Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-troubleshooting-tips-for-migrating-to-marvell-ssd-drives/"><u>Ultimate Troubleshooting Tips for Migrating to Marvell SSD Drives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288759585-vlcdvd/"><u>VLCメディアプレイヤーでDVDを正常に再生するための完全ガイド - 初学者向け、万全解決策</u></a></li>
 </ul></div>
 

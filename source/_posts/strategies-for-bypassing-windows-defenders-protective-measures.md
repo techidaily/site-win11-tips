@@ -1,7 +1,7 @@
 ---
 title: Strategies for Bypassing Windows Defender's Protective Measures
-date: 2024-10-07T16:05:18.940Z
-updated: 2024-10-14T21:39:44.202Z
+date: 2024-10-13T22:24:19.104Z
+updated: 2024-10-20T17:33:35.389Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
@@ -75,28 +75,29 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -114,25 +115,6 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  So how do you fix this? Let's check it out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-tailor-made-youtube-closings-how-to-get-them-right-for-2024/"><u>[Updated] Tailor-Made YouTube Closings How to Get Them Right for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-premium-zero-cost-windows-media-tools/"><u>7 Premium Zero-Cost Windows Media Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-simple-steps-to-fix-server-not-found-error-on-windows-pcs-in-apex-legends-(156-chars/"><u>9 Simple Steps to Fix 'Server Not Found' Error on Windows PCs in Apex Legends (<156 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-for-windows-11-spotless-restarts/"><u>A Comprehensible Guide for Windows 11 Spotless Restarts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-a-quake-environment-via-terminals/"><u>Accessing a Quake Environment via Terminals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-android-studio-speed-on-windows-pcs/"><u>Boosting Android Studio Speed on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-boot-on-windows-sound-service-efficiency/"><u>Boosting Boot-On Windows Sound Service Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-mobile-connectivity-in-windows-11/"><u>Boosting Mobile Connectivity in Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/complete-review-of-logitechs-advanced-4k-video-camera-for-2024/"><u>Complete Review of Logitech's Advanced 4K Video Camera for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-8-top-notch-free-editors-to-enhance-your-youtube-content-efficiency/"><u>In 2024, 8 Top-Notch Free Editors to Enhance Your YouTube Content Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/reset-and-reboot-your-way-back-into-the-ms-store-windows-11/"><u>Reset & Reboot Your Way Back Into the MS Store (Windows 11)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revived-my-facebook-privileges-instructions-for-resetting-a-forgotten-social-network-password/"><u>Revived My Facebook Privileges: Instructions for Resetting a Forgotten Social Network Password</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-living-room-learn-to-remove-apps-from-your-samsung-smart-tv/"><u>Streamlined Living Room: Learn to Remove Apps From Your Samsung Smart TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722896037789-the-ultimate-guide-to-samsungs-new-z-flip-releasing-soon-price-range-and-feature-highlights-inside/"><u>The Ultimate Guide to Samsung's New Z Flip ✨: Releasing Soon? Price Range and Feature Highlights Inside!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +122,21 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-closer-look-techniques-for-microsoft-teams/"><u>[New] In 2024, Closer Look Techniques for Microsoft Teams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eamless-transitions-in-vlogs-with-jump-cuts-magic/"><u>[New] Seamless Transitions in Vlogs with Jump Cuts Magic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-pivoting-from-xsplit-top-video-splitters-ranked/"><u>[Updated] In 2024, Pivoting From XSplit Top Video Splitters Ranked</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-to-choosing-the-best-free-photo-collage-ios-apps/"><u>[Updated] The Ultimate Guide to Choosing the Best FREE Photo Collage iOS Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-of-windows-11s-latest-enhancements-after-update/"><u>Breakdown of Windows 11'S Latest Enhancements After Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-for-skyrims-script-enhancement/"><u>Breaking Barriers for Skyrim's Script Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-what-makes-ai-systems-different/"><u>Breaking Down: What Makes AI Systems Different?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-barrier-enabling-sluggish-batch-files-on-pcs/"><u>Breaking the Barrier: Enabling Sluggish Batch Files on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-course-past-the-lost-at-sea-xbox-error-in-win11/"><u>Charting Course Past the Lost at Sea Xbox Error in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-the-best-bittorrent-clients-for-windows-users/"><u>Choosing the Best BitTorrent Clients for Windows Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategizing-live-broadcasts-turn-your-recordings-into-facebook-hits/"><u>Strategizing Live Broadcasts Turn Your Recordings Into Facebook Hits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tailoring-your-video-for-optimal-instagram-impact/"><u>Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-productivity-a-detailed-look-at-hp-zbook-firefly-15-g8-business-laptops-redefined/"><u>Unleashing Productivity: A Detailed Look at HP ZBook Firefly 15 G8 – Business Laptops Redefined</u></a></li>
+</ul></div>
+

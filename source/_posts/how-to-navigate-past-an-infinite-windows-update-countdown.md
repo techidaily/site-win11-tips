@@ -1,7 +1,7 @@
 ---
 title: How to Navigate Past an Infinite Windows Update Countdown
-date: 2024-10-13T15:06:07.881Z
-updated: 2024-10-15T02:09:20.822Z
+date: 2024-10-14T01:37:17.783Z
+updated: 2024-10-21T03:22:13.853Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 3. Then, wait for a few minutes before inserting it back.
 4. Now, boot your PC and see if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Restart the Windows Update Service
 
  The Windows Update service handles the download, installation, and removal of updates on your system. If this service is disabled or not working as it is supposed to, you are likely to encounter issues while updating your operating system and its applications.
@@ -64,37 +71,25 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 5. In the Properties dialog, click on the **Stop** button.  
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/win10-windows-update-properties-stop.jpg)
 6. Wait for a few seconds before hitting the **Start** button again.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Expand the dropdown for Startup type and choose **Automatic** from the list.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-automatic-startup-type.jpg)
 8. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Scan for Viruses
 
@@ -108,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  If these utilities find any issues, they will attempt to resolve them without requiring your input. After the scans, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run the Windows Update Troubleshooter
 
  Another troubleshooting method that has helped users fix the issue is running the Windows Update troubleshooter. This is a built-in utility that is specifically designed by Microsoft to fix issues regarding Windows updates.
@@ -125,9 +113,30 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 2. Choose **Troubleshoot** from the left pane and click on **Other troubleshooters** on the right side of the window.  
 ![other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-troubleshooters-1.jpg)
 3. In the following window, look for Windows Update troubleshooter and click on the **Run** button associated with it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run button for Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-troubleshooter.jpg)
 4. The troubleshooter will now begin scanning the system for potential errors. If it finds issues, it will recommend fixes. In that case, click on **Apply this fix**.
 5. If not, click **Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Boot Into Safe Mode
 
@@ -142,26 +151,12 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ![Startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings.jpg)
 3. Click on the **Restart** button in the following window.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Restart button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings-restart.jpg)
 4. Hit the F5 key on the keyboard to proceed. This will launch the Safe Mode successfully.
 5. In Safe Mode, restart your PC the normal way (**Start menu** \> **Sign out** \> **Restart**).  
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-safe-mode-restart.jpg)
 
  Upon reboot, the issue should no longer appear. You can now check if the updates are successfully installed. If not, you can try any one of [the different methods to update Windows manually](https://www.makeuseof.com/update-windows-manually/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resume the Update Process on Windows 11
 
@@ -171,22 +166,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-engage-and-inspire-with-these-essential-10-igtv-best-practices-for-brands-for-2024/"><u>[New] Engage & Inspire with These Essential 10 IGTV Best Practices for Brands for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-photo-motion-enhancement-via-adobe-tools/"><u>[Updated] In 2024, Photo Motion Enhancement via Adobe Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/10-top-ranked-offline-ios-gaming-hacks-you-need-for-2024/"><u>10 Top-Ranked Offline iOS Gaming Hacks You Need for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-video-income-key-view-numbers-for-earning-on-youtube/"><u>2024 Approved Maximizing Video Income Key View Numbers for Earning on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-refining-video-aesthetics-for-impeccable-instagram-presence/"><u>2024 Approved Refining Video Aesthetics for Impeccable Instagram Presence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-steps-to-tame-the-gpu-hungry-desktop-window-manager/"><u>7 Steps to Tame the GPU-Hungry Desktop Window Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-themed-settings-for-education-on-windows-11/"><u>Activating Themed Settings for Education on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-inaccessible-values-in-windows-applications/"><u>Addressing Inaccessible Values in Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-touch-keyboard-default-in-windows-11-pro/"><u>Adjust Touch Keyboard Default in Windows 11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-speed-typing-aids-unleashed/"><u>Boost Your Speed: Typing Aids Unleashed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor 100 | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +173,21 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-taking-control-of-your-digital-footprint-new-facebook-guide/"><u>[New] In 2024, Taking Control of Your Digital Footprint New Facebook Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-instant-recording-audio-enriched-screens-for-2024/"><u>[New] Instant Recording Audio-Enriched Screens for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-step-by-step-approach-to-professional-ps4-gaming-recordings/"><u>[Updated] A Step-by-Step Approach to Professional PS4 Gaming Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-solving-windows-steams-error-e84/"><u>Breaking Down and Solving Windows Steam's Error E84</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-11-tpm-release-methods/"><u>Breaking Through Windows 11: TPM Release Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-your-gadgets-win11s-stickies-explained/"><u>Bridging Your Gadgets: WIN11'S Stickies, Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-forth-the-forgotten-off-screen-window-revival-steps-for-win1011/"><u>Bringing Forth the Forgotten: Off-Screen Window Revival Steps for Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-restrictions-to-gain-admin-control/"><u>Bypass Restrictions to Gain Admin Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/child-protection-mastering-windows-11-safety-settings/"><u>Child Protection: Mastering Windows 11 Safety Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-moto-g14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Moto G14</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-failure-heres-the-fix-for-voice-not-being-recorded/"><u>Microphone Failure? Here's the Fix for Voice Not Being Recorded</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pushing-limits-launching-revolutionary-gpt-4/"><u>Pushing Limits: Launching Revolutionary GPT-4</u></a></li>
+</ul></div>
+

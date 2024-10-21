@@ -1,7 +1,7 @@
 ---
 title: "How To Mend the Microsoft Store Problem: Code X800704CF on Windows"
-date: 2024-10-11T06:17:08.178Z
-updated: 2024-10-14T16:30:19.174Z
+date: 2024-10-14T21:50:09.740Z
+updated: 2024-10-21T04:18:48.601Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 ![The Reset and Repair buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Set a Different DNS Server
 
  Changing DNS server settings is a resolution that’s worked for some users who’ve needed to fix error 0x800704CF. To apply this solution, change your PC’s DNS server to Google via the Control Panel. Our guide for[how to change your DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) includes step-by-step instructions for how to do that along with the required Google DNS addresses.
@@ -62,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 ![DNS server settings on the Internet Protocol Version window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/internet-protocal-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Execute the Remove Proxy Server Command
@@ -78,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 `netsh winhttp reset proxy`  
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
 4. Restart Windows 11 or 10 after executing the command.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable the Microsoft Network Component Setting Client
 
@@ -99,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall the Network Adapter Driver
 
  Error 0x800704CF can occur because of a network adapter driver issue. If your PC’s network driver is faulty, reinstalling it could be the potential solution for you. Try reinstalling your PC’s network adapter driver like this:
@@ -111,15 +104,28 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  Click**Uninstall** inside the confirmation dialog window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To reinstall, click the**Action** menu.  
 ![The Scan for hardware changes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-for-hardware-changes.jpg)
 6. Select**Scan for hardware changes** on the menu to detect and reinstall the missing network driver.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reregister the Microsoft Store App
 
@@ -128,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  To apply this solution, open Command Prompt with admin rights, as outlined in steps one and two of resolution four in this guide. Then execute this command:
 
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml&}`
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your PC’s Network
 
@@ -138,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  A network reset will erase saved connection details. So, make sure you’ve got your network password handy for re-establishing your connection. Our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide tells you how to apply this possible error 0x800704CF solution in Windows 11\. Fortunately, the steps for Windows 10 are the same.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set Up an Alternative User Account
@@ -151,20 +164,13 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-option2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply this solution, check out our post for[resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Microsoft Store Error 0x800704CF Sorted on Your PC
 
@@ -185,24 +191,22 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>[New] Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-bring-it-all-together-elevate-your-fb-video-experience/"><u>[New] Bring It All Together Elevate Your FB Video Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-checklist-to-successful-video-marketing-with-tags/"><u>[New] The Ultimate Checklist to Successful Video Marketing with Tags</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>[Updated] Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-simplified-techniques-to-winrm-tool/"><u>10 Simplified Techniques to WinRM Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-phased-out-features-in-current-windows-design/"><u>6 Phased-Out Features in Current Windows Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-chromium-installation-in-windows-11/"><u>A Detailed Walkthrough of Chromium Installation in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-restoring-your-windows-11-media-softwares-health/"><u>A Guide to Restoring Your Windows 11 Media Software's Health</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-alter-program-dimensions-using-pc-keys/"><u>A Step-by-Step Guide to Alter Program Dimensions Using PC Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-bilingual-capabilities-using-windows-shortcuts/"><u>Accelerate Your Bilingual Capabilities Using Windows Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activation-procedure-for-windows-photo-viewer-in-win11/"><u>Activation Procedure for Windows Photo Viewer in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-file-history-misconfiguration-in-windows/"><u>Addressing File History Misconfiguration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-startup-efficiency-altering-boot-menu-delay/"><u>Boosting Startup Efficiency: Altering Boot Menu Delay</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-started-with-your-youtube-channel-essentials/"><u>Getting Started with Your YouTube Channel – Essentials</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>In 2024, Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-how-to-make-a-youtube-trailer-by-filmora/"><u>In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-flip-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Flip Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-sailing-the-end-of-stuttering-woes-in-deathloop-on-pc-devices/"><u>Smooth Sailing: The End of Stuttering Woes in Deathloop on PC Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture/"><u>[New] In 2024, Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068645426-updated-in-2024-premium-12-video-capture-apps-no-time-limit/"><u>[Updated] In 2024, Premium 12 Video Capture Apps, No Time Limit!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-volume-on-bluetooth-headphonesspeakers-a-win11-guide/"><u>Boosting Volume on Bluetooth Headphones/Speakers: A Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-command-prompt-to-windows-11s-task-manager/"><u>Bring Command Prompt to Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-your-games-home-integrating-android-into-windows-11s-ecosystem/"><u>Bring Your Games Home: Integrating Android Into Windows 11'S Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-genuineness-warning-in-adobe-software/"><u>Bypass Genuineness Warning in Adobe Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-denied-window-message/"><u>Bypassing Permission Denied Window Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-cortana-on-windows-11/"><u>Ceasing Cortana on Windows 11</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/descubra-os-principais-gravadores-de-dvd-livres-idealizados-para-windows-1011-as-dez-opcoes-essenciais/"><u>Descubra Os Principais Gravadores De DVD Livres Idealizados Para Windows 10/11: As Dez Opções Essenciais!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-magic-6-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Magic 6 Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-instagrams-secrets-detailed-guide-to-user-engagement-and-reach/"><u>In 2024, Unlocking Instagram's Secrets Detailed Guide to User Engagement and Reach</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-effortless-gopro-video-editing-a-beginners-guide-for-2024/"><u>New Effortless GoPro Video Editing A Beginners Guide for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-drivers-for-your-sound-blaster-z-download-and-compatibility-with-windows-11/"><u>Updated Drivers for Your Sound Blaster Z - Download & Compatibility with Windows 11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Updated In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
 </ul></div>
 

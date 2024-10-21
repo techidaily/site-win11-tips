@@ -1,7 +1,7 @@
 ---
 title: Solutions for Windows 11'S Crashing Camera Application
-date: 2024-10-10T00:32:41.907Z
-updated: 2024-10-15T01:29:38.776Z
+date: 2024-10-13T23:48:08.027Z
+updated: 2024-10-21T03:03:02.251Z
 tags:
   - windows10
   - windows11
@@ -49,29 +49,9 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
@@ -92,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 7. Restart Windows before opening Windows Camera again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Camera App
@@ -107,10 +87,17 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
@@ -136,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall Windows Camera App
@@ -151,6 +138,14 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 `Get-AppxPackage *camera* | Remove-AppxPackage`  
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
@@ -158,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 7. Click**Get in the MS Store** app to reinstall the Camera app.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
@@ -183,19 +178,16 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-diy-iphone-7-screen-recording-techniques/"><u>[New] DIY IPhone 7 Screen Recording Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-why-is-virtual-realitys-creative-palette-still-barren-update/"><u>[New] In 2024, Why Is Virtual Reality's Creative Palette Still Barren? - Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-macs-best-picks-elite-4k-monitor-showdown/"><u>[Updated] Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-kingdoms-collide-ranking-top-7-total-war-historical-games/"><u>2024 Approved Kingdoms Collide Ranking Top 7 Total War Historical Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unlock-the-secrets-of-efficient-banner-use-in-game-channels/"><u>2024 Approved Unlock the Secrets of Efficient Banner Use in Game Channels</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-insights-on-keeping-windows-11s-notifications-alive/"><u>Essential Insights on Keeping Windows 11'S Notifications Alive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experts-weigh-in-on-samsung-galaxy-fit-a-wearable-device-tailored-to-active-living/"><u>Experts Weigh in on Samsung Galaxy Fit: A Wearable Device Tailored to Active Living</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-30-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 30 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-tips-stacking-windows-sticky-notes-high/"><u>Pro Tips: Stacking Windows Sticky Notes High</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-your-pcs-persistent-freeze-problems/"><u>Ultimate Troubleshooting Guide: Resolving Your PC's Persistent Freeze Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-xbox-game-pass-error-0x000-on-windows-11-systems/"><u>Understanding and Correcting Xbox Game Pass Error 0X000_ on Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-recommendations-on-asmr-and-restful-nights-for-2024/"><u>[New] Expert Recommendations on ASMR & Restful Nights for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta-for-2024/"><u>[New] Uncover the Joyful Journey Best Comedy & Sadness on Insta for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vering-2023s-cinematic-hidden-gems-for-2024/"><u>Discovering 2023'S Cinematic Hidden Gems for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f15-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F15 5GFRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/large-hard-drives-little-computational-thrill/"><u>Large Hard Drives, Little Computational Thrill</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-fourteen-full-frame-photography-devices-for-2024/"><u>Leading Fourteen Full Frame Photography Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-qbittorrent-status-in-windows-woes/"><u>Reviving Your qBittorrent Status in Windows Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyline-beyond-100mbps-cap-elevating-windows-networks/"><u>Skyline Beyond 100Mbps Cap: Elevating Windows Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-pcs-image-processing-potential-with-4-best-viewers/"><u>Unlock Your PC's Image Processing Potential with 4 Best Viewers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728505593211-hdd/"><u>パラゴンHDDマネージャーでシームレスなディスクのバックアップと復元手順</u></a></li>
 </ul></div>
 

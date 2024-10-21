@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Procedure for Microsoft Store's MSIX Extensions
-date: 2024-10-08T17:00:58.382Z
-updated: 2024-10-14T23:30:04.698Z
+date: 2024-10-15T23:16:33.950Z
+updated: 2024-10-20T19:48:44.165Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ To download appx, appxbundle or msixbundle using Adguard:
 8. Next, click on the msixbudle link to download. Microsoft Edge may sometimes block the download as not secure. You can use alternative browsers like Google Chrome and Firefox to compelete the download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generate Microsoft Store Apps Direct Download Links Using Fiddler
@@ -64,17 +64,26 @@ To generate a Microsoft Store app downloading link using Fiddler:
 2. Open**Fiddler** , and click the**WinConfig** button in the top left corner. Click**Yes** if prompted by User Account Control.  
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
-![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
-4. Click on**Save Changes.**
-5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
-![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
+4. Click on**Save Changes.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
+![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
 
 1. Next, launch**Microsoft Store,** search for the app you want to download, and click**Install** . Wait for the app to download and install completely. Fiddler will start capturing the traffic as the necessary files for the app download and install.
 2. Once the download is complete, open the**Fiddler** app and press**Ctrl + F** to open**Find** .
@@ -82,25 +91,11 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![fiddler find session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-find-session.jpg)
 4. If no entries are highlighted, open**Find (Ctrl+F)** and type**msixbundle, appx** or**appxbundle** in the**Find** field, and click on**Find Sessions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
 
@@ -109,13 +104,6 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
@@ -144,6 +132,13 @@ To install App Installer:
 
 ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use Windows PowerShell to sideload Microsoft Store app on Windows. This is an efficient way to sideload apps on multiple computers or when you get an error while running the msixbundle or other package files.
 
 To install appx, msixbudnle, and appxbundle apps using PowerShell:
@@ -167,6 +162,13 @@ To enable Developer Mode on Windows 11
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Download and Install Appx, Appxbundle, and Msixbundle from Microsoft Store on Windows
 
  Thanks to the built-in sideload support on Windows, you can easily install Microsoft Store and non-store apps on your computer. Adguard and Fiddler handle the important aspect of allowing to download app package files for sideload.
@@ -186,21 +188,18 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-captivating-literary-book-trailers/"><u>[New] In 2024, Captivating Literary Book Trailers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-tell-fake-instagram-followers-fast-and-free/"><u>[New] In 2024, How to Tell Fake Instagram Followers (Fast and Free)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-windows-10-capture-apps-ultimate-guide/"><u>[Updated] 2024 Approved Top Windows 10 Capture Apps Ultimate Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-laugh-line-by-line-building-a-meme-friendly-video-portfolio-for-2024/"><u>[Updated] Laugh Line by Line Building a Meme-Friendly Video Portfolio for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boosting-your-connection-an-unbiased-look-at-the-tp-link-re505x-extender/"><u>Boosting Your Connection: An Unbiased Look at the TP-Link RE505X Extender</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719342757489-commanding-your-digital-files-linking-dropbox-googledrive-to-c/"><u>Commanding Your Digital Files: Linking Dropbox, GoogleDrive to C:</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-zoom-crash-code-1132-on-windows-devices/"><u>Eliminating Zoom Crash Code 1132 on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-resolution-at-your-fingertips-top-10-tools/"><u>Error Resolution at Your Fingertips: Top 10 Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c12-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C12</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 12 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-ace-3-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Ace 3 FRP Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-mouse-movement-how-to-stop-acceleration/"><u>Master Your Mouse Movement: How to Stop Acceleration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-android-sim-card-to-an-iphone/"><u>Step-by-Step Guide: Moving Your Android SIM Card to an iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncluttered-desktop-organize-and-personalize-win11/"><u>Uncluttered Desktop: Organize and Personalize Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-photo-gallery-functions-on-windows-pc/"><u>Unlocking Photo Gallery Functions on Windows PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-audiovisual-interpretation-engine/"><u>[New] 2024 Approved Audiovisual Interpretation Engine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-detailed-guide-to-mastering-recordings-with-audacity/"><u>[New] Detailed Guide to Mastering Recordings with Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-no-cost-iphone-and-android-apps-for-slow-motion-videos/"><u>[Updated] Best No-Cost iPhone & Android Apps for Slow Motion Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-boundless-creativity-celebrating-our-top-10-female-youtubers-for-2024/"><u>[Updated] Boundless Creativity Celebrating Our Top 10 Female YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-success-understanding-youtube-insights-for-2024/"><u>[Updated] Charting Success Understanding YouTube Insights for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-proving-ideal-for-iphone-users-9-photo-watermarking-tools-for-2024/"><u>[Updated] Proving Ideal for iPhone Users 9 Photo Watermarking Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-tweet-to-facebook-manual/"><u>2024 Approved The Ultimate Tweet-to-Facebook Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-legal-boundaries-in-ai-tool-deployment-the-job-fear/"><u>Deciphering Legal Boundaries in AI Tool Deployment - The Job Fear</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-gpresult-a-key-to-gpo-data-interpretation/"><u>Decoding GPResult: A Key to GPO Data Interpretation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-quit-required-error-when-using-roblox/"><u>Overcoming Quit Required Error when Using Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-speed-conquering-windows-11-slowdowns-immediately/"><u>Streamline Speed: Conquering Windows 11 Slowdowns Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-where-are-bsod-logs-stored/"><u>Unlocking the Secrets: Where Are BSOD Logs Stored?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-warriors-fixed-wobbling-arrows-await/"><u>Window Warriors, Fixed Wobbling Arrows Await</u></a></li>
 </ul></div>
 

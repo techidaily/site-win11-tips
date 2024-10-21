@@ -1,7 +1,7 @@
 ---
 title: Steps for Reinstating Notification Banners
-date: 2024-10-09T06:28:06.827Z
-updated: 2024-10-15T15:06:19.481Z
+date: 2024-10-18T04:35:13.201Z
+updated: 2024-10-20T21:58:48.802Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,10 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
  Following this, apps should display notification badges on the taskbar.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Make Sure App Notifications Are Enabled
@@ -72,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 ## 4\. Restart the Windows Explorer Process
@@ -81,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
  If it’s just a minor glitch, restarting the Windows Explorer process should help fix it. If you need help with the same, check our guide on[different ways to restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) and follow the steps outlined there.
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
@@ -92,20 +106,13 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair the Problematic App
@@ -130,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 8. Click**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
 ## Stay on Top of App Alerts With Notification Badges
@@ -160,16 +160,21 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-advanced-psd-text-styling/"><u>[Updated] 2024 Approved Advanced PSD Text Styling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>[Updated] Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/arranging-your-harry-potter-movie-marathon-in-which-order/"><u>Arranging Your Harry Potter Movie Marathon - In Which Order?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chatgpt-launch-procedure-for-windows-users/"><u>ChatGPT Launch Procedure for Windows Users</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-slideshow-with-music/"><u>How to Make a Slideshow with Music</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-cityscapes-into-sustainable-havens-of-life/"><u>In 2024, Transforming Cityscapes Into Sustainable Havens of Life</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g403-keyboard-and-gamepad-driver-setup-guide-windows/"><u>Logitech G403 Keyboard & Gamepad Driver Setup Guide (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-non-responsive-windows-services-management-tool/"><u>Navigating the Maze of Non-Responsive Windows Services Management Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-games-again-steams-achievement-reboot/"><u>Unlocking Games Again: Steam's Achievement Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transform-videos-with-tiktok-effects/"><u>[Updated] 2024 Approved Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-dynamic-dramatization-bestowing-motion-blur-onto-human-portraits-using-picsart/"><u>[Updated] Dynamic Dramatization Bestowing Motion Blur Onto Human Portraits Using Picsart</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-adding-professional-radial-effect-to-photos/"><u>2024 Approved Unleash Creativity Adding Professional Radial Effect to Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-artificnial-intelligence-assistants-deciding-between-microsofts-bing-chat-or-googles-chatgpt/"><u>Best Artificnial Intelligence Assistants? Deciding Between Microsoft's Bing Chat or Google's ChatGPT.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-workflow-smartly-add-app-buttons-in-win11-interface/"><u>Enhanced Workflow: Smartly Add App Buttons in Win11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-11-entry-point-top-strategies-revealed/"><u>Enhancing the Windows 11 Entry Point: Top Strategies Revealed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Edge 2023 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-x8b-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor X8b Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-official-windows-os-on-steam-deck/"><u>Installing Official Windows OS on Steam Deck</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nikons-1j5-videographer-a-spectacle-in-4k/"><u>Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-access-denied-on-nvidia-control-panel-in-win1110/"><u>Overcoming Access Denied on Nvidia Control Panel in Win11/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-installing-fortnite-on-your-android-device/"><u>Step-by-Step Guide: Installing Fortnite on Your Android Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-nintendo-switch-emulators-for-windows/"><u>The Best Nintendo Switch Emulators for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-performance-in-a-slim-package-a-comprehensive-review-of-the-high-cost-high-powered-razer-blade-14/"><u>Ultimate Performance in a Slim Package: A Comprehensive Review of the High-Cost, High-Powered Razer Blade 14</u></a></li>
 </ul></div>
 

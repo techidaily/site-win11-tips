@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: 5 Steps to Revive Defender Engine Status"
-date: 2024-10-10T19:08:04.230Z
-updated: 2024-10-14T21:16:42.765Z
+date: 2024-10-17T00:30:31.629Z
+updated: 2024-10-21T03:02:44.597Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Security Center Service
@@ -57,16 +57,24 @@ Here is how you can restart the Security Center Service:
 4. Choose**Properties** from the context menu.  
 ![Launch the properties of Security Center service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-center-properties.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and click**Start** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Expand the dropdown for Startup type and choose**Automatic** .
 7. Click**Apply** \>**OK** to save the changes and then close the Services utility.
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
@@ -94,10 +102,10 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -129,13 +137,6 @@ Here is how you can reset the Windows Security app:
 
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Windows Defender Up and Running Again
 
  Issues with the Windows Defender can be frustrating and expose your system to security threats. Hopefully, the solutions we have described above will help you fix the engine unavailable problem and use the security program to its full potential. If the problem occurs repeatedly in the future, you can report the issue to the official Microsoft support team and switch to a third-party solution until an official fix is released.
@@ -155,24 +156,17 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>[New] 2024 Approved Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-elevate-your-video-conferencing-mastering-zoom-filters/"><u>[New] Elevate Your Video Conferencing Mastering Zoom Filters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-investors-guide-to-best-financial-youtube-sources/"><u>[New] Investors' Guide to Best Financial YouTube Sources</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-downloadsave-instagram-photosvideos-on-iphone/"><u>[Updated] In 2024, How to Download/Save Instagram Photos/Videos on iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-text-hotkeys-setup-for-custom-snip-tapping-in-win11/"><u>Advanced Text Hotkeys Setup for Custom Snip Tapping in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-and-remedying-0x80072af9-issues/"><u>Breaking Down and Remedying 0X80072AF9 Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views-for-2024/"><u>Breaking Into the Livestream Scene on YouTube with Under a Thousand Views for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s17-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S17 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-old-pcs-with-windows-11-version-22h2/"><u>Ignite Old PCs with Windows 11 Version 22H2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-s23plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy S23+ to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-x-flip-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo X Flip to New Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-discord-install-failure/"><u>Overcoming Windows 11 Discord Install Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-for-operational-windows-desktop-context-menus/"><u>Tactics for Operational Windows Desktop Context Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-and-resolving-issues-with-registry-editor-missing/"><u>Uncovering and Resolving Issues with 'Registry Editor' Missing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-demystifying-gopro-fisheye-photos-with-editing-tricks-for-2024/"><u>[New] Demystifying GoPro Fisheye Photos with Editing Tricks for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>[New] Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premiere-selection-of-virtual-gaming-essentials/"><u>[Updated] Premiere Selection of Virtual Gaming Essentials</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-can-a-brief-subscribe-boost-your-content-viewing/"><u>2024 Approved Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-guide-to-selecting-the-best-8-open-source-calls/"><u>2024 Approved Essential Guide to Selecting the Best 8 Open Source Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-new-pathways-in-art-an-exclusive-look-at-the-top-10-low-cost-creator-platforms-on-youtube/"><u>Charting New Pathways in Art An Exclusive Look at the Top 10 Low-Cost Creator Platforms on YouTube</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-dateien-wiederherstellen-die-geloscht-wurden-tipps-und-tricks-fur-windows-11-nutzer/"><u>Download-Dateien Wiederherstellen, Die Gelöscht Wurden - Tipps Und Tricks Für Windows 11 Nutzer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unstick-scrollbar-fix-for-excel-on-pc/"><u>How to Unstick Scrollbar: Fix for Excel on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-your-wi-fi-networks-on-windows-pc/"><u>Obscure Your Wi-Fi Networks on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-techniques-to-track-down-win-ipmac-info/"><u>PowerShell Techniques to Track Down Win IP/MAC Info</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/puzzled-by-snipits-shutdown-9-recovery-methods-unveiled/"><u>Puzzled by SnipIt's Shutdown? 9 Recovery Methods Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-effective-methods-for-restricting-website-access-on-your-android-device/"><u>Step-by-Step Guide: Effective Methods for Restricting Website Access on Your Android Device</u></a></li>
 </ul></div>
 

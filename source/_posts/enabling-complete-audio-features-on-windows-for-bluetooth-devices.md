@@ -1,7 +1,7 @@
 ---
 title: Enabling Complete Audio Features on Windows for Bluetooth Devices
-date: 2024-10-11T05:42:45.212Z
-updated: 2024-10-15T00:59:14.886Z
+date: 2024-10-13T17:09:32.468Z
+updated: 2024-10-20T18:46:59.401Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  Let the Get Help app try all available fixes until the issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Bluetooth Services in Device Properties
@@ -60,28 +60,21 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Alternatively, copy and paste the following in the **Run** dialog to open **Device and Printers**.  
@@ -119,19 +112,6 @@ Bluetooth User Support Service`
 
  If the issue persists, [disable any audio enhancements on Windows](https://www.makeuseof.com/disable-audio-enhancements-windows/). While intended to improve your listening experience, these enhancements can also cause audio issues. Turning off these enhancements can help you resolve the problem with your audio devices.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check Your Bluetooth Device Driver for Issues
 
  An outdated or buggy Bluetooth driver is a common cause of a malfunctioning Bluetooth device on Windows computers. Try to update the driver, perform a roll back or uninstall the driver to see if it resolves the issue.
@@ -155,30 +135,30 @@ Bluetooth User Support Service`
 6. Since we have an Intel Bluetooth Wireless device, we’ll open the [Intel Wireless Bluetooth for Windows page](https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html). The page lists the latest version of the driver available for download. In case of a different Bluetooth device manufacturer, visit the manufacturer's website and locate downloads for the device.  
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
 7. Compare the version with the one available on your computer. Download the newer version if available. Run the installer and complete the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. During installation, your Bluetooth devices, including the headphone, keyboard, and mouse, may stop working temporarily. Wait for a few minutes for the changes to apply. Sometimes, a restart may be necessary to finish installing the update.
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-typology-of-fb-video-dimensions/"><u>[New] 2024 Approved Typology of FB Video Dimensions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-bring-on-the-browsers-top-strategies-to-transform-your-unwatched-videos/"><u>[New] Bring on the Browsers Top Strategies to Transform Your Unwatched Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-hps-z32x-4k-revelation/"><u>[Updated] Pushing Boundaries HP’s Z32X 4K Revelation</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-day-windows-productivity-software-that-works-wonders/"><u>Ace Your Day: Windows Productivity Software That Works Wonders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-balanced-screen-viewing-a-step-by-step-guide-to-90-degree-rotation/"><u>Achieving Balanced Screen Viewing: A Step-by-Step Guide to 90-Degree Rotation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-the-speaker-in-microsofts-new-era/"><u>Activating the Speaker in Microsoft's New Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-update-problem-windows-11-error-code-0x800f0922/"><u>Addressing Update Problem: Windows 11 Error Code 0X800f0922</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-not-recognized-issues-in-windows-with-these-fixes/"><u>Banish 'Not Recognized' Issues in Windows with These Fixes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-k11x-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo K11x via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-computer-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Computer Reviews and News</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -187,3 +167,24 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-apple-synergy-vision-and-sound-merging/"><u>[New] Apple Synergy Vision and Sound Merging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-youtube-url-your-way-easy-personalization-steps/"><u>2024 Approved Your YouTube URL, Your Way Easy Personalization Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-hardware-requirements-download-platforms-dlcs-and-more/"><u>Baldur's Gate 3: Hardware Requirements, Download Platforms, DLCs, and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boldly-entering-the-fray-googles-bard-outpaces-gpt/"><u>Boldly Entering the Fray, Google's 'Bard' Outpaces GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-view-old-stories-on-facebook-find-story-archive-easily-for-2024/"><u>How to View Old Stories on Facebook Find Story Archive Easily for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-htc-u23-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your HTC U23 Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-silenced-speaker-tech-fix-at-hand/"><u>Jumpstart Your Silenced Speaker - Tech Fix at Hand</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-law-filter-features/"><u>Navigating Through Windows LAW Filter Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking/"><u>New 2024 Approved The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-voice-transcription-whisper-desktop-expertise/"><u>Real-Time Voice Transcription: Whisper Desktop Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-faded-boot-prompts-steps/"><u>Redesigning Faded Boot Prompts: Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-creativity-microsofts-surface-studio-2-insight/"><u>Revamping Creativity: Microsoft's Surface Studio 2 Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-windows-family-safety-solutions-for-malfunctions/"><u>Reviving Your Windows Family Safety: Solutions for Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-misused-system-tokens-on-windows/"><u>Tips for Troubleshooting “Misused System Tokens” On Windows</u></a></li>
+</ul></div>
+

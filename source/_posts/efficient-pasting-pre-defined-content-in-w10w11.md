@@ -1,7 +1,7 @@
 ---
 title: Efficient Pasting Pre-Defined Content in W10/W11
-date: 2024-10-14T08:02:57.603Z
-updated: 2024-10-14T22:11:37.111Z
+date: 2024-10-20T04:06:15.522Z
+updated: 2024-10-20T21:57:46.443Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
@@ -69,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -104,22 +111,15 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -140,22 +140,15 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nhance-your-content-creation-with-these-top-12-cameras-for-2024/"><u>[New] Enhance Your Content Creation with These Top 12 Cameras for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ssential-information-for-choosing-the-best-video-platform/"><u>[New] Essential Information for Choosing the Best Video Platform</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-download-friends-8-top-rated-free-fb-extractors/"><u>[New] In 2024, Download Friends 8 Top-Rated Free FB Extractors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-blocking-the-buzz-no-more-fb-video-ads/"><u>[Updated] Blocking the Buzz No More FB Video Ads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tutoring-triumph-selecting-the-superior-video-recorder-list/"><u>2024 Approved Tutoring Triumph Selecting the Superior Video Recorder List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-christmas-ify-your-windows-11/"><u>7 Ways to Christmas-Ify Your Windows 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-the-auditory-journey-in-a-film-teaser-for-2024/"><u>Crafting the Auditory Journey in a Film Teaser for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-websites-with-unrestricted-access-to-ebooks-and-comics-without-drm-protection/"><u>Discover The Leading Websites With Unrestricted Access To Ebooks & Comics Without DRM Protection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-strategies-to-cut-down-system-energy-usage-games/"><u>Efficient Strategies to Cut Down System Energy Usage Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-how-to-disguise-taskbar-on-win-11/"><u>Expert Guide: How to Disguise Taskbar on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-defenders-antivirus-blockage/"><u>Navigating Through Windows Defender's Antivirus Blockage</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switch-woes-assessing-repairs-and-replacements/"><u>Nintendo Switch Woes: Assessing Repairs and Replacements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-updater-0x8024a205-issue/"><u>Overcoming Windows Updater 0X8024a205 Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-high-cpu-usage-in-dropbox-on-windows-pcs/"><u>Tackling High CPU Usage in Dropbox on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disabled-user-sign-in-on-windows/"><u>Troubleshooting Disabled User Sign-In on Windows</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/unlocking-ebooks-a-python-script-guide-to-removing-drm-from-epub-files/"><u>Unlocking eBooks: A Python Script Guide to Removing DRM From EPUB Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackling-third-party-vendors-from-defender-constraints/"><u>Unshackling Third-Party Vendors From Defender Constraints</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-extract-and-save-video-previews-free-and-easy/"><u>[New] 2024 Approved Extract and Save Video Previews, Free & Easy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-social-medias-new-wave-10-realities-about-reels/"><u>[Updated] 2024 Approved Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-creative-potential-adding-text-to-windowsmac-images/"><u>2024 Approved Unlock Creative Potential Adding Text to Windows/Mac Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-showcase-epic-videos-plus-starry-praises/"><u>Celestial Showcase: Epic Videos + Starry Praises</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-slate-executing-a-clean-boot-in-windows-11/"><u>Clearing the Slate: Executing a Clean Boot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-10-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selecting-your-perfect-21-hdmi-monitor-a-buyers-guide-for-2024/"><u>Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-navigation-window-11-power-user-guide/"><u>Simplify Navigation: Window 11 Power User Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-dvd-in-file-avi-senza-costi-software-di-conversione-libero/"><u>Trasforma I Tuoi DVD in File AVI Senza Costi - Software Di Conversione Libero</u></a></li>
 </ul></div>
 

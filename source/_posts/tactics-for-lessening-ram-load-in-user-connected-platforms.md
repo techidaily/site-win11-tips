@@ -1,7 +1,7 @@
 ---
 title: Tactics for Lessening RAM Load in User-Connected Platforms
-date: 2024-10-12T01:43:19.270Z
-updated: 2024-10-15T08:32:53.814Z
+date: 2024-10-14T03:12:36.505Z
+updated: 2024-10-20T17:14:15.141Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  Now, check Task Manager to see if the service is still consuming too much RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Remove the ActivitiesCache.db file
 
  Some users have reported that deleting the ActivitiesCache.db file on their computer has helped solve the problem. To delete it, start by disabling the Connected Devices Platform User Service, as discussed above. Then, press **Win + R** to open Windows Run, copy and paste **%localappdata%\\ConnectedDevicesPlatform\\** in the text, and then hit the **Enter** key.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 ![navigating-to-the-connecteddevicesplatform-folder-in-windows-run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/navigating-to-the-connecteddevicesplatform-folder-in-windows-run.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open the **ConnectedDevicesPlatform** folder. You'll see several files and folders in there, so open each of the folders and delete the **ActivitiesCache.db** file in all of them.
@@ -65,18 +58,18 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check for Issues With Your Computer's Hardware
 
  Sometimes, the problem could arise due to one of your connected devices experiencing a problem. To check if your connected devices are functioning properly, open Device Manager by pressing **Win + R**, enter **devmgmt.msc** in the text box, and then hit the **Enter** key on your keyboard.
 
 ![devmgmt.msc in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/devmgmt-msc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, double-click the device you suspect is causing issues. This will open its properties window.
 
@@ -84,21 +77,22 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
 ![the-properties-window-of-a-device-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-properties-window-of-a-device-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
@@ -107,29 +101,6 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  When it consumes too much RAM, it means something could be wrong with the process or your connected devices. Below, we'll show you how to stop Connected Devices Platform User Service from hogging your physical memory.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-all-encompassing-iptv-access-strategies/"><u>[New] All-Encompassing IPTV Access Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-to-mp3-digital-audio-extraction-guide/"><u>[Updated] 2024 Approved FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-the-art-of-sniping-on-mac-with-these-tools/"><u>[Updated] In 2024, Mastering the Art of Sniping on Mac with These Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-the-most-ignored-yet-crucial-windows-11-features/"><u>A Guide to the Most Ignored Yet Crucial Windows 11 Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-strongest-passwords-effortlessly-with-these-7-free-generators/"><u>Access Strongest Passwords Effortlessly With These 7 Free Generators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-affected-windows-shield-functions-on-win-11/"><u>Addressing Affected Windows Shield Functions on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-unified-sticky-note-syncing-on-win11/"><u>Addressing Non-Unified Sticky Note Syncing on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-stealth-tactics-eliminate-11s-search-icon/"><u>Advanced Stealth Tactics: Eliminate 11'S Search Icon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-efficient-voice-access-on-windows/"><u>Advanced Tips for Efficient Voice Access on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-interruptions-resolving-steams-error-code-e84/"><u>Avoid Interruptions: Resolving Steam’s Error Code E84</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-inquiries-stealthy-strategies-for-secure-credentials-in-win-11/"><u>Avoiding Inquiries: Stealthy Strategies for Secure Credentials in Win 11</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/echoes-of-harmony-in-a-social-sphere-for-2024/"><u>Echoes of Harmony in a Social Sphere for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719202889022-efficient-tips-for-resolving-common-windows-problems/"><u>Efficient Tips for Resolving Common Windows Problems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/future-proof-video-coding-av1-or-hevc-analyzing-superiority-for-next-gen-media/"><u>Future-Proof Video Coding: AV1 or HEVC – Analyzing Superiority for Next-Gen Media</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gain-german-proficiency-from-binge-watched-show/"><u>Gain German Proficiency From Binge-Watched Show</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-11-proplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 11 Pro+ Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/leading-picture-holding-portals-for-2024/"><u>Leading Picture Holding Portals for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/mbr-gpt-ssd/"><u>MBR プラッターをGPT SSDにコピーする方法 - インストールなしで</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/windows-1011programdata/"><u>Windows 10/11でProgramDataフォルダにアクセスする方法</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,3 +108,18 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-youtubes-revenue-mechanisms/"><u>[New] 2024 Approved Navigating YouTube's Revenue Mechanisms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-video-productions-by-adding-youtube-music/"><u>[Updated] Perfecting Video Productions by Adding YouTube Music</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-masterful-techniques-to-alter-facial-gender-in-instagram-snapchat-and-facebook-pictures/"><u>2024 Approved Masterful Techniques to Alter Facial Gender in Instagram, Snapchat & Facebook Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-intel-graphic-upgrades-for-underperforming-pcs/"><u>Easing Into Intel Graphic Upgrades for Underperforming PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/easy-steps-to-preflight-check-your-sites-pages-before-posting/"><u>Easy Steps to Preflight Check Your Site's Pages Before Posting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-ways-to-record-console-gameplay/"><u>In 2024, Easy Ways to Record Console Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-settings-for-steam-libraries-on-win-11-pcs/"><u>Removing Read-Only Settings for Steam Libraries on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-affordable-beginners-guide-to-building-your-own-home-cinema/"><u>Top Affordable Beginner's Guide to Building Your Own Home Cinema</u></a></li>
+</ul></div>
+

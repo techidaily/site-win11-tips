@@ -1,7 +1,7 @@
 ---
 title: Decreasing UnrealCEFSubprocess' Impact on System Resources
-date: 2024-10-11T15:15:43.276Z
-updated: 2024-10-14T23:13:05.758Z
+date: 2024-10-16T23:36:45.425Z
+updated: 2024-10-21T02:05:30.888Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
  As many users pointed out in a[Reddit thread](https://www.reddit.com/r/ValorantTechSupport/comments/z66n1b/unrealcefsubprocessexe%5Fmultiplying%5Fand%5Fputting/) , one of the major causes of high resource consumption by this process is the interference from Windows' built-in security suite, Windows Defender, and third-party antivirus software, primarily AVG antivirus and Avast antivirus. If you are using security software, then it might be causing the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can You Disable the UnrealCEFSubprocess Process via the Task Manager?
 
  Disabling the UnrealCEFSubprocess process could adversely affect your active gaming session in Valorant. The gaming elements this process controls or handles will crash and behave abnormally. Because of this, we do not advocate closing it down.
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
  Consequently, you will be successful in reducing resource consumption without compromising your security.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Whitelist UnrealCEFSubprocess From Windows Defender
@@ -63,28 +70,29 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 1. Type**"Windows Security"** in Windows Search and open the**Windows Security** app.  
 ![Open Windows Security from Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-open-windows-security-from-windows-search.jpg)
 2. Go to the**Firewall and network protection** tab on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on the**Allow an app through the firewall** link on the right side of the screen.  
 ![Click on the Allow an App Through the Firewall Link in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-the-allow-an-app-through-the-firewall-link-in-windows-security-app.jpg)
 4. Click on**Change settings** .
 5. Click on**Allow another app** .  
 ![Click on Allow Another App in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-allow-another-app-in-the-windows-defender-firewall-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. In the**Add an app** window, click on the**Browse** button.  
 ![Click on the Browse Button in the Add an App Window in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-browse-button-in-the-add-an-app-window-in-the-windows-defender-firewall-settings.jpg)
 2. Then, go to the following path:  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
@@ -95,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 5. After that, check the**Public** and**Private** boxes next to the**UnrealCEFSubProcess** process and click**OK** .  
 ![Click OK After Checking the Public and Private Boxes Next to the UnrealCEFSubprocess in the Windows Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-ok-after-checking-the-public-and-private-boxes-next-to-the-unrealcefsubprocess-in-the-windows-firewall-settings.jpg)
 6. Restart your computer after whitelisting this process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **I** f you have installed Valorant in a different folder or your operating system resides on a different drive, change the path above to reflect the proper location.
 
@@ -117,26 +118,20 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 5. Click on**Add Exception** .  
 ![Click on Add Exception in the General Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-click-on-add-exception-in-the-general-settings-in-avast-antivirus-app.jpg)
 6. Click**Browse** in the**Add exception** window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Browse in the Add Exception Window in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-click-browse-in-the-add-exception-window-in-avast-antivirus-app.jpg)
 7. Navigate to the following path if you haven't changed the default installation path when installing Valorant:  
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
 8. Check the box beside**UnrealCEFSubprocess** and click**OK** .  
 ![Click OK After Checking the Box Beside UnrealCEFSubprocess in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/11-click-ok-after-checking-the-box-beside-unrealcefsubprocess-in-avast-antivirus-app.jpg)
 9. After that, restart your computer once, and hopefully, the process won't overtax your computer's resources anymore.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Whitelist UnrealCEFSubprocess From AVG Antivirus
 
@@ -147,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
  Before doing that,[turn on Windows Defender](https://www.makeuseof.com/turn-on-microsoft-defender/) if it's off, or install alternative antivirus software to replace AVG and keep your computer safe from incoming threats.
 
  If you use an antivirus software other than the two listed above and the UnrealCEFSubprocess process consumes more than half of your system resources, you need to whitelist the UnrealCEFSubprocess file there as well. If you are not familiar with the whitelisting process, visit the antivirus software's official website.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Let the UnrealCEFSubprocess Process Overburden Your Hardware
 
@@ -169,15 +171,22 @@ thumbnail: https://thmb.techidaily.com/80c97e26a42ec85426e926d8a619570205ae66ef3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-economical-path-to-skype-calls-as-mp3-files/"><u>[New] In 2024, The Economical Path to Skype Calls as MP3 Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infallible-steps-to-tiktok-bio-link-integration-without-error/"><u>[New] Infallible Steps to TikTok Bio-Link Integration Without Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-beyond-the-smile-your-guide-to-authentic-instagram-selfies/"><u>[Updated] 2024 Approved Beyond the Smile - Your Guide to Authentic Instagram Selfies</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-strategies-to-enhance-twitter-user-experience-with-ads/"><u>2024 Approved Strategies to Enhance Twitter User Experience with Ads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-assistance-top-tips-for-fixed-gameplay-on-pcs/"><u>Accelerated Assistance: Top Tips for Fixed Gameplay on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/anecdotal-insights-into-seamless-windows-11-setup/"><u>Anecdotal Insights Into Seamless Windows 11 Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-risks-keeping-personal-data-secure-in-user-customized-gpt-applications/"><u>Avoiding Risks: Keeping Personal Data Secure in User-Customized GPT Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/black-friday-bonanza-get-your-deal-612-for-eternal-windows-10/"><u>Black Friday Bonanza: Get Your Deal - $6.12 for Eternal Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-disk-space-how-to-use-windows-autodeleting-feature/"><u>Boost Disk Space: How to Use Windows' AutoDeleting Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-media-channels-for-youtube-popularity/"><u>In 2024, Optimal Media Channels for YouTube Popularity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-epic-imagery-crafting-inspiring-instagram-posts-top20-for-2024/"><u>[New] Epic Imagery Crafting Inspiring Instagram Posts #Top20 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-tips-to-upgrade-your-rl-recording-equipment/"><u>[Updated] 2024 Approved Ultimate Tips to Upgrade Your RL Recording Equipment</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-expert-picks-top-6-fb-lite-extractors-for-2024/"><u>[Updated] Expert Picks Top 6 FB Lite Extractors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-slow-motion-compendium-slomo-review-2024/"><u>[Updated] The Ultimate Slow-Motion Compendium SloMo Review, 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-techniques-for-capturing-youtube-live-video/"><u>2024 Approved Best Techniques for Capturing YouTube Live Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airplayyoutube/"><u>AirPlay機能が使えない状況での動画再生方法：YouTubeやその他について学ぶ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-browsing-after-your-windows-launch/"><u>Breaking Into Browsing After Your Windows Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-windows-11-overcoming-slowdowns/"><u>Breathe Life Into Windows 11: Overcoming Slowdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-galaxy-and-pc-unveil-dex-potential/"><u>Bridging the Gap Between Galaxy & PC: Unveil DeX Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-capture-failed-on-your-pcs-camera-app/"><u>Bypass Capture Failed on Your PC's Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-met-not-satisfied-tagging-on-win11/"><u>Bypass Met Not Satisfied Tagging on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-update-failure-windows-error-code-0x80242016/"><u>Bypassing Update Failure: Windows Error Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-local-user-security-qanda/"><u>Bypassing Windows 11'S Local User Security Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-your-filenames-with-powertoys/"><u>Centralize Your Filenames with PowerToys</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-compelling-stories-for-online-video-platforms-for-2024/"><u>Crafting Compelling Stories for Online Video Platforms for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effective-techniques-for-crafting-and-changing-fb-video-covers/"><u>Effective Techniques for Crafting & Changing FB Video Covers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-drawing-pads-for-professionals-2024-edition/"><u>Ultimate Selection of Premium Drawing Pads for Professionals, 2024 Edition</u></a></li>
 </ul></div>
 

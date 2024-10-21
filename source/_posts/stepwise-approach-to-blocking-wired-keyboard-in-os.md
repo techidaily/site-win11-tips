@@ -1,7 +1,7 @@
 ---
 title: Stepwise Approach to Blocking Wired Keyboard in OS
-date: 2024-10-10T19:16:34.531Z
-updated: 2024-10-14T21:36:21.358Z
+date: 2024-10-15T21:06:18.469Z
+updated: 2024-10-20T21:20:18.276Z
 tags:
   - windows10
   - windows11
@@ -77,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Once you see the success message, restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable the Built-in Keyboard Using an Incompatible Driver
 
  Another quirky solution to disable a built-in keyboard is to install an incompatible driver for the input device. Here's how to do it.
@@ -94,14 +87,28 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 3. Select **Browse my computer for drivers**.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 4. Next, select **Let me pick from a list of available drivers on my computer**.  
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update driver keyboard pick from list of available drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-keyboard-pick-from-list-of-available-drivers-device-manager.jpg)
 5. Uncheck the **Show compatible hardware** option.
 6. Select a random manufacturer under the **Manufacturer** column.  
@@ -114,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, select **Browse my computer for drivers** in the Update Drivers dialogue. Next, select **Let me pick from a list of available drivers on my computer**. Make sure the **Show compatible hardware** option is enabled. Select an **HID Keyboard Device** driver from the list and click **Next**.
@@ -125,10 +132,16 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![install compatible hardware driver keyboard device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-compatible-hardware-driver-keyboard-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the driver to install. Once done, reboot your computer, and the keyboard will start working again.
@@ -143,22 +156,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  However, since the keyboard is an integral part of your portable computer, disabling its primary input method is a little tricky. Here, we show you how to temporarily and permanently disable the laptop keyboard on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-exploring-screen-capture-bandicam-versus-camtasia-for-2024/"><u>[New] Exploring Screen Capture Bandicam Versus Camtasia for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance/"><u>2024 Approved Leverage the Power of Live Streaming Strategies for Facebook Dominance</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-methods-for-converting-your-favorite-youtube-videos-into-mp4-format-desktop-and-web-based-options/"><u>Effortless Methods for Converting Your Favorite YouTube Videos Into MP4 Format – Desktop & Web-Based Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/file-finder-simplicity-windowed-explorer-reduction-technique/"><u>File Finder Simplicity: Windowed Explorer Reduction Technique</u></a></li>
-<li><a href="https://games-able.techidaily.com/freedom-of-play-securing-top-tier-games-on-steam-at-no-expense/"><u>Freedom of Play: Securing Top-Tier Games on Steam at No Expense</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-not-found-rockalldll-on-windows-pc/"><u>How to Fix 'Not Found' Rockalldll on Windows PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-best-buy-on-cloud-storage-pricing-a-comparative-study/"><u>In 2024, Best Buy on Cloud Storage Pricing A Comparative Study</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-video-driver-in-windows-1110/"><u>Solutions for Unresponsive Video Driver in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-expert-guide-to-opening-credential-vaults/"><u>The Expert Guide to Opening Credential Vaults</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-12-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 12 Pro 5G Phone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +163,22 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-free-video-viewing-software-guide-top-16/"><u>[New] Best Free Video Viewing Software Guide - Top 16</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-advanced-editing-for-professional-photographers-time-stamping-tactics/"><u>[Updated] 2024 Approved Advanced Editing for Professional Photographers Time-Stamping Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-sub-from-srt-effective-techniques-for-format-shift/"><u>[Updated] SUB From SRT Effective Techniques for Format Shift</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-future-of-oneplus-with-latest-updates-on-model-10-costs-and-prospect-revealed/"><u>Discover the Future of OnePlus with Latest Updates on Model 10: Costs & Prospect Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-at-dawn-immediate-open-of-windows-and-notebooks/"><u>Efficiency at Dawn: Immediate Open of Windows and Notebooks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-8-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 8 Lock Screen Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .uot file</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing/"><u>In 2024, Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-in-your-pubg-gameplay-win-1011/"><u>Restoring Default Settings in Your PUBG Gameplay (Win 10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-digital-management-with-copernic-exploring-desktop-and-cloud-search-solutions/"><u>Simplifying Digital Management with Copernic: Exploring Desktop and Cloud Search Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-sea-of-thieves-microphone-and-audio-problems-for-windows/"><u>Solve Your Sea of Thieves Microphone and Audio Problems for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-stop-apex-freeze-the-ultimate-guide-for-w11-users/"><u>Strategies to Stop Apex Freeze: The Ultimate Guide for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-installing-windows-11-on-workstation-17/"><u>Unlocking Efficiency: Installing Windows 11 on Workstation 17</u></a></li>
+</ul></div>
+

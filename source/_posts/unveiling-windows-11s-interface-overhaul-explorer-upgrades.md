@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows 11'S Interface Overhaul: Explorer Upgrades"
-date: 2024-10-12T03:49:14.879Z
-updated: 2024-10-15T09:50:41.901Z
+date: 2024-10-14T01:06:41.394Z
+updated: 2024-10-20T16:03:49.327Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. A New Side Pane
@@ -68,9 +68,23 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -82,65 +96,24 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Built-In File Archive Support
 
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## File Explorer Is Evolving in Windows 11
 
  File Explorer will become more powerful as some of the aforementioned features arrive in the stable channel. Not everyone is a fan of Microsoft 365 integration in File Explorer. Still, much-needed additions like the broader archive format support, tabs feature, and the Gallery section improve the app's overall usability.
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-for-youtube-trailers-in-filmora/"><u>[New] In 2024, Step-by-Step for YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-magix-photo-manager-review-for-2024/"><u>[New] MAGIX Photo Manager Review for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-newbies-roadmap-building-a-channel-making-cash/"><u>[Updated] 2024 Approved The Ultimate Newbie's Roadmap Building a Channel, Making Cash</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-seamless-printing-with-updated-hp-scanjet-drivers-on-windows-11-8-and-7/"><u>Ensure Seamless Printing with Updated HP Scanjet Drivers on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-chatgpt-token-usage-can-it-be-expanded/"><u>Exploring the Boundaries of ChatGPT Token Usage: Can It Be Expanded?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-media-creator-tool-errors-winerror-0x8007043c/"><u>How to Solve Media Creator Tool Errors: WinError 0X8007043C</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-overlooked-elements-what-youre-missing-as-a-story-viewer/"><u>In 2024, The Overlooked Elements What You're Missing as a Story Viewer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-error-code-31-in-windows-os/"><u>Mastering the Art of Fixing Error Code 31 in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-setup-failure-windows-11-edition/"><u>Resolving GeForce Experience Setup Failure, Windows 11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-unidentified-window-second-screen/"><u>Resolving Unidentified Window Second Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-windows-11-interface-with-these-tips/"><u>Revitalize Your Windows 11 Interface with These Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-address-avcodecdll-file-not-found-or-lost-mishaps/"><u>Step-by-Step Solutions to Address Avcodec.dll File Not Found or Lost Mishaps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-methodology-for-windows-update-reset/"><u>Stepwise Methodology for Windows Update Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-win11-space-to-perfection/"><u>Tailoring Your Win11 Space to Perfection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/telnet-integration-in-modern-windows-11/"><u>Telnet Integration in Modern Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-magic-v2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor Magic V2 FRP Bypass Everything You Need to Know</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,3 +122,25 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-add-youtube-end-screen-and-cards-effectively/"><u>[New] How to Add YouTube End Screen and Cards Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-brightening-up-your-videography-gopro-fog-free-techniques/"><u>[Updated] Brightening Up Your Videography GoPro Fog-Free Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y02t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y02T Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-usb-persistence-in-windows-11-three-steps/"><u>Enabling USB Persistence in Windows 11 - Three Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-less-known-windows-11-custom-styles/"><u>Explore Less-Known Windows 11 Custom Styles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-libcurldll-error-messages-on-your-computer-efficiently/"><u>Fixing 'libcurl.dll' Error Messages on Your Computer Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-smarter-with-corsairs-icue-link-why-upgrade-now/"><u>Get Smarter with Corsair's iCUE Link: Why Upgrade Now?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-windows-from-immediate-bios-access/"><u>How to Prevent Windows From Immediate BIOS Access</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>In 2024, A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Find X6 Pro?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-performance-resolving-windows-11-stuttering/"><u>Jumpstart Performance: Resolving Windows 11 Stuttering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-windows-11-challenge-instal-clipchamp-effortlessly/"><u>Overcome the Windows 11 Challenge: Instal ClipChamp Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tricks-for-fixed-windows-11-power-issue/"><u>Quick Tricks for Fixed Windows 11 Power Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-lava-yuva-3-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Lava Yuva 3 has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/square-up-your-windows-interface/"><u>Square Up Your Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-intel-unison-app-that-wont-work-in-win11/"><u>Troubleshooting the Intel Unison App that Won't Work in Win11</u></a></li>
+</ul></div>
+

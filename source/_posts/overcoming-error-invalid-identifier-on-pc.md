@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Error: Invalid Identifier on PC"
-date: 2024-10-08T21:28:51.939Z
-updated: 2024-10-14T20:37:46.393Z
+date: 2024-10-19T20:53:14.355Z
+updated: 2024-10-20T18:31:43.214Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
  In any case, here are a few preliminary checks you should run before getting into the main fixes:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Pending Updates
 
  As mentioned earlier, the problem could arise due to a system bug, keeping your PC from working as it should. Hence, a simple update might be just the fix you need to make renaming your PC possible.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
  To check for updates on your PC, go to**Settings** by clicking start or enter the shortcut**Win+I** . Then, click on**Windows Update** from the left sidebar.
 
 ![Screenshot Showing Windows 11 Updates Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-updates-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’d see a list of pending updates, and you can click on any one of them to install. Once your PC is updated, cycle back to**System** Settings and try renaming your PC to see if it works.
 
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 ![Screenshot Showing Windows 11 Power Off Options on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-power-off-options-on-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a New User Account
@@ -102,22 +102,15 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 ![Screenshot Showing the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click on**User Accounts** .
 
 ![Screenshot Showing User Accounts Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-user-accounts-settings-on-the-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, click**Add or remove user accounts.**
 
@@ -127,27 +120,7 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
 ![Screenshot Showing Windows 11 Accounts Settings (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-accounts-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click the**Add account** icon.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Disable Preference Sync Across Your Devices
 
@@ -159,7 +132,21 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
 ![Screenshot Showing Windows 11 Sync Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-sync-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Afterward, toggle off the**Remember my preferences** option to disable sync.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use Windows PowerShell
 
@@ -168,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 ![Screenshot Showing Windows Powershell in the Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-powershell-in-the-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve clicked**Yes** in the confirmation dialogue, PowerShell will come up. Then, type in the command**Rename - Computer - NewName “New name”** where the words in quotes are replaced with the name you intend to rename your PC.
@@ -179,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
  For example, if I wanted to rename my PC “MakeUseOf”, I’d type**Rename-Computer -NewName “MakeUseOf”** as shown below:
 
 ![Screenshot Showing Powershell Command to Rename PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-powershell-command-to-rename-pc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Personalizing Your Windows 11 Experience Made Easy
 
@@ -201,17 +195,24 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-inexpensive-vlogging-tools-listed/"><u>[New] 2024 Approved Essential, Inexpensive Vlogging Tools Listed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[New] From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>[New] In 2024, Share with Impact TikTok Videos on Twitter</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-wpd-filesystem-volume-driver-issues/"><u>[SOLVED] How to Fix WPD FileSystem Volume Driver Issues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-secure-and-swift-transfer-of-photos-from-iphoneandroid-to-snapchat-for-2024/"><u>[Updated] How-To Secure and Swift Transfer of Photos From iPhone/Android to Snapchat for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automate-peaceful-slumber-for-your-w11-gadgets-at-rest/"><u>Automate Peaceful Slumber for Your W11 Gadgets at Rest</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-do-not-have-access-issue-for-app-removals/"><u>Avoiding Do Not Have Access Issue for App Removals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-storage-efficiency-in-windows-11/"><u>Boosting Storage Efficiency in Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>In 2024, The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719380953369-swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C:</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-complete-guide-to-avi-file-splitting-and-trimming-for-beginners/"><u>The Complete Guide to AVI File Splitting and Trimming for Beginners</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11/10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-perfecting-your-clips-top-youtubers-cameras-listed/"><u>[New] 2024 Approved Perfecting Your Clips Top YouTubers' Cameras Listed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-viewer-interest-with-thumbnails/"><u>[Updated] 2024 Approved Enhancing Viewer Interest with Thumbnails</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/discover-improvements-and-new-capabilities-with-abbyys-released-flexicapture-v2-upgrade/"><u>Discover Improvements and New Capabilities with ABBYY's Released FlexiCapture v2 Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-addressing-installation-setbacks-in-win11/"><u>Essential Techniques for Addressing Installation Setbacks in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-controller-detection-issues-on-windows-steam/"><u>Fixing Controller Detection Issues on Windows Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-securely-modify-user-passwords-in-win-11/"><u>Guide to Securely Modify User Passwords in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-restore-functional-drag-and-drop-in-windows-11/"><u>Guide: Restore Functional Drag-and-Drop in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-adjust-your-software-size-with-windows-11-keys/"><u>How to Effortlessly Adjust Your Software Size with Windows 11 Keys</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rating-video-content-youtube-and-google-slides/"><u>Integrating Video Content YouTube & Google Slides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ms-office-widows-1011-setup/"><u>Mastering MS Office WIdows 10/11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-dystopia-my-quest-for-self-identity-amidst-app-guard/"><u>Navigating Dystopia: My Quest for Self-Identity Amidst App Guard</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms/"><u>New 2024 Approved Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/polishing-your-past-redefining-vintage-videos-with-windows-and-madvr/"><u>Polishing Your Past: Redefining Vintage Videos with Windows and MadVR</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ess-songstreaming-the-best-free-apps-for-youtube-music-on-android/"><u>Seamless Songstreaming The Best Free Apps for YouTube Music on Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-whistleblowers-testimony-a-look-into-fb-operations/"><u>The Whistleblower's Testimony: A Look Into FB Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-20-essential-chatgpt-prompt-examples-from-github-repositories/"><u>Top 20 Essential ChatGPT Prompt Examples From GitHub Repositories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-disabled-recycle-icon-on-win11/"><u>Unblocking the Disabled Recycle Icon on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-classic-adventures-in-hd-with-scummvm/"><u>Unlock the Full Potential of Classic Adventures in HD with ScummVM</u></a></li>
 </ul></div>
 

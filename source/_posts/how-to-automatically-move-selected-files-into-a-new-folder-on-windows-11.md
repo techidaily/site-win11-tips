@@ -1,7 +1,7 @@
 ---
 title: How to Automatically Move Selected Files Into a New Folder on Windows 11
-date: 2024-10-10T16:46:12.738Z
-updated: 2024-10-15T12:52:13.062Z
+date: 2024-10-18T16:50:12.230Z
+updated: 2024-10-21T04:00:18.284Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -68,20 +68,20 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 5. Make sure the **Add to Explorer context menu** option is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
@@ -90,40 +90,23 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 2. Right-click to select **Show more options** and the **New folder with selection** option.  
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
 3. Then input a title for your new folder and press **Enter**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-peak-performance-photography-the-ultimate-10-4k-mobile-camera-lineup/"><u>[New] 2024 Approved Peak Performance Photography The Ultimate 10 4K Mobile Camera Lineup</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-the-art-of-storytelling-6-leading-snapchat-apps/"><u>2024 Approved Elevate the Art of Storytelling 6 Leading Snapchat Apps</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-your-way-to-system32-win11/"><u>Discovering Your Way to System32 (Win11)</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/download-macx-pro-the-ultimate-youtube-downloader-and-media-editor-with-unlimited-free-usage/"><u>Download MacX Pro - The Ultimate YouTube Downloader & Media Editor with Unlimited Free Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-icon-display-ease/"><u>Enhancing Windows 11 Icon Display Ease</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expertise-in-speech-transcription-with-googles-tools-for-2024/"><u>Expertise in Speech Transcription with Google's Tools for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-kernel32dll-error-messages-on-windows-devices/"><u>How To Correctly Address Kernel32.dll Error Messages on Windows Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prepping-for-progress-a-technological-lifesaver/"><u>In 2024, Prepping for Progress A Technological Lifesaver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/propel-windows-app-speed-revitalize-their-web-connection/"><u>Propel Window's App Speed: Revitalize Their Web Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-ms-resource-and-apperror/"><u>Solving Windows 11'S Ms-Resource and AppError</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-of-acurite-pro-01036m-user-friendly-installation-and-solid-design/"><u>Unveiling the Features of AcuRite Pro 01036M: User-Friendly Installation and Solid Design</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +115,25 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[New] 2024 Approved The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beyond-ustream-a-comparative-analysis-of-streams/"><u>[Updated] In 2024, Beyond Ustream A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-se-2020-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone SE (2020) screen turns black? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-velotric-go-1-electric-bike-assessment-transporting-goods-and-riders/"><u>Comprehensive Velotric GO 1 Electric Bike Assessment: Transporting Goods and Riders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-top-10-android-and-iphone-skin-mods/"><u>Discover Top 10 Android & iPhone Skin Mods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-guide-update-your-pcs-windows-pin/"><u>Effortless Guide: Update Your PC's Windows PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-powershell-to-unblock-files/"><u>Essential Tips for Using PowerShell to Unblock Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluate-your-computers-electrical-demand-in-windows-environment/"><u>Evaluate Your Computer’s Electrical Demand in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-date-and-time-settings-on-desktop-toolbars/"><u>Navigating Date & Time Settings on Desktop Toolbars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overriding-no-notify-feature-for-ws11-webcam-access/"><u>Overriding No-Notify Feature for WS11 WebCam Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rescue-guide-recovering-access-to-your-locked-ipad/"><u>Rescue Guide: Recovering Access to Your Locked iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rising-roars-3-applications-for-elevating-your-pcs-audio-levels/"><u>Rising Roars: 3 Applications for Elevating Your PC’s Audio Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unsuccessful-image-saving-issue-in-win11/"><u>Troubleshooting Unsuccessful Image Saving Issue in Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tutorial-actualizado-como-capturar-la-pantalla-con-vlc-media-player/"><u>Tutorial Actualizado: Cómo Capturar La Pantalla Con VLC Media Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-academic-savings-a-step-by-step-guide-to-your-microsoft-store-educational-offer/"><u>Unlocking Academic Savings: A Step-by-Step Guide to Your Microsoft Store Educational Offer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-mouseclicklock-on-windows/"><u>Unlocking the Potential of MouseClickLock on Windows</u></a></li>
+</ul></div>
+

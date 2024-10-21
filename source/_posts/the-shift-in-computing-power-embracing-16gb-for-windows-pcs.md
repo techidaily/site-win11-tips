@@ -1,7 +1,7 @@
 ---
 title: "The Shift in Computing Power: Embracing 16GB for Windows PCs"
-date: 2024-10-13T04:11:45.590Z
-updated: 2024-10-15T13:03:53.669Z
+date: 2024-10-16T04:12:33.684Z
+updated: 2024-10-21T00:49:38.973Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * The upcoming Windows 12 is expected to have a strong focus on AI, so having 16GB of RAM will likely be necessary to make the most of it.
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is RAM?
 
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
@@ -100,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
@@ -122,27 +116,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-compelling-slug-lines-a-step-by-step-approach/"><u>[New] Crafting Compelling Slug Lines A Step-by-Step Approach</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-the-full-potential-of-fast-fb-videos-with-tools/"><u>[New] In 2024, Unlocking the Full Potential of Fast FB Videos with Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-guide-to-efficient-and-effective-screen-recording-for-2024/"><u>[New] Innovative Guide to Efficient and Effective Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-time-traveling-tactics-top-7-historic-battles-reimagined-for-2024/"><u>[New] Time-Traveling Tactics Top 7 Historic Battles Reimagined for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/a-beginners-pathway-to-innovative-snapchat-expressions-for-2024/"><u>A Beginner's Pathway to Innovative Snapchat Expressions for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-zte-blade-a73-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your ZTE Blade A73 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-file-thumbnail-absence-in-version-11/"><u>Correcting Windows File Thumbnail Absence in Version 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-focus-amidst-windows-11s-multitask-features/"><u>Enhancing Focus Amidst Windows 11'S Multitask Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-sightgallery-review-system/"><u>In 2024, SightGallery Review System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-browser-resource-usage-winmacchromeos-comparison/"><u>Minimizing Browser Resource Usage: Win/Mac/ChromeOS Comparison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-outlooks-error-0x80040610-in-windows-systems/"><u>Overcoming Outlook's Error 0X80040610 in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-experience-implementing-appxappxbundle-files-from-store/"><u>Seamless Experience: Implementing Appx/Appxbundle Files From Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-windows-cached-data-for-optimal-performance/"><u>Taming Window’s Cached Data for Optimal Performance</u></a></li>
-<li><a href="https://article-files.techidaily.com/understanding-control-over-sound-attenuation-within-audacity/"><u>Understanding Control Over Sound Attenuation Within Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreezing-stuck-photoshopping-in-windows-11-versions-2023/"><u>Unfreezing Stuck Photoshopping in Windows 11, Versions 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-ping-windows-application-essentials/"><u>Unveiling the Power of Ping: Windows Application Essentials</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-auditory-alchemy-top-15-montage-soundtracks-adapting-to-varying-visual-media/"><u>Updated Auditory Alchemy Top 15 Montage Soundtracks Adapting to Varying Visual Media</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +123,21 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-elite-speedy-window-image-reader-tool/"><u>[Updated] Elite Speedy Window Image Reader Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro/"><u>2024 Approved '21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-out-clutter-celebrate-pure-win11/"><u>Clear Out Clutter: Celebrate Pure Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y78t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y78t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-google-chrome-aw-snap-error-on-windows/"><u>How to Fix the Google Chrome “Aw, Snap!” Error on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/master-the-art-of-swift-srt-to-text-transformation/"><u>Master the Art of Swift SRT to Text Transformation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-trim-and-split-3gp-videos-in-minutes/"><u>New In 2024, How to Trim and Split 3GP Videos in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-lost-d3dx939dll-issue/"><u>Overcoming Windows 11'S Lost D3DX9_39.dll Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-your-pc-adjusting-boot-sequence-timer-in-win11/"><u>Speeding Up Your PC: Adjusting Boot Sequence Timer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-steam-login-errors/"><u>Strategies for Resolving Steam Login Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocked-accessibility-for-non-functional-applications-on-ms-store/"><u>Unblocked Accessibility for Non-Functional Applications on MS Store</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 screen lock without data loss</u></a></li>
+</ul></div>
+

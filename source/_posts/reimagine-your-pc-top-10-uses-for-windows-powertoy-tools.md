@@ -1,7 +1,7 @@
 ---
 title: "Reimagine Your PC: Top 10 Uses for Windows PowerToy Tools"
-date: 2024-10-10T06:00:45.014Z
-updated: 2024-10-15T02:44:44.086Z
+date: 2024-10-18T02:33:22.080Z
+updated: 2024-10-21T02:08:24.353Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rename Multiple Files at Once
 
  If you want to rename a lot of files for easier identification, you know how time-consuming the process is. Fortunately, you can rename batches of files at once with PowerRename.
@@ -63,14 +70,14 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
- Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
 
 ## 4\. Preview Files Easier
 
@@ -78,20 +85,13 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 ![Preview files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/preview-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Keep any Windows on Top
@@ -99,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
  Let’s say you created a Word doc to gather information from multiple files or apps. While you keep browsing through them, Word might get buried behind other windows. To keep this from happening, you could use PowerToys’**Always on Top** .
 
 ![PowerToys Always on Top tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-on-top-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This feature will keep the designated window in front of every other app, no matter which command you use. Even if you accidentally click**Minimize** , the window will stay up until you turn**Always on Top** off.
 
@@ -124,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 ![Find your mouse with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/find-my-mouse-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Head to**Mouse utilities** and turn on the toggle for**Enable Find My Mouse** . The next time when your cursor is lost, all you have to do is press**Left Control** twice. Also, you can use the old method of shaking the mouse, but this time, PowerToys will detect the movement and indicate your cursor position.
@@ -139,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 ![PowerToys keyboard manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/keyboard-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keyboard Manager allows you to remap individual keys or shortcuts. The new remap stays active as long as Keyboard Manager is enabled and PowerToys keeps running. Once you close it, your keyboard will go back to its default settings.
@@ -154,16 +141,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
@@ -173,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 [Windows comes with a lot of keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) that you can use to increase your productivity, but sometimes you may have a hard time remembering them. Instead of googling a shortcut every time you need it, you can have PowerToys refresh your memory.
 
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Keep Your Computer Awake
 
@@ -203,20 +191,22 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-master-the-art-of-social-media-video-capture-with-5-leaders/"><u>[New] In 2024, Master the Art of Social Media Video Capture with 5 Leaders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag/"><u>[Updated] A Quick Fix for Quirky Content Mastering Meme Creation at 9GAG</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-performers-the-leading-8k-camera-lineup/"><u>[Updated] Best Performers The Leading 8K Camera Lineup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-flight-masters-top-drone-selections-below-500/"><u>2024 Approved Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-quantum-quadrants-cinematic-frontiers/"><u>2024 Approved Quantum Quadrants Cinematic Frontiers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-snap-inspiration-selecting-stunning-ig-visuals/"><u>2024 Approved Snap Inspiration! Selecting Stunning IG Visuals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-crucial-modifications-to-revolutionize-the-windows-11-taskbar/"><u>6 Crucial Modifications to Revolutionize the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-for-resetting-your-windows-screen-backlight/"><u>7 Strategies for Resetting Your Windows Screen Backlight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-from-windows-11s-default-pin-logon-to-traditional-password-method/"><u>A Seamless Shift From Windows 11'S Default PIN Logon to Traditional Password Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-onedrive-errors-in-windows-1011-system/"><u>Addressing OneDrive Errors in Windows 10/11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-data-loss-make-windows-data-a-daily-ritual/"><u>Avoid Data Loss: Make Windows Data a Daily Ritual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitguard-compromised-continue-now-not-tomorrow/"><u>BitGuard Compromised: Continue Now, Not Tomorrow</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-counter-strike-performance-a-frame-rate-guide/"><u>Boosting Counter-Strike Performance: A Frame Rate Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversor-livre-de-mov-para-mp4-funcione-on-line-sem-custo/"><u>Conversor Livre De MOV Para MP4: Funcione On-Line Sem Custo!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-startup-blast-unraveling-an-atomic-heart-dilemma/"><u>Troubleshooting the 'Startup Blast': Unraveling an Atomic Heart Dilemma</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-troubleshooting-obs-blackouts-on-game-recordings/"><u>[New] In 2024, Troubleshooting OBS Blackouts on Game Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-coastlines-best-surfer-cams/"><u>2024 Approved Capture Coastlines Best Surfer Cams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-types-and-methods-for-hand-detection-systems/"><u>2024 Approved Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-decoding-igtv-video-statistics-for-better-insights/"><u>In 2024, Decoding IGTV Video Statistics for Better Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/outage-notice-for-blizzard-support/"><u>Outage Notice for Blizzard Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-random-shortcut-activation-in-windows/"><u>Overcoming Random Shortcut Activation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failure-to-detect-powershell/"><u>Overcoming Windows Failure to Detect PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-reactivating-fixed-menu-options-on-pc/"><u>Quick Steps for Reactivating Fixed Menu Options on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-saving-woes-quickly-6-key-methods-for-powerpoint-in-windows/"><u>Resolve Saving Woes Quickly: 6 Key Methods for PowerPoint in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverting-window-11s-search-functionality-back-to-icons/"><u>Reverting Window 11'S Search Functionality Back to Icons</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/score-big-savings-premium-deals-on-samsung-electronics-this-prime-day/"><u>Score Big Savings: Premium Deals on Samsung Electronics This Prime Day</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snooze-techniques-for-efficient-computers/"><u>Snooze Techniques for Efficient Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-delete-dialogs-on-windows-systems/"><u>Streamlining Delete Dialogs on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-windows-1011-icon-spacing-control-tutorial/"><u>Title: Windows 10/11 Icon Spacing Control Tutorial</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-13t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 13T Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

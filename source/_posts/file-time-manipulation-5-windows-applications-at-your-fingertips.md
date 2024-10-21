@@ -1,7 +1,7 @@
 ---
 title: "File Time Manipulation: 5 Windows Applications at Your Fingertips"
-date: 2024-10-10T23:07:26.299Z
-updated: 2024-10-15T08:53:23.072Z
+date: 2024-10-13T21:40:45.133Z
+updated: 2024-10-20T16:51:30.954Z
 tags:
   - windows10
   - windows11
@@ -53,23 +53,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Attribute Changer is a bit different from the other tools, but it’s a bit convenient. It allows you to change the date and time of your files through File Explorer’s context menu.
 
@@ -94,15 +80,22 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 **Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AttributeMagic
 
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
@@ -112,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. File & Folder Tools
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
@@ -134,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 ## 7\. Bulk Rename Utility
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
@@ -149,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
  To use this tool, drag and drop a file onto the middle pane of Advanced Renamer. Next, click the**Add method** button in the top-left corner of the screen and select the**Timestamp** option.
@@ -156,19 +163,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -191,24 +185,20 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-youtube-video-to-text-converters-online/"><u>[New] Best YouTube Video to Text Converters Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-your-facebook-presence-with-effective-covers/"><u>[Updated] 2024 Approved Enhancing Your Facebook Presence with Effective Covers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[Updated] Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-choreographed-chaos-blending-dance-and-dissonance-in-tiktoks/"><u>2024 Approved Choreographed Chaos Blending Dance & Dissonance in TikToks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-streamline-your-meetings-with-these-tools/"><u>2024 Approved Streamline Your Meetings with These Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-windows-11-desk-drawings/"><u>A Step-by-Step Guide to Windows 11 Desk Drawings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-academic-excellence-winning-strategies-for-efficient-windows-learning/"><u>Achieve Academic Excellence: Winning Strategies for Efficient Windows Learning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-end-task-bar-functionality-in-windows-11/"><u>Activating End Task Bar Functionality in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/address-vanishing-hardware-problems-in-dm/"><u>Address Vanishing Hardware Problems In DM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-fresh-installation-displays-fail-to-start/"><u>Addressing Windows' Fresh Installation: Displays Fail To Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-guidelines-integrating-latest-intel-wireless-tech-in-os-x/"><u>Advanced Guidelines: Integrating Latest Intel Wireless Tech in OS X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719192555427-environment-variables-configuration/"><u>Environment Variables Configuration:</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-itel-a05s-by-drfone-android/"><u>Full Guide to Unlock Your Itel A05s</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-innovative-approaches-to-enhance-the-impact-of-your-youtube-intro/"><u>In 2024, Innovative Approaches to Enhance the Impact of Your YouTube Intro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>In 2024, The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mejores-tecnicas-de-sincronizacion-bidireccional-para-archivos-entre-windows-11-y-versiones-anteriores/"><u>Mejores Técnicas De Sincronización Bidireccional Para Archivos Entre Windows 11 Y Versiones Anteriores</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719353940627-resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719358153094-unlocking-cloud-storage-integrating-dropbox-and-google-drive-via-c/"><u>Unlocking Cloud Storage: Integrating Dropbox and Google Drive via C:</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-broadcast-excellence-incorrante-video-loops-into-television/"><u>[New] 2024 Approved Broadcast Excellence Incorrante Video Loops Into Television</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-drive-dynamics-compiling-the-top-10-windows-and-mac-srt-mods/"><u>[New] In 2024, Drive Dynamics Compiling the Top 10 Windows & Mac SRT Mods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-format-conversion-for-mac-screenshots/"><u>[Updated] 2024 Approved Mastering Format Conversion for Mac Screenshots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-packaged-photo-errors-on-windows-11-and-11-pro/"><u>Eliminating Packaged Photo Errors on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-visibility-strategic-application-of-descriptions/"><u>Enhancing File Visibility: Strategic Application of Descriptions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/focused-communication-tips-for-virtual-teams-for-2024/"><u>Focused Communication Tips for Virtual Teams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces/"><u>Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-webp-vision-tools-for-windows-enthusiasts/"><u>Ideal WebP Vision Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-m6-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco M6 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-success-unleash-potential-using-these-top-8-studying-techniques-for-windows/"><u>Skyrocket Success: Unleash Potential Using These Top 8 Studying Techniques for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-video-live-wallpapers-on-your-android-device/"><u>Step-by-Step Guide: Setting Up Video Live Wallpapers on Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-nvidia-written-out-errors-guide-to-recovery/"><u>Unlocking NVIDIA' Written Out Errors - Guide to Recovery</u></a></li>
 </ul></div>
 

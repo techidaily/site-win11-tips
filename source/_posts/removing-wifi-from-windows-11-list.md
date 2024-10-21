@@ -1,7 +1,7 @@
 ---
 title: Removing Wifi From Windows 11 List
-date: 2024-10-12T07:12:51.446Z
-updated: 2024-10-15T12:31:38.873Z
+date: 2024-10-18T01:33:27.072Z
+updated: 2024-10-20T22:44:01.925Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove a Saved Wi-Fi Network via the Settings App
 
  If the Wi-Fi network you want to remove is not nearby, it will not appear in the Quick Settings panel. In that case, you can use the Windows 11 Settings app to remove it.
@@ -55,20 +62,13 @@ To forget a Wi-Fi network via the Settings app:
 4. Click the**Forget** button next to a network to delete it.  
 ![Remove Wi-Fi Network on Windows From the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-From-the-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
@@ -86,10 +86,10 @@ To forget a Wi-Fi network via the Settings app:
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
@@ -114,6 +114,13 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the saved profile will be removed from your system.
 
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
@@ -123,13 +130,6 @@ To remove a Wi-Fi network using the Registry Editor:
  To connect to a Wi-Fi network on Windows 11, press**Win + A** to open the Quick Settings panel. Click the arrow next to the Wi-Fi button to view a list of nearby networks. Select the network you want to connect to and click the**Connect** button. Enter the password for that network and you should be good.
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
 
@@ -154,17 +154,24 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/a-new-dimension-in-windows-11-understanding-the-role-of-copilot-key/"><u>A New Dimension in Windows 11: Understanding the Role of Copilot Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-preparing-your-pc-before-win-upgrade/"><u>A Step-by-Step Guide to Preparing Your PC Before Win Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-network-configurations-in-win11/"><u>Accessing Network Configurations in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-user-permissions-issues-with-organizational-settings-in-windows-11/"><u>Addressing User Permissions Issues with Organizational Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719327449344-bargain-hunters-rejoice-key-lovers-snag-best-prices-for-lifetime-windows-11/"><u>Bargain Hunters Rejoice: Key Lovers Snag Best Prices for Lifetime Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-solutions-for-resolving-a-non-functioning-windows-tcalculator-on-your-pc/"><u>Easy Solutions for Resolving a Non-Functioning Windows tCalculator on Your PC</u></a></li>
-<li><a href="https://win-superb.techidaily.com/efficient-techniques-for-handling-parameters-in-emeditor-scripts/"><u>Efficient Techniques for Handling Parameters in EmEditor Scripts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-audio-glitches-on-windows-11-quickly-5-essential-tips/"><u>How to Troubleshoot and Resolve Audio Glitches on Windows 11 Quickly (5 Essential Tips)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-illustrators-journey-navigating-for-success-in-designing/"><u>In 2024, The Illustrator's Journey Navigating for Success in Designing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ripristina-file-audio-m4a-a-formato-m4v-online-and-gratuitamente-con-convertitore-video-di-movavi/"><u>Ripristina File Audio M4A a Formato M4V OnLine & Gratuitamente Con Convertitore Video Di Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stepwise-mastery-of-green-screen-techniques-in-kinemaster/"><u>Stepwise Mastery of Green Screen Techniques in Kinemaster</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-your-innovation-potential-brainstorm-with-mindmaps-and-ai-powered-chatgpt/"><u>Unlock Your Innovation Potential: Brainstorm with Mindmaps & AI-Powered ChatGPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-smart-strategies-for-itunes-video-logging/"><u>[New] The Smart Strategies for iTunes Video Logging</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[Updated] 2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-fusion-of-video-files-for-ios-devices-for-2024/"><u>[Updated] Fusion of Video Files for iOS Devices for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-roundup-yts-shocking-reality-of-17/"><u>[Updated] Infographic Roundup YT's Shocking Reality of '17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-htc-u23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from HTC U23 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cool-running-tech-maintaining-moderate-temperatures-while-gaming/"><u>Cool Running Tech: Maintaining Moderate Temperatures While Gaming</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-guide-to-capture-and-convert-tnt-streams-into-mp4avi-formats-using-our-cross-platform-downloader-app/"><u>Easy Guide to Capture and Convert TNT Streams Into MP4/AVI Formats Using Our Cross-Platform Downloader App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-boot-speed-manipulating-boot-sequence-timer/"><u>Enhancing Boot Speed: Manipulating Boot Sequence Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-no-connection-to-ea-servers-on-your-pc/"><u>Fixing No Connection to EA Servers on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-activate-w11s-accelerated-support-mode/"><u>How to Activate W11’s Accelerated Support Mode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-a23-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy A23 5G Lock Screen Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lack-of-drive-letters-on-your-windows-pc-heres-why-and-how-to-fix-it/"><u>Lack of Drive Letters on Your Windows PC? Here's Why & How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-network-unavailable-error-on-windows-devices/"><u>Remedying 'Network Unavailable' Error on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-spotify-freeze-issue-in-windows-11-os/"><u>Resolving Spotify Freeze Issue in Windows 11 OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-pairing-with-windows-11-navigating-and-solving-bluetooth-driver-hurdles/"><u>Seamless Pairing with Windows 11: Navigating and Solving Bluetooth Driver Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-a-chrome-friendly-environment-in-windows-11/"><u>Setting Up a Chrome-Friendly Environment in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-click-issue-eliminating-sound-problems-on-windows-computers/"><u>Solving the Persistent 'Click' Issue: Eliminating Sound Problems on Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
 

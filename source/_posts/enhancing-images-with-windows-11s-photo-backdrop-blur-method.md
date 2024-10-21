@@ -1,7 +1,7 @@
 ---
 title: Enhancing Images with Windows 11'S Photo Backdrop Blur Method
-date: 2024-10-13T01:50:01.627Z
-updated: 2024-10-14T21:45:41.603Z
+date: 2024-10-14T17:52:21.318Z
+updated: 2024-10-20T22:31:16.101Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable and Use Background Blur in the Photos App
 
  At the time of writing, the Background Blur feature is exclusive to the Windows Insider channel only. Earlier it was available only for the [Canary and Dev](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) channel users, but Microsoft rolled it out for the Beta and Release Preview channels as well.
@@ -55,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 2. Click and drag the mouse on the area to select it for applying the blur effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
@@ -78,21 +71,22 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 5. Then click and drag the brush on the area of the image to deselect it.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
 
@@ -110,27 +104,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-finding-clarity-in-colors-top-5-4k-monitors-showcased-for-2024/"><u>[New] Finding Clarity in Colors Top 5 4K Monitors Showcased for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-top-mp4-to-facebook-video-converter-2023-edition/"><u>[Updated] Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722191669925-android-access-welcome-chatgpt/"><u>Android Access: Welcome, ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beyond-current-frames-crafting-future-windows/"><u>Beyond Current Frames: Crafting Future Windows</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/enhancing-user-experience-with-advanced-cookiebot-technology/"><u>Enhancing User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stick-notes-to-app-windows-in-windows-1110/"><u>How to Stick Notes to App Windows in Windows 11/10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-15-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 15 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-blackout-blues-master-these-fixes-to-get-you-back-in-the-game-2024-edition/"><u>League of Legends Blackout Blues? Master These Fixes to Get You Back in the Game - 2024 Edition!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-remedy-for-windows-network-error-0x800704b3/"><u>Mastering Remedy for Windows' Network Error 0X800704B3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-gmaps-integration-process-in-windows/"><u>Navigating the GMaps Integration Process in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-through-company-policy-configurations-in-windows-systems/"><u>Navigating Through Company Policy Configurations in Windows Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-video-editing-software-top-alternatives-to-imovie/"><u>New In 2024, Free Video Editing Software Top Alternatives to iMovie</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-turn-off-defender-firewall/"><u>Step-by-Step: How to Turn Off Defender Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-technical-exploration-of-high-dynamic-range-on-windows-11-platforms/"><u>The Technical Exploration of High Dynamic Range on Windows 11 Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-language-potential-with-windows-1011-hotkey-techniques/"><u>Unleash Language Potential with Windows 10/11 Hotkey Techniques</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +111,27 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-diverse-technology-scrutiny-easeus-edition-for-2024/"><u>[New] Diverse Technology Scrutiny EaseUS Edition for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enter-the-vr-zone-with-our-top-10-mobile-gear-for-2024/"><u>[New] Enter the VR Zone with Our Top 10 Mobile Gear for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-cinematographers-blueprint-for-simple-water-vids/"><u>[New] In 2024, The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sharing-tunes-instagram-copyright-edicts/"><u>[New] Sharing Tunes Instagram Copyright Edicts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unveiling-the-process-of-making-a-twitter-account/"><u>[Updated] 2024 Approved Unveiling the Process of Making a Twitter Account</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website-for-2024/"><u>[Updated] Quick Tips for Seamless Embedding of YouTube Playlists on a Website for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-overcoming-windows-error-code-0x80070570-for-you/"><u>Decoding and Overcoming Windows Error Code 0X80070570 for You</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-experience-top-5-facebook-revelations/"><u>Elevate Your Experience Top 5 Facebook Revelations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-os-compatibility-for-adobes-creative-suite/"><u>Enhancing OS Compatibility for Adobe's Creative Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-shop-crash-overcoming-error-x00000000/"><u>Eradicating Windows Shop Crash: Overcoming Error X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-code-0xc00000f-instantly/"><u>Fixing Windows Error Code 0Xc00000f Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reverse-the-activation-failure-code-0x803f700f/"><u>How to Reverse the Activation Failure: Code 0X803f700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-windows-programs-that-aid-the-transition-from-apple-devices/"><u>Key Windows Programs That Aid the Transition From Apple Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-magnification-how-to-zoom-in-and-out-on-ios-devices/"><u>Mastering the Art of Magnification: How to Zoom In & Out on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-controller-on-windows-calibration-techniques/"><u>Optimizing Your Controller on Windows: Calibration Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073cf3-in-windows/"><u>Resolving Microsoft Store Error Code 0X80073CF3 in Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-green-screen-software-for-mac-users/"><u>Updated 2024 Approved The Ultimate Guide to Green Screen Software for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winrar-sync-failures-6-methods-for-checksum-harmony/"><u>WinRAR Sync Failures: 6 Methods for Checksum Harmony</u></a></li>
+</ul></div>
+

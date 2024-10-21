@@ -1,7 +1,7 @@
 ---
 title: Overcoming 0X800F0845 Issue in Updates
-date: 2024-10-08T10:26:11.994Z
-updated: 2024-10-15T05:37:52.622Z
+date: 2024-10-14T17:47:34.184Z
+updated: 2024-10-21T00:01:03.488Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 3. In the**Troubleshoot** page, select**Other troubleshooters** .  
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
 4. Then click**Run** on the**Windows Update** troubleshooter.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-update-troubleshooter.jpg)
 
  The Windows Update troubleshooter will automatically run its scans to diagnose problems. After troubleshooting completes, you'll get the message that changes have been made to your system and you should try attempting the tasks you were doing earlier.
@@ -57,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ![Windows Update Troubleshooting Complete Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-troubleshooting-complete.jpg)
 
  So close the troubleshooter and restart your computer. Then try updating Windows again and check if the failed update gets installed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Antivirus Software
 
@@ -68,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
 Try updating Windows now and see if the update gets installed.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker and the DISM Tool
 
  Corrupted Windows system files could also be the cause of the 0x800f0845 error. To scan, repair, and replace such damaged files, run the System File Checker or SFC scan.
@@ -77,13 +99,6 @@ Try updating Windows now and see if the update gets installed.
  To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Update Components
 
@@ -115,6 +130,13 @@ net start cryptsvc`
 
  Once you have run all the commands, the update error should have got fixed. Restart your PC and try installing the updates again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Install the Update Manually via the Microsoft Update Catalog
 
  What if none of the above solutions works for you? No worries, just install the update manually from the Microsoft Update Catalog.
@@ -125,10 +147,10 @@ net start cryptsvc`
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Microsoft Update Catalog Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-update-catalog-search-results.jpg)
@@ -141,43 +163,22 @@ net start cryptsvc`
 ![Windows Update Standalone Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-standalone-installer.jpg)  
  The update will begin installing and this could take some time.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Cumulative Update Installation in Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-installing-progress.jpg)  
  Finally, the**Installation complete** window will appear.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click Restart Now to Complete Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-to-complete-installation.jpg)
 7. Just click the**Restart Now** button to complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. After your PC restarts, go to the**Windows Update history** page.  
 ![Cumulative Update Successfully Installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-successfully-installed.jpg)  
  The update that failed to install would have been successfully installed—as you can see in the screenshot above, the KB5023706 update was installed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay Updated for a Secure and Smooth Windows Experience
 
@@ -198,18 +199,18 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-a05s-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel A05s Phone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dive-into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-windows-defender-shield-unresponsiveness/"><u>Essential Fixes for Windows Defender Shield Unresponsiveness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-custom-window-bg-in-winterm/"><u>Implementing Custom Window Bg in WinTerm</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blending-apple-music-with-cinematic-content/"><u>In 2024, Blending Apple Music with Cinematic Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-serenity-in-gaming-10-stress-busters/"><u>In 2024, Serenity in Gaming 10 Stress Busters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>In 2024, Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-take-screenshots-with-precision-on-a-mac/"><u>In 2024, Take Screenshots with Precision on a Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-p60-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on P60</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-blocked-app-alert-on-windows-systems/"><u>Removing Blocked App Alert on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-windows-11-transparent-taskbar-creation/"><u>Steps for Windows 11 Transparent Taskbar Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-windows-task-scheduler/"><u>Troubleshooting Non-Functional Windows Task Scheduler</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/when-and-why-should-you-post-on-instagram-in-2024/"><u>When and Why Should You Post on Instagram, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-changing-file-types-for-mac-snapshots/"><u>[New] 2024 Approved Step-by-Step Changing File Types for Mac Snapshots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-20-best-free-platforms-for-youtube-channel-beginners/"><u>[New] In 2024, 20 Best Free Platforms for YouTube Channel Beginners</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth/"><u>[Updated] 2024 Approved Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-k70-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi K70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-windows-1011/"><u>初めてのMP4編集: Windows 10/11で使える簡単ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/computexs-innovative-ai-solutions-on-the-horizon/"><u>Computex's Innovative AI Solutions on the Horizon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-sound-output-while-live-streaming-on-twitch-a-step-by-step-guide/"><u>How to Restore Sound Output While Live Streaming on Twitch – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-solving-a-driverirqlnotlessorequal-error/"><u>Mastering the Art of Solving 'A DRIVER_IRQL_NOT_LESS_OR_EQUAL' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-path-failure-in-win10/"><u>Steps to Rectify PATH Failure in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-conflicts-start-peace-opt-for-one-antivirus-in-windows/"><u>Stop Conflicts, Start Peace: Opt for One Antivirus in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-windows-update-notifications/"><u>Stopping Windows Update Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-drive-space-management-the-art-of-utilizing-windows-diskusage-commands/"><u>Transforming Drive Space Management: The Art of Utilizing Windows' DiskUsage Commands</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-best-tablet-for-you-a-comprehhem-review-of-the-ipad-air-with-m2-chip-by-apple-highly-recommended-zdnet-exclusive/"><u>Unveiling the Best Tablet for You: A Comprehhem Review of the iPad Air with M2 Chip by Apple, Highly Recommended | ZDNET Exclusive</u></a></li>
 </ul></div>
 

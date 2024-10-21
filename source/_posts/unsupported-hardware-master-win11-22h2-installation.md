@@ -1,7 +1,7 @@
 ---
 title: Unsupported Hardware? Master Win11 22H2 Installation
-date: 2024-10-13T05:19:53.054Z
-updated: 2024-10-15T09:15:21.938Z
+date: 2024-10-13T23:08:15.206Z
+updated: 2024-10-20T20:20:16.524Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  While these steps shouldn’t cause any issues, it is better to[create a backup of any important Windows 11 data](https://www.makeuseof.com/windows-11-create-complete-backup/) on your system drive just in case something goes wrong and you need to perform a clean install.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download the Windows 11 22H2 ISO
 
 ![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
@@ -53,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
 ![windows 10 download ISO preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-10-download-iso-preference.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll need to modify the Windows 11 ISO by replacing the appraiserress.dll with a version available in Windows 10 ISO. This DLL file is responsible for performing a hardware check during an upgrade.
 
 To download Windows 10 ISO:
@@ -69,13 +89,6 @@ To download Windows 10 ISO:
 
  Once you have both the ISO files saved, follow the next step to extract and modify the Windows 11 ISO.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Modify the Windows 11 ISO to Bypass Hardware Check During the Upgrade
 
  The following steps involve extracting the Windows 10 ISO and copying the appraiserress.dll file. Next, move the copied DLL file to the Windows 11 ISO’s sources folder. Here’s how to do it.
@@ -85,16 +98,10 @@ To download Windows 10 ISO:
 2. Open the**Sources** folder and locate the**appraiserres.dll** file. Copy the**DLL** file and move it to a different folder.  
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
@@ -106,6 +113,20 @@ To download Windows 10 ISO:
 1. Select**Replace the file in the destination** to confirm the action.  
 ![replace the file in the destination appraiserrs ll windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/replace-the-file-in-the-destination-appraiserrs-ll-windows-11-iso.jpg)
 2. Next, disconnect your PC from the Internet. This prevents the setup from downloading updated files during installation and overwriting the modified dll file.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once the Internet is disabled, open the extracted Windows 11 ISO folder and double-click on the**Setup file** . Click**Yes** if prompted by UAC.
 4. In the**Windows 11 Setup** dialog, click on**Change how Setup downloads updates.**  
 ![windows 11 setup not right now updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-not-right-now-updates.jpg)
@@ -121,39 +142,19 @@ To check your Windows specification:
 
 ![check windows specification windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-windows-specification-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**About** .
 3. Under Windows specifications, you’ll see**Version 22H2** if the upgrade was successful.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Go Back to the Previous Version
 
 ![go back windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/go-back-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into an issue after the upgrade, you can use the**Go back** option to undo the update and restore the earlier version of Windows 11\. However, the "Go back" option is only available for seven days since the upgrade. After that, the option will be greyed out.
@@ -165,10 +166,10 @@ To go back to the previous version:
 3. Click on**Go back** under**Recovery options** . Then, follow the on-screen instructions to uninstall the Windows 22H2 update.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installing Windows 11 22H2 on Unsupported Hardware
@@ -192,21 +193,20 @@ To go back to the previous version:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-iphone-screen-recording-with-minimal-fuss/"><u>[New] 2024 Approved Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-become-a-shorts-connoisseur-must-know-facts/"><u>[New] Become a Shorts Connoisseur Must-Know Facts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-do-reviewers-get-dollars-for-commentary-for-2024/"><u>[New] Do Reviewers Get Dollars for Commentary for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-whats-your-take-home-pay-in-podcasting-for-2024/"><u>[New] What’s Your Take-Home Pay in Podcasting for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>2024 Approved Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activatenighttimedisplaynotepadwin/"><u>ActivateNighttimeDisplayNotepadWin</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-network-settings-a-guide-for-win11/"><u>Adjust Network Settings: A Guide for Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/augment-win11-notepad-with-genius-mentor/"><u>Augment Win11 Notepad with Genius Mentor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-persistent-edge-shortcuts/"><u>Avoiding Persistent Edge Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-performance-with-these-12-unneeded-windows-programs/"><u>Boost Performance with These 12 Unneeded Windows Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719369137002-conquer-windows-problems-effective-assistance-guide/"><u>Conquer Windows Problems: Effective Assistance Guide!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/master-file-transfers-and-conversions-using-winx-mediatrans-ultimate-tutorial/"><u>Master File Transfers & Conversions Using WinX MediaTrans Ultimate Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-digital-compositing-with-kinemasters-gs-capabilities/"><u>Mastering Digital Compositing with KineMaster's GS Capabilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/snap-inspiration-selecting-stunning-ig-visuals-for-2024/"><u>Snap Inspiration! Selecting Stunning IG Visuals for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-list-of-phone-editors-for-gopro-content/"><u>Ultimate List of Phone Editors for GoPro Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373613156-unlock-windows-xp-potential-without-the-compatibility-tool/"><u>Unlock Windows XP Potential Without the Compatibility Tool.</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence-for-2024/"><u>[New] Upgrade Alert Navigate Changes with Confidence for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-discover-top-10-flv-to-youtube-conversion-tools/"><u>[Updated] 2024 Approved Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-web-based-recording-tools-the-leaders-2023-for-2024/"><u>[Updated] Superior Web-Based Recording Tools - The Leaders 2023 for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-100-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor 100?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-superuser-in-terminal-a-step-by-step-guide/"><u>Enabling Superuser in Terminal: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-outlook-preview-in-windows-11/"><u>Essential Tips for Using Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-absence-of-files-notification-on-win-11/"><u>Fixing Absence of Files Notification on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-responsive-volume-control-on-win-1011-pc/"><u>Fixing Responsive Volume Control on Win 10/11 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-lava-blaze-curve-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Lava Blaze Curve 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-generate-a-group-policy-report-with-the-gpresult-command/"><u>How to Generate a Group Policy Report With the GPResult Command</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mute-functionality-disabling-windows-11-tasks/"><u>Mute Functionality: Disabling Windows 11 Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-teams-screen-failures/"><u>Overcoming Teams Screen Failures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-your-igtv-videos-tips-for-impactful-titles-and-summaries-for-2024/"><u>Transform Your IGTV Videos Tips for Impactful Titles & Summaries for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Turn Your Windows 11 Desk Into a Gallery - Sketch Guide Here
-date: 2024-10-10T04:21:35.822Z
-updated: 2024-10-15T10:25:39.880Z
+date: 2024-10-19T16:51:34.203Z
+updated: 2024-10-20T23:30:44.256Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 Now you can get scribbling on the Windows desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -73,20 +66,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -96,6 +75,13 @@ Now you can get scribbling on the Windows desktop.
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
@@ -108,10 +94,10 @@ Now you can get scribbling on the Windows desktop.
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
@@ -122,7 +108,21 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -143,20 +143,24 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-10-memes-blending-hilarity-and-emotional-depth-on-insta/"><u>[New] In 2024, Top 10 Memes Blending Hilarity and Emotional Depth on Insta</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-smart-selections-ideal-mac-software-for-video-snatching/"><u>[New] Smart Selections Ideal Mac Software for Video Snatching</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unmatched-budget-friendly-camera-challenges/"><u>[Updated] Unmatched Budget-Friendly Camera Challenges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-breakdown-of-mouse-customization-features-on-win11/"><u>A Complete Breakdown of Mouse Customization Features on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-manual-for-ws11s-software-reset/"><u>A Step-By-Step Manual for WS11's Software Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-nvidia-panel-errors-win1110-fixes/"><u>Addressing Nvidia Panel Errors: Win11/10 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-fix-steam-freeze-for-smooth-gaming/"><u>Addressing Windows 11: Fix Steam Freeze for Smooth Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automate-file-disposal-in-windows-for-efficiency-gains/"><u>Automate File Disposal in Windows for Efficiency Gains</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/baffle-the-shutdown-win11s-hidden-button-guide/"><u>Baffle the Shutdown: Win11's Hidden Button Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-frame-rates-cutting-latency-roblox-tips-for-pcs/"><u>Boosting Frame Rates, Cutting Latency: Roblox Tips for PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/gratuito-conversor-de-video-em-mp4-para-aac-online-pela-movavi/"><u>Gratuito Conversor De Vídeo Em MP4 Para AAC Online Pela Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y100i-power-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y100i Power 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-window-viewer-for-speedy-images-for-2024/"><u>Prime Window Viewer for Speedy Images for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-windows-11-installation-errors/"><u>Step-by-Step Solutions for Fixing Windows 11 Installation Errors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>[New] In 2024, Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-excellence-in-endless-data-archiving-services-for-2024/"><u>[Updated] Excellence in Endless Data Archiving Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>[Updated] Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-comprehensive-laptop-screenrec-users-handbook/"><u>[Updated] The Comprehensive Laptop ScreenRec User's Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>[Updated] YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premier-selection-of-premium-video-chat-tools-ios-android-ranking/"><u>2024 Approved Premier Selection of Premium Video Chat Tools (iOS, Android) Ranking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-camp-backing-up-your-hard-drive-solo/"><u>Boot Camp: Backing up Your Hard Drive Solo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-fix-for-xbox-game-pass-error-0-on-windows-11-pcs/"><u>Breaking Down the Fix for Xbox Game Pass Error 0 on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breatenticating-healthy-windows-and-dotnet-status-max-156/"><u>Breatenticating Healthy Windows & DotNet Status (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-inactive-apps-in-windows-11/"><u>Breathing Life Into Inactive Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-dual-windows-mastering-data-consistency-using-aoemi/"><u>Bridging Dual Windows: Mastering Data Consistency Using AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-incompatibility-with-latest-windows-version/"><u>Bypassing Incompatibility with Latest Windows Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-use-the-program-compatibility-troubleshooter-on-windows-try-these-fixes/"><u>Can't Use the Program Compatibility Troubleshooter on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-new-territories-top-7-updates-from-windows-11s-filesystem/"><u>Charting New Territories: Top 7 Updates From Windows 11'S Filesystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-preferred-pdf-application-on-windows/"><u>Choosing Preferred PDF Application on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-stream-assist-the-future-of-video-gaming/"><u>Decoding Stream Assist: The Future of Video Gaming?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme 11 Pro+ Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-poco-c50-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Poco C50 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-the-6-top-rated-digital-libraries-for-haunting-audio-effects-2e-update-for-2024/"><u>Updated Unveiling the 6 Top-Rated Digital Libraries for Haunting Audio Effects (2E Update) for 2024</u></a></li>
 </ul></div>
 

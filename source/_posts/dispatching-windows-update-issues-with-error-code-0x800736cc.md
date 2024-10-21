@@ -1,7 +1,7 @@
 ---
 title: Dispatching Windows Update Issues with Error Code 0X800736CC
-date: 2024-10-14T14:24:10.890Z
-updated: 2024-10-15T03:48:55.859Z
+date: 2024-10-14T21:05:23.245Z
+updated: 2024-10-20T21:50:18.599Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the Windows Update Troubleshooter
 
  If restarting the PC doesn't work, you can use the Windows Update Troubleshooter. This built-in utility solves minor problems that prevent Windows from updating correctly.
@@ -48,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
 
@@ -74,20 +67,33 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
 
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
 
@@ -164,6 +170,13 @@ net start cryptsvc`
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Try Generic Windows Update Fixes
 
  Besides the methods listed above, you can also try some generic Windows Update fixes. These methods usually work if a temporary issue or corrupted system files cause the error.
@@ -174,31 +187,9 @@ net start cryptsvc`
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) \- Clean Boot can identify software conflicts causing the error. It disables all non-essential services and programs from running in the background. That way, you can isolate the problematic process and resolve the issue.
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://hardware-updates.techidaily.com/complete-step-by-step-tutorial-setting-up-the-logitech-g-pro-driving-force-wireless-steering-wheel-for-windows-systems/"><u>[Complete Step-by-Step Tutorial]: Setting Up the Logitech G Pro Driving Force Wireless Steering Wheel for Windows Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-choosing-the-right-screen-recorder-outside-of-xbox/"><u>[New] 2024 Approved Choosing the Right Screen Recorder, Outside of Xbox</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-tips-and-reviews-by-tom-leading-hardware-authority/"><u>Advanced Tech Tips & Reviews by Tom - Leading Hardware Authority</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-performance-enhancer-revolutionary-manycam-software-for-live-videos-and-fake-backgrounds/"><u>Online Performance Enhancer: Revolutionary ManyCam Software for Live Videos and Fake Backgrounds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-common-geforce-experience-shutdown-problems-with-easy-solutions/"><u>Overcoming Common GeForce Experience Shutdown Problems with Easy Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 4G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restarting-procedure-to-fix-a-disabled-windows-11-hotspot/"><u>Restarting Procedure to Fix a Disabled Windows 11 Hotspot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-up-sync-automatic-windows-entry-with-sticky-notes/"><u>Start-Up Sync: Automatic Windows Entry with Sticky Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719307808288-tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-dormant-folders-in-the-windows-11-ui/"><u>Unmasking Dormant Folders in the Windows 11 UI</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +198,19 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-beginners-blueprint-for-financial-gain-in-periscope-for-2024/"><u>[New] Beginner's Blueprint for Financial Gain in Periscope for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed/"><u>[New] Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-live-sharing-your-desktop-display/"><u>[Updated] Mastering Facebook Live Sharing Your Desktop Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-effective-tool-for-win-soft-dependency/"><u>Discovering the Most Effective Tool for Win Soft Dependency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-policy-management-using-gpresult/"><u>Empowering Policy Management Using GPResult</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-writing-capability-in-windows-1011/"><u>Enhancing File Writing Capability in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-undetectedmissing-os-essential-tech-tips/"><u>How to Fix an Undetected/Missing OS – Essential Tech Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-extender-writes-to-reduce-power-draw/"><u>Optimizing Extender' Writes to Reduce Power Draw</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-your-desktop-image-in-windows-easily/"><u>Personalizing Your Desktop Image in Windows Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy-for-2024/"><u>Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/versatile-softbox-review-spk10-037-shines-light-on-potential/"><u>Versatile Softbox Review - SPK10-037 Shines Light on Potential</u></a></li>
+</ul></div>
+

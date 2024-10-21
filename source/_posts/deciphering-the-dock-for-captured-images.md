@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Dock for Captured Images
-date: 2024-10-10T21:27:52.760Z
-updated: 2024-10-14T22:38:57.444Z
+date: 2024-10-16T19:01:15.520Z
+updated: 2024-10-20T20:10:59.148Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 * [Can You Change Where Screenshots Are Saved on Windows?](#can-you-change-where-screenshots-are-saved-on-windows)
 * [What to Do if You Can't Find Your Screenshots](#what-to-do-if-you-can-39-t-find-your-screenshots)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Screenshots taken using the Prt Sc key are saved to the clipboard and must be manually saved to your drive using an image editor.
@@ -36,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where Do Screenshots Go on Windows 10 and 11?
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prt Sc Key
 
@@ -57,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Snipping Tool (Windows Key + Shift + S)
 
@@ -74,20 +81,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure you select a location you can easily remember so you don't forget where you placed it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Xbox Game Bar (Windows Key + G)
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
 
@@ -113,14 +106,14 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
@@ -144,22 +137,16 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![A screenshot in the Recent section of the File Explorer Home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/file-explorer-home-recent.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another thing you can do, on top of looking in the **Pictures** and **Documents** folders, is [check the installation location of the program](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) you use for screenshots. Look for folders with names like **Screenshots** or **Captures**. Using Windows Search for these common terms could help you locate them.
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[New] In 2024, Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>2024 Approved A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-netflix-outages-on-roku-effective-solutions-for-uninterrupted-streaming/"><u>Dealing With Netflix Outages on Roku: Effective Solutions for Uninterrupted Streaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-video-splitting-techniques-for-windows-11-users/"><u>Effortless Video Splitting Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-restarting-non-responsive-resource-monitors-in-windows-11/"><u>Strategies for Restarting Non-Responsive Resource Monitors in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharging-pc-vram-with-windows-1011-tips-and-tricks/"><u>Turbocharging PC VRAM with Windows 10/11 Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,3 +155,23 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiling-purchasing-illegitimate-views-online/"><u>[New] 2024 Approved Unveiling Purchasing Illegitimate Views Online</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top3/"><u>最適なサンプリングレート変換ウェブサイトランキングTOP3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/darkthemetogglefornotepadw10w11/"><u>DarkThemeToggleForNotepadW10/W11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dismantling-hp-printer-fault-0xoxc4eb827f/"><u>Dismantling HP Printer Fault 0xOXC4EB827F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-connectivity-using-android-phones-in-windows-11/"><u>Enhancing PC Connectivity: Using Android Phones in Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/foto-wiederherstellung-ungeloschte-bilder-dauerhaft-speichern/"><u>Foto-Wiederherstellung: Ungelöschte Bilder Dauerhaft Speichern</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-optimize-gaming-experience-for-fullscreen/"><u>How to Optimize Gaming Experience for Fullscreen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-narzo-n55-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme Narzo N55</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-av1-encoding-insights/"><u>In 2024, Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multi-device-compatibility-for-win11-notes/"><u>Mastering Multi-Device Compatibility for WIN11 Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickly-enable-hyper-v-in-the-latest-windows-11/"><u>Quickly Enable Hyper-V in the Latest Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-canon-pro/"><u>Step-by-Step Canon PRO 지원 드라이버 설치 가이드 윙로 사이클</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-routes-to-mastering-win-policy-rules/"><u>The Ultimate Routes to Mastering Win Policy Rules</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-the-power-of-macos-subtitles-manipulation/"><u>Unleashing the Power of macOS Subtitles Manipulation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-new-amd-radeon-hd-graphics-driver-for-windows-7-get-it-now/"><u>Update Your PC with New AMD Radeon HD Graphics Driver for Windows 7 - Get It Now!</u></a></li>
+</ul></div>
+

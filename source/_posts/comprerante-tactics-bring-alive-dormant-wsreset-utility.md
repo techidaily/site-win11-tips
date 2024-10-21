@@ -1,7 +1,7 @@
 ---
 title: "Comprerante Tactics: Bring Alive Dormant WSReset Utility"
-date: 2024-10-09T19:36:27.755Z
-updated: 2024-10-14T16:26:08.837Z
+date: 2024-10-18T16:37:56.695Z
+updated: 2024-10-20T20:33:27.584Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  Now let's move on to troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run WSReset.exe as an Administrator
 
  WSReset.exe requires administrative privileges to run properly. If you're not running it as an administrator, it may fail to reset the Windows Store cache.
@@ -48,6 +55,14 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 3. In the right pane, click **Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
@@ -57,24 +72,24 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 ![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Remove the Latest Windows Updates
 
@@ -92,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  Follow the onscreen instructions and restart your computer when it's done.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
  If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
@@ -107,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 ![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
 6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If the UAC pop-up appears, click **Yes** to continue.
 8. When the Registry Editor opens, navigate to the following registry key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
@@ -126,23 +141,9 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall the Microsoft Store
 
  Sometimes Windows Store files are corrupted or damaged. This may require you to [reinstall the Microsoft Store app](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/). The process replaces corrupted or missing files and prevents WSReset.exe from malfunctioning.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Try Some Generic Fixes
 
@@ -158,29 +159,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-tips-for-crafting-effective-igtv-titles-and-summaries-for-2024/"><u>[New] Tips for Crafting Effective IGTV Titles & Summaries for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shaping-imagery-the-most-innovative-vector-designers-ranked/"><u>[Updated] Shaping Imagery The Most Innovative Vector Designers Ranked</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-twice-as-nice-sequential-video-playback-via-television-setup-for-2024/"><u>[Updated] Twice as Nice Sequential Video Playback via Television Setup for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-analyzing-ffmpegs-compatibility-with-original-soundscape/"><u>2024 Approved Analyzing FFmpeg's Compatibility with Original Soundscape</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-taskbar-interaction-with-bings-ai/"><u>Accelerate Taskbar Interaction with Bing's AI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-webm-vers-mp4-sans-frais-guide-complet-avec-movavi/"><u>Conversion WebM Vers MP4 Sans Frais : Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-storage-disks-in-windows-os/"><u>Deciphering Storage Disks in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-desktop-arrangement-including-this-pc-icons/"><u>Efficient Desktop Arrangement: Including 'This PC' Icons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-insights-for-gamers-6-reasons-to-ignore-high-res-monitors/"><u>Essential Insights for Gamers - 6 Reasons to Ignore High-Res Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-powerpoint-with-voice-over-complete-how-to-guide/"><u>In 2024, Powerpoint with Voice Over - Complete How-To Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/mastering-stability-in-halo-infinite-preventing-pc-game-interruptions/"><u>Mastering Stability in Halo Infinite: Preventing PC Game Interruptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-nullified-network-visibility-in-windows/"><u>Navigating Through Nullified Network Visibility in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-challenges-in-handling-your-iphones-snapshots-tips-for-successful-resolution/"><u>Overcoming Challenges in Handling Your iPhone's Snapshots: Tips for Successful Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinventing-win11s-configuration-interface/"><u>Reinventing Win11's Configuration Interface</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +166,25 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-av1-vs-vp9-a-detailed-comparison/"><u>[New] 2024 Approved AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-grids-for-greatness-photographs-next-step-up/"><u>[New] In 2024, Grids for Greatness Photographs' Next Step Up</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-panning-leading-stabilizers-unveiled/"><u>[Updated] Perfect Panning Leading Stabilizers Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-onoff-windows-11-highlight-effect/"><u>Guide to Turn On/Off Windows 11 Highlight Effect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-load-drivers-without-sie-compliance-on-pcs/"><u>How to Load Drivers Without SIE Compliance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-chromium-from-spontaneously-launching-tabs/"><u>How to Prevent Chromium From Spontaneously Launching Tabs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-t2x-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Vivo T2x 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-marketing-magic-with-testimonial-videos/"><u>In 2024, Marketing Magic with Testimonial Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-missing-features-in-samsung-galaxy-tab-a-2er-2020-review/"><u>In-Depth Look at Missing Features in Samsung Galaxy Tab A (2Er 2020 Review)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-o365-cloud-synchronization-hiccups-windows/"><u>Tackling O365 Cloud Synchronization Hiccups (Windows)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v29e-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo V29e Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-device-functions-in-windows-11s-edge-guards/"><u>Unlocking Device Functions in Windows 11'S Edge Guards</u></a></li>
+</ul></div>
+

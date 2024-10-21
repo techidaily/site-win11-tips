@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Digital Workspaces: Adding Widgets to Windows 11 Devices"
-date: 2024-10-10T09:39:18.253Z
-updated: 2024-10-14T22:40:08.660Z
+date: 2024-10-15T23:01:43.057Z
+updated: 2024-10-21T02:00:47.097Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ![the widget launcher app in windows 11 search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Widgets to Your Desktop With Widget Launcher
@@ -52,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some widgets, such as**Weather** ,**RSS Feed** , and**Slideshow** , will be blank when you first launch them. That’s because you need to tell them where to get the data they need to display.
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
  Let's take the**RSS Feed** widget, for example. To make it show the feeds you want, start by hovering over the widget and clicking on the**gear icon** in the small panel that appears on the right to open**Settings** .
 
 ![a blank rss feed widget in the Windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/rss-fee-widget-windows-11-no-data.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, enter the URL to the website the**RSS Feed** widget will use to populate itself with feeds, and then click**OK** . Now the widget won't be blank anymore.
 
@@ -88,14 +88,20 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![the settings of the widget launcher in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-settings-always-top.jpg)
 
- By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
 
 ## Enjoy Widgets on Your Windows 11 Desktop
 
@@ -116,24 +122,14 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-fb-streams-save-as-mp3-beat-for-easy-playback-for-2024/"><u>[New] FB Streams Save as MP3 Beat for Easy Playback for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-microphone-for-youtubers/"><u>[Updated] 2024 Approved Best Microphone for YouTubers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-tips-to-help-you-fix-the-windows-10-blue-screen-error/"><u>11 Tips to Help You Fix the Windows 10 Blue Screen Error</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-global-gala-of-greatest-video-views/"><u>2024 Approved Global Gala of Greatest Video Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-practical-solutions-for-gpeditmsc-not-found-crisis/"><u>3 Practical Solutions for Gpedit.msc Not Found Crisis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-glitch-nvidias-x0001-on-windows-w11/"><u>Addressing Glitch: Nvidia's X0001 on Windows W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-steams-offline-content-servers-problem-in-windows/"><u>Addressing Steam's Offline Content Servers Problem in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginning-immediate-help-tool-on-windows-modern-os/"><u>Beginning Immediate Help Tool on Windows Modern OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-pc-safety-change-your-windows-11-password/"><u>Boost PC Safety: Change Your Windows 11 Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-security-with-vbox-turn-onoff-secure-boot-and-tpm/"><u>Boost Security with VBox: Turn On/Off Secure Boot & TPM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-outlook-speed-quick-tricks-for-win/"><u>Boost Your Outlook Speed: Quick Tricks for WIN</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-impeccable-crossfades-with-premiere-pro-for-2024/"><u>Crafting Impeccable Crossfades with Premiere Pro for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-ai-what-sets-public-ai-aside-from-private-and-personal-variants/"><u>Exploring the World of AI: What Sets Public AI Aside From Private and Personal Variants?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-ace-2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Ace 2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-technology-behind-vr-goggles/"><u>In 2024, Understanding the Technology Behind VR Goggles</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-cellular-options-best-value-plans-for-seniors/"><u>Navigating Cellular Options: Best Value Plans for Seniors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/step-by-step-assemble-a-personalized-cost-effective-google-vr-helmet-for-2024/"><u>Step by Step Assemble a Personalized, Cost-Effective Google VR Helmet for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719301459575-the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-asus-mg28uq-4k-revolution-experience-unparalleled-clarity-review/"><u>[New] ASUS MG28UQ 4K Revolution - Experience Unparalleled Clarity Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-compelling-conversations-essential-expressions/"><u>2024 Approved Crafting Compelling Conversations Essential Expressions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-your-way-through-uptime-verification-in-windows-11-with-these-tips/"><u>Guide Your Way Through Uptime Verification in Windows 11 with These Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 6s Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-ultimate-guide-to-distinguishing-your-youtube-shorts/"><u>In 2024, Your Ultimate Guide to Distinguishing Your Youtube Shorts</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-11-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 11 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reactivate-frozen-resource-monitors-in-windows-11/"><u>Strategies to Reactivate Frozen Resource Monitors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-best-windows-photo-organizers/"><u>Ultimate List: Best Windows Photo Organizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncloaking-stealthy-storage-issues-on-windows/"><u>Uncloaking Stealthy Storage Issues on WINDOWS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Reactivate Frozen Lock Screen Countdown
-date: 2024-10-12T08:35:48.024Z
-updated: 2024-10-15T10:14:37.996Z
+date: 2024-10-14T03:19:47.769Z
+updated: 2024-10-20T18:49:33.756Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Configure Screen Saver Settings
@@ -54,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 4. Tick the **On resume, display logon screen** checkbox.
 5. Hit **Apply** followed by **OK**.  
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
 
@@ -75,20 +88,13 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 8. Similarly, enable the **Password protect the screen saver** policy as well.  
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC after applying the above changes and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Other Generic Fixes to Try
@@ -102,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Lock Screen Timeout Working Again on Windows
@@ -114,27 +120,6 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 
  To help out, we have listed some useful tips that should get the lock screen timeout to work on your Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-flying-innovations-unveiling-the-new-hubsan-x4-drone-review/"><u>[New] 2024 Approved Flying Innovations Unveiling the New Hubsan X4 Drone Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-reimagine-virtual-participation-google-meets-customizable-screenscape/"><u>[New] In 2024, Reimagine Virtual Participation Google Meet's Customizable Screenscape</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-volume-surge-controllers-for-windowsmacos/"><u>[New] Top 10 Volume Surge Controllers for Windows/MacOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cool-down-with-these-top-rated-stress-erasers/"><u>[Updated] In 2024, Cool Down with These Top-Rated Stress Erasers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-free-nintendo-switch-games/"><u>[Updated] In 2024, Essential Free Nintendo Switch Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-prime-screenshot-substitutes-beyond-the-windows-ecosystem/"><u>5 Prime Screenshot Substitutes Beyond the Windows Ecosystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-the-edge-why-a-pc-outmatches-a-mac-in-9-key-aspects/"><u>Analyzing the Edge: Why a PC Outmatches a Mac in 9 Key Aspects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/designing-a-lasting-deletion-feature-for-windows-desktop-trash/"><u>Designing a Lasting Deletion Feature for Windows Desktop Trash</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>In 2024, Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-high-dynamic-range-effects-in-adobes-realm/"><u>In 2024, Mastering High Dynamic Range Effects in Adobe's Realm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keys-enthusiast-special-grab-black-friday-best-price-on-all-years-windows-11/"><u>Keys Enthusiast Special: Grab Black Friday Best Price on All-Years Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-access-fixes-for-read-only-reversion-on-pcs/"><u>Mastering File Access: Fixes for Read-Only Reversion on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-language-access-using-keyboard-shortcuts-for-translation-on-windows/"><u>Quick Language Access: Using Keyboard Shortcuts for Translation on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-automate-heic-to-jpeg-images/"><u>Win 10/11: Automate HEIC to JPEG Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wsls-role-in-boosting-linux-desktops/"><u>WSL's Role in Boosting Linux Desktops</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +127,22 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-free-and-fun-capture-and-convert-skype-calls-mp3-for-2024/"><u>[Updated] Free & Fun Capture and Convert Skype Calls (MP3) for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-current-compendium-of-questions-for-captivating-audio-clips/"><u>[Updated] In 2024, Current Compendium of Questions for Captivating Audio Clips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-rankings-of-mobile-apps-altering-your-speech-for-2024/"><u>[Updated] The Complete Rankings of Mobile Apps Altering Your Speech for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/dtv/"><u>DTV 動画の失敗したダウンロードを成功させる録画・保存の専門ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-blue-screen-error-in-winos/"><u>Eradicating Blue Screen Error in WINOS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-converter-convert-rmvb-files-to-mov-format-with-movavi/"><u>Free Online Converter: Convert RMVB Files to MOV Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ical-sync-with-windows-a-step-by-step-guide/"><u>Mastering iCal Sync with Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reach-every-corner-global-navigation-with-powertoys-magic/"><u>Reach Every Corner - Global Navigation with PowerToys' Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/record-and-upload-speeches-to-powerpoint-for-2024/"><u>Record and Upload Speeches to PowerPoint for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-for-windows-update-component-revival/"><u>Simplified Steps for Windows Update Component Revival</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-tech-life-top-10-ways-to-access-mouse-properties/"><u>Simplify Your Tech Life: Top 10 Ways to Access Mouse Properties</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-icloud-woes-essential-fixes-for-iphoneipad-users-most-frequent-problems/"><u>Solve Your iCloud Woes: Essential Fixes for iPhone/iPad Users' Most Frequent Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-systems-uncovering-5-prime-performance-strategies/"><u>Swift Systems: Uncovering 5 Prime Performance Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-evolution-in-coding-how-generative-ai-is-paving-the-way-from-low-code-to-no-code-systems/"><u>The Next Evolution in Coding: How Generative AI Is Paving the Way From Low-Code to No-Code Systems</u></a></li>
+</ul></div>
+

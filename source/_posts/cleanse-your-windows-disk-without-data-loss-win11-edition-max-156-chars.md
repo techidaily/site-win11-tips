@@ -1,7 +1,7 @@
 ---
 title: Cleanse Your Windows Disk Without Data Loss (Win11 Edition, Max 156 Chars)
-date: 2024-10-10T09:02:05.245Z
-updated: 2024-10-15T00:56:31.977Z
+date: 2024-10-14T02:55:39.392Z
+updated: 2024-10-20T21:21:16.626Z
 tags:
   - windows10
   - windows11
@@ -46,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
@@ -78,23 +64,16 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Convert Your Saved Image Files Into the JPG Format
@@ -104,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  You can convert image files to JPG with the [Online image converter to JPEG app](https://image.online-convert.com/convert-to-jpg) on the Online-Convert site as instructed for the video files in the previous method. To maximize the compression, select the **Smallest File** option. Alternatively, drag the **Quality** bar’s slider there left to increase compression.
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
 
@@ -117,6 +103,20 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -125,6 +125,20 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Save Files to a Cloud Storage Service
 
  Cloud storage enables you to save your user files with online storage providers. OneDrive, Dropbox, and Google Drive are the big three cloud storage providers that offer free storage ranging from two to 15 gigabytes. OneDrive is the cloud storage included with Windows 11\. However, Google Drive offers the most space with 15 gigabytes of free cloud storage.
@@ -132,19 +146,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  So, you can potentially free up 15 gigabytes of local storage space by saving user files to Google Drive instead of your PC’s C: drive. You only need to set up a Google Account to get 15 GBs of free cloud storage. Furthermore, [adding Google Drive to File Explorer](https://www.makeuseof.com/windows-google-drive-file-explorer-add/) with the app will enable you to access that cloud storage within Windows 11’s file manager.
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
@@ -158,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
  You won’t need to clean your C: drive often if you free up more storage space with the methods above. The compression methods alone could free up many gigabytes of drive storage space on your PC.
@@ -173,24 +167,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  This is how you can free up C: drive space on a Windows 11 PC without erasing files.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fiscal-summary-producing-a-music-video/"><u>[New] Fiscal Summary Producing a Music Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-retro-gpu-fixes/"><u>[Updated] 2024 Approved Retro GPU Fixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-10-best-moba-games-for-android/"><u>[Updated] In 2024, 10 Best MOBA Games For Android</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728497322831-acer-erecover/"><u>Acer ERECOVER - 解説：目的と機能を理解するために必ずチェック！</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-windows-11-and-parallels-confluence-in-macos/"><u>Achieving Windows 11 and Parallels Confluence in MacOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activatedarkinterfaceinnotepadwinoses/"><u>ActivateDarkInterfaceInNotepadWinOSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-shortcuts-fast-paste-of-set-text/"><u>Advanced Shortcuts: Fast Paste of Set Text</u></a></li>
-<li><a href="https://techtrends.techidaily.com/auto-sound-problems-decoded-identifying-why-your-cars-speakers-quit-working/"><u>Auto Sound Problems Decoded: Identifying Why Your Car's Speakers Quit Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-procedures-for-win-11-mobility-center/"><u>Avoidance Procedures for Win 11 Mobility Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-the-system-a-strategy-for-fixing-0x800700e9-in-xbox-game-passwindows-11/"><u>Beating the System: A Strategy for Fixing 0X800700E9 in Xbox Game Pass/Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginning-your-quake-experience-via-terminal/"><u>Beginning Your Quake Experience via Terminal</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-proficiency-and-brain-health-synergy/"><u>Language Proficiency and Brain Health Synergy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-guide-for-msi-z370-a-pro-motherboard-drivers-latest-version/"><u>Quick Download Guide for MSI Z370-A Pro Motherboard Drivers (Latest Version)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Camon 20? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +174,23 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-eliminating-backlogged-videos-from-your-youtube-history-for-2024/"><u>[New] Eliminating Backlogged Videos From Your YouTube History for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-discontinuing-instant-recording-on-quicktime/"><u>[New] In 2024, Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-trio-of-professional-digital-cinema-tools/"><u>[New] Top Trio of Professional Digital Cinema Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-igtv-success-guide-three-methods-to-convert-and-share-videos/"><u>[Updated] IGTV Success Guide Three Methods to Convert and Share Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>2024 Approved Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/eleccion-clave-para-guardar-datos-en-windows-historial-de-archivos-o-backup-una-guia-comparativa/"><u>Elección Clave Para Guardar Datos en Windows: ¿Historial De Archivos O Backup? Una Guía Comparativa</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-guide-to-mastering-mobizens-screen-capture-functionality-for-2024/"><u>Precision Guide to Mastering Mobizen's Screen Capture Functionality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-directx-update-issues-in-windows/"><u>Solutions for DirectX Update Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-full-capacity-on-windows-gpt/"><u>Strategies to Prevent Full Capacity on Windows GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-tech-timetable-optimizing-windows-11s-update-processes/"><u>Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toggle-system-editor-enabledisable-in-win11/"><u>Toggle System Editor: Enable/Disable in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-warhammer-40k-eliminate-pc-lag/"><u>Unlock the Full Potential of Warhammer 40K: Eliminate PC Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-the-world-4-key-steps-to-restore-windows-server-time/"><u>Wake the World: 4 Key Steps to Restore Windows Server Time</u></a></li>
+</ul></div>
+

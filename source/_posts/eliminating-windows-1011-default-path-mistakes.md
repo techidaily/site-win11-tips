@@ -1,7 +1,7 @@
 ---
 title: Eliminating Windows 10/11 'Default Path' Mistakes
-date: 2024-10-12T19:19:59.139Z
-updated: 2024-10-14T20:30:12.090Z
+date: 2024-10-19T23:36:59.185Z
+updated: 2024-10-20T19:06:59.900Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Rename the WindowsApps Directory
@@ -48,22 +48,17 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 4. Then, right-click on the WindowsApps folder and select its **Rename** context menu option. You should find that directory within the drive’s root directory.  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Thereafter, try changing the default save location for apps again via Settings.
 
  If that still doesn’t work, then proceed to the next resolution.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete or Rename the WpSystem Folder
 
@@ -72,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
 
@@ -89,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 3. Deselect the **Hide protected operating system files (Recommended)** option.  
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -103,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
 
@@ -124,27 +120,6 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-professional-growth-with-efficient-google-meet-design-tweaks/"><u>[New] 2024 Approved Professional Growth with Efficient Google Meet Design Tweaks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-introduction-design-made-simple-and-inexpensive/"><u>[New] 2024 Approved YouTube Introduction Design Made Simple and Inexpensive</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-the-ideal-backdrop-for-windows-11/"><u>[New] Crafting the Ideal Backdrop for Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-filming-in-water-proven-7-tips-for-vids/"><u>[New] Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-innovative-approaches-adding-borders-to-your-instagram-content-for-2024/"><u>[Updated] Innovative Approaches Adding Borders to Your Instagram Content for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-speed-focused-chroma-keying-101/"><u>2024 Approved Speed-Focused Chroma Keying 101</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-compelling-arguments-why-windows-11-eclipses-macos/"><u>6 Compelling Arguments Why Windows 11 Eclipses macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-gmaps-installation-on-pc/"><u>A Step-by-Step Approach to GMaps Installation on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-dev-workflow-with-wsl-2-best-practices-for-windows/"><u>Advance Your Dev Workflow with WSL 2 Best Practices for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-guide-to-extend-windows-10-shutdown-duration/"><u>Advanced Guide to Extend Windows 10 Shutdown Duration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/batch-closing-tips-end-all-windows-tasks-simultaneously/"><u>Batch Closing Tips: End All Windows Tasks Simultaneously</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosted-efficiency-with-mouse-gestures-get-set-for-edges-latest-features-win-11/"><u>Boosted Efficiency with Mouse Gestures: Get Set for Edge's Latest Features (Win 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-virtualization-turning-on-hyper-v-for-win-11/"><u>Boosting Virtualization: Turning On Hyper-V for Win 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-a79-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo A79 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-10-drones-for-dynamic-cinematic-creations/"><u>Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719338830306-windows-lacks-drive-letters-why-and-how-to-rectify-this-issue/"><u>Windows Lacks Drive Letters: Why and How to Rectify This Issue</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +127,25 @@ thumbnail: https://thmb.techidaily.com/a8380bddcca8cf55ebe9b6409c5102df744a27a7c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality-for-2024/"><u>[New] From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>2024 Approved Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routes-to-your-computers-command-center/"><u>Easy Routes to Your Computer’s Command Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-context-menus-add-a-windows-diskspace-viewer/"><u>Enhance Context Menus: Add a Window's DiskSpace Viewer</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-artists-can-now-gain-money-via-facebook-features/"><u>How Artists Can Now Gain Money via Facebook Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-delving-into-windows-boot-zone/"><u>Key Steps for Delving Into Windows' Boot Zone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic5-ultimate-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic5 Ultimate Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-specific-excel-new-cell-inserts-glitches/"><u>Navigate Through Windows-Specific Excel New Cell Inserts Glitches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-lineup-best-free-video-editors-unveiled-for-2024/"><u>Premier Lineup Best Free Video Editors Unveiled for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-sluggish-downloads-on-windows-pcs/"><u>Tips for Addressing Sluggish Downloads on Windows PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-hd-video-downloading-tool-for-windows-11-get-premium-quality-movies-and-tv-shows-at-no-cost/"><u>Top HD Video Downloading Tool for Windows 11: Get Premium Quality Movies & TV Shows at No Cost!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-your-youtube-profile-descriptions-for-2024/"><u>Transforming Your YouTube Profile Descriptions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steam-sign-in-problems-successfully/"><u>Troubleshooting Steam Sign-In Problems Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unearth-lost-features-and-tab-for-a-smoother-experience/"><u>Windows 11: Unearth Lost Features and Tab for a Smoother Experience</u></a></li>
+</ul></div>
+

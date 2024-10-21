@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Task Management with Windows App Notifications
-date: 2024-10-14T10:06:12.895Z
-updated: 2024-10-15T00:28:58.265Z
+date: 2024-10-20T02:28:46.635Z
+updated: 2024-10-20T19:44:46.647Z
 tags:
   - windows10
   - windows11
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -86,6 +79,14 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 1. Press**Install** to proceed with Notezilla's installation.  
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
 2. Click**Finish** with the Launch Notezilla checkbox selected.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
 5. Type some content into the sticky note.
@@ -94,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
 5. Click**OK** to stick the note to the selected window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
 
@@ -115,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
@@ -129,16 +123,17 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
@@ -160,20 +155,20 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-your-workflow-must-know-win-10-tactics/"><u>[New] Streamline Your Workflow Must-Know Win 10 Tactics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[New] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-detailed-exploration-youtubes-visionary-suite-for-2024/"><u>[Updated] A Detailed Exploration YouTube's Visionary Suite for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-uncomplicated-techniques-for-adding-igtv-to-your-story-for-2024/"><u>[Updated] Uncomplicated Techniques for Adding IGTV to Your Story for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/13-methods-to-resuscitate-windows-system-backup/"><u>13 Methods to Resuscitate Windows System Backup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-open-the-print-management-tool-in-windows-11/"><u>9 Ways to Open the Print Management Tool in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-beginners-path-to-implementing-hyper-v-on-win-11-homes/"><u>A Beginner's Path to Implementing Hyper-V on Win 11 Homes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-accessibility-in-windows-11-with-ease/"><u>Adjusting Mouse Accessibility in Windows 11 with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-editing-setup-office-products-word-for-text-only-opened-attachments/"><u>Avoid Editing: Setup Office Products (Word) for Text Only Opened Attachments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-common-mistakes-fixing-office-error-0x80041015/"><u>Avoiding Common Mistakes Fixing Office Error 0X80041015</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-perfection-mastering-the-top-5-techniques/"><u>Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/facilidade-na-instalacao-de-slideshows-em-iphone-dicas-e-truques-do-movavi/"><u>Facilidade Na Instalação De Slideshows Em iPhone - Dicas E Truques Do Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-chatbots-simulate-conversations-with-people/"><u>How Do Chatbots Simulate Conversations With People?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-distinctive-look-with-customized-windows-11-monitor-walls/"><u>Creating a Distinctive Look with Customized Windows 11 Monitor Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-11s-zoom-error-1132/"><u>Decoding and Correcting Windows 11'S Zoom Error #1132</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dynamic-shade-adjuster-app/"><u>Dynamic Shade Adjuster App</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-smart-8-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Smart 8 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-for-swift-ipad-screen-captures/"><u>In 2024, The Essential Guide for Swift iPad Screen Captures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-perfect-dimension-formula-for-youtube-videos/"><u>In 2024, The Perfect Dimension Formula for YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-app-order-within-windows-taskbar/"><u>Maintaining App Order Within Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-tech-landscape-windows-11-installation-on-macos-through-parallels/"><u>Navigate the Tech Landscape: Windows 11 Installation on MacOS Through Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedures-for-enablingdisabling-windows-component/"><u>Procedures for Enabling/Disabling Windows Component</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/rise-to-success-with-these-essential-15-fb-sales-insights/"><u>Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sign-up-now-enjoy-96-off-on-lifetime-mondly-access/"><u>Sign Up Now, Enjoy 96% OFF on Lifetime Mondly Access!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/starfield-storage-universe-restoration-base/"><u>Starfield Storage - Universe Restoration Base</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Motorola Moto G84 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-repair-for-compromised-system-files/"><u>Unlocking the Power of Repair for Compromised System Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-makeover-implementing-animated-backgrounds-on-pc/"><u>Windows 11 Makeover: Implementing Animated Backgrounds on PC</u></a></li>
 </ul></div>
 

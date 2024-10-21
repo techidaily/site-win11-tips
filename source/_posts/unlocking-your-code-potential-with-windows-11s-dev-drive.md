@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Code Potential with Windows 11'S Dev Drive
-date: 2024-10-14T07:17:12.956Z
-updated: 2024-10-15T01:12:24.332Z
+date: 2024-10-19T17:16:20.877Z
+updated: 2024-10-20T19:51:31.468Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 
  As a developer using Dev Home, you no longer need to constantly switch between different apps, navigate to the relevant file system directories repeatedly, and juggle multiple sign-in identities to get the job done.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Dev Drive on Windows 11
 
  At the time of writing, Dev Drive is in preview to Windows Insiders only. If you’re on the Dev Channel of the Windows Insider Program, you can immediately start using Dev Drive on Windows 11\. Otherwise, you’ll have to wait for Microsoft to ship Dev Drive with the next major Windows 11 update.
@@ -47,34 +54,28 @@ thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d34204
 ![create dev drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-create-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Should You Use Dev Drive For?
@@ -82,10 +83,16 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Dream Developer PC With Windows 11
@@ -94,19 +101,6 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/elevating-system-speed-strategies-for-virtual-memory-upgradation-in-windows-11/"><u>Elevating System Speed: Strategies for Virtual Memory Upgradation in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-meizu-21-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Meizu 21 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-hot-30-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Hot 30 5G FRP Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-tasks-the-power-of-flow-launcher-in-windows/"><u>Optimize Tasks: The Power of Flow Launcher in Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/saving-movies-effortlessly-pc-mac-and-iosandroid/"><u>Saving Movies Effortlessly PC, Mac & iOS/Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-digital-life-winning-crypto-apps-ranked-150-chars/"><u>Secure Your Digital Life: Winning Crypto Apps Ranked (150 Chars)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -114,3 +108,20 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/amers-guide-to-video-recording/"><u>[New] Gamer's Guide to Video Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-trending-tiktoks-of-tomorrow/"><u>[New] In 2024, Trending TikToks of Tomorrow</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-igtv-channels-you-should-start-following-now/"><u>[New] Top 10 IGTV Channels You Should Start Following Now</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-windows-11-notepad-through-synergistic-tech/"><u>Enrich Windows 11 Notepad Through Synergistic Tech</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-cutting-edge-portability-with-samsungs-latest-galaxy-chromebook-model/"><u>Expert Review: Cutting-Edge Portability with Samsung's Latest Galaxy Chromebook Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-page-not-rendered-in-ms-marketplace/"><u>How to Rectify Page Not Rendered in MS Marketplace</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-11-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 11 Pro and iPad</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Plus Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/simply-your-way-of-capturing-igtv-on-devices/"><u>Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-insights-what-patch-wxx-brings-to-windows-11/"><u>Upgrade Insights: What Patch W.x.x Brings to Windows 11</u></a></li>
+</ul></div>
+

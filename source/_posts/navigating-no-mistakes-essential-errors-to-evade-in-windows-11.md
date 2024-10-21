@@ -1,7 +1,7 @@
 ---
 title: "Navigating No Mistakes: Essential Errors to Evade in Windows 11"
-date: 2024-10-13T04:36:30.438Z
-updated: 2024-10-15T10:55:24.533Z
+date: 2024-10-17T23:21:44.308Z
+updated: 2024-10-20T20:42:39.440Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
  As for keyboard shortcuts in File Explorer, there are plenty of useful ones. You can even use them to open tabs and make the folder icons bigger or smaller. Here is a list of some of the important keyboard shortcuts you can use in Windows 11's File Explorer:
@@ -54,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
@@ -73,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
@@ -86,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
@@ -114,27 +127,20 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
  One of the most widely used customization options is changing how folders and files are displayed in File Explorer. You can view files and folders with different view options, including tiles, lists, icons, content, and more. You can also [hide or reveal files containing sensitive information](https://www.makeuseof.com/tag/3-quick-easy-ways-hide-folder-windows-7/) at your convenience from File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Windows File Explorer Like a Pro
 
@@ -144,27 +150,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-screen-capture-showdown-comparing-bests-in-town-obs-vs-bandicam/"><u>[New] In 2024, Screen Capture Showdown Comparing Bests in Town – OBS vs Bandicam</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-compelling-sports-content-from-the-ground-up/"><u>[Updated] In 2024, Creating Compelling Sports Content From the Ground Up</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-recommended-portals-accessing-custom-ringers/"><u>[Updated] Recommended Portals Accessing Custom Ringers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-f54-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy F54 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-teamsters-shutdown-on-windows-11-10-systems/"><u>Avoiding Teamsters Shutdown on Windows 11, 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-act-comparing-two-essential-windows-metrics/"><u>Balancing Act: Comparing Two Essential Windows Metrics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exploring-the-best-5-video-converter-apps-for-nexus-devices/"><u>Exploring the Best 5 Video Converter Apps for Nexus Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstate-your-devices-access-post-error-22/"><u>Guide to Reinstate Your Device's Access Post Error 22</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-magic-6-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor Magic 6 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-amd-driver-upgrade-featuring-auto-detection-technology/"><u>Instant AMD Driver Upgrade Featuring Auto-Detection Technology</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-converter/"><u>Movavi Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-navigate-windows-system-restore-functions/"><u>Simplified Steps to Navigate Windows' System Restore Functions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-windows-admin-installation-restriction-error/"><u>Steps to Bypass Windows 'Admin Installation Restriction' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-bluescreen-mastery-through-11-fixes/"><u>Unraveling Windows 11 Bluescreen: Mastery Through 11 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10win11-troubleshooting-hardware-recognition-issues/"><u>Win10/Win11: Troubleshooting Hardware Recognition Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-and-artificial-intelligence-generating-vibrant-ai-graphics-paint-cocreator/"><u>Windows 11 & Artificial Intelligence: Generating Vibrant AI Graphics (Paint Cocreator)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +157,24 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-in-depth-look-the-prime-snipping-options-on-macos/"><u>[New] 2024 Approved In-Depth Look The Prime Snipping Options on macOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-11-useful-youtube-seo-tips-to-rank-your-video/"><u>[New] In 2024, 11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-title-generators-for-youtube-visionaries/"><u>[New] Innovative Title Generators for YouTube Visionaries</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-instantly-connecting-fans-how-to-take-your-fb-live-further/"><u>[New] Instantly Connecting Fans How to Take Your FB Live Further</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722904005916-decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-quirky-comfort-of-apples-new-vision-pro-case-for-just-199-as-covered/"><u>Discover the Quirky Comfort of Apple's New Vision Pro Case for Just $199, as Covered</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-start-to-finish-itunes-video-logging-for-2024/"><u>From Start to Finish ITunes Video Logging for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y200-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y200?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-textual-terminals/"><u>In 2024, Tailoring Textual Terminals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-pioneers-new-assistance-pathways-without-cortana/"><u>Microsoft Pioneers New Assistance Pathways without Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-the-default-view-for-win11s-task-manager/"><u>Modify the Default View for Win11's Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-active-search-in-windows-11/"><u>Reestablishing Active Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-defender-past-techniques-for-windows-cleanse/"><u>Revamp Your Defender Past: Techniques for Windows Cleanse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-rectifying-windows-struggling-charmap-problems/"><u>Unraveling and Rectifying Windows' Struggling CharMap Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-reactivating-windows-batch-file-operations/"><u>Unveiling Fixes: Reactivating Windows Batch File Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-bothering-you-common-complaints-about-windows-11/"><u>What's Bothering You? Common Complaints About Windows 11</u></a></li>
+</ul></div>
+

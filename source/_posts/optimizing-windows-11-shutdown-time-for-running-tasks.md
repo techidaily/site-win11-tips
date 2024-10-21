@@ -1,7 +1,7 @@
 ---
 title: Optimizing Windows 11 Shutdown Time for Running Tasks
-date: 2024-10-13T15:26:28.330Z
-updated: 2024-10-15T01:58:25.453Z
+date: 2024-10-16T00:10:29.508Z
+updated: 2024-10-20T16:46:58.066Z
 tags:
   - windows10
   - windows11
@@ -31,24 +31,31 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Should You Try First?
 
  The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Make Windows Wait Longer When Logging Off
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 5. Double-click this string to edit its value, which is in milliseconds. (1000 milliseconds equals one second.) By default, the value data is set to 20,000 (or 20 seconds).
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1B. How to Change WaitToKillAppTimeout for All Users
 
 This will apply altered log-off rules to all users on the PC.
@@ -77,6 +77,13 @@ This will apply altered log-off rules to all users on the PC.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
 
@@ -91,10 +98,10 @@ This will apply altered log-off rules to all users on the PC.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
@@ -105,13 +112,6 @@ This will allow you to change the default value for all users.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
 
@@ -132,22 +132,19 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-androids-low-cost-video-call-app-selection/"><u>[New] In 2024, Android's Low Cost Video Call App Selection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-perfectly-permanent-images-instagram-photowatermark-techniques-for-2024/"><u>[New] Perfectly Permanent Images Instagram Photowatermark Techniques for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-sims-4-gameplay-with-videography/"><u>[Updated] In 2024, Dive Deep Into Sims 4 Gameplay with Videography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-observing-patterns-in-instagram-unlikes/"><u>[Updated] In 2024, Observing Patterns in Instagram Unlikes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-windows-movie-maker-a-step-by-step-guide-for-windows-8-users/"><u>[Updated] Mastering Windows Movie Maker A Step-by-Step Guide for Windows 8 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-guides-by-toms-technology-hub/"><u>Comprehensive Hardware Guides by Tom's Technology Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-service-failure-error-1053/"><u>Correcting Windows Service Failure Error 1053</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-audible-acuity-ending-echo-of-empty-spaces/"><u>Regain Audible Acuity: Ending Echo of Empty Spaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-complications-caused-by-latest-windows-updates/"><u>Resolving Complications Caused by Latest Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-usb-failure-message-a-step-by-step-guide-for-windows-users/"><u>Resolving VirtualBox's USB Failure Message: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-windows-program-functionality-with-ease/"><u>Restoring Windows Program Functionality with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-slacks-missing-notifications-issue-in-win-11/"><u>Solving Slack's Missing Notifications Issue in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-easing-through-administrative-denial-of-installers/"><u>Strategies for Easing Through Administrative Denial of Installers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-online-monetization-mission-youtube-to-your-bank-for-2024/"><u>The Online Monetization Mission YouTube to Your Bank for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-defenders-error-0x80004004/"><u>Troubleshooting Defender's Error 0X80004004</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1011-screen-2-recognition-fixes/"><u>Windows 10/11 Screen #2 Recognition Fixes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-picks-top-5-high-performing-android-recorders/"><u>[New] In 2024, Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tropical-tango-toucan-for-2024/"><u>[New] Tropical Tango Toucan for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>[Updated] Crafting Spectacular HDR Images Blending Tips in Adobe Lightroom</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-conscious-shooters-cam-collection/"><u>Budget-Conscious Shooter's Cam Collection</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/come-cancellare-ed-eseguire-il-ripristino-automatico-dei-cronologici-backup-di-windows-e-system-restore/"><u>Come Cancellare Ed Eseguire Il Ripristino Automatico Dei Cronologici Backup Di Windows E System Restore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-discover-2023s-community-favorites/"><u>Elevate Windows: Discover 2023'S Community Favorites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reopening-hidden-nvidia-control-panel-on-w11/"><u>Reopening Hidden Nvidia Control Panel on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-password-inclusion-for-your-windows-file-system/"><u>Seamless Password Inclusion for Your Windows File System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/smart-social-media-strategies-from-youtube-to-facebook/"><u>Smart Social Media Strategies From YouTube To Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-email-management-pin-gmail-to-windows-taskbar/"><u>Streamline Email Management: Pin Gmail to Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-from-pin-based-login-on-windows-11-to-traditional-passwords/"><u>Transitioning From PIN-Based Login on Windows 11 to Traditional Passwords</u></a></li>
 </ul></div>
 

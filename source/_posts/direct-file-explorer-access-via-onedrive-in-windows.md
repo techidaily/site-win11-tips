@@ -1,7 +1,7 @@
 ---
 title: Direct File Explorer Access via OneDrive in Windows
-date: 2024-10-11T04:43:25.039Z
-updated: 2024-10-15T06:16:00.213Z
+date: 2024-10-18T23:41:53.869Z
+updated: 2024-10-21T03:12:22.199Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Registry Editor
 
  You can also use the Registry Editor to set OneDrive as your default File Explorer view. But be warned: if you make an incorrect change to the system registry, you could damage your computer. We recommend [backing up the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing it.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 6. Double-click on this newly created value and set its value to **4**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **OK** and close the registry window.
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
@@ -90,22 +97,15 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 ![Open File Explorer to OneDrive Using REG File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive-using-reg-file.jpg)
 7. Double-click the REG file you just created. If you're prompted for permission to change your computer, click **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Finally, restart your computer for the changes to take effect.
 
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
@@ -114,25 +114,6 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-the-world-of-video-screen-capture/"><u>[New] In 2024, Navigating the World of Video Screen Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-15-open-world-games-to-beat-the-climb/"><u>[New] In 2024, Top 15 Open World Games to Beat the Climb</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mirrorless-4k-cameras-top-10-list-unveiled/"><u>[Updated] Mirrorless 4K Cameras Top 10 List Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-routes-to-rescue-your-stream-with-a-fixed-obs-link-on-windows/"><u>7 Routes to Rescue Your Stream with a Fixed OBS Link on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-precise-walkthrough-for-windows-update-resetting/"><u>A Precise Walkthrough for Windows Update Resetting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-issues-with-googles-nearby-sharing-on-desktop-pc/"><u>Addressing Issues with Google's Nearby Sharing on Desktop PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-windows-tactics-for-hardware-id-retrieval/"><u>Advanced Windows Tactics for Hardware ID Retrieval</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altwindirstat-strategies-for-effective-disk-space-management/"><u>AltWinDirStat Strategies for Effective Disk Space Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/awaken-your-device-finding-and-fixing-muted-speaker-issues/"><u>Awaken Your Device – Finding & Fixing Muted Speaker Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-combat-and-resolve-code-31-glitches-on-your-windows-operating-system/"><u>Expert Tips to Combat and Resolve Code # 31 Glitches on Your Windows Operating System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v27e-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V27e to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/revolutionary-apowersoft-image-editing-tool-the-latest-version-of-professional-grade-watermark-remover-launched/"><u>Revolutionary Apowersoft Image Editing Tool - The Latest Version of Professional-Grade Watermark Remover Launched!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-king-of-fighters-xv-update-eliminating-pc-instability-once-and-for-all/"><u>The King of Fighters XV Update - Eliminating PC Instability Once and For All!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +121,23 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-easy-solutions-to-upgrade-your-video-calls-from-skype-to-zoom/"><u>[New] In 2024, Easy Solutions to Upgrade Your Video Calls From Skype to Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-podcast-pioneers-effortless-livestream-tips/"><u>[Updated] Podcast Pioneers Effortless Livestream Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-strategies-for-securing-identity-in-image-editing/"><u>[Updated] Rapid Strategies for Securing Identity in Image Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-managing-twitch-streams/"><u>Cut to the Chase Managing Twitch Streams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-color-laserjet-pro-m452dn-printing-driver-today/"><u>Download the Latest HP Color LaserJet Pro M452dn Printing Driver Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-installing-win11s-version-22h2-upgrade-successfully/"><u>Expert Advice on Installing Win11's Version 22H2 Upgrade Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-prompt-engineering-job-outlook-and-potential/"><u>Exploring the World of AI Prompt Engineering: Job Outlook & Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-365-error-code-30015-26-on-windows/"><u>How to Fix the Microsoft 365 Error Code 30015-26 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-wireless-drivers-in-windows-11-and-10/"><u>How to Upgrade Your Wireless Drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpieces-at-your-fingertips-4-notable-new-paint-features/"><u>Masterpieces at Your Fingertips: 4 Notable New Paint Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-difficulties-handling-winscomrsvdll-problems/"><u>Navigate Through Difficulties: Handling WinscomrsvDll Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/resolved-fixing-steams-inaccessible-friend-list-issue/"><u>Resolved: Fixing Steam's Inaccessible Friend List Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-procedures-for-resetting-windows-updates/"><u>Simplified Procedures for Resetting Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-updating-administrator-in-win11-environment/"><u>Streamlined Steps for Updating Administrator in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-integrating-secondary-antivirus-without-defenders-limits/"><u>Techniques for Integrating Secondary Antivirus without Defender’s Limits</u></a></li>
+</ul></div>
+

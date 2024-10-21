@@ -1,7 +1,7 @@
 ---
 title: "Quick Definition Quest: Mastering Win11's Lexicon"
-date: 2024-10-14T09:13:29.006Z
-updated: 2024-10-14T23:26:59.266Z
+date: 2024-10-15T18:48:44.613Z
+updated: 2024-10-20T16:22:17.111Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,23 @@ These are the steps to use the dictionary in Microsoft Edge:
 
  Edge will now show a popup containing the different meanings of that word. However, if you do not like the Mini menu, the browser's right-click context menu also includes the**Define** option. You can get definitions of words from the context menu, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Find Definitions in the Windows 11 Search Box
 
 ![Windows search box showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-search-n.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 11 search box can come in handy to find meanings of words, mainly when you see an unknown word in a document in printed form. In that case, it is super convenient to use the search box instead of opening a printed dictionary.
 
@@ -54,22 +68,15 @@ Here's how:
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Ask the Cortana App for a Definition
 
 ![Cortana app showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-cortana-n.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Cortana app is another helpful tool in Windows 11 to help you look up definitions. To use the app as a tool to find the meanings of words, follow the below steps:
 
@@ -78,26 +85,13 @@ Here's how:
 ![Searching Cortana app via Windows Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/searching-cortana-app-via-windows-start-icon.png)
 3. Type "define" followed by the word you want to know the meaning of.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press**Enter** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finding Definitions in Windows 11
@@ -121,20 +115,16 @@ Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-12-ultimate-insta-image-enhancers/"><u>[New] 2024 Approved 12 Ultimate Insta Image Enhancers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-key-approaches-to-microphone-and-computer-speaker-documentation/"><u>[New] In 2024, Key Approaches to Microphone & Computer Speaker Documentation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-xiaomi-11-series-capture-life-in-high-definition/"><u>[New] In 2024, Xiaomi 11 Series Capture Life in High Definition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outubes-adsense-income-strategy-calculating-per-thousand-viewers-for-2024/"><u>[New] Youtube's AdSense Income Strategy Calculating Per Thousand Viewers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-animation-styles-pack/"><u>[Updated] In 2024, Ultimate Animation Styles Pack</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>[Updated] Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>[Updated] The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-pace-in-windows-11-overcome-keyboard-latency/"><u>Boost Your Typing Pace in Windows 11: Overcome Keyboard Latency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-methods-overcoming-defender-engine-outage-in-5-steps/"><u>Essential Methods: Overcoming Defender Engine Outage in 5 Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-dism-failure-0x800f082f/"><u>Mastering the Art of Rectifying DISM Failure: 0X800F082F</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-resurrect-non-responsive-windows-discord-elements/"><u>Tactics to Resurrect Non-Responsive Windows Discord Elements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-tyranny-of-inconsistent-colors-in-windows/"><u>Taming the Tyranny of Inconsistent Colors in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80131500-on-microsoft-shop/"><u>Unlocking Error #0X80131500 on Microsoft Shop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-verification-how-to-verify-facebook-page-easily/"><u>[New] 2024 Approved Facebook Verification How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-beams-microphones-for-education-for-2024/"><u>Best Beams Microphones for Education for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-microsofts-defender-on-win11-systems/"><u>Disabling Microsoft's Defender on Win11 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-blaze-curve-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Blaze Curve 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-best-vr-handh-written-by-assistant/"><u>In 2024, Expert's Choice Best VR Handh Written by Assistant</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo T2 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/infiltrating-blocked-powershell-top-4-techniques-for-loading-success/"><u>Infiltrating Blocked PowerShell: Top 4 Techniques for Loading Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-memory-use-of-antivirus-software-features/"><u>Optimize Memory Use of Antivirus Software Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-faulty-windows-11-license-numbers/"><u>Reviving Faulty Windows 11 License Numbers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-steam-connection-stalls-coded-in-rustwindows/"><u>Swift Remedies for Steam Connection Stalls, Coded in Rust/Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-3-beyond-youtube-innovative-videostreaming-communities/"><u>Top 3 Beyond Youtube Innovative Videostreaming Communities</u></a></li>
 </ul></div>
 

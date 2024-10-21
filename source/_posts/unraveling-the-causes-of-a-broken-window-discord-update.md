@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Causes of a Broken Window Discord Update
-date: 2024-10-07T16:44:39.529Z
-updated: 2024-10-15T15:42:05.963Z
+date: 2024-10-19T22:24:18.047Z
+updated: 2024-10-21T01:32:38.866Z
 tags:
   - windows10
   - windows11
@@ -43,18 +43,18 @@ To force-stop the Discord app:
 4. Restart the Discord app and see if it can finish the updates.  
 ![End Discord Process on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/End-Discord-Process-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check Discord Server Status
 
  You may not be the only one experiencing problems with Discord updates. There's a good chance the issue isn't on your end, but on Discord's. You can[check Discord’s service status](https://discordstatus.com/) to see if others are facing similar issues.
 
  If there is a problem with the Discord servers, you have no option but to wait until the developers resolve it. Hopefully, it shouldn’t take too long. Following that, you should be able to update the Discord app on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Discord as an Administrator
 
@@ -63,13 +63,6 @@ To force-stop the Discord app:
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
 
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Allow Discord Through Windows Firewall
 
@@ -86,11 +79,25 @@ To force-stop the Discord app:
 9. Click**OK** to save the changes.  
 ![Allow Discord Through Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Discord-Through-Windows-Firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Your Antivirus Program
 
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Adjust the Date and Time Settings
 
@@ -101,13 +108,6 @@ To force-stop the Discord app:
 3. Click on**Date & time** .
 4. Enable the toggles next to**Set time automatically** and**Set time zone automatically** .  
 ![Set Date & Time Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date--Time-Automatically-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart the Discord app after this and allow it to finish updates.
 
@@ -123,20 +123,6 @@ Restart the Discord app after this and allow it to finish updates.
 4. Change the name of the**Update.exe** file to something else, such as**OldUpdate.exe** .  
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Uninstall and Reinstall Discord
 
  If nothing else works, you can uninstall and reinstall the Discord app as a last resort. This will help you remove any faulty app data that may have been preventing the app from updating and get it to work again.
@@ -150,6 +136,13 @@ To uninstall Discord from your PC:
 5. Select**Uninstall** again to confirm.  
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
 
 1. Press**Win + R** to open Run.
@@ -157,6 +150,13 @@ To uninstall Discord from your PC:
 3. In the File Explorer window, right-click the**Discord** folder and select**Delete** .
 
  Once you've done that, head over to Discrod’s website or open the Microsoft Store to install the Discord app on your PC. And while you're at it, check out[how to eradicate leftovers from programs on Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) to keep your PC squeaky clean.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Discord Updated on Windows
 
@@ -177,24 +177,24 @@ To uninstall Discord from your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-action-cams-duel-black-hero5-against-sj7/"><u>[New] 2024 Approved Action Cams Duel Black Hero5 Against SJ7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-sound-failure-in-audacity-windows-11-and-11/"><u>Eliminating Sound Failure in Audacity, Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excelling-at-windows-11-desktop-image-standards/"><u>Excelling at Windows 11 Desktop Image Standards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-mp3-to-wmv-converter-online-fast-and-easy-with-movavi/"><u>Gratis MP3 to WMV Converter Online - Fast and Easy with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-11-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 11 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-prime-online-collections-for-3d-typography/"><u>In 2024, Prime Online Collections for 3D Typography</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-world/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-faded-bios-boot-options/"><u>Remedy for Faded BIOS Boot Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-low-usb-controller-limitation-error/"><u>Remedying “Low USB Controller Limitation” Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-printer-settings-in-windows-environment/"><u>Seamless Integration of Printer Settings in Windows Environment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamers-dilemma-is-vlc-superior-to-mpc-for-2024/"><u>Streamer's Dilemma Is VLC Superior to MPC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-windows-chrome-blackouts/"><u>Taming Windows Chrome Blackouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-guide-combatting-a-non-active-wsresetexe/"><u>The Ultimate Fix Guide: Combatting a Non-Active WSReset.exe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-how-to-reinstall-java-correctly/"><u>Unlocking Windows: How to Reinstall Java Correctly</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-nubia-red-magic-9-proplus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nubia Red Magic 9 Pro+ Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-aural-aesthetics-in-whatsapp-statues/"><u>[New] Aural Aesthetics in WhatsApp Statues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-videography-6-tips-for-making-macro-video/"><u>[New] Videography 6 Tips for Making Macro Video</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1-how-to-restore-accidentally-deleted-files-from-your-hard-drive-without-paying-a-penny/"><u>1. How to Restore Accidentally Deleted Files From Your Hard Drive Without Paying a Penny</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v30-lite-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V30 Lite 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-pova-6-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Pova 6 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-mini-gaming-memories-learn-to-record-minecraft-on-apple-devices/"><u>Mastering Mini-Gaming Memories Learn to Record Minecraft on Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-capacity-with-enhanced-virtual-memory-tactics/"><u>Maximizing RAM Capacity with Enhanced Virtual Memory Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-failures-in-windows-systems/"><u>Resolving GeForce Experience Failures in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-steam-connection-to-your-windows-system/"><u>Restoring Steam Connection to Your Window's System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blue-screen-on-hybrid-os-5-ways-to-correct-bsos-errors/"><u>Stop Blue Screen on Hybrid OS: 5 Ways to Correct BSOS Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nubia-red-magic-9-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nubia Red Magic 9 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-tech-enhancing-windows-11-hardware-performance/"><u>Tweaking Tech: Enhancing Windows 11 Hardware Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-variability-in-cloud-and-local-windows-protocols/"><u>Unpacking the Variability in Cloud & Local Windows Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1110-tips-remedying-nvidia-control-panel-errors/"><u>Win11/10 Tips: Remedying Nvidia Control Panel Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-live-boost-your-pc-with-these-3-usb-steps/"><u>Windows 11 Live! Boost Your PC with These 3 USB Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-snippet-income-breakdown-whats-your-profit-share-in-2024/"><u>YouTube Snippet Income Breakdown What's Your Profit Share, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rejuvenation Guide: Making Dormant Windows Scripts Active Again"
-date: 2024-10-12T02:54:09.187Z
-updated: 2024-10-14T17:28:18.267Z
+date: 2024-10-15T04:05:13.313Z
+updated: 2024-10-21T02:32:15.269Z
 tags:
   - windows10
   - windows11
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
 ## 2\. Disable Your Antivirus Temporarily
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Adjust .BAT File Association
 
  Have you ever noticed that when you open a .TXT file, Notepad pops up, or when you open a .PNG or .JPG, the Windows Photos app opens? This is because of file association. Similarly, BAT files have a default program file association, i.e., with the Command Prompt.
@@ -99,18 +85,26 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
@@ -125,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
  Now that you know the main reason, you can learn [how to take ownership of any file or folder on Windows](https://www.makeuseof.com/windows-10-11-own-folder/). All the steps for taking ownership are the same in the case of an individual file and a folder.
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Modify the ComSpec System Variable
 
@@ -149,17 +136,32 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
 
@@ -171,27 +173,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>[Updated] In 2024, Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-2023-youtubers-handbook-for-rotated-content/"><u>[Updated] The Complete 2023 Youtuber's Handbook for Rotated Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-routines-to-pause-windows-and-office-software-updates/"><u>4 Routines to Pause Windows & Office Software Updates</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-top-android-video-editing-apps-for-free-and-paid-users-for-2024/"><u>Best Top Android Video Editing Apps for Free and Paid Users for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-vector-design-the-most-popular-apps-reviewed/"><u>Cutting-Edge Vector Design The Most Popular Apps Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-right-video-coding-technique-for-win-os-users/"><u>Deciphering the Right Video Coding Technique for Win OS Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-through-terminal-restart-on-win11/"><u>Guiding Users Through Terminal Restart on Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-30i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 30i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-9a-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 9A Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-installation-of-google-play-in-w11/"><u>Mastering the Installation of Google Play in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-reset-windows-paperwork-service/"><u>Quick Reset Windows' Paperwork Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-steam-symbols-on-pc/"><u>Resetting Steam Symbols on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/separate-your-online-storage-onedrive-and-microsoft-ids/"><u>Separate Your Online Storage: OneDrive & Microsoft IDs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/srt-mastery-curating-the-best-mac-and-windows-turbo-boosts-for-2024/"><u>SRT Mastery Curating the Best Mac & Windows Turbo Boosts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-fall-guys-from-failing-at-startup-expert-fixes-and-advice/"><u>Stop 'Fall Guys' From Failing at Startup – Expert Fixes and Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wows-fatal-issue-in-windows-1111/"><u>Troubleshooting WoW's Fatal Issue in Windows 11/11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -199,3 +180,27 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-comprehensive-guide-downloading-from-instagram-to-iphone/"><u>[New] A Comprehensive Guide Downloading From Instagram to iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grasping-the-essence-of-your-youtube-community-for-2024/"><u>[New] Grasping the Essence of Your YouTube Community for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes/"><u>2024 Approved Tailor Your Space The Best Apps to Create Engaging YouTube Themes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-configuring-hurdle-troubleshooting-steps-to-unstick-your-windows-installation/"><u>Conquer the Configuring Hurdle: Troubleshooting Steps to Unstick Your Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-rdp-error-codes-in-modern-windows-systems/"><u>Decoding RDP Error Codes in Modern Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-logitech-g29-racing-wheel-software-for-windows/"><u>Download the Latest Logitech G29 Racing Wheel Software for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-zebra-gk420d-drivers-instantly-get-setup-today/"><u>Download Zebra GK420D Drivers Instantly - Get Setup Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-admin-command-execution-without-hurdles/"><u>Ensuring Admin Command Execution Without Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-winning-editing-tool-solving-davinci-resolve-startup-problems-in-windows/"><u>Fix Your Winning Editing Tool: Solving DaVinci Resolve Startup Problems in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-game-bars-pc-doesnt-meet-hardware-requirements-for-captures-error-in-windows/"><u>How to Fix Game Bar’s “PC Doesn't Meet Hardware Requirements for Captures” Error in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-asus-trackpad-drivers-on-windows-11-a-quick-download-guide/"><u>How to Get the Newest ASUS Trackpad Drivers on Windows 11: A Quick Download Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-search-for-integrity-how-to-filter-out-fake-windows-apps/"><u>In Search for Integrity: How to Filter Out Fake Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-for-effective-task-juggling/"><u>Leveraging Windows 11 for Effective Task Juggling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-integrating-advanced-run-command/"><u>Maximizing Windows 11: Integrating Advanced Run Command</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-integrate-onedrive-and-microsoft-id/"><u>Streamline Your Workflow: Integrate OneDrive & Microsoft ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-win-10-and-11-networks-with-telnet-easily/"><u>Tailoring Win 10 & 11 Networks with Telnet Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-deletion-keys-in-windows/"><u>Troubleshooting Non-Functional Deletion Keys in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-your-online-potential-with-these-top-tips-on-free-youtube-transcripts/"><u>Unlock Your Online Potential with These Top Tips on FREE YouTube Transcripts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-facebooks-secrets-30-insider-tricks-for-growth-for-2024/"><u>Unveiling Facebook's Secrets 30 Insider Tricks for Growth for 2024</u></a></li>
+</ul></div>
+

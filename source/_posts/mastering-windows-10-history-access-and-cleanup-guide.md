@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 10 History: Access & Cleanup Guide"
-date: 2024-10-14T15:52:58.321Z
-updated: 2024-10-15T11:54:14.131Z
+date: 2024-10-15T21:35:39.515Z
+updated: 2024-10-20T20:59:14.604Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete Your Windows Activity History
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  You can easily see what data Microsoft stores and how to delete it.
 
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 10
 
@@ -69,31 +62,18 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will clear the activity history for the account you're currently using.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -102,6 +82,14 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 1. When you go to Settings, you'll need to select **Privacy & security** from the left sidebar. From the right pane, you'll need to select **Activity history**.  
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
@@ -129,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Windows 10 Activity History Categories
@@ -154,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Windows 10 and Maintain Your Privacy
@@ -168,6 +156,13 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keeping Your Data Safe in Windows 10
 
  Windows 10 is not the privacy advocate's top choice for operating systems, but you can monitor your data and tweak the privacy settings to suit your needs. Now you know how to view the data Microsoft has on you and how to erase them.
@@ -176,20 +171,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>[New] In 2024, Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-file-transfer-times-in-battlenet-gaming/"><u>Accelerating File Transfer Times in Battle.net Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-low-quality-steam-streams/"><u>Addressing Low Quality Steam Streams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-errors-restore-mspm-on-vista/"><u>Banish Errors: Restore MSPM on Vista</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-alternatives-to-windows-snipping-tool-for-swift-image-grabs/"><u>Best Alternatives to Windows Snipping Tool for Swift Image Grabs</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-sites-optimized-through-automated-data-tracking/"><u>Cookiebot-Enhanced Sites: Optimized Through Automated Data Tracking</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-can-you-determine-your-current-graphics-card-5-simple-methods/"><u>How Can You Determine Your Current Graphics Card?: 5 Simple Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/renew-your-email-on-proton-vpn-debunking-myths-the-authenticity-of-the-chatgpt-window-tool/"><u>Renew Your Email on Proton VPN - Debunking Myths: The Authenticity of the ChatGPT Window Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-software-install-new-drivers-for-your-wacom-graphic-pen-display/"><u>Updated Software: Install New Drivers for Your Wacom Graphic Pen Display</u></a></li>
-<li><a href="https://techidaily.com/will-htc-u23-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will HTC U23 Pro play AVCHD mts files?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +178,25 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] 2024 Approved Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-tecno-spark-10-4g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Tecno Spark 10 4G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-new-ways-to-use-chatgpt-essential-tools-and-functions-you-havent-tried-yet/"><u>Discover New Ways to Use ChatGPT: Essential Tools and Functions You Haven't Tried Yet!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-making-windows-menus-less-obvious/"><u>Expert Tips: Making Windows Menus Less Obvious</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-c33-2023-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme C33 2023 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-to-know-wintoys-your-intuitive-guide-to-an-underutilized-tool-in-windows/"><u>Getting to Know WinToys: Your Intuitive Guide to an Underutilized Tool in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-ccleaner-not-working-on-windows-10-and-11/"><u>How to Fix CCleaner Not Working on Windows 10 & 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s24-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S24 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-11-activity-history/"><u>How to View and Clear the Windows 11 Activity History</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-stability-issues-with-total-war-three-kingdoms/"><u>Overcoming Stability Issues with Total War: Three Kingdoms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-saving-perplexities-the-tale-of-windows-standby/"><u>Power Saving Perplexities: The Tale of Windows' Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-disconnected-remote-resources-on-your-pc/"><u>Reviving Disconnected Remote Resources on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-and-fix-crashed-epic-games-launcher-window/"><u>Stop & Fix Crashed Epic Games Launcher Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-sniptools-unresponsive-commands/"><u>Troubleshooting SnipTool's Unresponsive Commands</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-mkv-editors-for-mac-trimming-made-easy/"><u>Updated S Best MKV Editors for Mac Trimming Made Easy</u></a></li>
+</ul></div>
+

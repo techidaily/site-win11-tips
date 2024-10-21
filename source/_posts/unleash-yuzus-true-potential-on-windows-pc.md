@@ -1,7 +1,7 @@
 ---
 title: Unleash Yuzu's True Potential on Windows PC
-date: 2024-10-11T13:10:52.713Z
-updated: 2024-10-15T13:32:50.810Z
+date: 2024-10-16T02:36:03.825Z
+updated: 2024-10-21T00:59:09.261Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Unless your operating system is optimized for gaming, no emulator or app will deliver the best performance. Thus, to get a smooth performance on the Yuzu emulator, check out our [guide covering different steps to optimize your Windows 10 for gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). The same steps apply to optimizing Windows 11 if you have already upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Optimize Your GPU's Settings
 
  Optimizing your GPU settings is just as important as optimizing your operating system for gaming. Thus, ensure your graphics card settings are optimized to deliver the best performance.
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 6. Go to the location where the Yuzu emulator's executable file resides, which is usually as follows:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:/Users/<your username>/AppData/Roaming/Microsoft/Windows/Start Menu/Programs`
@@ -67,9 +60,37 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 8. Click on the **Yuzu** emulator in the list of installed apps and then click **Options**.  
 ![Clicking on the Options Button After Clicking on the Yuzu Emulator in the List of Installed Apps in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Clicking-on-the-Options-Button-After-Clicking-on-the-Yuzu-Emulator-in-the-List-of-Installed-Apps-in-Windows-Settings-App.jpg)
 9. Hit **Save** after switching the graphics preference to **High performance**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Hitting the Save Button after Switching the Graphics Preferences for Yuzu Emulator to High in the Options Tab of Yuzu Emulator in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Hitting-the-Save-Button-after-Switching-the-Graphics-Preferences-for-Yuzu-Emulator-to-High-in-the-Options-Tab-of-Yuzu-Emulator-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using the Yuzu emulator on Windows 10, follow the instructions in our [guide on choosing the preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to adjust the graphics preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset Your Emulator's Settings to Their Defaults
 
@@ -82,21 +103,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 4. In the right pane, click **Reset All Settings**.  
 ![Clicking on the Reset All Settings Option in General Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-reset-all-settings-option-in-general-settings-of-yuzu-emulator-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have already customized the emulator's settings for your games, you can follow the below tips without resetting the settings. However, if possible, do so before continuing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable VSync
 
@@ -112,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  If disabling VSync further disrupts game performance, enable it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Switch Region
 
  The emulator also performs better when you select the region closest to you in the emulator settings. Follow these steps to switch the region in the emulator settings:
@@ -131,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 ![Clicking on the OK Button after Choosing the Region in the Region Dropdown Menu in the System Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/clicking-on-the-ok-button-after-choosing-the-region-in-the-region-dropdown-menu-in-the-system-settings-of-yuzu-emulator-app.jpg)
 
  If you have selected the closest region, switch to another region and see how it affects game performance. Choose the one that provides you with the best performance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Change Limit Speed Percent Settings
 
@@ -156,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 ![Changing the Accuracy Level to Normal in Yuzu Emulator Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/changing-the-accuracy-level-to-normal-in-yuzu-emulator-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change Graphics API Settings
@@ -174,6 +181,19 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 4. Select your desired **API** from the dropdown menu.  
 ![Switching the API from the Dropdown in Graphics Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/switching-the-api-from-the-dropdown-in-graphics-settings-of-yuzu-emulator-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Disable Audio
 
  You can also slightly improve the emulator's performance by disabling audio in the Yuzu emulator. If playing games without audio won't negatively impact your gaming experience, follow these steps to turn it off:
@@ -186,17 +206,16 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 ![Dragging the Volume Slider to Left after Selecting Null in the Dropdown Menus of Output Engine Input Device and Output Device Options in Audio Settings of Yuzu Emulator App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/dragging-the-volume-slider-to-left-after-selecting-null-in-the-dropdown-menus-of-output-engine-input-device-and-output-device-options-in-audio-settings-of-yuzu-emulator-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Speed Up Yuzu Emulator on Windows
@@ -205,29 +224,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Therefore, if the bad performance of the Yuzu emulator spoils your gaming experience, we'll show you how to speed it up and play games at a decent frame rate.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[New] 2024 Approved 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-complete-blueprint-for-effective-lut-usage-in-editing/"><u>[New] 2024 Approved The Complete Blueprint for Effective LUT Usage in Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tunefab-revolutionizing-the-art-of-video-capture/"><u>[Updated] 2024 Approved Tunefab Revolutionizing the Art of Video Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-perfect-pairing-finding-top-beats-for-unwrapping-videos/"><u>[Updated] Perfect Pairing Finding Top Beats for Unwrapping Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-buyers-guide-affordable-access-to-windows-11-vcs/"><u>A Buyer’s Guide: Affordable Access to Windows 11 VCs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/g-audio-descriptions-to-videos-on-youtube/"><u>Adding Audio Descriptions to Videos on YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-the-functionality-of-fn-keys-on-modern-pcs-windows-11/"><u>Configuring the Functionality of FN Keys on Modern PCs (Windows 11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-windows-11-pc-manager-tools-guide/"><u>Enhance Productivity: Windows 11 PC Manager Tools Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-error-e1-code-on-w10w11-systems/"><u>Eradicating Error E1 Code on W10/W11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-to-reactivate-an-inactive-hotspot-in-windows-11/"><u>Guidelines to Reactivate an Inactive Hotspot in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-process-for-profile-verification-on-x-insider-secrets-revealed/"><u>Mastering the Process for Profile Verification on X – Insider Secrets Revealed!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimp4and/"><u>Movaviのプロセス：無料でMP4ビデオを簡易編集&変換</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-0x80072efd-mistake-on-windows-11-a-step-by-step-solution-guide/"><u>Resolve Window's 0X80072EFD Mistake on Windows 11: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-disabling-discords-auto-checkup-at-startup/"><u>Strategies for Disabling Discord's Auto-Checkup at Startup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-persistent-issues-windows-obs-not-opening-troubleshooting/"><u>Tackling Persistent Issues: Windows OBS Not Opening Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visual-search-enhancements-in-windows-11-file-explorer/"><u>Visual Search Enhancements in Windows 11 File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-your-inactive-printer-on-pcs/"><u>Winning Back Your Inactive Printer on PCs</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -235,3 +231,27 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-ios-platforms-for-ps2-gaming/"><u>[New] 2024 Approved Premier iOS Platforms for PS2 Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[New] In 2024, Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-popular-photos-the-backstory/"><u>[Updated] Popular Photos The Backstory</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-amplifying-audio-with-tiktok-duets/"><u>2024 Approved Amplifying Audio with TikTok Duets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-illusions-how-vr-transforms-media-consumption/"><u>2024 Approved Immersive Illusions How VR Transforms Media Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-your-computer-to-rest-when-not-in-use/"><u>Commanding Your Computer to Rest When Not In Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-printer-settings-for-secure-edge-environment/"><u>Configuring Printer Settings for Secure Edge Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-and-control-your-windows-11-program-preferences/"><u>Customize and Control Your Windows 11 Program Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-reading-experience-in-windows-11-notepad/"><u>Elevate Reading Experience in Windows 11 Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-operational-usb-on-your-windows-machine/"><u>Fixing Non-Operational USB on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-windows-capabilities-for-bulk-archive-decompression/"><u>Harnessing Windows Capabilities for Bulk Archive Decompression</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hp-sprocket-studio-plus-revealed-is-it-truly-worth-your-investment-despite-subpar-chroma-accuracy/"><u>HP Sprocket Studio Plus Revealed: Is It Truly Worth Your Investment Despite Subpar Chroma Accuracy?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v29-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V29 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-for-iphones-that-arent-receiving-call-notifications/"><u>Top 11 Fixes for iPhones That Aren't Receiving Call Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-home-into-a-virtual-environment-with-hyper-v/"><u>Transforming Windows 11 Home Into a Virtual Environment with Hyper-V</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-downloading-latest-realtek-bluetooth-drivers-on-your-windows-pc-supporting-win11-and-win10/"><u>Ultimate Guide to Downloading Latest Realtek Bluetooth Drivers on Your Windows PC (Supporting Win11 & Win10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-window-icon-location-techniques/"><u>Unveiling Window Icon Location Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-browsers-post-windows-setup/"><u>Zeroing in on Browsers Post-Windows Setup</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Easing Into Basic Settings of Win11 Terminal
-date: 2024-10-10T15:26:41.767Z
-updated: 2024-10-15T07:01:05.297Z
+date: 2024-10-16T21:52:11.070Z
+updated: 2024-10-20T21:48:38.641Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Let's now move to the below sections and see how it can be reset.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -58,21 +65,14 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -83,14 +83,15 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 2. In the PowerShell window, copy and paste the following command:  
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
-3. Press**Enter** to execute the command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Press**Enter** to execute the command.
 
 ## How to Reset Windows Terminal Settings From File Explorer
 
@@ -105,10 +106,10 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
@@ -130,20 +131,14 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-inquiry-into-youtubes-monetary-frequency/"><u>[Updated] Inquiry Into YouTube's Monetary Frequency</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-continuous-media-archiving/"><u>2024 Approved Continuous Media Archiving</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-vlc-input-compatibility-faults/"><u>Correcting Windows VLC Input Compatibility Faults</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-network-errors-a-guide-for-windows-11-users/"><u>Eliminating Network Errors: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-win11-connectivity-options/"><u>Guide to Tweaking Win11 Connectivity Options</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-14-pro-max-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 14 Pro Max Factory Reset? | Stellar</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-trim-and-cut-vimeo-videos/"><u>In 2024, How to Trim and Cut Vimeo Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shades-of-twilight-harnessing-ms-paints-dark-theme/"><u>Shades of Twilight: Harnessing MS Paint's Dark Theme</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-phasing-out-of-microsofts-windows-xp-7-and-81-lifeline/"><u>The Phasing Out of Microsoft's Windows XP, 7 & 8.1 Lifeline</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-drivers-acquired-for-missing-hardware/"><u>Win Drivers Acquired For Missing Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-reviews-best-screen-recorder-software-for-google-meet/"><u>[New] In 2024, Expert Reviews Best Screen Recorder Software for Google Meet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-beyond-playfulness-a-closer-look-at-snapchats-emojis/"><u>[Updated] In 2024, Beyond Playfulness A Closer Look at Snapchat's Emojis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-sites-visibility-with-optimized-menu-functionality-and-direct-linkedin-facebook-youtube-connectivity/"><u>Boost Your Site's Visibility with Optimized Menu Functionality and Direct LinkedIn, Facebook, YouTube Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-navigating-sharepoint-files-using-copernic-software/"><u>Comprehensive Guide: Navigating SharePoint Files Using Copernic Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-handling-sporadic-misidentified-results-by-copernic/"><u>Effective Strategies for Handling Sporadic Misidentified Results by Copernic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-alienware-aurora-r7-high-performance-at-the-cost/"><u>Expert Analysis of Alienware Aurora R7: High Performance at the Cost</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-mini-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-features-and-enhancements-in-the-latest-version-of-copernic-desktop-search/"><u>New Features & Enhancements in the Latest Version of Copernic Desktop Search</u></a></li>
 </ul></div>
 

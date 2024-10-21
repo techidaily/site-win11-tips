@@ -1,7 +1,7 @@
 ---
 title: Overcoming Pre-Use Disk Format Needed Issue in Windows
-date: 2024-10-13T16:10:10.849Z
-updated: 2024-10-14T17:33:10.460Z
+date: 2024-10-14T02:08:40.604Z
+updated: 2024-10-20T23:49:43.343Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the USB Drive
 
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Perform a Complete Shutdown
 
@@ -60,28 +74,15 @@ Repeat the following steps:
 4. It will take longer than usual for your system to shut down. Power it on again and open File Explorer.
 5. Click on the USB disk and check if you are able to access the files on it.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Do a Clean Boot
 
  Third-party applications and services can interfere with system apps and impede their normal functioning. So,[perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) of your system. It will disable all the third-party services and programs from running at startup. If you are able to access the disk now, repeat the clean boot process while enabling third-party services one by one to isolate the culprit program.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Change the USB Drive Letter Using Disk Management
@@ -101,13 +102,6 @@ Repeat the following steps:
 
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Run an SFC and DISM Scan
 
  If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
@@ -126,10 +120,16 @@ Repeat the following steps:
 5. Click on the USB disk name in the navigation pane to open it. Now, you can copy these files to another location on your hard drive or an external hard disk.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
@@ -141,10 +141,10 @@ Repeat the following steps:
  As such, check out[how to fix format disk errors on Windows without formatting your drive](<http://How> to Fix Format Disk Errors Without Formatting Your Hard Drive on Windows) for more tips.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 9\. Reset Windows
@@ -174,20 +174,16 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-best-of-breed-capture-card-for-switch/"><u>[New] In 2024, Best of Breed Capture Card for Switch</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-3-step-guide-to-exceptional-gopro-videos/"><u>[New] The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-snap-a-different-shot-11-best-instagram-tools/"><u>[Updated] 2024 Approved Snap A Different Shot - 11 Best Instagram Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellent-collection-advanced-webcam-supports/"><u>[Updated] Excellent Collection Advanced Webcam Supports</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-streamline-your-zoom-meetings-screen-sharing-essentials-for-2024/"><u>[Updated] Streamline Your Zoom Meetings Screen Sharing Essentials for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/m2tff3/"><u>最適な無料ツールでM2TFFファイルの変換方法:上位3つ紹介</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-beginners-guide-to-using-windows-canary/"><u>A Step-by-Step Beginner’s Guide to Using Windows' Canary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-boot-up-with-these-3-ways-in-windows-11/"><u>Accelerate Your PC's Boot-Up with These 3 Ways in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-mic-during-screencast-with-powerpoint/"><u>Addressing Missing Mic During Screencast with PowerPoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-integration-microsofts-new-taskbar-helper-in-windows-11-streamlines-tasks/"><u>AI Integration: Microsoft's New Taskbar Helper in Windows 11 Streamlines Tasks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/illuminate-the-gameplay-eradicating-the-darkness-of-fortnites-pc-blackout-problem/"><u>Illuminate the Gameplay: Eradicating the Darkness of Fortnite's PC Blackout Problem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/monetary-aspects-of-shopping-reviews-vlogs-in-2024/"><u>Monetary Aspects of Shopping Reviews Vlogs, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/securing-spotlight-uploading-imovie-to-vimeo-successfully/"><u>Securing Spotlight Uploading iMovie to Vimeo Successfully</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-dominate-your-niche-on-fb-with-these-10-keyword-strategies/"><u>[New] Dominate Your Niche on FB with These 10 Keyword Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sims-4-documentation-cutting-edge-methods-to-preserve-gaming-experiences/"><u>[Updated] Sims 4 Documentation Cutting-Edge Methods to Preserve Gaming Experiences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-play-your-srt-files-easily-winmac-tips/"><u>2024 Approved Play Your SRT Files Easily Win/Mac Tips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-wifi-identification-faults-in-microsofts-new-os/"><u>Mending Wifi Identification Faults in Microsoft's New OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-amd-195-installer-errors-in-windows-systems/"><u>Solving AMD 195 Installer Errors in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracing-backdrop-images-location-in-win11-os/"><u>Tracing Backdrop Image's Location in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-malwarebytes-service-disconnect-issue-in-windows-11/"><u>Troubleshooting Malwarebytes Service Disconnect Issue in Windows 11</u></a></li>
 </ul></div>
 

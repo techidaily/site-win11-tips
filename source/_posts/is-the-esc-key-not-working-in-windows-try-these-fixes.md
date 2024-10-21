@@ -1,7 +1,7 @@
 ---
 title: Is the Esc Key Not Working in Windows? Try These Fixes
-date: 2024-10-09T02:38:13.347Z
-updated: 2024-10-14T22:30:00.892Z
+date: 2024-10-16T22:24:18.176Z
+updated: 2024-10-20T22:46:21.665Z
 tags:
   - windows10
   - windows11
@@ -44,17 +44,10 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
@@ -77,10 +70,10 @@ To run the keyboard troubleshooter on Windows:
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
@@ -96,16 +89,22 @@ To run the keyboard troubleshooter on Windows:
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Run SFC and DISM Scans
 
  Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Update or Reinstall Keyboard Drivers
 
@@ -122,10 +121,10 @@ To run the keyboard troubleshooter on Windows:
  Once removed, restart your PC and allow Windows to automatically reinstall the missing driver during boot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Install Windows Updates
@@ -133,13 +132,6 @@ To run the keyboard troubleshooter on Windows:
  Aside from updating the keyboard drivers, you should also check your system for pending Windows updates. To do so, press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button to download and install pending updates.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Check for Malware
 
@@ -167,6 +159,26 @@ To perform a system restore on Windows, use these steps:
 6. Click**Finish** to continue.  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Start Using the Esc Key Again on Windows
 
  Depending on your situation, fixing the Esc key can be as easy as cleaning it or as demanding as restoring your PC to its previous state. However, if none of the above fixes work, it’s likely that the Esc key on your keyboard is damaged and requires repair.
@@ -186,16 +198,18 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>[New] In 2024, From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-strategies-downloading-audio-on-iphones-for-2024/"><u>[New] Step-by-Step Strategies Downloading Audio on iPhones for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>[Updated] Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-a-course-youtubes-best-brands/"><u>[Updated] In 2024, Charting a Course YouTube's Best Brands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-clearer-journey-the-art-of-annotating-folders-on-windows-11/"><u>A Clearer Journey: The Art of Annotating Folders on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-line-for-quake-via-windows-terminal/"><u>Command Line for Quake via Windows Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-g24-power-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola G24 Power to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-extracting-device-ids-in-windows/"><u>Unleashing the Power: Extracting Device IDs in Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-outstanding-non-zoom-video-conferencing-tech-for-2024/"><u>[Updated] Outstanding Non-Zoom Video Conferencing Tech for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>2024 Approved 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/through-strategies-for-peak-video-viewership-times/"><u>Breakthrough Strategies for Peak Video Viewership Times</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-novice-to-pro-how-to-optimize-your-onestream-livestream-for-2024/"><u>From Novice to Pro How to Optimize Your OneStream Livestream for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-social-media-comparing-igtv-and-youtube-features/"><u>In 2024, Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-the-new-ciso-at-abbyy-introducing-paul-nizov-to-our-leadership-team/"><u>Meet the New CISO at ABBYY: Introducing Paul Nizov to Our Leadership Team</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-windows-11-defense-adding-customizable-filter-options-to-context-menu/"><u>Perfecting Windows 11 Defense: Adding Customizable Filter Options to Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-for-determining-your-devices-identification-through-windows/"><u>Proven Methods for Determining Your Devices’ Identification Through Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-changes-in-windows-time-settings/"><u>Techniques to Prevent Changes in Windows Time Settings</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nord-ce-3-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nord CE 3 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-read-only-recovery-on-windows-11-folders/"><u>Troubleshooting Read-Only Recovery on Windows 11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-share-issue-on-geforce-experience/"><u>Troubleshooting Share Issue on GeForce Experience</u></a></li>
 </ul></div>
 

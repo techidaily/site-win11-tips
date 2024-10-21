@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Efficiency: Tips for Lowering News & Interests App's Usage Load"
-date: 2024-10-10T05:15:24.685Z
-updated: 2024-10-14T20:27:44.088Z
+date: 2024-10-19T21:24:16.663Z
+updated: 2024-10-20T18:03:38.991Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ To install a Windows 11 update:
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Turn Off News and Interests on Windows 10
 
  If you don't use News and Interests, you can turn off the feature from the Taskbar on Windows 10\. To turn off News and Interests on Windows 10:
@@ -51,25 +58,18 @@ To install a Windows 11 update:
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
 
- That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
 ### Disable News and Interests on Windows 11
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
@@ -91,24 +91,24 @@ To install a Windows 11 update:
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -127,18 +127,19 @@ To disable the news feed feature using Windows Registry:
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
 2. Rename the new value as**EnableFeeds** .
 3. Double-click on the**EnableFeeds** value to edit it.  
 ![registry editor new key Windows new DWORd value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value-0.jpg)
 4. Type**0** in the**Value data** field and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Close the Registry Editor and restart your computer to apply the changes.
 
 ## 5\. Add and Disable EnableFeeds Using PowerShell
@@ -173,19 +174,24 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-screen-snatchers-handbook-by-zd-software-experts/"><u>[New] 2024 Approved The Ultimate Screen Snatcher’s Handbook by ZD Software Experts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-digital-expansion-social-story-downloader/"><u>[Updated] In 2024, Digital Expansion Social Story Downloader</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-security-accessories-for-webcams/"><u>[Updated] Top Security Accessories for Webcams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>2024 Approved A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-non-functional-sound-driver-in-windows-7/"><u>Fixing the Non-Functional Sound Driver in Windows 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-x9a-easily-by-drfone-android/"><u>How To Unlock a Honor X9a Easily?</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-mobile-gaming-performance-explore-two-fps-assessment-methods/"><u>Master Mobile Gaming Performance: Explore Two FPS Assessment Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-print-bridge-trouble-shooting-guide/"><u>Windows Print Bridge: Trouble Shooting Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>2024 Approved From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cleansing-local-disks-in-win11-preserving-your-files-max-156-chars/"><u>Cleansing Local Disks in Win11: Preserving Your Files (Max 156 Chars)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-in-formato-audio-libero-m4a-con-movavi/"><u>Converti File Video 3GP in Formato Audio Libero M4A Con Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-deskjet-ink-advantage-3050-printer-drivers-for-windows-free/"><u>Download and Update HP Deskjet Ink Advantage 3050 Printer Drivers for Windows: FREE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-crash-in-chrome-browser-on-pc/"><u>Fixing Awful Crash in Chrome Browser on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-inadvertent-windows-key-activation/"><u>How to Prevent Inadvertent Windows Key Activation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y78plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y78+ Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-reel-your-audience-in-with-top-mobile-video-editors-for-snaps/"><u>In 2024, Reel Your Audience in with Top Mobile Video Editors for Snaps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-zero-cost-film-aids-eco-edition/"><u>In 2024, Zero-Cost Film Aids Eco Edition</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/initializing-your-disk-image-essential-steps-and-tips/"><u>Initializing Your Disk Image: Essential Steps and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-troublesome-steam-big-picture-hurdles/"><u>Navigating Troublesome Steam Big Picture Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-task-manager-for-process-control-and-theme-personalization/"><u>Navigating Windows 11'S Task Manager for Process Control and Theme Personalization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-enhance-pointer-features-in-windows-11/"><u>Quick Fixes to Enhance Pointer Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-unresponsive-keys-in-windows-computer-setup/"><u>Repairing Unresponsive Keys in Windows Computer Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-experience-from-failing-windows-guide/"><u>Stop GeForce Experience From Failing: Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-windows-ambiance-installing-from-the-ms-store/"><u>Transitioning Windows Ambiance: Installing From The MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-power-to-change-file-formats/"><u>Unlocking Windows' Power to Change File Formats</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audio-flair-for-video-production-techniques-for-smooth-addition-of-effects-for-2024/"><u>Updated Audio Flair for Video Production Techniques for Smooth Addition of Effects for 2024</u></a></li>
 </ul></div>
 

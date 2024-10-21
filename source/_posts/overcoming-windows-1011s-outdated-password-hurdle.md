@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 10/11'S Outdated Password Hurdle
-date: 2024-10-13T12:44:56.482Z
-updated: 2024-10-15T08:56:21.689Z
+date: 2024-10-15T22:06:58.095Z
+updated: 2024-10-21T00:53:19.444Z
 tags:
   - windows10
   - windows11
@@ -38,25 +38,32 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Press Enter While the Password Field Is Blank
@@ -64,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -87,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
@@ -101,23 +107,6 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
  However, this error can be easily resolved. Here’s everything you need to know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/reating-convincing-news-final-buzzes/"><u>[New] Creating Convincing News Final Buzzes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-free-facebook-management-smart-post-scheduling-tips/"><u>[Updated] 2024 Approved Free Facebook Management Smart Post Scheduling Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-understanding-snapchats-emojis-more-than-just-fun/"><u>[Updated] Understanding Snapchat's Emojis More Than Just Fun</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-discrepancies-in-disk-based-discord-queries/"><u>Addressing Discrepancies in Disk-Based Discord Queries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-docx-to-pdf-conversion-on-modern-windows/"><u>Advanced Tips for Docx-to-PDF Conversion on Modern Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assisting-with-utorrent-download-stalls-in-microsoft-environments/"><u>Assisting with uTorrent Download Stalls in Microsoft Environments</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aussteigende-verabschiedungssprunge-im-deutschen/"><u>Aussteigende Verabschiedungssprünge Im Deutschen</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/"><u>Banish Stutter and Freeze: Optimize Your Outriders Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blueprints-for-crafting-safe-dialog-box-for-hardware-disconnect/"><u>Blueprints for Crafting Safe Dialog Box for Hardware Disconnect</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-gt-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 GT by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/"><u>Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +114,24 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-comparing-youtube-policies-with-creative-commons/"><u>[New] Comparing YouTube Policies with Creative Commons</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-tailoring-sound-fades-within-logic-pro-settings/"><u>[Updated] 2024 Approved Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-maximize-your-visuals-on-zoom-the-definitive-guide-for-2024/"><u>[Updated] Maximize Your Visuals on Zoom – The Definitive Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-exploration-by-tom-top-picks-and-advice/"><u>Advanced Hardware Exploration by Tom - Top Picks and Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-10-sound-glitches-with-these-easy-5-steps/"><u>Fix Windows 10 Sound Glitches with These Easy 5 Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-remove-login-email-in-windows/"><u>Mastering Privacy: Remove Login Email in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-youtubes-sound-enhancement-techniques-for-2024/"><u>Mastering YouTube's Sound Enhancement Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-key-discrepancies-an-essential-guide-to-troubleshooting-on-windows-11/"><u>Navigating Key Discrepancies: An Essential Guide to Troubleshooting on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-shaky-footage-no-problem-fcpx-video-stabilization-tips/"><u>New In 2024, Shaky Footage? No Problem! FCPX Video Stabilization Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-robloxs-code-403-issue-on-pc/"><u>Overcoming Roblox's Code 403 Issue on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-designing-and-sharing-your-own-customized-sticker-packs-on-telegram/"><u>Step-by-Step Guide: Designing and Sharing Your Own Customized Sticker Packs on Telegram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-execution-optimizing-android-studio-on-windows/"><u>Swift Execution: Optimizing Android Studio on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-temperature-spikes-during-high-performance-gaming/"><u>Taming Temperature Spikes During High-Performance Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-prevent-activation-of-windows-mobility-center-win-11/"><u>Tips: Prevent Activation of Windows Mobility Center (Win 11)</u></a></li>
+</ul></div>
+

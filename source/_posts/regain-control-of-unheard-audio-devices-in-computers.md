@@ -1,7 +1,7 @@
 ---
 title: Regain Control of Unheard Audio Devices in Computers
-date: 2024-10-09T17:34:59.790Z
-updated: 2024-10-14T16:04:51.776Z
+date: 2024-10-16T23:04:17.759Z
+updated: 2024-10-21T03:49:16.958Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -49,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
@@ -64,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
  With desktop PCs equipped with sound cards that are not integrated with the motherboard, you should also check if this device is correctly seated. This will mean opening the case and identifying the sound card, usually found in one of the PCI or PCI-e slots.
 
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check[how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 Audio should now play on your HDMI TV.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -98,13 +105,6 @@ Audio should now play on your HDMI TV.
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
@@ -133,10 +133,10 @@ Audio should now play on your HDMI TV.
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Check for Corruption of Windows System Files
@@ -148,16 +148,16 @@ Audio should now play on your HDMI TV.
 
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Disable Audio Enhancements
 
@@ -170,20 +170,14 @@ Audio should now play on your HDMI TV.
 
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
- This will turn off all enhancements that could be the cause of your speakers not working.
-
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This will turn off all enhancements that could be the cause of your speakers not working.
 
 ## 11\. Your Computer Speakers Just Aren't Working
 
@@ -212,16 +206,19 @@ Audio should now play on your HDMI TV.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[New] In 2024, Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-insta-story-magic-embedding-youtube-links-like-a-pro-for-2024/"><u>[Updated] Insta Story Magic Embedding YouTube Links Like a Pro for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>[Updated] The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-your-windows-11-activation-status/"><u>Assessing Your Windows 11 Activation Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-trick-swiftly-access-sticky-notes-post-boot-windows/"><u>Beginner's Trick: Swiftly Access Sticky Notes Post-Boot Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/image-innovation-unveiling-secrets-of-photo-enhancement-for-2024/"><u>Image Innovation Unveiling Secrets of Photo Enhancement for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hear-the-vibe-no-cost-online-tempo-trackers/"><u>In 2024, Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/photograph-entire-screen-area/"><u>Photograph Entire Screen Area</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258042287-reclaiming-chrome-in-w11-easy-to-follow-remediation-tips/"><u>Reclaiming Chrome in W11 - Easy-to-Follow Remediation Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[New] In 2024, Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taking-it-upward-panning-high-with-your-phone/"><u>[New] Taking It Upward Panning High with Your Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[Updated] 2024 Approved Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-windows-resolving-black-screen-issues/"><u>Boot Windows: Resolving Black Screen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-life-to-silent-non-responsive-slack-alerts/"><u>Bring Back Life to Silent, Non-Responsive Slack Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-bluetooth-connection-required-on-windows-1011/"><u>Bypassing Bluetooth 'Connection Required' On Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-blackout-fixes-for-hiberwipe-errors/"><u>Bypassing the Blackout: Fixes for HiberWipe Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-high-contrast-display-mode-on-pc/"><u>Ceasing High Contrast Display Mode on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/christmas-trusted-windows-app-gifting-via-ms-store/"><u>Christmas: Trusted Windows App Gifting via MS Store</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-sims-4-blackout-problems/"><u>Eradicate Sims 4 Blackout Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a34-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy A34 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-wallets-in-2nnd-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Nnd, Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

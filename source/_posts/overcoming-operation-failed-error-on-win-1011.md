@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Operation Failed' Error on Win 10/11
-date: 2024-10-13T06:03:24.092Z
-updated: 2024-10-14T17:59:58.787Z
+date: 2024-10-18T16:05:21.580Z
+updated: 2024-10-20T19:15:15.555Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
@@ -81,22 +81,17 @@ To check and install Windows updates:
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -106,6 +101,13 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -131,20 +133,13 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -164,19 +159,19 @@ To uninstall Windows updates:
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -198,24 +193,17 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-to-mov-file-recordings-on-windows-10/"><u>[New] 2024 Approved Cutting-Edge Approaches to MOV File Recordings on Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-prodigy-marketer-101-unveiling-reddits-core-success-principles/"><u>2024 Approved Prodigy Marketer 101 Unveiling Reddit’s Core Success Principles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-annoyance-of-a-never-ending-update-loop/"><u>Avoid the Annoyance of a Never-Ending Update Loop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensively-tackle-the-icloud-install-issue-on-windows/"><u>Comprehensively Tackle the iCloud Install Issue on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1x 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-f54-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy F54 5G without App | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-p55-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel P55 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12t-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12T ProFRP Lock</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/key-concepts-of-interactive-storytelling-for-2024/"><u>Key Concepts of Interactive Storytelling for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modern-standby-uncovering-its-defects-and-criticisms/"><u>Modern Standby: Uncovering Its Defects and Criticisms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-hidden-dangers-on-a-computer-screen/"><u>Navigating Hidden Dangers on a Computer Screen</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-video-to-live-photos-apps-plushowtos/"><u>New In 2024, Best Video to Live Photos Apps +Howtos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-jocular-visuals-with-giphy-in-mind-for-2024/"><u>Paint Jocular Visuals with Giphy in Mind for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-cures-for-your-computers-messaging-woes/"><u>Quick & Easy Cures for Your Computer's Messaging Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-the-most-impactful-settings-to-modify/"><u>Revolutionize Your Windows 11: The Most Impactful Settings to Modify</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-engaging-windows-11s-calculator/"><u>The Essential Guide to Engaging Windows 11'S Calculator</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-mechanism-disabling-dim-display-option/"><u>Unveiling the Mechanism: Disabling 'Dim Display' Option</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-newbies-guide-to-easier-access/"><u>Windows Newbies' Guide to Easier Access</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-foremost-5-online-video-editors-for-2024/"><u>[New] Foremost 5 Online Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-invigorating-cold-season-selecting-warm-video-themes/"><u>2024 Approved Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-on-the-go-motion-dampener-for-videography/"><u>2024 Approved On-the-Go Motion Dampener for Videography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-legitimacy-of-security-email-at-facebookmailcom-for-fb/"><u>Assessing Legitimacy of Security Email at facebookmail.com for FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-adjustment-for-videos-and-graphics/"><u>In 2024, Seamless Adjustment for Videos and Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-windows-email-and-scheduling-with-top-pics/"><u>Personalize Window's Email & Scheduling with Top Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-disabled-windows-account-access/"><u>Restoring Disabled Windows Account Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-a-step-by-step-windows-11-reboot-guide/"><u>Reviving Your PC: A Step-by-Step Windows 11 Reboot Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-deploy-powertoys-in-win11-environments/"><u>Securely Deploy PowerToys in Win11 Environments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-potential-via-shortcut-combinations/"><u>Unveiling Windows' Hidden Potential via Shortcut Combinations</u></a></li>
 </ul></div>
 

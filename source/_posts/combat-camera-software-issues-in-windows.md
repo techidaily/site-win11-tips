@@ -1,7 +1,7 @@
 ---
 title: Combat Camera Software Issues in Windows
-date: 2024-10-07T18:19:12.558Z
-updated: 2024-10-14T23:54:42.331Z
+date: 2024-10-17T01:32:54.615Z
+updated: 2024-10-20T21:46:40.791Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Camera Roll Folder
@@ -64,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
@@ -100,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
 
@@ -121,29 +121,23 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Webcam’s Driver
 
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
 
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Windows Camera
 
@@ -163,6 +157,14 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 `Remove-AppxPackage PackageFullName`  
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remove-apppackage-command.jpg)
 4. Exit PowerShell and open this [Windows Camera page](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) on the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Get in Store app** and **Open in Microsoft Store** app to access an installation option.  
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
@@ -177,23 +179,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-social-media-match-up-youtube-shorts-or-tiktok/"><u>[New] 2024 Approved Social Media Match-Up Youtube Shorts or TikTok?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-artistic-transformation-tool-for-photos-pcs-and-macs-alike/"><u>[New] Artistic Transformation Tool for Photos, PCs & Macs Alike</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-cinematic-cadence-top-cameras-for-elegant-slow-movement-for-2024/"><u>[New] Cinematic Cadence Top Cameras for Elegant Slow Movement for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[New] In 2024, Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-solutions-for-streamlining-windows-display-issues/"><u>5 Solutions for Streamlining Windows Display Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-handy-windows-10-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 10 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-strategy-to-reactivate-winget-on-w11/"><u>A Step-by-Step Strategy to Reactivate Winget on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-with-file-history-backup-on-windows/"><u>Addressing Error with File History Backup on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-alone-in-windows-10/"><u>Cursor Alone in Windows 10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-the-connection-effective-methods-to-rectify-a-non-functional-usb-port-on-an-hp-laptop/"><u>Revive the Connection: Effective Methods to Rectify a Non-Functional USB Port on an HP Laptop</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,3 +186,22 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>[New] DIY iPhone Photography Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-complete-guide-to-capturing-ps4-games-via-obs/"><u>[Updated] 2024 Approved Complete Guide to Capturing PS4 Games via OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-best-days-for-highest-audience-retention/"><u>[Updated] Analyzing Best Days for Highest Audience Retention</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-no-cost-webcams-for-seamless-chats/"><u>[Updated] In 2024, Essential No-Cost Webcams for Seamless Chats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] In 2024, How to Record and Save Streaming Audio with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-live-photos-into-time-lapse-videos/"><u>[Updated] Transforming Live Photos Into Time-Lapse Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/achieve-professional-results-optimize-and-upgrade-your-videos-using-winxvideo-ai/"><u>Achieve Professional Results: Optimize and Upgrade Your Videos Using Winxvideo AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desk-dilemmas-taming-the-pink-and-purple-on-your-screen/"><u>Desk Dilemmas: Taming the Pink & Purple on Your Screen</u></a></li>
+<li><a href="https://win-tips.techidaily.com/easy-guide-downloading-youtube-video-content-for-later-playback/"><u>Easy Guide: Downloading YouTube Video Content for Later Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-and-styling-terminal-image/"><u>Selecting and Styling Terminal Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergizing-macos-and-windows-software/"><u>Synergizing macOS and Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-aesthetic-enhancement-implementing-themes-from-the-microsoft-store/"><u>The Art of Aesthetic Enhancement: Implementing Themes From the Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-seven-pocket-friendly-tools-to-increase-windows-volume/"><u>Top Seven Pocket-Friendly Tools to Increase Windows Volume</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/transformer-des-fichiers-audio-3gp-en-formats-wav-sans-frais-methode-facile-et-gratuit-de-la-plateforme-enligne/"><u>Transformer Des Fichiers Audio 3GP en Formats WAV Sans Frais - Méthode Facile Et Gratuit De La Plateforme Enligne</u></a></li>
+</ul></div>
+

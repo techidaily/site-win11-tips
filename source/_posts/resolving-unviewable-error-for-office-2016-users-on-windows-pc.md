@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Unviewable' Error for Office 2016 Users on Windows PC
-date: 2024-10-09T11:49:14.067Z
-updated: 2024-10-14T17:53:58.994Z
+date: 2024-10-14T00:08:49.356Z
+updated: 2024-10-20T16:38:59.568Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Preview Handler in PowerToys
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
@@ -79,7 +85,21 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 4. Under the**User Interface Settings** section, select**Optimize for compatibility** option.  
 ![Optimize Outlook for Compatibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/optimize-outlook-for-compatibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart the Outlook app after this and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clear Outlook Cache
 
@@ -92,6 +112,13 @@ To delete Outlook cache data on Windows, use these steps:
 3. Type**%localappdata%\\Microsoft\\Outlook** in the text box and press**Enter** .
 4. In the**RoamCache** folder that appears, select all the files and click the**trash icon** at the top to delete them.  
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Enable Windows Firewall
 
@@ -107,17 +134,10 @@ To delete Outlook cache data on Windows, use these steps:
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
@@ -144,13 +164,6 @@ To delete Outlook cache data on Windows, use these steps:
 10. Exit the Registry Editor window and restart your PC.  
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Run the Microsoft Office Repair Tool
 
  Microsoft Office includes a repair tool for fixing Office apps on Windows. So, if nothing works, you can run this tool to repair the Outlook app. Here's how:
@@ -162,13 +175,6 @@ To delete Outlook cache data on Windows, use these steps:
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Preview Your Outlook Attachments Again on Windows
 
@@ -191,18 +197,16 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-live-demos-to-replays-tapping-into-aiseesoft-screencast-potential/"><u>[New] From Live Demos to Replays Tapping Into Aiseesoft Screencast Potential</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-5-high-quality-low-speed-video-gear/"><u>[Updated] In 2024, Top 5 High-Quality Low-Speed Video Gear</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-simplifying-snapchat-recording-for-smooth-experience/"><u>[Updated] Simplifying Snapchat Recording for Smooth Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-utorrent-stalled-peer-connections-on-win/"><u>Addressing uTorrent Stalled Peer Connections on Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-up-microsoft-store-restrictions-on-windows-11/"><u>Easing Up Microsoft Store Restrictions on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>In 2024, From Basic to Bold Invest in Excellent Cam Add-Ons</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-10-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-pioneering-strategies-to-escalate-your-channels-popularity/"><u>In 2024, Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-independent-windows-enhancement/"><u>In-Depth Guide to Independent Windows Enhancement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-user-authentication-windows-11-domains/"><u>Optimizing User Authentication: Windows 11, Domains</u></a></li>
-<li><a href="https://extra-information.techidaily.com/over-20-unique-collages-for-brightening-spaces/"><u>Over 20 Unique Collages for Brightening Spaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/visual-narratives-instagram-carousel/"><u>Visual Narratives Instagram Carousel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-complete-thumbnail-playbook-from-creation-to-analysis/"><u>[New] The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] In 2024, Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-master-the-art-of-sound-alteration-on-sony-games/"><u>In 2024, Master the Art of Sound Alteration on Sony Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-file-management-folder-facelift/"><u>Mastering Windows 11 File Management: Folder Facelift</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-aspect-ratio-on-windows-monitors/"><u>Modify Aspect Ratio on Windows Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revoking-read-only-restriction-on-windows-documents/"><u>Revoking Read-Only Restriction on Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-self-scrolling-in-windows-tips-included/"><u>Stop Self-Scrolling in Windows, Tips Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-mapi-library-issues-how-to-repair-mapi32dll-not-found-errors-easily/"><u>Tackling MAPI Library Issues - How to Repair Mapi32.dll Not Found Errors Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-11-update-error-0x800f0922-heres-how-to-fix-it/"><u>What Is the Windows 11 Update Error 0X800f0922? Here's How to Fix It</u></a></li>
 </ul></div>
 

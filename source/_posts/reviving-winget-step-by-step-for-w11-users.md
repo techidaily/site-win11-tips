@@ -1,7 +1,7 @@
 ---
 title: "Reviving Winget: Step-by-Step for W11 Users"
-date: 2024-10-07T17:56:20.061Z
-updated: 2024-10-14T17:42:46.074Z
+date: 2024-10-13T17:28:32.788Z
+updated: 2024-10-20T20:59:05.698Z
 tags:
   - windows10
   - windows11
@@ -36,31 +36,24 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close and Reopen Winget in the Terminal App
 
  Before moving on to advanced fixes, completely close the Command Prompt or PowerShell instance you are running on the PC. You can use the Task Manager to stop an unresponsive instance of either of these command-line tools.
 
  After that, open Command Prompt or PowerShell with administrator privileges on your system. Type Winget and press the **Enter** key to check if Winget works now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check if the Winget Servers Are Down
 
  Winget is an online tool that needs a robust internet connection to search for a package in various repositories and then download and install them. If the Winget servers are down or inactive, it won’t be able to fetch results from repositories. So, check if Winget servers are down using [DownDetector](https://redirect.viglink.com/?format=go&jsonp=vglnk%5F168667664973511&key=eac202ea7a96cf485281d6c4ffa2069e&libId=liuggg0i0103es17000ULlmtlntd&loc=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-fix-0x8004def5-onedrive-error-code-windows-11%2F&ccpaConsent=1---&v=1&opt=true&optExText=false&out=https%3A%2F%2Fdowndetector.com%2F&ref=https%3A%2F%2Fwww.makeuseof.com%2Fauthor%2Fabhishekkumar-mishra%2F&title=9%20Ways%20to%20Fix%20the%200x8004def5%20OneDrive%20Error%20Code%20on%20Windows%2011&txt=DownDetector) or a similar website.
 
  You can also check if your Windows PC can connect to the internet. Simply open a web browser and access a website or run a web-based app to confirm internet connectivity. If the servers are down, you will have to wait until they come up live again to use Winget.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Perform a Complete System Shutdown
 
@@ -71,20 +64,14 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update App Installer
 
@@ -105,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -115,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
 5. Open the Terminal app and check if Winget works or not.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -140,10 +121,17 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
@@ -158,22 +146,6 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  But some users report that Winget is not working on their PC. They face a "The system cannot execute the specified program" and cannot run any commands, This post will discuss multiple methods to resolve the issue and restore Winget to its working state. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>[New] Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-faster-vimeo-viewing-experiences/"><u>[Updated] Faster Vimeo Viewing Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-windows-services-tool-when-it-wont-open-or-respond/"><u>7 Ways to Fix the Windows Services Tool When It Won't Open or Respond</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-decade-of-digital-harmony-mondly/"><u>A Decade of Digital Harmony - Mondly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/building-bridges-pathways-for-graphic-design-aspirants-for-2024/"><u>Building Bridges Pathways for Graphic Design Aspirants for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-resolving-pc-game-crashes-in-the-world-of-dauntless/"><u>Expert Advice: Resolving PC Game Crashes in the World of Dauntless</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-11-pro-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 11 Pro Password? – Here are the Best Solutions | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-vocal-expressions-to-written-words-with-windows-whisper/"><u>From Vocal Expressions to Written Words with Windows Whisper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-event-viewer-issues-on-windows-11/"><u>Solving Event Viewer Issues on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synchronizing-sound-pathways-resolving-paudio-in-winaudacity/"><u>Synchronizing Sound Pathways: Resolving PAudio in WINAudacity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-ai-and-the-turing-test-is-total-deception-achievable/"><u>The Future of AI and the Turing Test: Is Total Deception Achievable?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -181,3 +153,22 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-therapeutic-effects-of-asmr-for-everyone/"><u>[New] The Therapeutic Effects of ASMR for Everyone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>[Updated] Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-iphone-gps-apps-according-to-us/"><u>Discover the Best iPhone GPS Apps According to Us</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-sound-card-software-for-free-simplified-steps/"><u>Download HP Sound Card Software for FREE – Simplified Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-is-operational-3-strategies/"><u>Ensuring Windows 11 Is Operational: 3 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-the-sid-of-any-user-in-windows-11/"><u>How to Find the SID of Any User in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Quick Steps to Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-preview-hurdles-in-windows-version-of-office-mail/"><u>Removing Preview Hurdles in Windows Version of Office Mail</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/retaining-snaps-effortlessly-with-androidmac-technology/"><u>Retaining Snaps Effortlessly with Android/Mac Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-typing-routine-with-9-quick-fixes-for-broken-windows-shortcuts/"><u>Revitalize Your Typing Routine with 9 Quick Fixes for Broken Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-workflow-with-additional-context-menu-commands/"><u>Streamlined Workflow with Additional Context Menu Commands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-atandt-mobile-network-a-guide-to-their-data-roaming-terms/"><u>Understanding AT&T Mobile Network: A Guide to Their Data Roaming Terms</u></a></li>
+</ul></div>
+

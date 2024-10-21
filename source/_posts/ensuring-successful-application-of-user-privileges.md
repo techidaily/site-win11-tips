@@ -1,7 +1,7 @@
 ---
 title: Ensuring Successful Application of User Privileges
-date: 2024-10-11T02:09:44.579Z
-updated: 2024-10-15T09:26:59.863Z
+date: 2024-10-17T18:55:28.425Z
+updated: 2024-10-20T22:14:57.156Z
 tags:
   - windows10
   - windows11
@@ -36,34 +36,13 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check User Account Control Settings
 
@@ -94,16 +73,24 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 4. In the right pane, you'll see a list of different security options. Scroll to the bottom and double-click on the **User Account Control: Run all administrators in Admin Approval Mode** policy.  
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Clean up the Context Menu
@@ -123,7 +110,21 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes
 
@@ -141,26 +142,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-shortening-success-youtubes-leading-link-minimizers-compared/"><u>[New] 2024 Approved Shortening Success YouTube's Leading Link Minimizers Compared</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-enable-telnet-in-windows-10-and-11/"><u>3 Ways to Enable Telnet in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-troubleshooters-companion-for-winget-and-windows-11/"><u>A Troubleshooter's Companion for Winget and Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-office-tasks-with-windows-command-shortcuts/"><u>Accelerate Office Tasks with Windows Command Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-misaligned-windows-thx-listening-experience/"><u>Addressing Misaligned Windows THX Listening Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-responsive-sound-adjustment-settings/"><u>Addressing Non-Responsive Sound Adjustment Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-defender-in-windows-11-how-to-turn-it-off/"><u>Avoiding Defender in Windows 11: How to Turn It Off</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-file-management-efficiency-with-new-commands-for-win-11/"><u>Boosting File Management Efficiency with New Commands for Win 11</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oneplus-11-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus 11 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/educators-essential-video-recording-gadgets-top-10-picks-for-2024/"><u>Educator's Essential Video Recording Gadgets Top 10 Picks for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-it-when-your-wi-fi-network-is-not-showing-up/"><u>How to Fix It When Your Wi-Fi Network Is Not Showing Up</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-driver-setup-made-simple-get-your-system-up-to-date-now/"><u>HP Driver Setup Made Simple - Get Your System Up-to-Date Now!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-make-a-statement-with-free-profile-pics/"><u>In 2024, Make a Statement With Free Profile Pics</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-not-responding-error-in-rust-software-ultimate-troubleshooting-guide-for-developers/"><u>Overcome the 'Not Responding' Error in Rust Software: Ultimate Troubleshooting Guide for Developers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/speedy-video-editor-tool-combine-avi-videos-quickly-on-pcs-and-macbooks/"><u>Speedy Video Editor Tool: Combine AVI Videos Quickly on PCs & MacBooks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +149,23 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-chorus-chronicles-new-speaker-insights/"><u>[New] Chorus Chronicles New Speaker Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-boosting-videos-the-best-5-tech-aids-for-2024/"><u>[Updated] Boosting Videos The Best 5 Tech Aids for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[Updated] How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-professional-minecraft-graphics/"><u>[Updated] In 2024, Create Professional Minecraft Graphics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10plus-tools-to-record-your-pc-screen-seamlessly-for-2024/"><u>[Updated] Top 10+ Tools to Record Your PC Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>2024 Approved Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ausfuhrungsblockierung-durch-offene-dialogfelder-verstehen-des-problems-und-losungen-finden/"><u>Ausführungsblockierung Durch Offene Dialogfelder - Verstehen Des Problems Und Lösungen Finden</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-games-reimagined-utilizing-retroarchs-shaders-effectively/"><u>Classic Games Reimagined: Utilizing RetroArch's Shaders Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-visual-performance-the-ultimate-vram-boosters/"><u>Elevating Visual Performance: The Ultimate VRAM Boosters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/highlighting-key-features-windows-11-feb-update/"><u>Highlighting Key Features: Windows 11, FEB Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-razer-synapse-not-detecting-razer-devices-in-windows-10-and-11/"><u>How to Fix Razer Synapse Not Detecting Razer Devices in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-os-setup-a-guide-to-installing-win11-in-vmware-17/"><u>Optimizing OS Setup: A Guide to Installing Win11 in VMWare 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-app-restrictions-for-store/"><u>Overcoming Windows 11 App Restrictions for Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimative-schritt-fur-schritt-anleitung-zum-hochfahren-von-dell-geraten-uber-einen-usb-stick-im-uefi-betrieb/"><u>Ultimative Schritt-Für-Schritt-Anleitung Zum Hochfahren Von Dell-Geräten Über Einen USB-Stick Im UEFI-Betrieb</u></a></li>
+</ul></div>
+

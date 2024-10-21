@@ -1,7 +1,7 @@
 ---
 title: "Overcoming AutoLock: A Step by Step Guide"
-date: 2024-10-14T04:09:10.368Z
-updated: 2024-10-15T07:32:36.638Z
+date: 2024-10-19T22:38:36.108Z
+updated: 2024-10-20T22:16:10.425Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Windows From Automatically Locking Itself
@@ -60,14 +60,14 @@ Now that we know how to do it, let's dive into the steps.
 
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disabling Sleep Mode and Screen Saver
 
@@ -77,6 +77,13 @@ Now that we know how to do it, let's dive into the steps.
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
 
 * Hit the Windows key again, type “screen saver”, and click**Turn screen saver on or off** to open**Screen Saver Settings** .
@@ -85,23 +92,10 @@ Now that we know how to do it, let's dive into the steps.
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
@@ -141,18 +135,20 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-screencapture-guide-for-laptop-techies/"><u>[Updated] The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-file-management-with-seamless-multi-folder-crafting-on-windows-pcs/"><u>Accelerate File Management with Seamless Multi-Folder Crafting on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-directx-update-problems-in-windows-os/"><u>Addressing DirectX Update Problems in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-taskbar-icon-glitches-in-win-108/"><u>Addressing Taskbar Icon Glitches in Win 10/8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-tactics-for-superior-windows-navigation-eliminating-ls/"><u>Advanced Tactics for Superior Windows Navigation: Eliminating LS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/antivirus-alert-7-significant-windows-functions-under-scrutiny/"><u>Antivirus Alert: 7 Significant Windows Functions Under Scrutiny</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-system-management-via-cmd/"><u>Boost Your System Management via CMD</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-blackout-blues-heres-how-to-restore-your-gameplay/"><u>Call of Duty: Warzone Blackout Blues? Here's How to Restore Your Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/critical-icloud-complications-for-ios-gadgets-understanding-and-solving-them-effectively/"><u>Critical iCloud Complications for iOS Gadgets – Understanding and Solving Them Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-microphone-problems-in-the-steelseries-arctis-5-restoring-sound-what-to-do-when-your-steelseries-arctis-7-mic-fails-to-work/"><u>Expert Advice: Fixing Microphone Problems in the SteelSeries Arctis 5. Restoring Sound: What To Do When Your SteelSeries Arctis 7 Mic Fails to Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pursue-profits-and-purpose-through-software-error-discovery-at-openai/"><u>Pursue Profits and Purpose Through Software Error Discovery at OpenAI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-timeline-tools-at-no-cost/"><u>Ultimate Timeline Tools at No Cost</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>Unleash Creativity with Ease Mastering the Art of Photo Text Editing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-grabber-for-windows-10/"><u>[Updated] 2024 Approved Elite Screen Grabber for Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>2024 Approved Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compute-disk-space-efficiently-via-powershell-commands/"><u>Compute Disk Space Efficiently via PowerShell Commands</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/echoes-of-rebellion-celebrating-the-top-15-most-captivating-rock-songs-of-2-written-by/"><u>Echoes of Rebellion Celebrating the Top 15 Most Captivating Rock Songs of 2 Written By</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-access-your-guide-to-downloading-hp-stream-driver-software/"><u>Fast Track Access: Your Guide to Downloading HP Stream Driver Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disk-read-windows-error-immediately/"><u>Fixing 'Disk Read' Windows Error Immediately</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-coloring-composition-with-confidence/"><u>In 2024, A Guide to Coloring Composition with Confidence</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-x-plugin-problems-try-these-solutions-first/"><u>New 2024 Approved Final Cut Pro X Plugin Problems? Try These Solutions First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-playtime-configuring-amd-card-in-windows-games/"><u>Perfecting Playtime: Configuring AMD Card in Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-sync-path-for-android-plus-windows-duo/"><u>Step-by-Step Sync Path for Android + Windows Duo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-step-by-step-guide-to-unlinking-devices-from-your-google-home-system/"><u>The Ultimate Step-by-Step Guide to Unlinking Devices From Your Google Home System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-faulty-or-missing-device-alerts-win1011/"><u>Tips for Addressing Faulty or Missing Device Alerts, Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-network-potential-through-dns-on-windows-11/"><u>Unlocking Network Potential Through DNS on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1110-resolving-code-xc0000142-failure/"><u>Windows 11/10: Resolving Code XC0000142 Failure</u></a></li>
 </ul></div>
 

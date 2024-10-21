@@ -1,7 +1,7 @@
 ---
 title: "Guide: Ignoring Invalid Security Notices From Chrome Browser"
-date: 2024-10-12T16:00:07.187Z
-updated: 2024-10-15T16:00:01.766Z
+date: 2024-10-16T03:01:21.519Z
+updated: 2024-10-20T23:06:40.676Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 4. Press**Enter** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![scan results of a file being downloaded checked on the virus totals official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-results-of-a-file-being-downloaded-checked-on-the-virus-totals-official-website.jpg)
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  Apply the remaining fixes only if you are absolutely certain that the file you are downloading is safe.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Any Security Extensions
@@ -89,25 +83,18 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Opening Manage Settings Option under Virus and Threat Protection Settings in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-5-Opening-Manage-Settings-Option-under-Virus-and-Threat-Protection-Settings--in-Windows-Security-App.jpg)
 4. Under**Exclusions** , click**Add or remove exclusions** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click on**Add an exclusion** button and select**Folder** .  
 ![Adding an Exclusion for Downloads Folder in Windows Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-6-Adding-an-Exclusion-for-Downloads-Folder-in-Windows-Security-Settings.jpg)
 6. Browse to the**Downloads** folder or any other location you have set as a download location.
 
- By following the above steps, you will prevent Windows Defender from scanning the files in the Downloads folder, so if Windows Defender is causing the error even when the file you're downloading is safe, you won't encounter it again.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ By following the above steps, you will prevent Windows Defender from scanning the files in the Downloads folder, so if Windows Defender is causing the error even when the file you're downloading is safe, you won't encounter it again.
 
 ## 5\. Add the File to Windows Defender's Whitelist
 
@@ -118,16 +105,17 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 3. In the right-hand pane, click on**Protection history** .  
 ![Checking Protection History under Virus and Threat Protection in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-7-Checking-Protection-History-under-Virus-and-Threat-Protection-in-Windows-Security-App.jpg)
 4. Locate and expand the blocked app or file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the**Actions** dropdown menu and click**Allow** .
 
  This time, you should not encounter any errors when downloading the file. If the problem persists, tweak Chrome's security settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Microsoft Defender Firewall
 
@@ -136,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
  If you have never disabled the firewall before, refer to our guide on[how to disable the Microsoft Defender Firewall in Windows 11](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
  Don't forget to turn on Microsoft Defender after downloading the file, as it's the first line of defense against malware and threats your computer faces.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Tweak Chrome's Security Settings
 
@@ -154,6 +135,19 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Go to Security Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tweaking-chromes-security-settings-by-clicking-on-security-option-under-the-privacy-and-security-tab-in-chrome-settings.jpg)
 4. Check the circle for**No Protection (not recommended)** .  
 ![check the ircle for no protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checking-the-circle-for-no-protection-not-recommended-option-in-chromes-security-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You might be able to download files successfully by disabling Safe Browsing, but once you disable it, Chrome's built-in security won't protect you from malware and malicious downloads. Therefore, after downloading your files, be sure to turn Safe Browsing back on again.
 
@@ -167,20 +161,29 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
 3. Right-click on the**Policies** key, select**New > Key** and name it**"Attachments."**  
 ![Tweaking Windows Registry Editor by Renaming Newly Created Registry Key under Policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-11-Tweaking-Windows-Registry-Editor-by-Renaming-Newly-Created-Registry-Key-under-Policies.jpg)
 4. Right-click on**Attachments** and navigate to**New > DWORD (32-bit) Value** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Creating the DWORD (32-bit) String Value in the Attachments Key in Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-12-Creating-the-DWORD-(32-bit)-String-Value-in-the-Attachments-Key-in-Registry-Editor-App.jpg)
 5. Rename the newly created String Value to**ScanWithAntiVirus** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Double-click on**ScanWIthAntiVirus** and enter**"1"** under**Value data** .  
 ![Changing the Value Data by Double-clicking on Newly Renamed ScanWIthAntiVirus String Value in Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-13-Changing-the-Value-Data-by-Double-clicking-on-Newly-Renamed-ScanWIthAntiVirus-String-Value-in-Registry-Editor-App.jpg)
 7. Click**OK** .
 
  Because tweaking Registry Editor can be tricky and harmful, we recommend you ask an expert to perform this fix if you don't know how to edit Registry Editor manually.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Run a Malware Scan
 
@@ -207,22 +210,21 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-pixelpilot-w11-lightweight-screenshot-and-recording-app-for-2024/"><u>[Updated] PixelPilot W11 Lightweight Screenshot & Recording App for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-invisible-hand-decoding-instagrams-update-effects/"><u>2024 Approved The Invisible Hand Decoding Instagram’s Update Effects</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-13c-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 13C 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726219835337-amv-mp4-movavi/"><u>免費線上AMV MP4格式改造服務 - Movavi動畫媒體編譯器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-compreenasolutiontowindowss-lsass-problem-step-by-step-guide/"><u>A CompreenasolutiontoWindows's Lsass Problem: Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-anywhere-unveiling-gaming-data-in-windows/"><u>Access Anywhere: Unveiling Gaming Data in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719365401948-addressing-windows-printer-issues-a-guide-for-unresponsive-print-commands/"><u>Addressing Windows Printer Issues: A Guide for Unresponsive Print Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/an-overview-of-the-windows-canary-security-feature/"><u>An Overview of the Windows Canary Security Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automatic-restart-the-windows-10-and-11-power-down-protocol/"><u>Automatic Restart: The Windows 10 & 11 Power-Down Protocol</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-a-blank-desktop-win-11-icon-fixes/"><u>Avoid a Blank Desktop: Win 11 Icon Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bid-farewell-to-your-drives-segmentation-with-these-windows-methods/"><u>Bid Farewell to Your Drive's Segmentation with These Windows Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-digital-artistry-top-6-nft-makers-reviewed/"><u>In 2024, Harnessing Digital Artistry - Top 6 NFT Makers Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>In 2024, JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes-for-2024/"><u>Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-presentations-true-potential-mastering-prints-from-powerpoint-in-windows/"><u>Unlocking Your Presentation's True Potential: Mastering Prints From PowerPoint in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ease-non-filtered-youtube-video-trail-for-2024/"><u>[New] Cease Non-Filtered YouTube Video Trail for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-flight-a-complete-review-of-the-dji-inspire-2-drone/"><u>[Updated] Mastering Flight A Complete Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/age-specific-learning-styles-and-their-benefits-for-kids/"><u>Age-Specific Learning Styles and Their Benefits for Kids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-camera-software-issues-in-windows/"><u>Combat Camera Software Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-format-incompatibility-in-windows-vlc-problem/"><u>Fixing Format Incompatibility in Windows VLC Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-radio-recordings-a-practical-handbook-for-2024/"><u>Free Online Radio Recordings - A Practical Handbook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-winx-media-converter-for-hd-to-mp4-mp3-format-changes/"><u>Free WinX Media Converter for HD to MP4 MP3 Format Changes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mac-screen-alignment-rapid-video-format-changes/"><u>In 2024, Mac Screen Alignment Rapid Video Format Changes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-task-management-with-windows-app-notifications/"><u>Optimize Your Task Management with Windows App Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pare-down-files-embrace-condensed-explorer-settings/"><u>Pare Down Files: Embrace Condensed Explorer Settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus without backup.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-keeping-your-w11-cool/"><u>Tips & Tricks for Keeping Your W11 Cool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-creativity-mastering-direct-drawing-on-windows-11/"><u>Unleashing Creativity: Mastering Direct Drawing on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-complexities-of-windows-group-policies-in-3-steps/"><u>Unraveling Complexities of Windows Group Policies in 3 Steps</u></a></li>
 </ul></div>
 

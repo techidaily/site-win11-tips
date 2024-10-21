@@ -1,7 +1,7 @@
 ---
 title: Unpacking Internet Accessibility After OS Setup
-date: 2024-10-14T00:52:47.306Z
-updated: 2024-10-15T13:51:48.370Z
+date: 2024-10-19T18:43:18.370Z
+updated: 2024-10-20T23:16:25.055Z
 tags:
   - windows10
   - windows11
@@ -60,10 +60,16 @@ Let's talk about how you can use these to download a browser.
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download a Browser Using the Curl Command
@@ -81,15 +87,28 @@ Paste the link in quotation marks like so:
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -117,13 +136,6 @@ Next, run the following command:
 
 Once the process is complete, you can start using the new browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
  PowerShell is a command-line environment you can use to download files from the internet. This means you can also download browsers a browser's setup file using PowerShell and run the installation without using another browser.
@@ -143,10 +155,10 @@ Run the following command in PowerShell:
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
@@ -170,24 +182,18 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>[Updated] 2024 Approved Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-get-more-views-with-youtube-shorts/"><u>[Updated] How to Get More Views with YouTube Shorts</u></a></li>
-<li><a href="https://win11.techidaily.com/iuwlleeuuplusoajowtlplusw5leocqoocrplusocueodneodvoodiooajeobqplusobpuwtlplusw5leakvewhuus4jewprzrljplm6djgplop6poqqwi/"><u>動画「字幕エクスポート」にて字幕抽出不可:原因を解説</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-printmanagement-in-system-configuration/"><u>Addressing Absence of 'PrintManagement' In System Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-invisible-hardware-on-microsoft-oses/"><u>Addressing Invisible Hardware on Microsoft OSes</u></a></li>
-<li><a href="https://discover-help.techidaily.com/batch-script-methods-for-sql-server-data-recovery-from-backups/"><u>Batch Script Methods for SQL Server Data Recovery From Backups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-daily-efficiency-top-7-methods-chatgpt-offers-for-a-more-productive-work-life/"><u>Boosting Daily Efficiency: Top 7 Methods ChatGPT Offers for a More Productive Work Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-quick-fix-for-active-directory-domain-services-printer-errors/"><u>Comprehensible Guide: Quick Fix for Active Directory Domain Services Printer Errors</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-techniques-for-resetting-windows-11-login-credentials-without-compromise/"><u>Effective Techniques for Resetting Windows 11 Login Credentials Without Compromise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-recurring-edge-shortcuts-on-desktop/"><u>Eliminating Recurring Edge Shortcuts on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-the-unchanged-status-of-windows-screensaver/"><u>Ensuring the Unchanged Status of Windows Screensaver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-fixes-dealing-with-directdraw-glitches-in-win1011/"><u>Fast-Track Fixes: Dealing with DirectDraw Glitches in Win10/11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>In 2024, Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-leveraging-instagram-hashtags-to-amplify-social-media-impact/"><u>In 2024, Leveraging Instagram Hashtags to Amplify Social Media Impact</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tactical-approach-for-finalizing-a-dormant-linkedin-profile/"><u>In 2024, Tactical Approach for Finalizing a Dormant LinkedIn Profile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-office-error-0x80041015-in-ms-word-and-excel/"><u>Overcoming Office Error 0X80041015 in MS Word & Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotting-large-files-and-drives-in-windows-storage-soup/"><u>Spotting Large Files & Drives in Windows Storage Soup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-roundup-unleashing-the-best-5-online-title-makers-for-2024/"><u>The Ultimate Roundup Unleashing the Best 5 Online Title Makers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trailblazing-to-windows-birthplace-points/"><u>Trailblazing to Windows' Birthplace Points</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>[Updated] A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-trustworthiness-uncovering-truth-in-machine-learning-responses/"><u>Deciphering ChatGPT's Trustworthiness: Uncovering Truth in Machine Learning Responses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-access-windows-troubleshooting-with-hotkeys/"><u>Efficient Ways to Access Windows Troubleshooting with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x80246007-in-updater-for-windows-1011/"><u>Eliminating Error 0X80246007 in Updater for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-quick-uninstall-of-win11-printers/"><u>Expert Guide: Quick Uninstall of Win11 Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-and-update-directx-on-your-pc/"><u>How to Download and Update DirectX on Your PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-zte-nubia-flip-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on ZTE Nubia Flip 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-6-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 6 without Password?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-slideshow-creator-gratis-download-para-excelentes-presentaciones/"><u>Movavi Slideshow Creator - Grátis Download Para Excelentes Presentaciones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unwanted-snipping-tool-startup-with-print-screen-on-win-11-pcs/"><u>Stop Unwanted Snipping Tool Startup with Print Screen on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-way-to-manage-your-stickies-across-devices/"><u>The Easy Way to Manage Your Stickies Across Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vudu-disc-upload-transforming-physical-media-into-digital-movie-collections/"><u>Vudu Disc Upload: Transforming Physical Media Into Digital Movie Collections</u></a></li>
 </ul></div>
 

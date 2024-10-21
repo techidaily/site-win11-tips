@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Defender Error 0X80004004 Quickly
-date: 2024-10-10T16:00:01.781Z
-updated: 2024-10-15T16:00:01.418Z
+date: 2024-10-14T00:18:52.547Z
+updated: 2024-10-20T16:05:06.663Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
@@ -64,17 +64,17 @@ Here is how you can do that:
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -87,15 +87,22 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run the Windows Update Troubleshooter
 
@@ -108,13 +115,6 @@ Here is how you can do that:
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -141,20 +141,22 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-explore-10-youtube-creators-accelerating-their-popularity-for-2024/"><u>[New] Explore 10 YouTube Creators Accelerating Their Popularity for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-drone-racing-guide-and-5-top-fpv-uavs/"><u>[Updated] Comprehensive Drone Racing Guide & 5 Top FPV UAVs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>[Updated] In 2024, ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unraveling-tiktoks-symbolic-use-of-pfp/"><u>[Updated] Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-techniques-for-changing-your-instagram-sound/"><u>2024 Approved Expert Techniques for Changing Your Instagram Sound</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-unlocking-windows-11s-credential-vault/"><u>A Comprehensive Guide to Unlocking Windows 11’S Credential Vault</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activate-data-safety-with-controlled-folder-access-feature/"><u>Activate Data Safety with Controlled Folder Access Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-deceptive-virus-notifications-on-windows-chrome/"><u>Addressing Deceptive Virus Notifications on Windows Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-requires-ancient-login-details/"><u>Addressing Windows Requires Ancient Login Details</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-academic-achievement-winning-study-methods-on-a-windows-pc/"><u>Boost Academic Achievement: Winning Study Methods on a Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-windows-11-desktop-appeal-live-and-animated-backgrounds/"><u>Boost Your Windows 11 Desktop Appeal: Live and Animated Backgrounds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-x100-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo X100 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nubia-z50s-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nubia Z50S Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719255310971-jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-gadgets-discover-toms-hardware-experts/"><u>Unveiling the Latest in Gadgets - Discover Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-affordable-gear-guide-choosing-the-right-cam-for-you/"><u>[New] 2024 Approved Affordable Gear Guide Choosing the Right Cam For You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-examining-samsungs-digital-photography-enhancements/"><u>[New] 2024 Approved Examining Samsung's Digital Photography Enhancements</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transforming-photos-to-videos-the-leading-snapchat-edit-tools/"><u>[New] Transforming Photos to Videos The Leading Snapchat Edit Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-guide-to-delete-discord-server-from-mobile/"><u>[Updated] 2024 Approved Guide to Delete Discord Server From Mobile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-replace-missing-watch-playback-icons/"><u>2024 Approved Replace Missing Watch Playback Icons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>2024 Approved The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-windows-script-policy-4-key-fixes-for-powershell-load-issues/"><u>Elevating Windows Script Policy: 4 Key Fixes for PowerShell Load Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-a-defective-msvcr110dll-file-in-os/"><u>Fixing a Defective msvcr110.dll File in OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flac-wavflac/"><u>FLACへの無料オンライン変換: WAVファイル対FLACに - 動画翔衛</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-volume-mixer-in-windows-11/"><u>How to Open the Volume Mixer in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-index-preferences-on-pc/"><u>Optimizing Index Preferences on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-11s-most-troublesome-xbox-game-pass-error-0-issues/"><u>Overcome Windows 11’S Most Troublesome Xbox Game Pass Error 0 Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-screen-grabber-for-modern-win11-for-2024/"><u>Professional Screen Grabber for Modern Win11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-and-reinstalling-problematic-apps-on-windows/"><u>Removing and Reinstalling Problematic Apps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-deleted-items-essential-tricks-for-microsoft-os/"><u>Reviving Deleted Items: Essential Tricks for Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-new-parameters-for-login-failure-count-in-windows-11-and-11/"><u>Setting New Parameters for Login Failure Count in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-changing-default-browser-on-windows-11/"><u>Tips for Changing Default Browser on Windows 11</u></a></li>
 </ul></div>
 

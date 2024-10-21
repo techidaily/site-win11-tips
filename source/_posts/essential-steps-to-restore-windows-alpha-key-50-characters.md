@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Restore Windows Alpha Key (50 Characters)
-date: 2024-10-12T19:57:15.567Z
-updated: 2024-10-15T07:39:18.061Z
+date: 2024-10-19T00:49:02.446Z
+updated: 2024-10-20T19:35:31.433Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Turn On Mouse Keys
 
  If you need to use ALT codes on Windows but find that they are not working, you might want to enable Mouse Keys when NUM LOCK is ON. This is an easy fix for many ALT code problems.
@@ -60,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 4. Click the toggle to enable the**Mouse keys** .  
 ![Turn On the Mouse keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-on-the-mouse-keys.jpg)
 5. Check the box next to**Only use mouse keys when Num lock is on** .
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
 
@@ -86,13 +92,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Remove the Problematic Application
 
  If you have installed any third-party applications that might be causing problems with the ALT codes, then uninstalling them could also help fix this issue. To do this, follow these steps:
@@ -114,10 +113,16 @@ HKEY_CURRENT_USER\Control Panel\Input Method
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Troubleshoot With a Clean Boot
@@ -131,15 +136,23 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 4. The next step is to click on the**Services** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
@@ -163,19 +176,22 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>[New] 2024 Approved How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-facebook-best-practices-for-360-videos-for-2024/"><u>[Updated] Leveraging Facebook Best Practices for 360 Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[Updated] Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 14</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-the-ideal-placement-for-onedrive-on-windows-11/"><u>Crafting the Ideal Placement for OneDrive on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-out-the-webp-savings-in-google-chrome-for-windows/"><u>Cutting Out the WebP Savings in Google Chrome for Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-apex-legends-audio-issues-restore-game-sounds-today/"><u>Fix Apex Legends Audio Issues: Restore Game Sounds Today!</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c65-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C65 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodical-approach-fixing-nvidia-cp-error-in-ws1110/"><u>Methodical Approach: Fixing Nvidia CP Error in WS11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-dxgi-error-messages-windows-1011/"><u>Navigating Through DXGI Error Messages (Windows 10/11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-windows-updater-error-0xca00a009/"><u>Repairing Windows Updater Error #0xCA00A009</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-nintendo-switch-online-outages-how-to-tell-if-the-service-is-down-or-if-your-connection-fails/"><u>Troubleshooting Nintendo Switch Online Outages: How to Tell if the Service Is Down or If Your Connection Fails?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-choreographing-ideal-canon-time-lapse-shots/"><u>[New] Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-10-secret-tips-for-using-canva-photo-editor/"><u>2024 Approved 10 Secret Tips for Using Canva Photo Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-six-secrets-to-holding-your-viewers-attention/"><u>2024 Approved The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-steps-for-altering-windows-pin/"><u>Efficient Steps for Altering Windows PIN</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-12-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi 12 5G Device SIM</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-1password-top-tier-value-packed-secure-password-solution-techadvisor/"><u>In-Depth Analysis of 1Password - Top Tier, Value-Packed Secure Password Solution | TechAdvisor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-github-desktops-potential-on-windows-devices/"><u>Leveraging GitHub Desktop's Potential on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-basics-starting-microsoft-paint-in-windows-11/"><u>Mastering the Basics: Starting Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-brighten-up-dark-windows-display/"><u>Methods to Brighten Up Dark Windows Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invisible-displays-at-os-ignition/"><u>Overcoming Invisible Displays at OS Ignition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-windows-admin-centrally-managed-errors/"><u>Strategies to Overcome Windows' Admin-Centrally-Managed Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-repair-non-responsive-installation-of-ccleaner-on-win1011/"><u>Strategies to Repair Non-Responsive Installation of CCleaner on Win10/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-visual-quest-examining-the-power-of-lgs-digital-cinema-31mu97-b/"><u>The Visual Quest - Examining the Power of LG’s Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-narzo-60-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme Narzo 60 Pro 5G without backup.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-and-resolving-entry-not-found-error/"><u>Unveiling and Resolving 'Entry Not Found' Error</u></a></li>
 </ul></div>
 

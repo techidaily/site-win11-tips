@@ -1,7 +1,7 @@
 ---
 title: "Deciphers to Declutter: Implementing Insightful File Comments"
-date: 2024-10-07T18:37:41.861Z
-updated: 2024-10-14T23:13:48.929Z
+date: 2024-10-20T00:30:44.266Z
+updated: 2024-10-20T19:47:31.813Z
 tags:
   - windows10
   - windows11
@@ -48,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 3. Click **View** to access advanced Explorer settings.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Select **Apply** to save the new Explorer settings.
 2. Click the Folder Options window’s **OK** button.
@@ -67,21 +74,14 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 6. Choose a different icon for the folder and select **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Change Icon window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-window3.jpg)
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
 
@@ -92,6 +92,20 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 3. Select **Notepad** in the submenu.  
 ![The Open with submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-with-option.jpg)
 4. Enter **InfoTip=Add your comment here** in the line just beneath **\[.ShellClassInfo\]** within Notepad. You can change the **Add your comment here** text to whatever you want the comment for your folder to say.  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
 5. Click Notepad’s **File** menu.
 6. Select **Save** to set the new folder comment.  
@@ -103,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
 
 ## Add Useful Comment Info to Your Folders on Windows 11
@@ -118,21 +125,6 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-tiktok-audio-crafting-it-as-your-perfect-ringtone/"><u>[New] 2024 Approved Mastering TikTok Audio Crafting It as Your Perfect Ringtone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-much-wealth-awaits-one-million-youtube-followers/"><u>[New] How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unlocking-the-potential-of-youtube-tv-services/"><u>[New] In 2024, Unlocking the Potential of YouTube TV Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-configuration-mastery-embedding-this-pc-symbols/"><u>Desktop Configuration Mastery: Embedding 'This PC' Symbols</u></a></li>
-<li><a href="https://techtrends.techidaily.com/digiarty-esperti-nella-conversione-digitale-di-dvd-e-video/"><u>Digiarty - Esperti Nella Conversione Digitale Di DVD E Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-lightweight-browser-ram-usage-with-comparative-tests/"><u>Exploring Lightweight Browser RAM Usage with Comparative Tests</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-the-disconnected-from-nvidia-experience-problem-in-win-11/"><u>How to Solve the 'Disconnected From NVIDIA Experience' Problem in Win 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a05s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A05s to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/key-elements-of-constructive-job-interviews-for-2024/"><u>Key Elements of Constructive Job Interviews for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-syncing-on-windows-the-most-rated-apps/"><u>Mastering File Syncing on Windows: The Most Rated Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-save-locations-windows-xp78-errors/"><u>Overcoming Save Locations: Windows XP/7/8 Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +132,23 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-joining-the-twitter-community-from-scratch-for-2024/"><u>[New] Joining the Twitter Community From Scratch for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ynthesizing-elements-crafting-a-captivating-youtube-video-start-for-2024/"><u>[New] Synthesizing Elements Crafting a Captivating YouTube Video Start for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-proxies-on-windows-11-pc/"><u>Configuring Proxies on Windows 11 PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/conquer-the-shadows-5-ways-to-fix-black-screen-with-obs-for-2024/"><u>Conquer the Shadows 5 Ways to Fix Black Screen with OBS for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/cutting-corners-with-care-10plus-top-ranked-free-audio-editors-online-for-2024/"><u>Cutting Corners with Care 10+ Top-Ranked Free Audio Editors Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-update-nomenclature-windows-edition/"><u>Deciphering Update Nomenclature: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determining-ideal-hibernation-on-windows-machines/"><u>Determining Ideal Hibernation on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fix-team-share-on-pc/"><u>Guide to Fix Team Share on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-podcast-seo-the-essential-handbook-for-2024/"><u>Mastering Podcast SEO The Essential Handbook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-gif-resizing-obstacles-a-quick-fix-guide-to-win11s-issues/"><u>Navigating Through GIF Resizing Obstacles: A Quick Fix Guide to Win11's Issues</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/reconociendo-y-rescatando-imagenes-borradas-en-la-papelera-de-rechazo-post-vaciado-metodos-eficaces/"><u>Reconociendo Y Rescatando Imágenes Borradas en La Papelera De Rechazo Post-Vaciado: Métodos Eficaces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-itel-a70-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Itel A70 has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-assistance-four-new-options-post-cortana/"><u>Redefining Assistance: Four New Options Post-Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/replaying-rarieties-retro-gaming-in-dosbox-x/"><u>Replaying Rarieties: Retro Gaming in DOSBox-X</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/weigh-pros-and-cons-dvr-purchase-advice-needed-here/"><u>Weigh Pros & Cons: DVR Purchase Advice Needed Here</u></a></li>
+</ul></div>
+

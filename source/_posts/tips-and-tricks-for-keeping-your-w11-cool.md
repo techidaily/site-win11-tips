@@ -1,7 +1,7 @@
 ---
 title: Tips & Tricks for Keeping Your W11 Cool
-date: 2024-10-10T13:17:24.527Z
-updated: 2024-10-15T15:09:49.243Z
+date: 2024-10-13T18:08:37.902Z
+updated: 2024-10-20T18:35:23.139Z
 tags:
   - windows10
   - windows11
@@ -47,16 +47,16 @@ To update your Windows computer:
 
  You can[manually uninstall Windows 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) using Settings and Control Panel. Once uninstalled, check if the CPU temperature is in the ideal range.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check Background Apps for High CPU Usage
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Background apps with high CPU usage are often responsible for an overheating computer. Even if the app is using only 5-6% of your CPU resources, it may still be able to cause high CPU temperature.
 
@@ -69,10 +69,16 @@ To update your Windows computer:
 5. End the process and check if the CPU temperature decreased. If yes, you'll need to disable the service, and update the associated drivers to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Select the Balanced Power Plan
@@ -99,21 +105,29 @@ To change the maximum processor state on Windows:
 ![power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-options-control-panel-1.jpg)
 4. Next, click the**Change plan settings** option for your currently active power plan.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![change plan settings power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-plan-settings-power-options-control-panel.jpg)
 5. Click on**Change advanced power settings** .  
 ![change advanced power settings control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-advanced-power-settings-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Scroll down and expand the**Processor power management** section.
 2. Next, expand the**Maximum processor state** option.  
 ![change maximum processor state 99 precent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-maximum-processor-state-99-precent.jpg)
 3. Select**On Battery** and change the value to**99%** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Plugged in** and change the value to**99%** .
 5. Click**Apply** and**OK** to save the changes.
 
@@ -125,13 +139,6 @@ To change the maximum processor state on Windows:
 
  If the issue persists, your computer is likely[overheating due to insufficient airflow, fan problems, and driver issues](https://www.makeuseof.com/how-to-fix-overheating-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Windows Search Indexing
 
  Searchindexer is a Windows service that facilitates faster Windows search. While it works in the background, this service can cause high CPU usage, thus resulting in high temperatures.
@@ -142,6 +149,13 @@ To change the maximum processor state on Windows:
 
 ![The Adjust for best performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/adjust-for-best-performance-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your computer is overheating under heavy use like gaming, you can adjust your system to offer the best performance. Adjusting for best performance comes at the cost of reduced visual effects.
 
 To adjust your computer for best performance:
@@ -150,13 +164,6 @@ To adjust your computer for best performance:
 2. Click on**Adjust the appearance and performance of Windows** option from the search result.
 3. Next, select**Adjust for best performance** in the**Performance Options** dialog.
 4. Click**Apply** and**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Go Back to the Previous Version
 
@@ -172,15 +179,22 @@ To use the Go back option:
 
  If the option is greyed out, the option is no longer available on your PC. Windows disables the Go back recovery option 10 days after the upgrade. You can, however, extend the[10 days go-back period to 60 days on Windows 11](https://www.makeuseof.com/windows-11-extend-rollback-period/) using Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Perform a System Restore
 
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows 11 automatically creates a snapshot of your system’s current state, known as restore points. A new restore point is created before installing an update. You can use an existing restore point to undo the changes and fix any issues that may have occurred due to a bad Windows update or recent changes made to your system.
@@ -207,13 +221,6 @@ To perform a system restore:
 
  To clean install Windows 11, all you need is a[Windows 11 bootable USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . Next, back up your personal files and folders to an external drive. Once done, boot from the USB drive and reinstall the OS.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing an Overheating Windows 11 Computer
 
  To fix an overheating Windows 11 computer, troubleshoot it for background services and bad Windows updates. Additionally, unblock the vents, clean the internals, and use a laptop on a hard surface to allow sufficient airflow.
@@ -233,16 +240,15 @@ To perform a system restore:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-list-for-google-pixel-tones/"><u>[New] 2024 Approved The Ultimate List for Google Pixel Tones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-complete-ginger-island-in-stardew/"><u>[Updated] 2024 Approved The Complete Ginger Island in Stardew</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-time-lapse-a-guide-with-gopro-studio-for-2024/"><u>[Updated] Mastering Time-Lapse A Guide with GoPro Studio for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-signs-its-probably-time-to-factory-reset-your-windows-pc/"><u>4 Signs It's Probably Time to Factory Reset Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-set-up-image-slideshows-in-windows-11-without-installing-extra-software/"><u>7 Ways to Set Up Image Slideshows in Windows 11 Without Installing Extra Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-storage-with-windows-iscsi-initiator/"><u>Accessing Storage with Windows iSCSI Initiator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/app-aesthetics-the-hidden-culprits-in-windows-11-performance-drop/"><u>App Aesthetics: The Hidden Culprits in Windows 11 Performance Drop</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/extend-the-life-of-your-aging-computer-top-5-tricks-for-preparing-it-for-windows-11-no-cost-required-zdnet-solutions/"><u>Extend the Life of Your Aging Computer: Top 5 Tricks for Preparing It for Windows 11 (No Cost Required) | ZDNet Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled/"><u>In 2024, The Mechanics of Modern Photography Auto, Smart HDR 3 & 4 Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-your-dvds-into-m4v-files-for-free/"><u>Step-by-Step Guide: Converting Your DVDs Into M4V Files for Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/win11s-ultimate-app-selection-for-quality-recording/"><u>Win11's Ultimate App Selection for Quality Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-best-10-websites-for-professional-vectors/"><u>[New] Explore Best 10 Websites for Professional Vectors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>[Updated] 2024 Approved Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-corrupted-windows-11-trash-issue/"><u>Correcting the Corrupted Windows 11 Trash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-faster-epic-game-installs/"><u>Cutting-Edge Methods for Faster Epic Game Installs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-color-crisis-8-ways-to-retool-your-pink-desktop/"><u>Epic Color Crisis: 8 Ways to Retool Your Pink Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973197916-get-your-microsoft-wireless-mouse-grooving-download-the-drivers-fast/"><u>Get Your Microsoft Wireless Mouse Grooving - Download the Drivers Fast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-quick-and-convenient-video-edits-in-windows-11-photos/"><u>In 2024, Quick & Convenient Video Edits in Windows 11 Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-streaming-smoothly-again-expert-guide-on-overcoming-buffering/"><u>Kodi Streaming Smoothly Again - Expert Guide on Overcoming Buffering</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rise-to-stardom-secrets-to-viral-video-success/"><u>Rise to Stardom Secrets to Viral Video Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-saving-windows-keyboard-tricks-for-swift-tasks/"><u>Time-Saving Windows: Keyboard Tricks for Swift Tasks</u></a></li>
 </ul></div>
 

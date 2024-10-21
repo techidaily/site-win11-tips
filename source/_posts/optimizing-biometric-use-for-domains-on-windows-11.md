@@ -1,7 +1,7 @@
 ---
 title: Optimizing Biometric Use for Domains on Windows 11
-date: 2024-10-13T04:24:42.707Z
-updated: 2024-10-15T09:44:29.988Z
+date: 2024-10-14T04:15:18.528Z
+updated: 2024-10-21T04:18:28.867Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 6. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Allow or Block a Biometrics Log-On Using the Registry Editor
@@ -60,30 +60,30 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 4. Name the value **Domain Accounts.**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Naming the Value Domain Accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/domain-accounts.jpg)
 5. Double-click on the Domain Accounts value, type **1** in the **Value data** section to enable biometrics log on and **0** to disable biometrics log on for domain users.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Editing the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/value-data.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control Biometrics Logins on Your Computer
@@ -92,23 +92,6 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-rated-components-for-smooth-live-transmissions/"><u>[New] In 2024, Top-Rated Components for Smooth Live Transmissions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>2024 Approved Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/android-essentials-for-immersive-video-and-vr-content-for-2024/"><u>Android Essentials for Immersive Video and VR Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-ms-teams-error-80080300-fixes-for-w11-users/"><u>Breaking Down MS Teams Error 80080300: Fixes for W11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaming-smoother-with-warhammer-40k-on-windows-no-more-stutters/"><u>Gaming Smoother with Warhammer 40K on Windows, No More Stutters</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Reno 10 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-note-30-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Note 30 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>In 2024, Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/insta-cover-chronicles-top-tier-tech-edition-for-2024/"><u>Insta Cover Chronicles Top-Tier Tech Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-science-of-storage-sizing-in-windows-through-powershell/"><u>Mastering the Science of Storage Sizing in Windows Through Powershell</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/new-features-and-improvements-in-the-latest-version-of-winx-hd-video-converter-for-mac/"><u>New Features and Improvements in the Latest Version of WinX HD Video Converter for Mac</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +99,20 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-discovering-vimeo-home-for-high-quality-films/"><u>[New] 2024 Approved Discovering Vimeo Home for High-Quality Films</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-twist-your-way-through-youtube-mastering-rotation-techniques/"><u>[New] 2024 Approved Twist Your Way Through YouTube Mastering Rotation Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-sound-transition-in-logic-pro-x/"><u>[New] In 2024, The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-memes-unite-reddit-and-twitters-top-twenty/"><u>[Updated] Memes Unite Reddit & Twitter's Top Twenty</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-magicard-rio-professional-driving-game-now-compatible-with-windows-11817/"><u>Download the New Magicard Rio Professional Driving Game Now - Compatible with Windows 11/8.1/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-enigma-of-error-0x0000004e-in-win11/"><u>Fixing the Enigma of Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-logitech-mouse-scrolling-again-after-it-stopped-working/"><u>How To Get Your Logitech Mouse Scrolling Again After It Stopped Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-tips-operating-the-toolbar-in-mspcm-win11/"><u>Key Tips: Operating the Toolbar in MSPCM Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-seamless-operation-of-ps-windows-version/"><u>Restoring Seamless Operation of PS Windows Version</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartwatch-showdown-apple-watch-gps-only-versus-the-cellular-option/"><u>Smartwatch Showdown: Apple Watch GPS-Only Versus the Cellular Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workday-top-9-motivations-to-switch-to-windows-outlook/"><u>Transform Your Workday: Top 9 Motivations to Switch to Windows' Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-greyed-out-pin-deletion-command-on-pc/"><u>Unlocking Greyed-Out Pin Deletion Command on PC</u></a></li>
+</ul></div>
+

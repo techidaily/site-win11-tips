@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Enable TPM, Activate Secure Boot Pre-Upgrade"
-date: 2024-10-10T05:21:49.166Z
-updated: 2024-10-14T21:43:34.371Z
+date: 2024-10-15T23:15:06.526Z
+updated: 2024-10-21T02:16:33.208Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
  First up is your physical hardware. If you're not using an AMD Ryzen 3000 series or Intel 7th Gen CPU or better, neither a clean Windows 11 installation nor the Windows 10 upgrade path will work. Second, if your computer doesn't support Secure Boot and TPM, you'll also fall at the initial hurdle. However, all is not lost because you can switch on Secure Boot and TPM from your BIOS/UEFI menu.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Secure Boot and TPM?
 
  The [Trusted Module Platform (TPM) is a hardware-level security solution](http://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) that protects your data from hacking and other data breaches. The TPM holds unique encryption keys stored in such a way that it is nearly impossible for a hacker to access. If someone breaches your computer and your data is encrypted, it will remain secure.
@@ -47,36 +54,15 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
 ![windows bios secure boot warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-bios-secure-boot-warning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But it also has some side effects. For example, Secure Boot will stop you from dual-booting Linux distributions, which has led many [users to disable Secure Boot.](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/)
 
  On top of those two vital features, [Windows 11 has specific hardware requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/), with Microsoft opting to block the automatic upgrade path for millions of users. If you're using Windows 10 on an AMD Ryzen 3000 series or later or an Intel 7th Gen CPU or later, you can upgrade to Windows 11 directly.
 
  However, if not, you'll have to opt for a [Windows 11 clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) or to [bypass Windows 11's minimum requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/). A clean installation of Windows 11 will work on most hardware, but it does come with caveats. Notably, Microsoft has repeatedly stated that it will not provide updates to Windows 11 installations on "unsupported" hardware, so you install at your own risk.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable TPM and Secure Boot
 
  Trusted Module Platform and Secure Boot are found in your UEFI settings. You'll have to enter system UEFI to enable them before attempting to upgrade to Windows 11\. Both settings are found in similar areas, but we'll break the steps down into three parts for ease of reading.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Enter Your BIOS/UEFI
 
@@ -88,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
  You should be in your BIOS/UEFI settings menu when the computer restarts again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Enable TPM in Your BIOS/UEFI
@@ -99,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
  The location of the TPM settings in your BIOS will differ depending on your motherboard manufacturer. The following images are taken from an X570 MSI motherboard, though where you find the TPM option won't necessarily be similar.
 
 ![msi motherboard enable tpm settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-tpm-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Be aware that the TPM might be listed under a different name on some motherboards, depending on your CPU manufacturer:
 
@@ -119,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
 
  Alternatively, your computer or hardware may be too old to enable Secure Boot.
@@ -131,29 +137,6 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 
  So there you have it. You've enabled two of the most important settings that will block your Windows 11 upgrade path. Once enabled, and presuming you're running compatible hardware, Microsoft will offer you the Windows 11 upgrade. To check if your Windows 11 upgrade is ready, head to **Settings > Update & Security > Windows Update**, where you'll find the big update button.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-perfecting-bokeh-mastering-instagram-story-blur-for-2024/"><u>[New] Perfecting Bokeh Mastering Instagram Story Blur for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>[Updated] In 2024, BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[Updated] In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-10-digital-subtitling-platforms/"><u>[Updated] Leading 10 Digital Subtitling Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-creating-impactful-snapshots-for-2024/"><u>[Updated] The Complete Guide to Creating Impactful Snapshots for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/11-fresh-features-in-windows-11-post-update-milestone/"><u>11 Fresh Features in Windows 11, Post-Update Milestone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-impressions-drawing-techniques-for-pc-screens/"><u>Digital Impressions: Drawing Techniques for PC Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ditch-installation-struggles-preparations-before-vbox-on-pc/"><u>Ditch Installation Struggles: Preparations Before VBox on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-deep-a-comprehensive-guide-to-os-settings/"><u>Dive Deep: A Comprehensive Guide to OS Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-managed-users-and-groups-in-win1110-homes/"><u>Enabling Managed Users and Groups in Win11/10 Homes</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/gevolgd-losung-von-dokumente-karte-losen-in-windows-11-schnelllosungen-und-tipps-bereitstellen/"><u>Gevolgd Lösung Von Dokumente-Karte Lösen in Windows 11 - Schnelllösungen Und Tipps Bereitstellen!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-script-to-screen-on-a-budget-7-essential-filmmaking-software/"><u>New In 2024, From Script to Screen on a Budget 7 Essential Filmmaking Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opera-installer-lockdown-try-these-window-tips/"><u>Opera Installer Lockdown? Try These Window Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-tasks-with-these-8-best-rated-window-pomodoros/"><u>Streamline Your Tasks With These 8 Best-Rated Window Pomodoros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-htc-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to HTC Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-stable-internet-windows-edition-guide/"><u>Troubleshooting Stable Internet: Windows Edition Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +144,23 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-srt-innovation-how-technology-shapes-industry-standards/"><u>[New] SRT Innovation How Technology Shapes Industry Standards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-instagram-story-a-collection-of-100-visionary-caption-ideas/"><u>[New] Your Instagram Story - A Collection of 100 Visionary Caption Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-10-mac-video-capture-programs-reviewed/"><u>[Updated] 2024 Approved Top 10 Mac Video Capture Programs Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-electorate-enthrallment-best-politic-based-game-reviews/"><u>[Updated] Electorate Enthrallment Best Politic-Based Game Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-battle-royale-can-chatgpt-outperform-gemini-in-software-development-tasks/"><u>AI Battle Royale: Can ChatGPT Outperform Gemini in Software Development Tasks?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-win11s-disconnecting-gifs-dilemma-fixes-in-discord/"><u>Cutting Through Win11's Disconnecting GIFs Dilemma: Fixes in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-to-manage-windows-key-settings/"><u>Expert Techniques to Manage Windows Key Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-clutter-spot-and-reduce-big-file-usage-windows/"><u>How to Cut Down Clutter: Spot and Reduce Big File Usage Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-usb-security-in-modern-operating-systems/"><u>Optimizing USB Security in Modern Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-windows-touchpad-commands/"><u>Restoring Functionality to Windows Touchpad Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-setting-up-pc-manager-on-windows-11/"><u>The Essentials of Setting Up PC Manager on Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-of-1byone-hdtv-antennas-enhanced-digital-reception-at-affordable-prices/"><u>The Ultimate Comparison of 1byOne HDTV Antennas: Enhanced Digital Reception at Affordable Prices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors-in-2n4-a-comprehensive-guide/"><u>Top 7 Premium Mobile Plans for Seniors in 2N4: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-portable-executable-format/"><u>Unraveling Windows' Portable Executable Format</u></a></li>
+</ul></div>
+
