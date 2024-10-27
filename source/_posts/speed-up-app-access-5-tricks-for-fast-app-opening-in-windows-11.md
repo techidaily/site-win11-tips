@@ -1,7 +1,7 @@
 ---
 title: "Speed Up App Access: 5 Tricks for Fast App Opening in Windows 11"
-date: 2024-10-15T18:25:06.923Z
-updated: 2024-10-20T19:34:41.654Z
+date: 2024-10-20T22:33:25.550Z
+updated: 2024-10-26T16:51:08.057Z
 tags:
   - windows10
   - windows11
@@ -45,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 ![Browse location of the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/app-shortcut.jpg)
 4. Type a name for the app shortcut.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Finish** .
 
  If you do not know the app's location, you can click the**Browse** button, which will let you select the target of the Shortcut.
@@ -71,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 ![Context menu showing app properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/properties.jpg)
 3. Click the**Shortcut** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Shortcut key for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-key.jpg)
 4. In the Shortcut key field, choose the keyboard shortcut.
 5. Select**Apply** , and then click**OK** .
@@ -85,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
  It is worth noting that when you delete the app shortcut from the desktop, you can no longer open it using the keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch Apps Quickly Using Windows 11 Start Menu
@@ -96,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 ![Search in Windows 11 Start Menu edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-in-windows-11-start-menu-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pinning apps on the Windows 11 Taskbar will help you launch them quickly—but what if you like keeping your taskbar clean? You can keep your most used app's shortcuts hidden away, yet still quickly accessible, in the Windows 11 Start Menu.
@@ -108,11 +88,25 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
  But if it isn't working, you should[check out how to fix the Start Menu](https://www.makeuseof.com/windows-start-button-not-working/) to get it working again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Launch Apps Quickly Using Windows 11 Taskbar Search
 
 ![Screenshot showing how to look up OneNote app from Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-look-up-onenote-app-from-taskbar-search.jpg)
 
  Using Taskbar search to find the apps you want to open is similar to how you can use the Start Menu for the same purpose. To quickly launch apps on Windows 11, click on the Search icon on the Taskbar and type the name of the app you want to open. You can open it with a click, just like the Start Menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Apps Quickly on Windows 11
 
@@ -133,24 +127,22 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-script-to-spectacle-independent-effect-innovation/"><u>[New] 2024 Approved From Script to Spectacle Independent Effect Innovation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-xsplit-download-and-review/"><u>[New] 2024 Approved XSplit Download and Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-apply-spiral-depth-enhancement-to-images-psx/"><u>[New] Apply Spiral Depth Enhancement to Images PSX</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-digital-influencers-riches-exceed-ages-kaji-ryan-story-for-2024/"><u>[New] Digital Influencer's Riches Exceed Ages Kaji Ryan Story for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-photographers-guide-to-maximizing-lunapic-potential/"><u>[New] The Photographer's Guide to Maximizing LunaPic Potential</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unveiling-streaming-secrets-the-best-5-cams-for-gamers/"><u>[Updated] 2024 Approved Unveiling Streaming Secrets The Best 5 Cams for Gamers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-your-fb-video-view-going-full-screen/"><u>[Updated] Maximizing Your FB Video View Going Full Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-pixelbook-go-by-google-exceptional-performance-meets-high-pricing/"><u>Comprehensive Review of the Pixelbook Go by Google: Exceptional Performance Meets High Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-steam-library-read-only-errors-on-pcs-with-win-11/"><u>Rectifying Steam Library Read-Only Errors on PCs with Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagining-visuals-deletion-power-in-windows-photos/"><u>Reimagining Visuals: Deletion Power in Windows Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-mandatory-requirements-problem-on-win11win11/"><u>Remedying Mandatory Requirements Problem on Win11/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-engineering-steams-unauthorized-file-access/"><u>Reverse Engineering Steam's Unauthorized File Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11s-disappeared-symbols/"><u>Reviving Windows 11'S Disappeared Symbols</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapshot-secrets-iphones-techniques-for-clear-reflections-for-2024/"><u>Snapshot Secrets IPhone's Techniques for Clear Reflections for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-roblox-crashes-and-errors/"><u>Steps to Prevent Roblox Crashes and Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-complete-walkthrough-for-activating-chatgpt-features-in-android-apps/"><u>The Complete Walkthrough for Activating ChatGPT Features in Android Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-experience-altering-fn-keys-on-windows-11/"><u>Transform Your Experience: Altering FN Keys on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disallowed-user-access-on-your-win-pc/"><u>Troubleshooting Disallowed User Access on Your Win PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10win11-install-issue-fixing-the-open-package-fail/"><u>Win10/Win11 Install Issue: Fixing the 'Open Package' Fail</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-progression-reach-and-maintain-10k-viewer-threshold-for-2024/"><u>[New] Channel Progression Reach and Maintain 10K Viewer Threshold for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>[New] How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-online-seminar-title-crafter-for-2024/"><u>[New] Ultimate Online Seminar Title Crafter for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719309134944-10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-swift-steps-for-word-definition-finder/"><u>7 Swift Steps for Word Definition Finder</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/combine-precise-movements-and-easy-access-with-the-sabrent-travel-mouse-your-compact-tech-companion/"><u>Combine Precise Movements & Easy Access with the Sabrent Travel Mouse - Your Compact Tech Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-off-your-windows-11-desktop/"><u>Edge Off Your Windows 11 Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-printer-settings-the-easy-way-in-win11-max-50-chars/"><u>Guide to Printer Settings: The Easy Way in Win11 (Max 50 Chars)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-12t-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 12T Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-monitor-memorable-saving-windows-spotlight-photos-as-walls/"><u>Making Your Monitor Memorable: Saving Windows Spotlight Photos as Walls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-mot3/"><u>MP4への変換: MOT制作者が気になる3つの無料ツール</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-yellow-discoloration-in-windows-laptop-screens/"><u>Resolving Yellow Discoloration in Windows Laptop Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-adjusting-your-videos-aspect-ratio-perfectly-for-tiktok/"><u>Step-by-Step Tutorial: Adjusting Your Videos' Aspect Ratio Perfectly for TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-creating-smooth-audio-cuts-for-2024/"><u>The Art of Creating Smooth Audio Cuts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-print-potential-strategies-to-fix-slide-show-problems-on-windows/"><u>Unlocking Your Print Potential: Strategies to Fix Slide Show Problems on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-stalled-google-nearby-share-on-pc/"><u>Unveiling Fixes for Stalled Google Nearby Share on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-settings-unveiled/"><u>Windows 11 Settings Unveiled</u></a></li>
 </ul></div>
 

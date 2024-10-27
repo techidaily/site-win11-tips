@@ -1,7 +1,7 @@
 ---
 title: Cure Frozen Media App on Your Windows 11 System
-date: 2024-10-18T00:00:02.564Z
-updated: 2024-10-20T19:52:00.382Z
+date: 2024-10-25T16:55:36.560Z
+updated: 2024-10-26T22:28:01.169Z
 tags:
   - windows10
   - windows11
@@ -56,19 +56,19 @@ To refresh libraries in the Media Player app, follow these steps:
 ![Refresh Libraries in the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/refresh-libraries-in-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Switch to the**Library** tab and check if your media files appear now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Video Enhancements
@@ -84,10 +84,17 @@ To disable video enhancements in Windows, use these steps:
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Relevant Windows Troubleshooters
@@ -129,13 +136,6 @@ regsvr32 wmp.dll`
 
  Check our guide on[how to update apps in Windows 11](https://www.makeuseof.com/update-apps-windows-11/) and use the steps provided there to update the Media Player app to its most recent version. Hopefully, this should solve your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing the Media Player App on Windows 11
 
  The Media Player app is great for playing locally stored audio and video files on your Windows 11 PC. Occasionally, the app may stop working due to misconfigured settings or corrupt app data. However, it’s nothing you can’t fix with the solutions mentioned above.
@@ -157,18 +157,17 @@ regsvr32 wmp.dll`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtuocapture-pro-windows-10-edition/"><u>[New] 2024 Approved VirtuoCapture Pro (Windows 10 Edition)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/64901674-new-in-2024-personalize-your-channel-with-free-pics/"><u>[New] In 2024, Personalize Your Channel With Free Pics</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premium-10-volume-enhancers-windows-apple-android-for-2024/"><u>[Updated] Premium 10 Volume Enhancers Windows, Apple, Android for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-how-to-successfully-address-failed-driver-setup-due-to-user-settings/"><u>Expert Tips: How to Successfully Address 'Failed Driver Setup Due to User Settings'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722134669778-exploring-the-world-of-chatgpt-unveil-these-6-must-play-games/"><u>Exploring The World of ChatGPT: Unveil These 6 Must-Play Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-hotkeys-during-typing-sessions/"><u>Fixing Unwanted Hotkeys During Typing Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-secrets-to-amassing-affordable-artistic-elements/"><u>In 2024, Secrets to Amassing Affordable Artistic Elements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/perfect-your-recording-a-comparison-guide-for-30-vs-60fps/"><u>Perfect Your Recording A Comparison Guide for 30 Vs. 60FPS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-data-access-onedrive-sync-w-windows-microsoft-account/"><u>Simplifying Data Access: OneDrive Sync W/ Windows Microsoft Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncomplicating-docx-to-pdf-challenges-with-easy-steps-on-win-11-os/"><u>Uncomplicating Docx to PDF Challenges with Easy Steps on Win 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-volume-mixer-feature/"><u>Understanding and Utilizing Windows 11'S Volume Mixer Feature</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-make-movies-for-free-top-online-video-creation-tools/"><u>Updated 2024 Approved Make Movies for Free Top Online Video Creation Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-errors-navigating-and-resolving-o365-glitches/"><u>Win 11 Errors: Navigating and Resolving O365 Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-conversations-10-superior-personal-gpt-variants-that-outshine-chatgpt/"><u>Enhance Conversations: 10 Superior Personal GPT Variants That Outshine ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-in-depth-analysis-harnessing-the-power-of-diskusage-on-windows/"><u>Expert Techniques for In-Depth Analysis: Harnessing the Power of DiskUsage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-directx-file-upload-glitches-in-windows/"><u>Fixing DirectX File Upload Glitches in Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-auto-gpt-without-gpt-4-pros-and-cons-for-users/"><u>Navigating Auto-GPT Without GPT-4: Pros and Cons for Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-wnddevice-creation-issue/"><u>Overcome WndDevice Creation Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pcs-internet-link-top-6-strategies-including-adapter-correction/"><u>Reviving Your PC's Internet Link: Top 6 Strategies, Including Adapter Correction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/richer-imagery-enhancing-video-with-device-based-filters/"><u>Richer Imagery Enhancing Video with Device-Based Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perfect-key-collection-lifetime-access-to-top-priced-black-friday-windows-11/"><u>The Perfect Key Collection - Lifetime Access to Top Priced Black Friday Windows 11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-guide-top-rated-free-software-for-efficient-mysql-data-backups/"><u>Ultimate Guide: Top-Rated Free Software for Efficient MySQL Data Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-worries-of-windows-11-newbies/"><u>Unpacking the Worries of Windows 11 Newbies</u></a></li>
 </ul></div>
 

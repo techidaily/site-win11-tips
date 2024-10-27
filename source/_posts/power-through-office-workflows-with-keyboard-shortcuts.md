@@ -1,7 +1,7 @@
 ---
 title: Power Through Office Workflows with Keyboard Shortcuts
-date: 2024-10-20T03:09:44.587Z
-updated: 2024-10-21T01:00:54.197Z
+date: 2024-10-22T20:38:54.413Z
+updated: 2024-10-26T22:28:49.553Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scan Your PC for Malware Quickly
@@ -70,50 +70,39 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
 
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Select Text Easily on Documents
 
@@ -129,29 +118,6 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-art-of-managing-discord-spoilers/"><u>[New] In 2024, The Art of Managing Discord Spoilers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screen-savers-review-cutting-edge-video-gadgets-for-2024/"><u>[New] Screen Savers Review Cutting-Edge Video Gadgets for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-vscos-creative-palette/"><u>[Updated] A Deep Dive Into VSCO's Creative Palette</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capture-and-share-with-ray-bans-new-meta-glasses-triple-minutes-of-video-recording/"><u>Capture and Share with Ray-Ban's New Meta Glasses: Triple Minutes of Video Recording</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-hyper-v-error-code-0x8009030e/"><u>Diagnosing and Fixing Hyper-V Error Code 0X8009030E</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easytech-snapshot-quick-rundown/"><u>EasyTech Snapshot Quick Rundown</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-windows-7-system-service-exception-bug-fixed/"><u>How to Overcome the Windows 7 System Service Exception Bug [FIXED]</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-launch-your-fortune-on-periscope-live-chats/"><u>In 2024, Launch Your Fortune on Periscope Live Chats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-soundscape-by-tuning-irqs/"><u>Mastering Windows Soundscape by Tuning IRQs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-windows-11-personal-hub/"><u>Mastering Your Windows 11 Personal Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11-search-steps-for-successful-reinstatement/"><u>Reviving Windows 11 Search: Steps for Successful Reinstatement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silence-system-updates-notification-on-pc/"><u>Silence System Updates Notification on PC</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simple-guide-restoring-deleted-files-in-sharepoint-before-theyre-overwritten/"><u>Simple Guide: Restoring Deleted Files in SharePoint Before They're Overwritten</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-unfreeze-spotify-on-windows-11-devices/"><u>Steps to Unfreeze Spotify on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-system-check-finding-gpu-model-in-win11-os/"><u>Swift System Check: Finding GPU Model in Win11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-and-def5-nine-strategies-to-resolve-onedrive-errors/"><u>Win11 and DEF5: Nine Strategies to Resolve Onedrive Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-under-siege-how-to-spot-and-expel-wacatacbml-trojan/"><u>Windows Under Siege: How to Spot and Expel Wacatac.B!ml Trojan</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +125,20 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] 2024 Approved Bridging Content Gap YouTube Videos to Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlocking-innovations-a-comparison-between-iphones-face-id-and-galaxy-recognition-for-2024/"><u>[Updated] Unlocking Innovations A Comparison Between iPhone's Face ID & Galaxy Recognition for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-closer-look-at-sharex-judgments-and-alternates/"><u>A Closer Look at ShareX Judgments & Alternates</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-740-elevation-woes-on-windows-devices/"><u>Eliminating Error Code 740: Elevation Woes on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-shortcut-integration-incorporating-wordpad-triggers-in-windows-11/"><u>Enhancing Shortcut Integration: Incorporating WordPad Triggers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-inconsistencies-in-default-print-devices/"><u>Managing Inconsistencies in Default Print Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-performance-indicators-for-the-taskbar/"><u>Network Performance Indicators for the Taskbar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pivotal-elements-in-designing-effective-product-praise-videos-for-2024/"><u>Pivotal Elements in Designing Effective Product Praise Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-load-steaminterface-dll-problems/"><u>Solutions to Load SteamInterface Dll Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723005232993-step-by-step-guide-to-fix-a-broken-logitech-c920-clear-solutions-await/"><u>Step-by-Step Guide to Fix a Broken Logitech C920 - Clear Solutions Await!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-integral-role-of-windows-cab-files-in-software-deployment/"><u>The Integral Role of Windows Cab Files in Software Deployment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-best-5-free-mpeg-video-joiners/"><u>Updated Top Best 5 Free MPEG Video Joiners</u></a></li>
+</ul></div>
+

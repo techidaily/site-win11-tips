@@ -1,7 +1,7 @@
 ---
 title: Navigating Fullscreen Failsures in Sonic Gameplay on W11
-date: 2024-10-18T16:58:55.635Z
-updated: 2024-10-21T03:43:52.423Z
+date: 2024-10-23T19:49:05.835Z
+updated: 2024-10-26T21:12:08.970Z
 tags:
   - windows10
   - windows11
@@ -37,28 +37,15 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![screenshot of the windows graphics settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_graphics_settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The quickest way to fix this is through Window's graphic settings page. Open this page by searching**Graphics** in the start menu search bar, and click on**Graphics Settings.**
 
 ![screenshot of sonic frontiers in the windows graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontier_in_graphics_menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here, search Sonic Frontiers in the search bar. If the game doesn't appear, you can hit**Browse** to manually locate the game.
@@ -67,18 +54,31 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Prevent Further Crashes in Sonic Frontiers
 
 ![screenshot of sonic frontiers in amd graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_in_amd_graphics_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It is good practice to always ensure your GPU drivers are up-to-date, especially when playing new releases.
 
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
@@ -114,20 +114,24 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-srt-to-sub-pivotal-approaches-for-content-transformation/"><u>[New] SRT to SUB Pivotal Approaches for Content Transformation</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/an-in-depth-look-at-huawei-p10s-audio-experience-for-2024/"><u>An In-Depth Look at Huawei P10's Audio Experience for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/en-ligne-gratuite-pour-transformer-votre-video-wmv-en-mkv-utilisant-movavi-conversion-simple-et-rapide/"><u>En Ligne Gratuite Pour Transformer Votre Vidéo WMV en MKV Utilisant Movavi - Conversion Simple Et Rapide</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhancing-profile-picture-selection-techniques-for-fb/"><u>Enhancing Profile Picture Selection Techniques for FB</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-3-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme GT 3 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-facebook-the-optimal-solution-for-your-events-management/"><u>Is Facebook the Optimal Solution for Your Events Management?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/polarr-editor-explained-the-ultimate-visual-enhancement-pathway/"><u>Polarr Editor Explained The Ultimate Visual Enhancement Pathway</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-screen-recorder-tools-ranking-the-top-15-for-your-laptop/"><u>The Ultimate Selection of Screen Recorder Tools - Ranking the Top 15 for Your Laptop</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-strategies-for-crafting-engaging-gameplay-footage-plus-insider-advice-on-boosting-your-viewership-in-gaming-videos/"><u>Top Strategies for Crafting Engaging Gameplay Footage + Insider Advice on Boosting Your Viewership in Gaming Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-mpeg-videos-into-vob-format-at-no-cost-using-the-movavi-tool/"><u>Transform Your MPEG Videos Into VOB Format at No Cost Using the Movavi Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-gif-sur-internet-avec-movavi-comprendre-la-conversion-facile/"><u>Transformation Gratuite De Fichiers JPG en GIF Sur Internet Avec Movavi - Comprendre La Conversion Facile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trasforma-e-caricamento-gratuito-di-video-mpeg-nellestensione-ogg-con-il-convertitore-online-di-movavi/"><u>Trasforma E Caricamento Gratuito Di Video MPEG Nell'Estensione .OGG Con Il Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tutoriel-complet-techniques-pour-reduire-la-duree-dune-vision-avec-after-effects/"><u>Tutoriel Complet : Techniques Pour Réduire La Durée D'une Vision Avec After Effects®</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-saving-game-moments-with-fbx-recorder/"><u>[New] 2024 Approved Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-efficient-overwatch-recording-techniques-exposed-for-2024/"><u>[New] Efficient Overwatch Recording Techniques Exposed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exhaustive-evaluation-the-new-360-camera/"><u>[New] Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-messenger-video-guide-dimensions-file-type-elapsed/"><u>[New] Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-videographers-essentials-top-9-gear-upgrades-for-mobile-filming/"><u>[Updated] In 2024, The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-psycho-social-signal-customization-ps-console-edition/"><u>[Updated] Psycho-Social Signal Customization PS Console Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-for-pcmac-movie-recording/"><u>2024 Approved Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/an-easy-way-to-separate-audio-from-video-files-without-ffmpeg-discover-the-best-alternatives/"><u>An Easy Way to Separate Audio From Video Files Without FFmpeg: Discover the Best Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-couldnt-be-written-windows-error/"><u>Bypassing the Couldn’t Be Written Windows Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capture-and-share-your-adventures-how-to-record-gameplay-on-sonys-console/"><u>Capture and Share Your Adventures: How to Record Gameplay on Sony's Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-games-launcher-handling-lost-security-code-issues-on-pc/"><u>Epic Games Launcher: Handling Lost Security Code Issues on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-downloads-with-these-5-windows-clients/"><u>Maximize Your Downloads with These 5 Windows Clients</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011-zoom-glitch-1132/"><u>Overcoming Windows 10/11 Zoom Glitch 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/security-scare-can-you-trust-your-biometric-lock-on-windows/"><u>Security Scare: Can You Trust Your Biometric Lock on Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-shopping-crash-error-x800704cf/"><u>Tackling Win11's Shopping Crash: Error X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-icon-order-in-windows/"><u>Tips for Restoring Icon Order in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-streamline-win11s-print-management-max-52-chars/"><u>Ways to Streamline Win11’s Print Management (Max 52 Chars)</u></a></li>
 </ul></div>
 

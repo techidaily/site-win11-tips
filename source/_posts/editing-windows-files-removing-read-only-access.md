@@ -1,7 +1,7 @@
 ---
 title: "Editing Windows Files: Removing Read-Only Access"
-date: 2024-10-14T21:04:25.858Z
-updated: 2024-10-20T20:29:24.403Z
+date: 2024-10-23T18:03:39.842Z
+updated: 2024-10-26T18:00:31.595Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<http://How> to Take Ownership of Folders in Windows 10 & 11) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 ![Change Read-Only Attribute With Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
 
 `attrib -r "FilePath"`
@@ -75,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Read-Only Attribute for Files Using Windows PowerShell
@@ -99,15 +92,22 @@ To change the read-only attribute using PowerShell:
 ![Change Read-Only Attribute With PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
 
 `Set-ItemProperty -Path "FilePath" -Name IsReadOnly -Value $False`
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modifying the Read-Only Attribute for Files on Windows
 
@@ -128,18 +128,20 @@ To change the read-only attribute using PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>[New] In 2024, Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-crafting-visibility-on-youtube-the-ultimate-guide-to-featured-channel-placement/"><u>[Updated] In 2024, Crafting Visibility on YouTube The Ultimate Guide to Featured Channel Placement</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tube-top-ten-twitters-most-watched-video-rankings/"><u>2024 Approved Tube Top Ten Twitter's Most Watched Video Rankings</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/brain-boosting-techniques-transforming-language-learning-experience/"><u>Brain Boosting Techniques Transforming Language Learning Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/concealing-time-on-win-1011-desktops/"><u>Concealing Time on Win 10/11 Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-unappealing-look-of-greyed-extend-options-in-win/"><u>Eliminate Unappealing Look of Greyed Extend Options in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-advice-tackling-the-most-common-directdraw-errors-on-windows-11/"><u>Expert Advice: Tackling the Most Common DirectDraw Errors on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-system-bottleneck-explorers/"><u>Innovative System Bottleneck Explorers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-2024-outdoor-television-sets-professional-picks-and-reviews-zdnet/"><u>Top-Rated 2024 Outdoor Television Sets: Professional Picks and Reviews - ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/understanding-twitters-new-video-format-codes-for-2024/"><u>Understanding Twitter's New Video Format Codes for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-v30-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme V30 Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wyzecams-superior-substitute-discover-why-the-waterproof-blink-mini-amoost-unbeatable-in-home-surveillance/"><u>WyzeCam's Superior Substitute: Discover Why The Waterproof Blink Mini Amoost Unbeatable in Home Surveillance</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transform-into-a-metaverse-virtuoso-essential-tools-list-for-2024/"><u>[New] Transform Into a Metaverse Virtuoso - Essential Tools List for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-bite-sized-video-knowledge-now/"><u>[Updated] In 2024, Bite-Sized Video Knowledge Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enriched-video-presentation-implementing-lc-and-bb-on-social-platforms/"><u>2024 Approved Enriched Video Presentation Implementing LC and BB on Social Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-wasted-space-in-windows-with-temp-file-fixes/"><u>Eliminate Wasted Space in Windows with Temp File Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-permanent-deletion-of-files-with-desktop-trash-on-windows-11/"><u>Ensuring Permanent Deletion of Files with Desktop Trash on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-iphone-skills-photo-resizing-guide/"><u>Essential iPhone Skills Photo Resizing Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-google-pixel-fold-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Google Pixel Fold Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-zte-axon-40-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your ZTE Axon 40 Lite via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-0x8007000f-on-running-tasks/"><u>Resolving Error Code 0X8007000F on Running Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lost-visual-function-in-overwatch-2-on-windows/"><u>Restoring Lost Visual Function in Overwatch 2 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-windows-update-error-codes/"><u>Steps to Overcome Windows Update Error Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-halt-windows-pcs-from-booting-bios-mode/"><u>Strategies to Halt Windows PCs From Booting BIOS Mode</u></a></li>
 </ul></div>
 

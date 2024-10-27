@@ -1,7 +1,7 @@
 ---
 title: Fixing Fixed Power Configurations in Windows 11
-date: 2024-10-17T22:58:46.673Z
-updated: 2024-10-21T01:55:17.274Z
+date: 2024-10-20T16:11:48.152Z
+updated: 2024-10-26T19:02:26.178Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -59,7 +52,21 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -76,27 +83,20 @@ Here is how you can run the troubleshooter:
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -123,16 +123,17 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 3. Locate the**Select an active power plan** option in the right pane and double-click on it.  
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -163,16 +164,24 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-filmmakers-companion-the-finest-15-gopro-cine-luts-unveiled/"><u>[New] Filmmaker's Companion The Finest 15 GOPRO Cine LUTs Unveiled</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unraveling-the-purpose-behind-facebooks-blue-icon-for-2024/"><u>[New] Unraveling the Purpose Behind Facebook's Blue Icon for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-iphone-vr-games-today/"><u>2024 Approved Explore the Best iPhone VR Games Today</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-shoot-hdr-photos-with-iphone/"><u>2024 Approved How to Shoot HDR Photos with iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-shifting-images-from-ios-devices-straight-into-usb-flash-storage-including-pc-free-options/"><u>Comprehensive Strategies for Shifting Images From iOS Devices Straight Into USB Flash Storage, Including PC-Free Options</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-tricks-to-switch-your-pc-to-dark-mode-on-windows-10/"><u>Easy Tricks to Switch Your PC to Dark Mode on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-reactivate-windows-11-troubleshooters/"><u>Essential Guide to Reactivate Windows 11 Troubleshooters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-disabled-mobile-hotspot-issue/"><u>Overcoming Windows 11'S Disabled Mobile Hotspot Issue</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/pemulihan-hd-disk-toshiba-tanpa-biaya-jadilah-pemimpin-dengan-6-metode-gratis/"><u>Pemulihan HD Disk Toshiba Tanpa Biaya: Jadilah Pemimpin Dengan 6 Metode Gratis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-directories-enabling-controlled-access-in-windows-1011/"><u>Securing Directories: Enabling Controlled Access in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-execution-identifiers-in-app-management/"><u>Understanding Execution Identifiers in App Management</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-key-to-making-youtube-videos-stand-out-on-instagram-stories/"><u>[New] The Key to Making YouTube Videos Stand Out on Instagram Stories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] 2024 Approved Screen Review Snapshot Is Active 8 Top-Tier or Not?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pro-broadcast-hardware-for-seamless-livestreams/"><u>[Updated] Pro Broadcast Hardware for Seamless Livestreams</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-the-ultimate-guide-how-to-use-vlcs-youtube-downloading-feature-at-no-cost/"><u>1. The Ultimate Guide: How to Use VLC's YouTube Downloading Feature at No Cost</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-f54-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy F54 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-marketplace-fails-error-0x80073cf3/"><u>Guiding Through Windows Marketplace Fails (Error 0X80073CF3)</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-12-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 12 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-educational-websites-for-high-quality-virtual-classroom-enrollment/"><u>Leading Educational Websites for High-Quality Virtual Classroom Enrollment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-store-faults-rectify-error-0x80072f17/"><u>Mending Windows Store Faults: Rectify Error 0X80072f17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/organizing-files-optimizing-drives-defrag-for-win11-users/"><u>Organizing Files, Optimizing Drives: Defrag for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-meetings-pre-call-tech-check-for-webcamsmics-windows/"><u>Perfecting Meetings: Pre-Call Tech Check for Webcams/Mics (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-geforce-experience-on-windows-pcs/"><u>Quick Guide to Fix GeForce Experience on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-solutions-at-fingertips-customizing-shortcuts-for-win-11-repairs/"><u>Speedy Solutions at Fingertips: Customizing Shortcuts for Win 11 Repairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-activate-folder-restrictions-in-windows/"><u>Step-by-Step Guide to Activate Folder Restrictions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-0xc0000001-on-windows-os/"><u>Steps to Solve 0XC0000001 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11-speed-start-up-enhancement-techniques/"><u>Unleash Windows 11 Speed: Start-Up Enhancement Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-network-configurations-in-windows-os/"><u>Unlock the Power of Network Configurations in Windows OS</u></a></li>
 </ul></div>
 

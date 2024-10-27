@@ -1,7 +1,7 @@
 ---
 title: Stop Win11 Printer Headaches with Simple Steps
-date: 2024-09-11T03:07:55.825Z
-updated: 2024-09-16T22:23:10.617Z
+date: 2024-10-20T18:24:47.471Z
+updated: 2024-10-26T17:09:55.860Z
 tags:
   - windows10
   - windows11
@@ -60,6 +60,14 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 3. Right-click on**Microsoft Print to PDF** and select**Update driver** .  
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
@@ -82,17 +90,32 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 4. Proceed by clicking on**Stop** .  
 ![print spooler properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/print-spooler-properties.jpg)
 5. Then follow the path**C:\\Windows\\system32\\spoolsv.exe** and delete all the files present in the folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![content in spool folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/spool-folder.jpg)
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Recheck Your Default Printer
 
@@ -108,18 +131,18 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check for New Windows Updates
 
@@ -132,20 +155,14 @@ Here's how you can check that:
 3. Click on**Check for Updates** .  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-options.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Remove Your Last Windows 11 Update
 
@@ -156,19 +173,6 @@ Here's how you can check that:
  For this, head over to**Settings > Windows Update > Update history.** Here, scroll down and go to**Uninstall updates** located under**Related settings** . This action will prompt open a list of Windows updates where you must select the latest one and click on**Uninstall** .
 
  If the latest Windows 11 update was the culprit, reversing it should do the trick and kickstart the printer once again.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run System Restore
 
@@ -183,18 +187,18 @@ To go back to a restore point:
 ![advanced recovery tools in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/advanced-recovery-tools1.jpg)
 5. The System Restore dialogue box will launch open. Click on**Next** to proceed forward.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select the restore point to restore your computer back to when your printer was functioning without a hitch.
 7. Again, click on**Next** and then**Finish** to confirm your restore point.
 8. It will confirm one last time if you wish to proceed with the system restore process. Move your cursor to**Yes** and click.
 
  Your PC will restart while it resets your Windows 11 to its last restore point.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Printer’s Fixed and Running—What’s Next?
 
@@ -213,5 +217,21 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[New] Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>[Updated] Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-integrate-soundtracks-into-instagram-storytelling-for-2024/"><u>[Updated] Integrate Soundtracks Into Instagram Storytelling for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-mac-gif-recorders-the-ultimate-list-for-2024/"><u>[Updated] Leading Mac GIF Recorders The Ultimate List for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-display-performance-the-drivers-way-on-win1011/"><u>Enhancing Display Performance: The Drivers' Way on WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-good-to-great-expert-techniques-for-crafting-impressive-slideshows-and-repairing-windows-11-photo-flaws/"><u>From Good to Great: Expert Techniques for Crafting Impressive Slideshows & Repairing Windows 11 Photo Flaws</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-repairing-anydesk-in-windows-11/"><u>Guide to Repairing AnyDesk in WIndows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-funimate-simplified-your-compreayer-guide/"><u>In 2024, Funimate Simplified Your Compreayer Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-guide-to-utilizing-windows-component-services/"><u>Interactive Guide to Utilizing Windows Component Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-your-pcs-internet-woes-6-proven-fixes-for-net-adapter-issues/"><u>Troubleshoot Your PC's Internet Woes - 6 Proven Fixes for Net Adapter Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-android-studio-windows-edition/"><u>Unlock Full Potential of Android Studio, Windows Edition</u></a></li>
+</ul></div>
 

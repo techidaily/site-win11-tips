@@ -1,7 +1,7 @@
 ---
 title: How to Use Winstall to Batch Install Apps in Windows 11
-date: 2024-09-10T22:17:13.280Z
-updated: 2024-09-16T16:51:24.904Z
+date: 2024-10-19T21:40:20.884Z
+updated: 2024-10-26T22:27:36.496Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![Install Multiple Apps Using a Winstall App Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack.jpg)
 3. Now, click on the **Get Pack** button. This will scroll the page to the **Get the Pack** section at the bottom.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
 
  Now, you can install the app pack in three ways: Batch, PowerShell, and Winget Import. You can [download and run the batch file](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) with administrator privileges on your system. Or, you can copy the batch file commands and run them in an elevated Command Prompt window.
@@ -80,16 +87,23 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 4. You can use the **Advanced options** section to enable the **silent installation** command while adding the selected packages. Then, click on the **Copy to Clipboard** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Install Multiple Apps Using a Custom App List in Winstall 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-2.jpg)
 5. [Open Command Prompt with administrator privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) on your system. Paste the copied code into it and press Enter to execute the code.  
 ![Install Multiple Apps Using a Custom App List in Winstall 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-3.jpg)
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
 
@@ -104,16 +118,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
  If you want to know more about Winget, you should check out [our Widows Package Manager guide](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Batch Installing Apps Is a Piece of Cake
@@ -132,5 +140,21 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-guide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>[New] 2024 Approved Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-7-social-media-screen-grabs/"><u>[New] Top 7 Social Media Screen Grabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-photovideo-save-issues/"><u>Clearing Up Windows Photo/Video Save Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-frustrations-among-users-after-iphone-upgrade-to-ios-18-a-shared-experience-zdnet/"><u>Common Frustrations Among Users After iPhone Upgrade to iOS 18: A Shared Experience - ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-download-and-apply-an-amd-video-card-update/"><u>How to Seamlessly Download and Apply an AMD Video Card Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-resolution-end-too-many-requests-on-windows-platforms/"><u>Mastering Error Resolution: End Too Many Requests on Windows Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-photo-chronicles-creator-set/"><u>Pinnacle Photo Chronicles Creator Set</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilize-win11s-file-explorer-with-these-fixes/"><u>Stabilize Win11's File Explorer With These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-overcoming-unauthorized-app-restriction/"><u>Strategies for Overcoming Unauthorized App Restriction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subtletys-secret-invisible-settings-and-buttons/"><u>Subtlety's Secret: Invisible Settings and Buttons</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-p40-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel P40 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mystery-solved-accessing-the-missing-la-noire-pc-edition-explained/"><u>The Mystery Solved: Accessing the Missing L.A. Noire PC Edition Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-harmonizing-mp4-visuals-with-top-tier-music-selection-methods-for-2024/"><u>Updated Harmonizing MP4 Visuals with Top-Tier Music Selection Methods for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-puzzle-solve-the-vanishing-image-problem/"><u>Win 11 Puzzle: Solve the Vanishing Image Problem</u></a></li>
+</ul></div>
 

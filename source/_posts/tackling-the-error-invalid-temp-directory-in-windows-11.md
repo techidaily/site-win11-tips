@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Error: Invalid Temp Directory in Windows 11"
-date: 2024-10-17T04:03:08.262Z
-updated: 2024-10-21T04:25:01.420Z
+date: 2024-10-23T19:15:21.213Z
+updated: 2024-10-26T16:48:59.941Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Read-Only Access
 
  Windows usually creates temporary files for programs, including the one that you're trying to install. If the temp folder is set to read-only, Windows can't save files in it and will throw an error.
@@ -52,14 +45,15 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 6. Check the**Allow** option next to**Full control** .  
 ![Temp folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/temp-properties-1.jpg)
 7. Click**Apply > OK** .
-8. Restart your computer and check if the problem is now solved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Restart your computer and check if the problem is now solved.
 
 ## 3\. Compress the EXE File You're Trying to Run
 
@@ -71,18 +65,18 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Clean Boot Your System
 
  Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should[perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  This way, your system boots up with a minimal number of drivers and startup apps, so you can figure out if a background app is causing you issues. If everything works as usual, check the list of installed apps and remove the ones that may be causing conflict.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Re-Download the App and Install It
 
@@ -97,10 +91,17 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
@@ -124,19 +125,24 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/orrow-without-cost-images-from-leading-youtubers-archives-for-2024/"><u>[New] Borrow Without Cost Images From Leading YouTubers' Archives for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-make-your-favorite-tiktok-sound-a-phones-custom-ringtone/"><u>[New] Make Your Favorite TikTok Sound a Phone's Custom Ringtone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tasty-trailblazers-culinary-youtube-icons/"><u>[Updated] 2024 Approved Tasty Trailblazers Culinary YouTube Icons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/default-plugins-for-chatgpt-explored/"><u>Default Plugins for ChatGPT Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-combo-marvels-what-if-for-your-apple-vision-pro-absolutely-free/"><u>Discover the Ultimate Combo: Marvel's What If...? For Your Apple Vision Pro – Absolutely Free!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/drive-into-the-future-a-list-of-top-5-free-upgrade-tools-for-windows/"><u>Drive Into the Future: A List of Top 5 Free Upgrade Tools for Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-techniques-for-reducing-the-size-of-your-m4a-audio-tracks/"><u>Effortless Techniques for Reducing the Size of Your M4A Audio Tracks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/innovative-ways-to-record-youtube-videos-for-2024/"><u>Innovative Ways to Record YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/is-your-tab-key-not-working-on-windows-heres-how-to-fix-it/"><u>Is Your Tab Key Not Working on Windows? Here’s How to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-volume-adjustments-in-windows-for-voicemusic-only-bluetooth-speaker/"><u>Mastering Volume Adjustments in Windows for Voice/Music Only Bluetooth Speaker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-tracking-the-lowdown-on-pc-resources-in-windows-11/"><u>Precision Tracking: The Lowdown on PC Resources in Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/recording-success-the-ultimate-guide-for-facetime-conversations-for-2024/"><u>Recording Success The Ultimate Guide for FaceTime Conversations for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-write-file-permission-problems-in-windows-oses/"><u>Solving Write File Permission Problems in Windows OSes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolve-constant-crashes-of-palworld-game-in-windows/"><u>Ultimate Guide to Resolve Constant Crashes of Palworld Game in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-vimeo-vips-engaging-on-snapchat/"><u>[New] Vimeo VIPs Engaging on Snapchat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortlessly-embedding-visual-media-in-free-content-creation-for-2024/"><u>[Updated] Effortlessly Embedding Visual Media in Free Content Creation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed-for-2024/"><u>[Updated] Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>2024 Approved Photographer’s Ultimate Cloud Companion Infinite, Free & Paid Sky Sanctuaries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-the-hurdles-of-xbox-game-pass-error-code-0-essential-tips-for-windows-11-users/"><u>Avoiding the Hurdles of Xbox Game Pass Error Code 0: Essential Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-visuality-with-app-sizing/"><u>Boosting Windows 11 Visuality with App Sizing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-fatal-javascript-issue-with-ease-on-win-11-discord/"><u>Conquering Fatal Javascript Issue with Ease on Win 11 Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-premier-android-smartwatch-apps-to-upgrade-your-wearable-tech/"><u>Discover the Premier Android Smartwatch Apps to Upgrade Your Wearable Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficient-methods-for-converting-movies-from-mov-to-wmv-format/"><u>Efficient Methods for Converting Movies From MOV to WMV Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-webbrowsers-for-lighter-system-resource-use-on-os-x-windows-chromeos/"><u>Efficient Webbrowsers for Lighter System Resource Use on OS X, Windows, ChromeOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-resolve-windows-11-search-tool-errors/"><u>Guides to Resolve Windows 11 Search Tool Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-an-additional-monitor-without-gui-chipset/"><u>How to Use an Additional Monitor Without GUI Chipset</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-p40-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel P40 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-starting-your-own-platform-a-guide-to-reviews-and-ratings-for-gadgets/"><u>In 2024, Starting Your Own Platform A Guide to Reviews and Ratings for Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-mic-malfunctions-in-windows-os/"><u>Overcoming Xbox Mic Malfunctions in Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nubia-red-magic-8s-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nubia Red Magic 8S Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-managing-win11-applications-via-winget/"><u>The Complete Guide to Managing Win11 Applications via Winget</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-intel-unison-for-windows-11-calling/"><u>The Ultimate Guide to Intel Unison for Windows 11 Calling</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Data Storage Insights with PowerShell on Windows OS
-date: 2024-10-19T01:04:35.995Z
-updated: 2024-10-21T03:20:19.454Z
+date: 2024-10-19T17:20:56.471Z
+updated: 2024-10-26T22:05:40.356Z
 tags:
   - windows10
   - windows11
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the Subfolder Size Using PowerShell
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the Subfolder Size in a Table Format Using PowerShell
@@ -131,16 +131,10 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
  In the above command, **"?"** is an alias for the **Where-Object** cmdlet, **\-gt, -AND, -It** are comparison operators, and **CreationTime** is a condition. The command checks if the CreationTime of files in the subdirectory falls within the specified date range and shows output only if the condition is satisfied. If you get an error, ensure your date and time format in the command matches the system's format and try again.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Folder and Subfolder Size Using PowerShell
@@ -151,27 +145,6 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-tips.techidaily.com/1726224657063-x-plus-y-plus-z-(-21/"><u> [ X + Y + Z < 21 </u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[New] 2024 Approved From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[Updated] In 2024, The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/amplify-your-videos-impact-7-royalty-free-sounds-for-2024/"><u>Amplify Your Video's Impact 7 Royalty-Free Sounds for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/custom-directory-titles-for-your-user-profile-windows-11/"><u>Custom Directory Titles for Your User Profile, Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-user-experience-upgrade-taskbar-in-win11/"><u>Elevate Your User Experience: Upgrade Taskbar in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-visuals-shift-to-advanced-wmdesk/"><u>Enhanced Visuals: Shift to Advanced WMDesk</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-solutions-for-fixing-no-signal-screen-problems-on-android-gadgets/"><u>Expert Solutions for Fixing 'No Signal' Screen Problems on Android Gadgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-a-website-facing-a-503-service-error-message/"><u>How to Troubleshoot a Website Facing a 503 Service Error Message</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-keybindings-windows-application-control/"><u>Master Keybindings: Windows Application Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-erroneous-sound-handling-in-audacity-on-win-1111/"><u>Mending Erroneous Sound Handling in Audacity on Win 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-mandatory-requirements-issue-in-windows-1111/"><u>Quick Fix for Mandatory Requirements Issue in Windows 11/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/speedy-solutions-for-extracting-video-audio-on-youtube-without-hitches/"><u>Speedy Solutions for Extracting Video Audio on YouTube Without Hitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sprinkle-life-into-windows-11-techniques-for-lively-wallpapers/"><u>Sprinkle Life Into Windows 11: Techniques for Lively Wallpapers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-clear-frozen-security-in-windows-11/"><u>Steering Clear Frozen Security in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +152,25 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-online-title-mastery-techniques-you-cant-ignore/"><u>[New] Online Title Mastery Techniques You Can't Ignore</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-anonymity-in-action-insta-stories-guide/"><u>[Updated] 2024 Approved Anonymity in Action Insta Stories Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[Updated] 2024 Approved From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-platform-for-12-hourly-live-broadcasts/"><u>[Updated] Next-Gen Platform for 12 Hourly Live Broadcasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-downloading-the-latest-tiktok-features-on-your-macbook/"><u>2024 Approved Downloading the Latest TikTok Features on Your MacBook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-strategies-to-tackle-delay-in-typing-windows-11s-keyboard/"><u>8 Strategies to Tackle Delay in Typing Windows 11'S Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-lifeline-for-gaming-ensuring-persistent-connection-of-your-ps4-controller-in-windows/"><u>A Lifeline for Gaming: Ensuring Persistent Connection of Your PS4 Controller in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/building-your-tech-resume-creating-an-impressive-programming-portfolio-tips-from-zdnet/"><u>Building Your Tech Resume: Creating an Impressive Programming Portfolio - Tips From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-repeated-team-sign-ins-on-windows-systems/"><u>Bypassing Repeated Team Sign-Ins on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-experience-implementing-superior-run-capabilities/"><u>Elevate Your Windows 11 Experience: Implementing Superior Run Capabilities</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/h265-convertisseur-hd-encodeur-video-h265-optimal-sur-windowsmac/"><u>H.265 Convertisseur HD : Encodeur Vidéo H.265 Optimal Sur Windows/Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-libertys-guide-to-attaching-tracks-in-movies-for-free/"><u>In 2024, Libertys Guide to Attaching Tracks in Movies for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-page-lockout-in-windows-systems/"><u>Overcoming Page Lockout in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-windows-safety-edge-context-menu-firewall-customization-guide/"><u>Sharpen Windows Safety Edge: Context Menu Firewall Customization Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-spectrum-mastering-windows-network-adapter-assessment-methods/"><u>Speed Spectrum: Mastering Windows' Network Adapter Assessment Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-download-of-the-latest-hp-p1606dn-windows-printing-drivers-and-updates/"><u>Step-by-Step Download of the Latest HP P1606DN Windows Printing Drivers and Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-routes-to-windows-control-panel-entry/"><u>Unveiling the Routes to Windows Control Panel Entry</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tactics to Turn Off Microsoft's Win11 Firewall
-date: 2024-10-16T02:21:46.661Z
-updated: 2024-10-21T01:09:06.884Z
+date: 2024-10-20T18:19:20.020Z
+updated: 2024-10-26T16:45:31.781Z
 tags:
   - windows10
   - windows11
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
  To ensure maximum security while disabling your firewall, always make sure that other protective measures such as antivirus programs are running in the background. Once these have been taken care of, you can disable the firewall on your Windows 11 PC. Here's how to do this:
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable the Firewall Using Windows Security
@@ -55,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![Disable the Firewall Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-firewall-using-windows-security.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The UAC prompt will require you to accept it, so make sure your computer is set up as an admin account. If UAC prompts on the screen, click **Yes** to continue.
@@ -75,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 3. From the left pane, select **Turn Windows Defender Firewall on or off**.  
 ![Turn off the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-through-control-panel.jpeg)
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click **OK** to save your changes.
 
@@ -115,6 +102,13 @@ netsh advfirewall set allprofiles state off
 
  In this way, you can disable the firewall according to your selected network profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Turn Off the Firewall via PowerShell
 
  Windows PowerShell is an important tool that can be used to manage many aspects of the Windows operating system. You can also use it to disable the Microsoft Defender Firewall.
@@ -123,16 +117,16 @@ netsh advfirewall set allprofiles state off
 
 ![Turn Off the Firewall Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-via-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
@@ -147,6 +141,14 @@ Computer Configuration > Administrative Templates > Network > Network Connection
 4. On the right side of the window, double-click the policy called **Windows Defender Firewall: Protect all network connections**.  
 ![Turn Off the Firewall Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-using-group-policy-editor.jpg)
 5. Next, choose **Disabled** from the dialog box that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. When you're done making your changes, click **Apply** \> **OK**.
 7. For the changes to take effect, restart your computer after completing the above steps.
 
@@ -167,13 +169,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
  When you have completed all the steps above, close the Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable the Firewall With Ease on Windows
 
  You may want to disable the firewall for testing, developing applications, or playing online games. However, disabling the firewall can have risks, and you should always exercise caution. In case you need to do it, this guide explains multiple ways to do it, such as via Windows Security, Control Panel, Command Prompt, and more.
@@ -193,24 +188,20 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-discovering-the-essentials-of-exceptional-tiktok-campaigns-for-2024/"><u>[New] Discovering the Essentials of Exceptional TikTok Campaigns for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-break-down-barriers-streaming-google-meet-on-youtube-stepwise/"><u>[Updated] In 2024, Break Down Barriers Streaming Google Meet on YouTube, Stepwise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-transform-online-sales-with-these-premier-15-facebook-monitoring-tools-for-2024/"><u>[Updated] Transform Online Sales with These Premier 15 Facebook Monitoring Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-snap-the-scene-comprehensive-no-cost-pcmac-capture-tools/"><u>2024 Approved Snap the Scene Comprehensive, No-Cost PC/Mac Capture Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-disabled-audio-slider-errors-on-win1011/"><u>Correcting Disabled Audio Slider Errors on Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-synapses-overlook-of-your-razer-equipment-in-win-11/"><u>Correcting Synapse's Overlook of Your Razer Equipment in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-command-line-interface-on-microsoft-os/"><u>Customizing Command Line Interface on Microsoft OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/front-rows-of-recreation-beyond-the-sports-arena/"><u>Front Rows of Recreation Beyond the Sports Arena</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c12-plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C12 Plus Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-heic-to-jpeg-conversion-in-windows-11/"><u>Mastering HEIC to JPEG Conversion in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outlook-not-syncing-troubleshoot-windows-issues/"><u>Outlook Not Syncing? Troubleshoot Windows Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-onedrive-sign-in-challenges-on-windows-os/"><u>Overcoming OneDrive Sign-In Challenges on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-inactive-heat-reduction-policy-for-windows/"><u>Reviving Inactive Heat Reduction Policy for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-seamlessly-4-practical-steps-for-locking-out-windows-users/"><u>Securing Seamlessly: 4 Practical Steps for Locking Out Windows Users</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/solving-the-puzzle-why-your-saved-files-arent-showing-on-desktop/"><u>Solving the Puzzle: Why Your Saved Files Aren't Showing on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategizing-to-surmount-the-challenges-of-error-0x80040610-in-outlook/"><u>Strategizing to Surmount the Challenges of Error 0X80040610 in Outlook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-subtle-sound-dimming-in-productions-for-2024/"><u>The Art of Subtle Sound Dimming in Productions for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-preventing-automatic-startup-of-applications-with-revo-uninstaller/"><u>Ultimate Guide: Preventing Automatic Startup of Applications with Revo Uninstaller</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compiling-ultimate-list-of-virtual-controls/"><u>[New] Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crafting-seamless-virtual-gatherings-with-google-meet/"><u>[New] Crafting Seamless Virtual Gatherings with Google Meet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grasping-the-glossary-of-virtual-worlds/"><u>[Updated] Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] In 2024, Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-video-vroom-guide-rotating-images-to-gain-insta-momentum/"><u>[Updated] The Video Vroom Guide Rotating Images to Gain Insta Momentum</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-detailed-insight-the-functionality-of-google-podcast-app/"><u>2024 Approved Detailed Insight The Functionality of Google Podcast App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-pranks-engage-in-5-digital-delights/"><u>Command Prompt Pranks: Engage in 5 Digital Delights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-navigator-placement-of-this-pc-icons/"><u>Customizing Windows Navigator: Placement of 'This PC' Icons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-modifying-windows-files/"><u>Mastering the Art of Modifying Windows Files</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-video-orientation-tips-and-tricks-for-flipping-videoclips-in-windows-11/"><u>Mastering Video Orientation: Tips and Tricks for Flipping Videoclips in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-monitor-mastery-personalized-pixelation-per-system-screen/"><u>Multi-Monitor Mastery: Personalized Pixelation per System Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-mute-microphone-issue-during-video-recordings/"><u>Tackling Mute Microphone Issue During Video Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-delay-in-windows-11-adoption/"><u>Unpacking the Delay in Windows 11 Adoption</u></a></li>
 </ul></div>
 

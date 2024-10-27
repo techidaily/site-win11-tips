@@ -1,7 +1,7 @@
 ---
 title: Tailoring Windows Software with Keybindings
-date: 2024-10-15T17:06:55.117Z
-updated: 2024-10-20T17:24:33.730Z
+date: 2024-10-24T19:52:02.720Z
+updated: 2024-10-26T23:37:43.032Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
@@ -87,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. How to Add a Keyboard Shortcut to Literally Any Program in Windows, Using Microsoft PowerToys
@@ -122,21 +123,14 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
@@ -148,27 +142,6 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oost-views-via-strategic-tagging-tactics-for-2024/"><u>[New] Boost Views via Strategic Tagging Tactics for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-crafting-impressive-big-heads-on-tiktok-a-detailed-walkthrough-3-steps/"><u>[New] Crafting Impressive Big Heads on TikTok A Detailed Walkthrough (3 Steps)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haul-vlogging-101-a-step-by-step-guide/"><u>[New] In 2024, Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-smart-shoppers-guide-to-camcorder-choices-in-winter-for-2024/"><u>[New] The Smart Shopper's Guide to Camcorder Choices in Winter for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-the-persistent-xbox-game-pass-error-0x000-in-windows-11/"><u>How To Eradicate the Persistent Xbox Game Pass Error 0X000_ in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-80-pro-straight-screen-edition-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 80 Pro Straight Screen Edition Phone FRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-batch-heic-to-jpeg-on-windows-11-systems/"><u>Navigating Batch HEIC to JPEG on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-noisy-speakers-settings-in-windows/"><u>Navigating Noisy Speakers Settings in Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-best-premiere-pro-transition-plugins-expert-picks/"><u>New In 2024, Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-plugged-inspection-failure-for-windows-users/"><u>Reversing Plugged Inspection Failure for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-the-not-responding-spotify-issue-in-win-oses/"><u>Solutions for the Not Responding Spotify Issue in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-setup-for-using-android-as-a-second-screen-in-w11/"><u>The Ultimate Setup for Using Android as a Second Screen in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-1053-service-unresponsive-on-windows/"><u>Troubleshooting Error 1053: Service Unresponsive on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-disconnected-pc-accessories/"><u>Troubleshooting Steps for Disconnected PC Accessories</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-videos-with-ease-top-10-free-tools-for-windows-mac-android-and-iphone-for-2024/"><u>Updated Rotate Videos with Ease Top 10 Free Tools for Windows, Mac, Android, and iPhone for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +149,21 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-essence-of-luts-mastering-photo-color-dynamics/"><u>[New] The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-blueprint-for-stress-management/"><u>ChatGPT's Blueprint for Stress Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-admin-restriction-notifications-in-winsec/"><u>Dealing with 'Admin Restriction' Notifications in WinSec</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-win1011-audacity-paudio-malfunctions/"><u>Diagnosing and Repairing Win10/11 Audacity PAudio Malfunctions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discover-the-top-strategies-for-watching-global-cricket-events-online-for-2024/"><u>Discover the Top Strategies for Watching Global Cricket Events Online for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-traffic-with-the-robust-tracking-of-cookiebot/"><u>Enhance Your Website Traffic with the Robust Tracking of Cookiebot</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-vlc-media-player-reducing-delay-effects/"><u>Optimizing VLC Media Player: Reducing Delay Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-hang-error-x887a0006-on-windows-11/"><u>Overcoming Device Hang Error: X887A0006 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-breakpoint-exception-error/"><u>Overcoming Windows' Breakpoint Exception Error</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pairing-audio-with-visuals-web-forum/"><u>Pairing Audio with Visuals Web Forum</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-storage-solutions-4-essential-techniques-for-accessing-windows-disk-manager/"><u>Speedy Storage Solutions: 4 Essential Techniques for Accessing Windows Disk Manager</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-resolve-non-launching-re-link-in-granblue-fantasy-game/"><u>Step-by-Step Guide to Resolve Non-Launching Re-Link in Granblue Fantasy Game</u></a></li>
+</ul></div>
+

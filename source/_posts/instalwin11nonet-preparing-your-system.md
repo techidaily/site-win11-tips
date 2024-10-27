@@ -1,7 +1,7 @@
 ---
 title: "InstalWin11NoNet: Preparing Your System"
-date: 2024-10-15T16:10:58.734Z
-updated: 2024-10-20T17:35:13.438Z
+date: 2024-10-23T18:18:02.567Z
+updated: 2024-10-26T23:43:18.541Z
 tags:
   - windows10
   - windows11
@@ -53,21 +53,29 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![Windows-11-setup-screen-install-now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-screen-install-now.jpg)
 4. Click **Install Now.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
 3. Select **Custom: Install Windows Only (Advanced).**  
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the setup screen, select your region and keyboard layout.
 
 1. Once in the **Let’s connect you to a network** screen, press **Shift + F10** to launch the **Command Prompt.**  
@@ -81,21 +89,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -115,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Type **exit** in the Command Prompt and hit enter.
@@ -129,19 +123,19 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
 1. At the Let’s connect you to a network screen, press **Shift + F10** to launch Command Prompt.
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -151,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  If successful, Windows 11 will skip the current screen and move to the next step. Once you're past this step, you can create a local user account and then complete the setup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Completing the Windows 11 Setup Without Internet Access
 
  You can follow one of the four methods listed above to skip the let’s connect you to a network window and complete the Windows 11 setup without the internet.
@@ -159,27 +160,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-building-your-youtube-empire-kit-overview-for-2024/"><u>[Updated] Building Your YouTube Empire Kit Overview for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-profiles-in-metaverse-promotion-case-studies-and-more/"><u>[Updated] Profiles in Metaverse Promotion Case Studies and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/critical-updates-for-macos-sonoma-version-14-the-fourth-bug-fixes-expert-advice-by-zdnet/"><u>Critical Updates for macOS Sonoma Version 14. The Fourth Bug Fixes - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-enable-basic-printscan-functions-on-your-windows-10-device/"><u>How To Enable Basic Print/Scan Functions on Your Windows 10 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-windows-copilot-using-vivetool/"><u>How to Enable Windows Copilot Using ViveTool</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-infinix-hot-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Infinix Hot 40</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-pc-writable-cursor-shake/"><u>How to Stop Your PC' Writable-Cursor Shake</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-personalization-tips-and-tricks/"><u>Mastering Windows 11 Personalization: Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-mac-video-tag-editors-for-seamless-organization/"><u>New 2024 Approved Top 10 Mac Video Tag Editors for Seamless Organization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-wi-fi-on-windows-11-a-comprehensive-guide-with-9-strategies/"><u>Optimize Wi-Fi on Windows 11: A Comprehensive Guide with 9 Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-blue-screen-woes-win11s-top-11-fixes-unveiled/"><u>Overcome Blue Screen Woes: Win11's Top 11 Fixes Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-unable-to-manage-default-audio-device/"><u>Remedying 'Windows Unable to Manage Default Audio Device'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-adventures-await-eliminating-maplestory-crashes-in-your-latest-windows-11-update/"><u>Seamless Adventures Await: Eliminating MapleStory Crashes in Your Latest Windows 11 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-solution-tackling-unrecognized-disk-in-windows-11-environment/"><u>Stepwise Solution: Tackling 'Unrecognized Disk' In Windows 11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-task-managers-cpu-statistics-with-clarity/"><u>Understanding Task Manager's CPU Statistics with Clarity</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +167,27 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/asy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimizing-viewing-habits-the-ultimate-guide-to-youtube-save-and-playlists-for-2024/"><u>[New] Optimizing Viewing Habits The Ultimate Guide to YouTube Save and Playlists for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-step-by-step-process-to-enhance-obs-with-effective-lut-filters/"><u>[Updated] In 2024, Step-by-Step Process to Enhance OBS with Effective LUT Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-novice-necessities-the-ultimate-beginners-video-editor/"><u>[Updated] Novice Necessities The Ultimate Beginner's Video Editor</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-convert-and-stream-4k-hd-movies-top-solutions-for-pcs-and-macbooks/"><u>Download, Convert, and Stream 4K HD Movies - Top Solutions for PCs & MacBooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-boot-clutter-a-windows-11-journey/"><u>Eliminating Boot Clutter: A Windows 11 Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-apple-watch-series-10-step-by-step-pre-order-process-and-top-savings-strategies-zdnet/"><u>Get Ahead with Apple Watch Series 10: Step-by-Step Pre-Order Process & Top Savings Strategies | ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-a18-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo A18 Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-a2-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi A2 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-edge-innovations-for-your-daily-life-for-2024/"><u>Leading Edge Innovations for Your Daily Life for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microphone-disconnect-in-windows-11-for-xbox/"><u>Overcoming Microphone Disconnect in Windows 11 for Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-3d-painters-guide-to-fast-fingers/"><u>Pro 3D Painter's Guide to Fast Fingers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-access-to-missing-pin-post-update-in-windows-11/"><u>Regain Access to Missing PIN Post-Update in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safe-windows-implement-top-strategies-against-breachers/"><u>Safe Windows: Implement Top Strategies Against Breachers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-windows-update-failure-code-0x800736cc/"><u>Steps to Correct Windows Update Failure Code 0X800736CC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-malfunctioning-game-identifier-in-discord-for-windows-users/"><u>Tackling Malfunctioning Game Identifier in Discord for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-decision-guide-for-gamers-os-choice-matters/"><u>The Ultimate Decision Guide for Gamers: OS Choice Matters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-5-zero-dollar-pc-sound-filters/"><u>Winning 5 Zero-Dollar PC Sound Filters</u></a></li>
+</ul></div>
+

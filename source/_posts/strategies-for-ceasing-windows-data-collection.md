@@ -1,7 +1,7 @@
 ---
 title: Strategies for Ceasing Windows Data Collection
-date: 2024-10-19T00:26:35.782Z
-updated: 2024-10-20T19:59:50.356Z
+date: 2024-10-19T20:20:55.650Z
+updated: 2024-10-26T21:44:00.255Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  Some methods Microsoft uses to collect data from an average Windows 11 user are location services, cookies, diagnostic feedback, and browser activity in Microsoft Edge. Any third-party apps installed on your Windows 11 PC may also collect your activity and location data.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Be Worried About Your Data Privacy on Windows 11?
 
  As a Windows 11 user, you should be aware of apps that collect your data and understand what your preset Windows 11 activity tracking preferences mean. Microsoft tracks its users to improve the experience of their users, but more importantly, to make advertisements more relevant and personalized.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
  Your activity data directly contributes to how relevant the advertisements you receive are. To a certain extent, this means that Windows 11 keeps track of the websites you visit, how you interact with ads, your current location, etc.
 
  If you, like most people, are concerned about your data privacy and do not want Microsoft taking advantage of your user activity, you should consider turning off tracking features on Windows 11\. Even if you cannot completely disable the tracking features, you should opt out of voluntary data collection preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Advertising Data Tracking on Windows 11
 
@@ -49,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on Windows 11
 
@@ -71,24 +78,10 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
 4. Click the**Activity history** tab and disable the**Store my activity history on this device** option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. We also recommend choosing the**Clear activity history for this account** option.
 6. Similarly, navigate to **Settings > Privacy & security > Diagnostics & feedback** .
 7. Disable the**Tailored experiences** option to stop Microsoft from using your diagnostic data for ads, personalized tips, and recommendations.
 8. You can also delete existing diagnostic data via the**Delete diagnostic data** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge Data Collection on Windows 11
 
@@ -104,13 +97,6 @@ To disable tracking within Microsoft Edge:
 
  If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Delete Activity Tracking Data from Microsoft Account
 
  Even if you disable and delete Activity history from your Windows 11 device, there might still be data that you need to data off your Microsoft cloud account.
@@ -120,11 +106,27 @@ To disable tracking within Microsoft Edge:
 1. Login to your[Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
 
@@ -147,16 +149,24 @@ To disable tracking within Microsoft Edge:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-gpu-nostalgia-update/"><u>[New] GPU Nostalgia Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-step-by-step-guide-integrating-your-youtube-videos-with-imovie-for-seamless-editing/"><u>1. Step-by-Step Guide: Integrating Your YouTube Videos with iMovie for Seamless Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defender-history-erase-rituals-for-secure-windows-1011-devices/"><u>Defender History Erase Rituals for Secure Windows 10/11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatching-digital-speed-dismantling-windows-100mbps-barrier/"><u>Dispatching Digital Speed: Dismantling Windows’ 100Mbps Barrier</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-line-distortion-problems-in-samsung-tv-models-expert-tips-and-tricks/"><u>Fixing Line Distortion Problems in Samsung TV Models: Expert Tips & Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-transfer-ultra-hd-videos-to-your-ios-device-without-losing-quality/"><u>How to Transfer Ultra HD Videos to Your iOS Device Without Losing Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-the-immersed-visor-xr-headset-a-game-changer-in-tackling-major-concerns-with-vision-pro-zdnet-insights/"><u>Introducing the Immersed Visor XR Headset - A Game-Changer in Tackling Major Concerns with Vision Pro | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-quell-the-no-email-malfunction-in-app/"><u>Mastering Windows 11: Quell the No Email Malfunction in App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-recurring-bios-failures-on-windows/"><u>Mitigating Recurring BIOS Failures on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-signature-checks-for-updating-unsigned-drivers-in-oses/"><u>Removing Signature Checks for Updating Unsigned Drivers in OSes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>[New] First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-5-podcast-options-for-your-iphone-experience/"><u>[New] Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-mac-screen-saving-the-shortcut-guide/"><u>[Updated] 2024 Approved Mastering Mac Screen Saving The Shortcut Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-announce-your-first-social-giving-drive/"><u>2024 Approved How to Announce Your First Social Giving Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battery-friendly-tips-minimize-windows-11-apps-impact/"><u>Battery-Friendly Tips: Minimize Windows 11 Apps' Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-macos-usability-through-windows-apps/"><u>Boosting macOS Usability Through Windows Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/camera-screens-at-your-fingertips-review-of-top-free-recorders-for-2024/"><u>Camera Screens at Your Fingertips Review of Top Free Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-win11-written-in-devhomes-script/"><u>Deciphering Win11' Written in DevHome's Script</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-access-to-hardware-spaces-via-win-1011-disks/"><u>Efficient Access to Hardware Spaces via Win 10/11 Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-your-program-visibility-win11-style/"><u>Fine-Tuning Your Program Visibility: Win11 Style</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-hot-30-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Hot 30 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>In 2024, Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-your-systems-kickstart-area/"><u>Navigating to Your System's Kickstart Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-html-from-windows-11s-mail-for-improved-clarity/"><u>Purging HTML From Windows 11’S Mail for Improved Clarity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-guide-installing-broadcoms-gige-network-driver-on-windows-10-problem-solved/"><u>Successful Guide: Installing Broadcom's GigE Network Driver on Windows 10 – Problem Solved!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-science-of-hashtags-how-they-drive-instagram-success-for-2024/"><u>The Science of Hashtags How They Drive Instagram Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-the-ultimate-alternatives-to-native-software/"><u>Win 11: The Ultimate Alternatives to Native Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-portable-executable-an-overview/"><u>Windows' Portable Executable: An Overview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop WoW Init Glitches: Quick Fix for PCs"
-date: 2024-10-14T16:02:10.089Z
-updated: 2024-10-20T20:31:08.381Z
+date: 2024-10-20T20:53:25.498Z
+updated: 2024-10-26T21:55:46.323Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
  When the WoW update gets stuck on initializing, you must disable other apps and processes, update the Battle.net client, rule out internet problems, clean the Battle.net cache, whitelist the Battle.net desktop client from Windows Defender, update the drivers, and rebuild the corrupt and outdated game files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First, Perform the Preliminary Checks
 
  Before moving on to the major fixes, perform the following preliminary checks:
@@ -48,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 * Look at the[World of Warcraft forum](https://us.forums.blizzard.com/en/wow/) to see if other users are experiencing the same issue. If so, it's a backend issue, which will be resolved by Blizzard itself.
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Ensure It's Not a Visual Glitch
 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Delete the Battle.net Client Cache
 
@@ -85,22 +78,22 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 5. Restart your device and try downloading the update again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Internet Issues
 
 ![The front of a Wi-Fi router, set against a blurred background](https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5ad0376d97a1f07070c0cf22e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  World of Warcraft update can get stuck in the Battle.net desktop client if your internet connection is down. Run any process that uses a network resource to determine whether the internet is connected. If the internet is not working, resolve the Wi-Fi problem, and the issue will be rectified automatically.
 
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  So stop all active processes on your torrent client, instruct the download managers you're actively using to stop the downloads, and disable third-party apps such as Microsoft Team and Zoom. You should also turn off any other gaming clients currently running, such as Steam and Bluestacks, as they can also trigger the issue.
 
  Once you have disabled them, run the update again to see if it succeeds.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Whitelist Battle.net in Your Firewall
 
@@ -147,17 +147,16 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-leading-video-chat-pros-top-8-for-2024/"><u>[New] Windows' Leading Video Chat Pros Top 8 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-15-cycling-sims-to-play/"><u>2024 Approved Top 15 Cycling Sims to Play</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beginners-guide-9-essential-ai-utilities-for-your-first-project/"><u>Beginner's Guide: 9 Essential AI Utilities for Your First Project</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/deep-dive-into-windows-pc-hdr-capabilities/"><u>Deep Dive Into Windows PC HDR Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-graphics-driver-for-windows-11-quick-and-easy-guide/"><u>Download NVIDIA Graphics Driver for Windows 11 - Quick & Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-system-performance-with-more-vram/"><u>Enhancing System Performance with More VRAM</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-apple-airpods-at-unbeatable-prices-special-offer-today/"><u>Secure Your Apple AirPods at Unbeatable Prices - Special Offer Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-rgb-lighting-in-windows-11/"><u>Setting Up RGB Lighting in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-self-restarting-behavior-in-windows-11-os/"><u>Stopping Self-Restarting Behavior in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-4-windows-apps-for-webp-image-inspectors/"><u>Top 4 Windows Apps for WebP Image Inspectors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-strategies-for-scaling-your-instagram-tv-content/"><u>Top Strategies for Scaling Your Instagram TV Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-facebook-messenger-glitches-on-windows-desktop/"><u>Troubleshoot: Facebook Messenger Glitches on Windows Desktop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-expert-insights-into-magix-video-pro-xs-design/"><u>[Updated] Expert Insights Into Magix Video Pro X's Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-on-entertainment-with-the-help-of-chatgpt/"><u>Deciding on Entertainment with the Help of ChatGPT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-meetings-with-the-jabra-evolve2-audio-upgrade/"><u>Elevate Meetings With the Jabra Evolve2 Audio Upgrade</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-sync-files-between-two-windows-pcs-with-aoemi/"><u>How to Sync Files Between Two Windows PCs With AOEMI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-windows-applications-transforming-videos/"><u>Leading Windows Applications Transforming Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-removing-printers-in-windows-11/"><u>Quick Tips for Removing Printers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-image-saving-failures-in-win11-camera-app/"><u>Remedying Image Saving Failures in Win11 Camera App</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionize-your-live-broadcasts-with-manycam-advanced-virtual-webcam-software/"><u>Revolutionize Your Live Broadcasts with ManyCam – Advanced Virtual Webcam Software!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-app-launch-issues-windows-11s-error-xc000003e/"><u>Unraveling the Mystery of App Launch Issues: Windows 11'S Error XC000003E</u></a></li>
 </ul></div>
 

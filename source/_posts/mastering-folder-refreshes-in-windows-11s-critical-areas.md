@@ -1,7 +1,7 @@
 ---
 title: Mastering Folder Refreshes in Windows 11'S Critical Areas
-date: 2024-10-19T16:08:49.912Z
-updated: 2024-10-20T19:53:38.905Z
+date: 2024-10-21T17:30:49.329Z
+updated: 2024-10-26T17:13:20.741Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -62,6 +55,14 @@ net stop msiserver`
 8. Right-click and select **Delete** (the trash can button) to eradicate selected content.  
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -75,6 +76,13 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -83,27 +91,28 @@ net start msiserver`
 2. Repeat step four of the preceding method to execute the commands for disabling services.  
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
@@ -125,13 +134,6 @@ net start msiserver`
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 11. Exit FixWin and reboot your PC after selecting those options.
 
 ## Fix Windows Update Issues by Resetting the SoftwareDistribution and Catroot2 Folders
@@ -140,26 +142,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leading-8-mirrorless-cameras-for-youtube-creators/"><u>[New] Leading 8 Mirrorless Cameras For YouTube Creators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nleash-hd-vision-utilizing-youtube-for-clear-videos-for-2024/"><u>[New] Unleash HD Vision Utilizing YouTube for Clear Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[Updated] In 2024, Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-hot-30i-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Hot 30i</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-efficiency-and-versatility-of-the-portable-pioneer-bdr-xs06-blu-ray-recorder/"><u>Evaluating the Efficiency and Versatility of the Portable Pioneer BDR-XS06 Blu-Ray Recorder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-optimize-your-windows-computer-with-wintoys/"><u>How to Optimize Your Windows Computer With Wintoys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-google-maps-on-windows-devices/"><u>Implementing Google Maps on Windows Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-resolution-of-error-0x800f0922-in-windows-11/"><u>Mastering Resolution of Error 0X800F0922 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-frozen-sound-settings-in-windows/"><u>Mending Frozen Sound Settings in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-solving-mkv-file-errors-during-playback-on-sonys-latest-consoles-ps4ps5/"><u>Step-by-Step Guide to Solving MKV File Errors During Playback on Sony's Latest Consoles, PS4/PS5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-browsing-with-microsofts-defender-guard-feature/"><u>Streamline Your Browsing with Microsoft's Defender Guard Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-text-enhancements-in-windows-11-snip-tool/"><u>Unlocking Text Enhancements in Windows 11 Snip Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-the-potential-of-4k-at-60-fps-a-comprehensive-guide/"><u>Unlocking the Potential of 4K at 60 FPS: A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286658574-winx-dvd/"><u>WinX DVD 리퍼, 비디오 컨버터 소프트웨어를 무료로 다운로드 - 보고장을 위해서는 이곳에서</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wiping-windows-11s-highlighted-wallpaper-icon/"><u>Wiping Windows 11'S Highlighted Wallpaper Icon</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +149,22 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-an-intro-to-digital-realms-vr-simplified/"><u>[New] An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-6-translation-devices-for-media-files/"><u>[New] Top 6 Translation Devices for Media Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-streams-to-local-files-audio-guide/"><u>[Updated] From YouTube Streams to Local Files Audio Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-off-mode-how-to-deactivate-igtv-for-2024/"><u>[Updated] Off Mode How to Deactivate IGTV for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>[Updated] Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-proarts-pa-329q-a-comprehensive-examination-of-high-end-monitoring/"><u>Asus ProArt's PA 329Q A Comprehensive Examination of High-End Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-couldnt-be-written-error-on-windows/"><u>Combatting Couldn’t Be Written Error on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-disabling-your-facebook-app-on-android-devices/"><u>Complete Guide: Disabling Your Facebook App on Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-camera-error-0xa00f425d/"><u>Eradicating Window's Camera Error: 0XA00F425D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-past-intel-hardware-requirement-shortfalls/"><u>Guiding Users Past Intel Hardware Requirement Shortfalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-microsoft-store-app-in-windows-11/"><u>How to Unblock the Microsoft Store App in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-system-editing-registry-access-in-win11/"><u>Securing Your System: Editing Registry Access in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-functional-characters-on-windows-pcs/"><u>Solutions for Non-Functional Characters on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-how-to-broadcast-netflix-on-screen-with-friends/"><u>Tutorial: How to Broadcast Netflix on Screen with Friends</u></a></li>
+</ul></div>
+

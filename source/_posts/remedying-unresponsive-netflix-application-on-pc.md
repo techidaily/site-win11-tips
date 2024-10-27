@@ -1,7 +1,7 @@
 ---
 title: Remedying Unresponsive Netflix Application on PC
-date: 2024-10-18T20:14:54.535Z
-updated: 2024-10-20T17:04:30.592Z
+date: 2024-10-23T22:53:59.513Z
+updated: 2024-10-26T20:03:10.276Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
 ![Task Manager in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/netflix-task-manager-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check if Netflix Is Down
 
  Sometimes, you can blame Netflix if the app stopped working on your computer. Even big streaming platforms, such as Netflix, might be affected by a service outage.
@@ -46,23 +53,17 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 ![Check if Netflix is down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/downdetector-netflix-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Netflix
@@ -84,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 ![Running Windows store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/store-troubleshooter-1.jpg)
 
  Windows will now scan your apps installed from the Microsoft Store and automatically fix any detected problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair the App
 
@@ -109,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 ![Update graphics driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-driver-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve updated the drivers, but you’re still having issues watching Netflix or any other media content on your computer, it might be one of the[signs that it's time to upgrade your graphics card](https://www.makeuseof.com/signs-its-time-to-upgrade-your-graphics-card/) .
@@ -135,19 +137,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
 ![Windows 11 graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/netflix-graphics-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reset Microsoft Store
 
  In general, if you can’t open the Netflix app, it’s because of corrupted Microsoft Store files. If this happens, you shout reset Microsoft Store.
@@ -156,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 2. Type**cmd** and press**Shift + Enter** to open Command Prompt with administrative rights.
 3. Type**wsreset.exe** and press**Enter** to run the command.
 4. Launch Microsoft Store and reinstall Netflix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Delete the DNS Cache
 
@@ -181,10 +163,10 @@ Restart your computer and check if Netflix is now working.
  After you delete the file, Windows will automatically create a new one, so don't worry about breaking your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 12\. Reinstall the Netflix App
@@ -193,18 +175,18 @@ Restart your computer and check if Netflix is now working.
 
  When downloading the app again, make sure you're getting it from a trustworthy source. We recommend using the[Microsoft Store](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ?hl=en-gb&gl=gb) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13\. Watch Netflix on Your Browser
 
  If nothing worked, and you still can’t use the Netflix app to watch your favorite shows, there’s no other option than to watch Netflix on a browser.
 
  However, you should know that not every browser will offer you the same 4K image quality the app has. So, you should check out[which browser is the best to watch Netflix](https://www.makeuseof.com/best-browser-watching-netflix/) and pick the p\[perfect browser for your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Netflix Working Again on Windows
 
@@ -227,16 +209,20 @@ Restart your computer and check if Netflix is now working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023-complete-guide-twitter-reaction-videos-for-2024/"><u>[New] 2023 Complete Guide | Twitter Reaction Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>[New] In 2024, Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-break-free-from-fee-free-youtube-start-at-500plus-subscriber-level/"><u>[Updated] 2024 Approved Break Free From Fee-Free Youtube - Start at 500+ Subscriber Level</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-elements-for-a-triumphant-tiktok-campaign/"><u>[Updated] 2024 Approved Essential Elements for a Triumphant TikTok Campaign</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-resolving-updater-error-0x80246007-on-w10w11/"><u>Deciphering and Resolving Updater Error 0X80246007 on W10/W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-recovery-guide-overcoming-pink-or-purple-windows-glitch/"><u>Desktop Recovery Guide: Overcoming Pink or Purple Windows Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hiding-your-drive-in-the-windows-1110-shadows/"><u>Hiding Your Drive in the Windows 11/10 Shadows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>In 2024, Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-business-communication-with-intel-unison-in-windows-11/"><u>Transforming Business Communication with Intel Unison in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-guide-on-samsung-m202-drivers-downloading-and-setup-processes/"><u>Updated Guide on Samsung M202# Drivers Downloading and Setup Processes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-30-camcorders-front-screen-first-thought/"><u>[New] Top 30 Camcorders - Front Screen First Thought</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-craft-the-perfect-picture-on-android-with-these-5-best-apps-for-2024/"><u>[Updated] Craft the Perfect Picture on Android with These 5 Best Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-fostering-resilience-in-the-face-of-cyber-haters/"><u>2024 Approved Fostering Resilience in the Face of Cyber Haters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-harness-mematic-for-efficient-note-taking/"><u>2024 Approved Harness Mematic for Efficient Note-Taking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-navigate-past-an-infinite-windows-update-countdown/"><u>How to Navigate Past an Infinite Windows Update Countdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-and-operating-chatgpt-in-windows/"><u>Installing and Operating ChatGPT in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/joining-forces-connecting-wp-plus-android-via-samsung-flow/"><u>Joining Forces: Connecting WP + Android via Samsung Flow</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-the-art-of-twitters-live-video-engagement-for-2024/"><u>Mastering the Art of Twitter's Live Video Engagement for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-video-rendering-increasing-vram-in-windows/"><u>Optimize Video Rendering: Increasing VRAM in Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nent-shutdown-guide-to-youtube-shorts-feature-for-2024/"><u>Permanent Shutdown Guide to YouTube Shorts Feature for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-generic-audio-device-unsupported-in-windows/"><u>Solutions for Generic Audio Device Unsupported in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-mac-software-woes-a-guide-to-fixing-unopenable-apps/"><u>Solve Your Mac Software Woes: A Guide to Fixing Unopenable Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-package-registration-hurdle-for-windows-users/"><u>Solving the Package Registration Hurdle for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-to-windows-11-amd-graphics-driver-upgrades/"><u>Stepwise Approach to Windows 11 AMD Graphics Driver Upgrades</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-zte-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock ZTE Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

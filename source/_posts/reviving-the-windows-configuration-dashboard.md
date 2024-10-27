@@ -1,7 +1,7 @@
 ---
 title: Reviving the Windows Configuration Dashboard
-date: 2024-10-19T02:23:28.518Z
-updated: 2024-10-21T04:26:27.351Z
+date: 2024-10-19T16:17:00.746Z
+updated: 2024-10-26T21:09:06.551Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -64,25 +57,19 @@ Here is all that you need to do:
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Drivers
@@ -103,6 +90,13 @@ Follow these steps to proceed:
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset or Re-Register the Settings App
 
  Another easy way to get rid of the corruption issues within the apps is by resetting them to their default state or by re-registering them.
@@ -119,6 +113,13 @@ Here is all that you need to do:
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To re-register the app, follow these steps:
 
 1. Type Powershell in Windows Search and click on**Run as administrator** .
@@ -127,13 +128,6 @@ To re-register the app, follow these steps:
 Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-windows-immersivecontrolpanel.jpg)
 4. Finally, close the Powershell window and reboot.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hopefully, this should fix the problem once and for all.
 
@@ -156,16 +150,19 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares/"><u>[Updated] 2024 Approved Spreading Smiles Crafting Visual Jokes for FB/Instagram Shares</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-shift-techniques-using-3dlut-on-mobile/"><u>[Updated] Quick-Shift Techniques Using 3DLUT on Mobile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>2024 Approved OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-invalid-temp-path-on-w11-pc/"><u>Correcting Invalid Temp Path on W11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-lock-screen-timeout-errors/"><u>Fixing Windows Lock Screen Timeout Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 12R Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-management-of-dxgierror-in-devices/"><u>Mastering Management of DXGI_Error in Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nw-a35s-superior-sonic-capabilities-examined/"><u>NW-A35's Superior Sonic Capabilities Examined</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-outlook-schedule-on-windows-pcs/"><u>Tailoring Your Outlook Schedule on Windows PCs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-real-time-view-count-detectors/"><u>[New] Real-Time View Count Detectors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-brand-creation-top-titles-for-video-content-craftsmen-max-156/"><u>[Updated] In 2024, Youtube Brand Creation Top Titles for Video Content Craftsmen (Max 156)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-vision-navigating-video-degrees-with-ease-for-2024/"><u>[Updated] YouTube Vision Navigating Video Degrees with Ease for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-cropping-and-exporting-your-videos-to-instagram/"><u>2024 Approved A Step-by-Step Approach Cropping & Exporting Your Videos to Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dual-display-dreams-tailoring-each-monitors-visual-experience-in-win-1011/"><u>Dual Display Dreams: Tailoring Each Monitor's Visual Experience in Win 10/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enjoy-anytime-anywhere-with-our-12-channel-stream/"><u>Enjoy Anytime, Anywhere with Our 12 Channel Stream</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-voice-chat-failures-in-valorant-pc/"><u>Essential Tips to Solve Voice Chat Failures in Valorant (PC)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-ties-with-microsofts-onedrive-on-pc/"><u>How to Cut Ties with Microsoft's OneDrive on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-errors-in-windows-defender-security/"><u>Navigating Errors in Windows Defender Security</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-solarmovie-alternatives-watch-movies-online/"><u>New 2024 Approved Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/probing-into-hdr-effectiveness-with-luminance-writings/"><u>Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-essentials-of-dynamic-visual-communication-for-2024/"><u>The Essentials of Dynamic Visual Communication for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-methods-skirting-windows-account-prompts/"><u>Workaround Methods: Skirting Windows Account Prompts</u></a></li>
 </ul></div>
 

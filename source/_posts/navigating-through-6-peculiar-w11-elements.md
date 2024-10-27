@@ -1,7 +1,7 @@
 ---
 title: Navigating Through 6 Peculiar W11 Elements
-date: 2024-10-16T18:53:30.914Z
-updated: 2024-10-20T23:28:18.110Z
+date: 2024-10-19T21:46:20.002Z
+updated: 2024-10-26T21:08:34.453Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Still, let's have a look at the more noticeable design flaws present in Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. An Outdated Control Panel
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
@@ -47,27 +54,20 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  One would think such a minor text element would be an easy fix, but here we are.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Menu Differences on Lock Screen
 
 ![screenshot of the differences between menus on the windows 11 lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_lockscreen_differences.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here's another one that's hard to miss. On the lock screen, the network menu has a nice dark shade, regardless of if your system is in dark mode or not.
 
  The accessibility menu is a bright white color, again ignoring your system's dark mode settings. This creates a noticeable contrast when opening two menus that are right next to each other.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Taskbar Oddities
 
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Settings Is a Mess
 
 ![screenshot of the windows 11 settings menu and different inconsistent sub menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_settings_inconsistencies-1.jpg)
@@ -109,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
@@ -123,22 +116,29 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Right-clicking on a taskbar icon will produce yet a different looking context menu. Even more, depending on your version of Windows 11, you can see a different context menu in the file explorer and even on different desktop icons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. On-Screen Keyboard
 
 ![screenshot of the windows 11 on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_onscreen_keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In an interesting inverse to the rest of the UI inconsistencies, the on-screen keyboard actually sticks to a dark theme even if you've selected a light theme.
 
  There's another layer to this inconsistency, though. The window header itself uses spacing and design principles from Windows 10 while ignoring the system theme and always appearing in light mode.
 
  So you have a light mode header clashing with the dark mode program, neither of which supports light or dark mode to begin with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows 11 Could Use Some Tidying Up
 
@@ -161,20 +161,15 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-youtube-content-with-7-premium-free-audio-sounds/"><u>[Updated] In 2024, Elevate Your YouTube Content With 7 Premium, Free Audio Sounds</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-10-cheap-cameras-for-dynamic-shots/"><u>[Updated] Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-pc-experience-through-win-pct-techniques/"><u>Enhance Your PC Experience Through Win PCT Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-audio-recording/"><u>Essential Tips for Windows 11 Audio Recording</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998574408-experience-days-gone-like-never-before-the-fully-optimized-and-corrected-pc-game-is-here/"><u>Experience 'Days Gone' Like Never Before - The Fully Optimized and Corrected PC Game Is Here!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ferramenta-de-conversao-on-line-pelo-movavi-faca-a-ponte-entre-png-e-bmp-sem-custo-algum/"><u>Ferramenta De Conversão On-Line Pelo Movavi - Faça a Ponte Entre PNG E BMP Sem Custo Algum</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-fix-updated-wireless-adapter-drivers-now-available-for-download/"><u>Get the Latest Fix: Updated Wireless Adapter Drivers Now Available for Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-quieting-windows-folder-interaction/"><u>Guide to Quieting Windows Folder Interaction</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-11-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 11 Lock Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-your-wireless-mouse-work-again-in-windows-world/"><u>Making Your Wireless Mouse Work Again in Windows World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-free-0x80072af9-corrections/"><u>Mastering Error-Free: 0X80072AF9 Corrections</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-not-responding-heres-how-to-get-it-running-in-windows-11/"><u>Qualcomm Atheros Bluetooth Not Responding? Here's How to Get It Running in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-closing-unresponsive-windows-programs-using-quick-fixes/"><u>Step-by-Step Guide: Closing Unresponsive Windows Programs Using Quick Fixes</u></a></li>
-<li><a href="https://win-superb.techidaily.com/transferring-images-from-your-iphone-to-a-pc-running-windows-11-10-8-or-n/"><u>Transferring Images From Your iPhone to a PC Running Windows 11, 10, 8 or N</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-photo-flexibility-6-techniques-for-images-on-windows-11/"><u>Unlock Photo Flexibility: 6 Techniques for Images on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-guide-to-superior-gear-in-the-4k-market/"><u>[Updated] The Ultimate Guide to Superior Gear in the 4K Market</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>Become a Close-Up Connoisseur Advanced Roleplay Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-openais-bug-bounty-initiative-steps-for-participation/"><u>Exploring OpenAI's Bug Bounty Initiative: Steps for Participation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone without PIN</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-jpeg-to-gif-discover-the-top-10-free-options/"><u>Mastering JPEG-to-GIF Discover the Top 10 Free Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-milestone-achievement-educating-70-million-learners/"><u>Mondly's Milestone Achievement – Educating 70 Million Learners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-unsignatured-drivers-on-modern-windows/"><u>Tricks for Unsignatured Drivers on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
 </ul></div>
 

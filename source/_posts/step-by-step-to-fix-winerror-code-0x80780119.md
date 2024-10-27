@@ -1,7 +1,7 @@
 ---
 title: "Step-By Step to Fix WinError Code: 0X80780119"
-date: 2024-09-10T07:28:52.506Z
-updated: 2024-09-17T05:21:13.688Z
+date: 2024-10-20T23:59:50.050Z
+updated: 2024-10-26T19:56:12.166Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
@@ -92,14 +99,14 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
@@ -117,19 +124,20 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Once done, press the **Win** \+ **R** keys together to open Run.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
 8. Execute the following commands in Command Prompt one by one:  
 `fsutil usn queryjournal F:fsutil usn deletejournal /N /D F:`
 
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create a Backup Without Any More Errors on Windows
 
@@ -145,5 +153,19 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-best-practices-for-snapchat-posts-the-essentials-list-for-2024/"><u>[New] Best Practices for Snapchat Posts The Essentials List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pure-harmony-for-win-software/"><u>[New] Pure Harmony for WIN Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-sources-instagram-pictures-inverse-search-guide/"><u>2024 Approved Unveiling Sources Instagram Pictures' Inverse Search Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-fingerprint-driver-software-for-windows-systems/"><u>Download and Install the Latest Fingerprint Driver Software for Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-usbasp-drivers-in-winxp-7-and-10/"><u>Fixing USBasp Drivers in WinXP, 7, and 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-hashtags-to-happiness-posting-less-living-more/"><u>From Hashtags to Happiness: Posting Less, Living More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-minimize-wsl2s-android-resource-footprint/"><u>Guidelines to Minimize WSL2's Android Resource Footprint</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-affordable-hd-cams-for-sports/"><u>In 2024, Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-windows-assistant-activation-via-vivetool/"><u>Initiating Windows Assistant Activation Via ViveTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-graphics-for-safe-web-access-in-edge/"><u>Optimizing Graphics for Safe Web Access in Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-successful-installation-of-v22h2-on-windows-11/"><u>Strategies for Successful Installation of V22H2 on Windows 11</u></a></li>
+</ul></div>
 

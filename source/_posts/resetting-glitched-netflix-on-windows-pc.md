@@ -1,7 +1,7 @@
 ---
 title: Resetting Glitched Netflix on Windows PC
-date: 2024-10-19T21:34:51.043Z
-updated: 2024-10-21T00:23:04.755Z
+date: 2024-10-22T23:35:48.155Z
+updated: 2024-10-26T17:03:22.028Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 ![Check if Netflix is down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/downdetector-netflix-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Netflix
@@ -61,10 +61,17 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 ![Update Netflix app in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-netflix-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Windows Store Apps Troubleshooter
@@ -76,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 3. From the**Other** list, click**Run** next to**Windows Store Apps** .
 
 ![Running Windows store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/store-troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will now scan your apps installed from the Microsoft Store and automatically fix any detected problems.
 
@@ -112,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  If you’ve updated the drivers, but you’re still having issues watching Netflix or any other media content on your computer, it might be one of the[signs that it's time to upgrade your graphics card](https://www.makeuseof.com/signs-its-time-to-upgrade-your-graphics-card/) .
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Adjust Your System’s Graphics Settings
@@ -136,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 ![Windows 11 graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/netflix-graphics-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Reset Microsoft Store
 
  In general, if you can’t open the Netflix app, it’s because of corrupted Microsoft Store files. If this happens, you shout reset Microsoft Store.
@@ -145,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 3. Type**wsreset.exe** and press**Enter** to run the command.
 4. Launch Microsoft Store and reinstall Netflix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Delete the DNS Cache
 
  Windows stores IP addresses in its cache data, and it uses DNS to accelerate network performance. However, a DNS misconfiguration might stop the Netflix app from working properly. In this case, you should delete the DNS cache.
@@ -159,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  Launch Command Prompt with administrative rights and type in the**ipconfig/flushdns** command line. Then, press**Enter** .
 
 Restart your computer and check if Netflix is now working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Delete the MSPR.HDS File
 
@@ -168,31 +169,24 @@ Restart your computer and check if Netflix is now working.
 
  After you delete the file, Windows will automatically create a new one, so don't worry about breaking your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12\. Reinstall the Netflix App
 
  If you didn’t find anything wrong with your system settings and Netflix seems to be working fine on your browser, you should reinstall the app. Use one of the many[ways to uninstall software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it, then re-download the app and try again.
 
  When downloading the app again, make sure you're getting it from a trustworthy source. We recommend using the[Microsoft Store](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ?hl=en-gb&gl=gb) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13\. Watch Netflix on Your Browser
 
  If nothing worked, and you still can’t use the Netflix app to watch your favorite shows, there’s no other option than to watch Netflix on a browser.
 
  However, you should know that not every browser will offer you the same 4K image quality the app has. So, you should check out[which browser is the best to watch Netflix](https://www.makeuseof.com/best-browser-watching-netflix/) and pick the p\[perfect browser for your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Netflix Working Again on Windows
 
@@ -215,21 +209,20 @@ Restart your computer and check if Netflix is now working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-elite-workstations-for-peak-productivity-for-2024/"><u>[New] Elite Workstations for Peak Productivity for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystify-the-screen-time-analyze-your-posts-viewership-for-2024/"><u>[Updated] Demystify the Screen Time Analyze Your Post's Viewership for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ace-picks-top-ranked-gaming-screens-in-4k/"><u>[Updated] In 2024, Ace Picks Top-Ranked Gaming Screens in 4K</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/3g2wmv-movavi/"><u>網路上自由將3G2視頻轉成WMV - 使用Movavi的方法</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-detailed-review-of-netgear-c3700-dissecting-its-performance-as-a-cable-modem-with-built-in-router-functionality/"><u>A Detailed Review of Netgear C3700: Dissecting Its Performance as a Cable Modem with Built-In Router Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expediting-torrent-downloads-windows-solutions/"><u>Expediting Torrent Downloads: Windows Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-hues-from-textbooks-to-canvas/"><u>Exploring Hues From Textbooks to Canvas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-pros-best-practices-free-template-samples/"><u>In 2024, Premiere Pro's Best Practices FREE Template Samples</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interface-innovations-dissecting-changes-from-w10-to-w11/"><u>Interface Innovations: Dissecting Changes From W10 to W11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metavision-quest-selecting-the-most-advanced-vr-headset/"><u>Metavision Quest Selecting the Most Advanced VR Headset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-corrections-overcoming-frequent-freezes-in-wwe-games/"><u>Quick Corrections: Overcoming Frequent Freezes in WWE Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x00000709/"><u>Resolving Windows Error Code 0X00000709</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-setting-up-vmware-and-virtualbox-on-your-linux-machine/"><u>Step-by-Step Guide: Setting Up VMware and VirtualBox on Your Linux Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synching-gmail-with-outlook-app-for-windows-users/"><u>Synching Gmail with Outlook App for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-speakers-in-windows-1011/"><u>Troubleshooting Silent Speakers in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-dissecting-its-enhanced-data-preservation-system/"><u>Windows 11: Dissecting Its Enhanced Data Preservation System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-effective-strategies-for-advertising-with-spotify/"><u>2024 Approved Effective Strategies for Advertising with Spotify</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-garmin-virb-ultra-30-action-camera-review/"><u>2024 Approved Garmin VIRB Ultra 30 Action Camera Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-behind-persistent-crashes-of-fireteam-elite-on-personal-computers/"><u>Decode the Mystery Behind Persistent Crashes of 'Fireteam Elite' On Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-usability-in-excel-techniques-for-implementing-descriptive-alt-tags-on-objects/"><u>Enhancing Usability in Excel: Techniques for Implementing Descriptive Alt Tags on Objects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unmute-silent-windows-volume/"><u>How to Unmute Silent Windows Volume</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-s18-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo S18 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-x100-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo X100 to iPod | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-versatile-samsung-galaxy-tab-s4-your-essential-guide-to-an-android-tablet-masterpiece/"><u>In-Depth Look at the Versatile Samsung Galaxy Tab S4: Your Essential Guide to an Android Tablet Masterpiece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intensify-visual-power-with-graphics-upgrade-for-app-guard-edge/"><u>Intensify Visual Power with Graphics Upgrade for App Guard Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-multi-vm-environments-linux-inside-hyper-v-on-windows/"><u>Navigating Multi-VM Environments: Linux Inside Hyper-V on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-stop-blue-screen-error-from-wins-crash/"><u>Strategies to Stop Blue Screen Error From Win's Crash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-docker-operations-within-wsl-2-environment/"><u>Streamlining Docker Operations Within WSL 2 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-recording-mishaps-with-obs-studio/"><u>Tackling the Mystery: Fixing Recording Mishaps with OBS Studio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-unearthing-the-obscured-videotapes-for-2024/"><u>YouTube Unearthing the Obscured Videotapes for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mending LSA Problem in Windows OS
-date: 2024-10-18T16:03:28.466Z
-updated: 2024-10-21T04:54:28.513Z
+date: 2024-10-25T19:36:37.471Z
+updated: 2024-10-26T21:54:42.929Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan for Malicious Programs
 
  If restarting the computer doesn't solve the issue, check your system for malicious software. Malware infections may corrupt system files and prevent LSA protection from working.
@@ -55,14 +48,14 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
 
- Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
 ## 3\. Change the Group Policy Settings
 
@@ -80,10 +73,16 @@ Administrative Templates > System > Local Security Authority
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
@@ -123,13 +122,20 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Fixes
@@ -144,21 +150,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-powerful-video-titles-and-sizes/"><u>[New] 2024 Approved Crafting Powerful Video Titles & Sizes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discover-the-power-of-youtube-editing-a-compre-written-in-code-the-intricacies-of-javascript-functions/"><u>[Updated] In 2024, Discover the Power of YouTube Editing A Compre Written in Code The Intricacies of JavaScript Functions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>2024 Approved Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissolve-the-quietude-reviving-keyboard-volume-controls/"><u>Dissolve the Quietude: Reviving Keyboard Volume Controls</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 15/iPad/iPod</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-failed-syncs-with-onedrive-windows/"><u>Methods to Tackle Failed Syncs with OneDrive Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-clean-and-organized-filespace-setting-up-auto-delete-on-win11/"><u>Secure, Clean and Organized Filespace: Setting Up Auto-Delete on Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-s17-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo S17 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-true-colors-with-windows-techniques/"><u>Unlocking True Colors with Windows Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-regaining-access-to-5ghz-network/"><u>Unlocking Windows 11: Regaining Access to 5GHz Network</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-how-to-fix-blue-screen-of-death-bsod-error-in-windows-1111-tutorial/"><u>Video - How to Fix Blue Screen of Death [BSOD] Error in Windows 11/11 (Tutorial)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +157,22 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-velocity-video-tape-echoes-included/"><u>[New] In 2024, Velocity Video Tape Echoes Included</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-silence-issue-fixing-audio-absence-in-obs-for-2024/"><u>[New] Silence Issue Fixing Audio Absence in OBS for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-compact-drones-current-market-leaders-for-2024/"><u>[New] Top 10 Compact Drones Current Market Leaders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-powerhouse-q500-typhoon/"><u>[New] Unveiling the Powerhouse Q500 Typhoon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-windows-search-settings-in-windows-11/"><u>How to Reset the Windows Search Settings in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-most-popular-task-organizers-on-windows/"><u>Navigating the Most Popular Task Organizers on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamlessly-transitioning-sounds-with-audacity-tips/"><u>Seamlessly Transitioning Sounds with Audacity Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-critical-system-error-unmountablebootvol-on-windows-11/"><u>Step-by-Step Guide: Fixing the Critical System Error UNMOUNTABLE_BOOT_VOL on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-no-click-space-in-win11/"><u>Strategies for Dealing with No-Click Space in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-unresponsive-spotify-win11-errors/"><u>Strategies to Recover From Unresponsive Spotify Win11 Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-inter-device-unity-android-plus-windows-guide/"><u>The Path to Inter-Device Unity: Android + Windows Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-surface-device-that-is-plugged-in-but-not-charging/"><u>Troubleshooting Steps for a Surface Device That Is Plugged In But Not Charging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-outlook-integration-fix-non-sync-issue/"><u>Unlock Windows Outlook Integration: Fix Non-Sync Issue</u></a></li>
+</ul></div>
+

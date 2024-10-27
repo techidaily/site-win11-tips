@@ -1,7 +1,7 @@
 ---
 title: Configuring the Perfect Windows Sandbox Experience in 11
-date: 2024-10-14T04:14:37.272Z
-updated: 2024-10-20T22:44:36.001Z
+date: 2024-10-25T23:17:59.436Z
+updated: 2024-10-26T22:33:39.325Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 
  While the setup process is easier, your computer must meet some system requirements. Windows 11 Pro, Education, or Enterprise running computers with virtualization support are Windows Sandbox compatible. In most cases,[if your system can run Windows Hyper-V](https://www.makeuseof.com/windows-11-enable-hyper-v/) , it should also run Windows Sandbox.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Enable Windows Sandbox Using the Windows Features Dialog
 
  You can install Windows Sandbox using the Windows Features dialog. This dialog houses most of the optional Windows features that are ready to be installed on your PC.
@@ -43,16 +50,17 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ![control panel turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off.jpg)
 4. In the**Turn Windows features on or off dialog** , scroll down and locate**Windows Sandbox.**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Check the**Windows Sandbox** option and click**OK** .  
 ![enable Windows sandbox turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-Windows-sandbox-turn-windows-features-on-or-off.jpg)
 6. Windows will search for the files and install the required dependencies to run Windows Sandbox scenarios. Once the changes are applied, close the Windows features dialog and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
 
@@ -72,23 +80,9 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 5. Once done, press**Y** and hit**Enter** to restart your PC.
 6. After the restart, you can launch Windows Sandbox from Windows Search.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Install Windows SandBox Using Command Prompt
 
 ![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Deployment Image Servicing and Management (DISM) is a command-line utility that facilitates the installation of optional features using the Command Prompt. To install Windows Sandbox, you will need to use the Enable-Feature command in Command Prompt. Here's how to do it.
 
@@ -97,6 +91,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 3. In the Command Prompt, type the following command and press**Enter** :  
 `dism /online /Enable-Feature /FeatureName: "Containers-DisposableClientVM" -All`
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Windows Sandbox
 
@@ -109,10 +110,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
@@ -136,16 +137,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-full-feature-dissection-the-sony-fdr-x1000-videographer-for-2024/"><u>[New] Full Feature Dissection - The Sony FDR-X1000 Videographer for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-effortless-transferring-5-pathways-to-download-igtv-on-computers/"><u>2024 Approved Effortless Transferring 5 Pathways to Download IGTV on Computers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/achieve-stunning-graphics-update-your-gpu-drivers/"><u>Achieve Stunning Graphics: Update Your GPU Drivers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/at-127-from-antolin-the-ultimate-guide-to-free-crystal-clear-tv-via-an-elegant-antenna-design/"><u>AT-127 From Antolin: The Ultimate Guide to Free, Crystal Clear TV via an Elegant Antenna Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-film-previews-unveiled/"><u>In 2024, Top Film Previews Unveiled</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-the-art-of-multilingual-content-creation-on-fb/"><u>Mastering the Art of Multilingual Content Creation on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-output-minimize-time-harnessing-the-potential-of-flow-launcher/"><u>Maximize Output, Minimize Time: Harnessing the Potential of Flow Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-crashing-challenges-in-wow/"><u>Overcoming Common Crashing Challenges in WoW</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-designs-incorporating-3d-text-psx-for-2024/"><u>Revolutionize Your Designs Incorporating 3D Text PSX for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-pin-check-error-in-w11w10-bluetooth-links/"><u>Solving Pin Check Error in W11/W10 Bluetooth Links</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-wisdom-unique-themes-for-each-display-win-1011-edition/"><u>Window Wisdom: Unique Themes for Each Display, WIN 10/11 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-7-private-film-access-tools/"><u>[New] In 2024, Ultimate 7 Private Film Access Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ro-list-best-free-video-subtitles-and-downloader-for-2024/"><u>[New] Pro List Best Free Video Subtitles & Downloader for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-most-acclaimed-cloud-services-on-android-platform/"><u>[New] The Most Acclaimed Cloud Services on Android Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-controlling-bitrate-overload-in-obs/"><u>[Updated] 2024 Approved Controlling Bitrate Overload in OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-buy-on-cloud-storage-pricing-a-comparative-study/"><u>[Updated] Best Buy on Cloud Storage Pricing A Comparative Study</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-establishing-an-enthralling-facecover/"><u>[Updated] In 2024, Establishing an Enthralling FACEcover</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-cam-filters-for-optimal-online-performance/"><u>[Updated] Top 8 Cam Filters for Optimal Online Performance</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-by-chance-tiktok-rewind-how-to-replay-videos/"><u>2024 Approved By Chance, TikTok Rewind How to Replay Videos?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-zenbook-14-oled-review-pcmac-comparison/"><u>ASUS Zenbook 14 OLED Review: PC/Mac Comparison?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-windows-steam-broadcaster-errors/"><u>Combatting Windows Steam Broadcaster Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failures-qt-platform-support-error-at-launch/"><u>Correcting Failures: 'Qt Platform Support' Error at Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-incorrect-parameters-for-winloadlib/"><u>Dealing with Incorrect Parameters for WinLoadLib</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-w11-desktop-customization-essentials/"><u>Effortless W11 Desktop Customization Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-need-for-greater-ai-oversight-insights-from-openais-leadership/"><u>Exploring the Need for Greater AI Oversight: Insights From OpenAI's Leadership</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-directory-management-without-renaming-features-in-windows-11/"><u>Mastering Directory Management without Renaming Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-lock-personal-pattern-creation-tutorial/"><u>Mastering Window's Lock: Personal Pattern Creation Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-absent-d3dx939dll-on-windows-11/"><u>Remedying Absent D3DX9_39.dll on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-disabled-volume-snapshots/"><u>Restoring Functionality to Disabled Volume Snapshots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/transmit-live-camera-feed-using-vlc-media-player/"><u>Transmit Live Camera Feed Using VLC Media Player</u></a></li>
 </ul></div>
 

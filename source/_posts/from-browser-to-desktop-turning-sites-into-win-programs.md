@@ -1,7 +1,7 @@
 ---
 title: "From Browser to Desktop: Turning Sites Into Win Programs"
-date: 2024-10-14T22:09:19.553Z
-updated: 2024-10-20T17:26:38.921Z
+date: 2024-10-23T16:55:27.478Z
+updated: 2024-10-26T20:50:38.988Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,16 @@ To install a website and app using Microsoft Edge:
 3. Select**Apps** and select**Install this site as an App** .  
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
-![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
-5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
+5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 
 6. Click**Install** and wait for the app to be installed.
 
@@ -63,6 +64,13 @@ To install a website and app using Microsoft Edge:
 ### Uninstall An App in Microsoft Edge
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
@@ -80,10 +88,10 @@ To add a shortcut to a website as an app in Chrome:
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, select the**Open as window** option.
@@ -106,13 +114,6 @@ To change the app icon:
 C:\Windows\System32\imageres.dll
 5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
  WebCataglog is a platform for desktop web apps. It comes with a library of web apps that you can install with a click. You can also create custom apps using the website URL.
@@ -127,15 +128,22 @@ To install a website as an app using WebCatalog:
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
 2. Select the**Add shadows and rounded corners** option.
@@ -152,13 +160,6 @@ To install a website as an app using WebCatalog:
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
 ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
 
@@ -177,10 +178,10 @@ To create a desktop app using Web2Desk:
  Apps Created using the service feature a Web2Desk splash screen. You can remove it for a premium of $45.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Websites as Desktop Apps on Windows
@@ -204,20 +205,24 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>[New] Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-computing-mini-pc-versus-full-sized-desktops/"><u>Compact Computing: Mini PC Versus Full-Sized Desktops</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-separation-to-synergy-unite-obs-with-zoom-for-2024/"><u>From Separation to Synergy Unite OBS with Zoom for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/interpreting-second-duration-from-mb-content-for-2024/"><u>Interpreting Second Duration From MB Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-audio-glitches-solve-headphone-distortion-fast-and-easy/"><u>No More Audio Glitches: Solve Headphone Distortion Fast and Easy!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-x0001-in-nvidias-geforce-for-windows-devices/"><u>Resolving Error X0001 in Nvidia's GeForce for Windows Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/techniques-for-maximizing-gopro-battery-life-for-2024/"><u>Techniques for Maximizing GoPro Battery Life for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-photos-into-windows-slideshow-wonders-7-ways/"><u>Transform Your Photos Into Windows Slideshow Wonders (7 Ways)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transition-techniques-elevating-your-kinemaster-filmography/"><u>Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-0x80049dd3-type-error/"><u>Troubleshooting Windows 11: Resolving 0X80049DD3 Type Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-passwords-how-to-lengthen-windows-pins-efficiently/"><u>Winning at Passwords: How to Lengthen Windows Pins Efficiently</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-size-beats-characters-in-soundscape/"><u>[New] 2024 Approved Bite-Size Beats Characters in Soundscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-enhancement-picture-posting-guide/"><u>[New] Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-adding-a-digital-clock-to-your-youtube-video-playback/"><u>2024 Approved Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-latency-windows-discord-tweaks-for-speed/"><u>Clearing Up Latency: Windows Discord Tweaks for Speed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-yuva-2-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Yuva 2 Device SIM</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-seamlessly-integrate-into-others-tiktok-livestreams/"><u>In 2024, Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-steam-file-sync-failures-in-windows/"><u>Methods to Prevent Steam File Sync Failures in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mixed-emotions-after-moving-from-windows-10-to-windows-11-the-irreplaceable-features-i-yearn-for/"><u>Mixed Emotions After Moving From Windows 10 to Windows 11: The Irreplaceable Features I Yearn For</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-lock-screen-timing-windows/"><u>Overcoming Frozen Lock Screen Timing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unchangeable-power-configurations-in-windows-11/"><u>Overcoming Unchangeable Power Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-into-the-world-of-windows-11-home/"><u>Step Into the World of Windows 11 Home</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-print-management-service-absence-in-windows/"><u>Steps to Resolve 'Print Management' Service Absence in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-shopping-experience-fixing-error-0x80072f30/"><u>Streamlining Your Shopping Experience: Fixing Error 0X80072F30</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-tier-free-screen-capture-programs-2023-edition-for-2024/"><u>Top-Tier Free Screen Capture Programs – 2023 Edition for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/vluchtig-omzetten-van-opu-bestandjes-helemaal-kostenloos-professionele-dienst-door-movavi/"><u>Vluchtig Omzetten Van Opu-Bestandjes Helemaal Kostenloos - Professionele Dienst Door Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
 </ul></div>
 

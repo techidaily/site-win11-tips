@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Functionality: Legacy Keys in Windows Narrator"
-date: 2024-09-12T16:31:55.668Z
-updated: 2024-09-17T02:00:49.000Z
+date: 2024-10-21T21:02:52.847Z
+updated: 2024-10-26T21:24:51.273Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
 
@@ -163,6 +170,19 @@ This way, you can switch between the Legacy and Standard layouts.
 | Ctrl + Narrator + Down arrow                | Navigate to first child (when structural navigation is provided)      |
 | Narrator + Q                                | Move to last item in containing area                                  |
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
@@ -180,12 +200,23 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-playback-guide-on-different-os-platforms/"><u>2024 Approved SRT Playback Guide on Different OS Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-x-media-converter-desktop-version/"><u>2024 Approved X-Media Converter Desktop Version</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/animationpros-complete-guide-24-for-2024/"><u>AnimationPros Complete Guide '24 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/asuss-innovation-unleashed-exploring-s15-oled-and-bape-edition/"><u>Asus's Innovation Unleashed: Exploring S15 OLED and BAPE Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-laserjet-m506-printer-drivers-easy-guide/"><u>Download and Update HP LaserJet M506 Printer Drivers - Easy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-rectify-zoom-problems-code-1132/"><u>Expert Tips to Rectify Zoom Problems: Code 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-to-unfreezing-your-windows-pin/"><u>Fast Track to Unfreezing Your Windows Pin</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-selections-best-5-interactive-capture-apps/"><u>In 2024, Professional Selections Best 5 Interactive Capture Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-virtual-configurations-for-your-windows-11-devices/"><u>Prime Virtual Configurations For Your Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-word-wanderings-definitive-searches-on-win11/"><u>Quick Word Wanderings: Definitive Searches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-no-access-network-message-windows/"><u>Steps to Rectify 'No Access' Network Message Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-maximizing-gpu-memory-in-windows-11/"><u>Strategies for Maximizing GPU Memory in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essence-of-custom-window-placement-in-windows-via-powertoys/"><u>The Essence of Custom Window Placement in Windows via PowerToys</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-top-cloud-stores-on-android/"><u>The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027910361-webm/"><u>WEBM動画のスムーズな鑑賞 - 最新のプレイヤーソフトウェア</u></a></li>
+</ul></div>
 

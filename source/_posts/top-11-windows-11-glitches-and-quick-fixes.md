@@ -1,7 +1,7 @@
 ---
 title: Top 11 Windows 11 Glitches & Quick Fixes
-date: 2024-10-13T21:34:00.044Z
-updated: 2024-10-21T02:33:59.384Z
+date: 2024-10-22T21:38:25.360Z
+updated: 2024-10-26T21:32:32.074Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
  The update issue can occur due to a corrupted software distribution folder and insufficient storage space. Explore our guide on[how to fix the Windows 11 Version 22H2 update not installing](https://www.makeuseof.com/windows-11-22h2-not-installing/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Windows 11 No Sound Issues
@@ -53,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 ![troubleshoot sound problems windows taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshoot-sound-problems-windows-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The[no sound problem in Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) is largely due to external factors. At times, you may also experience[low audio on your Windows 11 PC](https://www.makeuseof.com/windows-11-low-audio/) . The audio issues are often due to an incorrect configuration of playback devices.
@@ -91,16 +85,16 @@ To run the audio troubleshooter:
 
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. The File Explorer Not Working on Windows 11
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  File Explorer has been around since Windows 95\. It's an extremely handy file manager application making it a breeze to access your file folders on your PC. With Windows 11, Microsoft has made the venerable file manager even better.
 
@@ -113,15 +107,22 @@ To run the audio troubleshooter:
 
  If not, explore more ways to fix[File Explorer not opening on Windows](https://www.makeuseof.com/windows-file-explorer-not-opening/) here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Fixing Windows 11's Slow Performance
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
@@ -138,6 +139,13 @@ To run the audio troubleshooter:
 
  You can likely fix performance issues with a few tweaks to your system settings and troubleshooting internal causes. In rare instances, you may need a hardware upgrade to boost your system performance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Windows 11 Wi-Fi and Ethernet Connectivity Issues
 
  Another common issue you may encounter with Windows 11 is related to network connectivity. Irrespective of whether you are connected to a wireless or wired connection, network issues can occur due to several reasons.
@@ -151,13 +159,6 @@ To do this:
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
 3. Scroll down and click on**Network reset.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
 4. Click**Reset** now to confirm the action.
 
@@ -166,13 +167,6 @@ To do this:
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 comes with a[Microsoft Basic Display Adapter](https://www.makeuseof.com/microsoft-basic-display-adapter-guide/) installed out of the box. It's a generic display driver that lets you access your display after a clean install and help complete the setup.
 
@@ -213,10 +207,10 @@ To do this:
 3. Click**Apply Now** and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Windows 11's Most Frequent Issues
@@ -238,22 +232,17 @@ To do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-zooms-top-free-and-paid-transcribers-for-virtual-meetings/"><u>[Updated] 2024 Approved The Complete Guide to Zoom's Top Free & Paid Transcribers for Virtual Meetings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-secrets-to-a-never-ending-snapstreak-inside-knowledge/"><u>[Updated] In 2024, Secrets to a Never-Ending Snapstreak Inside Knowledge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-audio-techniques-for-your-podcasts/"><u>2024 Approved Innovative Audio Techniques for Your Podcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-windows-memory-not-written-problem/"><u>Counteracting Windows' Memory Not Written Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty-software-premium-dvd-to-video-converter-your-ultimate-guide/"><u>Digiarty Software: Premium DVD-to-Video Converter - Your Ultimate Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-camon-20-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Camon 20 PC | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-approach-to-preserving-your-ps4-experience/"><u>In 2024, The Ultimate Approach to Preserving Your PS4 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-installation-removing-signatures-adding-unsigned-drivers/"><u>Mastering Windows Installation: Removing Signatures, Adding Unsigned Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-edge-for-less-cpu-overhead/"><u>Optimizing Edge for Less CPU Overhead</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-high-power-demand-of-dropbox-on-windows-pc/"><u>Overcoming High Power Demand of Dropbox on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-conflicts-of-in-use-resources-in-windows-1011-153-chars/"><u>Resolving Conflicts of In-Use Resources in Windows 10/11 (153 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-sudden-self-shutdown-windows-11-issues/"><u>Solving Sudden Self-Shutdown Windows 11 Issues</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-accessing-and-interpreting-your-itunes-backup-data/"><u>Step-by-Step Guide: Accessing and Interpreting Your iTunes Backup Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-something-went-wrong-issues-on-office-windows/"><u>Tackling Something Went Wrong Issues on Office Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-7-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 7 Activation Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-playability-issues-in-windows-video/"><u>Troubleshooting Playability Issues in Windows VIDEO</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bring-a-smile-simple-meme-creation-with-kapwing/"><u>[New] Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/urning-viewers-into-revenue-key-video-figures/"><u>[New] Turning Viewers Into Revenue Key Video Figures</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-fuse-sounds-with-slides-a-guide-to-mp3-integration/"><u>[Updated] Fuse Sounds with Slides A Guide to MP3 Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-best-epson-scanner-software-on-your-pc-today/"><u>Find and Install the Best Epson Scanner Software on Your PC Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-xcover-7-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy XCover 7 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-window-adjustment-overcoming-windows-overscan-hurdles/"><u>Master Window Adjustment: Overcoming Windows Overscan Hurdles</u></a></li>
+<li><a href="https://discover-best.techidaily.com/revolutionary-aiby-unveils-cutting-edge-cloud-infrastructure-with-smart-ai-features-to-accelerate-knowledge-management/"><u>Revolutionary AIBY Unveils Cutting-Edge Cloud Infrastructure with Smart AI Features to Accelerate Knowledge Management</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seagate-hard-disk-woes-discover-solutions-for-windows-11-connectivity-issues/"><u>Seagate Hard Disk Woes? Discover Solutions for Windows 11 Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-app-access-5-tricks-for-fast-app-opening-in-windows-11/"><u>Speed Up App Access: 5 Tricks for Fast App Opening in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-approach-for-flawless-docx-to-pdf-transitions-in-win-11/"><u>Stepwise Approach for Flawless Docx to PDF Transitions in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-windows-software-for-efficient-file-sharing/"><u>Top 5 Windows Software for Efficient File Sharing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrading-audio-driver-software-on-windows-10-pcs-via-usb-devices-a-comprehensive-tutorial/"><u>Upgrading Audio Driver Software on Windows 10 PCs via USB Devices - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

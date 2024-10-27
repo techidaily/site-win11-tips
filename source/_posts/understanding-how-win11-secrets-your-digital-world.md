@@ -1,7 +1,7 @@
 ---
 title: Understanding How Win11 Secrets Your Digital World
-date: 2024-10-17T02:05:03.104Z
-updated: 2024-10-20T23:54:07.373Z
+date: 2024-10-23T21:28:59.873Z
+updated: 2024-10-27T00:07:39.838Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  If you feel you're being treated like a lab frog to improve Windows and other Microsoft services, you can easily opt out of it and [stop sharing Telemetry data with Microsoft](https://www.makeuseof.com/windows-10-11-disable-telemetry/). Your Windows 11 PC will work as usual with no drop in performance if you stop sharing Telemetry data with Microsoft.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Windows 11 Collects Data Through Advertising IDs
 
 ![Screenshot showing Advertising IDs in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-20-221046.jpg)
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  If all of this sounds scary, you can turn it off. Windows 11 asks for your permission for developers to show you personalized ads. Check out [how to turn on or off Advertising IDs in Windows 11](https://www.makeuseof.com/what-is-advertiser-id-windows-turn-off/).
 
  It's important to note that turning off the feature will not reduce the number of advertisements you see on apps. Instead, you might see ads that don't cater to what you may like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Windows 11 Can Track Your Location
 
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Activity History is another Windows 11 feature through which Microsoft collects various types of data. This includes which websites you visit, the services you use, and the files you open. As per Microsoft, keeping track of things you do on your computer through Activity History is essential to improve the Windows experience and its services.
 
  However, Activity History is not something Microsoft forces everyone to use. If you don't like Microsoft watching how you use your computer, you can turn off the feature from the Settings app. You can also [erase your Activity History](https://www.makeuseof.com/tag/view-delete-windows-10-activity-history/), but doing so may affect some features in Windows 11\.
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![Screenshot showing Speech page in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows 11 can collect and send your voice data to Microsoft's servers through online speech recognition technology, but only if you grant permission.
 
  Some apps use Microsoft's cloud-based online speech recognition technology to offer features such as dictation, voice commands, and voice assistants. If you don't allow Windows 11 to collect your voice data through speech recognition technology, you won't be able to access apps built using it.
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  You can [turn on/off online speech recognition in Windows](https://www.makeuseof.com/windows-11-enable-voice-access/) via the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Tweak Your Privacy Settings in Windows 11?
@@ -101,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  If you don't mind losing some features to protect your privacy, here are [every privacy options you can adjust in Windows 11](https://www.makeuseof.com/windows-11-privacy-options-explained/). And if you want to go even further, check out [how to disable Windows 11's tracking features](https://www.makeuseof.com/disable-windows-11-tracking-features/) too.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Worry About Tech Companies Collecting Your Data?
@@ -123,29 +123,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-innovative-hubs-of-affordable-visual-content-sources/"><u>[New] In 2024, Innovative Hubs of Affordable Visual Content Sources</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sony-a6400-the-unseen-movie-problem/"><u>[New] Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unpacking-the-essentials-mastering-adobes-storage-solutions-and-their-rival-alternatives-for-2024/"><u>[New] Unpacking The Essentials Mastering Adobe's Storage Solutions & Their Rival Alternatives for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/clona-windows-11-in-pochi-passaggi-tutorial-completo-con-video-illustrativo/"><u>Clona Windows 11 in Pochi Passaggi: Tutorial Completo Con Video Illustrativo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-ages-in-a-windows-configuration/"><u>Decoding Ages in a Windows Configuration</u></a></li>
-<li><a href="https://windows11.techidaily.com/delaying-windows-11-shutdown-managing-ongoing-processes/"><u>Delaying Windows 11 Shutdown: Managing Ongoing Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-powershell-scripts-a-step-by-step-guide/"><u>Enabling PowerShell Scripts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enlisted-steps-to-mend-windows-and-ea-servers-linkup/"><u>Enlisted Steps to Mend Windows and EA Servers Linkup</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/five-iphone-podcast-services-to-streaming/"><u>Five iPhone Podcast Services to Streaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-play-40c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor Play 40C Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy XCover 7 ?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavijpeg/"><u>Movaviで簡単なJPEGファイルのオンライン変換 - 完全無料</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-file-transfers-on-a-pc-insiders-list-of-favorites/"><u>Optimal File Transfers on a PC: Insider's List of Favorites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-profits-top-5-productivity-apps-for-windows-11/"><u>Skyrocket Profits: Top 5 Productivity Apps for Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-new-standard-how-does-av1-outperform-vp9-for-2024/"><u>The New Standard How Does AV1 Outperform VP9 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-fixes-bypassing-windows-black-screen-woes/"><u>Top Fixes: Bypassing Windows Black-Screen Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-features-for-context-commands/"><u>Unveiling Windows' Hidden Features for Context Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ways-around-a-non-operational-windows-firewall/"><u>Ways Around a Non-Operational Windows Firewall</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-aggregatorhostexe-on-windows-and-is-it-safe/"><u>What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +130,17 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-streamlining-photo-editing-processes-a-guide/"><u>[Updated] In 2024, Streamlining Photo Editing Processes A Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-jumble-to-flow-kinemasters-editing-masterclass/"><u>2024 Approved From Jumble to Flow Kinemaster's Editing Masterclass</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-windows-printer-revival/"><u>Immediate Windows Printer Revival</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Pro 5G Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-fixed-windows-itunes-applications/"><u>Swift Solutions to Fixed Windows iTunes Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-0x80072af9-failure/"><u>Unraveling the Mystery of 0X80072AF9 Failure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-unlocking-potential-through-advanced-ai/"><u>Why Choose Claude? Unlocking Potential Through Advanced AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-deleted-content-8-tactics/"><u>Winning Back Your Deleted Content: 8 Tactics</u></a></li>
+</ul></div>
+

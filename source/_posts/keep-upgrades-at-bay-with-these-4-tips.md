@@ -1,7 +1,7 @@
 ---
 title: Keep Upgrades at Bay with These 4 Tips
-date: 2024-10-20T02:12:19.931Z
-updated: 2024-10-20T19:27:20.305Z
+date: 2024-10-20T22:45:53.206Z
+updated: 2024-10-26T17:23:33.945Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
  Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -74,15 +67,23 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
 9. Return to the folder where you extracted the files and open the**admx** folder again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
 ![Copy Office ADML files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-adml-files-to-policydefinitions-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After completing the above steps, you’re all set to disable automatic Office updates via the Group Policy Editor. Here are the steps you can follow.
@@ -100,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
  You can also use the Registry Editor to make the above policy change and disable automatic Office updates on your computer. Since Registry Editor holds important settings for Windows and its apps, you should only use this method if you’re comfortable editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
@@ -115,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
 3. Rename the key as**16.0** .
@@ -136,16 +137,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
@@ -167,24 +162,24 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-embarking-on-a-virtual-odyssey-through-yt-stories/"><u>[New] 2024 Approved Embarking on a Virtual Odyssey Through YT Stories</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ocial-trends-in-visual-forms-23-edition/"><u>[New] Social Trends in Visual Forms, '23 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-gripping-gospels-intros-that-draw-ears/"><u>[Updated] 2024 Approved Gripping Gospels Intros That Draw Ears</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-craft-eye-catching-youtubes-end-titles/"><u>[Updated] How to Craft Eye-Catching YouTubes End Titles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-the-moment-how-to-post-on-twitter/"><u>[Updated] Share the Moment How To Post on Twitter</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-teachers-handbook-building-a-successful-youtube-channel-10-must-dos-for-2024/"><u>[Updated] Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-s18-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo S18 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-15ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 15/iPad/iPod</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-get-your-sea-of-thieves-game-running-smoothly-again/"><u>Expert Advice: Get Your Sea of Thieves Game Running Smoothly Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-concept-to-code-establishing-individual-patterns-on-windows/"><u>From Concept to Code: Establishing Individual Patterns on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manually-apply-local-group-policies-to-single-windows-account/"><u>How to Manually Apply Local Group Policies to Single Windows Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-steam-ui-module-fails-issue/"><u>How To Mend the Steam UI Module Fails Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-the-fax-cover-page-editor-in-windows-11/"><u>How to Open the Fax Cover Page Editor in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-technique-to-resolve-windows-11-error-code-0xc0000001/"><u>Mastering the Technique to Resolve Windows 11 Error Code 0XC0000001</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-javascript-troubleshooting-with-discord/"><u>Navigating Through Windows' JavaScript Troubleshooting with Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-pink-screen-woes-a-practical-approach/"><u>Resolving Pink Screen Woes: A Practical Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-lost-sound-preferences-on-windows-os/"><u>Restoring Lost Sound Preferences on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-merging-data-on-modern-windows/"><u>The Art of Merging Data on Modern Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-spotifys-advertising-landscape/"><u>[New] 2024 Approved Navigating Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[Updated] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-standout-14-animation-techniques-for-texts/"><u>[Updated] In 2024, Standout 14 Animation Techniques for Texts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-tips-for-high-quality-sound-memos/"><u>2024 Approved Expert Tips for High-Quality Sound Memos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infuse-motion-blur-into-image-sequence/"><u>2024 Approved Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-facebooks-silent-video-alerts/"><u>2024 Approved Understanding Facebook's Silent Video Alerts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/daily-life-with-ai-chatbots-comparing-claude-and-chatgpts-effectiveness/"><u>Daily Life with AI Chatbots: Comparing Claude and ChatGPT's Effectiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elite-four-password-keepers-for-a-robust-windows-11-experience/"><u>Elite Four Password Keepers for a Robust Windows 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-calamity-to-caution-prioritize-windows-backups/"><u>From Calamity to Caution: Prioritize Windows Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-steam-deck-to-full-os-installing-windows/"><u>From Steam Deck to Full OS: Installing Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>In 2024, Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-paper-jam-clearance-for-non-responsive-printers-on-win-10/"><u>Instant Paper Jam Clearance for Non-Responsive Printers on Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-unintended-taskmgr-application-sort/"><u>Preventing Unintended TaskMgr Application Sort</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-adding-program-icons-to-windows-11s-taskbar/"><u>Quick Guide: Adding Program Icons to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-location-unavailable-errors-a-step-by-step-guide-for-iphone-users/"><u>Solving 'Location Unavailable' Errors: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-error-during-software-updates/"><u>Steps for Correcting Error During Software Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-overuse-of-resources-in-remote-connectivity-tools/"><u>Tackling Overuse of Resources in Remote Connectivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-impact-of-microsofts-copilot-key-on-pcs/"><u>Understanding the Impact of Microsoft's Copilot Key on PCs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro-for-2024/"><u>Updated S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Incorrect Estimated Time Remaining Indicator in Win 11
-date: 2024-10-15T19:58:48.139Z
-updated: 2024-10-20T18:38:58.398Z
+date: 2024-10-23T22:42:32.061Z
+updated: 2024-10-26T22:09:06.000Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Battery Time Estimate in the Registry
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You don't need to change the Value data for these, as they should default to a 0 value.
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
@@ -100,16 +100,22 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://games-able.techidaily.com/enhancing-steam-online-status-on-win11/"><u>Enhancing Steam Online Status on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-discord-overlay-not-working-on-windows/"><u>How to Fix the Discord Overlay Not Working on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-show-the-minimum-or-maximum-processor-state-in-the-power-options-menu-on-windows/"><u>How to Show the Minimum or Maximum Processor State in the Power Options Menu on Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/iphone-and-android-compared-top-youtube-app-analysis/"><u>IPhone & Android Compared Top YouTube App Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-corrupted-or-lost-d3dcompiler47dll-on-your-pc/"><u>Resolving the Issue of Corrupted or Lost D3DCOMPILER_47.dll on Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y27s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y27s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-data-sharing-on-pc-a-curated-list-of-leading-tools/"><u>Simplified Data Sharing on PC: A Curated List of Leading Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealth-mode-integrating-invisible-drop-downs-in-win-oses/"><u>Stealth Mode: Integrating Invisible Drop-Downs in Win OSes</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-for-allowing-unnamed-comments-on-your-fb-group/"><u>Tips for Allowing Unnamed Comments on Your FB Group</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-dialer-interface-effortlessly/"><u>Unlock Windows 11 Dialer Interface Effortlessly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069693154-updated-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[Updated] In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unlock-the-potential-of-your-facebook-lives/"><u>[Updated] In 2024, Unlock the Potential of Your Facebook Lives</u></a></li>
+<li><a href="https://driver-error.techidaily.com/2-in-the-nextteacherbmwits/"><u>2 in the nextTeacher_BMWits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists-for-2024/"><u>Breaking Down Why Syma X5C Is Top-Notch for New Dronists for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-non-responsive-scrolls-in-microsoft-excel-2019/"><u>End Non-Responsive Scrolls in Microsoft Excel 2019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-subsys-to-strategy-preparing-for-modern-android-use/"><u>From Subsys to Strategy: Preparing For Modern Android Use</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-xr21-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia XR21</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-perfect-pathway-insta-to-tiktok-junction/"><u>In 2024, The Perfect Pathway Insta to TikTok Junction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-linux-within-the-windows-domain/"><u>Leveraging Linux Within the Windows Domain</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-space-windows-storage-optimization-guide/"><u>Maximizing Space: Windows Storage Optimization Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-permission-denied-saving-issue-on-pc/"><u>Resolving 'Permission Denied' Saving Issue on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-windows-enforced-verification-for-unverified-drivers/"><u>Sidestep Windows Enforced Verification for Unverified Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-five-ways-your-info-is-snatched-by-win11/"><u>The Five Ways Your Info Is Snatched by Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tactics-for-when-your-zoom-screenshare-fails/"><u>Troubleshooting Tactics for When Your Zoom Screenshare Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-steam-disk-write-errors/"><u>Winning Back Control: Fixing Steam Disk Write Errors</u></a></li>
 </ul></div>
 

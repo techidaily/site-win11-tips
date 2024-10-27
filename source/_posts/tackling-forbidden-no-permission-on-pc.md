@@ -1,7 +1,7 @@
 ---
 title: "Tackling Forbidden: No Permission on PC"
-date: 2024-10-18T20:59:31.750Z
-updated: 2024-10-20T22:31:12.230Z
+date: 2024-10-21T18:42:42.279Z
+updated: 2024-10-26T19:58:47.173Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## First, Rule Out Server-Side Issues
@@ -65,28 +65,29 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Faithie/Depositphotos
 
  Piled-up browsing history and cache overflow could be the primary causes of the error we're discussing. Thus, to fix the "you don't have permission to access / on this server" error, you should first clear your browser's browsing history, cache, and cookies.
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reset Your Browser
 
@@ -101,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Disable or Enable Your VPN
@@ -126,22 +127,15 @@ Proceed to the next step if either of these changes does not help.
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Ensure the Firewall Isn't Causing the Problem
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix Annoying Browser Errors on Windows
 
@@ -162,18 +156,22 @@ Proceed to the next step if either of these changes does not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-maximizing-impact-using-youtube-analytics-for-content-strategy/"><u>[New] 2024 Approved Maximizing Impact Using YouTube Analytics for Content Strategy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-mobile-video-assembly-software-for-smartphones/"><u>[New] Top Mobile Video Assembly Software for Smartphones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-key-vr-film-experiences-to-witness-for-2024/"><u>[Updated] Key VR Film Experiences to Witness for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-recall-the-classic-triad-for-diagnosis/"><u>Approach: Recall the Classic Triad for Diagnosis.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-installation-failure-resolving-error-code-80240020/"><u>Fixing Windows 10 Installation Failure: Resolving Error Code 80240020</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-dark-fantasy-to-dazzling-display-demons-souls-in-a-graphic-overhaul/"><u>From Dark Fantasy to Dazzling Display - Demon's Souls in a Graphic Overhaul!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-steam-error-code-130-solved/"><u>How to Fix Steam Error Code 130? [SOLVED]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reactivating-non-responsive-ctrl-in-windows-11/"><u>Mastering the Art of Reactivating Non-Responsive CTRL in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-windows-redos-swiftly-using-custom-shortcuts/"><u>Navigate Windows Redos Swiftly Using Custom Shortcuts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/pros-of-posting-to-tiktok-from-your-personal-computer-or-mac/"><u>Pros of Posting to TikTok From Your Personal Computer or MAC</u></a></li>
-<li><a href="https://win-studio.techidaily.com/reclaim-your-lost-files-a-guide-to-free-recovery-of-windows-10-recycle-bin-contents/"><u>Reclaim Your Lost Files: A Guide to Free Recovery of Windows 10 Recycle Bin Contents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-implementation-directing-gpos-at-a-per-user-level/"><u>Streamlined Implementation: Directing GPOs at a Per-User Level</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unattainable-settings-in-geforce-experience/"><u>Troubleshooting “Unattainable Settings” In GeForce Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-precise-techniques-for-shifting-macscreenshot-filetype/"><u>[New] 2024 Approved Precise Techniques for Shifting MacScreenshot Filetype</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simultaneous-capture-excellence-with-iphones-features/"><u>[New] Simultaneous Capture Excellence with iPhone's Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-analyzing-active-presenters-advantage-on-screens-for-2024/"><u>[Updated] Analyzing Active Presenter’s Advantage on Screens for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snapshot-survival-guide-top-recorders-evaluated/"><u>[Updated] SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-stream-your-podcast-with-a-click/"><u>2024 Approved How to Stream Your Podcast with a Click</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-synchronized-recording-sound-plus-screen-max-156/"><u>Comprehensive Guide to Synchronized Recording: Sound + Screen (Max 156)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crystalclear-conversion-high-res-format/"><u>CrystalClear Conversion - High Res Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-quiet-operation-of-your-pcs-camera-on-ws11/"><u>Disabling Quiet Operation of Your PC's Camera on WS11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-meet-webcam-troubles-heres-how-you-can-get-it-working-again/"><u>Google Meet Webcam Troubles? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-stifling-spontaneous-scrolls/"><u>Mastery Over Windows: Stifling Spontaneous Scrolls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-bluetooth-authenticate-pin-messages-in-win11win10/"><u>Resolving Bluetooth Authenticate Pin Messages in Win11/Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-turn-off-microsofts-win11-firewall/"><u>Tactics to Turn Off Microsoft's Win11 Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-menu-customizing-win-1110-for-rapid-uninstallation/"><u>Tailoring the Menu: Customizing Win 11/10 for Rapid Uninstallation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-data-storage-insights-with-powershell-on-windows-os/"><u>Unlocking Data Storage Insights with PowerShell on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-cure-for-faulty-anydesk-connection/"><u>Win11: Cure for Faulty AnyDesk Connection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286135682-winxdvd/"><u>WinXDVD 技術操作手冊 - 完全用戶指南</u></a></li>
 </ul></div>
 

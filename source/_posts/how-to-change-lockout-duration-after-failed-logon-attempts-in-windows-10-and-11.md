@@ -1,7 +1,7 @@
 ---
 title: How to Change Lockout Duration After Failed Logon Attempts in Windows 10 and 11
-date: 2024-10-20T03:37:12.109Z
-updated: 2024-10-20T19:10:24.270Z
+date: 2024-10-23T16:18:54.763Z
+updated: 2024-10-26T16:18:10.026Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![Choose how long a local account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-set-local-account-lockout-duration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the Account Lockout Duration in Windows via the Command Prompt
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 3. This will pull up information, among other things, about how long this account lockout duration is currently set.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To change account lockout duration on Windows 10 and 11, type the following command into the console and hit **Enter.** Replace the number “60” in the command with any other number from zero to 99,999 to set how many minutes a user will have to wait before being allowed to try and log in again.  
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![Use the command prompt to change account lockout duration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-duration-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Setting this value to zero means the locked-out user will not be able to sign in unless an administrator intervenes and unlocks it. Also, the account lock-out duration must be greater than or equal to the time for the system to [automatically reset the number of failed login attempts](https://www.makeuseof.com/reset-account-lockout-counter-windows/).
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  If you don’t ever want users to be locked out of their local accounts, you must [change the number of failed login attempts](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) a user is allowed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find the Balance Between Security and Convenience
@@ -91,24 +91,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>[New] GoToRhythms Top Pick for Hearing Westerosi Songs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-kidstoons-pro-deep-dive-year-2024/"><u>[New] KidsToons Pro Deep Dive - Year 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[Updated] Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unlock-potential-top-free-video-opener-hacks-for-2024/"><u>[Updated] Unlock Potential Top Free Video Opener Hacks for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-11-pro-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 11 Pro iCloud Activation Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-obstructed-calendarmail-access-on-w11/"><u>How to Overcome Obstructed Calendar/Mail Access on W11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x800704b3-on-your-win1011-machine/"><u>Overcoming Error 0X800704B3 on Your Win10/11 Machine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-dormant-recyclebin-icon-in-windows-11/"><u>Reviving Dormant Recyclebin Icon in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-converting-apng-files-into-easy-to-use-gifs/"><u>Simple Steps: Converting APNG Files Into Easy-to-Use GIFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snippet-savvy-crafting-custom-keybinds-for-speed-and-precision-in-win11/"><u>Snippet Savvy: Crafting Custom Keybinds for Speed & Precision in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-roadblock-ahead-teredo-fails-to-secure-spot-on-competitive-list/"><u>The Roadblock Ahead: Teredo Fails to Secure Spot on Competitive List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-elusive-results-in-your-windows-1011-search/"><u>Uncovering Elusive Results in Your Windows 10/11 Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-runtime-broker-a-key-to-optimized-pc-operations/"><u>Understanding Runtime Broker: A Key to Optimized PC Operations</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +98,23 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-x-audio-studio-pro-for-computer-users/"><u>[New] 2024 Approved X-Audio Studio Pro for Computer Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>[New] Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed-for-2024/"><u>[Updated] Capturing More with Less - LG's 360 Camera Redefined & Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-ensuring-smooth-transition-livestreaming-old-videos-on-fb/"><u>[Updated] In 2024, Ensuring Smooth Transition Livestreaming Old Videos on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-challenge-of-svchostexe-netsvcs-strategies-to-curtail-its-significant-impact-on-internet-usage/"><u>Addressing the Challenge of svchost.exe (NETsvcs): Strategies to Curtail Its Significant Impact on Internet Usage</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-f14-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy F14 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/local-groups-local-power-admin-techniques-for-win1110-homes/"><u>Local Groups, Local Power: Admin Techniques for Win11/10 Homes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-experience-error-x0001-in-windows-os/"><u>Overcoming GeForce Experience Error X0001 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-access-methods-for-windows-control-panel/"><u>Quick Access Methods for Windows Control Panel</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211048300-quick-fix-guide-to-fast-league-of-legends-downloading-say-goodbye-to-delays/"><u>Quick-Fix Guide to Fast League of Legends Downloading: Say Goodbye to Delays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-printer-availability-on-windows-11/"><u>Strategies for Printer Availability on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tech-usage-leveraging-windows-widgets/"><u>Streamlining Tech Usage: Leveraging Windows Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-hogwarts-games-ram-overflow-issue/"><u>Troubleshooting Hogwarts Game's RAM Overflow Issue</u></a></li>
+</ul></div>
+

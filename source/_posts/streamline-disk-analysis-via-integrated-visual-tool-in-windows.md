@@ -1,7 +1,7 @@
 ---
 title: Streamline Disk Analysis via Integrated Visual Tool in Windows
-date: 2024-10-15T20:56:52.299Z
-updated: 2024-10-20T18:05:22.999Z
+date: 2024-10-21T18:19:47.347Z
+updated: 2024-10-26T22:12:54.394Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
@@ -69,19 +69,20 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Next** when installation is complete.
 7. Click**Finish** to exit the Disk Savvy setup window.
 
  Now you can try out the Disk Savvy analyzer utility. Go into File Explorer, and right-click a folder to analyze to select**Show more options** \>**Disk Savvy - Analyze Disk Space** . Click the**Analyze** button on the**Default Profil** e to confirm the selected directory.
 
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
@@ -91,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
@@ -98,22 +106,15 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
@@ -134,18 +135,24 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-next-level-livestream-selecting-the-best-360-cameras/"><u>[New] 2024 Approved Next-Level Livestream Selecting the Best 360° Cameras</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-igtv-success-hashtag-strategies-for-fame-for-2024/"><u>[New] Unlocking IGTV Success Hashtag Strategies for Fame for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-to-size-choosing-the-ultimate-8-windows-video-editing-tools/"><u>Cut Down to Size: Choosing the Ultimate 8 Windows Video Editing Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-free-collection-top-8-tools-for-viewing-4k-media-on-winos-x/"><u>In 2024, Ultimate Free Collection Top 8 Tools for Viewing 4K Media on Win/OS X</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-windows-webcam-compilation/"><u>In 2024, Ultimate Windows Webcam Compilation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/onestepcams-evaluation-are-we-overlooking-gems/"><u>OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-hello-fingerprint-obstacles/"><u>Overcoming Common Windows Hello Fingerprint Obstacles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-files-in-winrar-using-6-checksum-adjustments/"><u>Realigning Files in WinRAR Using 6 Checksum Adjustments</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a34-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A34 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-username-changes-in-the-latest-windows/"><u>Step-by-Step UserName Changes in the Latest Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-windows-11-slide-shows-and-image-spot-repair/"><u>Unlock the Full Potential of Windows 11: Slide Shows & Image Spot Repair</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-rev-up-your-video-earning-game-with-vimeo-strategies/"><u>[New] In 2024, Rev Up Your Video Earning Game with Vimeo Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-professional-webcam-videotaping-tips-and-tricks/"><u>[New] Professional WebCam Videotaping Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-creators-vs-youtubes-profit-policies/"><u>[Updated] In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-campaigns-innovative-approaches-to-fb-video-ads/"><u>2024 Approved Elevate Your Campaigns Innovative Approaches to FB Video Ads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-value-for-money-8-ace-free-srt-apps-reviewed-for-2024/"><u>Best Value for Money 8 Ace Free SRT Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-command-line-productivity-the-advanced-windows-run-extension/"><u>Enhancing Command-Line Productivity: The Advanced Windows Run Extension</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disguise-search-icon-on-windows-11/"><u>Guide to Disguise Search Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dispel-windows-directive-not-empty-myth-a-guide-on-0x80070091/"><u>How to Dispel Windows' Directive Not Empty Myth: A Guide on 0X80070091</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-haven-the-ultimate-list-of-event-specific-jokes-for-2024/"><u>Humor Haven The Ultimate List of Event-Specific Jokes for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-detailed-guide-instastickers-your-pathway-to-musical-posting/"><u>In 2024, Detailed Guide InstaStickers – Your Pathway to Musical Posting</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-picture-quality-improving-xbox-series-x/"><u>Pinnacle Picture Quality: Improving Xbox Series X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-the-old-timey-folder-experience/"><u>Reinstating the Old-Timey Folder Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-reversing-windows-11-updates/"><u>Step-by-Step Guide: Reversing Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-notorious-0xc000003e-application-error-on-windows-11-and-11/"><u>Tackling the Notorious 0xC000003E Application Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-runtime-brokers-in-enhancing-system-security/"><u>The Role of Runtime Brokers in Enhancing System Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-functionality-of-windows-1011-clock/"><u>The Unseen Functionality of Windows 10/11 Clock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-enabling-and-disabling-fn-key-on-pcs/"><u>Tips on Enabling & Disabling Fn Key on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-methods-of-discovering-windows-product-codes/"><u>Unlock the Mystery: Methods of Discovering Windows Product Codes</u></a></li>
 </ul></div>
 

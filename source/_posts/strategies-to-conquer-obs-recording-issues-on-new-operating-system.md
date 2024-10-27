@@ -1,7 +1,7 @@
 ---
 title: Strategies to Conquer OBS Recording Issues on New Operating System
-date: 2024-09-10T01:10:15.578Z
-updated: 2024-09-17T09:01:47.197Z
+date: 2024-10-24T17:59:17.480Z
+updated: 2024-10-26T18:38:04.459Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,14 @@ Here's what you need to do:
 3. Choose **Allow an app or feature through Windows Defender Firewall** option from the left sidebar.  
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
@@ -71,6 +79,13 @@ Here's what you need to do:
 8. Click**Add.**
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your computer and check if the problem continues.
 
@@ -103,26 +118,20 @@ You can do that by following the below instructions:
 4. Click the**Environment Variables** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Paste the following path in the**Variable value** text box and click**OK.**  
@@ -130,13 +139,20 @@ You can do that by following the below instructions:
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it! Now, start recording in OBS Studio and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check for Corrupted or Missing Files
 
@@ -175,5 +191,22 @@ You can do that by following the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quick-and-simple-instagram-plus-facebook-integration-tips/"><u>[New] 2024 Approved Quick & Simple Instagram + Facebook Integration Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cost-effective-tools-to-record-pc-screens-for-2024/"><u>[Updated] Cost-Effective Tools to Record PC Screens for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/average-spend-on-successful-youtube-videos-for-2024/"><u>Average Spend on Successful YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dual-display-capture/"><u>Dual Display Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-slack-feedback-on-windows-11/"><u>Enhance Your Slack Feedback on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expand-your-windows-11s-ram-via-virtual-memory-boosting/"><u>Expand Your Windows 11'S RAM via Virtual Memory Boosting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-utorrent-connectivity-issues-on-pc/"><u>Guiding Through Resolving uTorrent Connectivity Issues on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-5-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor Magic 5 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-v30-lite-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo V30 Lite 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterclass-enhancing-msi-compatibility-with-older-windows/"><u>Masterclass: Enhancing MSI Compatibility with Older Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-your-system-essential-windows-processes-to-monitor/"><u>Safeguarding Your System: Essential Windows Processes to Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stable-date-and-time-control-in-windows/"><u>Stable Date & Time Control in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-textual-errors-6-ways-to-simplify-windows-11s-mail-app/"><u>Taming Textual Errors: 6 Ways to Simplify Windows 11'S Mail App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-x50iplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor X50i+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-disk-type-hdd-vs-ssd-identification-techniques/"><u>Unveiling Disk Type: HDD vs SSD Identification Techniques</u></a></li>
+</ul></div>
 
