@@ -1,7 +1,7 @@
 ---
 title: Mitigating Insufficient Permissions in Win Setup Procedures
-date: 2024-10-21T17:34:25.613Z
-updated: 2024-10-27T00:17:59.122Z
+date: 2024-10-25T19:17:36.400Z
+updated: 2024-11-01T16:14:49.539Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
  If you can see an**Unblock** option on the**General** tab, deselect the checkbox and select**Apply** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Take Ownership of the Software’s Installation Directory
 
  One of the more widely confirmed solutions for fixing the “installer has insufficient privileges” error is to take ownership of the installation directory for the affected software.
@@ -52,10 +59,17 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Installing it in a Different Folder
@@ -71,13 +85,20 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ![windows installer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-installer-option.jpg)
 3. If Windows Installer is running, select its**Restart** context menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can double-click the**Windows Installer** service to view its properties window and restart it from there. Click**Start** if the service is already stopped, or, select**Stop > Start** to restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable UAC Before Installing
@@ -85,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -98,24 +126,10 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ![The UAP security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-options.jpg)
 4. Select**Disabled** to turn off that policy setting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
 
@@ -129,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Try Installing Software After Clean Booting
 
  Clean booting means disabling all third-party apps and services that start with Windows. This troubleshooting method can prevent software conflicts by eliminating unneeded apps and services running in the background. In this case, a clean boot might disable an app or service that’s hindering the software installation process.
@@ -143,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
  We have a detailed guide on[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) explaining how you can disable the startup items with System Configuration and Task Manager. Select to restart your PC after you’ve set a clean boot configuration. Install the software you need after restarting to see if the clean booting has made any difference.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Uninstall Older Software Versions
 
@@ -180,21 +180,17 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-streaming-options-vimeo-vs-youtubes-popularity/"><u>[New] In 2024, Exploring Streaming Options Vimeo vs YouTube's Popularity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users-for-2024/"><u>[New] Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-pioneering-youtube-fitness-ideas-for-a-movement-driven-viewership/"><u>[Updated] 2024 Approved Pioneering YouTube Fitness Ideas for a Movement-Driven Viewership</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-todays-top-social-media-stars-a-look-at-8-hits-for-2024/"><u>[Updated] Today's Top Social Media Stars A Look at 8 Hits for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-creative-potential-with-instas-bokeh-effects/"><u>2024 Approved Unleashing Creative Potential with Insta's Bokeh Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-win1011-blue-screen-crash-issue/"><u>Addressing Win10/11 Blue Screen Crash Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-film-fiesta-discover-ways-to-access-netflix-without-spending-a-penny/"><u>Free Film Fiesta: Discover Ways to Access Netflix Without Spending a Penny</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ying-monthly-for-youtubes-unlimited-access-a-good-deal-for-2024/"><u>Is Paying Monthly for YouTube's Unlimited Access a Good Deal for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimize-lag-and-enhance-fps-in-roblox-win-edition/"><u>Minimize Lag & Enhance FPS in Roblox Win Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-access-denied-save-issues-on-windows/"><u>Navigating Through Access Denied Save Issues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-1110-setup-with-rightful-permissions/"><u>Navigating Windows 11/10 Setup with Rightful Permissions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-pc-video-editing-made-easy-a-vn-editor-review/"><u>New PC Video Editing Made Easy A VN Editor Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-connection-between-windows-11-and-print-devices/"><u>Restoring Connection Between Windows 11 and Print Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slick-techniques-for-masking-windows-11-task-view/"><u>Slick Techniques for Masking Windows 11 Task View</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-checklist-for-finding-film-specialists/"><u>The Ultimate Checklist for Finding Film Specialists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-speed-minimizing-applications-via-keyboard-shortcuts/"><u>Unleash Speed: Minimizing Applications via Keyboard Shortcuts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ngage-audiences-writing-magical-youtube-description-templates-for-higher-views/"><u>[New] Engage Audiences Writing Magical YouTube Description Templates for Higher Views</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet/"><u>2024 Approved Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mkv-m4v-movavi/"><u>線上無架限 高效率 MKV 到 M4V 影片轉換工具 - 全功能 Movavi 編輯解碼器</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-an-unresponsive-iphone-touchscreen-effective-solutions-explored/"><u>Dealing with an Unresponsive iPhone Touchscreen: Effective Solutions Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/freshen-up-windows-sounds-the-audio-driver-revamp-tutorial/"><u>Freshen Up Windows Sounds: The Audio Driver Revamp Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-clear-access-denied-message-when-closing-outlook-files/"><u>How to Clear Access Denied Message When Closing Outlook Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/infiltrating-blocked-powershell-top-4-techniques-for-loading-success/"><u>Infiltrating Blocked PowerShell: Top 4 Techniques for Loading Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs-for-2024/"><u>Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-faulty-windows-11-license-numbers/"><u>Reviving Faulty Windows 11 License Numbers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-diminishing-wmi-service-impact-on-cpu/"><u>Strategies for Diminishing WMI Service Impact on Cpu</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-definitive-review-of-the-dell-xps-13-plus-9320-your-ideal-travel-companion-in-a-windows-package/"><u>The Definitive Review of the Dell XPS 13 Plus (9320): Your Ideal Travel Companion in a Windows Package</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-12-improvements-for-a-future-release-what-users-hope-for-from-windows-12/"><u>The Essential 12 Improvements for a Future Release: What Users Hope For From Windows 12</u></a></li>
 </ul></div>
 

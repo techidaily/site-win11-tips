@@ -1,7 +1,7 @@
 ---
 title: "Path Pioneering in Win11: Unveiling the Best Practices (6 Keyways)"
-date: 2024-09-12T03:22:13.472Z
-updated: 2024-09-16T21:45:39.222Z
+date: 2024-10-28T18:30:00.889Z
+updated: 2024-11-01T16:14:20.580Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
 ![A copied path with inverted commas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-copied-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Select the Default Context Menu Option for Copying Paths
 
  Alternatively, you can select a **Copy as path** option via Explorer’s context menu. To do so, open up a directory that includes a file or folder path to copy. Then right-click the file or folder and select **Copy as path**.
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 ![The Copy as path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-as-path.jpg)
 
  You can also copy multiple paths. To do so, select multiple files and folders by holding the **Ctrl** key. Then right-click one to select **Copy as path**.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Copy Paths With a Hotkey
 
@@ -62,21 +82,7 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
 ![The Copy address as text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-address-as-plain-text-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Copy address as text** option copies the folder path in the address bar as plain text. The pasted copied path will not include any inverted commas (quote marks).
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Copy Target Paths for Shortcuts
 
@@ -84,14 +90,14 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
 ![The Target box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/target-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To copy a target path, right-click a desktop shortcut and select **Properties**; click inside the **Target** box on the **Shortcut** tab to select the path’s text. Press the standard **Ctrl** \+ **C** hotkey to copy the selected path text. Then paste that copied path into File Explorer’s address bar with **Ctrl** \+ **V**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Copy Paths With the Path Copy Copy Software
 
@@ -115,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
 ![The Path Copy Copy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-copy-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now right-click a file or folder to have another look at the Path Copy submenu, which will include many more options. You can select the **Short** option to copy the location with a shortened folder or file name. Or select **Name** to copy just a title for a file or folder. Try out the different copy path options by selecting them and pasting them into Notepad.
 
 ![All Path Copy options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/all-path-copy-options.jpg)
@@ -124,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 ![The Options tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/options-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copy Paths on Windows Whichever Way You Like Best
@@ -144,5 +157,23 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-the-live-best-obs-screen-recorders-reviewed-for-2024/"><u>[New] Capturing the Live Best OBS Screen Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-livestream-leaders-clash-for-2024/"><u>[New] LiveStream Leaders Clash for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premier-funny-photo-tool-for-2024/"><u>[New] Premier Funny Photo Tool for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-package-accessories-to-boost-your-yi-4k/"><u>[New] The Ultimate Package Accessories to Boost Your YI 4K</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A34 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-center-conquest-windows-high-rank-entry/"><u>Command Center Conquest: Windows High-Rank Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-add-outlook-preview-on-pcs/"><u>Essential Tips to Add Outlook Preview on PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-ideal-iphone-at-record-prices-exclusive-roundup-of-july-2024-promotions-as-reviewed-by-zdnet/"><u>Find Your Ideal iPhone at Record Prices! Exclusive Roundup of July 2024 Promotions as Reviewed by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disconnect-on-a-windows-pc/"><u>Fixing Steam Disconnect on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unavailable-roblox-on-windows-due-to-account-configs/"><u>Fixing Unavailable Roblox on Windows Due to Account Configs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nubia-red-magic-8s-proplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nubia Red Magic 8S Pro+ Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-windows-11-sketch-software-ranked-and-reviewed/"><u>Masterful Windows 11 Sketch Software Ranked and Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-displaying-windows-1011-search-outcomes/"><u>Resolving Non-Displaying Windows 10/11 Search Outcomes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-google-pixel-8-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Google Pixel 8 Android SIM Unlock APK</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-the-15-greatest-dolby-atmos-movie-choices-for-in-home-viewing/"><u>Ultimate List of the 15 Greatest Dolby Atmos Movie Choices for In-Home Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-file-harmony-aoemis-sync-solution-tutorial/"><u>Windows File Harmony: AOEMi's Sync Solution Tutorial</u></a></li>
+</ul></div>
 

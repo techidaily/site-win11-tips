@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Streamlining with New Folder Placement in Menu"
-date: 2024-10-21T18:26:27.063Z
-updated: 2024-10-26T20:51:58.542Z
+date: 2024-10-26T19:39:40.065Z
+updated: 2024-11-01T16:22:40.831Z
 tags:
   - windows10
   - windows11
@@ -47,24 +47,31 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
@@ -87,13 +94,6 @@ Once your PC has restarted:
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -106,10 +106,10 @@ Once your PC has restarted:
 5. Press the**Choose Folder** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
@@ -135,10 +135,10 @@ Once your PC has restarted:
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -160,20 +160,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives-for-2024/"><u>[New] Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevating-your-tiktok-presence-a-comprehensible-guide-to-bg-updates-for-2024/"><u>[Updated] Elevating Your TikTok Presence A Comprehensible Guide to BG Updates for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[Updated] From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-elite-in-depth-analysis-of-amds-x5-mfmotherboard-lineup-for-next-gen-pc-building/"><u>Benchmarking the Elite: In-Depth Analysis of AMD's X5^ MF_Motherboard Lineup for Next-Gen PC Building</u></a></li>
-<li><a href="https://win-blog.techidaily.com/directdraw-complications-cracked-expert-tips-for-smooth-resolution-steps/"><u>DirectDraw Complications Cracked: Expert Tips for Smooth Resolution Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-no-network-reachable-errors-win/"><u>Eradicating No Network Reachable Errors (WIN)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-pc-game-crashes-overcome-nba-2k23-hurdles-with-these-7-pro-tips-and-fixes/"><u>Stop PC Game Crashes: Overcome NBA 2K23 Hurdles with These 7 Pro Tips & Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-restarting-non-responsive-resource-monitors-in-windows-11/"><u>Strategies for Restarting Non-Responsive Resource Monitors in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharging-pc-vram-with-windows-1011-tips-and-tricks/"><u>Turbocharging PC VRAM with Windows 10/11 Tips and Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tutorial-trimming-the-ending-removing-last-5-mins-on-windows-pc-w10-and-w11/"><u>Tutorial: Trimming the Ending - Removing Last 5 Mins on Windows PC (W10 & W11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-of-the-best-free-4k-video-converters-for-pc-and-mac/"><u>Updated In 2024, Best of the Best Free 4K Video Converters for PC and Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-templates-for-dynamic-youtube-channel-closures/"><u>[Updated] In 2024, Free Templates for Dynamic YouTube Channel Closures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-macs-image-file-transformation/"><u>[Updated] The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-top-10-gratis-mmo-rpgs-for-2024/"><u>[Updated] Ultimate Guide Top 10 Gratis MMO RPGs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-online-concert-for-a-click-music-and-memories/"><u>2024 Approved Online Concert for a Click Music and Memories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/core-applications-of-visual-cplusplus-redistributables/"><u>Core Applications of Visual C++ Redistributables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-malfunctioning-windows-diagnostic-tools/"><u>Correcting Malfunctioning Windows Diagnostic Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/focused-file-exploring-unleash-windowed-space-potential/"><u>Focused File Exploring: Unleash Windowed Space Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tackle-windows-11s-0x800f0922-update-error/"><u>Guide to Tackle Windows 11'S 0X800F0922 Update Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s23-fe-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S23 FE Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-the-dns-client-service-in-windows-11/"><u>How to Configure the DNS Client Service in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-high-contrast-mode-on-windows/"><u>How to Turn Off High Contrast Mode on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-se-2020-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone SE (2020) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y02t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y02T FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-basics-of-window-aids-with-ease/"><u>Navigate the Basics of Window Aids with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-mbs-unable-to-link-error-on-win11/"><u>Strategies to Resolve MB's Unable to Link Error on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-lava-agni-2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Agni 2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-pro-key-grab-the-best-offers-and-save-money/"><u>Windows 11 Pro Key: Grab the Best Offers and Save Money</u></a></li>
 </ul></div>
 

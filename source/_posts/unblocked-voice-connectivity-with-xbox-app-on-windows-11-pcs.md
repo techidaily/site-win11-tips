@@ -1,7 +1,7 @@
 ---
 title: Unblocked Voice Connectivity with Xbox App on Windows 11 PCs
-date: 2024-10-25T21:45:28.452Z
-updated: 2024-10-26T21:41:24.699Z
+date: 2024-10-25T16:28:40.989Z
+updated: 2024-11-01T19:22:02.714Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change the Default Format Output Option
 
  Many users have confirmed that changing the default format for their microphone devices fixes the mic not working with the Xbox app. Those users switched the default format to a**DVD Quality** setting. You can select that default microphone output format in Windows like this:
@@ -74,15 +87,23 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 6. Click**Advanced** in the properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Then select the**2-channel, 16-bit, 48000 Hz (DVD Quality)** option in the drop-down menu.  
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
 8. Press**Apply** to save the new default format output setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the**Advanced** tab and properties window.
 
 ## 5\. Select the Right Audio Input Device in the Xbox App
@@ -97,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![The Audio tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-audio-tab.jpg)
 5. Then select the microphone you want to use with the Xbox app in the Input device menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
 
 ## 6\. Reset the Xbox App
@@ -113,17 +127,10 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Driver for the Audio Input Device
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 4. Click**Uninstall** to confirm and remove the device.
 5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the Xbox App
 
  The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -151,13 +151,26 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -178,24 +191,24 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-efficiency-in-conversion-a-compact-list-of-the-top-10-video-transformers-for-2024/"><u>[New] Efficiency in Conversion A Compact List of the Top 10 Video Transformers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-generating-attention-grabbing-video-teasers/"><u>[New] In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-shine-brightly-youtubes-17-must-have-illumination/"><u>[Updated] In 2024, Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>2024 Approved A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-gpu-driver-updates-download-and-installation-guide-for-windows-users/"><u>AMD GPU Driver Updates: Download & Installation Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breakthrough-programs-facilitating-switch-from-mac-to-windows/"><u>Breakthrough Programs Facilitating Switch From MAC to WINDOWS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/hering-youtubes-monetary-mechanisms/"><u>Deciphering YouTube's Monetary Mechanisms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-basics-to-brilliance-elevating-your-windows-experience-via-ms-store/"><u>From Basics to Brilliance: Elevating Your Windows Experience via MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidance-on-resolving-windows-software-initiation-flaw-error/"><u>Guidance on Resolving Windows Software Initiation Flaw (Error)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-completely-reskin-windows-11-for-a-nostalgic-windows-98-look/"><u>How to Completely Reskin Windows 11 for a Nostalgic Windows 98 Look</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-pova-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Pova 5 Location | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-stability-in-uav-photography-an-introduction-to-drones-balance-devices/"><u>Mastering Stability in UAV Photography An Introduction to Drones' Balance Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/should-you-block-yourphoneexe-on-home-editions/"><u>Should You Block YourPhone.exe on Home Editions?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719380879608-speedy-outlook-on-windows-heres-how/"><u>Speedy Outlook on Windows? Here's How!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-microsofts-phone-link-features/"><u>The Essential Guide to Microsoft's 'Phone Link' Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-20-magic-words-for-marketing-for-2024/"><u>The Ultimate List of 20 Magic Words for Marketing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-without-taskbar-chat-what-it-means-for-you/"><u>Windows 11 Without Taskbar Chat: What It Means for You?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wipe-out-unfulfilled-criteria-indication-in-win11/"><u>Wipe Out Unfulfilled Criteria Indication in Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-drone-innovations-today-and-their-imminent-breakthroughs/"><u>[New] Drone Innovations Today and Their Imminent Breakthroughs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-panoramic-portals-cutting-edge-filmscapes/"><u>[New] Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-essential-tips-for-mastering-instagram-reels/"><u>[Updated] Essential Tips for Mastering Instagram Reels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[Updated] In 2024, Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-lesser-known-aspects-for-the-instagram-story-viewer/"><u>[Updated] In 2024, Lesser-Known Aspects for the Instagram Story Viewer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-seventh-selection-of-aquatic-cameras-for-2024/"><u>[Updated] The Ultimate Seventh Selection of Aquatic Cameras for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-blocked-files-on-windows-with-powershell/"><u>Breaking Down Blocked Files on Windows With PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-cannot-create-windows-mmc-error/"><u>Breaking Down the 'Cannot Create' Windows MMC Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-frozen-services-manager-top-7-methods-explored/"><u>Breathe Life Into Frozen Services Manager: Top 7 Methods Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-desk-with-win-1011-sketches/"><u>Bring Life to Your Desk with Win 10/11 Sketches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-barriers-to-implement-win11-version-22h2-update/"><u>Bypassing Barriers to Implement Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-program-error-in-windows-security/"><u>Bypassing Frozen Program Error in Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-and-simplify-files-with-powertools/"><u>Centralize and Simplify Files With PowerTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-preferred-initial-web-address-on-w11/"><u>Changing Preferred Initial Web Address on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-the-account-lockout-threshold-post-unsuccessful-accesses-in-windows-1011/"><u>Changing the Account Lockout Threshold Post Unsuccessful Accesses in Windows 10/11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/drowsy-discourses-an-examination-of-nighttime-story-videos-for-2024/"><u>Drowsy Discourses An Examination of Nighttime Story Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/experience-great-listening-on-a-budget-with-amazon-basic-soundbar/"><u>Experience Great Listening on a Budget with Amazon Basic Soundbar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-asus-rog-phone-7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Asus ROG Phone 7 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/securisez-votre-systeme-avec-aomei-backupper-pro-and-cloud-sauvegarde-et-restauration-efficaces-pour-pcs-et-laptops/"><u>Securisez Votre Système Avec AOMEI Backupper Pro & Cloud - Sauvegarde Et Restauration Efficaces Pour PCs Et Laptops.</u></a></li>
 </ul></div>
 

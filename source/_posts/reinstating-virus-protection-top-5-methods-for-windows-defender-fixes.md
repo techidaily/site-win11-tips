@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Virus Protection: Top 5 Methods for Windows Defender Fixes"
-date: 2024-10-22T16:30:39.882Z
-updated: 2024-10-26T18:22:07.340Z
+date: 2024-10-29T19:10:17.724Z
+updated: 2024-11-01T18:58:05.319Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Security Center Service
@@ -58,17 +58,17 @@ Here is how you can restart the Security Center Service:
 ![Launch the properties of Security Center service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-center-properties.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Expand the dropdown for Startup type and choose**Automatic** .
 7. Click**Apply** \>**OK** to save the changes and then close the Services utility.
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
 
@@ -95,10 +95,10 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -122,6 +122,19 @@ Here is how you can reset the Windows Security app:
 ![Command to Reset Windows Security in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Command-to-Reset-Windows-Security-.jpg)
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Remove Any Conflicting Software
 
  In case you have a third party installed on the system, it might be interfering with the processes of Windows Defender, preventing it from updating or functioning properly.
@@ -129,13 +142,6 @@ Here is how you can reset the Windows Security app:
  If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses[how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
 
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Windows Defender Up and Running Again
 
@@ -156,20 +162,21 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-engaging-youtube-summaries-with-tailored-templates/"><u>[New] In 2024, Engaging YouTube Summaries with Tailored Templates</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-skyline-growth-youtubes-top-tactics-with-video-outros/"><u>[Updated] In 2024, Skyline Growth YouTube's Top Tactics with Video Outros</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-elegance-selecting-high-quality-ringtones-online/"><u>2024 Approved Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sy-to-follow-guide-to-applying-cc-license-types/"><u>An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-to-stop-windows-10-blue-screens/"><u>Essential Fixes to Stop Windows 10 Blue Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps-on-windows-10-and-11/"><u>Guide to Reinstalling Microsoft Store Apps on Windows 10 & 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-defy-2-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Defy 2 Phone that is Locked?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-metaphysical-realms-of-the-metaverse-quotations-style/"><u>In 2024, Metaphysical Realms of the Metaverse, Quotations Style</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-google-pixel-5-review-capturing-exceptional-moments-and-more/"><u>In-Depth Google Pixel 5 Review: Capturing Exceptional Moments and More</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/insightful-evaluation-exploring-the-enhanced-features-of-dji-phantom-4-pro-version-20/"><u>Insightful Evaluation: Exploring the Enhanced Features of DJI Phantom 4 Pro, Version 2.0</u></a></li>
-<li><a href="https://games-able.techidaily.com/instant-gaming-fixes-the-top-20-mobile-games-to-relax-and-entertain/"><u>Instant Gaming Fixes: The Top 20 Mobile Games to Relax and Entertain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-speedy-pointers-curtailing-acceleration-on-windows-11/"><u>Say Goodbye to Speedy Pointers: Curtailing Acceleration on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-ceasing-random-windows-key-activation/"><u>Strategies for Ceasing Random Windows Key Activation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-to-speed-up-system-restart-with-windows-11/"><u>Tricks to Speed Up System Restart with Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-is-youtubes-monetization-routine/"><u>[New] 2024 Approved Is YouTube’s Monetization Routine?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-propel-traffic-and-engagement-with-smart-youtube-backlink-strategies/"><u>[New] In 2024, Propel Traffic and Engagement with Smart YouTube Backlink Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-resource-list-of-3d-fonts-online/"><u>[Updated] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-iphone-images-through-strategic-leading-lines/"><u>2024 Approved Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-items-in-windows-explorer-navigation/"><u>Fixing Missing Items in Windows Explorer Navigation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210791602-9780711283268-goddess-stories/"><u>Goddess Stories | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 6s Without Apple ID Password?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-outlook-preview-in-windows-11-a-step-by-step-guide/"><u>Launching Outlook Preview in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quickening-instagram-video-streams-on-mobile-devices-for-2024/"><u>Quickening Instagram Video Streams on Mobile Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-failures-in-windows-systems/"><u>Resolving GeForce Experience Failures in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blue-screen-on-hybrid-os-5-ways-to-correct-bsos-errors/"><u>Stop Blue Screen on Hybrid OS: 5 Ways to Correct BSOS Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-tech-enhancing-windows-11-hardware-performance/"><u>Tweaking Tech: Enhancing Windows 11 Hardware Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-boost-with-strategic-feature-deactivation/"><u>Windows 11 Performance Boost with Strategic Feature Deactivation</u></a></li>
 </ul></div>
 

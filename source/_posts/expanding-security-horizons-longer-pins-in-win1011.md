@@ -1,7 +1,7 @@
 ---
 title: "Expanding Security Horizons: Longer Pins in Win10/11"
-date: 2024-09-12T02:51:41.005Z
-updated: 2024-09-16T20:21:07.088Z
+date: 2024-10-29T16:22:36.043Z
+updated: 2024-11-01T18:19:15.751Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -75,14 +82,42 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -100,18 +135,26 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-enhancing-visual-appeal-with-instagrams-filters-and-effects/"><u>[New] Enhancing Visual Appeal with Instagram's Filters & Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-end-online-locations-for-metallic-3d-lettering-for-2024/"><u>[New] High-End Online Locations for Metallic 3D Lettering for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mirrored-moments-the-essence-of-flipping-videos-for-2024/"><u>[New] Mirrored Moments The Essence of Flipping Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[Updated] 2024 Approved The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-insights-on-perfecting-your-gaming-screenshots/"><u>[Updated] Expert Insights on Perfecting Your Gaming Screenshots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-gif-converters-online-5-rated-highly/"><u>2024 Approved Seamless GIF Converters Online, 5 Rated Highly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-guide-for-thriving-youtube-channels-with-cp/"><u>2024 Guide for Thriving YouTube Channels with CP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-and-enhance-print-tools-in-w11-up-to-56-chars/"><u>Explore and Enhance Print Tools in W11 (Up to 56 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-administering-pc-control-panel/"><u>Guide to Administering PC Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-potentials-in-windows-11-unlocking-new-possibilities/"><u>Hidden Potentials in Windows 11: Unlocking New Possibilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-issue-unreachable-network-router-page/"><u>Overcoming Windows Issue: Unreachable Network Router Page</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-windows-security-anomalies/"><u>Solutions to Overcome Windows Security Anomalies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotlight-control-on-lock-screen-onoff-guide-for-windows-users/"><u>Spotlight Control on Lock Screen: On/Off Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/team-communication-reinvented-for-speed-and-clarity/"><u>Team Communication Reinvented for Speed & Clarity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tips-paling-efektif-untuk-memutakhirkan-partisi-disk-di-windows-10-alat-alat-berbahaya/"><u>Tips Paling Efektif Untuk Memutakhirkan Partisi Disk Di Windows 10: Alat-Alat Berbahaya!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstall-and-reinstall-strategy-microsoft-store-problems/"><u>Uninstall and Reinstall Strategy: Microsoft Store Problems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-the-best-deal-final-cut-pro-education-discount-inside/"><u>Unlock the Best Deal Final Cut Pro Education Discount Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-inactivity-timer-personalization-guide/"><u>Windows Inactivity Timer: Personalization Guide</u></a></li>
+</ul></div>
 

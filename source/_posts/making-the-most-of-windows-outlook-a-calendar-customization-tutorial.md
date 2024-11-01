@@ -1,7 +1,7 @@
 ---
 title: Making the Most of Windows Outlook - A Calendar Customization Tutorial
-date: 2024-09-11T01:20:43.727Z
-updated: 2024-09-12T01:20:43.727Z
+date: 2024-10-31T18:49:02.272Z
+updated: 2024-11-01T17:30:51.847Z
 tags:
   - windows10
   - windows11
@@ -26,20 +26,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ![personalized outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/personalized-outlook.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Unsurprisingly, Microsoft aims to retain the next wave of users by ensuring their continued adoption of its software. Through the Outlook for Windows preview app, the developers of Microsoft 365 aim to step towards embracing modernity while improving the ingenuity of core Outlook features. The new Outlook preview app is sleek, functional, and makes it really easy to [personalize your Outlook experience](https://www.makeuseof.com/how-to-personalize-outlook-experience-windows/). It also has unique features such as [Gmail account integration into Outlook](https://www.makeuseof.com/add-gmail-accounts-outlook-app-on-windows/), and users can even directly integrate Skype and Microsoft Teams.
 
  The Microsoft Outlook preview app is available to Microsoft 365 Insider program participants. Users who have signed up to be an ‘Insider’ are the first to receive the latest updates for their favorite Office apps. Microsoft relies on the feedback collected from the Insider community to improve features, resolve software bugs, and enhance user experience.
@@ -53,20 +39,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 3. Launch the **Mail** app and set it up with an email account.
 4. On the top-right corner, enable the **Try the new Outlook** toggle button.
 5. The app will then restart to the new Outlook preview app.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Set Up Your Calendar Layout on Outlook
 
@@ -84,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 5. To view upcoming events more detailedly, you can increase the **Time scale** to make more room for details.
 6. Once you’ve organized a view to your preference, you can save it as the default view the next time. To do so, select **Saved views** and then **Save the current view**.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Filter Meetings and Events in Outlook Calendar
 
  You can effortlessly sort through meetings and events to better organize your schedule if your calendar becomes overcrowded. You have the option to filter calendar events according to the following:
@@ -95,35 +80,21 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ![meetings filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/meetings-filter.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  To access the filter options for your Outlook Calendar, select the **Calendar** icon from the left sidebar and then click on the **View** tab from the Ribbon. Select the **Filter** button and choose the required filter criteria from the dropdown menu.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Manage Calendar Time Settings in Outlook
 
@@ -139,20 +110,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 ![calendar view settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/calendar-view-settings.jpg)
 4. Under the **Calendar appearance** section, you can change your work week, adjust meeting hours, and more.
 5. Finally, select the **Save** button to confirm your changes.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Add Time Zones in Outlook Calendar
 
@@ -182,41 +139,21 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 ![share calendar outlook preview app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/share-calendar-1.jpg)
 4. In the **Sharing and permissions** window, type the email address of the user you want to invite and press **Enter**.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![share calendars on outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/share-calendar-2.jpg)
 5. Select the required level of access and click on **Share**.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Make Your Calendar Smarter
 
@@ -224,11 +161,24 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  Read on as we discuss how to customize the Outlook calendar to suit your needs.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-five-excellent-cameras-for-high-fidelity-movies/"><u>[New] 2024 Approved Top Five Excellent Cameras for High Fidelity Movies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>2024 Approved Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-solution-manual-windows-rainmeter-problems-decoded/"><u>A Comprehensive Solution Manual: Windows Rainmeter Problems Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-iomap64-bsod-with-easy-steps-for-windows-users/"><u>Addressing IOMap64 BSoD with Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-time-tracks-essential-windows-tools-to-edit-file-dates/"><u>Alter Time Tracks: Essential Windows Tools to Edit File Dates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-devices-showdown-discover-key-differences-between-ipad-pro-and-macbook-air/"><u>Apple Devices Showdown: Discover Key Differences Between iPad Pro & MacBook Air</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpt-visual-jokes-for-giphy-space/"><u>In 2024, Sculpt Visual Jokes for Giphy Space</u></a></li>
+<li><a href="https://blog-min.techidaily.com/konvertere-dng-format-naar-jpeg-online-gratis-met-movavi/"><u>Konvertere DNG-Format Naar JPEG Online Gratis Met Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719289062860-rescue-your-browser-fix-google-chrome-in-w11-today/"><u>Rescue Your Browser: Fix Google Chrome in W11 Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266264-9781644113783-the-bavarian-illuminati/"><u>The Bavarian Illuminati | Free Book</u></a></li>
+</ul></div>
+

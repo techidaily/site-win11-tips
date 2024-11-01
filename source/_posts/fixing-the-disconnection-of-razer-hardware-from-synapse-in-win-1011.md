@@ -1,7 +1,7 @@
 ---
 title: Fixing the Disconnection of Razer Hardware From Synapse in Win 10/11
-date: 2024-10-20T16:18:38.706Z
-updated: 2024-10-26T20:11:16.530Z
+date: 2024-10-31T18:54:28.150Z
+updated: 2024-11-01T18:47:08.020Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
  First, before you hop into the troubleshooting steps, note that Synapse will not detect non-Razer devices. There are even some Razer products Synapse 3.0 and 2.0 don’t support. It might be the case Synapse isn’t detecting your hardware because it doesn’t support it. So, double-check your Razer Synapse software supports the device it’s not detecting.
 
  You can check supported hardware at the[Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the[Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Run the Hardware and Devices Troubleshooter
 
@@ -65,13 +72,21 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 4. Select the**Repair** option in the window that opens.  
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Razer Synapse
@@ -90,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 8. Press**Ctrl** +**A** to select any remaining files in the Razer folder.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Press the**Del** key to erase the selected files.
@@ -112,17 +133,10 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
@@ -146,20 +160,13 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configure Your Razer Devices in Synapse Again on Windows
@@ -181,17 +188,19 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-visual-stories-for-successful-fb-covers-for-2024/"><u>[Updated] Crafting Visual Stories for Successful FB Covers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-windows-subsystem-for-linux-impact/"><u>Assessing Windows Subsystem for Linux Impact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-with-w11-taskbar-adjustments/"><u>Elevate Your PC with W11 Taskbar Adjustments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-advice-on-securing-the-best-deal-for-your-next-vintage-ipad/"><u>Essential Advice on Securing the Best Deal for Your Next Vintage iPad</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-seamlessly-move-backups-between-computers-using-windows-11/"><u>How to Seamlessly Move Backups Between Computers Using Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-device-driver-issues-in-world-of-warcraft-successful-update-and-compatibility-guide/"><u>Overcome Device Driver Issues in World of Warcraft - Successful Update and Compatibility Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/resuelve-el-problema-de-la-ubicacion-inaccesible-en-windows-11-con-estas-eficaces-soluciones-y-estrategias/"><u>Resuelve El Problema De La Ubicación Inaccesible en Windows 11 Con Estas Eficaces Soluciones Y Estrategias</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reveal-hidden-configurations-unearth-missing-controls-in-win11/"><u>Reveal Hidden Configurations: Unearth Missing Controls in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-intelligent-interface-ais-role-in-windows-evolution/"><u>The Intelligent Interface: AI's Role in Windows Evolution</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-d3d11-gpu-error-on-windows-11-and-10/"><u>Troubleshooting D3D11 GPU Error on Windows 11 & 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-hue-transformations-in-post-production/"><u>[New] In 2024, Mastering Hue Transformations in Post-Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-a-quick-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[Updated] 2024 Approved A Quick Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-like-counts-tips-for-tiktok-unboxings/"><u>[Updated] Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-disabling-gpgpu-task-prioritization-windows-wise/"><u>Delving Into Disabling GPGPU Task Prioritization Windows-Wise</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-kernel-security-check-violation-on-windows-11-solutions-included/"><u>How to Address the 'Kernel Security Check Violation' On Windows 11 - Solutions Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-netflix-error-ui-800-3/"><u>How to Fix Netflix Error UI-800-3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-x-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone X In Easy Steps | Stellar</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-pfr-rate-for-sluggish-film-speed/"><u>In 2024, Top PFR Rate for Sluggish Film Speed</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/lesen-von-icloud-nachrichten-mit-fonebackup-eine-schritt-fur-schritt-anleitung/"><u>Lesen Von iCloud-Nachrichten Mit FoneBackup: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-your-android-for-windows-11-webcam-functionality/"><u>Leveraging Your Android for Windows 11 Webcam Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-crafting-powerful-chatgpt-prompts/"><u>Mastering The Art of Crafting Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-for-altering-reset-counter-after-failed-logins/"><u>Method for Altering Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-user-experience-adding-shortcut-keys-for-wordpad-to-windows-ui/"><u>Personalizing User Experience: Adding Shortcut Keys for Wordpad to Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sudos-arrival-streamlining-windows-tasks/"><u>Sudo's Arrival: Streamlining Windows Tasks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Widgets Demystified for Beginners
-date: 2024-09-16T07:24:32.233Z
-updated: 2024-09-16T21:17:33.998Z
+date: 2024-10-29T18:08:56.379Z
+updated: 2024-11-01T16:34:52.443Z
 tags:
   - windows10
   - windows11
@@ -75,6 +75,13 @@ To change the size of widgets, follow the below steps:
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
  You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also[tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
@@ -85,6 +92,13 @@ To change the size of widgets, follow the below steps:
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Tweak the Widget Taskbar Behaviors
 
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
@@ -92,19 +106,19 @@ To change the size of widgets, follow the below steps:
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
@@ -121,10 +135,10 @@ To expand the widgets panel, follow the below steps:
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
@@ -152,5 +166,22 @@ To expand the widgets panel, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-proven-methods-to-record-your-favorite-streaming-hulu-shows/"><u>[New] In 2024, Proven Methods to Record Your Favorite Streaming Hulu Shows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>[Updated] 2024 Approved IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-methods-for-resolving-winerror-0x80071a90/"><u>Comprehensible Methods for Resolving WinError 0X80071a90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reverse-yellow-screen-phenomenon-in-windows/"><u>How to Reverse Yellow Screen Phenomenon in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-seamlessly-move-your-customized-powertoys-setup/"><u>How To Seamlessly Move Your Customized PowerToys Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-poco-m6-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Poco M6 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c02-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C02 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-11-writable-safe-hardware-dialog-easy-access/"><u>Making Windows 11' Writable, Safe Hardware Dialog Easy Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-error-0x0000004e-in-win11/"><u>Mastering Fix for Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-whats-the-best-virtualdub-alternative-discover-the-top-contenders/"><u>New Whats the Best VirtualDub Alternative? Discover the Top Contenders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-code-new-age-starting-windows-11-using-an-old-windows-7-key/"><u>Old Code, New Age: Starting Windows 11 Using an Old Windows 7 Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-addressing-windows-11s-package-problems-immediately/"><u>Swift Remedies: Addressing Windows 11'S Package Problems Immediately</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-pinnacle-of-voice-recording-a-comprehensive-tome-for-2024/"><u>The Pinnacle of Voice Recording A Comprehensive Tome for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-potential-of-artificial-intelligence-with-15-complimentary-flexible-online-courses-from-lifewire/"><u>Unlock the Potential of Artificial Intelligence with 15 Complimentary, Flexible Online Courses From Lifewire</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-mohu-leaf-30-antenna-premium-performance-with-cost-effective-pricing/"><u>Unveiling the Mohu Leaf 30 Antenna: Premium Performance with Cost-Effective Pricing</u></a></li>
+</ul></div>
 

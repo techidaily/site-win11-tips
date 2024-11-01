@@ -1,7 +1,7 @@
 ---
 title: Unblocking Screen Separation Problems
-date: 2024-09-11T01:22:34.217Z
-updated: 2024-09-12T01:22:34.217Z
+date: 2024-10-30T19:28:48.483Z
+updated: 2024-11-01T19:27:38.240Z
 tags:
   - windows10
   - windows11
@@ -18,13 +18,10 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Split screen is convenient for multitasking on Windows computers. You use this feature to compare and copy data between two or more programs or windows simultaneously. But what if this feature stops working? This article discusses how to fix split screen problems on Windows.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## What Causes Split Screen to Not Work?
 
@@ -38,19 +35,12 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Try Some Generic Fixes
 
@@ -60,20 +50,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 2. There are also some generic solutions you can try that fix Windows-specific errors. These include [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) and Deployment Image Servicing and Management. Running these utilities [clears out corrupted or missing system files](https://www.makeuseof.com/windows-built-in-repair-tools/) and replaces them with new ones.
 3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
 4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Make Sure "Snap Windows" Is Enabled
 
@@ -95,41 +71,20 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Restart Windows Explorer
 
@@ -143,6 +98,14 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 4. Once you find the process, right-click on it and select **End task**. This will terminate the Windows Explorer process.  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-explorer.jpg)
 5. Now click **Run new task** at the top of the Task Manager window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
 
  After restarting Windows Explorer, try split screen again and see if it works now.
@@ -162,20 +125,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Once you're done, try to use split screen to check if the issue is resolved.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 6\. Use the Built-In Shortcut Keys for Split Screen
 
  Windows has built-in keyboard shortcuts to launch split screens quickly. This method is useful if the issue occurs due to a minor bug or glitch.
@@ -184,35 +133,16 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
  Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -221,3 +151,17 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-photo-frames-leading-software-reviews/"><u>[New] Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/closed-folder-fixes-for-w11w10-double-click-malfunction/"><u>Closed Folder Fixes for W11/W10 Double-Click Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-dangers-of-keygen-malware-symptoms-and-removal-strategies/"><u>Exploring the Dangers of Keygen Malware: Symptoms & Removal Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nextgen-video-upscaler-mobiledesktop-edition/"><u>NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-cyber-voyage-checking-stable-connections-on-pc/"><u>Securing Your Cyber Voyage: Checking Stable Connections on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-x-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo X Flip FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-c12-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia C12 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unique-identification-making-your-youtube-url-stand-out/"><u>Unique Identification Making Your YouTube URL Stand Out</u></a></li>
+</ul></div>
+

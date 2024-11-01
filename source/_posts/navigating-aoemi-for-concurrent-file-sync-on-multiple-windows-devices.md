@@ -1,7 +1,7 @@
 ---
 title: Navigating AOEMi for Concurrent File Sync on Multiple Windows Devices
-date: 2024-09-11T01:20:42.786Z
-updated: 2024-09-12T01:20:42.786Z
+date: 2024-10-25T17:29:37.734Z
+updated: 2024-11-01T17:45:08.474Z
 tags:
   - windows10
   - windows11
@@ -20,65 +20,18 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  If you couldn't be bothered with all the hassle of routinely copying your files over a network or back and forth from a USB drive, there is, fortunately, software tailored to this exact need. Let us show you how incredibly simple it is to get AOMEI up and running and have your files and folders synced up in no time.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Downloading and Installing AOMEI Backupper
 
  To get started, visit the[AOMEI Backupper website](https://www.aomeitech.com/download.html) , download the file and follow the prompts for installation. At this point, you can go ahead and select the 30-day free trial for the professional version as there's no need to input any credit card information. Once installed, you will land on the AOMEI home screen UI.
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Set Up AOMEI Basic Sync
 
@@ -92,36 +45,38 @@ To perform a basic sync:
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
@@ -155,43 +110,9 @@ Then let's manually run the sync operation.
 
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Set Up AOMEI Real-Time Sync
 
@@ -211,38 +132,22 @@ Within a few seconds, our file appears in the destination folder.
 
  Now, whenever changes are detected in the source directory they will carry over to the destination folder almost instantly. Note the time stamps of the New Bitmap Images in our test below. It's probably also worth mentioning at this point, that if you are constantly dealing with very large files, due to the nature of real-time sync, it may not be the optimal solution. You would probably be better off sticking with a basic sync or two-way sync instead.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## AOMEI Has Your Sync Solutions Sorted
 
  AOMEI is quite the comprehensive package for your data sync needs. In just a few simple steps we were able to set up a "set and forget" data sync between either your local backup, NAS, or other dedicated Windows PC. What's more, AOMEI offers up more than just data sync out of the box. It also has options for backup, cloning, restoring, and recovery, making it a great tool to have on-hand on Windows.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -251,4 +156,23 @@ Within a few seconds, our file appears in the destination folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard/"><u>[New] 2024 Approved Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/everaging-youtube-top-5-digital-strategies-for-brand-success-for-2024/"><u>[New] Leveraging YouTube Top 5 Digital Strategies for Brand Success for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-cold-weather-spectacle-of-beijing-2022/"><u>[New] The Cold-Weather Spectacle of Beijing 2022</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-user-friendly-instructions-installing-snapchat-on-macos-for-2024/"><u>[New] User-Friendly Instructions Installing Snapchat on macOS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[Updated] 2024 Approved The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-virtual-audiences-audio-visual-makers/"><u>[Updated] 2024 Approved Virtual Audiences Audio-Visual Makers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>2024 Approved Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-10-and-11/"><u>4 Ways to Open Disk Management in Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-valorant-setup-with-these-tips/"><u>Accelerate Your Valorant Setup with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-a00f4289-for-windows-11-webcam/"><u>Addressing Error Code A00F4289 for Windows 11 Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360526951-arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audacity-sound-error-step-by-step-windows-fix-guide/"><u>Audacity Sound Error: Step-by-Step Windows Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-pitfalls-with-win11-captions/"><u>Avoiding Common Pitfalls with Win11 Captions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-worlds-the-best-6-android-apps-for-an-advanced-window-11-experience/"><u>Blend Worlds: The Best 6 Android Apps for an Advanced Window 11 Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-f34-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy F34 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-pop-8-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Pop 8 Phone?</u></a></li>
+</ul></div>
 

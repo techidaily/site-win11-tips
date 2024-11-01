@@ -1,7 +1,7 @@
 ---
 title: Decoding App Execution Aliases in Programming
-date: 2024-10-21T22:42:12.011Z
-updated: 2024-10-27T00:29:24.559Z
+date: 2024-10-25T17:04:57.002Z
+updated: 2024-11-01T18:53:36.099Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable App Execution Aliases in Settings
@@ -51,10 +51,10 @@ In Windows 11:
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In Windows 10:
@@ -64,13 +64,6 @@ In Windows 10:
 3. You can then enable and disable aliases using the switches.
 
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
 
@@ -87,15 +80,23 @@ In Windows 10:
 5. With the alias selected, double-click the**Default** value in the right-hand pane.  
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
@@ -117,21 +118,21 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/s-paying-monthly-for-youtubes-unlimited-access-a-good-deal/"><u>[New] Is Paying Monthly for YouTube's Unlimited Access a Good Deal?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-windows-10-screen-recording-software/"><u>[New] Premium Windows 10 Screen Recording Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>[Updated] Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/gratuit-flac-to-mp4-konverteren-onder-online-ze-mogen/"><u>Gratuit FLAC-to-MP4 Konverteren - Onder Online Ze Mogen</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-lens-strategy-for-stellar-video-creations/"><u>In 2024, Lens Strategy for Stellar Video Creations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlock-professional-graphics-custom-templates-on-the-house/"><u>In 2024, Unlock Professional Graphics - Custom Templates on the House</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-proxy-configurations-on-windows-11/"><u>Mastering the Art of Proxy Configurations on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mute-unnecessary-system-updates-on-windows-11/"><u>Mute Unnecessary System Updates on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/real-time-bandwidth-visualization-for-users/"><u>Real-Time Bandwidth Visualization for Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-old-school-gaming-adventures-integrate-trophies-through-retroarch/"><u>Revitalize Your Old-School Gaming Adventures - Integrate Trophies Through Retroarch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-directdraw-a-focused-guide-for-win11-enthusiasts/"><u>Troubleshooting DirectDraw: A Focused Guide for Win11 Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfettered-functions-embrace-tiny11s-power/"><u>Unfettered Functions: Embrace Tiny11's Power</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-savers-in-action-expert-tips-on-recording-your-minecraft-experience-for-2024/"><u>[Updated] Screen Savers in Action Expert Tips on Recording Your Minecraft Experience for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-idea-to-screenshot-a-mac-guide-to-ootd-tiktoks/"><u>2024 Approved From Idea to Screenshot A Mac Guide to OOTD TikToks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-unlocking-windows-11s-credential-vault/"><u>A Comprehensive Guide to Unlocking Windows 11’S Credential Vault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-data-safety-with-controlled-folder-access-feature/"><u>Activate Data Safety with Controlled Folder Access Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-requires-ancient-login-details/"><u>Addressing Windows Requires Ancient Login Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-academic-achievement-winning-study-methods-on-a-windows-pc/"><u>Boost Academic Achievement: Winning Study Methods on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-11-desktop-appeal-live-and-animated-backgrounds/"><u>Boost Your Windows 11 Desktop Appeal: Live and Animated Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-upgrades-to-windows-11s-clipboard-history/"><u>Boosting Efficiency: Upgrades to Windows 11'S Clipboard History</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-v27e-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo V27e FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-wf-2750-printer-driver-here/"><u>Get the Updated Epson WF-2750 Printer Driver Here!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-rip-a-dvd-using-vlc-media-player-on-mac-and-windows-systems/"><u>How to Rip a DVD Using VLC Media Player on Mac and Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719255310971-jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-the-default-windows-clock-configuration/"><u>Protecting the Default Windows Clock Configuration</u></a></li>
+<li><a href="https://win-web.techidaily.com/solving-issues-with-acers-erecovery-management-functionality-comprehensive-tips/"><u>Solving Issues With Acer's eRecovery Management Functionality - Comprehensive Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/shing-potential-views-best-keyword-resources-ranked/"><u>Unleashing Potential Views Best Keyword Resources Ranked</u></a></li>
 </ul></div>
 

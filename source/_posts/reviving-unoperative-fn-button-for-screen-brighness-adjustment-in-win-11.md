@@ -1,7 +1,7 @@
 ---
 title: Reviving Unoperative Fn Button for Screen Brighness Adjustment in Win 11
-date: 2024-10-20T22:01:37.789Z
-updated: 2024-10-26T21:33:08.520Z
+date: 2024-10-29T18:20:07.813Z
+updated: 2024-11-01T19:49:01.171Z
 tags:
   - windows10
   - windows11
@@ -31,36 +31,15 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -69,9 +48,24 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 
  This will open the Hardware and Devices Troubleshooter window. Follow the on-screen instructions and complete the process to detect and fix any problems related to your keyboard and function keys. Once done, you can try using the brightness function key to adjust the screen's brightness.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the Keyboard Troubleshooter
 
@@ -85,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update the Keyboard Driver
 
  An outdated or corrupt driver could also be malfunctioning the brightness function key. In such a case, you can try to update your keyboard drivers and see if it solves the issue.
@@ -97,6 +98,13 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -123,10 +131,16 @@ To update the keyboard driver, follow these steps:
 5. Click**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now check if your keyboard is working properly.
@@ -147,13 +161,6 @@ Now check if your keyboard is working properly.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make Use of the Function Key Again on Windows
 
  It's important to keep your device's brightness settings adjusted to a comfortable level. However, if your brightness function key is not working, here are some quick solutions to make your computer's function keys work again. All in all, these are simple yet powerful tricks for restoring malfunctioning function keys.
@@ -173,19 +180,24 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-audiovisual-snapshots-made-easy-for-2024/"><u>[Updated] Audiovisual Snapshots Made Easy for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dji-visuals-unlocked-20-free-color-filters-with-pay-option/"><u>2024 Approved DJI Visuals Unlocked 20 Free Color Filters with Pay Option</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-12-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 12 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-file-extractions-with-win11-sefx-magic/"><u>Elevating File Extractions with Win11 SEFx Magic</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-knowledge-for-effective-use-of-the-io-screener/"><u>Essential Knowledge for Effective Use of the IO Screener</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-bygone-era-to-future-tech-using-windows-7-key-in-11-setup/"><u>From Bygone Era to Future Tech: Using Windows 7 Key in 11 Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/syncing-yt-beats-with-visual-timelines-for-2024/"><u>Syncing YT Beats with Visual Timelines for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-tp-link-deco-p9-the-ultimate-in-user-friendly-wi-fi-mesh-solutions/"><u>Unpacking the TP-Link Deco P9: The Ultimate in User-Friendly Wi-Fi Mesh Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-effortless-techniques-to-archive-google-call-transcripts/"><u>[New] Effortless Techniques to Archive Google Call Transcripts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[New] In 2024, How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-into-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>[New] In 2024, Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-quality-over-quantity-the-best-reasons-to-purchase-gaming-apps/"><u>Choosing Quality Over Quantity: The Best Reasons to Purchase Gaming Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-a00f4289-from-your-windows-11-webcam/"><u>Eliminating Error A00F4289 From Your Windows 11 Webcam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-gameplay-handling-the-destiny-2-server-dropout/"><u>Expert Tips for Restoring Gameplay: Handling the Destiny 2 Server Dropout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-the-password-reset-counter-in-windows-11-and-11-after-fails/"><u>Fine-Tuning the Password Reset Counter in Windows 11 and 11 After Fails</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-meizu-21-pro-by-drfone-android/"><u>How to Bypass FRP on Meizu 21 Pro?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-realme-gt-3-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme GT 3 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-your-usb-active-disabling-hibernation-in-win-11/"><u>Keep Your USB Active: Disabling Hibernation in Win 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/next-gen-media-masters-5-top-mac-videography-apps-for-2024/"><u>Next-Gen Media Masters 5 Top Mac Videography Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pc-efficiently-eliminate-extra-software-on-win11/"><u>Revamp Your PC: Efficiently Eliminate Extra Software on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-navigation-replacing-ls-command-usage/"><u>Simplifying Windows Navigation: Replacing LS Command Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-methods-for-naming-and-arranging-window-writings-max-156/"><u>Streamlined Methods for Naming and Arranging Window' Writings (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-clearing-up-windows-update-jams/"><u>The Ultimate Guide to Clearing Up Windows Update Jams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-sound-boosters-in-windows-settings/"><u>Turn Off Sound Boosters in Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-chrome-and-system-time-in-windows-land/"><u>Unifying Chrome and System Time in Windows Land</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-understanding-bsod-and-its-implications/"><u>Unveiling the Mystery: Understanding BSOD and Its Implications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

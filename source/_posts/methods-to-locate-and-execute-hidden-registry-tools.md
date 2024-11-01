@@ -1,7 +1,7 @@
 ---
 title: Methods to Locate and Execute Hidden Registry Tools
-date: 2024-10-24T19:26:27.510Z
-updated: 2024-10-26T21:32:27.023Z
+date: 2024-10-25T16:01:40.651Z
+updated: 2024-11-01T19:24:08.306Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 6. If Windows Security detects something, select the**Remove action** options for everything detected.
 7. Then click**Start actions** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan and Repair System Files
 
  Scanning system files is a potential solution for the “cannot find regedit.exe” error confirmed to work by some. Those users resolved the issue with the System File Checker Command Prompt utility. You can scan and repair system files with that SFC tool like this:
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 6. Wait until that tool’s scan gets to 100 percent. Then you’ll see a Windows Resource Protection message in the Prompt’s window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Registry Editor Access in Group Policy Editor
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 3. Double-click**Administrative Templates** \>**System** to reach the**Prevent access to registry editing tools** option.  
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-group-policy-editor.jpg)
 4. Then double-click**Prevent access to registry editing** tools to bring up the window for that policy setting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Select the**Disabled** option, and click**Apply** to save.  
 ![The prevent access to registry editing tools policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/prevent-access-to-registry-edting-tools.jpg)
@@ -92,15 +92,16 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 4. Click**Environment Variables** to open up that window.  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 5. Select**Path** , and click the**Edit** button.  
-![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
-6. Click**Edit** on the environment variable window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-varibles-window.jpg)
+6. Click**Edit** on the environment variable window.
 
 7. Input this variable:  
 `%USERPROFILE%\AppData\Local\Microsoft\WindowsApps`
@@ -153,10 +154,16 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 6. Type**Registry Fix.reg** inside the name box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Choose to save the script on the desktop area.
@@ -164,33 +171,33 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 9. Right-click the saved**Registry Fix.reg** script on the desktop and select**Show more options** \>**Merge** .
 10. Click**Yes** to confirm the selected option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a System Restore
 
  Restoring Windows to an earlier date can fix corrupted files. If you have the System Restore tool turned on, that might be worth a try. You can roll back Windows as outlined in our guide for[creating restore points in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and utilizing System Restore. Select a restore point predating the “cannot find regedit.exe” error on your PC if you can.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may need to reinstall some software after performing system restoration. Software installed after any restore point’s date is not preserved. Click the**Scan for affected programs** option for whatever restoration point you chose to see what software it removes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reset Windows
 
  This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about[factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
 
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit the Registry With Registry Editor Once More
 
@@ -211,24 +218,18 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>[New] In 2024, Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>[New] In 2024, Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015601033-battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-advanced-setup/"><u>Decoding Windows 11'S Advanced Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogues-with-bots-mimicking-human-interaction/"><u>Dialogues with Bots: Mimicking Human Interaction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effervescent-account-creation-series/"><u>Effervescent Account Creation Series</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-print-spooler-service-is-not-running-error-in-windows/"><u>How to Fix “The Print Spooler Service Is Not Running” Error in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/july-4th-new-york-times-insightful-puzzles-389-edition-solutions-inside/"><u>July 4Th New York Times Insightful Puzzles: #389 Edition - Solutions Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998464691-no-more-glitches-in-football-manager-2022-for-your-desktop-effective-solutions-available/"><u>No More Glitches in Football Manager 2022 for Your Desktop – Effective Solutions Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-image-previews-top-4-win-friendly-viewers/"><u>Perfecting Image Previews: Top 4 Win-Friendly Viewers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-ms-teams-error-80080300-on-windows-11-a-guide/"><u>Resolving MS Teams Error 80080300 on Windows 11: A Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-tiktok-experience-a-comprehensive-troubleshooting-manual/"><u>Revive Your TikTok Experience: A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-via-terminal-commands/"><u>Streamlining System Operations via Terminal Commands</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-connoisseurs-guide-to-whatsapp-mastery/"><u>The Connoisseur's Guide to WhatsApp Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-remedy-six-steps-to-resurrect-lost-panes/"><u>The Ultimate Windows 11 Remedy: Six Steps to Resurrect Lost Panes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-rendering-reality-realistic-3d-text-effects-for-2024/"><u>[New] Rendering Reality Realistic 3D Text Effects for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-top-tier-ps3-games-on-your-pc-today/"><u>[Updated] Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-photos-and-videos-with-instagrams-creative-features-for-2024/"><u>[Updated] Enhancing Photos and Videos with Instagram's Creative Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blending-human-ideas-with-ai-imagery-in-chatgpt-4-and-dall-e/"><u>Blending Human Ideas with AI Imagery in ChatGPT-4 & DALL-E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-bios-boot-errors-on-winos/"><u>Decoding & Correcting BIOS Boot Errors on WinOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c32-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C32 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-intel-driver-and-support-assistant-malfunctions-in-windows/"><u>How to Troubleshoot Intel Driver & Support Assistant Malfunctions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-commercials-just-content-a-new-era-for-win-11/"><u>No Commercials, Just Content - A New Era for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-network-file-share-obstacles-with-geforce/"><u>Overcoming Network File-Share Obstacles with GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recover-unseen-second-screen-in-w11/"><u>Recover Unseen Second Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-outlooks-0x80040610-failure-code/"><u>Steps to Rectify Outlook's 0X80040610 Failure Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-risks-in-turning-off-windows-11-alerts/"><u>Understanding the Risks in Turning Off Windows 11 Alerts</u></a></li>
 </ul></div>
 

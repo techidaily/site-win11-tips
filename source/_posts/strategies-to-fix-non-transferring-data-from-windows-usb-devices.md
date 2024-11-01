@@ -1,7 +1,7 @@
 ---
 title: Strategies to Fix Non-Transferring Data From Windows USB Devices
-date: 2024-10-21T00:42:30.464Z
-updated: 2024-10-26T18:13:21.825Z
+date: 2024-10-28T19:03:32.762Z
+updated: 2024-11-01T16:28:50.861Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update Your USB Device's Drivers
@@ -56,22 +56,16 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
 
@@ -87,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
  So do a simple restart and see if that fixes your USB copying problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check for Compatibility Issues
 
@@ -115,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
  If none of them work, then it’s very likely a problem with the slot. Getting your PC examined by a tech specialist will be helpful in those cases.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Ways to Transfer Your Data to and From a Windows PC
@@ -127,29 +121,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-fast-fortnite-icons-in-minutes/"><u>[New] 2024 Approved Crafting Fast Fortnite Icons in Minutes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-curbing-common-mishaps-youtube-short-edition-for-2024/"><u>[New] Curbing Common Mishaps YouTube Short Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-behind-the-scenes-creating-10-facebook-videos/"><u>[New] From Behind the Scenes Creating #10 Facebook Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creative-channel-titling-techniques-for-growth/"><u>[Updated] 2024 Approved Creative Channel Titling Techniques for Growth</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>[Updated] Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-art-of-past-images-a-snapchat-journey/"><u>[Updated] In 2024, The Art of Past Images A Snapchat Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-confusion-a-guide-to-reinstalling-store-software/"><u>Clearing Up Confusion: A Guide to Reinstalling Store Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/double-tap-for-apks-a-user-friendly-guide-in-win-11/"><u>Double-Tap for APKs: A User-Friendly Guide in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-no-more-files-errors-in-win-11/"><u>Eliminating 'No More Files' Errors in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-through-admin-level-execution-woes/"><u>Guiding Users Through Admin-Level Execution Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU in Windows 10 - Solution Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-logitech-g29-driving-force-on-your-computer-windows-10117-compatibility-guide/"><u>How to Install Logitech G29 Driving Force on Your Computer: Windows 10/11/7 Compatibility Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-13-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 13</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners/"><u>In 2024, Effortless YouTube Live with Step-by-Step OBS Guide for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-safety-sticky-notes-edition/"><u>Mastering File Safety: Sticky Notes Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-cure-all-solutions-for-windows-camera-glitches/"><u>Quick Cure-All Solutions for Windows Camera Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/successfully-overcome-windows-error-0x80070003-a-step-by-step-guide/"><u>Successfully Overcome Windows Error 0X80070003 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11-and-o365-sync-issues-a-quick-guide-to-fixing-errors/"><u>Win 11 and O365 Sync Issues: A Quick Guide to Fixing Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +128,18 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-v30-lite-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo V30 Lite 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-chat-game-nine-tricks-to-better-english-talk/"><u>Elevate Your Chat Game: Nine Tricks to Better English Talk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-readwrite-errors-in-windows-systems/"><u>Eliminating Read/Write Errors in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/final-version-dragon-ball-z-kakarot-with-all-prior-glitches-corrected/"><u>Final Version Dragon Ball Z: Kakarot with All Prior Glitches Corrected</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-youtube-potential-best-mp4-editors-on-mac/"><u>In 2024, Unleash YouTube Potential Best MP4 Editors on Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/iphone-pro-photography-mastery-of-leading-lines/"><u>IPhone Pro Photography Mastery of Leading Lines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-successfully-starting-up-your-persona-3-journey-without-glitches/"><u>Master Tips: Successfully Starting Up Your Persona 3 Journey Without Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverting-windows-errors-curb-dwarf-fortress-haltings/"><u>Reverting Windows Errors: Curb Dwarf Fortress Haltings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ditors-journey-mastering-the-art-of-youtube-cuts-for-2024/"><u>The Editor's Journey Mastering the Art of Youtube Cuts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-apps-to-supercharge-your-windows/"><u>Winning Apps to Supercharge Your Windows</u></a></li>
+</ul></div>
+

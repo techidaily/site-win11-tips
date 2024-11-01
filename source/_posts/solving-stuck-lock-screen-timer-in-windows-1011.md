@@ -1,7 +1,7 @@
 ---
 title: Solving Stuck Lock Screen Timer in Windows 10/11
-date: 2024-10-25T18:38:37.390Z
-updated: 2024-10-26T20:53:03.594Z
+date: 2024-10-30T16:14:58.109Z
+updated: 2024-11-01T17:07:16.067Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
  After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Configure Screen Saver Settings
 
  Incorrectly configured screen saver settings on Windows can also be the cause of this issue. Here's how you can configure Windows to display the lock screen after you resume from a screensaver.
@@ -48,20 +55,13 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 5. Hit **Apply** followed by **OK**.  
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check Screen Saver Settings in the Local Group Policy
@@ -83,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC after applying the above changes and check if the issue is still there.
@@ -102,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Lock Screen Timeout Working Again on Windows
@@ -114,23 +120,6 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
  To help out, we have listed some useful tips that should get the lock screen timeout to work on your Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-sever-connection-desktop-and-mobile-discord/"><u>[New] 2024 Approved Sever Connection - Desktop & Mobile Discord</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-set-up-your-windows-xp-professional-videography-tool-for-2024/"><u>[New] Set Up Your Windows XP Professional Videography Tool for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>[New] The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-zero-cost-live-capture-program/"><u>[Updated] Premium Zero-Cost Live Capture Program</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-apex-titles-for-hd-video-recording-technologies/"><u>In 2024, Apex Titles for HD Video Recording Technologies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-collectors-delight-exclusive-black-friday-price-drop-on-essential-windows-11/"><u>Key Collectors' Delight – Exclusive Black Friday Price Drop on Essential Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-network-issues-on-windows-11-a-comprehensible-approach/"><u>Overcoming Network Issues on Windows 11 - A Comprehensible Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-keybinds-for-snippet-copy-and-paste/"><u>Tailored Keybinds for Snippet Copy & Paste</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-preserving-clarity-during-mp4-file-compression-techniques/"><u>Ultimate Guide to Preserving Clarity During MP4 File Compression Techniques</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +127,21 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-protecting-your-digital-memories-how-to-save-tiktok-videos/"><u>[New] In 2024, Protecting Your Digital Memories How to Save TikTok Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-20-anime-openers-anthems-in-order/"><u>[Updated] 2024 Approved Best 20 Anime Openers' Anthems in Order</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-increase-your-fb-popularity-top-ten-seo-best-practices/"><u>[Updated] 2024 Approved Increase Your FB Popularity Top Ten SEO Best Practices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-practices-for-instagram-video-sharing-for-2024/"><u>[Updated] Best Practices for Instagram Video Sharing for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-idevice-audio-mastery-stepwise-recording-of-voices/"><u>[Updated] In 2024, IDevice Audio Mastery Stepwise Recording of Voices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-access-windows-troubleshooting-with-hotkeys/"><u>Efficient Ways to Access Windows Troubleshooting with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-quick-uninstall-of-win11-printers/"><u>Expert Guide: Quick Uninstall of Win11 Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-and-update-directx-on-your-pc/"><u>How to Download and Update DirectX on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>In 2024, Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-pova-5-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Pova 5 Pro Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instructions-to-prevent-unwanted-touchpad-input-in-windows-10-with-an-attached-mouse-device/"><u>Instructions to Prevent Unwanted Touchpad Input in Windows 10 with an Attached Mouse Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-video-sharing-with-vimeo-subscription-choices/"><u>Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-way-to-manage-your-stickies-across-devices/"><u>The Easy Way to Manage Your Stickies Across Devices</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Stop Windows From Stopping, Fix Error 2E
-date: 2024-09-13T20:38:52.783Z
-updated: 2024-09-17T08:18:27.371Z
+date: 2024-10-30T17:28:23.526Z
+updated: 2024-11-01T17:24:09.730Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ To restart the Windows Update service, follow these steps:
 ![Restart Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-update-service.jpg)
 6. Now click**Apply > OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you have started the Windows Update service, repeat this same process with several other services provided below:
 
 * Background Intelligent Transfer Service.
@@ -60,6 +67,13 @@ To restart the Windows Update service, follow these steps:
 * Windows Installer.
 
  Once you've completed the process, check Windows Update again to see if the error is still occurring.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -81,6 +95,13 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 8. Now close the Registry Editor window and restart your computer.
 
  After you follow these steps, you should check to see if the 0x8024002e error has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset All Relevant Windows Update Components
 
@@ -150,23 +171,16 @@ net start cryptsvc`
 5. Name the file**ResetWindowsUpdate.bat** and save it to your desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now right-click on the batch file and select**Run as administrator** from the context menu.
 7. If UAC window pops up on the screen, click**Yes** to continue.
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Apply Generic Windows Update Fixes
 
@@ -191,5 +205,24 @@ net start cryptsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-appreciate-with-us-open-source-and-subscription-outro-samples/"><u>[Updated] Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>2024 Approved Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-null-or-undefined-values-in-windows-computers/"><u>Fixing Null or Undefined Values in Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sudden-blackness-in-pc-gaming-on-windows/"><u>Fixing Sudden Blackness in PC Gaming on WINDOWS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-hobby-to-hustle-making-money-with-videos/"><u>In 2024, From Hobby to Hustle Making Money with Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pro-tips-for-transforming-mundane-into-epic-with-gopro-timelapse/"><u>In 2024, Pro Tips for Transforming Mundane Into Epic with GoPro Timelapse</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-f5-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco F5 5G Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/in-depth-guide-understanding-the-features-of-aomei-fonebackup/"><u>In-Depth Guide: Understanding the Features of AOMEI FoneBackup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-blend-of-power-and-style-top-windows-laptop-picks/"><u>Optimal Blend of Power & Style: Top Windows Laptop Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-windows-autoupdate-plus-amd-gpu-driver-change/"><u>Securing Windows: Autoupdate + AMD GPU Driver Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-google-play-for-win11-users/"><u>Setting Up Google Play for Win11 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/stepwise-approach-to-mastering-vimeo-recording/"><u>Stepwise Approach to Mastering Vimeo Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-ensure-taskmanager-dominance/"><u>Techniques to Ensure TaskManager Dominance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-persistent-storage-decline-on-pcs/"><u>Troubleshooting Persistent Storage Decline on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-excel-content-on-notepad-revealed/"><u>Unlocking: Excel Content on Notepad Revealed</u></a></li>
+</ul></div>
 

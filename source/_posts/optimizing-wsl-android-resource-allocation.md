@@ -1,7 +1,7 @@
 ---
 title: Optimizing WSL Android Resource Allocation
-date: 2024-10-23T00:41:58.027Z
-updated: 2024-10-26T19:39:24.760Z
+date: 2024-10-28T18:27:50.741Z
+updated: 2024-11-01T19:16:36.861Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -47,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -58,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -94,24 +100,20 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-popularity-stock-images-meme-journey/"><u>[New] 2024 Approved Exploring Popularity Stock Images' Meme Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-digital-frontier-leaders-the-quintessential-cloud-picks-for-your-needs-for-2024/"><u>[New] Digital Frontier Leaders The Quintessential Cloud Picks for Your Needs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-superior-streaming-with-integrated-local-channels-future-edition-for-2024/"><u>[New] Superior Streaming with Integrated Local Channels, Future Edition for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>[Updated] In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failure-code-0x0001-on-nvidia-software/"><u>Addressing Failure Code 0X0001 on Nvidia Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/essential-troubleshooting-guide-resolving-maplestory-freezing-issues-on-windows-10/"><u>Essential Troubleshooting Guide: Resolving MapleStory Freezing Issues on Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-wins-protection-messages/"><u>Fixing Erroneous WINS Protection Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstating-missing-pin-after-win-11-updates/"><u>Guide to Reinstating Missing PIN After Win 11 Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-launch-and-configure-win-11-sandbox/"><u>How to Launch and Configure Win 11 Sandbox</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-error-messages/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-reverse-keyboard-input-on-pcs/"><u>Navigating Reverse Keyboard Input on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/notable-nights-of-non-opening-notepad-your-solution-guide-for-windows-users/"><u>Notable Nights of Non-Opening Notepad: Your Solution Guide for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-issues-with-unresponsive-wacom-drawing-tools/"><u>Overcoming Common Issues with Unresponsive Wacom Drawing Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005953143-quick-fixes-for-when-your-oculus-link-goes-dark-actionable-tips-inside/"><u>Quick Fixes for When Your Oculus Link Goes Dark - Actionable Tips Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rewind-to-richness-a-guide-to-gaming-glory-past/"><u>Rewind to Richness: A Guide to Gaming Glory Past</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-wi-fi-troubles-with-ease-filling-out-action-deficiencies/"><u>Tackling Wi-Fi Troubles with Ease: Filling Out Action Deficiencies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/virtual-realm-revelations-the-most-anticipated-ps-vr-games-for-2024/"><u>Virtual Realm Revelations The Most Anticipated PS VR Games for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-makeup-inspiration-videos/"><u>[New] In 2024, Makeup Inspiration Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-tips-for-flv-file-fusion-on-youtube-for-2024/"><u>[Updated] Essential Tips for FLV File Fusion on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-meeting-live-google-meet-to-youtube-broadcast-guide/"><u>[Updated] Meeting Live Google Meet to YouTube Broadcast Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-land-of-virtual-possibilities/"><u>2024 Approved Exploring the Land of Virtual Possibilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-fraudulent-extensions-imitating-chatgpt-to-hijack-your-facebook-account/"><u>Beware of Fraudulent Extensions Imitating ChatGPT to Hijack Your Facebook Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-portable-windows-devices/"><u>Five Portable Windows Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-most-popular-fb-videos-download-now/"><u>In 2024, Most Popular FB Videos - Download Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-windows-tech-for-premium-macos-experience/"><u>Integrating Windows Tech for Premium macOS Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-and-win-with-youtubes-innovative-test-minigames/"><u>Play and Win with YouTube's Innovative Test Minigames</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/snagit-screen-recording-a-guide/"><u>Snagit Screen Recording A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-realign-windows-desktop-elements/"><u>Swiftly Realign Windows Desktop Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-and-easy-route-to-your-pcs-credential-vault-on-win11/"><u>The Quick and Easy Route to Your PC's Credential Vault on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-for-smooth-captions-essential-tips-on-windows-10/"><u>Troubleshoot for Smooth Captions: Essential Tips on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-path-related-issues-in-windows-os/"><u>Troubleshooting Path-Related Issues in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-in-windows-should-you-delete-it/"><u>What Is Pagefile.sys in Windows? Should You Delete It?</u></a></li>
 </ul></div>
 

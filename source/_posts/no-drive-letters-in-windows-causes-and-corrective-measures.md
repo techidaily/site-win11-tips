@@ -1,7 +1,7 @@
 ---
 title: "No Drive Letters in Windows: Causes and Corrective Measures"
-date: 2024-09-11T01:22:25.349Z
-updated: 2024-09-12T01:22:25.349Z
+date: 2024-10-27T17:40:17.849Z
+updated: 2024-11-01T16:46:03.580Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  Here are the most common causes for an unavailable drive letter on Windows, and ways you can fix the problem.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## What Are Drive Letters in Windows?
 
@@ -54,59 +37,31 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  Upgrading from an older version of Windows to a new version can sometimes cause drive letters to be reassigned. Let's say that your applications all point to a particular drive, but that drive is now assigned a different letter. Things will get frustrating quickly if you can't select the letter you need.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Reasons Why Drive Letters Are Unavailable
 
  As mentioned, there are several possible reasons why you might see the "Drive letter not available" error. The most common reasons include:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Letter Is In Use by a Hidden Removable Drive
 
  When you connect a removable drive, such as a USB thumb drive, a drive letter will be assigned to it. Sometimes even after the removable drive is disconnected, the drive letter remains associated with it. In this case, it will be unavailable, and you'll see the error message.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### The Letter Is Permanently Assigned to Another Storage Volume
 
  It is possible to permanently assign a drive letter to a particular partition or drive. This also includes optical devices like the CD/DVD drive. If you have previously done this, the drive letter will no longer be available to choose from when setting up a new partition or drive.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Make Drive Letters Available for Use
 
@@ -118,18 +73,12 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![Mounted devices in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/drive-letter-registry.jpg)
 4. In the list of assigned devices, right-click on the one you want to change and select**Rename** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Change the drive letter to any other unused letter to free up the one being used.
 6. Close the Registry Editor and restart your computer. You should then be able to assign the unused letter as you wish.
@@ -143,32 +92,22 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 4. Click**Ok** and confirm the operation on the next screen. It may take a few seconds to process the change.
 5. You can then return to the main screen, find the drive to which you want to assign that released letter, and repeat the process.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Getting a Drive Letter Back on Windows
 
  Although frustrating, seeing the "Drive Letter Not Available" error is rarely due to an unsolvable issue. In most cases, you just need to force the change using the Registry Editor or a bit of third-party software. Either solution is fast and easy and should see your desired drive letter free to use quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,12 +116,19 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-impact-with-a-triad-of-tailored-copywriting-methods/"><u>[New] 2024 Approved Maximizing Impact with a Triad of Tailored Copywriting Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>[New] Unlocking Online Potential Mastering the Art of Thumbnail Sizing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-direct-data-delivery-five-simple-steps-to-computer-transfer/"><u>2024 Approved Direct Data Delivery Five Simple Steps to Computer Transfer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-who-rules-coding-chatgpt-or-gemini/"><u>Battle of the Bots: Who Rules Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-enhancement-streamlined-file-exploration-for-windows-11/"><u>Effortless Enhancement: Streamlined File Exploration for Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-and-intel-unison-for-smooth-phone-integration/"><u>Leveraging Windows 11 & Intel Unison for Smooth Phone Integration</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimum-affordable-asmr-microphones-with-incredible-performance-for-2024/"><u>Optimum Affordable ASMR Microphones with Incredible Performance for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-changing-app-size-using-pc-keys-on-windows-11/"><u>Tips for Changing App Size Using PC Keys on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-pens-tools-for-the-modern-windowed-tech-user/"><u>Top Pens' Tools For the Modern Windowed Tech User</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/user-friendly-photo-manipulation-tools-perfect-for-newbies-in-image-editing/"><u>User-Friendly Photo Manipulation Tools Perfect for Newbies in Image Editing</u></a></li>
+</ul></div>
 

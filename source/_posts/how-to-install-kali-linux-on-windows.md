@@ -1,7 +1,7 @@
 ---
 title: How to Install Kali Linux on Windows
-date: 2024-10-24T23:35:36.874Z
-updated: 2024-10-26T18:30:10.473Z
+date: 2024-10-30T16:02:20.396Z
+updated: 2024-11-01T17:25:17.273Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ To install VM VirtualBox:
 3. Go through the installation wizard and click on**Finish** to complete the process.
 4. You can optionally restart your PC to ensure that VirtualBox is installed correctly.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Download the Kali Linux Virtual Machine
 
  Once we have installed a virtual machine, we need to download the Kali Linux VM image. The VM image will allow you to run the Kali Linux operating system on your current Windows PC.
@@ -49,22 +62,15 @@ To download the Kali Linux VM image:
 ![kali vm download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/kali-download.jpg)
 2. Since we have installed VirtualBox, we will download the VirtualBox image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Confirm whether your PC is 32-bit architecture or 64-bit, and download the stable version (not the weekly version).
 4. Extract the contents of the downloaded file, and you may need to install the[7z app](https://www.7-zip.org/download.html) to complete the extraction process.
 5. We’re now ready to import Kali into our VirtualBox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import Kali Linux VM on Windows
@@ -75,31 +81,32 @@ To download the Kali Linux VM image:
 2. Click on the green plus-icon labeled**Add** .  
 ![import kali virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/import-kali.jpg)
 3. Navigate to the folder where you extracted the Kali Linux image (we’re looking for a .vbox file).  
-![import kali linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/import-kali-2.jpg)
-4. Select the**.vbox** file and click on**Open** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![import kali linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/import-kali-2.jpg)
+4. Select the**.vbox** file and click on**Open** .
 
 5. Once the VM is loaded, you will see it appear in VirtualBox.
 6. Click on the green**Start** icon to fire up Kali Linux.  
 ![launch kali on virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/launch-kali.jpg)
 7. You can log in using the default**kali** user profile using the password**kali** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Download the Kali Linux ISO
 
  If you would instead use the official ISO to install Kali Linux, you can download it from the[official Kali website](https://www.kali.org/) . Once you’ve downloaded the ISO, mount it within VirtualBox and start the virtual machine. After completing the Kali installation steps within VirtualBox, you will successfully install Kali Linux on your Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Kali Linux on Windows
 
@@ -120,20 +127,22 @@ To download the Kali Linux VM image:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[New] 2024 Approved Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-pixel-power-unveiling-youtubes-twitter-crew-for-2024/"><u>[New] Pixel Power Unveiling YouTube's Twitter Crew for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>[New] Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-techniques-for-quality-audio-on-ipads-for-2024/"><u>Advanced Techniques for Quality Audio on iPads for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-ram-cache-and-how-to-purge-it/"><u>Decoding Windows RAM Cache and How to Purge It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-utilizing-diskusage-on-windows-systems/"><u>Expert Guide to Utilizing DiskUsage on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-google-maps-in-your-windows-system/"><u>Harnessing the Power of Google Maps in Your Windows System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-programs-with-preset-window-sizes-in-windows-11/"><u>How to Open Programs With Preset Window Sizes in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13-ultra-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13 Ultra Bootloader Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-and-out-a-full-guide-to-theta-s-features-for-2024/"><u>Inside & Out A Full Guide to Theta S Features for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-in-device-coexistence-utilize-dex-for-galaxy-on-pc/"><u>Mastery in Device Coexistence: Utilize DeX for Galaxy on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-navigate-anywhere-the-art-of-cross-border-mouse-usage/"><u>Seamlessly Navigate Anywhere - The Art of Cross-Border Mouse Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-downloading-and-installing-windows-11-arm-from-iso/"><u>Step by Step: Downloading and Installing Windows 11 ARM From ISO</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-tutorial-on-enabling-incognito-mode-in-google-chrome/"><u>Ultimate Step-By-Step Tutorial on Enabling Incognito Mode in Google Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-clean-up-clearing-the-old-protection-data/"><u>Windows Security Clean-Up: Clearing the Old Protection Data</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-backdrop-blurring-techniques-on-youtube-videos/"><u>[New] 2024 Approved Step-by-Step Backdrop Blurring Techniques on YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-metaverse-journey-with-7-must-have-devices/"><u>[New] Accelerate Your Metaverse Journey with 7 Must-Have Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-superior-audio-modification-software-with-enchanting-features/"><u>[New] Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-compreenasional-path-to-post-perfection-instagram-video-upload-from-pcmac/"><u>[Updated] 2024 Approved The Compreenasional Path to Post-Perfection Instagram Video Upload From PC/Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-fidelity-performance-desktops/"><u>[Updated] High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-find-x7-ultra-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Find X7 Ultra Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-fix-windows-11-media-issues/"><u>Comprehensive Guide to Fix Windows 11 Media Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-using-github-desktop-in-windows-step-by-step-guide/"><u>Efficiently Using GitHub Desktop in Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/experience-cutting-edge-tv-without-breaking-the-bank-with-the-antolink-at-127-a-sophisticated-and-efficient-choice/"><u>Experience Cutting Edge TV Without Breaking the Bank with the Antolink AT-127 - A Sophisticated and Efficient Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-there-are-no-more-files-error-on-windows-11-and-11/"><u>How to Fix the “There Are No More Files” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-wsl-upgrades-in-new-windows-environments/"><u>Navigating WSL Upgrades in New Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-in-onedrive-folder-integration-on-windows/"><u>Overcoming Obstacles in OneDrive Folder Integration on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-leftright-earheadphone-audio-issues-in-windows/"><u>Solving Left/Right Earheadphone Audio Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-untapped-potential-within-windows-11s-offerings/"><u>The Untapped Potential Within Windows 11'S Offerings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-mobile-vr-headsets-for-2024/"><u>Top 10 Mobile VR Headsets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-with-customizable-animated-clock-themed-screensaver-creation-tools/"><u>Transform Your Desktop with Customizable, Animated Clock-Themed Screensaver Creation Tools</u></a></li>
 </ul></div>
 

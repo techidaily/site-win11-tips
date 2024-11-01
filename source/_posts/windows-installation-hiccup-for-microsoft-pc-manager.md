@@ -1,7 +1,7 @@
 ---
 title: Windows Installation Hiccup for Microsoft PC Manager
-date: 2024-10-23T22:00:32.617Z
-updated: 2024-10-26T17:26:24.321Z
+date: 2024-10-30T19:20:25.968Z
+updated: 2024-11-01T18:43:13.763Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
  If you still can't install the application after a system restart, try the next solution on the list.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Your Antivirus
 
  Most antivirus programs come with a security feature that stops installing malicious applications onto the computer. Unfortunately, they can sometimes block trusted applications like the Microsoft PC Manager. If this is the case with you as well, consider disabling the antivirus program temporarily as a solution.
@@ -45,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 6. Click**Manage settings** under Virus & threat protection settings.
 7. Disable the toggle next**Real-time protection.**  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/real-time-protection-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're using a third-party antivirus program, you can disable it by right-clicking on its icon in the system tray and choosing the "Disable" option from the context menu. You can also go through the antivirus support pages to learn more about how to disable it.
 
@@ -73,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
 ![Program Compatibility Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatiblity-Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from[Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
 
 ## 4 . Clear the Temp Folder
 
 ![Delete content of the Temp folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Temp-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Programs and apps installed on your store temporary files in the Temp folder. But for various reasons, the Temp folder can get corrupted and cause the issue at hand.
 
@@ -96,6 +102,13 @@ To delete the Temp folder, follow the below instructions:
 2. In the Run dialog box, type**Temp** and click**OK.** It'll open the Temp folder.
 3. Select everything inside the Temp folder by pressing the**Ctrl + A** hotkeys.
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 . Download Any Available Windows Updates
 
@@ -109,13 +122,6 @@ To delete the Temp folder, follow the below instructions:
 
  Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Fix Any Corrupted Files on Your Computer
 
  Another reason behind this issue is corruption within the system files. Fortunately, you can detect and fix these files by running an SFC scan. However, before we run the SFC scan, it is best to do a preliminary scan to ensure that the SFC tool is working properly.
@@ -128,10 +134,10 @@ To delete the Temp folder, follow the below instructions:
 4. After the process is complete, type**sfc /scannow** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
@@ -164,24 +170,16 @@ Next, follow the on-screen to complete the reset process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unleash-focus-the-pros-guide-to-distraction-free-google-meet-sessions/"><u>[Updated] 2024 Approved Unleash Focus The Pro's Guide to Distraction-Free Google Meet Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[Updated] Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-rx-fanfare-update-pack/"><u>[Updated] RX Fanfare Update Pack</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-instagrams-chord-of-musical-law-for-2024/"><u>[Updated] Understanding Instagram’s Chord of Musical Law for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accessing-and-managing-your-android-phone-files-on-windows-11-via-cloud-sync/"><u>Accessing and Managing Your Android Phone Files on Windows 11 via Cloud Sync</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-opengl-error-3-nvidia-solutions-win1011/"><u>Eliminating OpenGL Error 3: Nvidia Solutions (Win10/11)</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/expert-raid-data-restoration-with-ifind-tech-comprehensive-solutions-for-raid-0-1-and-5/"><u>Expert RAID Data Restoration with iFind Tech - Comprehensive Solutions for Raid 0, 1 & 5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-best-live-recording-gadgets-for-youtube-content-creators/"><u>In 2024, Best Live Recording Gadgets for YouTube Content Creators</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-win-11-taskbar/"><u>Mastering Time Display on Win 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-printing-an-excel-worksheet-including-your-valuable-notes-and-annotations/"><u>Step-by-Step Guide: Printing an Excel Worksheet Including Your Valuable Notes and Annotations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-invalid-steam-response-issue/"><u>Steps to Resolve Invalid Steam Response Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-11-bluetooth-try-connecting-error/"><u>Steps to Resolve Windows 11 Bluetooth 'Try Connecting' Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-unlock-a-locked-out-windows-11-with-error-22/"><u>Strategies to Unlock a Locked Out Windows 11 with Error 22</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-olympic-speed-skating-snapshot-the-short-track-edition/"><u>[New] Olympic Speed Skating Snapshot The Short-Track Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-aspects-of-creating-animated-visual-narratives/"><u>2024 Approved Key Aspects of Creating Animated Visual Narratives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-11-taskbar-for-key-indicators/"><u>Customizing Windows 11 Taskbar for Key Indicators</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-8t-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 8T 5G FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pre-purchase-key-facts-every-drone-buyer-should-know/"><u>In 2024, Pre-Purchase Key Facts Every Drone Buyer Should Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-connectivity-hurdles-in-windows-11/"><u>Overcoming Printer Connectivity Hurdles in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvent-your-techs-future-away-from-windows/"><u>Reinvent Your Tech's Future, Away From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-power-the-top-5-pc-performance-tools-for-win/"><u>Surge Power: The Top 5 PC Performance Tools for Win</u></a></li>
+<li><a href="https://facebook.techidaily.com/tracking-behind-the-scenes-keeping-social-media-favorites-free/"><u>Tracking Behind the Scenes: Keeping Social Media Favorites Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-comic-reading-in-win11/"><u>Unveiling the Secrets to Comic Reading in Win11</u></a></li>
 </ul></div>
 

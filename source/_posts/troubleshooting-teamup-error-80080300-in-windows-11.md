@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting TeamUp Error 80080300 in Windows 11
-date: 2024-09-11T03:31:25.638Z
-updated: 2024-09-17T01:50:52.772Z
+date: 2024-10-30T17:08:52.750Z
+updated: 2024-11-01T19:14:42.230Z
 tags:
   - windows10
   - windows11
@@ -51,12 +51,32 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![properties-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/properties-option.jpg)
 4. Select**Compatibility** in the msteams.exe Properties window.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Run this program in compatibility mode** **for** to activate the drop-down menu.  
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-in-compatibility-mode-option.jpg)
 6. Select the**Windows 8** option on the drop-down menu.
 7. Click**Apply** to save the new compatibility setting.
 
  Note that the WindowsApps folder that includes the pre-installed MS Teams app in Windows 11 is protected. So, you’ll need to unlock the WindowsApps folder to access msteams.exe as instructed above. Our[guide to taking ownership of folders in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-own-folder/) tells you how users can unlock that directory in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Compatibility Troubleshooter for Microsoft Teams
 
@@ -70,8 +90,22 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![test-the-program-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/test-the-program-button.jpg)
 5. Click**Next** to bring up further options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then select**Yes, save these settings** , or**No, try again** depending on the test outcome. Selecting**No** will bring up further troubleshooting options if needed.  
 ![The Yes, save these settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooting-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Clear the Cache for Microsoft Teams
 
@@ -107,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 6. Close the Credential Manager applet, and click the**Restart** Start Menu option.
 7. Launch Microsoft Teams after restarting to see if error 80080300 is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall the Teams App
 
  Some users might need fresh Microsoft Teams apps to resolve the 80080300 error. Reinstalling MS Teams will give you that. This is how you can uninstall and reinstall the Microsoft Teams app:
@@ -123,6 +150,14 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 3. Select the**Uninstall** option for Microsoft Teams in the search tool.  
 ![The Uninstall option for MS Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-option-for-ms-teams.jpg)
 4. Click**Uninstall** again to confirm the app’s removal.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open a browser, and bring up the Microsoft Teams download page on MS Store.
 6. Select**Get in Store app** on the Microsoft Teams page.
 7. Click**Open Microsoft Store** to bring up that app.  
@@ -130,23 +165,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 8. Then select MS Teams’**Install** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Chatting on Microsoft Teams Again
@@ -166,5 +188,26 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>[New] Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/prinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[New] Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamlining-youtube-videos-for-facebook-circulation/"><u>[Updated] 2024 Approved Streamlining YouTube Videos for Facebook Circulation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-surge-in-subscribers-effective-youtube-campaigns-for-2024/"><u>[Updated] Surge in Subscribers Effective YouTube Campaigns for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes-for-2024/"><u>[Updated] Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-best-5-gif-to-video-converters-online-no-need-to-download/"><u>2024 Approved Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-the-ideal-windows-11-user-experience/"><u>Crafting the Ideal Windows 11 User Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-resolving-windows-bsod-blues/"><u>Decoding and Resolving Windows BSOD Blues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-app-execution-aliases-in-programming/"><u>Decoding App Execution Aliases in Programming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-thx-audio-on-windows-pcs/"><u>Ensuring Seamless THX Audio on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-for-efficiency-installing-and-using-windows-outlook-preview/"><u>Guide for Efficiency: Installing and Using Windows' Outlook Preview</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1724766110170-macx-video-converter-pro/"><u>MacX Video Converter Pro - 詳細なテクニカルスペックと互換性情報</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-eliminating-windows-c0000022-crashes/"><u>Mastering the Art of Eliminating Windows C0000022 Crashes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/pay-per-view-microsoft-announces-fees-for-future-windows-11-enhancements-starting-2024-detailed-pricing-guide/"><u>Pay-Per-View: Microsoft Announces Fees for Future Windows 11 Enhancements Starting 2024 - Detailed Pricing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-windows-store-glitch-error-x80072f17-fix/"><u>Rectifying Windows Store Glitch: Error X80072F17 Fix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-instructions-for-extracting-mp3-from-video/"><u>Step-By-Step Instructions for Extracting MP3 From Video</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-in-depth-analysis-of-aphacas-wireless-bt69-fm-transmitter-perfect-for-automobile-audio-upgrades/"><u>Top Pick: In-Depth Analysis of Aphaca's Wireless BT69 FM Transmitter - Perfect for Automobile Audio Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-the-finest-4-webp-viewers-for-your-windows-pc/"><u>Unveil the Finest 4 WebP Viewers For Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-sign-in-tricks-for-temporary-user-profiles/"><u>Windows Sign-In Tricks for Temporary User Profiles</u></a></li>
+</ul></div>
 

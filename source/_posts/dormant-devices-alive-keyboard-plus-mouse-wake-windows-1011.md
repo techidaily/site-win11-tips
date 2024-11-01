@@ -1,7 +1,7 @@
 ---
 title: Dormant Devices Alive! Keyboard + Mouse Wake Windows 10/11
-date: 2024-10-20T00:12:38.626Z
-updated: 2024-10-26T16:48:19.054Z
+date: 2024-10-25T18:28:25.501Z
+updated: 2024-11-01T19:12:43.630Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -71,31 +78,24 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -118,19 +118,20 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamline-your-viewing-the-facebook-auto-play-guide/"><u>[Updated] 2024 Approved Streamline Your Viewing The Facebook Auto-Play Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs-for-2024/"><u>[Updated] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-artistry-integrating-anime-inspired-effects/"><u>[Updated] Snapchat Artistry Integrating Anime-Inspired Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-walkthrough-to-add-second-display-to-a-mac-computer/"><u>A Comprehensive Walkthrough to Add Second Display to a Mac Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-windows-notifications-for-essential-only/"><u>Adjust Windows Notifications for Essential Only</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-place-10-essential-websites-to-aid-in-apartment-searches/"><u>Find Your Perfect Place: 10 Essential Websites to Aid in Apartment Searches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-windows-users-to-fix-f429f-camera-app-hurdle/"><u>Guiding Windows Users to Fix F429F Camera App Hurdle</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-nord-ce-3-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Nord CE 3 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interacting-with-network-drives-from-smartphones/"><u>Interacting with Network Drives From Smartphones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/interactive-guide-explore-the-features-of-the-arlo-smart-security-solution/"><u>Interactive Guide: Explore the Features of the Arlo Smart Security Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/syncopating-soundtracks-with-flawless-audio-transitions/"><u>Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-system-editor-access-control-on-windows-11/"><u>Techniques for System Editor Access Control on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-avoiding-drone-pitfalls-key-factors-for-a-smart-purchase/"><u>[New] Avoiding Drone Pitfalls Key Factors for a Smart Purchase</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-conducting-the-crescendo-infusing-instagram-reels-with-sounds/"><u>[New] Conducting the Crescendo Infusing Instagram Reels with Sounds</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transform-your-speech-access-to-no-cost-voice-manipulation-tools-for-2024/"><u>[New] Transform Your Speech Access to No-Cost Voice Manipulation Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-traffic-with-these-top-11-facebook-video-tactics-for-2024/"><u>[Updated] Elevate Traffic with These Top 11 Facebook Video Tactics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile/"><u>2024 Approved Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-win11s-disconnecting-gifs-dilemma-fixes-in-discord/"><u>Cutting Through Win11's Disconnecting GIFs Dilemma: Fixes in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-to-manage-windows-key-settings/"><u>Expert Techniques to Manage Windows Key Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-clutter-spot-and-reduce-big-file-usage-windows/"><u>How to Cut Down Clutter: Spot and Reduce Big File Usage Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-14-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi 14 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 8S Pro+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-usb-security-in-modern-operating-systems/"><u>Optimizing USB Security in Modern Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-windows-touchpad-commands/"><u>Restoring Functionality to Windows Touchpad Commands</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-downloading-and-format-shifting-master-pick-up-artist-university-lectures/"><u>Step-by-Step Tutorial for Downloading and Format Shifting Master Pick Up Artist University Lectures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-setting-up-pc-manager-on-windows-11/"><u>The Essentials of Setting Up PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-portable-executable-format/"><u>Unraveling Windows' Portable Executable Format</u></a></li>
 </ul></div>
 

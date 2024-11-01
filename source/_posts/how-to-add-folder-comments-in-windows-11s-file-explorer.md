@@ -1,7 +1,7 @@
 ---
 title: How to Add Folder Comments in Windows 11'S File Explorer
-date: 2024-10-21T21:01:59.798Z
-updated: 2024-10-26T20:12:51.697Z
+date: 2024-10-27T19:23:57.320Z
+updated: 2024-11-01T18:28:25.800Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  A **Comments** column will now be visible in the directory opened. That is where you’ll see the comment added to a folder. You can expand the width of that column by placing the mouse cursor on the left or right side of the **Comments** column header, holding the left mouse button, and dragging the mouse cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reveal the desktop.ini File for a Folder
 
  Desktop.ini is a hidden configuration file for folders. So, you must [set Explorer to show hidden files](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to see and edit desktop.ini. You will also need to [change the icon of the folder](https://www.makeuseof.com/tag/customize-icon-windows/) to which you want to add a comment to make its desktop.ini file visible. These are the steps for revealing a folder’s desktop.ini file:
@@ -54,23 +47,9 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
 3. Click **View** to access advanced Explorer settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Select **Apply** to save the new Explorer settings.
 2. Click the Folder Options window’s **OK** button.
@@ -83,10 +62,17 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
@@ -103,11 +89,26 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
 7. Click Exit on Notepad’s **File** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Finally, restart the Windows Explorer process with a method in this guide to restarting File Explorer.
 
  Return to the directory that includes the folder to which you’ve just added a comment. You’ll see the custom comment for the folder in the **Comments** column. You can add comments to many more folders by changing their icons and editing the desktop.ini files in them. Note that you’ll also need to enable the **Comments** column for each directory.
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
 
@@ -117,27 +118,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-why-is-my-photobooth-video-caught-in-a-loop/"><u>[Updated] In 2024, Why Is My Photobooth Video Caught in a Loop?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-recognized-hdd-problems-in-a-step-by-step-windows-11-process/"><u>Fixing Non-Recognized HDD Problems in a Step-by-Step Windows 11 Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-conversation-to-content-chatgpts-movie-guide/"><u>From Conversation to Content: ChatGPT's Movie Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-toshiba-dynabook-drivers-installation-guide-for-windows-users/"><u>Get the Newest Toshiba Dynabook Drivers: Installation Guide for Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy F34 5G?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 when Phone is Broken?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-yuva-2-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Yuva 2 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-playnite-on-big-screens/"><u>Mastering Playnite on Big Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-phone-call-basics-with-intel-unison/"><u>Mastering Windows 11: Phone Call Basics with Intel Unison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reboot-the-process-solving-hidden-logins-on-windows-11/"><u>Reboot the Process: Solving Hidden Logins on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/restore-damaged-pictures-with-stellars-windows-software-solution/"><u>Restore Damaged Pictures with Stellar's Windows Software Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-conquering-win-errors/"><u>The Ultimate Guide to Conquering Win Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-pin-removal-switch-in-windows-11/"><u>Unlocking Hidden Pin Removal Switch in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +125,23 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-optimal-video-sizing-for-an-instagram-standout/"><u>[New] 2024 Approved Optimal Video Sizing for an Instagram Standout</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>[Updated] Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
+<li><a href="https://win11.techidaily.com/9-essential-fixes-for-troublesome-email-notifications-in-windows/"><u>9 Essential Fixes for Troublesome Email Notifications in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hiccup-in-snipsyncs-workflow-9-strategies-to-patch/"><u>Hiccup in SnipSync's Workflow? 9 Strategies to Patch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-run-the-system-file-checker-sfc-in-windows/"><u>How to Run the System File Checker (SFC) in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-130-music-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia 130 Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-fps-on-tainted-grail-conquest-with-expert-tips-and-tricks/"><u>Maximize Your FPS on Tainted Grail: Conquest with Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-wifi-identification-faults-in-microsofts-new-os/"><u>Mending Wifi Identification Faults in Microsoft's New OS</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-x-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone X Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-amd-195-installer-errors-in-windows-systems/"><u>Solving AMD 195 Installer Errors in Windows Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-for-eliminating-duplicate-images-on-iphones-with-ios-versions-17-or-18/"><u>Step-by-Step Tutorial for Eliminating Duplicate Images on iPhones with iOS Versions 17 or 18</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001315914-stop-paladins-from-crashing-once-and-for-all-proven-solutions-for-gamers-in-202ebuilders-how-to-resolve-crashing-issues-on-various-devices/"><u>Stop Paladins From Crashing Once & For All - Proven Solutions for Gamers in 202Ebuilders, How to Resolve Crashing Issues on Various Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracing-backdrop-images-location-in-win11-os/"><u>Tracing Backdrop Image's Location in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-malwarebytes-service-disconnect-issue-in-windows-11/"><u>Troubleshooting Malwarebytes Service Disconnect Issue in Windows 11</u></a></li>
+</ul></div>
+

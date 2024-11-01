@@ -1,7 +1,7 @@
 ---
 title: How To Resolve Non-Existent Device Stop Error on Windows
-date: 2024-10-19T17:04:21.182Z
-updated: 2024-10-26T17:32:51.472Z
+date: 2024-10-25T18:52:17.972Z
+updated: 2024-11-01T17:59:15.301Z
 tags:
   - windows10
   - windows11
@@ -48,26 +48,27 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 3. Right-click Windows Explorer and select **End task**. Your desktop will go blank, but restarting Explorer will restore it.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/end-task-option.jpg)
 4. Click Task Manager’s **File** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select **Run new task** on the menu.
 6. Then input **explorer** in Create new task.  
 ![The Create a new task tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-create-a-new-task-window.jpg)
 7. Select **Create this task with administrative privileges**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click **OK** to restart Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot the Device
 
@@ -81,16 +82,31 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 `msdt.exe -id DeviceDiagnostic`  
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** to run the troubleshooting tool.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter4.jpg)
 5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
 6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Select the Quick Removal Option
@@ -109,26 +125,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![The Quick removal radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-removal-option.jpg)
 8. Select **OK** to exit the device properties window.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Deselect the Index Drive Setting
 
  Having file indexing enabled for an external USB drive can cause the “Windows can’t stop your generic volume” error. If that option is enabled, files copied onto your USB drive will be indexed, which can keep it in use for some time after transferring lots of files onto it.
@@ -142,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 4. Select **Apply** and **OK** to set the drive’s new setting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
@@ -160,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 `list disk`  
 ![The diskpart command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command.jpg)
 5. Next, execute this command to select your USB drive:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `select disk <drive number>`
 6. Finally, set the selected disk to offline by executing this command:  
@@ -189,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![The Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-management-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Safely Eject Your USB Drive
 
  Removing a USB drive from a PC without safely ejecting it can corrupt the data on it. So, it’s not a good idea to ignore the “Windows can’t stop your generic volume device” error.
@@ -197,27 +193,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  Of course, you can still safely remove a USB drive with a PC off. However, many users still prefer to be able to safely eject their connected drives without shutting down their computer. This is how you can fix the “Windows can’t stop your generic volume device” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-superior-vector-file-polishing/"><u>[New] 2024 Approved Superior Vector File Polishing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-from-lurkers-to-leaders-elevate-your-facebook-game/"><u>[New] From Lurkers to Leaders Elevate Your Facebook Game</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unlock-the-power-of-broadcasts-how-to-master-youtube-and-twitch-using-obs/"><u>[New] In 2024, Unlock the Power of Broadcasts How to Master YouTube & Twitch Using OBS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-money-smart-tactics-for-video-monetization/"><u>[New] Maximizing Money Smart Tactics for Video Monetization</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cinematography-simplified-fades-made-easy/"><u>[Updated] 2024 Approved Cinematography Simplified Fades Made Easy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/vering-synergistic-partnerships-on-youtube-platforms-for-2024/"><u>Discovering Synergistic Partnerships on YouTube Platforms for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-directory-size-a-powershell-approach/"><u>Dissecting Directory Size: A PowerShell Approach</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-there-are-no-more-files-error-on-windows-10-and-11/"><u>How to Fix the “There Are No More Files” Error on Windows 10 & 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-v30-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo V30 Through Google Earth?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-comics-an-intuitive-approach-for-win11-users/"><u>Navigating Comics: An Intuitive Approach for Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-grades-with-these-top-8-windows-study-hacks/"><u>Skyrocket Grades with These Top 8 Windows Study Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8024800c-in-windows-update/"><u>Steps to Resolve 0X8024800C in Windows Update</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/arning-equation-on-youtube-daily-average-from-adsense-payouts-per-k-views/"><u>The Earning Equation on YouTube Daily Average From AdSense Payouts Per K Views</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-efficient-qr-codes-on-windows-systems/"><u>Unlocking Secrets: Efficient QR Codes on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-secure-testing-solution-enabling-and-configuring-sandbox/"><u>Win 11'S Secure Testing Solution: Enabling and Configuring Sandbox</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -225,3 +200,21 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-5-best-hd-hunting-cameras-reviewed/"><u>[New] 5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-advanced-techniques-for-youtube-editing-via-finalcut-pro-for-2024/"><u>[New] Advanced Techniques for YouTube Editing via FinalCut Pro for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-5-vr-headsets-for-drones-for-2024/"><u>[New] Best 5 VR Headsets for Drones for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups/"><u>[New] In 2024, An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-combo-for-your-yi-4k-adventures-for-2024/"><u>[New] The Ultimate Combo for Your YI 4K Adventures for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-strategists-handbook-for-youtube-ad-profitability/"><u>2024 Approved The Strategist's Handbook for YouTube Ad Profitability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-dangers-the-downside-to-discounted-windows-activation-codes/"><u>Dodging Dangers: The Downside to Discounted Windows Activation Codes</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-directx-update-issues-in-windows/"><u>Solutions for DirectX Update Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-full-capacity-on-windows-gpt/"><u>Strategies to Prevent Full Capacity on Windows GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toggle-system-editor-enabledisable-in-win11/"><u>Toggle System Editor: Enable/Disable in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-warhammer-40k-eliminate-pc-lag/"><u>Unlock the Full Potential of Warhammer 40K: Eliminate PC Lag</u></a></li>
+</ul></div>
+

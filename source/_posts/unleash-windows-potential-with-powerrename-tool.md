@@ -1,7 +1,7 @@
 ---
 title: Unleash Windows Potential with PowerRename Tool
-date: 2024-09-12T19:41:41.825Z
-updated: 2024-09-17T01:45:54.803Z
+date: 2024-10-30T18:19:59.393Z
+updated: 2024-11-01T18:51:15.315Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
  You can also[find any color anywhere on your screen with PowerToys Color Picker](https://www.makeuseof.com/powertoys-color-picker-guide/) , or[bring one of Windows 11's best features to Windows 10 with PowerToys FancyZones](https://www.makeuseof.com/control-your-windows-and-organize-your-desktop-with-powertools-fancyzones/) , for better organizing multiple windows on your monitors.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install PowerToys & Enable PowerRename
 
  Despite having the official Microsoft seal, PowerToys is an open-source project to which anyone can contribute. This makes it one of the few instances where the same Microsoft software is available on both GitHub and the Microsoft Store. Or more accurately, "almost the same".
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
 ![Microsoft Store Searching For PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-store-searching-for-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you find the**Microsoft PowerToys** entry, click on it to visit its page. There, click on**Install** on the left to bring PowerToys onboard.
 
  After installation, run PowerToys and notice its icon on the tray. Right-click on that and choose**Settings** .
@@ -62,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
  Like most tools in PowerToys, PowerRename is accessible "outside" of the PowerToys' own window.
 
 ![Windows File Explorer Right Click PowerRename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-file-explorer-right-click-powerrename.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. To use PowerRename, fire up your favorite file manager. Windows File Explorer is fine if you aren't using a third-party solution to juggle your files.
 2. Choose the files you wish to batch rename.
@@ -94,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Filenames & Extensions
 
  By default, PowerRename will act on the actual name of each file, skipping its extension. There are cases where you might want to batch-rename extensions instead.
@@ -108,27 +136,7 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Text Formatting
 
@@ -141,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
  Keep in mind that Numbering doesn't work on its own, but only as an "enhancer" on top of another renaming process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Regular Expressions
@@ -157,18 +165,18 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
  Quite helpfully, PowerRenamer offers a "cheat sheet" with a few standard RegEx syntax examples. You can find it by clicking on the little**circular icon with the i** (for "information") inside, right next to the "source field".
 
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
 
@@ -193,5 +201,23 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-top-15-affordable-online-image-enhancers-for-2024/"><u>[New] The Ultimate List Top 15 Affordable Online Image Enhancers for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-picks-the-best-online-tools-for-downloading-vimeo-videos-for-2024/"><u>[Updated] Ultimate Picks The Best Online Tools for Downloading Vimeo Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11s-camera-app-failures-effortlessly/"><u>Correcting Windows 11'S Camera App Failures Effortlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-windows-tips-for-efficient-live-tv-saving-for-2024/"><u>Essential Windows Tips for Efficient Live TV Saving for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-on-steelseries-arctis-prime-headset/"><u>Fixing the Issue: Non-Functional Mic on SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-11-taskbar-not-working/"><u>How to Fix the Windows 11 Taskbar Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-discord-from-starting-with-windows/"><u>How To Stop Discord From Starting With Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-x50-gt-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor X50 GT with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-inserting-tracks-in-youtube-playlists/"><u>In 2024, Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-to-dvd-video-conversion-step-by-step-tutorial-for-high-quality-disc-burn/"><u>MP4 to DVD-Video Conversion: Step-by-Step Tutorial for High-Quality Disc Burn</u></a></li>
+<li><a href="https://win-info.techidaily.com/resurrecting-memories-expert-tips-for-accessing-forgotten-passwords-on-old-computers-digital-recovery-with-zdnet/"><u>Resurrecting Memories: Expert Tips for Accessing Forgotten Passwords on Old Computers | Digital Recovery with ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanics-of-windows-screenshows/"><u>Understanding the Mechanics of Windows Screenshows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>Updated 2024 Approved Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windowsbt-folder-and-can-you-delete-it/"><u>What Is the $Windows.~BT Folder, and Can You Delete It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-access-analysis-unveiling-variances-between-standard-and-microsoft-accounts/"><u>Windows Access Analysis: Unveiling Variances Between Standard and Microsoft Accounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-installation-hiccup-for-microsoft-pc-manager/"><u>Windows Installation Hiccup for Microsoft PC Manager</u></a></li>
+</ul></div>
 

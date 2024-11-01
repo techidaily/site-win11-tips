@@ -1,7 +1,7 @@
 ---
 title: Regain Your Favorite Windows Extras in 7 Simple Steps
-date: 2024-10-26T00:33:28.086Z
-updated: 2024-10-26T16:05:49.231Z
+date: 2024-10-27T16:13:17.715Z
+updated: 2024-11-01T19:37:58.396Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -58,13 +65,6 @@ To check your system using SFC, follow these steps:
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -92,13 +92,6 @@ net start msiserver`
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -109,26 +102,27 @@ Follow these steps to run the update troubleshooter on Windows:
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -141,13 +135,6 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -164,6 +151,13 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -192,6 +186,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Back the Windows Optional Features
 
  Hopefully, the issue with optional features not installing on your system should be fixed now. In any case, it is important to keep your system up-to-date and to follow best practices for maintaining your computer properly to help prevent issues like this from occurring.
@@ -211,19 +212,19 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-apeak-soft-recording-performance-and-reliability-assessed-for-2024/"><u>[New] Apeak Soft Recording Performance and Reliability Assessed for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-best-replacements-for-twitters-massive-network-for-2024/"><u>[New] Best Replacements for Twitter's Massive Network for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reaping-health-rewards-from-asmrs-embrace/"><u>2024 Approved Reaping Health Rewards From ASMR's Embrace</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/compreeved-guide-converting-webp-to-quality-jpg-format/"><u>Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-optimize-your-windows-system-against-high-ums-use/"><u>Efficiency in Action: Optimize Your Windows System Against High UMS Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-beyond-boundaries-with-innovative-wins11-titles/"><u>In 2024, Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-animated-gifs-for-free-best-online-makers/"><u>Make Animated GIFs for Free Best Online Makers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-ai-feature-on-windows-11-microsofts-taskbar-assistant-revolutionizes-productivity/"><u>New AI Feature on Windows 11: Microsoft's Taskbar Assistant Revolutionizes Productivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-anywhere-decide-between-tablet-and-smartphone/"><u>Play Anywhere? Decide Between Tablet & Smartphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recommended-procedures-for-dying-wireless-controller/"><u>Recommended Procedures for Dying Wireless Controller</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/thrilling-rides-recorded-top-action-cam-gear-for-23-bikers-for-2024/"><u>Thrilling Rides Recorded – Top Action Cam Gear for '23 Bikers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-your-system-advanced-techniques-to-revise-the-windows-registry-in-command-prompt/"><u>Unlock Your System: Advanced Techniques to Revise the Windows Registry in Command Prompt</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/2024-dvd-and/"><u>2024年度上市的綜合型免費 DVD & 電影複製器 - 最佳選擇</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-using-system-restore-in-windows-os/"><u>A Detailed Walkthrough of Using System Restore in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-file-sharing-utorrent-tips/"><u>Accelerate Your PC's File Sharing - uTorrent Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advice-for-avoiding-hidden-displays-during-windows-games/"><u>Advice for Avoiding Hidden Displays During Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-troubleshooting-in-obs-studio-on-windows-11-devices/"><u>Audio Troubleshooting in OBS Studio on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-clutter-boost-clarity-keeping-your-notifications-centered-in-windows-11/"><u>Avoid Clutter, Boost Clarity: Keeping Your Notifications Centered in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-civi-3-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Civi 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-ios-gamescape-my-affinity-for-arcade/"><u>Exploring the iOS Gamescape – My Affinity for Arcade</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-dry-out-your-iphones-speakers-after-exposure-to-liquids/"><u>How to Dry Out Your iPhone's Speakers After Exposure to Liquids</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic5-ultimate-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic5 Ultimate FRP Bypass</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unlimited-realms-top-10-no-cost-roleplaying-worlds/"><u>In 2024, Unlimited Realms Top 10 No-Cost Roleplaying Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-in-the-realm-of-ai-insight-into-career-prospects/"><u>Prompt Engineering in the Realm of AI: Insight Into Career Prospects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-silence-after-windows-11-upgrade-restore-audio-quickly/"><u>Solution: Silence After Windows 11 Upgrade – Restore Audio Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-hp-laserjet-pro-m4-cuffs-in-your-windows-pc/"><u>Step-by-Step Guide: Installing HP LaserJet Pro M4 Cuffs in Your Windows PC</u></a></li>
 </ul></div>
 

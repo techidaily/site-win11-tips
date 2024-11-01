@@ -1,7 +1,7 @@
 ---
 title: Fixing Sudden Blackness in PC Gaming on WINDOWS
-date: 2024-10-24T19:24:09.684Z
-updated: 2024-10-26T18:52:40.839Z
+date: 2024-10-29T19:19:51.363Z
+updated: 2024-11-01T19:22:24.797Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check for Game-Specific Issues
@@ -65,22 +65,15 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ![Sort Processes by the CPU Resource Consumption in CPU Column of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-sort-processes-by-the-cpu-resource-consumption-in-cpu-column-of-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the components' resource usage remains within normal limits, they are not under extreme stress. However, if you see the screen go black right when one of the components's usage spikes to 100 percent, the increase in stress is likely the cause.
 
  For such a situation, refer to our guides on [how to fix high CPU](https://www.makeuseof.com/tag/fix-high-cpu-usage-windows/), [GPU](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/), and [RAM resource usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) and apply the relevant solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Monitor the Temperature of the System Components
 
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 4. Hit **OK** after clicking **Apply**.  
 ![Disable App Readiness Service in the Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-disable-app-readiness-service-in-the-windows-services-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the issue ceases to occur after the service is disabled, it could be the culprit. While keeping the service disabled is one way to avoid facing this issue again, disabling the service permanently can have unforeseen consequences.
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
@@ -115,16 +115,16 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ![Go to Change Advanced Power Settings in Windows Power Plan Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-go-to-change-advanced-power-settings-in-windows-power-plan-settings.jpg)
 3. Expand the **PCI Express** and L**ink State Power Manageme**nt categories.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select **Off** from the dropdown menus next to **On battery** and **Plugged in**.
 5. Then, click **Apply** and hit **OK**.  
 ![Turn Off the On Battery and Plugged In Modes in Link State Power Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-turn-off-the-on-battery-and-plugged-in-modes-in-link-state-power-management-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Let a Black Screen Ruin Your Winning Streak
 
@@ -134,24 +134,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-guide-to-pocket-friendly-discord-video-downloads-on-tech-devices/"><u>[New] Guide to Pocket-Friendly Discord Video Downloads on Tech Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-online-photo-grid-creators-for-enhanced-clarity-for-2024/"><u>[New] Top Online Photo Grid Creators for Enhanced Clarity for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-bridging-the-gap-between-youtube-and-instagram-stories-effectively-for-2024/"><u>[Updated] Bridging the Gap Between YouTube & Instagram Stories Effectively for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-hololens-review-unleashing-virtual-potential-with-microsoft/"><u>[Updated] HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-augmentation-changes-our-reality-view/"><u>[Updated] How Augmentation Changes Our Reality View</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-limiting-video-size-the-mac-way-to-insta-cutting/"><u>2024 Approved Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-do-not-have-sufficient-access-to-uninstall-error-in-windows-11-and-11/"><u>How to Fix the “Do Not Have Sufficient Access to Uninstall” Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-transcription-with-whisper-voice-to-text-guide/"><u>Instant Transcription with Whisper: Voice to Text Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-update-failure-problem-error-code-0x80070003/"><u>Navigating Through Windows' Update Failure Problem (Error Code: 0X80070003)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-ten-best-of-the-year-high-quality-4k-pcs-for-2024/"><u>Top Ten Best of the Year High-Quality 4K PCs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-saving-your-itunes-collection-complete-backup-steps/"><u>Ultimate Guide: Saving Your iTunes Collection - Complete Backup Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +141,25 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[New] In 2024, Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-nano-drone-showdown-the-best-of-the-year/"><u>[Updated] 2024 Approved Nano Drone Showdown The Best of the Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://ai-video.techidaily.com/be-transparent-and-detailed/"><u>Be Transparent and Detailed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-changing-nat-type-in-win11-and-10/"><u>Detailed Walkthrough: Changing NAT Type in Win11 & 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-event-viewer-problems/"><u>Diagnosing and Fixing Event Viewer Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-cc-errors-a-step-by-step-guide/"><u>Fixing Windows 11 CC Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/immediate-insta-photo-series-viewing-for-2024/"><u>Immediate Insta Photo Series Viewing for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-clear-obstacle-youtube-tweets-on-google-chrome/"><u>In 2024, Clear Obstacle YouTube Tweets on Google Chrome</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-tips-operating-the-toolbar-in-mspcm-win11/"><u>Key Tips: Operating the Toolbar in MSPCM Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/optimize-game-console-audio-settings-on-sony-platforms-for-2024/"><u>Optimize Game Console Audio Settings on Sony Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-desktop-spaces-optimal-size-in-win11/"><u>Perfecting Desktop Spaces: Optimal Size in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-invalid-pc-name-in-windows-11/"><u>Remedying Invalid PC Name in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-non-working-outlook-automated-filters-in-windows/"><u>Restarting Non-Working Outlook Automated Filters in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-server-stumbled-error-in-windows-11-and-11-store/"><u>Steps to Overcome Server Stumbled Error in Windows 11 & 11 Store</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme C67 5G? | Dr.fone</u></a></li>
+</ul></div>
+

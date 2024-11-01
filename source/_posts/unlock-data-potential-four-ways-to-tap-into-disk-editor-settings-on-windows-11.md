@@ -1,7 +1,7 @@
 ---
 title: "Unlock Data Potential: Four Ways to Tap Into Disk Editor Settings on Windows 11"
-date: 2024-09-09T18:11:49.333Z
-updated: 2024-09-16T16:14:23.316Z
+date: 2024-10-26T17:45:55.418Z
+updated: 2024-11-01T18:07:59.301Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,17 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -85,14 +85,14 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
- This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -106,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -123,5 +130,19 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-value-dome-cameras-offering-unique-cinematic-angles/"><u>[New] Top Value Dome Cameras Offering Unique Cinematic Angles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-pcs-audio-anomaly-windows-error-xc00d36b4/"><u>Conquering PC's Audio Anomaly: Windows Error XC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-distinctive-aspects-in-ai-pcs/"><u>Demystifying Distinctive Aspects in AI PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-not-launching-csgo-in-w11/"><u>Efficient Fixes for Not Launching CS:GO in W11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-premier-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20 Premier 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-sony-xperia-5-v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 5 V without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-vr-movie-might-change-the-world/"><u>In 2024, How VR Movie Might Change the World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multilingual-ease-with-hotkey-integration-in-modern-windows-os/"><u>Multilingual Ease with Hotkey Integration in Modern Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-on-a-budget-experience-blur-free-visuals-with-the-159-240-hz-acer-nitro-curved-monitor/"><u>Next-Level Gaming on a Budget: Experience Blur-Free Visuals with the $159, 240 Hz Acer Nitro Curved Monitor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-secure-access-newly-released-easycap-drivers-today/"><u>Quick and Secure: Access Newly Released EasyCAP Drivers Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-media-unrecognition-in-windows-vlc/"><u>Resolving Media Unrecognition in Windows, VLC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rapid Purging of Junk Apps From Windows 11
-date: 2024-09-11T01:22:52.285Z
-updated: 2024-09-12T01:22:52.285Z
+date: 2024-10-26T18:59:49.971Z
+updated: 2024-11-01T17:05:47.349Z
 tags:
   - windows10
   - windows11
@@ -16,13 +16,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
 ## Rapid Purging of Junk Apps From Windows 11
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ### Quick Links
 
@@ -40,26 +37,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  When you buy a new PC—whether a high-end gaming device or an entry-level laptop—you expect it to be clean from the start. However, Windows 11 typically comes with at least a few unwanted pre-installed apps, called bloatware. How should you remove bloatware from your PC?
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## What Is Bloatware, and Which Apps Should You Uninstall?
 
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
@@ -69,20 +46,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  Common bloatware apps on Windows 11 include OneNote, Microsoft Teams, and Candy Crush. Third-party bloatware apps, like McAfee or Norton antivirus apps, Netflix, and CCleaner, could also come with your PC.
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Uninstall Bloatware Using Windows 11 Settings
 
@@ -96,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
 5. A small pop-up window will appear after you press **Uninstall**; click on **Uninstall** again to confirm your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With this, you can manually remove pre-installed apps quickly, as the Settings window does not close after uninstalling one app. Note that you cannot remove some apps, like Photos and the Microsoft Store, with this method.
 
 ## Remove Pre-Installed Windows 11 Apps From the Start Menu
@@ -108,35 +78,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![Uninstall an app from the Windows 11 Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstall-an-app-from-the-windows-11-start-menu.jpg)
 4. You will then see a pop-up box asking you to confirm app uninstallation; click **Uninstall** once again, and the app will be removed.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Remove Bloatware Using Win11Debloat
 
@@ -149,58 +91,32 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![Windows Protected Your PC pop up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-protected-your-pc-pop-up.jpg)
 5. User Account Control will then ask if you want the app to make changes to your device; choose **Yes** to run it.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. **Win11Debloat – Setup** will then open in a new Windows PowerShell window. Type either **1** or **2** to choose the method of removing bloatware, then hit **Enter**.  
 ![Win11Debloat Powershell Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/win11debloat-powershell-setup.jpg)
 7. Once you’ve chosen, remember to follow the on-screen instructions to run the uninstallation process successfully.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Try a Clean Install of Windows 11
 
@@ -215,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
 3. Click on **Reset PC**.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
@@ -235,39 +138,29 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
 7. If you have any unwanted apps installed on other drives, ensure that the slider under **Delete files from all drives?** is set to **Yes, all drives**. Be careful though, as this will erase all drives connected to your PC. Don't accidentally erase external drives where you store pictures and the like!  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
 8. Once you’ve confirmed this setting, hit **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you click the reset button, your computer will execute a Windows 11 clean install. This will remove most third-party bloatware, although you’ll still need to remove unwanted Windows apps manually. Alternatively, you can [cleanly install Windows 11 from an ISO](https://www.makeuseof.com/how-to-clean-install-windows-11/) file to ensure a truly fresh installation.
 
  Although bloatware isn’t typically dangerous, these apps are annoying as they could slow your PC down, especially if they all launch when you turn your computer on. So by removing these apps—and quickly doing so—you’re reducing your PC’s workload, allowing it to run better.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -276,3 +169,18 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-minimizing-motion-blur-with-obs-adjustments/"><u>[Updated] Minimizing Motion Blur with OBS Adjustments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-asus-pce-ac68-network-adapter-driver/"><u>Free Download: ASUS PCE-AC68 Network Adapter Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-13-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 13 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-process-of-modifying-user-identities-on-windows-11/"><u>Master the Process of Modifying User Identities on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-gmaps-integration-process-in-windows/"><u>Navigating the GMaps Integration Process in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nubia-red-magic-9-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nubia Red Magic 9 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-turn-off-defender-firewall/"><u>Step-by-Step: How to Turn Off Defender Firewall</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-missing-link-on-your-site-understanding-http-404-pages/"><u>The Missing Link on Your Site: Understanding HTTP 404 Pages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-screener-a-step-by-step-customization-guide/"><u>Windows 11 Screener: A Step-by-Step Customization Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastery over Size Limits: A Win11 Guide to Overcoming Stuck-On-Size Error in Discord"
-date: 2024-09-16T07:30:37.721Z
-updated: 2024-09-17T07:47:26.478Z
+date: 2024-10-25T18:12:44.397Z
+updated: 2024-11-01T16:48:10.683Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -58,20 +65,27 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
 3. Enter your credentials and click the **Log In** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, try to upload the GIF and check if you still face the error.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -80,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Contact Discord Support
@@ -110,5 +118,24 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-vibing-with-visuals-merging-music-and-imagery-on-ig/"><u>[New] Vibing with Visuals Merging Music and Imagery on IG</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-yearly-recorder-real-time-social-media-events-for-2024/"><u>[Updated] Yearly Recorder Real-Time Social Media Events for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-co-singers-capturing-hearts-online/"><u>2024 Approved Co-Singers Capturing Hearts Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-mystery-windows-headset-mic-not-working/"><u>Deciphering the Mystery: Windows Headset Mic Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dominating-desktop-space-with-taskmanager/"><u>Dominating Desktop Space with TaskManager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-disabled-game-experience-in-roblox-for-windows-users/"><u>Fixing the Disabled Game Experience in Roblox for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-11-login-problems/"><u>How to Fix Windows 11 Login Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-pc-file-examination-guide/"><u>In 2024, Speedy PC File Examination Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-talk-optimizing-for-the-apple-store/"><u>In 2024, Tech Talk Optimizing for the Apple Store</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-c33-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme C33 2023 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-vs-visual-effects-premiere-pro-and-after-effects-compared-for-2024/"><u>New Video Editing vs Visual Effects Premiere Pro and After Effects Compared for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-shared-folder-permission-errors/"><u>Overcome Windows Shared Folder Permission Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-safari-image-loading-glitches-in-ios-a-guide-with-9-fixes/"><u>Overcoming Safari Image Loading Glitches in iOS: A Guide with 9 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-unoperative-fn-button-for-screen-brighness-adjustment-in-win-11/"><u>Reviving Unoperative Fn Button for Screen Brighness Adjustment in Win 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-photography-with-lightzone-a-cross-platform-free-darkroom-application/"><u>Revolutionize Your Photography with LightZone - A Cross-Platform, FREE Darkroom Application!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skillful-strategies-to-unlock-credential-manager/"><u>Skillful Strategies to Unlock Credential Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-operational-voice-recognition-in-microsofts-win11/"><u>Solving Non-Operational Voice Recognition in Microsoft's Win11</u></a></li>
+</ul></div>
 

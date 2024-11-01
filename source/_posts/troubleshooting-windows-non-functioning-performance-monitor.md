@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows: Non-Functioning Performance Monitor"
-date: 2024-10-22T19:01:57.275Z
-updated: 2024-10-26T16:04:53.222Z
+date: 2024-10-27T17:26:39.607Z
+updated: 2024-11-01T17:35:20.323Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To restart your computer, follow these steps:
  Once the computer has restarted, open Performance Monitor and check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart the Performance Logs and Alerts service
@@ -54,6 +54,13 @@ To restart this service, follow these steps:
 3. In the Services window, scroll down to**Performance Logs & Alerts** service.
 4. Right-click on the service and select the**Restart** option.  
 ![Restart Performance service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-performance-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you follow the above steps, check if Performance Monitor is working correctly.
 
@@ -69,29 +76,16 @@ To run the System File Checker, follow these steps:
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In the Command Prompt, type the following command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow
 5. The scan will check for any corrupted system files and repair them.
 
  After the scan is complete, restart your computer and check if Performance Monitor is working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for a Windows Update
@@ -102,13 +96,6 @@ sfc /scannow
 2. Click**Windows Update** in the left pane.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 3. Then click the**Check for updates** button.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If any available updates are found, Windows will download and install them automatically. After the updates have been installed, restart your computer and check if Performance Monitor is now working correctly.
 
@@ -123,6 +110,14 @@ To perform a system restore, follow these steps:
 3. In the System Properties window, click the**System Restore** button.  
 ![Run System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-system-restore.jpg)
 4. Choose a restore point, then click**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Follow the on-screen instructions to perform a system restore.
 
  Upon completion of the restoration process, make sure Performance Monitor is working properly.
@@ -146,22 +141,17 @@ To perform a system restore, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visualsnitch-capture-and-save-tweets-images-and-videos/"><u>[New] In 2024, VisualSnitch Capture and Save Tweets' Images & Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instagram-guide-to-uploading-podcast-episodes/"><u>[New] Instagram Guide to Uploading Podcast Episodes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-syncing-vimeo-and-instagram-the-ultimate-guide-for-2024/"><u>[New] Syncing Vimeo and Instagram The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>[Updated] In 2024, How to Make the Most Out of Spotify's Advertising Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-remove-signature-background-in-seconds/"><u>2024 Approved How to Remove Signature Background in Seconds</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-free-utilities-for-system-backuprestoration-on-windows-versions-11-10-8-and-7/"><u>Best Free Utilities for System Backup/Restoration on Windows (Versions 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/crafting-memorable-content-on-snapchat-top-tips-for-2024/"><u>Crafting Memorable Content on Snapchat (Top Tips) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-hdr-on-windows-11-an-in-depth-explanation/"><u>Decoding HDR on Windows 11: An In-Depth Explanation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-conflicts-for-print-job-success/"><u>Eradicating Conflicts for Print Job Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/four-steps-for-pausing-windows-update/"><u>Four Steps for Pausing Windows Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A25 5G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-the-windows-safe-mode-limitation-on-office-suite/"><u>Resolving the Windows-Safe Mode Limitation on Office Suite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-techniques-transform-mkv-videos-into-windows-mp4-files/"><u>Simple Techniques: Transform MKV Videos Into Windows MP4 Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-security-with-new-passwords-in-win-11/"><u>Streamline Security with New Passwords in Win 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-smooth-gameplay-permanent-solution-for-tf2s-endless-crashes/"><u>Unlock Smooth Gameplay: Permanent Solution for TF2's Endless Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-define-your-own-idle-time/"><u>Windows: Define Your Own Idle Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-valorant-on-pc-overcoming-frames-drops/"><u>Winning Valorant on PC: Overcoming Frames Drops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-365-error-code-30015-26-on-windows/"><u>How to Fix the Microsoft 365 Error Code 30015-26 on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-sony-xperia-5-v-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Sony Xperia 5 V Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-f25-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/interactive-media-meets-brand-partnerships-on-youtube/"><u>Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpieces-at-your-fingertips-4-notable-new-paint-features/"><u>Masterpieces at Your Fingertips: 4 Notable New Paint Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/oceans-secrets-revealed-the-finest-aquatic-videography-gear-for-2024/"><u>Ocean's Secrets Revealed The Finest Aquatic Videography Gear for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-procedures-for-resetting-windows-updates/"><u>Simplified Procedures for Resetting Windows Updates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-past-data-video-guide-for-mailbox-to-live-exchange/"><u>Streamlining Past Data: Video Guide for Mailbox to Live Exchange</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-integrating-secondary-antivirus-without-defenders-limits/"><u>Techniques for Integrating Secondary Antivirus without Defender’s Limits</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-backup-solutions-for-mac-users-missing-files/"><u>Ultimate Backup Solutions for Mac Users' Missing Files</u></a></li>
 </ul></div>
 

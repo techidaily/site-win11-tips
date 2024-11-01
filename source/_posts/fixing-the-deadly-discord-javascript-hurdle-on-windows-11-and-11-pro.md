@@ -1,7 +1,7 @@
 ---
 title: Fixing the Deadly Discord Javascript Hurdle on Windows 11 & 11 Pro
-date: 2024-10-21T16:44:30.716Z
-updated: 2024-10-26T23:59:48.164Z
+date: 2024-10-30T18:29:13.629Z
+updated: 2024-11-01T19:41:41.671Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -64,25 +64,33 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
@@ -102,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 9. Go through Discord’s installation wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
@@ -132,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -147,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
@@ -185,17 +180,21 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-seamless-video-editing-on-windows-11-platform/"><u>[New] Seamless Video Editing on Windows 11 Platform</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-creme-de-la-creativite-youtube-subscriber-list/"><u>[Updated] The Crème De La Créativité YouTube Subscriber List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-side-by-side-error-corrective-techniques-for-win10/"><u>Addressing Side-by-Side Error: Corrective Techniques for Win10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2-t172386288019211/"><u>ASRock PG2</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-modern-interface-in-retro-machines-guide-to-windows-11-to-go-and-rufus/"><u>Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unrealcefsubprocess-high-cpu-and-ram-usage-on-windows/"><u>How to Fix the UnrealCEFSubprocess High CPU and RAM Usage on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-inactive-function-keys-on-your-computer/"><u>Overcoming Issues with Inactive Function Keys on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-cutting-the-fat-in-windows-11/"><u>The Ultimate Guide to Cutting the Fat in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-7-mac-compatible-videos-viewers-for-2024/"><u>Top 7 Mac-Compatible Videos Viewers for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transforming-audio-experiences-a-comprehensive-review-of-the-latest-generation-echo-speaker/"><u>Transforming Audio Experiences: A Comprehensive Review of the Latest Generation Echo Speaker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-design-your-own-unique-pin-pattern/"><u>Windows 10/11 Hack: Design Your Own Unique Pin Pattern</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-your-interview-game-skills-and-tactics/"><u>[New] Elevating Your Interview Game Skills & Tactics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-next-level-content-creation-tools-post-vimeo/"><u>[New] Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-building-connections-through-collaborative-playlists-for-2024/"><u>[Updated] Building Connections Through Collaborative Playlists for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-capture-the-world-with-these-leading-4k-cams-for-2024/"><u>[Updated] Capture the World with These Leading 4K Cams for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-foddian-gamings-roots/"><u>Discovering Foddian Gaming's Roots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-code-0xc00000f-instantly/"><u>Fixing Windows Error Code 0Xc00000f Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-12-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 12 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-solutions-for-swift-league-of-legends-game-stability/"><u>Instant Solutions for Swift League of Legends Game Stability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-driver-failed-to-initialize-error-in-windows-11/"><u>Mitigating Driver Failed to Initialize Error in Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlocking-adobe-premiere-pro-import-edit-and-export-video-files-with-ease/"><u>New Unlocking Adobe Premiere Pro Import, Edit, and Export Video Files with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscover-classics-atlasos-refresh/"><u>Rediscover Classics: AtlasOS Refresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073cf3-in-windows/"><u>Resolving Microsoft Store Error Code 0X80073CF3 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-find-windows-11s-authorize-center/"><u>Steps to Find Windows 11'S Authorize Center</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-essential-crypto-related-queries-for-chatgpt-mastery/"><u>Top 10 Essential Crypto-Related Queries for ChatGPT Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-sluggish-microsoft-edge-on-windows-1011/"><u>Troubleshooting Sluggish Microsoft Edge on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-index-options-breakdown/"><u>Windows Index Options Breakdown</u></a></li>
 </ul></div>
 

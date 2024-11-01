@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Remote Work: Lightweight Tech Innovations"
-date: 2024-09-11T18:55:15.276Z
-updated: 2024-09-16T18:32:27.552Z
+date: 2024-10-25T17:24:19.097Z
+updated: 2024-11-01T18:18:53.174Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Features That Boost Collaboration and Productivity in Teams
 
  Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
@@ -45,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
@@ -66,10 +87,10 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -91,5 +112,22 @@ To set the Update policy and enable public preview:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>[New] 2024 Approved Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs/"><u>[New] 2024 Approved From Shaky to Steady Selecting an Ideal Camera Gimbals for UAVs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mobile-editing-hacks-for-visual-storytelling/"><u>[New] 2024 Approved Mobile Editing Hacks for Visual Storytelling</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-advanced-strategies-for-sending-videos-in-discord/"><u>[Updated] In 2024, Exploring Advanced Strategies for Sending Videos in Discord</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premium-live-video-conferencing-systems/"><u>[Updated] Premium Live Video Conferencing Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-best-live-streaming-software-for-mac-you-must-know/"><u>5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-disarray-a-quick-guide-to-counteract-pink-windows-woes/"><u>Desktop Disarray: A Quick Guide to Counteract Pink Windows Woes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-access-to-blacklisted-windows-program/"><u>Reinstating Access to Blacklisted Windows Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slashing-resource-drain-from-security-applications/"><u>Slashing Resource Drain From Security Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprerant-guide-to-picture-scaling-in-windows-11/"><u>The Compreran't Guide to Picture Scaling in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-combat-windowss-pink-fade/"><u>The Ultimate Guide to Combat WINDOWS's Pink Fade</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-microsofts-basic-display-adapter-bda-via-graphics/"><u>Unveiling Microsoft's Basic Display Adapter (BDA) via Graphics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Asana: Actions for Fixing Windows Issues"
-date: 2024-09-11T01:22:48.265Z
-updated: 2024-09-12T01:22:48.265Z
+date: 2024-10-27T16:45:05.278Z
+updated: 2024-11-01T18:24:51.134Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
  Here, we'll explore various solutions to fix the Asana not working or loading issues on Windows.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Start by Applying Quick Fixes
 
@@ -39,21 +36,14 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 * **Hard restart the Asana app:** If Asana is stuck on the loading screen, try a hard restart. To do this, open Asana first, right-click anywhere on the loading screen and select the **Reload** option.  
 ![Asana Reload Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-reload-option.jpg)
 
-
-
-
+ These basic steps can often resolve common Asana issues. However, if you're still facing loading issues, keep reading to try some advanced methods.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- These basic steps can often resolve common Asana issues. However, if you're still facing loading issues, keep reading to try some advanced methods.
 
 ## 2\. Clear the Asana Cache Files
 
@@ -68,23 +58,17 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 3. On the File Explorer window, select the **Cache\_Data** folder.  
 ![Asana Cache Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-cache-folder.jpg)
 4. Press the **Del** key or click the **Delete** icon to remove the cache files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After clearing the cache, re-open Asana to check the loading issue.
 
  Clearing the cache will force the app to reconnect to Asana's server. If this is not working for you, proceed to the next step.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Update Asana to the Latest Version
 
@@ -101,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 5. Now, go back to the Asana app. It should prompt you with a text message saying, "**A new version of the Asana app is available.**".
 6. Click the **Restart** button on the pop-up to update Asana.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Asana Connectivity Test
 
  Sometimes, due to unknown reasons, your network may be unable to connect to Asana's servers. To handle such cases, you can visit the [Asana Help Test](https://connectivity-test.asana.com/) website.
@@ -108,26 +99,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
  Wait for a while and check the **WebSocket connection** status. If it says **Success**, then there's no need to worry. If you're getting a **Failed** or **Prohibited** status, contact [Asana's Support team](https://asana.com/support) with a screenshot of the diagnostics.
 
 ![Asana Diagnostics Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-diagnostics-overview.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Change Your Default DNS Server
 
@@ -144,34 +115,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ![ControlD Custom Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controld-custom-rules.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 6\. Allow Asana Through the Firewall
 
  A firewall comes into use when you want to prevent unauthorized network users from misusing resources. The default Windows firewall keeps your system safe but can block some necessary services (in rare cases).
@@ -186,19 +129,12 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 4. Once you add Asana, ensure it has permission to pass through the firewall. Tick the **Private** and **Public** checkboxes depending on your network type.  
 ![Asana Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-firewall-settings.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Reinstall the Asana App
 
@@ -214,42 +150,16 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![Installed App Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/installed-app-settings-on-windows.jpg)
 4. After uninstalling, visit [Asana’s official website](https://asana.com/download) to download the latest version of the app.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Once the download is complete, run the installer or setup file to install Asana.
 
  A fresh install will remove all the old files from your computer and replace them with new ones. Moreover, by reinstalling Asana, you can troubleshoot almost all issues related to the Asana app. So, don't fear to give it a try once!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Get Back Your Full Asana Experience on Windows
 
@@ -259,18 +169,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
  Here, we'll explore various solutions to fix the Asana not working or loading issues on Windows.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -278,3 +176,20 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-video-perfection-in-minutes/"><u>[New] 2024 Approved Capture Video Perfection in Minutes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>[New] 2024 Approved Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>2024 Approved Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-blast-from-the-past-meets-future-savings-with-new-years-promo-on-mondly-pro/"><u>A Blast From the Past Meets Future Savings with New Year's Promo on Mondly Pro!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-advice-correcting-windows-11-install-failure-scenarios-efficiently/"><u>Expert Advice: Correcting Windows 11 Install Failure Scenarios Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-coredll-is-missing-bugs-effective-techniques-for-restoring-stability-to-your-system/"><u>Fixing 'Core.dll Is Missing' Bugs: Effective Techniques for Restoring Stability to Your System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-m-audio-fast-track-driver-installation-files-compatible-with-windows-117881/"><u>Free M-Audio Fast Track Driver Installation Files Compatible with Windows 11/7/8/8.1</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/global-perspective-inclusive-technology-review/"><u>Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-not-found-rockalldll-on-windows-pc/"><u>How to Fix 'Not Found' Rockalldll on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-video-driver-in-windows-1110/"><u>Solutions for Unresponsive Video Driver in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-expert-guide-to-opening-credential-vaults/"><u>The Expert Guide to Opening Credential Vaults</u></a></li>
+</ul></div>
+

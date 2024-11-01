@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage: 4 Methods for Accessing Windows Disk Manager"
-date: 2024-09-13T07:50:50.069Z
-updated: 2024-09-16T22:23:22.900Z
+date: 2024-10-26T18:42:00.819Z
+updated: 2024-11-01T16:59:49.295Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,32 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Search for Disk Management in Windows
 
 [The search feature in Windows 10 and 11](https://www.makeuseof.com/windows-search-use-guide/) lets you open any app on your computer, no matter where it's stored. You can use it to launch a built-in utility like Disk Management too. However, the search results may confuse you since Disk Management doesn't directly show up here. Let's clarify this:
@@ -61,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
- When the program opens, you'll be able to see your connected drives and start managing their partitions.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 ## 3\. Use the Run Dialog to Open Disk Management
 
@@ -78,20 +104,14 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -105,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -129,5 +142,24 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-seamless-integration-iphone-video-editing-guide/"><u>[New] 2024 Approved Seamless Integration IPhone Video Editing Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preparing-for-a-mobile-cinematic-experience/"><u>[Updated] Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-monetizing-media-earnings-analysis-for-pewdiepie/"><u>2024 Approved Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-g24-power-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola G24 Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-control-over-standard-users-rights-in-windows/"><u>Enhancing Control Over Standard Users' Rights in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-overcome-windows-11s-dll-faults/"><u>Essential Strategies to Overcome Windows 11'S DLL Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-failed-write-operations-in-windows/"><u>Handling Failed Write Operations in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-f23-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo F23 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-unidentified-wi-fi-networks-in-windows-11/"><u>How to Revive Unidentified Wi-Fi Networks in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-explore-8-leading-youtube-growth-strategies/"><u>In 2024, Explore 8 Leading Youtube Growth Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-netizen-chucklers-aid/"><u>In 2024, Netizen Chuckler's Aid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-the-taskbar-essential-changes-for-windows-11-enhancement/"><u>Reimagining the Taskbar: Essential Changes for Windows 11 Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-unknown-hardware-on-windows-oses/"><u>Resolving 'Error Code: Unknown Hardware' On Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-reactivate-non-responsive-keyboard-shortcuts-for-brightness-control-in-windows-11/"><u>Tips to Reactivate Non-Responsive Keyboard Shortcuts for Brightness Control in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-loyalty-seven-reasons-to-maintain-the-status-quo/"><u>Windows 10 Loyalty: Seven Reasons to Maintain the Status Quo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-fix-enabling-visibility-for-headphones-in-media-controls/"><u>Windows 11 Audio Fix: Enabling Visibility for Headphones in Media Controls</u></a></li>
+</ul></div>
 

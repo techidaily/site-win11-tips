@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Fading Frames: Enhancing VLC Performance"
-date: 2024-09-11T01:20:43.544Z
-updated: 2024-09-12T01:20:43.544Z
+date: 2024-10-30T17:37:29.077Z
+updated: 2024-11-01T16:06:26.567Z
 tags:
   - windows10
   - windows11
@@ -54,20 +54,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 
  Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 4\. Disable In-Loop Deblocking Filter
 
  Another thing you can do to fix video lag in VLC is to disable the loop filter for H.264 decoding. Here's how to do it.
@@ -77,19 +63,12 @@ Restart the VLC app after this and see if the video plays smoothly.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Change the Caching Value
 
@@ -106,19 +85,19 @@ Restart the VLC app after this and see if the video plays smoothly.
 7. Click the**Save** button.  
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset the VLC Preferences
 
@@ -134,19 +113,12 @@ To reset your VLC media player preferences, use these steps:
 
 Restart the VLC media player and check if the videos still lag.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Update or Reinstall VLC Media Player
 
@@ -158,19 +130,12 @@ To check for pending updates in the VLC media player:
 2. Click the**Help** menu at the top and select**Check for Updates** .  
 ![Check for Updates in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-for-updates-in-vlc.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If an update is available, follow the on-screen prompts to install it. After that, videos should play smoothly on Windows.
 
@@ -183,35 +148,7 @@ To check for pending updates in the VLC media player:
 5. Select**Uninstall** once again to confirm.  
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
@@ -219,14 +156,11 @@ To check for pending updates in the VLC media player:
 
  Although VLC is a popular media player for Windows, it is not your only option. There are plenty of excellent media player apps available for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,4 +169,24 @@ To check for pending updates in the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-obs-vs-shadowplay/"><u>[New] In 2024, OBS vs ShadowPlay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-zoom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[Updated] Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-essential-steps-for-dealing-with-windows-http-error-0x80860010/"><u>7 Essential Steps for Dealing with Windows' HTTP Error 0X80860010</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-method-for-clean-booting-on-windows-11-systems/"><u>A Step-by-Step Method for Clean Booting on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-excessive-tiworkerexe-cpu-usage-issue/"><u>Addressing Excessive TiWorker.exe CPU Usage Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-strengths-of-win11-in-compare-with-macos/"><u>Analyzing the Strengths of Win11 in Compare with MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augmenting-task-manager-functionality-in-windows-11-with-cli/"><u>Augmenting Task Manager Functionality in Windows 11 with CLI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/behind-the-scenes-why-the-ascent-failed-to-hit-shelves-on-schedule/"><u>Behind The Scenes: Why 'The Ascent' Failed to Hit Shelves on Schedule</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284325307-chrome-opening-woes-resolved-fast-fixed-for-windows-11-users/"><u>Chrome Opening Woes Resolved: Fast Fixed for Windows 11 Users.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chronic-inflammation/"><u>Chronic Inflammation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719331271081-dual-virus-scanners-think-twice-windows/"><u>Dual Virus Scanners? Think Twice, Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-k11x-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to K11x Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-galaxy-s23-ultra-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-display-driver-troubleshooting-for-windows-users-fixes-for-win11-win7-and-win81/"><u>LG Display Driver Troubleshooting for Windows Users: Fixes for Win11, Win7 & Win8.1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719310221725-tame-frozen-windows-handbraked-beast/"><u>Tame Frozen Windows-Handbraked Beast!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/trois-facons-efficaces-de-reprendre-multiples-base-de-donnees-dans-sql-server/"><u>Trois Façons Efficaces De Reprendre Multiples Base De Données Dans SQL Server</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-the-truth-debunking-mlm-strategies-and-deceptive-practices-with-massmail-software/"><u>Unveiling the Truth: Debunking MLM Strategies and Deceptive Practices with MassMail Software</u></a></li>
+</ul></div>
 

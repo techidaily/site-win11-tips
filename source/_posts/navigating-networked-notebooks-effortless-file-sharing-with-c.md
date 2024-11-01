@@ -1,7 +1,7 @@
 ---
 title: "Navigating Networked Notebooks: Effortless File Sharing with C"
-date: 2024-10-21T22:33:19.090Z
-updated: 2024-10-26T20:27:13.571Z
+date: 2024-10-29T16:28:03.587Z
+updated: 2024-11-01T17:18:13.743Z
 tags:
   - windows10
   - windows11
@@ -57,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
 
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Windows Shared Folders
 
@@ -76,15 +83,16 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 1. Run your favorite file manager and visit the path "directly above" your cloud storage folder (so that you can see it in your file manager).  
 ![Dropbox Folder In Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-in-windows-explorer.jpg)
 2. Right-click on the folder and choose **Properties**.  
-![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
-3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
+3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
 
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
 
@@ -99,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 2. Right-click on it and choose **Map network drive**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
@@ -110,16 +118,16 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What About Using Subst?
 
@@ -135,13 +143,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -152,20 +153,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>[New] ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/xploring-nextgen-videostreaming-platforms-for-2024/"><u>[New] Exploring NextGen Videostreaming Platforms for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-leading-speech-gatherers-in-educational-environments-for-2024/"><u>[Updated] Leading Speech Gatherers in Educational Environments for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[Updated] Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-engagement-customizing-your-shorts-first-impressions/"><u>Boosting Engagement Customizing Your Shorts' First Impressions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-ppt-shows-with-advanced-techniques/"><u>Elevate Your PPT Shows with Advanced Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-productivity-the-most-compelling-task-list-software-on-windows-11/"><u>Harnessing Productivity: The Most Compelling Task List Software on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-inconsistent-windows-printers/"><u>Steps for Stabilizing Inconsistent Windows Printers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-windows-11s-system32-folder-way/"><u>Uncover the Windows 11'S System32 Folder Way</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +160,21 @@ subst Z: "C:\Cloud Drives\Dropbox"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-12-tycoon-masterpieces-for-unparalleled-gaming-bliss/"><u>[Updated] 2024 Approved Top 12 Tycoon Masterpieces for Unparalleled Gaming Bliss</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-google-pixel-7a-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Google Pixel 7a Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-spectacular-time-lapses-from-gopro-hdrs-for-2024/"><u>Crafting Spectacular Time Lapses From GoPro HDRs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-win-tricks-to-monitor-full-batteries/"><u>Expert Win Tricks to Monitor Full Batteries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-blank-slate-to-masterpiece-windows-11-desk-drawing-guide/"><u>From Blank Slate to Masterpiece: Windows 11 Desk Drawing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-driver-signature-enforcement-and-install-unsigned-drivers-on-windows/"><u>How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016429293-how-to-get-the-voice-chat-function-back-on-in-discord-solutions-here/"><u>How To Get The Voice Chat Function Back On In Discord - Solutions Here!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>In 2024, Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-heat-efficiency-in-your-windows-11-computer/"><u>Managing Heat Efficiency in Your Windows 11 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-nier-automata-on-your-computer-overcome-stutter-and-lag-problems-today/"><u>Mastering Nier: Automata on Your Computer - Overcome Stutter and Lag Problems Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-linux-experience-via-windows-resources/"><u>Optimizing Linux Experience via Windows Resources</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-desk-view-including-this-pc-on-the-screen/"><u>Personalize Desk View: Including 'This PC' On the Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-uninstalling-older-windows-oses-causing-errors/"><u>Solutions for Uninstalling Older Windows OSes Causing Errors</u></a></li>
+</ul></div>
+

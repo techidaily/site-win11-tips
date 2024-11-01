@@ -1,7 +1,7 @@
 ---
 title: Quick Uninstallation Tips for Non-Functioning Printers on Win 10/11
-date: 2024-09-11T01:23:41.336Z
-updated: 2024-09-12T01:23:41.336Z
+date: 2024-10-27T18:07:45.104Z
+updated: 2024-11-01T18:17:26.948Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
  You can remove any connected printer from the Settings panel. If that does not work, you can use the Command Prompt and other ways to remove the printer. Here, we show you the many ways to delete a printer on Windows computers.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. How to Remove a Printer From Windows via Settings
 
@@ -40,35 +37,7 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Remove Printer Option in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-settings.jpg)
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If you encounter an error, stop the Print Spooler service in the Services snap-in and try again!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Stop the Print Spooler Service
 
@@ -87,25 +56,18 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Print Spooler Service Start Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start-1.jpg)
 8. Right-click on **Print Spooler** and select **Start**.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
 
 ## 2\. Remove the Printer Software to Delete the Printer
 
 ![Remove HP Printer Software in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/hp-printer-remove-software.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the deleted printer option still appears, you can remove the printer driver associated with the device to uninstall it completely. You can remove the driver using the Apps & feature tab in Windows 10 and 11\.
 
@@ -119,19 +81,12 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 6. Wait for the driver to uninstall, then look for any other drive or software associated with the printer and remove them too.
 7. Once uninstalled, restart your PC.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Remove the Printer Using the Control Panel
 
@@ -149,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 6. Right-click on the printer and select **Remove Device.**
 7. Click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the Printer Using Windows' Print Server Properties
 
  Sometimes, removing the printer device does not remove the drivers completely and can [cause your printer to stop working](https://www.makeuseof.com/windows-11-printer-not-working/). In such a situation, you can use the Print Server Properties dialog to remove the installed printer drivers.
@@ -161,37 +123,32 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Hardware and Sound Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound-1.jpg)
 4. Select any available printer and click on **Print server properties.**  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Print Server Properties Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-server-properties.jpg)
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Under **Installed printer drivers**, select the printer driver to uninstall and click **Remove**.  
 ![Print Server Properties Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-driver-prin-server-properties.jpg)
 7. Next, select the **Remove driver and driver package** option.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
@@ -207,22 +164,24 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 3. In Device Manager, click on **View** and select **Show hidden devices.**  
 ![Device Manager App With Show Hidden Devices Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/device-manager-show-hidden-devices.jpg)
 4. Next, expand the **Printers** section to view your printer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click on the printer and select **Uninstall device.**  
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
@@ -244,20 +203,6 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 5. In the above command, replace **Your\_Printer\_Name** with the name of your printer.
 6. Hit **Enter** to execute the command.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 7\. Remove the Printer Drive Using Print Management
 
  Print Management is a Windows utility controlling printers, drivers, ports, and servers. You can use the tool to remove printer drivers from your Windows computer. The Print Management utility is not available in the Home edition of the Windows operating system.
@@ -269,62 +214,28 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Open Print Management Using Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-print-management.jpg)
 3. In the left pane, expand the **Print Servers** section,
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Click on your **Local Printer** server name to expand it.
 5. Next, select **Printers** to view all the installed printers.  
 ![Delete a Printer Using the Print Management Snap-in On Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-printer-print-management-windows.jpg)
 6. In the right pane, select and right-click on the printer you want to remove.
 7. Select **Delete** and click **Yes** to confirm the action.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 8\. Delete a Printer Driver with PowerShell
 
 ![PowerShell Console Running the Remove Printer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-printer-powershell.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Alternatively, you can delete the printer driver package using PowerShell as an alternative to Print Management. This is also a quicker way to remove multiple printers in your Windows computer.
 
@@ -338,37 +249,11 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 `Remove-PrinterDriver -Name "Printer-Name"`
 5. In the above command, replace Printer-Name with the printer name you want to remove.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## The Many Ways to Remove a Printer in Windows 10 and 11
 
  You can easily remove a printer in Windows using the Settings panel. However, if the deleted printer keeps reappearing, you can use the print server properties, Command Prompt, or delete the printer software to remove the printer altogether.
 
  You can remove any connected printer from the Settings panel. If that does not work, you can use the Command Prompt and other ways to remove the printer. Here, we show you the many ways to delete a printer on Windows computers.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -377,3 +262,23 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-erasing-extra-borders-for-smooth-youtube-playback/"><u>[New] 2024 Approved Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-infusing-action-into-photos-using-illustrators-features-for-2024/"><u>[New] Infusing Action Into Photos Using Illustrator's Features for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discover-the-13-essential-earning-tactics-for-novices-on-reddit/"><u>[Updated] In 2024, Discover the 13 Essential Earning Tactics for Novices on Reddit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-overcoming-fixed-color-voids-in-recording-software/"><u>[Updated] Overcoming Fixed Color Voids in Recording Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-website-with-cookiebot-technology/"><u>Boost Your Website with Cookiebot Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertir-vos-fichiers-pdf-en-images-jpeg-gratuitement-avec-le-convertisseur-de-fichiers-en-ligne-de-movavi/"><u>Convertir Vos Fichiers PDF en Images JPEG Gratuitement Avec Le Convertisseur De Fichiers en Ligne De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-back-on-overloaded-resources-for-streamers/"><u>Cutting Back on Overloaded Resources for Streamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-productivity-the-role-of-16gb-ram/"><u>Enhancing Windows Productivity: The Role of 16GB RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-a-disk-read-error-occurred-error-on-windows/"><u>How to Fix the “A Disk Read Error Occurred” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-eradicating-photo-failed-on-pc/"><u>Quick Guide: Eradicating Photo Failed on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-unaccessible-package-dilemma-in-windows-11-10/"><u>Remedying the 'Unaccessible Package' Dilemma in Windows 11, 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-lenovo-pcs-a-comprehensive-walkthrough-of-factory-default-procedures/"><u>Resetting Lenovo PCs – A Comprehensive Walkthrough of Factory Default Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-connectivity-problems-with-fall-guys-on-pc/"><u>Resolving Connectivity Problems with Fall Guys on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-bothering-with-extra-windows-tips-notifications/"><u>Stop Bothering with Extra Windows Tips Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-system-repair-the-essence-of-chkdsk-and-sfc/"><u>Understanding System Repair: The Essence of CHKDSK & SFC</u></a></li>
+</ul></div>
+

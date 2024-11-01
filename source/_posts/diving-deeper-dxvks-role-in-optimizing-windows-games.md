@@ -1,7 +1,7 @@
 ---
 title: "Diving Deeper: DXVK's Role in Optimizing Windows Games"
-date: 2024-10-20T21:42:56.551Z
-updated: 2024-10-26T16:40:30.477Z
+date: 2024-10-26T19:19:27.709Z
+updated: 2024-11-01T17:10:27.221Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  Microsoft, and the creators of GPUs that support the Direct3D API (as in "Nvidia, AMD, and Intel"), have occasionally dropped support for features introduced in past versions of Direct3D but which never gained traction. Thus, some older games might fail to run correctly on a modern GPU with the newest versions of Direct3D.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Vulkan?
 
  Supposedly a more "open" answer to Microsoft's closed-source Direct3D, OpenGL was a mutated version of the 3D graphics libraries used in Silicon Graphics' graphics workstations.
@@ -43,18 +50,24 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  That was the short version. To learn more about Vulkan, check our article on [what Vulkan run time libraries are in Windows](https://www.makeuseof.com/tag/vulkan-run-time-libraries-windows/).
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is DXVK?
 
  DXVK is a wrapper, "translating" Direct3D to Vulkan. In the human world, a translator can be a mediator between an English and a Japanese speaker, enabling them to understand one another. Similarly, "wrappers", or "translation layers", can "take" code written for a specific piece of hardware, platform, or API, and translate it to run on another.
 
  DXVK was originally developed for Linux with support from Valve, which also uses it on SteamOS and the Steam Deck. You can learn more about that in our article where we saw [what is Steam Proton and how it runs Windows games on Steam Deck](https://www.makeuseof.com/what-is-steam-proton-how-does-it-run-windows-games-on-steam-deck/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Should You Use DXVK on Windows?
 
@@ -74,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  It's probably easier if we go through the whole process together to see how you can download the latest version of DXVK, identify your game's "tech", and install the correct DLLs in the proper folder.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Download DXVK
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
@@ -83,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Choose the Correct DXVK Version
 
  If you need to know which version of Direct3D your game is using, the PC Gaming Wiki website can help.
@@ -90,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 1. Visit [PC Gaming Wiki](https://pcgamingwiki.com/) with your browser, and use the search field on the top right to seek the game to which you want to add DXVK.
 2. When you find your game, visit its page and scroll down to reach the **Other Information** section. Turn your attention to the API tables. There, on the **Technical Specs** and **Supported** columns, you will see the version of Direct3D your game is using. Underneath, the **Executable**, **32-bit**, and **64-bit** columns will "tell" you which architecture you should choose.  
 ![PCGamingWiki Game API Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pcgamingwiki-game-api-information-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add DXVK to Your Games
 
@@ -108,16 +128,22 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 ![DXVK 32 bit and 64 bit folders within archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-32-bit-and-64-bit-folders-within-archive-1.jpg)
 3. Select the **DXGI.DLL** plus the correct DLL for the version of **Direct3D** your game is using. As you will see, there are three more DLLs, one for each of the previous versions of Direct3D: 9, 10, and 11.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![DXVK DLLs Within Archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-dlls-within-archive-1.jpg)
 4. Find the local folder where your game is installed and locate the subfolder with its executable ("the file from which the game runs"). Extract the DLLs from the previous step to this folder.  
 ![Extracting DXVK DLLs To Game Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracting-dxvk-dlls-to-game-directory-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Test and Benchmark Your Enhanced Game
 
@@ -127,26 +153,13 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
 ![Arkham-City-Instant-Transitions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arkham-city-instant-transitions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, the game's action felt smoother. Transitions between screens, loading levels, and pressing Alt + Tab were almost instant with DXVK.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When You Should Not Use DXVK
@@ -156,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 ### 1\. DXVK Doesn't Improve the Game's Performance
 
  If you've added the DXVK DLLs to your game but saw no difference afterward, you can remove them again if you like. You can delete the DLLs you've added to a game's folder to do that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. DXVK Causes Worse Performance or Introduces New Glitches
 
@@ -170,33 +190,19 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
  DXVK might not be "cheating", but it's still a "game modification", and could get flagged as such.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. The Game Already Has Built-In Vulkan Support
 
  If a game already uses the Vulkan API, like Doom Eternal, there's no reason to set its output to Direct3D to then translate it to Vulkan.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. The Game Uses Direct3D 12
 
  Since Direct3D 12 is almost fully on par with Vulkan, there's nothing to gain by translating one ultra-modern graphics API to another one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enhance Your Old Games With "Translated" 3D on Windows
 
@@ -206,24 +212,6 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
 
  Would you like better compatibility and, more importantly, performance for your apps and games? Then you need to try out DXVK.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-strategies-for-sourcing-video-content-with-google-trends/"><u>[New] In 2024, Strategies for Sourcing Video Content with Google Trends</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-key-tips-for-optimal-live-sports-content-capture/"><u>[New] Key Tips for Optimal LIVE Sports Content Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-funnyframe-easy-memes-no-stress-for-2024/"><u>[Updated] FunnyFrame Easy Memes, No Stress for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-tech-triumphs-10-high-definition-screen-recorder-tools/"><u>[Updated] In 2024, Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>[Updated] The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-action-cameras-for-hunting/"><u>2024 Approved Top 5 Best Action Cameras for Hunting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-humor-picture-processor/"><u>Best Humor Picture Processor</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/boost-site-engagement-and-tracking-using-the-innovative-cookiebot-technology/"><u>Boost Site Engagement and Tracking Using the Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-window-lock-out-duration-in-windows/"><u>Customize Window Lock-Out Duration in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-your-computers-ip-and-mac-with-powershell/"><u>Navigate Your Computer's IP and MAC with Powershell</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/perplexing-perspective-shifts-in-instagram-video-feeds/"><u>Perplexing Perspective Shifts in Instagram Video Feeds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/previewing-windows-wonders-with-vivetool-capabilities/"><u>Previewing Windows Wonders with ViVeTool Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-copilot-from-your-windows-environment/"><u>Removing Copilot From Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-user-rights-configuration-in-terminal/"><u>Troubleshooting User Rights Configuration in Terminal</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -231,3 +219,23 @@ thumbnail: https://thmb.techidaily.com/b3641ebe2988ec7265ef07a79816e61c990d023d2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dynamic-subscriber-buttons-for-video-creators-filmora-edition-for-2024/"><u>[New] Dynamic Subscriber Buttons for Video Creators - Filmora Edition for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[Updated] 2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-efficient-and-user-friendly-web-tracking-solutions/"><u>Cookiebot: Efficient and User-Friendly Web Tracking Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-waterproof-is-the-iphone-15/"><u>How Waterproof Is the iPhone 15?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-12-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme 12 5G FRP Without Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-conquer-format-missing-on-windows/"><u>Methods to Conquer Format Missing On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-issue-in-win-11/"><u>Mitigating Missing File Detection Issue in Win 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-exploring-the-capabilities-of-avs-audio-software-a-deep-dive-into-features-ratings-and-options/"><u>New 2024 Approved Exploring the Capabilities of AVS Audio Software – A Deep Dive Into Features, Ratings, and Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-phantom-device-mistake-in-windows-1011/"><u>Resolving Phantom Device Mistake in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-incompatibility-on-windows-without-tools/"><u>Revolutionize Incompatibility on Windows without Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-troublesome-downloads-in-windows-11-networks-2/"><u>Tackling Troublesome Downloads in Windows 11 Networks (2)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizards-a-how-to-for-cortana-data-extraction/"><u>Windows Wizards: A How-To for Cortana Data Extraction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-playstation-3-controller-setup-on-windows-without-motioninjoy/"><u>Wireless PlayStation 3 Controller Setup on Windows Without MotionINJoy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wp-apps-face-off-intel-unison-or-microsofts-phone-link/"><u>WP Apps Face-Off: Intel Unison or Microsoft's Phone Link?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Studies: Top 8 Tips on a Windows Computer"
-date: 2024-10-20T20:27:05.068Z
-updated: 2024-10-26T23:03:46.563Z
+date: 2024-10-28T18:45:52.616Z
+updated: 2024-11-01T19:30:29.124Z
 tags:
   - windows10
   - windows11
@@ -56,33 +56,35 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 2. Run the Google Drive installer file and click on **Install**.  
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
 3. Click **Launch** and log in with your primary Google account.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
 5. Click on the **Add folder** button and select the main folder location that you created before.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
-![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
 
@@ -108,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -128,29 +123,23 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
@@ -173,13 +162,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Install ChatGPT on Your PC
 
  ChatGPT is making a buzz in the education industry. It is gradually changing the way you gather information and write documents.
@@ -188,7 +170,21 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -198,24 +194,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
  As a student, you can get the most out of your Windows PC with just a few tweaks. Want to know some useful ones? In this article, we’ll show you some of the best ways to set up your Windows PC like a pro.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-discover-your-new-favorites-with-our-best-offline-ios-games-list/"><u>[New] Discover Your New Favorites with Our Best Offline iOS Games List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-electorate-engagement-experience-top-gaming-selections/"><u>[New] In 2024, Electorate Engagement Experience Top Gaming Selections</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[New] In 2024, The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-understanding-earnings-potential-per-video-consumption/"><u>[New] Understanding Earnings Potential per Video Consumption</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-easy-nft-creation-a-novices-manual/"><u>[Updated] Mastering Easy NFT Creation A Novice's Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-fresh-windows-11-approach-to-system-cleanliness/"><u>A Fresh Windows 11 Approach to System Cleanliness</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/abridged-blueprint-for-starting-virtual-conversations-zoom-edition-for-2024/"><u>Abridged Blueprint for Starting Virtual Conversations Zoom Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-improving-win11-point-accuracy-and-size/"><u>Guide to Improving Win11' Point Accuracy & Size</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rescue-your-vscode-session-w11/"><u>How to Rescue Your VSCode Session W11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/making-sense-of-english-language-contractions-strategies-and-tips/"><u>Making Sense of English Language Contractions: Strategies and Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y78t-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y78t Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweak-windows-11-shutdown-procedure-for-active-operations/"><u>Tweak Windows 11 Shutdown Procedure for Active Operations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -223,3 +201,20 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-your-windows-audio-system-with-updates/"><u>Breathe New Life Into Your Windows Audio System with Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-firewallantivirus-grant-chrome-network-access-in-windows/"><u>Bypass Firewall/Antivirus: Grant Chrome Network Access in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-xbox-games-access-issue-code-0x800700e9-in-windows/"><u>Bypassing Xbox Games Access Issue Code 0X800700E9 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capture-your-thoughts-no-additional-software-needed/"><u>Capture Your Thoughts, No Additional Software Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-woes-on-windows-11-a-fixers-guide-to-reopening-it/"><u>Chrome Woes on Windows 11: A Fixer’s Guide to Reopening It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-mobile-mirroring-techniques-watch-your-android-content-on-a-firestick/"><u>Easy Mobile Mirroring Techniques: Watch Your Android Content on a Firestick</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>In 2024, The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfectly-synchronized-clip-composites-via-modes-for-2024/"><u>Perfectly Synchronized Clip Composites via Modes for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-latest-epson-printer-driver-on-your-windows-pc/"><u>Simple Steps: Installing the Latest Epson Printer Driver on Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-dota-2-audio-how-to-restore-voice-chat-functionality/"><u>Troubleshooting Your Dota 2 Audio: How to Restore Voice Chat Functionality</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency: Automating File Transfer in W11"
-date: 2024-10-25T20:17:49.513Z
-updated: 2024-10-26T21:23:07.156Z
+date: 2024-10-30T16:14:47.682Z
+updated: 2024-11-01T16:56:06.208Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Place Selected Files Into a New Folder With TeraCopy
 
  TeraCopy is freeware software for Windows 11, 10, 8, and 7 that enables users to set up and automate move and copy file operations. Once you integrate TeraCopy with Explorer’s context menu, it will add a **New folder with selection** option you can click to quickly put the selected files into a new folder.
@@ -61,20 +68,20 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 5. Make sure the **Add to Explorer context menu** option is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
@@ -85,55 +92,21 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 3. Then input a title for your new folder and press **Enter**.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-easy-way-change-clownfish-tone-in-windows/"><u>[New] In 2024, Easy Way Change Clownfish Tone in Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-perfect-setup-for-travel-storytelling-for-2024/"><u>[New] The Perfect Setup for Travel Storytelling for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-digitizing-internet-radio-programming-for-2024/"><u>[Updated] Essential Tips for Digitizing Internet Radio Programming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-dilemran-of-winscripterrors/"><u>Deciphering the Dilemran of WinScriptErrors</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-review-how-asatas-xpg-sx82n0-pro-dominates-in-reliable-and-efficient-disk-imaging-software/"><u>Expert Review: How ASATA's XPG SX82n0 Pro Dominates in Reliable and Efficient Disk Imaging Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled/"><u>Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-model-names-unraveling-your-device-in-six-easy-ways/"><u>Mastering Model Names: Unraveling Your Device in Six Easy Ways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-smooth-asana-operations-on-pcs/"><u>Restoring Smooth Asana Operations on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reveal-and-resolve-the-missing-wi-fi-menu-issue-in-windows-11/"><u>Reveal & Resolve the Missing Wi-Fi Menu Issue in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-enable-digital-supervision-in-windows-11-pcs/"><u>Steps to Enable Digital Supervision in Windows 11 PCs</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +115,27 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-the-10-most-reliable-youtube-to-webm-transformers-for-2024/"><u>[New] Unveiling the 10 Most Reliable YouTube-to-WebM Transformers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-photos-advanced-hdr-portraiture-methods/"><u>2024 Approved Elevate Your Photos Advanced HDR Portraiture Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-8-exceptional-mirrorless-cameras-for-vloggers/"><u>2024 Approved Unveiling 8 Exceptional Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discovering-the-secrets-seamless-video-sharing-on-discord-for-2024/"><u>Discovering the Secrets Seamless Video Sharing on Discord for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-device-efficiency-surface-computers-firmware-update-processes/"><u>Enhancing Device Efficiency: Surface Computers' Firmware Update Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcoming-microsoft-store-crashes-0x80073d26-fix/"><u>Guide to Overcoming Microsoft Store Crashes: 0X80073D26 Fix</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-itel-a70-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Itel A70 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-brighten-up-dark-windows-display/"><u>Methods to Brighten Up Dark Windows Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-energy-spike-during-intense-gaming-on-windows/"><u>Minimizing Energy Spike During Intense Gaming on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/relocating-qbittorrent-on-windows-a-comprehensive-instructional-walkthrough/"><u>Relocating qBittorrent on Windows: A Comprehensive Instructional Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-reset-account-lockout-after-incorrect-passwords-on-windows-11/"><u>Revamping the Reset Account Lockout After Incorrect Passwords on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-virtual-reality-how-stanfords-innovative-use-of-artific/"><u>Revolutionizing Virtual Reality: How Stanford's Innovative Use of Artific</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-techniques-to-boost-speed-in-spotify-listening/"><u>Secure Techniques to Boost Speed in Spotify Listening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-office-tasks-with-powerful-windows-shortcuts/"><u>Speed Up Office Tasks With Powerful Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-frozen-windows-run-logs/"><u>Unfreezing Frozen Windows Run Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-truth-how-to-detect-your-hard-drivessd-status-in-windows/"><u>Unveiling the Truth: How to Detect Your Hard Drive/SSD Status in Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-free-video-editing-software-for-32-bit-windows/"><u>Updated 2024 Approved Best Free Video Editing Software for 32-Bit Windows</u></a></li>
+</ul></div>
+

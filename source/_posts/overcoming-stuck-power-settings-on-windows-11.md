@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stuck Power Settings on Windows 11
-date: 2024-10-25T19:12:42.525Z
-updated: 2024-10-27T00:00:55.862Z
+date: 2024-10-26T16:17:17.899Z
+updated: 2024-11-01T16:37:31.751Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -55,9 +48,24 @@ Here is how you can proceed:
 4. Now, look for**Power options** and click on it.  
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
 
@@ -75,27 +83,27 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -123,23 +131,9 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -148,6 +142,13 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -170,14 +171,20 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-excellence-in-offline-speech-recognition-software/"><u>[New] Excellence in Offline Speech Recognition Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-strategic-approaches-to-googles-podcast-submission-protocol/"><u>2024 Approved Strategic Approaches to Google’s Podcast Submission Protocol</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-windows-net-runtime-requirement-hurdle/"><u>Avoiding Windows' .NET Runtime Requirement Hurdle</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/boosting-vimeo-content-delivery/"><u>Boosting Vimeo Content Delivery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-the-winners-apple-pencil-pro-vs-apple-pencil-2-for-optimal-ipad-use-insights-from-zdnet/"><u>Comparing the Winners: Apple Pencil Pro Vs. Apple Pencil 2 for Optimal iPad Use - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-fix-iphone-and-ipad-calender-sync-problems-uncover-3-proven-techniques/"><u>How To Fix iPhone and iPad Calender Sync Problems - Uncover 3 Proven Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-windows-11s-file-order-preferences/"><u>Realigning Windows 11'S File Order Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-connection-attempted-bluetooth-hiccup-on-pcs/"><u>Solving 'Connection Attempted' Bluetooth Hiccup on PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-name-game-for-top-podcast-titles/"><u>[New] Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-hidden-history-in-your-browser-how-to-tackle-in-2024/"><u>[New] The Hidden History in Your Browser How to Tackle, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-rotating-iphone-photos-for-perfect-angles-for-2024/"><u>[Updated] Rotating iPhone Photos for Perfect Angles for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-chucklecreators-sign-up-for-fun-filmmaking/"><u>2024 Approved ChuckleCreators Sign Up for Fun Filmmaking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fix-for-sudden-audio-gaps-in-obs-captures/"><u>2024 Approved Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-pc-qbittorrent-migration-tips-and-techniques/"><u>Cross-PC qBittorrent Migration Tips & Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-refreshing-your-gpu-driver-in-windows/"><u>Essential Tips for Refreshing Your GPU Driver in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-abruptly-remove-non-functional-printers-in-windows-os/"><u>How to Abruptly Remove Non-Functional Printers in Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-x50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor X50 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-language-dialogues-with-windows-11-keyboard-combinations/"><u>Mastering Cross-Language Dialogues with Windows 11 Keyboard Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x8007251d-validation-and-solutions/"><u>Overcoming Windows Error 0X8007251D: Validation and Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-cmd-window-set-as-default/"><u>Personalize Your CMD Window: Set as Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-policy-enforcement-one-user-multiple-windows-versions/"><u>Personalized Policy Enforcement: One User, Multiple Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-persistent-crashes-in-age-of-empires-iv-pc-edition/"><u>Resolved: Persistent Crashes in Age of Empires IV – PC Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Note 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

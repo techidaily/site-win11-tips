@@ -1,7 +1,7 @@
 ---
 title: Tips to Troubleshoot AnyDesk Not Responding in WIndows 11
-date: 2024-10-19T19:21:55.800Z
-updated: 2024-10-26T20:23:57.474Z
+date: 2024-10-28T18:11:51.316Z
+updated: 2024-11-01T19:07:14.794Z
 tags:
   - windows10
   - windows11
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  After the restart, open the AnyDesk app and check if the problem continues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the AnyDesk App Server Status
 
 ![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Like any other online service, AnyDesk can experience server outages anytime. When the servers are down, you won't be able to use or open the app at all.
 
@@ -73,6 +73,14 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 5. Select the**Allow an app through Windows Firewall** option under**Windows Defender Firewall** section.  
 ![Allow an app through Firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-firewall.jpg)
 6. Click the**Change settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. In the**Allowed apps and features** list, search for the**AskDesk** app.
 8. Check the**Private** and**Public** checkboxes for the AnyDesk app.  
 ![AnyDesk in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/anydesk.jpg)
@@ -92,23 +100,16 @@ Here are the steps you need to follow:
 ![Additional Clocks option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-clocks.jpg)
 4. In the**Date and Time** window that crops up, switch to the**Internet Time** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the**Change settings** button.
 6. Check the**Synchronize with an Internet time server** box, and then click the**Update now** button.  
 ![Update now option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-now-option.jpg)
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Try Networking Command Prompt Commands
@@ -133,13 +134,6 @@ That's it. Check if you're still facing the problem.
 
  If you're interested in these commands, you can read about them (and more) in our guide on the[CMD commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Clean Boot
 
  AnyDesk app may not work on your computer if it faces any interference from a background program. The solution, in this case, is to[perform a clean boot on your computer](https://www.makeuseof.com/clean-boot-windows-11/) . It'll only load important drivers and applications and stop the rest. Doing this will ensure whether a background program is causing trouble with the AnyDesk app.
@@ -154,6 +148,13 @@ To perform a clean boot, follow the below steps:
 5. The Task Manager will appear with the Startup program section. Find and right-click on all the startup applications and choose**Disable.**
 6. Click the**OK** button in the System Configuration window. Restart your computer and launch the AnyDesk app to check if the problem continues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 . Update the AnyDesk App
 
  If you haven't updated the AnyDesk app in a while, you can face issues while launching it. As it turns out, older app versions can have bugs that impede their working and usability.
@@ -167,10 +168,16 @@ You can update the AnyDesk app by following the below instructions:
 ![Enable Auto Update option in AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-auto-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AnyDesk will now automatically download any available update on your computer.
@@ -196,20 +203,15 @@ You can update the AnyDesk app by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[New] In 2024, Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-be-the-best-lifeguard-at-your-friends-tiktok-shores/"><u>[Updated] Be the Best Lifeguard at Your Friends’ TikTok Shores</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-farewell-frameworks-free-to-subscription-options-here-for-2024/"><u>[Updated] Farewell Frameworks Free to Subscription Options Here for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-finding-the-perfect-recorders-outside-microsofts-ecosystem-for-2024/"><u>[Updated] Finding the Perfect Recorders Outside Microsoft's Ecosystem for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-muted-slack-notifications-on-windows-11/"><u>Addressing Muted Slack Notifications on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-screen-failure-during-boot-up-in-windows-11/"><u>Addressing Screen Failure During Boot-Up in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chaos-or-evolution-ai-beyond-boundaries/"><u>Chaos or Evolution? AI Beyond Boundaries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-reference-to-non-existent-token-errors-in-win11/"><u>Correcting “Reference to Non-Existent Token” Errors in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-1011s-trouble-solving-capabilities/"><u>Enhancing Windows 10/11'S Trouble-Solving Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expedite-your-browser-eliminating-youtube-stalls-in-chrome/"><u>Expedite Your Browser: Eliminating YouTube Stalls in Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-productivity-essential-windows-based-tools-listed/"><u>Revolutionize Productivity: Essential Windows-Based Tools Listed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-revolutionize-your-job-search-top-video-resume-makers-and-free-templates-for-2024/"><u>Updated Revolutionize Your Job Search Top Video Resume Makers and Free Templates for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-design-thinking-for-podcasters-constructing-efficient-rss-files/"><u>[New] In 2024, Design Thinking for Podcasters Constructing Efficient RSS Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-iphonesideways-capturing-the-moment/"><u>[New] In 2024, Easy iPhonesideways Capturing the Moment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-bots-top-9-reasons-for-choosing-chatgpt-plus/"><u>Boosting Bots: Top 9 Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-notification-preferences-in-windows-11/"><u>Customizing Notification Preferences in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expedited-pitch-modification-tools-repository-for-2024/"><u>Expedited Pitch Modification Tools Repository for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-s17-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo S17 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-se-2022-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone SE (2022)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-way-to-group-policies-on-windows/"><u>Navigate Your Way to Group Policies on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-way-into-a-windows-shared-location/"><u>Secure Your Way Into a Windows Shared Location</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zeroing-in-on-the-winerror-0x80072746-email-mishaps/"><u>Zeroing in on the WinError 0X80072746 Email Mishaps</u></a></li>
 </ul></div>
 

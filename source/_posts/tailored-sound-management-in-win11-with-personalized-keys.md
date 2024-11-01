@@ -1,7 +1,7 @@
 ---
 title: Tailored Sound Management in Win11 with Personalized Keys
-date: 2024-10-25T21:28:03.213Z
-updated: 2024-10-26T16:14:48.966Z
+date: 2024-10-27T16:50:29.683Z
+updated: 2024-11-01T18:44:03.162Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Mute Hotkey
@@ -77,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
  Don’t delete the Mute desktop shortcut. Deleting that shortcut will also erase the hotkey added to it. So, you’ll need to keep all audio control shortcuts on the desktop for their hotkeys to work.
@@ -86,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Hotkey for Maximizing Volume
@@ -100,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create Volume Up and Down Hotkeys
 
  NirCmd also has commands that increase or decrease volume by specific values. You can set up hotkeys that activate those commands for raiding or reducing the decibel level. Again, you’ll need to first [set up desktop shortcuts](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) for those NirCmd commands just the same as for muting or maximizing sound. These are the commands you’ll need to enter into the "Create Shortcut" window’s location box:
@@ -116,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  Decrease volume by 5,000 units: **“NirCmd folder path\\nircmd.exe” changesysvolume -5000**
 
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
@@ -161,10 +148,17 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
@@ -173,27 +167,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>[New] In 2024, Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-understanding-your-absence-on-snapchat-for-2024/"><u>[New] Understanding Your Absence on Snapchat for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-new-horizons-in-video-editing-software/"><u>[Updated] Explore New Horizons in Video Editing Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-professional-tips-rotate-and-flip-iphone-imagery/"><u>[Updated] In 2024, Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-opening-lines-breaking-the-ice-in-video-comments/"><u>[Updated] Opening Lines Breaking the Ice in Video Comments</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/applecareplus-vs-standard-warranty-is-the-extra-coverage-justified/"><u>AppleCare+ vs Standard Warranty – Is the Extra Coverage Justified?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719316562070-boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-10-proplus-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 10 Pro+ 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-gui-diskspace-windows-menu-integration-guide/"><u>Mastering GUI Diskspace: Windows Menu Integration Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Infinix Hot 40.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/pro-editing-techniques-l-cuts-and-j-cuts-in-fcpx-made-easy-for-2024/"><u>Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-remedy-fixing-file-not-found-issues-in-windows-1110/"><u>Quick Remedy: Fixing 'File Not Found' Issues in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-operation-issues-on-modern-windows-pcs/"><u>Resolving Operation Issues on Modern Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-installation-of-windows-chatgpt/"><u>Step-by-Step Installation of Windows ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-setting-up-window-sandbox/"><u>The Ultimate Guide to Setting up Window Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,3 +174,27 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>[New] In 2024, Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-the-art-of-video-production-for-facebooks-youtube/"><u>[New] In 2024, Unveiling the Art of Video Production for Facebook's YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[Updated] Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-quicklivestream-101-how-to-broadcast-a-podcast-with-zero-hitches/"><u>2024 Approved QuickLivestream 101 How to Broadcast a Podcast with Zero Hitches</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-8-drawing-apps-for-ipados/"><u>2024 Approved Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-quick-and-efficient-ways-to-access-windows-11-sounds/"><u>Discover Quick and Efficient Ways to Access Windows 11 Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-flashing-screen-in-windows-11-pcs/"><u>Fix Window's Flashing Screen in Windows 11 PCs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-complet-pour-mettre-a-nuance-votre-ssd-de-la-serie-9-de-samsung-etapes-detaillees-expliquees/"><u>Guide Complet Pour Mettre À Nuance Votre SSD De La Série 9 De Samsung: Etapes Détaillees Expliquées!</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-play-8t-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Play 8T Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-hidden-taskbar-search-in-windows-11/"><u>How to Enable the Hidden Taskbar Search in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-15-pro-max-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 15 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resurrect-your-closed-windows-console-instantly/"><u>How to Resurrect Your Closed Windows Console Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-and-correcting-directionally-biased-windows-earbuds/"><u>Identifying & Correcting Directionally Biased Windows Earbuds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-transition-from-windows-7-to-windows-11/"><u>Seamless Transition From Windows 7 to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-notebook-aesthetics-with-windows-11-themes-and-fonts-guide/"><u>Tailoring Notebook Aesthetics with Windows 11 Themes & Fonts Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-free-guide-to-accessing-youtube-video-texts-for-2024/"><u>The Ultimate FREE Guide to Accessing YouTube Video Texts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-a-brighter-bolder-cursor-on-windows/"><u>The Ultimate Guide to a Brighter, Bolder Cursor on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-5-fixes-rectifying-secure-key-mismatch-errors/"><u>Win11's 5 Fixes: Rectifying Secure Key Mismatch Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-e-winxvideo-ai-ottenere-il-migliore-assistenza-alle-vendite-on-line/"><u>WinX DVD Ripper E Winxvideo AI: Ottenere Il Migliore Assistenza Alle Vendite On-Line</u></a></li>
+</ul></div>
+

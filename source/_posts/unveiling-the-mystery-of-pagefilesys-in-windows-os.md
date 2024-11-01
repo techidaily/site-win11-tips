@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Mystery of Pagefile.sys in Windows OS
-date: 2024-10-19T19:48:29.645Z
-updated: 2024-10-26T18:39:33.143Z
+date: 2024-10-27T17:35:27.543Z
+updated: 2024-11-01T16:45:24.459Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ Here's what you need to know.
 
  Reading an app’s program files from Pagefile.sys is slower than reading them from RAM. The process is even slower when you're using a hard disk drive (HDD)[instead of a solid-state drive (SDD)](https://www.makeuseof.com/choose-ssd-or-hdd-storage/) . However, It’s faster than closing the app and then relaunching it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check the Size of Pagefile.sys
 
  To prevent tampering with Pagefile.sys, Windows will hide it by default. If you want to see it, here’s what you should do.
@@ -59,16 +52,24 @@ Here's what you need to know.
 4. Select the**View** tab in Folder Options and uncheck**Hide protected operating system files (Recommended)** .  
 ![The unhide protected os files option in folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/folder-options-unhide-protected-os-files.jpg)
 5. In the warning that pops up, click**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
 7. Click**OK** to close Folder Options and apply the changes.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
@@ -83,6 +84,13 @@ Here's what you need to know.
 
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete Pagefile.sys
 
  Since Windows is constantly using Pagefile.sys, it will not allow you to delete it in File Explorer directly. In fact, if you selected the file and hit the**Delete** key, you will see the following message: "The action can't be completed because the file is open in another program."
@@ -90,10 +98,10 @@ Here's what you need to know.
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
@@ -103,31 +111,17 @@ Here's what you need to know.
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
@@ -170,6 +164,14 @@ Now, to bring back Pagefile.sys, follow the steps below:
 8. Enter the appropriate page file sizes in megabytes (MB) in both text boxes and then click**Set** .  
 ![the virtual memory dialog box on windows with the custom page file size set to 4096](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/virtual-memory-custom-size.jpg)
 9. Click**OK** to close the Virtual Memory window and apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Restart your Windows computer for the changes to take effect.
 
 ## Pagefile.sys, Demystified
@@ -193,18 +195,16 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-insta-gone-locating-the-disappeared-fans/"><u>[New] In 2024, Insta Gone? Locating the Disappeared Fans</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-360-degree-gearing/"><u>2024 Approved Ultimate 360 Degree Gearing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-the-distinctions-between-windows-terminal-and-powershell/"><u>Analyzing The Distinctions Between Windows Terminal and PowerShell</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-gopro-video-editing-on-mac-for-beginners/"><u>In 2024, Edit Like a Pro GoPro Video Editing on Mac for Beginners</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ingenious-approach-to-hide-win-11s-taskbar-icon/"><u>Ingenious Approach to Hide Win 11'S Taskbar Icon</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-revolutionary-vr-app-shaping-future-of-linguistics/"><u>Mondly's Revolutionary VR App Shaping Future of Linguistics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/single-point-protection-the-benefits-of-a-solo-antivirus-on-windows/"><u>Single-Point Protection: The Benefits of a Solo Antivirus on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-solve-windows-error-exception-breakpoint-encountered/"><u>Steps to Solve Windows Error: Exception Breakpoint Encountered</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-convert-cr2-images-to-windows-friendly-jpg-format/"><u>Swiftly Convert CR2 Images to Windows-Friendly JPG Format</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/tutorial-de-sauvegarde-dun-video-dvd-sur-cle-usb-en-systeme-windowsmacos/"><u>Tutorial De Sauvegarde D'un Vidéo-DVD Sur Clé USB en Système Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-blueprints-for-making-youtube-intro-videos-that-stick-for-2024/"><u>[Updated] Blueprints for Making YouTube Intro Videos that Stick for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-smart-7-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Smart 7 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-store-upgrades-transforming-gpt-plugins-interface/"><u>Essential Store Upgrades: Transforming GPT Plugins' Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-best-replacement-apps-for-windows-11/"><u>Explore the Best Replacement Apps for Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplifying-zoom-picture-quality-insider-secrets/"><u>In 2024, Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-your-virtual-presentations-with-zoom-sharing/"><u>In 2024, Elevate Your Virtual Presentations with Zoom Sharing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-microphone-reviews-podcastings-best/"><u>In 2024, Leading Microphone Reviews Podcasting's Best</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedure-restore-windows-default-energy-profile/"><u>Procedure: Restore Windows’ Default Energy Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-settings-fix-for-the-vanished-enhancement-tab-in-windows-11/"><u>Restore Your Settings: Fix for the Vanished Enhancement Tab in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-in-windows-11/"><u>Unveiling Hidden Windows in Windows 11</u></a></li>
 </ul></div>
 

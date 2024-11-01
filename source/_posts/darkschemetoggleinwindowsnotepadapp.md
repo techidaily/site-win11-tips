@@ -1,7 +1,7 @@
 ---
 title: DarkSchemeToggleInWindowsNotepadApp
-date: 2024-10-24T22:45:45.363Z
-updated: 2024-10-26T22:56:18.293Z
+date: 2024-10-25T17:32:47.685Z
+updated: 2024-11-01T17:54:39.150Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,20 @@ Here is how you can enable it:
 ![Enable high contrast on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/turn-on-high-contrast.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your system will take a few seconds to apply these changes. Once that is done, you can launch the notepad to see if the changes are applied.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Download a Third-Party Alternative
 
@@ -66,27 +73,20 @@ Here is how you can enable it:
 
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also look for other options online with advanced functionality if you use Notepad on a regular basis.
 
  In case you have downloaded a third-party text editor and wish to continue using it instead of Notepad, you should make it your default editor. For this, right-click on any text file and choose**Open with** \>**Choose another app** .
 
 ![Choose another app to open file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/open-with-choose-another-app.jpg)
 
- Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
@@ -105,13 +105,6 @@ Here is how you can make the changes within the Settings app:
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
 
 ### 2\. Modify the Notepad Settings
@@ -129,6 +122,13 @@ Follow these steps to proceed:
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable Dark Theme in Notepad++
 
  Notepad ++ is the classic Notepad on steroids. This text editor is developed by Microsoft and offers a handful of advanced features that are not available in the classic Notepad.
@@ -143,14 +143,14 @@ Follow these steps to proceed:
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Dark Mode in Notepad With Ease
 
@@ -173,24 +173,18 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-full-sphere-video-potential-on-ios-devices/"><u>[New] Unlocking Full-Sphere Video Potential on iOS Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-dji-phantom-4-deep-dive-comprehensive-insights-and-reviews/"><u>2024 Approved DJI Phantom 4 Deep Dive Comprehensive Insights & Reviews</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-laying-the-groundwork-for-successful-channels/"><u>2024 Approved Laying The Groundwork For Successful Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-understanding-browser-caching-and-its-effect-on-performance/"><u>2024 Approved Understanding Browser Caching and Its Effect on Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x887a0006-for-graphics/"><u>Correcting Error Code 0X887A0006 for Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/finding-solutions-to-unacceptable-connections-in-windows-os/"><u>Finding Solutions to Unacceptable Connections in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-on-quick-startup-your-complete-windows-11-guidebook/"><u>How to Turn On Quick Startup: Your Complete Windows 11 Guidebook</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-p40plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel P40+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premium-multi-device-video-talks-solutions/"><u>Premium Multi-Device Video Talks Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-banishing-the-annoying-hum-from-your-speakers/"><u>Quick Fixes: Banishing the Annoying Hum From Your Speakers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revived-stalled-audio-in-discord/"><u>Revived Stalled Audio in Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-task-scheduler-guide-to-efficient-batch-processing/"><u>The Task Scheduler Guide to Efficient Batch Processing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-alter-desktop-icons-separation-in-win-oss/"><u>Title: Alter Desktop Icons' Separation in WIN OSs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-variability-in-windows-protocols-for-cloud-and-local-reinstallation/"><u>Understanding Variability in Windows Protocols for Cloud and Local Reinstallation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-tips-for-successful-hulu-capturing-on-various-platforms-for-2024/"><u>[New] Essential Tips for Successful Hulu Capturing on Various Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-free-football-filming-and-editing-essentials-for-2024/"><u>[Updated] Free-Football Filming & Editing Essentials for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quintessential-quiet-gaming-on-the-go/"><u>2024 Approved Quintessential Quiet Gaming on the Go</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-windows-and-photoshop-open-up-delays/"><u>Bridging the Gap Between Windows and PhotoShop Open-Up Delays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browser-blackout-blues-efficient-strategies-to-unlock-windows-sites/"><u>Browser Blackout Blues: Efficient Strategies to Unlock Windows Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-user-account-prompts-in-windows/"><u>Bypassing User Account Prompts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capture-windows-like-a-pro-snip-tool-vs-prtsc-advantages/"><u>Capture Windows Like a Pro: Snip Tool Vs. PrtSc Advantages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/"><u>Common Causes & Fixes for Persona 3 Flare PC Instability Issues</u></a></li>
+<li><a href="https://win-online.techidaily.com/guia-detallada-para-copiar-sistema-operativo-windows-11-en-una-unidad-de-estado-solido-nvme-ejemplo-de-acciones/"><u>Guía Detallada Para Copiar Sistema Operativo Windows 11 en Una Unidad De Estado Sólido NVMe - Ejemplo De Acciones</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360477145-reigniting-your-computers-print-functionality-with-effective-wwin-solutions/"><u>Reigniting Your Computer's Print Functionality with Effective WWin Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-t2-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo T2 5G Device</u></a></li>
 </ul></div>
 

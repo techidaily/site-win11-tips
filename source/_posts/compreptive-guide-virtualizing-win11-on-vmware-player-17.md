@@ -1,7 +1,7 @@
 ---
 title: "Compreptive Guide: Virtualizing Win11 on VMware Player 17"
-date: 2024-10-22T00:26:06.959Z
-updated: 2024-10-27T00:15:31.708Z
+date: 2024-10-26T18:24:22.760Z
+updated: 2024-11-01T17:04:38.978Z
 tags:
   - windows10
   - windows11
@@ -40,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Firstly, we will create a virtual machine in VMware for Windows 11\. Then, we will install Windows 11 on the virtual machine. Lastly, we will install VMware tools to finish setting up the virtual machine.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Create a Windows 11 Virtual Machine
 
  Here’s how to create a virtual machine for Windows 11 in VMware:
@@ -61,10 +48,26 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 2. Select the**I will install the operating system later** radio button and click on the**Next** button.  
 ![Creating a Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/creating-a-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
 3. Keep the**Guest Operating System** option as**Windows** and then click on the drop-down menu. Pick the**Windows 11 x64** option and click on the**Next** button.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter an appropriate name for the new Windows 11 virtual machine. Then, click on the**Browse** button to pick a location on the disk drive for virtual disk creation. Click on**Next** .
 5. On the Encryption information page, Choose the encryption type as**Only the files needed to support a TPM are encrypted** .  
 ![Enabling Encryption in Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-encryption-in-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
 6. You need to create an 8-character password to encrypt the virtual machine. Keep the **Remember the password on this machine in Credential Manager** checkbox enabled. Click on the**Next** button to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Now, specify the disk capacity and set the maximum disk size to**64 GB** . Increase the space if you want to install multiple programs in the virtual machine.
 8. Select the**Split virtual disk into multiple files** option and click on**Next** .  
 ![Adjusting Disk Capacity of Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/adjusting-disk-capacity-of-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
@@ -78,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 3. Next, move to the**New CD/DVD (SATA)** tab, and click on the**Use ISO image file** option located under the**Connection** section.
 4. Click on the**Browse** button and select the Windows 11 ISO image file you previously downloaded. Click on the**Open** button.
 5. Now, close the Hardware window and click on the**Finish** button to create the new virtual machine.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Install Windows 11 on the Virtual Machine
 
@@ -108,20 +104,19 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 6. **Uncheck** all the tracking options on the Privacy settings page and click on the**Accept** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait for the setup to finalize changes and boot to the desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Install the VMware Tools
 
@@ -137,29 +132,30 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 6. Then click on the**Install** button. After the installation completes, click on the**Finish** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Lastly, click on the**Yes** button to restart the virtual machine to apply changes.  
 ![Windows 11 VM in VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-vm-in-vmware-workstation-17-player.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Windows 11 virtual machine is ready to use. You can even run Windows features like Hyper V and Windows MDAG and Sandbox inside this machine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Run Windows 11 on VMware Without Any Registry Hacks
 
@@ -180,18 +176,22 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-picsart-potential-with-a-2024-review-and-tutorial/"><u>[Updated] Unlocking PicsArt Potential with a 2024 Review & Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-peek-at-the-finest-laptops-from-ifa-2023/"><u>A Peek at the Finest Laptops From IFA 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
-<li><a href="https://win-community.techidaily.com/for-multiplication-consider-using-the-karatsuba-algorithm-for-more-efficient-computation-when-dealing-with-very-large-numbers/"><u>For Multiplication, Consider Using the Karatsuba Algorithm for More Efficient Computation when Dealing with Very Large Numbers.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-your-windows-10-pc-solution-guide/"><u>How to Fix MsMpEng.exe High CPU Usage on Your Windows 10 PC – Solution Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-guide-for-effortless-youtube-playlist-downloads/"><u>How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472694629-troubleshoot-the-low-memory-warning-issue-in-roblox-for-your-iphone-easily/"><u>Troubleshoot the 'Low Memory Warning' Issue in Roblox for Your iPhone Easily!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-homescreen-activation-in-windows-11/"><u>Troubleshooting Homescreen Activation in Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/windows-11isousb/"><u>Windows 11インストールISOファイルをUSBデバイスへ安全移動のための包括的手順</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-time-lapse-tiktoks-capturing-anime-elements-and-styles/"><u>[New] In 2024, Time-Lapse TikToks Capturing Anime Elements and Styles</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-secrets-of-creating-a-bespoke-tiktok-hashtag-for-2024/"><u>[Updated] Secrets of Creating a Bespoke TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-find-your-match-top-4-sites-for-custom-tones/"><u>2024 Approved Find Your Match Top 4 Sites for Custom Tones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-media-mastery-youtube-vs-tiktoks-best-fit/"><u>2024 Approved Media Mastery Youtube Vs. TikTok's Best Fit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-insights-fullscreen-perfection-with-adobe-premiere-for-2024/"><u>Advanced Insights Fullscreen Perfection with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypting-secure-connections-windows-11s-hidden-tricks/"><u>Decrypting Secure Connections: Windows 11'S Hidden Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-glitches-on-windows-11-sound-error-code-0xc00d36b4/"><u>Fixing Glitches on Windows 11: Sound Error, Code 0xC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-too-little-memory-warning-for-virtual-machines/"><u>Fixing Too Little Memory Warning for Virtual Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-overcome-camera-error-on-win11-system/"><u>Guides to Overcome Camera Error on Win11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-windows-11-task-manager-filter-wizard-and-aesthetic-tweaks-guide/"><u>Master the Windows 11 Task Manager: Filter Wizard & Aesthetic Tweaks Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-hardware-space-w10-and-w11-insights/"><u>Navigating Your Hardware Space: W10 & W11 Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/no-cost-all-benefits-with-fcp-downloads-for-2024/"><u>No Cost, All Benefits with FCP Downloads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-optimal-operation-of-windows-metrics-tool/"><u>Restoring Optimal Operation of Windows Metrics Tool</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-easy-the-best-online-tone-generator-sites-for-2024/"><u>Updated Free and Easy The Best Online Tone Generator Sites for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/warum-ichapps-nach-datenubertragung-nicht-mehr-starten-kann-eine-umfassende-anleitung/"><u>Warum ichApps Nach Datenübertragung Nicht Mehr Starten Kann: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-s-mode-functionality-and-purpose/"><u>Windows 11 S Mode: Functionality and Purpose?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Windows Woes: 7 Ways to Regain Optional Features"
-date: 2024-10-20T17:22:00.377Z
-updated: 2024-10-26T17:42:37.990Z
+date: 2024-10-26T19:33:47.055Z
+updated: 2024-11-01T17:24:14.085Z
 tags:
   - windows10
   - windows11
@@ -83,14 +83,14 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
- While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 ## 4\. Run the Windows Update Troubleshooter
 
@@ -105,22 +105,22 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -155,10 +155,10 @@ Here's how you can update Windows to the latest version:
  Once the service restarts, try installing the optional feature again, and it should work now.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
@@ -175,10 +175,10 @@ Get-WindowsOptionalFeature -Online
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
@@ -187,10 +187,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
@@ -218,20 +218,21 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras-for-2024/"><u>[New] How to Shoot IGTV Videos With Smartphone/DLSR Cameras for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>[New] In 2024, Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-11-and-11/"><u>4 Ways to Open Disk Management in Windows 11 and 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/abbyy-announces-gabrielle-lukianchuk-as-new-chief-marketing-officer/"><u>ABBYY Announces Gabrielle Lukianchuk as New Chief Marketing Officer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-obstacles-for-secure-memory-settings-in-new-windows-11/"><u>Clearing Obstacles for Secure Memory Settings in New Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-camera-saving-errors/"><u>Guiding Through Windows Camera Saving Errors</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pc-virtual-reality-hits-top-10/"><u>In 2024, PC Virtual Reality Hits Top 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y100i-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y100i</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modifying-windows-11-shutdown-time-for-tasks-in-progress/"><u>Modifying Windows 11 Shutdown Time for Tasks in Progress</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-security-faults-and-fixes/"><u>Navigating Through Windows Security Faults & Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/shakespeares-words-36-words-shakespeare-invented-that-we-still-use-today/"><u>Shakespeare’s Words: 36 Words Shakespeare Invented That We Still Use Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-patch-up-reviving-synapse-in-latest-windows/"><u>System Patch-Up: Reviving Synapse in Latest Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-retro-effects-for-modern-video-creation/"><u>[New] Essential Retro Effects for Modern Video Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-funimate-easy-video-download-tutorial/"><u>[New] Mastering Funimate Easy Video Download Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-ten-must-watch-vr-scenes-on-youtube/"><u>[New] Top Ten Must-Watch VR Scenes on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortless-guide-to-secure-and-free-youtube-music-downloads/"><u>[Updated] In 2024, Effortless Guide to Secure and Free YouTube Music Downloads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-troubleshooting-obs-fullscreen-failure-for-2024/"><u>[Updated] Troubleshooting OBS Fullscreen Failure for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c67-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C67 4G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/confronting-console-issues-repairing-vs-substituting/"><u>Confronting Console Issues - Repairing Vs. Substituting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-concealed-smart-home-radio-feature-within-your-mac-and-ipad-devices/"><u>Discover the Concealed 'Smart Home Radio' Feature Within Your Mac and iPad Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-random-shortcut-activation-in-windows/"><u>Overcoming Random Shortcut Activation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failure-to-detect-powershell/"><u>Overcoming Windows Failure to Detect PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-reactivating-fixed-menu-options-on-pc/"><u>Quick Steps for Reactivating Fixed Menu Options on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverting-window-11s-search-functionality-back-to-icons/"><u>Reverting Window 11'S Search Functionality Back to Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snooze-techniques-for-efficient-computers/"><u>Snooze Techniques for Efficient Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-delete-dialogs-on-windows-systems/"><u>Streamlining Delete Dialogs on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-windows-1011-icon-spacing-control-tutorial/"><u>Title: Windows 10/11 Icon Spacing Control Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
 </ul></div>
 

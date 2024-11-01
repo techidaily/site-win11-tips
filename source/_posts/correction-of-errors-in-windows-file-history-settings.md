@@ -1,7 +1,7 @@
 ---
 title: Correction of Errors in Windows File History Settings
-date: 2024-10-21T19:08:11.254Z
-updated: 2024-10-26T21:48:02.936Z
+date: 2024-10-28T19:21:39.273Z
+updated: 2024-11-01T17:06:33.064Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ To restart the File History Service in Windows:
 3. In the Services windows, scroll down to locate**File History Service** . Right-click on it and select**Restart** . If the service is not running, select**Start** .  
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
@@ -43,10 +50,16 @@ To restart the File History Service in Windows:
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Re-Select the Backup Drive and Restart File History
@@ -61,13 +74,6 @@ To restart the File History Service in Windows:
 6. Select your preferred drive from the list and click**OK** .  
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
 
 1. Click the magnifying icon on the taskbar or use the**Win + S** keyboard shortcut to open the search menu.
@@ -75,6 +81,13 @@ To restart the File History Service in Windows:
 3. In the Control Panel window that opens, click the**Turn off** button.
 4. Wait for a few seconds and click the**Turn on** button.  
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
 
@@ -98,17 +111,10 @@ To restart the File History Service in Windows:
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing File History Errors on Windows
@@ -132,20 +138,24 @@ To restart the File History Service in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mastery-in-removing-online-video-post-comments/"><u>[New] 2024 Approved Mastery in Removing Online Video Post-Comments</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-increasing-interior-vibrancy-suns-role-inside-for-2024/"><u>[Updated] Increasing Interior Vibrancy Sun's Role Inside for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[Updated] Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funfactory-enjoy-video-making-with-ease/"><u>2024 Approved FunFactory Enjoy Video Making with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-2-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719381834367-cep-library-integration/"><u>CEP Library Integration:</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-not-empty-assertion-a-practical-guide-to-x80070091-fixes/"><u>Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-disparities-in-cloud-and-offline-windows-updates/"><u>Exploring Disparities in Cloud and Offline Windows Updates</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-elevating-content-sharing-link-instagram-and-tiktok/"><u>In 2024, Elevating Content Sharing Link Instagram & TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-compatibility-troubleshoot-in-windows-clippy/"><u>Integrate Compatibility Troubleshoot in Windows Clippy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-digital-literature-with-ease-on-the-rugged-kobo-libra-h2o-device/"><u>Navigating Digital Literature with Ease on the Rugged Kobo Libra H2O Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-old-files-enabling-the-autodelete-option-on-windows-11/"><u>Say Goodbye to Old Files: Enabling the Autodelete Option on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-customization-increasing-icon-dimensions-in-w11/"><u>Winning at Customization: Increasing Icon Dimensions in W11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-create-impactful-youtube-videos-top-20-font-picks-for-2024/"><u>[New] Create Impactful YouTube Videos Top 20 Font Picks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-free-easy-online-downloader-for-your-pin-videos/"><u>[New] In 2024, Free, Easy Online Downloader for Your Pin Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-stop-ipadiphone-from-freezing-during-fb-playback/"><u>[New] Stop iPad/iPhone From Freezing During FB Playback</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-full-screen-nightmare-ended/"><u>[Updated] In 2024, Obs Full-Screen Nightmare Ended</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285167772-winxvideo-ai/"><u>如何利用WinXVideo AI技術提升影片品質達到最高水平</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gaming-mastery-on-windows-11-top-strategies-for-peak-performance-and-fun/"><u>Gaming Mastery on Windows 11: Top Strategies for Peak Performance and Fun</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratisk-rmvb-to-mov-konvertor-online-de-zevende-wetenschap-van-movavi/"><u>Gratisk RMVB-to-MOV Konvertor Online - De Zevende Wetenschap Van Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-onoff-windows-11-highlight-effect/"><u>Guide to Turn On/Off Windows 11 Highlight Effect</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-load-drivers-without-sie-compliance-on-pcs/"><u>How to Load Drivers Without SIE Compliance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-chromium-from-spontaneously-launching-tabs/"><u>How to Prevent Chromium From Spontaneously Launching Tabs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-play-40c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Play 40C to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-using-gmail-on-your-smartphone/"><u>Mastering Cross-Platform Communication: Using Gmail on Your Smartphone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-not-trusted-update-error-in-winos/"><u>Strategies to Overcome Not Trusted Update Error in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-darkened-screens-while-gaming-on-win/"><u>Strategies to Prevent Darkened Screens While Gaming on WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-o365-cloud-synchronization-hiccups-windows/"><u>Tackling O365 Cloud Synchronization Hiccups (Windows)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-key-steps-effective-obs-streaming-directly-to-facebook-users/"><u>The Key Steps Effective OBS Streaming Directly to Facebook Users</u></a></li>
 </ul></div>
 

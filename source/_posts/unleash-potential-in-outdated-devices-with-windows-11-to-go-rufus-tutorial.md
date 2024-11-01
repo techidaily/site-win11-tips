@@ -1,7 +1,7 @@
 ---
 title: Unleash Potential in Outdated Devices with Windows 11, To Go, Rufus Tutorial
-date: 2024-10-19T17:44:32.633Z
-updated: 2024-10-26T23:01:47.988Z
+date: 2024-10-28T17:56:44.977Z
+updated: 2024-11-01T19:35:27.460Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
  And yes, you can install Windows To Go on a USB flash drive. It will also work with a USB 2.0 and a hard disk as well. But, these slower devices and interfaces are not recommended. We will get to this later.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Windows To Go Drive Using Rufus
 
  Rufus is a free open-source tool to create bootable USB drives, which you can use to install operating systems. Rufus can also create Windows To Go portable drives. So, to start, [download Rufus from the official website](https://rufus.ie/en/).
@@ -77,20 +84,13 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 ![Screenshot showing selection of Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/06-screenshot-showing-selection-of-disk-image-in-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot showing selection of Windows 11 ISO as Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/07-screenshot-showing-selection-of-windows-11-iso-as-disk-image-in-rufus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -104,26 +104,13 @@ Close
 ![Screenshot showing selection of GPT in Partition scheme of Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/09-screenshot-showing-selection-of-gpt-in-partition-scheme-of-rufus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot showing selection of Target system in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/10-screenshot-showing-selection-of-target-system-in-rufus.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -140,6 +127,13 @@ Close
 
 ![Screenshot showing customization of Windows installation in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/12-screenshot-showing-customization-of-windows-installation-in-rufus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once you're ready to go, click **Start.** Rufus will clear the data on the portable drive, write Windows 11 files, and make the drive bootable. This will usually take around 10 minutes.
@@ -155,10 +149,10 @@ Close
  When done, close Rufus. If you are going to use Windows To Go on the same computer, reboot it. If you want to use it on another computer, eject the USB device and connect it to the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Set Up Windows 11 to Boot
@@ -166,6 +160,13 @@ Close
 [Enter the UEFI or BIOS menu](https://www.makeuseof.com/tag/enter-bios-computer/), it is usually the DEL key on desktops and F2 key on laptops. The screens vary between different computers, adapt these instructions as needed. Go to the **Boot** tab and set the USB drive as the first boot device. **Save and Exit** (usually F10).
 
 ![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer will boot into Windows To Go. The screen shows that the computer’s **Secure Boot** is off, it does not have the TPM either.
 
@@ -176,28 +177,28 @@ Close
 ![Screenshot showing Windows 11 setting everything up after boot of USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/18-screenshot-showing-windows-11-setting-everything-up-after-boot-of-usb-ssd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, you have Windows 11, completely functional on a computer that does not meet the minimum system requirements. It will still run A-OK!
 
 ![Screenshot showing Windows 11 running perfectly on a Computer that does not meet minimum requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/19-screenshot-showing-windows-11-running-perfectly-on-a-computer-that-does-not-meet-minimum-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It will also update, as a normal installation would do. There is still one thing you need to do. You did not set the password when you created the username in Rufus. This is important for security.
 
  To set the password, open **Settings** \> search for **Change your password** \> click **Password** and change it.
 
 ![Screenshot showing setting of password to the Local account of newly installed Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/20-screenshot-showing-setting-of-password-to-the-local-account-of-newly-installed-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you didn’t do that, Windows 11 will compel you to do it at the next reboot anyway.
 
@@ -218,19 +219,6 @@ Close
 ### USB 3.0 Is 10 Times Faster Than 2.0
 
 ![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  USB 3.0 read/writes at 5Gbps compared to USB 2.0 which can do only 480Mbps. So, you should use a USB 3.0 to SATA adapter.
 
@@ -254,19 +242,6 @@ Close
 
  There is a way to bypass these requirements and install Windows 11 on any powerful computer, even if it is old. The process is quite simple as well.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elite-action-video-capture-top-15-handheld-devices/"><u>[Updated] 2024 Approved Elite Action Video Capture Top 15 Handheld Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovate-funny-graphics-share-on-giphy-platform/"><u>2024 Approved Innovate Funny Graphics, Share on Giphy Platform</u></a></li>
-<li><a href="https://facebook.techidaily.com/guide-to-severing-spotify-facebook-ties-completely/"><u>Guide to Severing Spotify-Facebook Ties Completely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-stop-windows-from-launching-spotify/"><u>Guide to Stop Windows From Launching Spotify</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y100t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-monitoring-integrating-system-resource-data-in-systray/"><u>Streamline Monitoring: Integrating System Resource Data in SysTray</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-keyboard-shortcuts-next-to-power-icon/"><u>Tailoring Windows 11: Keyboard Shortcuts Next to Power Icon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-of-epic-data-preservation-techniques/"><u>The Essentials of Epic Data Preservation Techniques</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -274,3 +249,24 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/iscover-the-epic-android-video-editor-apps-for-2024/"><u>[New] Discover the Epic Android Video Editor Apps for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigate-nearby-landscapes-on-roblox-easily/"><u>[Updated] 2024 Approved Navigate Nearby Landscapes on Roblox Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>[Updated] In 2024, Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amped-arcs-and-zigzags-in-olympic-speed/"><u>2024 Approved Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-9-tricks-for-enhancing-windows-11s-sound-experience/"><u>Discover 9 Tricks for Enhancing Windows 11'S Sound Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/graph-gems-2017s-statistical-youtube-surprises/"><u>Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-pop-8-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Pop 8 FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interplanetary-town-planning-gone-awry-stirring-up-storms-for-galactic-fun/"><u>Interplanetary Town Planning Gone Awry: Stirring Up Storms for Galactic Fun</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-code-0x80041015-on-windows/"><u>Steps to Rectify Error Code 0X80041015 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-disabling-method-for-windows-11-alerts/"><u>Swift Disabling Method for Windows 11 Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-mend-text-not-showing-up-on-discord-windows/"><u>Tips to Mend Text Not Showing Up on Discord Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-extra-potential-with-your-devices-via-a-90-degree-window-flip/"><u>Unlock Extra Potential with Your Devices via a 90-Degree Window Flip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-ical-functionality-on-windows-11-devices/"><u>Unlocking iCal Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gear-future-functions-embrace-windows-11-with-to-go-and-rufus/"><u>Vintage Gear, Future Functions: Embrace Windows 11 with To Go and Rufus</u></a></li>
+</ul></div>
+

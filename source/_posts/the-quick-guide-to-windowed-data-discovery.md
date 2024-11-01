@@ -1,7 +1,7 @@
 ---
 title: The Quick Guide to Windowed Data Discovery
-date: 2024-10-21T21:16:59.792Z
-updated: 2024-10-26T20:23:10.487Z
+date: 2024-10-29T19:41:02.268Z
+updated: 2024-11-01T18:14:43.127Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -69,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Using PowerShell
 
  PowerShell has a different command to display folder or file properties. Like the CMD command, it also displays the file properties inside the shell in text format.
@@ -109,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -136,16 +136,17 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-image-illumination-choose-best-websites-with-photo-framing-features/"><u>[New] Image Illumination Choose Best Websites with Photo Framing Features</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-premier-4k-cameras-of-today/"><u>[New] In 2024, Discover the Premier 4K Cameras of Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-back-your-game-fixing-lol-connection-failure/"><u>Bringing Back Your Game: Fixing LoL Connection Failure</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exhaustive-explanation-unveiling-the-google-podcasts-app/"><u>Exhaustive Explanation Unveiling the Google Podcasts App</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pros-5-virtual-helmets-a-drone-racers-choice/"><u>In 2024, Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ten-essential-cam-covers-to-upgrade-your-security/"><u>In 2024, Ten Essential Cam Covers to Upgrade Your Security</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/verifying-microphone-function-on-windows/"><u>Verifying Microphone Function on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-open-source-chill-beats/"><u>[New] 2024 Approved Open Source Chill Beats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-transform-how-you-talk-best-mobile-apps-to-alter-vocal-quality/"><u>[New] Transform How You Talk Best Mobile Apps to Alter Vocal Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-sonic-harmony-advanced-crossfading-in-audacity/"><u>Achieving Sonic Harmony Advanced Crossfading in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-drive-space-without-deletion/"><u>Boosting Windows Drive Space Without Deletion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bouncing-back-from-excessive-life-enthusiasm-on-windows-systems/"><u>Bouncing Back From Excessive Life Enthusiasm on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-file-save-obstacles-quick-fixes-to-overcome-win11-issues/"><u>Bypass File Save Obstacles: Quick Fixes to Overcome WIN11 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-the-intrusive-windows-update-alerts/"><u>Cease the Intrusive Windows Update Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-your-cutting-edge-for-windows-screenshots/"><u>Choosing Your Cutting Edge for Windows Screenshots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-display-on-updated-creators-fall/"><u>Reviving Display on Updated Creator's Fall</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-the-future-of-web-development-the-impact-of-artificial-intelligence-on-search-algorithms/"><u>Transforming the Future of Web Development: The Impact of Artificial Intelligence on Search Algorithms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-rich-world-of-assassins-creed-valhalla-a-gripping-tale-through-medieval-norsemen-history/"><u>Unveiling the Rich World of Assassin’s Creed: Valhalla - A Gripping Tale Through Medieval Norsemen History</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-117-with-model-e1659fwu-driver/"><u>Upgrade Windows 11/7 with Model E1659FWU Driver</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows 11 Taskbar Not Working
-date: 2024-10-24T23:08:04.537Z
-updated: 2024-10-26T20:36:42.843Z
+date: 2024-10-31T17:06:19.766Z
+updated: 2024-11-01T19:25:35.687Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ To restart a Windows Explorer service:
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
 To reinstall and register all Windows apps:
@@ -63,22 +56,29 @@ To reinstall and register all Windows apps:
 `PS C:\Users\Administrator>`
 5. Close PowerShell and restart your computer. If you don’t want to perform a system reboot, restart Windows Explorer in Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Uninstall the Recently Installed Windows Update
 
  If the taskbar starts to act up after installing a Windows update, uninstall the update to see if it helps fix the issue. Feature Windows updates can sometimes break more things they intend to fix.
 
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Close Conflicting System Services
 
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
 
@@ -97,10 +97,10 @@ To restart system services in Task Manager:
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable XAML for Start Menu Using Registry Editor
@@ -124,10 +124,10 @@ To make the Start menu use XAML:
 8. Close Registry Editor and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run System File Checker and DISM
@@ -137,13 +137,6 @@ To make the Start menu use XAML:
  In addition, you can also use the Deployment Image Service Management (DISM) utility to fix the corrupt system Windows image and recover your Windows without reinstalling the operating system.
 
  If the taskbar is not loading due to system file corruption,[run the DISM utility to repair the Windows image](https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/) . Next,[run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix issues with protected system files. Both processes can take a while to complete.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -155,6 +148,14 @@ To make the Start menu use XAML:
 2. Type**rstrui.exe** and click**OK** .  
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
@@ -190,14 +191,22 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-aerial-device-typologies/"><u>[New] In 2024, Aerial Device Typologies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-ai-enhance-windows-11-usability/"><u>How Does AI Enhance Windows 11 Usability?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-pc-sound-capture-an-audacity-guide/"><u>New Mastering PC Sound Capture An Audacity Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-absent-remove-button-for-windows-11-pins/"><u>Reinstating Absent 'Remove' Button for Windows 11 PINs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sticky-notes-strategies-for-sustained-top-level-visibility-on-win-os/"><u>Sticky Notes Strategies for Sustained Top-Level Visibility on Win OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-workshop-generating-and-deciphering-system-insights/"><u>The Windows Workshop: Generating & Deciphering System Insights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/understanding-igs-evolution-reels-vs-stories/"><u>Understanding IG's Evolution Reels vs Stories</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/zoom-class-chronicling-for-2024/"><u>Zoom Class Chronicling for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow-for-2024/"><u>[New] From Standard to Spectacomed Adding Fonts to After Effects Workflow for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages/"><u>[Updated] Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-which-professions-might-be-abolished/"><u>AI Revolution: Which Professions Might Be Abolished?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/costly-mistakes-when-opting-for-discounted-activation-keys/"><u>Costly Mistakes When Opting for Discounted Activation Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-code-crash-tactics-to-tackle-script-errors-in-windows/"><u>Eliminate Code Crash: Tactics to Tackle Script Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-correcting-mcuicnt-execution-not-found-in-win-10/"><u>Guidelines for Correcting McUICnt Execution Not Found in Win 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>In 2024, Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-most-recent-updates-for-your-epson-wf-3720-printing-software/"><u>Install the Most Recent Updates for Your Epson WF 3720 Printing Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/reimagining-game-logging-with-no-fbx-technology/"><u>Reimagining Game Logging with No-FBX Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-to-disabling-cortana-in-windows-11/"><u>Revealing the Secrets to Disabling Cortana in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-reinstate-windows-11-search-results/"><u>Techniques to Reinstate Windows 11 Search Results</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-video-potential-the-imovie-blueprint-for-youtube-editors-for-2024/"><u>Unleashing Video Potential The iMovie Blueprint for YouTube Editors for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-success-in-civ-6-overcoming-windows-10-startup-hurdles/"><u>Unlocking Success in Civ 6: Overcoming Windows 10 Startup Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-reimagined-unveiling-update-22h2-features/"><u>Windows 11 Reimagined: Unveiling Update #22H2 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-invisibly-remove-the-language-feature/"><u>Windows 11: How to Invisibly Remove the Language Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-excellence-via-vivetool-getting-ahead-of-the-curve/"><u>Windows Excellence via ViVeTool: Getting Ahead of the Curve</u></a></li>
 </ul></div>
 

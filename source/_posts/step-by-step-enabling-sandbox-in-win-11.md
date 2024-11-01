@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Enabling Sandbox in Win 11"
-date: 2024-09-12T02:35:15.178Z
-updated: 2024-09-17T04:48:34.738Z
+date: 2024-10-29T19:11:23.608Z
+updated: 2024-11-01T16:45:15.569Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,38 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 3. In the left panel, click on**Turn Windows features on or off.**  
 ![control panel turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off.jpg)
 4. In the**Turn Windows features on or off dialog** , scroll down and locate**Windows Sandbox.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check the**Windows Sandbox** option and click**OK** .  
 ![enable Windows sandbox turn windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-Windows-sandbox-turn-windows-features-on-or-off.jpg)
 6. Windows will search for the files and install the required dependencies to run Windows Sandbox scenarios. Once the changes are applied, close the Windows features dialog and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
 
 ## 3\. Install Windows Sandbox Using PowerShell
 
 ![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the Enable WindowsOptionalFeature command in PowerShell to install Windows Sandbox in Windows. This method is useful if you find the sandbox option greyed out or unable to install it from the Windows Feature dialog.
 
@@ -64,13 +87,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 5. Once done, press**Y** and hit**Enter** to restart your PC.
 6. After the restart, you can launch Windows Sandbox from Windows Search.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Install Windows SandBox Using Command Prompt
 
 ![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
@@ -83,13 +99,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 `dism /online /Enable-Feature /FeatureName: "Containers-DisposableClientVM" -All`
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Windows Sandbox
 
 ![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
@@ -99,6 +108,13 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
  Upon its launch, Windows Sandbox looks like a lightweight version of your Windows machine. You can copy files from your host system or download them from the Internet using the built-in web browser. Any actions you perform in the sandbox will not affect your host system.
 
  Once the testing is complete, close the Sandbox and click**OK** to confirm the action. Unlike a VM, Sandbox will delete all the data (including apps and files) upon exit. So, you'll get a clean, isolated environment running the same Windows OS build as your host machine each time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up and Use Windows Sandbox in Windows 11
 
@@ -119,5 +135,16 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-first-choice-top-15-videography-power-tools/"><u>[New] 2024 Approved First Choice Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-17-applications-for-professional-graphic-design/"><u>Discover the Leading 17 Applications for Professional Graphic Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-your-pc-wont-pair-with-bluetooth-gadgets-in-windows-11/"><u>Easy Solutions for When Your PC Won't Pair with Bluetooth Gadgets in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>In 2024, IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-windows-memory-impact-from-edges-view2/"><u>Minimizing Windows Memory Impact From Edge's View2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-nookles-lol-initial-load-woes/"><u>Navigating Nookles' (LOL) Initial Load Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicker-quarantine-four-easy-ways-to-cut-off-a-user-on-win11/"><u>Quicker Quarantine: Four Easy Ways to Cut Off a User on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-user-experience-adopting-themes-from-the-microsoft-store/"><u>Revolutionize User Experience: Adopting Themes From The Microsoft Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-ai-alignment-control-problem/"><u>What Is the AI Alignment Control Problem?</u></a></li>
+</ul></div>
 

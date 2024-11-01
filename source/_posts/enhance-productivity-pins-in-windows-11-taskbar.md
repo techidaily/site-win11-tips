@@ -1,7 +1,7 @@
 ---
 title: "Enhance Productivity: Pins in Windows 11 Taskbar"
-date: 2024-10-24T23:39:45.886Z
-updated: 2024-10-26T16:20:59.800Z
+date: 2024-10-31T18:45:02.190Z
+updated: 2024-11-01T19:13:38.910Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Open App Being Pinned to Windows 11 Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-pin-open-app-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Pin a Windows 11 App to the Taskbar From the Start Menu or All Apps Menu
@@ -58,16 +58,17 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![App Being Pinned from All Apps in Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-pin-app-from-all-apps-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Pin a Windows 11 App to the Taskbar From the Context Menu
@@ -77,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 1. On the desktop or in File Explorer, **right-click** the app you want to pin to the taskbar.
 2. Click/tap on **Show more options** **\> Pin to taskbar**.  
 ![App Being Pinned From Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-pin-app-from-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Pin a Folder to Windows 11's Taskbar
 
@@ -90,33 +98,34 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 4. Click/tap on the **Change icon** button.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Under **Look for icons in this file:** type **imageres.dll** and press **Enter** as in the screenshot below. From the folder icons that appear, select a folder icon that you like, and click/tap on **OK**.  
 ![Folder Icon Being Chosen to Pin Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-choose-folder-icon-and-press-apply.jpg)
 6. Then, in the folder Properties, click/tap on **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. The icon of the folder's shortcut on your desktop would have changed to the icon you had selected. **Right-click** or press and hold on the folder shortcut, then click/tap on **Show more options** **\> Pin to taskbar**, as in the screenshot below.  
 ![Folder Shortcut Being Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-pin-folder-shortcut-to-taskbar.jpg)
 8. Your folder is now pinned to the taskbar. Just open with a click/tap.  
 ![Folder Shortcut Icon Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-folder-shortcut-pinned-to-taskbar.jpg)
 9. Delete the folder shortcut on your desktop.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will notice that the taskbar icon of a pinned folder will not show its thumbnail preview when you hover with your mouse over it. It will show on the **File Explorer** icon.
 
@@ -139,10 +148,16 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Prompt to Create Drive Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-click-yes-on-shortcut-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After this, the process is the same as we covered above for pinning a folder from step 2 onwards. So follow those steps to pin your preferred drive to the taskbar. Of course, just replace the word "folder" with the word "drive" instead.
@@ -168,19 +183,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![Gmail Shortcut Being Created To Pin To Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-create-gmail-shortcut.jpg)
 4. A prompt to name the shortcut will pop up as seen in the screenshot below. Here, you can personalize the shortcut to better identify it. For this shortcut, I have named "Gmail-Neeraj" to better describe where it leads. Once you're done, click on **Create**.  
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Gmail Shortcut Being Named to Pin to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-name-gmail-shortcut.jpg)
 5. The Gmail shortcut will appear on your desktop. Right-click or press and hold the shortcut then click **Show more options > Pin to taskbar**.
 6. The page icon will show as Google's 'G' logo on your taskbar. Now just click on it and enter your password to access your Gmail.  
@@ -189,6 +191,19 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  Fortunately, this feature isn't restricted to just Gmail. You can follow these steps on any website to pin it to your taskbar quickly and easily.
 
  And if you don't like the Recycle Bin sitting on your desktop, [you can add a shortcut and pin it to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-recycle-bin-taskbar-hotkey-shortcuts/).
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Make More Space on the Taskbar to Pin More Apps
 
@@ -203,13 +218,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 4. Click on the **Down arrow** next to the **Search box** to open the options. And switch from the **Search box** to **Search icon only**. Instantly, you will find the **Search icon** on the taskbar instead of the Search box.  
 ![More Apps Pinned by Changing to Search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/16-pin-more-apps-with-more-space.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So now, you have more space to add a few more apps or almost anything to the taskbar.
 
 ## Customize the Windows 11 Taskbar and Add Another Taskbar Too
@@ -217,13 +225,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  Once you pin what you want on your Windows 11 taskbar, you can [explore some cool ways to customize the taskbar to suit your needs](https://www.makeuseof.com/windows-11-customize-taskbar/)—like changing its color, appearance, and even its size.
 
  Moreover, if you need to pin more apps than the Windows 11 taskbar can comfortably accommodate, [you can even add another taskbar to Windows 11](https://www.makeuseof.com/windows-11-add-extra-taskbar/).
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pin Almost Anything to the Taskbar for a Snappy Windows 11 Experience
 
@@ -233,22 +234,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  Windows has always let you pin apps to the taskbar for instant access, and Windows 11 is no different. However, Windows 11 now lets you pin files, folders, drives, and even websites to the taskbar too. So, how do you pin things to the Windows 11 taskbar?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-conveniently-altering-resolution-on-ios-devices/"><u>[New] 2024 Approved Conveniently Altering Resolution on iOS Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-innovative-drone-archetypes/"><u>[Updated] Innovative Drone Archetypes</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-top-ranking-gratis-sicherungsprogramm-mit-systemsynchronisierung-aomei-backupper/"><u>1. Top-Ranking Gratis Sicherungsprogramm Mit Systemsynchronisierung: AOMEI BackUpper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-methods-for-windows-easy-access-center-entry/"><u>5 Methods for Windows Easy Access Center Entry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-to-know-your-characters-on-windows-11/"><u>Get to Know Your Characters on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-windows-10-speakers-back-in-action-a-step-by-step-guide/"><u>Getting Your Windows 10 Speakers Back in Action: A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stalling-fixing-microsoft-teams-in-ws11ws10/"><u>Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-instructional-paper-on-windows-11s-speed-boost-feature/"><u>The Ultimate Instructional Paper on Windows 11'S Speed Boost Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-voice-activated-accessibility-features/"><u>Unlocking the Power of Voice-Activated Accessibility Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/virtual-broadcast-battleground-obs-versus-shadowgl/"><u>Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -256,3 +241,21 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>[New] In 2024, From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-mac-obs-guide-installation-and-operational-knowledge-for-2024/"><u>[Updated] The Ultimate Mac OBS Guide Installation & Operational Knowledge for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/elevate-your-content-seo-mastery-starts-here-in-2024/"><u>Elevate Your Content SEO Mastery Starts Here, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/how-to-be-a-virtual-visitor-in-friendly-tiktok-streams-for-2024/"><u>How to Be a Virtual Visitor in Friendly TikTok Streams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminate-interruption-5-solutions-to-bring-back-keyboard-glow/"><u>Illuminate Interruption: 5 Solutions to Bring Back Keyboard Glow</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-pop-7-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Pop 7 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-over-jerks-top-techniques-to-address-win-11s-typing-latency/"><u>Jump Over Jerks: Top Techniques to Address Win 11'S Typing Latency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-absent-items-from-file-explorer-list/"><u>Mending Absent Items From File Explorer List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-widows-handbrake-freeze-woes/"><u>Overcome Widows' HandBrake Freeze Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-digital-label-changing-username-in-windows-11/"><u>Revolutionize Your Digital Label: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-connection-mastering-the-download-of-a-serial-to-usb-dongle-on-windows/"><u>Seamless Connection: Mastering the Download of a Serial to USB Dongle on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-windows-partition-union-explained/"><u>Seamless Windows Partition Union Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-iphone-16-and-16-pro-cases-professional-ratings-and-comparisons/"><u>Ultimate Guide to iPhone 16 and 16 Pro Cases : Professional Ratings & Comparisons</u></a></li>
+</ul></div>
+

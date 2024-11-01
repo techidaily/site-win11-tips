@@ -1,7 +1,7 @@
 ---
 title: "Simplified Workflows: NirCmd's Win Shortcut Guide"
-date: 2024-09-11T01:20:43.066Z
-updated: 2024-09-12T01:20:43.066Z
+date: 2024-10-31T16:54:19.158Z
+updated: 2024-11-01T17:45:12.830Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
 `C:\Users\nircmd-x64`
 
@@ -65,20 +52,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -88,38 +61,18 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Examples of Handy Commands You Can Create With NirCmd
 
@@ -131,45 +84,31 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 `nircmd.exe emptybin`
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### 2\. Center Align All Windows
 
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Read Out the Copied Clipboard Item
 
@@ -191,41 +130,11 @@ keywords: Win Shortcut Tips,Easy Windows Commands,NirCmd Quick Start,Simplify Sy
 thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa778ea2d41cdc52aa7fdbdaa.jpg
 ---
 
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 6\. Close All Open File Explorer Windows
 
@@ -239,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
@@ -251,11 +167,26 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-quicktime-screen-recording-with-audio-for-2024/"><u>[New] [How] QuickTime Screen Recording with Audio for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guide-to-live-streaming-with-obs-and-platforms/"><u>[New] In 2024, Comprehensive Guide to Live-Streaming with OBS and Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-playback-tips-and-tricks-for-infinite-youtube-views/"><u>[Updated] Seamless Playback Tips & Tricks for Infinite Youtube Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-no-limit-record-media-software/"><u>2024 Approved No-Limit Record Media Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-the-most-ignored-yet-crucial-windows-11-features/"><u>A Guide to the Most Ignored Yet Crucial Windows 11 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-strongest-passwords-effortlessly-with-these-7-free-generators/"><u>Access Strongest Passwords Effortlessly With These 7 Free Generators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-stealth-tactics-eliminate-11s-search-icon/"><u>Advanced Stealth Tactics: Eliminate 11'S Search Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-interruptions-resolving-steams-error-code-e84/"><u>Avoid Interruptions: Resolving Steam’s Error Code E84</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-apple-vision-pro-exploring-costs-capabilities-and-more-through-firsthand-experience-a-complete-guide/"><u>Inside the Apple Vision Pro: Exploring Costs, Capabilities & More Through Firsthand Experience - A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-a-faster-storage-option-how-to-add-an-ssd-to-your-playstation-5/"><u>Installing a Faster Storage Option: How to Add an SSD to Your PlayStation 5</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-ranked-mobile-melody-design-experts/"><u>Top-Ranked Mobile Melody Design Experts</u></a></li>
+</ul></div>
+

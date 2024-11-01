@@ -1,7 +1,7 @@
 ---
 title: Easing Into Advanced Net Config on Win11
-date: 2024-10-25T17:51:04.301Z
-updated: 2024-10-26T22:08:56.142Z
+date: 2024-10-25T19:07:19.786Z
+updated: 2024-11-01T19:19:03.243Z
 tags:
   - windows10
   - windows11
@@ -40,21 +40,22 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the Subnet Mask in Windows 11
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
@@ -72,17 +73,16 @@ Here's how to do it:
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Change the Subnet Mask Using the Control Panel
@@ -101,13 +101,6 @@ Here's how to do it:
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Change the Subnet Mask Using Windows PowerShell
 
  Windows PowerShell is also one of the places from where you can change the subnet mask in Windows 11\. Here's how to do it:
@@ -122,6 +115,13 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -144,24 +144,18 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-movie-magic-on-mobile-ioss-best-free-and-paid-film-apps/"><u>[New] Movie Magic on Mobile IOS's Best Free and Paid Film Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-srt-file-handling-on-cross-platform-operating-systems/"><u>[New] SRT File Handling on Cross-Platform Operating Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-of-your-vr-gametime-recordings/"><u>[Updated] 2024 Approved Unlocking the Potential of Your VR Gametime Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-artistic-expression-discover-free-tools-for-voice-modification/"><u>[Updated] The Path to Artistic Expression – Discover Free Tools for Voice Modification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieve-flawless-display-with-win11-settings/"><u>Achieve Flawless Display with Win11 Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-game-bar-errors-on-underpowered-systems/"><u>Addressing Game Bar Errors on Underpowered Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-pathways-to-launching-windows-fix/"><u>Essential Pathways to Launching Windows FIX</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-systems-analyzers-for-windows/"><u>Essential Systems Analyzers for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-cut-out-onedrive-from-your-pcs-file-explorer-screenshot/"><u>How to Cut Out OneDrive From Your PC's File Explorer Screenshot</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mobile-mastery-high-shots-with-your-smartphone/"><u>In 2024, Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-windows-11s-snip-and-sketch-shortcut/"><u>Launching Windows 11'S Snip & Sketch Shortcut</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-schedule-breakdown-quickly/"><u>Troubleshoot Windows Schedule Breakdown Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-incorrect-side-by-side-assemblies-on-your-windows-11-system-guide/"><u>Troubleshooting Incorrect Side By Side Assemblies on Your Windows 11 System [Guide]</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-chromecast-converter-how-to-play-un-supported-video-formats/"><u>Updated 2024 Approved The Chromecast Converter How to Play Un-Supported Video Formats</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-silence-to-sound-two-ways-to-fade-in-and-out-of-audio-in-final-cut-pro-for-2024/"><u>Updated From Silence to Sound Two Ways to Fade In and Out of Audio in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-dell-network-interface-card-drivers-on-microsoft-windows-7/"><u>Updating Dell Network Interface Card Drivers on Microsoft Windows 7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>[New] In 2024, Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>2024 Approved Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scoping-out-superior-cloud-platforms-for-secure-storing/"><u>2024 Approved Scoping Out Superior Cloud Platforms for Secure Storing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-games-like-a-pro-app-rundown/"><u>Capturing Games Like a Pro – App Rundown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mystery-of-windowed-objects/"><u>Decoding the Mystery of Windowed Objects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-the-enigma-of-0x800713f-within-windows-mail-service/"><u>Dismantling The Enigma of 0X800713F Within Windows' Mail Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-dealing-with-memory-tool-errors/"><u>Expert Tips for Dealing with Memory Tool Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-11-proplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme 11 Pro+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-device-connected-update-asus-network-drivers-on-windows/"><u>Keep Your Device Connected: Update Asus Network Drivers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/productive-peaks-with-top-windows-apps-for-organization/"><u>Productive Peaks with Top Windows Apps for Organization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-showdown-pixel-9xl-vs-iphone-15-pro-battle-of-the-cameras-reveals-unexpected-victor/"><u>Smartphone Showdown: Pixel 9XL Vs. IPhone 15 Pro Battle of the Cameras Reveals Unexpected Victor!</u></a></li>
 </ul></div>
 

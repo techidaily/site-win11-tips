@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Disabled or Missing Windows Updates
-date: 2024-10-23T21:10:35.015Z
-updated: 2024-10-26T18:37:58.309Z
+date: 2024-10-27T17:04:35.874Z
+updated: 2024-11-01T18:15:44.895Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ To run the Windows Update troubleshooter:
 
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Scans
 
  Corrupt system files can also cause some Windows services or default apps to disappear from your computer. The System File Checker and Deployment Image Servicing Management are two command-line tools that can help you detect and restore any damaged system files on Windows. Here's how to run them:
@@ -52,13 +59,20 @@ To run the Windows Update troubleshooter:
 `sfc /scannow`  
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Scan for Malware
@@ -72,21 +86,7 @@ To run the Windows Update troubleshooter:
 5. Click the**Scan now** button.  
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
@@ -183,13 +183,6 @@ To run the Windows Update troubleshooter:
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
 13. Save the file with**.reg** extension.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
@@ -206,6 +199,13 @@ To reset your Windows computer:
 4. In the "Reset this PC" wizard, select**Keep my files** if you want to retain your personal files. Otherwise, select**Remove everything** .
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
@@ -230,24 +230,17 @@ To reset your Windows computer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-apples-m1-performance-enhancing-video-editing/"><u>[New] Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>[New] In 2024, Mastering GIFs Transforming Vimeo Videos Into Animated Graphics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-subscribers-on-youtube/"><u>[Updated] In 2024, How to Get More Subscribers on YouTube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 Pro Max iCloud Activation Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alternate-routes-to-open-the-latest-windows-apps/"><u>Alternate Routes to Open the Latest Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curtailing-premature-windows-edge-tabs/"><u>Curtailing Premature Windows Edge Tabs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-task-manager-with-finesse/"><u>Elevating Task Manager with Finesse</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-major-networks-explore-facebook-twitter-instagram-and-youtube-benefits/"><u>Engage on Major Networks: Explore Facebook, Twitter, Instagram & Youtube Benefits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2010-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2010</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-a-windows-11-recycle-bin-malfunction/"><u>Fixing a Windows 11 Recycle Bin Malfunction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-command-not-working-issue/"><u>Fixing Windows 11 Command Not Working Issue</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus 11 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jump-from-smartphone-to-desktop-android-gameplay-in-windows-11-with-google/"><u>Jump From Smartphone to Desktop: Android Gameplay in Windows 11 with Google</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mastering-disk-usage-top-techniques-for-effective-backups-using-aomei-backupper/"><u>Mastering Disk Usage: Top Techniques for Effective Backups Using AOMEI Backupper</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/reclaim-lost-facebook-watch-button/"><u>Reclaim Lost Facebook Watch Button</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-safe-mode-access/"><u>Step-by-Step Guide to Windows 11 Safe Mode Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-generating-flawless-ai-images-on-windows-11-through-paint-tool-sai/"><u>The Ultimate Guide for Generating Flawless AI Images on Windows 11 Through Paint Tool SAI</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unseen-smiles-hidden-glances-in-photos/"><u>Unseen Smiles, Hidden Glances in Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ui-evolution-focusing-on-the-taskbar/"><u>Windows UI Evolution - Focusing on the Taskbar</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-melodic-overlays-on-digital-imagery/"><u>[New] In 2024, Melodic Overlays on Digital Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unraveling-the-science-of-motion-without-contact/"><u>[New] In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/definitive-solutions-for-handling-missing-ocidll-files-on-windows-computers/"><u>Definitive Solutions for Handling Missing Oci.dll Files on Windows Computers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N53 FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-straightforward-approach-to-image-distortion/"><u>In 2024, A Straightforward Approach to Image Distortion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practicality-meets-elegance-with-the-new-asus-s15-oled/"><u>Practicality Meets Elegance with the New Asus S15 OLED</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/revive-your-gaming-experience-fixes-for-persistent-freezing-issues-in-halo-infinite-guide/"><u>Revive Your Gaming Experience: Fixes for Persistent Freezing Issues in Halo Infinite (Guide)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shh-9-secrets-of-simple-stock-editing/"><u>Shh! 9 Secrets of Simple Stock Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-faulty-drives-in-windows/"><u>Streamlining Faulty Drives in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-ios-16-functions-you-must-try-and-mastering-tips-from-zdnet/"><u>Top 5 Essential iOS 16 Functions You Must Try and Mastering Tips From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-pc-doesnt-meet-game-bar-issue/"><u>Troubleshooting PC Doesn't Meet Game Bar Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
 </ul></div>
 

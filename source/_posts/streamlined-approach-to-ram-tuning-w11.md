@@ -1,7 +1,7 @@
 ---
 title: Streamlined Approach to RAM Tuning W11
-date: 2024-10-23T18:50:06.786Z
-updated: 2024-10-26T18:19:07.713Z
+date: 2024-10-29T17:26:11.002Z
+updated: 2024-11-01T18:57:03.960Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Let's now see how to reset Virtual Memory on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -41,22 +48,15 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![How to Reset Virtual Memory on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-reset-virtual-memory-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open up the Performance Options window, where you can manage virtual memory settings. For this, switch to the **Advanced** tab and click on **Change** in the Virtual Memory section.
 
 ![Reset Page Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-page-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next screen, uncheck the **Automatically manage paging file size for all drives** checkbox and select the drive you want to configure virtual memory. Normally, this will be the drive on which Windows is installed.
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  Set the custom size for virtual memory. Then, check the **No paging file** radio button and click **Set**. If you see a warning message, click **Yes** to confirm.
 
  After following the above steps, click **OK** to save your changes. Now close the System Properties and Settings windows and restart your computer. The new virtual memory settings should now be in effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use Group Policy Editor
 
@@ -75,37 +82,30 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
 
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use Registry Editor
 
  If you don't have access to the Local Group Policy Editor, you can also use the Registry Editor to reset virtual memory settings on Windows. Before proceeding, you should [create a backup of the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) in case something gets wrong.
 
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
 
@@ -132,22 +132,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-android-advantage-5-unique-playlist-downloaders-reviewed-for-2024/"><u>[New] Android Advantage 5 Unique Playlist Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>[Updated] 2024 Approved 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money/"><u>[Updated] 2024 Approved From Zero to Hero in the Youtube World Starting Your Channel & Earning Money</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic-vs-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic Vs 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-virtual-machine-security-with-vboxs-secure-boot-toggle/"><u>Boost Virtual Machine Security with VBox's Secure Boot Toggle</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-playing-xbox-without-a-standard-controller/"><u>Game On: Playing Xbox Without a Standard Controller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-keygen-malware-on-windows-recognition-and-eradication-steps/"><u>Identifying Keygen Malware on Windows: Recognition and Eradication Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-unresponsive-pubg-gameplay-on-your-computer/"><u>Quick Fixes for Unresponsive PUBG Gameplay on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-integration-wirelessly-link-dualshock-3-and-win/"><u>Seamless Integration: Wirelessly Link DualShock 3 & Win</u></a></li>
-<li><a href="https://media-tips.techidaily.com/speedy-flv-to-wma-format-converter-a-step-by-step-guide/"><u>Speedy FLV-to-WMA Format Converter: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stay-connected-disable-usb-sleep-on-windows-11-pc/"><u>Stay Connected: Disable USB Sleep on Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-5-best-torrent-clients-for-windows/"><u>The 5 Best Torrent Clients for Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x100-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X100 Pro</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-3plus-free-flask-template-packs-from-creativetim-boost-your-web-app-design/"><u>Top 3+ Free Flask Template Packs From CreativeTim - Boost Your Web App Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-full-potential-of-the-windows-key/"><u>Unlocking Full Potential of the Windows Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-troubleshooting-for-elusive-temp-files/"><u>Windows Troubleshooting for Elusive Temp Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-racer-replicas-our-top-games/"><u>[New] In 2024, Ultimate Racer Replicas Our Top Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-infusing-vibrancy-into-stories-a-guide-to-choosing-the-right-emojis/"><u>[New] Infusing Vibrancy Into Stories A Guide to Choosing the Right Emojis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-money-savers-budget-priced-vr-devices-china-for-2024/"><u>[New] Money Savers Budget-Priced VR Devices (China) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-accelerated-cinematic-tips-diy-filming-mastery/"><u>[Updated] 2024 Approved Accelerated Cinematic Tips DIY Filming Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-fidelity-desktop-and-online-upconversion/"><u>Elite Fidelity Desktop & Online Upconversion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-x50-gt-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X50 GT Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-ea-servers-error-on-windows/"><u>How to Fix the “Unable to Connect to EA Servers” Error on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max with IMEI Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 7 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-file-access-in-geforce-experience/"><u>Improving File Access in GeForce Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-13-pro-max-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 13 Pro Max® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-your-wi-fi-networks-on-windows-pc/"><u>Obscure Your Wi-Fi Networks on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/open-tcpip-port-detection-techniques-on-windows-systems/"><u>Open TCP/IP Port Detection Techniques on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-techniques-to-track-down-win-ipmac-info/"><u>PowerShell Techniques to Track Down Win IP/MAC Info</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rotate-like-a-pro-6-easy-steps-for-windows-photos/"><u>Rotate Like a Pro: 6 Easy Steps for Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-onedrive-and-microsoft-account-connection-guide/"><u>Seamless OneDrive & Microsoft Account Connection Guide</u></a></li>
 </ul></div>
 

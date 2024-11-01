@@ -1,7 +1,7 @@
 ---
 title: Customize Windows Feedback for Essential Alerts Only
-date: 2024-09-11T01:23:51.493Z
-updated: 2024-09-12T01:23:51.493Z
+date: 2024-10-31T19:26:04.045Z
+updated: 2024-11-01T17:20:39.514Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,21 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-
-
 ## How to Turn Off or Disable Tips and Suggestions Notifications in Windows 11
 
  Tips and suggestions provide quick guides to Windows and its features. But if you find them annoying, you can turn them off. Here are two easy methods to turn off tips and suggestions notifications on Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Turn Off Tips and Suggestions Using System Settings
 
@@ -42,27 +46,28 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 ![Open System Notification Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-system-notification-section.jpg)
 4. Next, scroll down to the bottom and expand **Additional settings**.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Get tips and suggestions when using Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/get-tips-and-suggestions-when-using-windows.jpg)
 5. You will see a checkbox labeled **Get tips and suggestions when using Windows**. Uncheck it to turn off this feature.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you will not see any tips and suggestions notifications on your computer. If later you wish to re-enable this feature, follow the same steps outlined above and check the "Get tips and suggestions when using Windows" checkbox. Doing this will enable tips and suggestions notifications on your computer.
 
@@ -83,20 +88,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
  If you prefer to disable tips and suggestions notifications on your computer completely, there are several options available. You can utilize the Group Policy Editor, modify the registry editor, or create a REG file. Let's explore each method in detail to disable this feature.
@@ -115,42 +106,9 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
 ![Do not Show Windows Tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/do-not-show-windows-tips.jpg)
 5. From the box that appears, select the **Enabled** radio button.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Click **Apply** \> **OK** to save the changes.
 
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 2\. Disable Tips and Suggestions Notifications Using the Registry Editor
 
@@ -169,22 +127,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 ![Disable Tips and Suggestions Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-tips-and-suggestions-notifications-using-the-registry-editor.jpg)
 8. Double-click on this newly created entry and set its Value data to **1**.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 9. Click **OK** to save the changes. Now, exit the registry editor window and restart your computer.
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Disable Tips and Suggestions Notifications Using a REG File
 
@@ -203,37 +155,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  That’s it! Tips and suggestions feature is now disabled on your computer.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Stop the Windows Tips and Suggestions Notifications
 
  We hope that this article helped you understand how to turn off or disable tips and suggestions notifications in Windows 11\. All it takes are a few clicks or a simple REG file to enable or disable this feature.
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -242,3 +168,25 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-dominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>[Updated] Dominate Search Results Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-copyright-demystified-key-principles-and-practices/"><u>2024 Approved YouTube Copyright Demystified Key Principles and Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-backup-configuration-error-on-windows-systems/"><u>Correcting “Backup Configuration Error” On Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-entertainment-experience-navigating-netflixs-picture-in-picture-functionality/"><u>Enhance Entertainment Experience Navigating Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-removing-windows-bt-folders-safely/"><u>Guidelines for Removing Windows ~BT Folders Safely</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A54 5G Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-clipboard-integration-within-microsofts-app-guard-on-windows-11/"><u>How to Initiate Clipboard Integration Within Microsoft's App Guard on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-exploring-digital-realms-metaverse-versus-multiverse-compared/"><u>In 2024, Exploring Digital Realms Metaverse Versus Multiverse Compared</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-note-50-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Note 50 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-e2s-major-challenges-essential-tips-for-troubleshooting-and-repair/"><u>Overcoming iPhone E2's Major Challenges: Essential Tips for Troubleshooting & Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-failed-driver-installations-on-windows-11/"><u>Remedying Failed Driver Installations on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackle-baldurs-gate-3s-high-resource-use-expert-solutions-for-gamers/"><u>Tackle Baldur’s Gate 3’S High Resource Use : Expert Solutions for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-power-management-on-pcs/"><u>The Ultimate Guide to Power Management on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-for-kali-on-windows-systems/"><u>The Ultimate Playbook for Kali on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-troubleshoot-anydesk-not-responding-in-windows-11/"><u>Tips to Troubleshoot AnyDesk Not Responding in WIndows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hyperx-cloud-alpha-microphone-malfunction/"><u>Troubleshooting Guide: Resolving Issues with Your HyperX Cloud Alpha Microphone Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-windowware-curbing-display-responses-disruptions/"><u>Winning at Windowware: Curbing Display Responses Disruptions</u></a></li>
+</ul></div>
+

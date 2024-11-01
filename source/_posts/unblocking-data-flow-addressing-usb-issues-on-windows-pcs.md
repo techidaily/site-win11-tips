@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Data Flow: Addressing USB Issues on Windows PCs"
-date: 2024-09-09T23:01:32.665Z
-updated: 2024-09-16T19:39:03.290Z
+date: 2024-10-27T17:17:16.589Z
+updated: 2024-11-01T16:53:59.633Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Your USB Device's Drivers
 
  The USB driver is the set of instructions that lets your USB stick interact with Windows. In practical terms, this means without a proper driver installed, your USB stick is as good as a pebble for your PC.
@@ -45,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  If Windows still can't find any drivers, then you can try locating them yourself. Take note of the manufacturer and model number
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
@@ -52,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
 
@@ -76,15 +83,22 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
@@ -121,5 +135,20 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-disabling-youtube-shorts-for-good-a-simple-approach/"><u>[New] In 2024, Disabling YouTube Shorts for Good A Simple Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-stylus-nx420-driver-download-for-windows-7810/"><u>Epson Stylus NX420 Driver Download for Windows 7/8/10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-v600-scanner-drivers-free-download/"><u>Epson V600 Scanner Drivers - Free Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-deadly-discord-javascript-hurdle-on-windows-11-and-11-pro/"><u>Fixing the Deadly Discord Javascript Hurdle on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-windows-11-tips-mastering-memo-making/"><u>Free Windows 11 Tips: Mastering Memo-Making</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-silent-controllers-in-windows-pcs/"><u>How To Reactivate Silent Controllers in Windows PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-spark-20c-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Spark 20C Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-gt-3-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme GT 3 Through Google Earth?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-chrome-profile-issues-on-windows-computers/"><u>Quick Fixes for Chrome Profile Issues on Windows Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-virtualbox-efail-windows-error/"><u>Understanding and Fixing Virtualbox E_FAIL (Windows) Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-secrets-of-service-configuration-on-windows-11/"><u>Unraveling the Secrets of Service Configuration on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-5-best-free-tools-to-merge-mpeg-videos/"><u>Updated In 2024, 5 Best Free Tools to Merge MPEG Videos</u></a></li>
+</ul></div>
 

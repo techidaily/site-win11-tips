@@ -1,0 +1,172 @@
+---
+title: Conveniently Display Images Within Windows Explorer
+date: 2024-10-29T16:43:15.986Z
+updated: 2024-11-01T16:43:12.058Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Conveniently Display Images Within Windows Explorer
+excerpt: This Article Describes Conveniently Display Images Within Windows Explorer
+keywords: Image Viewing WINXP,Windows Image Gallery,Explore Photos Quickly,Easy Windows Image Viewer,Images in Explorer Window,Fast Image Display WinExe,Visualize Photos WIndows
+thumbnail: https://thmb.techidaily.com/dbe86ec4eee57de28307f7a87e5d2dc26b222d4d704a45568094d723e05d6df4.jpg
+---
+
+## Conveniently Display Images Within Windows Explorer
+
+ Windows 11’s File Explorer has a tabs feature now. You can open a new location on the disk in a new tab rather than opening a new File Explorer window. Switching between multiple file locations is seamless, all thanks to this feature. But Microsoft isn’t planning to stop here. It wants to completely overhaul the File Explorer.
+
+ File Explorer Gallery is one such new feature that Microsoft is testing in the Canary channel. Having a Gallery section will remove the need to browse separate folders to find or preview an image. Want to enable the feature on your system? Let’s begin.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Is the Gallery Feature in Windows File Explorer?
+
+ File Explorer’s Gallery feature works exactly like it sounds. It categorically lists all the images on your system in a separate section, so you can find and view all the images in one tab. Android File Explorers have had this feature for quite a long, but Windows seems to care about it now.
+
+ This new feature is available in the Windows Insider build version 25300 and above. But Microsoft made a big change to the Insider program by adding a Canary channel. So, any new Canary build will also have this experimental feature. Microsoft adds the new File Explorer based on Windows App SDK, which you can verify by hovering over the “pizza” icon in the File Explorer address bar.
+
+ The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
+
+## How to Enable Gallery in File Explorer in Windows 11
+
+ Repeat the following steps to enable the new Gallery section in File Explorer:
+
+### 1\. Update to the Appropriate Windows Insider Build
+
+ The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Download ViVeTool
+
+ You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+
+### 2\. Enabling Gallery in Windows File Explorer
+
+ Retrace the following steps to enable the Gallery section on Windows 11:
+
+1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
+2. Now, navigate to the main directory in C drive. Type**cd C:\\ command** and press the enter key.
+3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
+4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
+![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
+5. Now, type the following command and press the enter key:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+vivetool /enable /id:41040327
+6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
+vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id:41969252 vivetool /enable /id:42922424 vivetool /enable /id:42295138
+7. After running all the commands without any error, type**exit** and press the enter key to close the command prompt window.  
+![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
+8. Restart your computer for the changes made by Vivetool to take effect.
+9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to View the Gallery in File Explorer
+
+ You can access the Gallery section by launching File Explorer and clicking on the Gallery option in the left navigation pane. You will see all the images from the Pictures folder and OneDrive folder arranged by modification time (new to old). There is also a handy slider to scroll through the vast image tiles without using the mouse scroll wheel.
+
+![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
+
+## How to Add or Remove Locations From Gallery in Windows File Explorer
+
+ By default, the Gallery selection displays all the images located in the Pictures folder and OneDrive. But you can add or remove a folder from the Gallery section as well.
+
+1. To add a folder to the Gallery, go to the menu bar and click on the**Locations** option. A new pop-up window will open and list all the folders that the Gallery section is pulling images from. Click on the**Add** button.  
+![Adding a Folder to Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adding-a-folder-to-gallery-in-windows-file-explorer.jpg)
+2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3. The selected folder will appear in the list of available folders. Click on the**OK** button.
+4. File Explorer gallery will now display the images present inside the newly added folder as well.
+
+To remove a folder from Gallery, repeat the following steps:
+
+1. Open the Gallery section and click on the**Locations** option in the menu bar.
+2. You will see the list of all the folders currently included in the Gallery.
+3. Click on the folder you want to remove to select it. Then click on the**Remove** button.  
+![Removing a Folder from Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/removing-a-folder-from-gallery-in-windows-file-explorer.jpg)
+4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
+
+## Problems With the Gallery Section in Windows File Explorer
+
+ The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
+
+ There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
+
+## Find All Your Images in One Place on Windows With Galleries
+
+ Adding a Gallery section to File Explorer is a fantastic decision by Microsoft. But the current version is full of kinks we hope that Microsoft irons out before the final preview. If done right, this would make the File Explorer app a powerhouse and reduce dependency on other apps.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/slr-cameras-stand-against-mirrorless-for-videographers/"><u>[New] DSLR Camera's Stand Against Mirrorless for Videographers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortless-snapchat-setup-for-mac-enthusiasts/"><u>[New] In 2024, Effortless Snapchat Setup for Mac Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mpgmp3-movavi/"><u>「線上免費MPG轉換為MP3 : Movavi 強大、用戶友好的媒體格式改變工具」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>2024 Approved Apeak Recorder Reviewed Speed, Quality, and Ease of Use Scored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambiar-resolucao-de-video-online-top-8-softwares-mais-populares-e-gratuitos/"><u>Cambiar Resolução De Vídeo Online: Top 8 Softwares Mais Populares E Gratuitos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-archivo-mkv-a-formato-flv-de-vuelo-sin-coste-con-movavi/"><u>Convertir Archivo MKV a Formato FLV De Vuelo Sin Coste Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-convert-vob-tracks-to-lossless-flac-format-quick-easy-and-free/"><u>Download & Convert VOB Tracks to Lossless FLAC Format - Quick, Easy and Free!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/guffaw-on-your-phone-hysterical-site-listings-for-2024/"><u>Guffaw on Your Phone Hysterical Site Listings for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fuse-rhythms-into-powerpoint-layouts/"><u>In 2024, Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-creating-an-immersive-text-based-rpg-experience/"><u>Mastering ChatGPT: Creating an Immersive Text-Based RPG Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-image-editor-convert-your-webp-files-to-bmp-without-charge/"><u>Movavi Image Editor - Convert Your WebP Files to BMP Without Charge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/passo-a-passo-simples-para-recuperacao-de-fotos-antigas-tecnicas-eficazes-do-movavi/"><u>Passo a Passo Simples Para Recuperação De Fotos Antigas - Técnicas Eficazes Do Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rip-proof-free-online-conversion-of-m4r-to-mp3-by-movavi/"><u>Rip-Proof, Free Online Conversion of M4R to MP3 by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-applications-pour-ameliorer-la-qualite-de-votre-video/"><u>Top 12 Applications Pour Améliorer La Qualité De Votre Vidéo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-implementing-website-pinging-essential-insights-and-best-practices/"><u>Understanding and Implementing Website Pinging - Essential Insights & Best Practices</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Preventing Windows From Booting Directly to BIOS
-date: 2024-10-23T16:42:39.771Z
-updated: 2024-10-26T19:29:44.491Z
+date: 2024-10-25T19:34:41.128Z
+updated: 2024-11-01T19:29:44.231Z
 tags:
   - windows10
   - windows11
@@ -29,18 +29,18 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
  Disconnecting the peripherals and discharging the static charge has fixed the issue under discussion for some users. Therefore, before you proceed with any other fixes, unplug all peripherals from your device, and press the power button for half a minute to discharge static electricity. After that, reboot your device. If it boots back into BIOS, begin applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Quick Restart From the BIOS
 
  Although it sounds pretty simple, restarting the computer after saving BIOS settings usually boots a device into Windows, which may help bypass the issue. Therefore, once your device boots into BIOS, do not make any changes; save the changes and exit BIOS. Afterward, your device may restart once and boot directly into Windows this time.
 
  Even if this workaround works, it isn't a permanent fix, as you will need to restart Windows through BIOS every time you turn it on, which can be annoying. Continue applying the remaining fixes for a permanent solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Ensure That the Boot Key Isn't Pressed Down
 
@@ -48,23 +48,9 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
 ![HyperX Alloy Origins Core Function Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Alloy-Origins-Core-HyperX-Function-Keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When this button is pressed, Windows will boot into BIOS instead of the operating system following a turn-on. So, if your device is automatically booting into BIOS, it is possible that this key got stuck while pressed down on the keyboard, telling your PC to boot into BIOS.
 
  Therefore, make sure the boot key on your keyboard isn't pressed. If there are any dust particles on it, wipe them off and press the key several times to ensure nothing is stuck.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Ensure the Drive Containing the Operating System Is Plugged In
 
@@ -86,15 +72,22 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
 ![Changing the Boot Mode in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/changing-the-boot-mode-in-bios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it isn't selected, click on the **arrow button** and move the drive containing your operating system to the top.
 
 ![Putting the Drive Containing the OS at Top in Boot Sequence in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/putting-the-drive-containing-the-os-at-top-in-boot-sequence-in-bios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Fast Startup
@@ -109,43 +102,33 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
  So, if you are able to boot to Windows from BIOS but again encounter the issue when restarting, refer to our guide on [how to update your UEFI BIOS in Windows](https://www.makeuseof.com/tag/update-uefi-bios-windows/). If you cannot boot to Windows, you will have to resort to other methods of updating BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Replace or Reinsert the CMOS Battery
 
 ![Person tampering with a motherboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/cmos-battery-explained-featured.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The CMOS battery powers the BIOS firmware on the laptop. If you are unable to boot to Windows, a dead CMOS battery could also be to blame. Often, just removing and reinserting the battery fixes the issue; however, it resets a few settings, including the date and time. In case of a dead battery, you may need to replace it.
 
  If you want to know more about the CMOS battery and how to remove it, refer to our guide on [what a CMOS battery is](https://www.makeuseof.com/what-is-a-cmos-battery-and-how-do-you-remove-one/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t Let Your Windows PC Boot to BIOS
 
  Seeing your device boot directly into BIOS rather than Windows can be extremely frustrating. We hope the above fixes will help you successfully resolve the issue and boot to Windows. If the above fixes don't work, repair or reinstall Windows. If that doesn't work either, the laptop could have a hardware problem, so take it to a technician for inspection.
 
  If you have trouble booting the operating system repeatedly and want your device to boot to Windows rather than BIOS, here are a few checks and fixes you can apply.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-experts-take-on-using-luts-for-image-enhancement-in-pscc/"><u>[New] In 2024, Expert's Take on Using LUTs for Image Enhancement in PSCC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-visual-content-reimagined-apple-music-inclusion/"><u>[Updated] In 2024, Visual Content Reimagined Apple Music Inclusion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-admin-restrictions-on-windows-safety-settings/"><u>Bypassing Admin Restrictions on Windows Safety Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2019-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2019 Found a Problem with One or more Formula | Stellar</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-image-integration-seamless-video-content-creation/"><u>In 2024, Image Integration Seamless Video Content Creation</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-enables-2fa-via-whatsapp-for-secure-access/"><u>Instagram Enables 2FA via WhatsApp for Secure Access</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-essential-zoom-techniques-for-iphone-users/"><u>Master Essential Zoom Techniques for iPhone Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-lcds-on-hp-notebooks/"><u>Stabilizing LCDs on HP Notebooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-offline-lsa-warning/"><u>Steps to Address Offline LSA Warning</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,3 +137,19 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>[New] 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-hd-screenshot-and-recording-programs-guide/"><u>[Updated] 2024 Approved Advanced HD Screenshot and Recording Programs Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-animated-bouncing-text/"><u>[Updated] In 2024, How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-optimal-nvidia-rtx-2060-supers-driver-pack-for-windows-1011-systems/"><u>Download Optimal Nvidia RTX 2060 Supers Driver Pack for Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-robust-access-controls-via-powertoys/"><u>Implementing Robust Access Controls via PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-saving-woes-quickly-6-key-methods-for-powerpoint-in-windows/"><u>Resolve Saving Woes Quickly: 6 Key Methods for PowerPoint in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restrictions-on-windows-11-insider-edition-use/"><u>Restrictions on Windows 11 Insider Edition Use</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-uninterrupted-usage-in-your-windows-dashboard/"><u>Secure Uninterrupted Usage in Your Windows Dashboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-understanding-your-last-windows-use/"><u>The Key to Understanding Your Last Windows Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-plug-ins-for-excellent-gpt-in-vs-code/"><u>Ultimate Plug-Ins for Excellent GPT in VS Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-windows-11-functionality-with-a-powerful-run-feature/"><u>Upgrade Windows 11 Functionality with a Powerful Run Feature</u></a></li>
+</ul></div>
+

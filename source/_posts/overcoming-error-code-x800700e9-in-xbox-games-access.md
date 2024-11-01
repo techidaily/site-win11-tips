@@ -1,7 +1,7 @@
 ---
 title: Overcoming Error Code X800700E9 in Xbox Games Access
-date: 2024-09-11T05:16:13.464Z
-updated: 2024-09-16T19:30:23.739Z
+date: 2024-10-27T16:06:43.924Z
+updated: 2024-11-01T19:23:41.183Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 4. Double-click the Delivery Optimization service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/services-window2.jpg)
 5. Select**Start** if it’s not running.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Automatic** on Delivery Optimization’s**Startup type** menu.  
 ![The Delivery Optimization Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-properties-window.jpg)
 7. Select**Apply** \>**OK** to save the service’s new settings.
@@ -71,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  If the services are already running, try restarting them. Right-click the services and select their**Stop** options. Then you can start those services again by right-clicking them and selecting**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable Delivery Optimization via the Windows Registry
@@ -89,16 +97,23 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 4. Select the**DoSvc** key, and right-click the**Start** DWORD to select**Modify** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/modify-option.jpg)
 5. Input**3** in the**Value** box and click**OK** .  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-dword-key.jpg)
 6. Exit Regedit, and restart the PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reset or Repair the Xbox App
 
@@ -109,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![The Reset option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reset the Microsoft Store Cache
@@ -124,6 +139,17 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 3. Click**WSReset.exe** to run the command.  
 ![The wsreset.exe Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-exe-command.jpg)
 4. Wait for MS Store to open automatically, and then try downloading Xbox Game Pass titles again.
+
+## 7\. Reinstall the Microsoft Store
+
+ Reinstalling the Microsoft Store can fix deeper issues with that app that could be causing error 0x800700e9\. Although you can’t select to uninstall Microsoft Store, you can still reinstall that app with a PowerShell command. Here are the steps for reinstalling the Microsoft Store via PowerShell:
+
+1. Bring up Run with the**Win + R** keyboard shortcut, and input**PowerShell** within the text box.
+2. Right-click PowerShell to bring up a context menu, and select the**Run as administrator** option.
+3. Execute this PowerShell command for reinstalling Microsoft Store:  
+`Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
+![The reinstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinstall-microsoft-store-command.jpg)
+4. Wait for the command to finish, and then exit the command app.
 
 <!-- affiliate ads begin -->
 <span id="2135472">
@@ -138,22 +164,11 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-## 7\. Reinstall the Microsoft Store
-
- Reinstalling the Microsoft Store can fix deeper issues with that app that could be causing error 0x800700e9\. Although you can’t select to uninstall Microsoft Store, you can still reinstall that app with a PowerShell command. Here are the steps for reinstalling the Microsoft Store via PowerShell:
-
-1. Bring up Run with the**Win + R** keyboard shortcut, and input**PowerShell** within the text box.
-2. Right-click PowerShell to bring up a context menu, and select the**Run as administrator** option.
-3. Execute this PowerShell command for reinstalling Microsoft Store:  
-`Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
-![The reinstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinstall-microsoft-store-command.jpg)
-4. Wait for the command to finish, and then exit the command app.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
@@ -181,5 +196,18 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-free-top-chromebook-recording-software/"><u>2024 Approved Free Top Chromebook Recording Software</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/budapests-best-for-search-engine-optimization-expert-picks-and-seo-powersuite-insights-success/"><u>Budapest's Best for Search Engine Optimization - Expert Picks and SEO PowerSuite Insights Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-places-get-your-complimentary-epub-books-here/"><u>Discover the Best Places: Get Your Complimentary ePUB Books Here!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-video-downloads-with-top-converters-for-2024/"><u>Optimal Video Downloads with Top Converters for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-siri-functionality-top-7-fixes-for-your-apple-device-woes/"><u>Restore Siri Functionality - Top 7 Fixes for Your Apple Device Woes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-kindle-advantage-in-book-consumption/"><u>The Kindle Advantage in Book Consumption</u></a></li>
+</ul></div>
 

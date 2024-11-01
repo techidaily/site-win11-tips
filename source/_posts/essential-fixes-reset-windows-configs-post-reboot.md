@@ -1,7 +1,7 @@
 ---
 title: "Essential Fixes: Reset Windows Configs Post-Reboot"
-date: 2024-10-21T21:51:10.592Z
-updated: 2024-10-26T21:14:55.496Z
+date: 2024-10-29T17:20:41.038Z
+updated: 2024-11-01T17:12:05.790Z
 tags:
   - windows10
   - windows11
@@ -32,22 +32,15 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
  Sometimes, if there is a system error or a hardware issue like a faulty hard drive, Windows settings may reset when the computer restarts. This could happen due to an unforeseen power outage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix Windows Settings Resetting Upon Reboot
 
  The best way to fix Windows settings resetting upon reboot is to identify the cause of the problem and take corrective action. Here are some tips to get your settings back.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Look Out for Suspicious Programs
 
@@ -56,23 +49,18 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 1. Right-click on your Taskbar area and select**Task Manager** from the context menu. You can also press**Ctrl + Shift + Esc** if you prefer using shortcut keys.  
 ![Look Out for Suspicious Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/look-out-for-suspicious-programs.jpg)
 2. In the Task Manager window, switch to the**Processes** tab and look for any unfamiliar program or process that is hogging up your system resources.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you find a suspicious program, right-click on it and select**End task** to terminate the process.
 4. Now go to the Windows Control Panel and uninstall the program.
 
  After uninstalling the program, restart your computer and check if the settings reset issue is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Run Automatic Startup Repair
 
@@ -90,13 +78,6 @@ To run Automatic Startup Repair, follow these steps:
 ![Startup repair in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/startup-repair-1.jpg)
 
  Follow the on-screen instructions to run the automatic repair tool. After you complete the above process, restart your computer and check if it solves the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Check Your User Profile
 
@@ -120,6 +101,13 @@ On the next screen, navigate to the following path:
 
  Then double-click on the newly created RefCount and enter**0** in the Value data field. Click**OK** to save your changes and exit Registry Editor. After this, restart your computer and check whether the settings reset problem is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Create a New User Profile
 
  If you weren’t able to repair the corrupt profile in the Registry Editor, you may have to[create a new user profile on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) . Creating a new user profile does not delete the old one, so all your data will remain intact, but you will have to reconfigure your settings. After creating it, log out of your current user account and switch to the newly created one. Check if this fixes the settings reset issue.
@@ -131,6 +119,13 @@ On the next screen, navigate to the following path:
  You can also try rolling back any drivers that might be causing the issue. To do this, right-click on Start and select**Device Manager** . In the Device Manager window, find the device you want to roll back and right-click on it. Select**Properties** from the context menu and then click on the**Driver** tab.
 
  Click**Roll Back Driver** and then follow the instructions on-screen to complete the process. After rolling back the driver, restart your computer to apply the changes and check if it solves the settings reset issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Perform Some Generic Windows Fixes
 
@@ -161,19 +156,16 @@ On the next screen, navigate to the following path:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elite-uavs-get-yours-today/"><u>[New] Elite UAVs Get Yours Today</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ransform-your-living-room-the-power-of-youtube-tv/"><u>[New] Transform Your Living Room The Power of YouTube TV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023s-top-8-video-sensations-a-facebook-deep-dive/"><u>2024 Approved 2023'S Top 8 Video Sensations A Facebook Deep Dive</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boosting-visibility-on-tiktok-with-smart-hashtags/"><u>2024 Approved Boosting Visibility on TikTok with Smart Hashtags</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-yuzu-fps-on-pc-systems/"><u>Enhancing Yuzu FPS on PC Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-nvidia-gl-driver-issue-3-on-win11/"><u>Expert Fixes for NVIDIA GL Driver Issue #3 on Win11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-s17e-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo S17e Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-10t-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 10T 5G Phone?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconciling-system-with-a-fresh-net-framework-max-156/"><u>Reconciling System with a Fresh .NET Framework (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-windows-11-help-menu-failure/"><u>Steps for Fixing Windows 11 Help Menu Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-path-failure-on-pc-operating-systems/"><u>Tackling PATH Failure on PC Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-harmony-of-ai-and-automotive-voices-mercedes-leap/"><u>The Harmony of AI and Automotive Voices: Mercedes Leap</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>[New] Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clandestine-file-storage-win11s-image-encryption-tricks/"><u>Clandestine File Storage: Win11's Image Encryption Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-security-turn-on-controlled-folder-access-in-windows-11/"><u>Command Security: Turn on Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-zte-blade-a73-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from ZTE Blade A73 5G.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovations-in-capturing-high-quality-facetime-calls/"><u>In 2024, Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211012179-9781803413297-meeting-the-moment-with-kindness/"><u>Meeting the Moment with Kindness | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-windows-11-setup-errors-a-step-by-step-guide/"><u>Resolving Windows 11 Setup Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faulty-ports-the-windows-way-to-reclaim-usb-health/"><u>Restoring Faulty Ports - The Windows Way to Reclaim USB Health</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-windows-calculator-display-to-dark/"><u>Set Windows Calculator Display to Dark</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-pova-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Pova 5 Pro without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Silencing Explore Tab Clamor"
-date: 2024-10-20T17:05:50.406Z
-updated: 2024-10-26T21:35:43.514Z
+date: 2024-10-29T19:05:24.467Z
+updated: 2024-11-01T16:20:08.697Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable File Explorer Tabs In Windows 11
 
  You can disable the File Explorer Tabs by either using the ViVeTool or the ViVeTool GUI version. The latter is much simpler to use because you can search for a feature and activate or deactivate it in one click. But before doing that, download and install both of these tools on your system. Also,[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) for added precaution, in case the tool wrecks something on your Windows 11 computer.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 vivetool /disable /id:37634385  
@@ -75,10 +68,10 @@ vivetool /disable /id:36354489
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
@@ -92,6 +85,13 @@ vivetool /disable /id:36354489
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable Any Windows 11 Feature Using ViVeTool
 
@@ -112,18 +112,24 @@ vivetool /disable /id:36354489
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-wearable-wonder-apply-applewatch-to-openmac/"><u>[New] 2024 Approved Wearable Wonder Apply AppleWatch to OpenMac</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-superior-smartphones-that-dominate-in-video-recording-for-2024/"><u>[New] Superior Smartphones That Dominate in Video Recording for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>2024 Approved TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/examining-the-breadth-of-features-in-obs-studio/"><u>Examining the Breadth of Features in OBS Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-exiting-wows-unprecedented-crash-132/"><u>Guide to Exiting WoW’s Unprecedented Crash 132</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y28-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y28 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-voice-commands-keyboard-shortcut-essentials/"><u>Mastering Windows 11'S Voice Commands: Keyboard Shortcut Essentials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/memory-and-cpu-efficiency-in-browsers-a-windowsmacoschromeos-comparison/"><u>Memory and CPU Efficiency in Browsers: A Windows/macOS/ChromeOS Comparison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-enhance-your-file-explorer-experience-in-windows-11/"><u>Troubleshoot & Enhance Your File Explorer Experience in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-skills-for-successful-interviews/"><u>[New] 2024 Approved Essential Skills for Successful Interviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unique-gifting-made-simple-discover-top-10-custom-box-sellers-for-2024/"><u>[New] Unique Gifting Made Simple Discover Top 10 Custom Box Sellers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-first-steps-to-successful-vlogging-essentials/"><u>[Updated] In 2024, First Steps to Successful Vlogging Essentials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-leap-into-virtual-gatherings-xbox-zoom-mastery/"><u>[Updated] Leap Into Virtual Gatherings Xbox Zoom Mastery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-androids-power-to-replay-film-slices/"><u>2024 Approved Android's Power to Replay Film Slices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-8-speed-upters-accelerate-your-android-media/"><u>2024 Approved Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-win-error-logs-post-blue-screen/"><u>Deciphering Win Error Logs Post-Blue Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-webp-savings-steps-for-changing-chrome-image-format-on-windows/"><u>Eliminate WebP Savings: Steps for Changing Chrome Image Format on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-smart-8-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Smart 8 Location | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-8-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 8 Making It Possible</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-cost-analysis-for-new-podcasters/"><u>In-Depth Cost Analysis for New Podcasters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nullifying-windows-update-notifications/"><u>Nullifying Windows Update Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slowing-the-spree-of-lifes-speed-in-your-windowed-world/"><u>Slowing the Spree of Life’s Speed in Your Windowed World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-nvidia-cp-unauthorized-access-on-windows/"><u>Solving Nvidia CP Unauthorized Access on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-guide-to-replace-msvcr120dll-in-windows/"><u>Step-by-Step Fix Guide to Replace MSVCR120.dll in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-vac-refusal-message-on-pc/"><u>Steps to Tackle VAC Refusal Message on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/voice-to-text-made-easy-with-openais-whisper-in-your-windows-environment/"><u>Voice-to-Text Made Easy With OpenAI's Whisper in Your Windows Environment</u></a></li>
 </ul></div>
 

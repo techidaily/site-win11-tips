@@ -1,7 +1,7 @@
 ---
 title: Overcoming We Encountered an Error in Oculus App Setup
-date: 2024-09-14T04:25:46.815Z
-updated: 2024-09-17T02:11:09.881Z
+date: 2024-10-30T18:11:35.744Z
+updated: 2024-11-01T17:47:31.555Z
 tags:
   - windows10
   - windows11
@@ -33,20 +33,34 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
- Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -55,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
@@ -93,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
 C:\Users\<User Folder>\AppData`
@@ -100,16 +114,10 @@ C:\Users\<User Folder>\AppData`
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the Oculus Windows Software
@@ -126,5 +134,19 @@ C:\Users\<User Folder>\AppData`
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac/"><u>[Updated] In 2024, Game-Changing Tips Master the Art of Minecraft Capture on a Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-integrating-youtube-effective-strategies-for-modern-teachers-for-2024/"><u>[Updated] Integrating YouTube Effective Strategies for Modern Teachers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enabling-seagate-drives-on-new-windows-11-os/"><u>Enabling Seagate Drives on New Windows 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enter-the-ai-realm-easily-accessible-knowledge-in-our-9-communities/"><u>Enter the AI Realm: Easily Accessible Knowledge in Our 9 Communities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-null-or-undefined-values-in-windows-computers/"><u>Fixing Null or Undefined Values in Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-sudden-blackness-in-pc-gaming-on-windows/"><u>Fixing Sudden Blackness in PC Gaming on WINDOWS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-y27-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo Y27 5G on Mac?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-windows-autoupdate-plus-amd-gpu-driver-change/"><u>Securing Windows: Autoupdate + AMD GPU Driver Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-google-play-for-win11-users/"><u>Setting Up Google Play for Win11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-personalized-vehicle-upgrades/"><u>The Ultimate Guide to Leveraging ChatGPT for Personalized Vehicle Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-excel-content-on-notepad-revealed/"><u>Unlocking: Excel Content on Notepad Revealed</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-111087-6/"><u>Windows 11、10、8、および7でチェックディスクにアクセスできないときの対策: 6つの解決策</u></a></li>
+</ul></div>
 

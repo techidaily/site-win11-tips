@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Multi-Archive Extraction for Windows Users
-date: 2024-09-11T01:21:55.863Z
-updated: 2024-09-12T01:21:55.863Z
+date: 2024-10-28T19:09:37.501Z
+updated: 2024-11-01T18:03:51.762Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
@@ -51,23 +48,16 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
@@ -81,19 +71,18 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  Now it's time to use the app:
 
@@ -101,103 +90,38 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Batch Extract ZIP Files Quicker in Windows
 
  ExtractNow and 7-Zip are two of the best freely available Windows desktop apps for simultaneously extracting multiple ZIP files. It’s quick and easy to batch-extract hundreds of ZIP archives in just a few clicks with those software packages. So, they’re invaluable utilities for anybody who needs to bulk extract many ZIP files.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -206,3 +130,23 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quick-guide-altering-screen-colors-on-google-meet/"><u>[New] 2024 Approved Quick Guide Altering Screen Colors on Google Meet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-comprehensive-guide-to-top-sd-cards-with-gopro-hero-cameras-for-2024/"><u>[New] Comprehensive Guide to Top SD Cards with GoPro HERO Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configure-youtubes-audience-options-with-ease/"><u>[Updated] 2024 Approved Configure YouTube's Audience Options with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mobilizing-audience-engagement-igtv-and-fb-synchronization-for-2024/"><u>[Updated] Mobilizing Audience Engagement IGTV and FB Synchronization for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-beginners-guide-to-using-windows-canary/"><u>A Step-by-Step Beginner’s Guide to Using Windows' Canary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-boot-up-with-these-3-ways-in-windows-11/"><u>Accelerate Your PC's Boot-Up with These 3 Ways in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessibility-enhanced-with-shortcuts-for-microsoft-store-uwp/"><u>Accessibility Enhanced with Shortcuts for Microsoft Store UWP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-os-public-ip-command-prompt-tricks/"><u>Accessing OS Public IP: Command Prompt Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjustments-for-a-seamless-integration-of-wsl-in-win-11/"><u>Adjustments for a Seamless Integration of WSL in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-microsofts-new-taskbar-helper-in-windows-11-streamlines-tasks/"><u>AI Integration: Microsoft's New Taskbar Helper in Windows 11 Streamlines Tasks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-stop-oxygen-not-included-from-suddenly-crashing/"><u>Expert Tips to Stop 'Oxygen Not Included' From Suddenly Crashing</u></a></li>
+<li><a href="https://games-able.techidaily.com/mesh-of-past-and-present-old-dock-and-nintendo-switch-oled/"><u>Mesh Of Past and Present: Old Dock & Nintendo Switch OLED</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spotlight-subject-erase-bg-in-photo-editing-for-2024/"><u>Spotlight Subject, Erase Bg in Photo Editing for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tweak-hidden-gpu-status/"><u>Tweak Hidden GPU Status</u></a></li>
+</ul></div>
+

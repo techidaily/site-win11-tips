@@ -1,7 +1,7 @@
 ---
 title: "Windows Past and Future: Unearthing 7 Time-Honed Elements in 11"
-date: 2024-09-11T01:20:42.892Z
-updated: 2024-09-12T01:20:42.892Z
+date: 2024-10-27T16:41:58.851Z
+updated: 2024-11-01T17:39:21.680Z
 tags:
   - windows10
   - windows11
@@ -20,26 +20,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  Here are some ancient Windows features you can still find and use in Windows 11\. Some have been hanging around, unchanged, since the late 80s.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Command Prompt
 
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
@@ -50,37 +30,16 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. The Run Dialog
 
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -88,59 +47,31 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
 
  There are several powerful[Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 4\. The Control Panel
 
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
 
@@ -149,20 +80,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 ## 5\. Disk Clean-up
 
 ![The Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-cleanup.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Windows 11 added several options for cleaning up your storage to the main settings app. The ability to remove temporary files, optimization files, thumbnails, and other detritus is all there. All of these were previously deleted through Disk Clean-up, seemingly making it redundant. And yet Disk Clean-up is still a part of the OS.
 
@@ -176,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
 
  So why hasn't it been updated and improved since Windows XP? In fact, it has barely changed, aside from the shape of the window, since Windows 3.1\. That was 30 years ago.
@@ -186,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 ![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
 
  Although it isn't ancient, it's still a leftover from Windows 10\. Which itself hadn't changed much for a long time. If you want to check this out, open the Control Panel and click the up arrow in the toolbar. Why this doesn't default to the new File Explorer, and even why it is there at all, is a bit of a mystery. It means there are two versions of the same feature in Windows 11.
@@ -194,14 +125,11 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +138,23 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-chosen-speeds-modifying-tools-pc-phone-for-2024/"><u>[Updated] Expert-Chosen Speeds Modifying Tools (PC, Phone) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-photos-jpg-png-on-ios-to-pdf-the-easy-steps/"><u>[Updated] From Photos (JPG, PNG) on iOS to PDF The Easy Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-stardom-unraveling-jake-pauls-youtube-rise-for-2024/"><u>[Updated] Streaming Stardom Unraveling Jake Paul's YouTube Rise for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-explore-a-world-of-delicious-treats-top-rated-cookie-shops/"><u>2024 Approved Explore a World of Delicious Treats Top-Rated Cookie Shops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-solutions-to-try-if-you-cannot-find-bitlocker-in-windows/"><u>4 Solutions to Try If You Cannot Find BitLocker in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-efficient-workflow-multi-screen-settings-in-win11/"><u>Achieve Efficient Workflow: Multi-Screen Settings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-ancient-windows-to-seniors-needs/"><u>Adapting Ancient Windows to Seniors' Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-msvcrt120dll-omission-on-pcs/"><u>Addressing Msvcrt120dll Omission on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-sensitivity-on-modern-windows-devices/"><u>Balancing Sensitivity on Modern Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-to-executable-guide-for-windows-users/"><u>Batch-to-Executable Guide for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastery-of-video-dimensions-achieving-balanced-facebook-posts/"><u>In 2024, Mastery of Video Dimensions Achieving Balanced Facebook Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-composite-power-with-blend-mode-knowledge/"><u>In 2024, Unlocking Composite Power with Blend Mode Knowledge</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-stabilize-your-videos-for-free-8-best-online-tools-and-a-step-by-step-guide/"><u>New In 2024, Stabilize Your Videos for Free 8 Best Online Tools and a Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-your-macos-sonoma-menu-for-easy-access-ultimate-decluttering-techniques/"><u>Tailoring Your macOS Sonoma Menu for Easy Access: Ultimate Decluttering Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-friendly-smart-lock-elegant-design-meets-advanced-security/"><u>Top-Rated iPhone-Friendly Smart Lock: Elegant Design Meets Advanced Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719262774069-your-on-premise-window-to-a-costless-chatgpt-clone-via-gpt4all/"><u>Your On-Premise Window to a Costless ChatGPT Clone via GPT4All.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Window Apps with Easy Internet Troubleshooting Steps
-date: 2024-10-23T20:06:56.878Z
-updated: 2024-10-26T16:29:32.555Z
+date: 2024-10-30T16:01:13.043Z
+updated: 2024-11-01T17:15:17.176Z
 tags:
   - windows10
   - windows11
@@ -42,35 +42,9 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run Windows Troubleshooters
 
@@ -83,6 +57,13 @@ To run Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
@@ -98,6 +79,13 @@ To run Windows Store Apps troubleshooter:
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -108,6 +96,13 @@ To run Windows Store Apps troubleshooter:
 4. Click on**Proxy** .
 5. Disable the**Automatically detect settings** option.  
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Winsock Settings
 
@@ -120,6 +115,13 @@ To run Windows Store Apps troubleshooter:
 `netsh winsock reset`
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Network Settings
 
@@ -135,27 +137,7 @@ To reset network settings on Windows:
 6. Select**Yes** to confirm.  
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
@@ -186,15 +168,18 @@ To reset network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-crafting-captivating-tiktok-content-from-anime-stories/"><u>[New] 2024 Approved Crafting Captivating TikTok Content From Anime Stories</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-enriched-viewing-experience-with-these-free-downloader-apps-for-youtubes/"><u>[New] Enriched Viewing Experience with These Free Downloader Apps for YouTubes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rom-creator-to-critic-evaluating-video-value-across-platforms/"><u>[New] From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/improve-your-wi-fi-coverage-effortlessly-the-robust-netgeer-nighthawk-x6s-range-amplifier/"><u>Improve Your Wi-Fi Coverage Effortlessly: The Robust Netgeer Nighthawk X6S Range Amplifier</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-voice-chat-in-steam-effective-troubleshooting-techniques/"><u>Reviving the Voice Chat in Steam: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-success-starting-windows-and-accessing-notepad-quickly/"><u>Sync Success: Starting Windows and Accessing Notepad Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transformative-approaches-to-engaging-with-online-video-reviews/"><u>Transformative Approaches to Engaging with Online Video Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimized-orchestration-top-5-chrome-vids-from-fb/"><u>[New] 2024 Approved Optimized Orchestration Top 5 Chrome Vids From FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[New] In 2024, Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amplify-youtube-twits-with-superior-hd-views/"><u>[Updated] Amplify YouTube Twits with Superior HD Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-tranquil-repos-no-pressure-pc-games/"><u>[Updated] In 2024, Tranquil Repos No-Pressure PC Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incandescent-ideas-innovations-for-stellar-cinematography/"><u>2024 Approved Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-user-sign-in-after-setbacks/"><u>Enabling Windows User Sign-In After Setbacks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhanced-virtual-collaboration-with-logitechs-ghost-project-innovative-application-of-vintage-photography-principles-for-modern-meetings/"><u>Enhanced Virtual Collaboration with Logitech’s ‘Ghost Project': Innovative Application of Vintage Photography Principles for Modern Meetings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-best-finger-tech-for-virtual-reality-mastery/"><u>In 2024, 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/security-first-in-upgrade-to-windows-11/"><u>Security First in Upgrade to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-essential-techniques-for-managing-windows-folders/"><u>Simplify Your System: Essential Techniques for Managing Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-potential-of-android-and-windows-11-as-one-display/"><u>Unleashing the Potential of Android and Windows 11 as One Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
 

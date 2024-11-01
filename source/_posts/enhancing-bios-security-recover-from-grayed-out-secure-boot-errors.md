@@ -1,7 +1,7 @@
 ---
 title: "Enhancing BIOS Security: Recover From Grayed Out Secure Boot Errors"
-date: 2024-10-21T16:02:47.669Z
-updated: 2024-10-26T19:53:16.535Z
+date: 2024-10-29T16:45:51.709Z
+updated: 2024-11-01T18:59:02.620Z
 tags:
   - windows10
   - windows11
@@ -79,13 +79,6 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
 ## 4\. Update BIOS
@@ -93,15 +86,28 @@ To restore BIOS Security settings to factory defaults:
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prepare Your Computer for a BIOS Update
 
@@ -114,10 +120,10 @@ To restore BIOS Security settings to factory defaults:
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
@@ -125,13 +131,6 @@ To restore BIOS Security settings to factory defaults:
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Load the BIOS Defaults Settings
 
@@ -146,6 +145,19 @@ To load BIOS defaults settings:
 3. Select**Yes** and press**Enter** . This will load setup default values for all SETUP items.
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
@@ -166,14 +178,24 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-find-your-perfect-match-the-top-10-online-converters-list/"><u>[New] Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-why-are-your-video-shorts-thumbnails-not-showing/"><u>[New] In 2024, Why Are Your Video Shorts' Thumbnails Not Showing?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-complete-handbook-for-telegram-web-newbies/"><u>2024 Approved The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-critique-on-tropico-6-ruling-over-a-stunning-island-nation/"><u>A Critique on 'Tropico 6': Ruling Over a Stunning Island Nation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-a-window-11-notebook-space-you-love/"><u>Creating a Window 11 Notebook Space You Love</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fundamentals-of-selecting-the-best-win-notebook/"><u>Fundamentals of Selecting the Best Win Notebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomm-usb-driver-package-install-now-for-windows-111087-support/"><u>Qualcomm USB Driver Package – Install Now for Windows 11/10/8/7 Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-hiding-zips-within-computer-photos/"><u>Sneaky Storage Solutions: Hiding ZIPs Within Computer Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-resource-tracking-efficiency-via-windows-interfaces/"><u>Upgrade Resource Tracking Efficiency via Window's Interfaces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-set-up-and-use-the-grid-layout-for-zoom/"><u>[New] 2024 Approved How to Set Up and Use the Grid Layout for Zoom</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-free-passport-photography-made-simple-our-top-10-picks-list/"><u>[Updated] 2024 Approved Free Passport Photography Made Simple Our Top 10 Picks List</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[Updated] 2024 Approved The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combining-gmail-and-outlook-on-pc-easy-steps-included/"><u>Combining Gmail & Outlook on PC: Easy Steps Included</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c12-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C12 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-elevate-your-workflow-upgrade-virtualbox-to-version-70-for-w11-users/"><u>How To Elevate Your Workflow: Upgrade VirtualBox to Version 7.0 for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-10-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 10 & 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-avoid-common-pitfalls-in-ppt-recording/"><u>In 2024, Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-4k-monitors-for-mac-the-ultimate-list/"><u>In 2024, Best 4K Monitors for Mac - The Ultimate List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-htc-u23-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track HTC U23 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-sea-of-saving-and-restoring-sticky-notes/"><u>Navigating the Sea of Saving and Restoring Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-failed-application-setup-on-microsoft-store/"><u>Navigating Through Failed Application Setup on Microsoft Store</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-irritating-steam-error-code-e84/"><u>Quick Fixes for the Irritating Steam Error Code E84</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-turbulent-windows-11-screen/"><u>Taming the Turbulent Windows 11 Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-pc-top-9-arguments-against-macs/"><u>The Case for PC: Top 9 Arguments Against Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-and-simple-guide-to-sticky-notes-in-win11/"><u>The Quick and Simple Guide to Sticky Notes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-tech-mysteries-hardware-ids-in-windows-os/"><u>Unraveling Tech Mysteries: Hardware IDs in Windows OS</u></a></li>
 </ul></div>
 

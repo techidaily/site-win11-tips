@@ -1,7 +1,7 @@
 ---
 title: Quick Trick to Elevate Your Account Type
-date: 2024-09-11T01:22:38.426Z
-updated: 2024-09-12T01:22:38.426Z
+date: 2024-10-25T17:18:14.847Z
+updated: 2024-11-01T18:11:25.244Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Modify the User Account Control (UAC) Settings
 
@@ -40,20 +37,6 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 4. Choose **Change User Account Control settings**.
 5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Once done, close the Command Prompt and check if the issue is resolved.
 
@@ -85,19 +68,12 @@ net user administrator /active:yes
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Make the Changes in Safe Mode
 
@@ -106,6 +82,13 @@ net user administrator /active:yes
  To determine if this is the cause of the issue, you can [boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/). Safe Mode launches the system with minimal drivers and programs, disabling any background processes that may be contributing to the problem. In this diagnostic state, you should be able to switch to the administrator account if such processes were previously causing the obstruction.
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
 
@@ -119,19 +102,12 @@ net user administrator /active:yes
 
 ## 5\. Create a New Administrator Account
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
@@ -145,18 +121,12 @@ net user administrator /active:yes
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
@@ -164,54 +134,15 @@ net user administrator /active:yes
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 8. Expand the Account type dropdown and choose **Administrator** from the menu.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Enjoy Administrative Access to Your Windows System
 
  The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
 
  Below, we explore various effective fixes to resolve this problem permanently.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -220,3 +151,18 @@ net user administrator /active:yes
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-humor-hacks-create-memes-free-and-easy/"><u>[New] In 2024, Humor Hacks Create Memes Free and Easy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-conquer-your-first-successful-zoom-call-for-2024/"><u>[Updated] Conquer Your First Successful Zoom Call for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] In 2024, Prime Screen Grabs for Film Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-90-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 90 by Name | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-timekeeping-a-comprehensive-evaluation-of-the-philips-hf3520-alarm-clock/"><u>Affordable Timekeeping: A Comprehensive Evaluation of the Philips HF3520 Alarm Clock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-g22-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia G22 online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-split-display-frustrations-in-windows/"><u>Overcoming Split Display Frustrations in WIndows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-stuck-grammarly-service-on-pcs/"><u>Reactivating Stuck Grammarly Service on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-skyrims-x-script-on-pc/"><u>Troubleshooting Skyrim's X-Script on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-photo-gallery-functions-on-windows-pc/"><u>Unlocking Photo Gallery Functions on Windows PC</u></a></li>
+</ul></div>
+

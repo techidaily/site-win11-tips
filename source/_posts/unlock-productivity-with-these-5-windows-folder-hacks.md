@@ -1,7 +1,7 @@
 ---
 title: Unlock Productivity with These 5 Windows Folder Hacks
-date: 2024-09-13T20:15:05.281Z
-updated: 2024-09-16T22:16:36.640Z
+date: 2024-10-26T17:51:28.855Z
+updated: 2024-11-01T17:14:52.738Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![Multiple Folders Being Renamed Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rename-multiple-folders-together.jpg)
 3. When all the folders are named, click on **enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way, you can name several folders together—quickly and easily.
 
 ## 3\. Duplicate a Folder Window
@@ -69,7 +76,21 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 ![Duplicate Folder Window Created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/duplicate-folder-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now with two folder windows, you can move and navigate easily between subfolders and files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change Folder Size With the Mouse
 
@@ -77,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Find Hidden Folders You Forgot About
 
@@ -97,19 +111,19 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
 
@@ -129,5 +143,18 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-2023s-best-updated-lg-bp550-overview/"><u>[New] In 2024, 2023'S Best Updated LG BP550 Overview</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-speedy-views-on-vimeo-how-for-2024/"><u>[New] Speedy Views on Vimeo How for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-screen-recording-on-mac-with-these-tools-for-2024/"><u>[Updated] Streamline Your Screen Recording on Mac with These Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-application-start-due-to-qt-platform-absence/"><u>Fixing Failed Application Start Due to Qt Platform Absence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-save-on-viewing-a-review-of-the-inexpensive-amazonbasics-tv-antenna-option/"><u>How to Save on Viewing: A Review of the Inexpensive AmazonBasics TV Antenna Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-an-eye-on-edge-control-in-win11-systems/"><u>Keeping an Eye on Edge: Control in Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-absence-of-powershell-from-windows-cli/"><u>Overcoming the Absence of PowerShell From Windows CLI</u></a></li>
+<li><a href="https://win-help.techidaily.com/protection-integrale-du-systeme-windows-8-completement-gratuite/"><u>Protection Intégrale Du Système Windows 8, Complètement Gratuite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-perfect-full-screen-snipping-with-windows-toolkit/"><u>Secrets to Perfect Full-Screen Snipping with Windows' Toolkit.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/smilescribbler-share-laughter-digitally/"><u>SmileScribbler Share Laughter Digitally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-org-based-configurations-issues-on-windows-11-devices/"><u>Tackling Org-Based Configurations Issues on Windows 11 Devices</u></a></li>
+</ul></div>
 

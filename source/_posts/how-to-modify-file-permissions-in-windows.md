@@ -1,7 +1,7 @@
 ---
 title: How to Modify File Permissions in Windows
-date: 2024-09-11T01:20:43.302Z
-updated: 2024-09-12T01:20:43.302Z
+date: 2024-10-30T18:36:12.338Z
+updated: 2024-11-01T19:19:37.306Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/9e9b99a6d9a89547d11f6e0d3b7ad397a8c45980a
 
  On Windows, you can set or remove the read-only attribute for a file by modifying its properties. Alternatively, you can also run a command in Command Prompt or Windows PowerShell to do the same. In this article, we take a look at all of them.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. How to Change the Read-Only Attribute for Files by Modifying Properties
 
  The easiest way to set or remove the read-only attribute for a file on Windows is by modifying its properties. Here’s how you can go about it.
@@ -46,19 +32,12 @@ thumbnail: https://thmb.techidaily.com/9e9b99a6d9a89547d11f6e0d3b7ad397a8c45980a
 
  Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<http://How> to Take Ownership of Folders in Windows 10 & 11) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
 
@@ -75,25 +54,12 @@ thumbnail: https://thmb.techidaily.com/9e9b99a6d9a89547d11f6e0d3b7ad397a8c45980a
 
 ![Change Read-Only Attribute With Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
 
@@ -103,25 +69,12 @@ thumbnail: https://thmb.techidaily.com/9e9b99a6d9a89547d11f6e0d3b7ad397a8c45980a
 
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. How to Change the Read-Only Attribute for Files Using Windows PowerShell
 
@@ -140,37 +93,16 @@ To change the read-only attribute using PowerShell:
 
 ![Change Read-Only Attribute With PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
 
 `Set-ItemProperty -Path "FilePath" -Name IsReadOnly -Value $False`
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Modifying the Read-Only Attribute for Files on Windows
 
@@ -182,8 +114,6 @@ To change the read-only attribute using PowerShell:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +121,24 @@ To change the read-only attribute using PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-guide-11-seo-strategies-for-youtube-video-ranking/"><u>[Updated] 2024 Approved Ultimate Guide 11 SEO Strategies for YouTube Video Ranking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prospective-software-for-precision-in-animated-3d-modeling/"><u>2024 Approved Prospective Software for Precision in Animated 3D Modeling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-clear-the-microsoft-defender-protection-history-on-windows-11-and-11/"><u>4 Ways to Clear the Microsoft Defender Protection History on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-available-device-driver-issue-in-os-update/"><u>Addressing 'No Available' Device Driver Issue in OS Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-1drive-errors-steps-to-success-in-w11/"><u>Addressing 1Drive Errors: Steps to Success in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-service-non-response-overcome-error-1053-quickly/"><u>Addressing Windows Service Non-Response: Overcome Error 1053 Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-to-the-latest-windows-11-maintain-linux-subsystem-efficiency/"><u>Adjusting to the Latest Windows 11, Maintain Linux Subsystem Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aid-for-absconded-hardware-recognition-in-winos/"><u>Aid for Absconded Hardware Recognition in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-pc-a-guide-to-setting-up-hyper-v-on-win-11-home/"><u>Boost Your PC: A Guide to Setting Up Hyper-V on Win 11 Home</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-meta-concepts-to-elevate-your-business-growth/"><u>Essential META Concepts to Elevate Your Business Growth</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-a2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo A2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-multi-row-insertion-techniques-in-microsoft-excel-a-comprehensive-guide/"><u>Mastering Multi-Row Insertion Techniques in Microsoft Excel – A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-looking-beyond-fcpx-top-10-video-editing-software-options/"><u>New 2024 Approved Looking Beyond FCPX Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-pinching-picks-microphones-under-50/"><u>Penny-Pinching Picks Microphones Under $50</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363489312-solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-winning-giveaway-posts-on-facebook-for-2024/"><u>The Art of Crafting Winning Giveaway Posts on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-19-affordable-audio-extractors-to-get-youtube-music-on-your-device-for-2024/"><u>Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device for 2024</u></a></li>
+</ul></div>
 

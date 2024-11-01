@@ -1,7 +1,7 @@
 ---
 title: "Windows 10/11: The Essential Password Addition Technique"
-date: 2024-10-24T18:51:15.151Z
-updated: 2024-10-26T17:45:32.477Z
+date: 2024-10-27T19:14:46.735Z
+updated: 2024-11-01T17:45:08.873Z
 tags:
   - windows10
   - windows11
@@ -90,26 +90,26 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ![The open file with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-selection-box.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Visual Options** menu within Secure Edit includes customization options for the software. Click **Options** and **Visual Options** to access that menu. Then you can select four alternative themes from there.
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
@@ -128,6 +128,14 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 2. Press the PeaZip setup window's **Install** button.  
 ![The Install option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-option.jpg)
 3. Click **Finish** to exit the PeaZip setup window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Double-click the PeaZip desktop shortcut.
 5. Select a folder that includes some text documents within PeaZip's navigation sidebar.
 
@@ -135,19 +143,20 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
@@ -159,17 +168,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
@@ -182,24 +184,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-uncover-recent-instagram-unfollow-patterns/"><u>[New] 2024 Approved Uncover Recent Instagram Unfollow Patterns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-search-comments-on-youtube-quickly/"><u>[New] In 2024, How to Search Comments on YouTube Quickly?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-video-popularity-with-strategic-timestamps-for-2024/"><u>[Updated] Enhance Video Popularity with Strategic Timestamps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unmatched-portfolio-boosters-top-free-3d-texts/"><u>[Updated] Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-10plus-iconic-ae-text-techniques-for-professionals/"><u>2024 Approved 10+ Iconic AE Text Techniques for Professionals</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-remove-a-desktop-discord-server/"><u>2024 Approved How to Remove a Desktop Discord Server</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-save-photoerror-in-windows-11-os/"><u>How to Correct 'No Save' PhotoError in Windows 11 OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y28-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y28 5G Through Google Earth?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-winerror-x8019/"><u>Mitigating WinError: X8019</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-your-windows-11-ms-store-experience/"><u>Reinstating Your Windows 11 MS Store Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210424449-resolving-no-response-from-your-dns-server-try-these-top-4-tips/"><u>Resolving No-Response From Your DNS Server? Try These Top 4 Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-valorant-download-fix-for-windows-users/"><u>Speedy Valorant Download Fix for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-retrieving-cortana-history-from-windows/"><u>Step-by-Step: Retrieving Cortana History From Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-dynamic-system-health-enhancement/"><u>Windows' Dynamic System Health Enhancement</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +191,21 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-alternatives-to-streamlabs-obs-for-2024/"><u>[Updated] The Ultimate Guide to Alternatives to StreamLabs OBS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-8-gratis-video-cutting-tools-for-online-content-creation/"><u>[Updated] Top 8 Gratis Video Cutting Tools For Online Content Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-on-win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 on Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-mindset-audio-selection-for-2024/"><u>Free Mindset Audio Selection for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dell-wi-fi-card-driver-secure-download-links-available-now/"><u>Get the Latest Dell Wi-Fi Card Driver - Secure Download Links Available Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-achieve-premium-picture-standards-without-paying-for-2024/"><u>How to Achieve Premium Picture Standards Without Paying for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c53-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C53 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/optimal-avi-playback-software-for-pcmobile-users/"><u>Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-samsung-galaxy-a24-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Samsung Galaxy A24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-system-5-must-have-pc-tools/"><u>Streamline Your System: 5 Must-Have PC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-concealreveal-windows-security-zones/"><u>Tactics to Conceal/Reveal Windows Security Zones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence</u></a></li>
+</ul></div>
+

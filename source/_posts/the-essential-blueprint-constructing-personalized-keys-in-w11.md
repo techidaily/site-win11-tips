@@ -1,7 +1,7 @@
 ---
 title: "The Essential Blueprint: Constructing Personalized Keys in W11"
-date: 2024-09-11T01:21:43.572Z
-updated: 2024-09-12T01:21:43.572Z
+date: 2024-10-30T16:12:25.218Z
+updated: 2024-11-01T18:43:05.247Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Download and Install WinHotKey
 
@@ -43,40 +40,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Set Up Software Hotkeys
 
@@ -86,78 +50,26 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
@@ -186,25 +98,12 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
@@ -221,6 +120,14 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 1. Click the **Add** button.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeyp-window.jpg)
 2. Press the **…** (ellipses) button for the **Command** box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select a program’s EXE (application) file for the hotkey to open.
 4. Then click inside the empty box beside those checkboxes and press a key on your keyboard to include it within the hotkey.
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
@@ -240,37 +147,25 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
  So, you won’t need Windows 11 desktop, Start menu, and taskbar shortcuts anymore when you’ve got WinHotKey or HotKey P. They're easy-to-utilize programs with which you can set up a wide variety of software, folders, and document keyboard shortcuts without cluttering the Windows desktop. Their only notable shortcoming is that you can’t set up website hotkeys with them, but they're still very handy apps nonetheless.
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -279,3 +174,19 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>[New] Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-quick-ways-to-disable-usb-selective-suspend-in-windows-11/"><u>3 Quick Ways to Disable USB Selective Suspend in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-checksum-error-in-winrar/"><u>6 Ways to Fix the Checksum Error in WinRAR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compre-cookie-cutter-guide-to-revamping-your-pc-with-a-fresh-os/"><u>A Compre Cookie-Cutter Guide to Revamping Your PC with a Fresh OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-v30-lite-5g-frp-bypass-by-drfone-android/"><u>About Vivo V30 Lite 5G FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplified-audio-top-4-applications-to-surpass-windows-100-threshold/"><u>Amplified Audio: Top 4 Applications to Surpass Windows’ 100% Threshold</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lead-capture-enhanced-solutions-powered-by-the-innovative-cookiebot-engine/"><u>Lead Capture Enhanced: Solutions Powered by the Innovative Cookiebot Engine</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation-for-2024/"><u>The Full Spectrum SloMo Recording App Evaluation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-cloud-photo-vaults-unlimited-free-premium-options-available/"><u>Ultimate Cloud Photo Vaults Unlimited Free, Premium Options Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266023156-zero-cost-local-gpt-clones-gpt4alls-window-solution/"><u>Zero-Cost Local GPT Clones: GPT4All's Window Solution.</u></a></li>
+</ul></div>
+

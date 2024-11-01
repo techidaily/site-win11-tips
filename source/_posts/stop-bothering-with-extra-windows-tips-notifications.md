@@ -1,7 +1,7 @@
 ---
 title: Stop Bothering with Extra Windows Tips Notifications
-date: 2024-10-25T19:36:00.243Z
-updated: 2024-10-26T21:47:01.889Z
+date: 2024-10-28T17:21:01.188Z
+updated: 2024-11-01T19:22:58.858Z
 tags:
   - windows10
   - windows11
@@ -42,20 +42,13 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 5. You will see a checkbox labeled **Get tips and suggestions when using Windows**. Uncheck it to turn off this feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you will not see any tips and suggestions notifications on your computer. If later you wish to re-enable this feature, follow the same steps outlined above and check the "Get tips and suggestions when using Windows" checkbox. Doing this will enable tips and suggestions notifications on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Turn Off Tips and Suggestions Using a REG File
 
@@ -74,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
  If you prefer to disable tips and suggestions notifications on your computer completely, there are several options available. You can utilize the Group Policy Editor, modify the registry editor, or create a REG file. Let's explore each method in detail to disable this feature.
@@ -98,6 +84,14 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
 4. On the right side of the window, double-click on the **Do not show Windows tips** policy.  
 ![Do not Show Windows Tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/do-not-show-windows-tips.jpg)
 5. From the box that appears, select the **Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **Apply** \> **OK** to save the changes.
 
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
@@ -118,16 +112,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 7. Name the value **DisableSoftLanding** and hit Enter.  
 ![Disable Tips and Suggestions Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-tips-and-suggestions-notifications-using-the-registry-editor.jpg)
 8. Double-click on this newly created entry and set its Value data to **1**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click **OK** to save the changes. Now, exit the registry editor window and restart your computer.
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Disable Tips and Suggestions Notifications Using a REG File
 
@@ -146,34 +141,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  That’s it! Tips and suggestions feature is now disabled on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stop the Windows Tips and Suggestions Notifications
 
  We hope that this article helped you understand how to turn off or disable tips and suggestions notifications in Windows 11\. All it takes are a few clicks or a simple REG file to enable or disable this feature.
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-blur-proof-iphones-achieving-flawless-budget-friendly-edits/"><u>[Updated] Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-social-potential-xbox-games-via-facebook-livestream/"><u>[Updated] Unlock Social Potential Xbox Games via Facebook Livestream</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-update-obstacles-with-error-code-0x800736cc/"><u>Breaking Through Windows Update Obstacles with Error Code 0X800736CC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-clockdate-shows-in-window-11/"><u>Customizing How Clock/Date Shows in Window 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-amd-drivers-that-fail-to-appear-in-windows-device-manager-comprehensive-guide/"><u>Fixing AMD Drivers That Fail to Appear in Windows Device Manager: Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-assessment-the-versatile-samsung-gear-s3-frontier-an-extensive-feature-set-on-your-wrist/"><u>In-Depth Analysis & Assessment: The Versatile Samsung Gear S3 Frontier - An Extensive Feature Set on Your Wrist</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/intriguing-ways-to-twist-images/"><u>Intriguing Ways to Twist Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-windows-open-eliminate-automatic-lock/"><u>Keep Windows Open: Eliminate Automatic Lock</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-health-metrics-a-review-of-the-garmin-vivosmart-4s-advanced-body-battery-and-stress-monitoring-tools/"><u>Mastering Health Metrics: A Review of the Garmin Vivosmart 4'S Advanced Body Battery & Stress Monitoring Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-screen-saver-wait-time/"><u>Optimize Windows Screen Saver Wait Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-screen-unresponsive-error-on-windows-11/"><u>Overcoming 'Screen Unresponsive' Error on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-strategies-to-eliminate-stutter-in-your-fallout-76-session/"><u>Overcoming Performance Hiccups: Strategies to Eliminate Stutter in Your Fallout 76 Session</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-hogwarts-legacys-memory-shortage-mistake/"><u>Resolving Hogwarts Legacy's Memory Shortage Mistake</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/starter-mic-solutions-for-youtube-starters-for-2024/"><u>Starter Mic Solutions for YouTube Starters for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-to-preferred-pdf-viewer-on-windows/"><u>Switching to Preferred PDF Viewer on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-15-meilleurs-outils-gratuits-pour-la-prise-decran-le-guide-ultime-par-movavi-sur-google/"><u>Top 15 Meilleurs Outils Gratuits Pour La Prise D'écran: Le Guide Ultime Par Movavi Sur Google</u></a></li>
-<li><a href="https://techidaily.com/44or44k944kz44oz5yid5a2m6icf44gu44gf44kb44gu5zplus65pys55qe44gq5pon5l2c44ks44kk44oj/"><u>パソコン初学者のための基本的な操作ガイド</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -182,3 +161,27 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-exploring-digital-film-coloring-methods/"><u>[New] Exploring Digital Film Coloring Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>[New] In 2024, A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ransparency-in-tracking-youtube-viewers/"><u>[New] Transparency in Tracking YouTube Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-windows-11-a-features-showcase/"><u>2024 Approved Windows 11 A Features Showcase</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-control-over-systems-performance-bounds/"><u>Commanding Control over System's Performance Bounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defaults-defined-user-permission-reset-guide-for-win11/"><u>Defaults Defined: User Permission Reset Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-test-active-tcp-ports-on-windows/"><u>Efficient Methods to Test Active TCP Ports on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-workflow-add-software-menus-to-windows-desktop/"><u>Enhance Workflow: Add Software Menus to Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-flawless-windows-11-anydesk-performance/"><u>Ensuring Flawless Windows 11 AnyDesk Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-rd-connectivity-issues-on-win-10plus/"><u>Expert Tips to Resolve RD Connectivity Issues on WIN 10+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-past-the-problem-of-saints-row-not-starting-up-on-windows-machines/"><u>How to Get Past the Problem of Saints Row Not Starting Up on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-integrating-dolby-atmos-audio/"><u>Mastering Windows 11: Integrating Dolby Atmos Audio</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-your-arsenal-a-guide-to-obtaining-unique-weapons-in-me-legendarys-fps-gameplay/"><u>Maximize Your Arsenal: A Guide to Obtaining Unique Weapons in ME Legendary's FPS Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-day-special-discover-the-ultimate-selection-of-apple-bargains-top-picks-included-detailed-review/"><u>Prime Day Special: Discover the Ultimate Selection of Apple Bargains, Top Picks Included - Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/slow-it-down-high-quality-moments-in-instagram-reels/"><u>Slow It Down High-Quality Moments in Instagram Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-resolving-missing-gpeditmsc-error-on-pcs/"><u>Solutions for Resolving Missing Gpedit.msc Error on PCs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/soluzione-al-problema-di-avvio-non-funzionante-in-windows-10-segui-questi-passaggi-per-la-riparazione/"><u>Soluzione Al Problema Di Avvio Non Funzionante in Windows 10 - Segui Questi Passaggi per La Riparazione!</u></a></li>
+</ul></div>
+

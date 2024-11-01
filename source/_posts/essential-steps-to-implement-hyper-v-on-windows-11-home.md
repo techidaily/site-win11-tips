@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Implement Hyper-V on Windows 11 Home
-date: 2024-09-11T01:21:04.894Z
-updated: 2024-09-12T01:21:04.894Z
+date: 2024-10-27T16:25:44.661Z
+updated: 2024-11-01T16:27:08.357Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Enable Hardware Virtualization in Windows 11
 
@@ -45,20 +42,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 5. Hit **Enter** and then select **Enabled**. Press **Enter** again to make the selection.
 6. Next, press **F10** to save the changes and exit **BIOS**.
 7. Your PC will restart with the Hardware Virtualization enabled. Now you can continue to install Hyper-V on your system.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Install Hyper-V on Windows 11 Home
 
@@ -87,25 +70,18 @@ pause`
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983539">
+<span id="1993652">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
@@ -113,19 +89,12 @@ pause`
 
 ![run hyperv bat script administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-hyperv-bat-script-administrator.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  7\. Next, right-click on the **hyperv.bat** file and select **Run as administrator**. Click **Yes** if prompted by User Account Control.
 
@@ -134,20 +103,6 @@ pause`
  9.Once completed, you will see the Operation completed successfully message.
 
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
 
@@ -161,25 +116,26 @@ pause`
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 2. In the Command Prompt window, type the following command and press **Enter**:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
@@ -195,20 +151,6 @@ pause`
 
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -217,18 +159,6 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -236,3 +166,27 @@ pause`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rev-up-your-social-media-impact-essential-hashtags-for-high-likes-and-follows/"><u>[New] In 2024, Rev Up Your Social Media Impact Essential Hashtags for High Likes and Follows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blending-images-into-a-masterpiece-of-mosaics/"><u>[Updated] Blending Images Into a Masterpiece of Mosaics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparative-study-of-vlc-and-alternatives/"><u>[Updated] Comparative Study of VLC & Alternatives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhance-video-editing-on-mobile-with-top-8-apple-software-for-2024/"><u>[Updated] Enhance Video Editing on Mobile with Top #8 Apple Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-google-meet-discussions-tips-and-tricks/"><u>2024 Approved Navigating Google Meet Discussions Tips & Tricks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-quick-picture-viewer-on-windows-10/"><u>2024 Approved Ultimate Quick Picture Viewer on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024s-best-windows-computers-for-enhanced-productivity/"><u>2024'S Best Windows Computers for Enhanced Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-singers-dilemma-choosing-freedom-from-microphone-controls/"><u>A Singer's Dilemma: Choosing Freedom From Microphone Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-your-online-gaming-experience-with-discord-on-windows/"><u>Accelerating Your Online Gaming Experience with Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-total-screen-capture-mastery-using-snip-and-sketch/"><u>Achieving Total Screen Capture Mastery Using Snip & Sketch.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-fn-key-operations-in-the-latest-windows-os/"><u>Adapting FN Key Operations in the Latest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-frustration-curing-win-error-1-in-minecraft/"><u>Avoiding Frustration: Curing Win Error 1 in Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-disasterous-dism-error-0x800f082f-on-windows/"><u>Banishing Disasterous DISM: Error 0X800F082F on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-6-must-have-windows-productivity-tools/"><u>Boosting Efficiency: 6 Must-Have Windows Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-pc-launches-activating-fast-startup-feature/"><u>Boosting PC Launches: Activating Fast Startup Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/disabling-2g-on-android-devices-a-guide-based-on-googles-advice/"><u>Disabling 2G on Android Devices: A Guide Based on Google's Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Passcode Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1724766327391-mp4/"><u>アビーユットライティング導入マスタークラス：ダウンロード、セットアップ、カメラワーク指南、MP4出力方法</u></a></li>
+</ul></div>
+

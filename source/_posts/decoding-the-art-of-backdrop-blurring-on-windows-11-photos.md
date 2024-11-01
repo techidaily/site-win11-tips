@@ -1,7 +1,7 @@
 ---
 title: Decoding the Art of Backdrop Blurring on Windows 11 Photos
-date: 2024-09-11T01:21:20.942Z
-updated: 2024-09-12T01:21:20.942Z
+date: 2024-10-31T19:04:20.255Z
+updated: 2024-11-01T18:50:56.506Z
 tags:
   - windows10
   - windows11
@@ -20,37 +20,14 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-
-
 ## What Is the Background Blur Feature in the Photos App?
 
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Enable and Use Background Blur in the Photos App
 
@@ -67,36 +44,16 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 ![Select image in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-image-in-the-photos-app.jpg)
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
@@ -106,18 +63,12 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
 5. Then click and drag the brush on the area of the image to deselect it.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
@@ -129,55 +80,35 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ![Background blur effect in action in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/background-blur-effect-in-action-in-photos-app.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Easily Blur the Backgrounds in Your Photos
 
  The Background Blur feature will be a handy addition to the Photos app. However, the lack of options to apply the blur effect to a small portion of the image is an issue that needs to be addressed by Microsoft.
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,3 +117,25 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-your-study-of-the-past-with-these-top-10-channels/"><u>[New] In 2024, Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>[Updated] 2024 Approved Superior Steadicams for Drone Shooting Precision</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-foremost-non-udemy-virtual-learning-experiences-reviewed/"><u>[Updated] 2024 Approved The Foremost Non-Udemy Virtual Learning Experiences Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elevate-your-productivity-io-screen-capture-secrets/"><u>[Updated] In 2024, Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[Updated] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-cease-chromes-unintended-tabs/"><u>A Step-By-Step Guide to Cease Chrome's Unintended Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-and-annotate-comics-easily-on-win11/"><u>Access and Annotate Comics Easily on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-webcam-integration-on-windows-11-pcs/"><u>Android Webcam Integration on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-tools-for-win-soft-installation-chocolatey-or-wm/"><u>Best Tools for Win Soft Installation: Chocolatey or WM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-of-windows-for-swift-steam-uploads/"><u>Boosting Performance of Windows for Swift Steam Uploads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/thing-you-need-to-succeed-with-youtube-short-videos/"><u>Everything You Need to Succeed with YouTube Short Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 12 Pro? | Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-razer-kiyo-webcam-full-breakdown/"><u>In 2024, Razer Kiyo Webcam Full Breakdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scheduling-zoom-on-android-a-step-by-step-approach-for-2024/"><u>Scheduling Zoom on Android A Step-by-Step Approach for 2024</u></a></li>
+</ul></div>
+

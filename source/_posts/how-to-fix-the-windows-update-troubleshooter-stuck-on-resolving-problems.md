@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows Update Troubleshooter Stuck on Resolving Problems
-date: 2024-10-22T23:35:55.476Z
-updated: 2024-10-27T00:19:18.261Z
+date: 2024-10-28T19:15:58.924Z
+updated: 2024-11-01T18:21:47.841Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -48,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
@@ -66,31 +73,19 @@ To fix this, you can try restarting Cryptographic Services.
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now close Services and try running the Windows Update Troubleshooter again.
 
@@ -105,10 +100,10 @@ To fix this, you can try restarting Cryptographic Services.
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update System Drivers
@@ -123,13 +118,6 @@ To fix this, you can try restarting Cryptographic Services.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
@@ -155,6 +143,14 @@ To edit and enable the Scripted Diagnostics policy:
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
@@ -182,20 +178,24 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-the-perfect-snap-on-pexels/"><u>[New] Capturing the Perfect Snap on Pexels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[New] Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premier-6-sites-boosting-corporate-engagement/"><u>[Updated] In 2024, Premier 6 Sites Boosting Corporate Engagement</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-camera-app-for-2024/"><u>Comprehensive Guide to VSCO Camera App for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhance-your-projectes-dimensionality-with-3d-text-psx-for-2024/"><u>Enhance Your Project'es Dimensionality with 3D Text PSX for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-7-steps-to-missing-windows-add-ons/"><u>Enhancing User Experience: 7 Steps to Missing Windows Add-Ons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-default-windows-backup-reset/"><u>Guiding Through Default Windows Backup Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-windows-oversight-on-apps-browsers/"><u>Harnessing Windows Oversight on Apps, Browsers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ensuring-seamless-apple-podcast-addition/"><u>In 2024, Ensuring Seamless Apple Podcast Addition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leap-to-peak-ssd-performance-win-and-fresh-methods/"><u>Leap to Peak SSD Performance: Win and Fresh Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-itel-p40-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Itel P40 has been deleted.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-windows-exploration-without-the-use-of-ls/"><u>Streamlined Windows Exploration Without the Use of LS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-customizing-the-desktop-menu/"><u>The Insider's Guide to Customizing the Desktop Menu</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tips-for-changing-your-microsoft-mouse-drivers/"><u>Tips for Changing Your Microsoft Mouse Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exclusive-list-10-budget-friendly-passport-photographers-online-for-2024/"><u>[New] Exclusive List 10 Budget-Friendly Passport Photographers Online for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-10-virtual-photo-backdrop-modifiers/"><u>[New] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-and-mending-windows-audio-glitch-code-9999/"><u>Demystifying and Mending Windows Audio Glitch: Code 9999</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-xbox-microphone-integration-in-windows-11-ecosystem/"><u>Ensuring Smooth Xbox Microphone Integration in Windows 11 Ecosystem</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-affordable-and-compact-samsung-galaxy-s10e-a-surprisingly-robust-performer/"><u>Expert Analysis of the Affordable and Compact Samsung Galaxy S10e - A Surprisingly Robust Performer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-world-of-warcraft-update-stuck-on-initializing-on-windows/"><u>How to Fix a World of Warcraft Update Stuck on Initializing on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-narzo-n53-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi Note 12T Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/owc-mercury-pro-analysis-outstanding-drives-and-top-tier-performance/"><u>OWC Mercury Pro Analysis: Outstanding Drives and Top-Tier Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-nord-n30-se-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Nord N30 SE and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-productivity-make-terminal-first/"><u>Prioritizing Productivity: Make Terminal First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-resurrect-your-chrome-browser-in-w11/"><u>Quick Fix Guide: Resurrect Your Chrome Browser in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-over-your-text-editor-fixing-windows-notepad-open-issues/"><u>Regain Control Over Your Text Editor: Fixing Windows Notepad Open Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/services-techno-supports-online-pour-le-logiciel-winx-dvd-ripper-et-outils-de-transformation-video/"><u>Services Techno-Supports Online Pour Le Logiciel WinX DVD Ripper Et Outils De Transformation Vidéo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-system-changes-mastery-of-cli-and-registry-modifications/"><u>Simplifying System Changes: Mastery of CLI and Registry Modifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fixes-to-steam-logins-in-rust-on-your-windows-machine/"><u>Step-by-Step Fixes to Steam Logins in Rust on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-o365-sync-issues-on-windows/"><u>Troubleshooting O365 Sync Issues on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-reno-11-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 11 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

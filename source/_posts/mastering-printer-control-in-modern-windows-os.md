@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Control in Modern Windows OS
-date: 2024-10-21T23:47:16.913Z
-updated: 2024-10-26T19:19:26.078Z
+date: 2024-10-29T17:20:17.920Z
+updated: 2024-11-01T17:05:34.884Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  You’ve already discovered how to access the Print Management app using the Run command dialog box. So, let’s check out the various other ways to access this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access the Print Management Tool Using the Start Menu Search Bar
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -59,17 +66,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 ![Accessing the Print Management Tool Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Access the Print Management Tool Using the Start Menu
@@ -81,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 3. Locate and select the **Print Management** app.
 
 ![Accessing the Print Management Tool Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Access the Print Management Tool Using the Control Panel
 
@@ -109,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 ![Accessing the Print Management Tool Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Access the Print Management Tool Using the File Explorer Address Bar
@@ -127,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 ![Accessing the Print Management Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access the Print Management Tool Using the Task Manager
@@ -144,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 3. Type **printmanagement.msc** in the search box and then press **OK**.
 
 ![Accessing the Print Management Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-using-the-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Access the Print Management Tool via the System32 Directory
 
@@ -166,6 +146,19 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 6. Locate and double-click on the **printmanagement** file.
 
 ![Accessing the Print Management Tool Via the System32 Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/accessing-the-print-management-tool-via-the-system32-directory.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Access the Print Management Tool Using the Command Prompt or PowerShell
 
@@ -192,16 +185,10 @@ printmanagement.msc
 printmanagement.msc
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Access the Print Management Tool Using a Desktop Shortcut
@@ -219,6 +206,13 @@ printmanagement.msc
  From there, type **Print Management Tool** in the "Name" box and then click the **Finish** button.
 
  Now, you can easily access the Print Management tool with this desktop shortcut you’ve created.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Handle Your Print Jobs Easily With the Print Management App
 
@@ -241,17 +235,20 @@ printmanagement.msc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-a-dynamic-win11-display/"><u>[New] Innovative Techniques for a Dynamic Win11 Display</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-creator-studio-unleashing-the-power-of-your-channel-for-2024/"><u>[New] YouTube Creator Studio Unleashing the Power of Your Channel for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outubes-most-lucrative-star-title/"><u>[New] YouTube's Most Lucrative Star Title</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discover-the-ideal-viewer-writes-for-ultimate-4k-experience/"><u>[Updated] 2024 Approved Discover The Ideal Viewer’ Writes for Ultimate 4K Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11s-resolution-settings/"><u>Adjusting Windows 11'S Resolution Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-sata-drivers-easily-on-windows-step-by-step-guide/"><u>Download and Update Your SATA Drivers Easily on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lighter-browsing-experience-on-the-desktop-top-7-test-results/"><u>Lighter Browsing Experience on the Desktop: Top 7 Test Results</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-challenging-c0000022-failure-in-windows/"><u>Navigating Through the Challenging C0000022 Failure in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-dive-into-your-pcs-core-settings/"><u>Quick Dive Into Your PC's Core Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/onetizing-video-how-much-does-a-single-streamer-earn/"><u>[New] Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nboxing-youtube-shorts-music-hacks-for-viral-scenes-for-2024/"><u>[New] Unboxing YouTube Shorts Music Hacks for Viral Scenes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-craft-professional-scenes-access-these-top-8-free-green-screen-backdrops-sites-for-2024/"><u>[Updated] Craft Professional Scenes - Access These Top 8 Free Green Screen Backdrops Sites for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-15-best-facebook-analyzers-to-increase-sales/"><u>[Updated] In 2024, 15 Best Facebook Analyzers to Increase Sales</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-video-capture-software-is-bandicam-superior-to-camtasia-in-2024/"><u>[Updated] Navigating Video Capture Software Is Bandicam Superior to Camtasia, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-introduces-the-latest-macbook-air-models-with-advanced-m3-chip-what-to-expect-gizmotechnews/"><u>Apple Introduces the Latest MacBook Air Models with Advanced M3 Chip - What to Expect | GizmoTechNews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-ms-stores-premier-choices/"><u>Jumpstart Your PC: MS Store's Premier Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-your-guide-for-windows-users/"><u>Mastering Map Integration: Your Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-windows-11-policy-editor-efficiently/"><u>Navigate Windows 11 Policy Editor Efficiently</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/quick-and-simple-guide-to-transferring-partitions-from-hdd-to-solid-state-drives/"><u>Quick & Simple Guide to Transferring Partitions From HDD to Solid State Drives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-tips-for-textual-overlay-in-vimeo-content-for-2024/"><u>Quick Tips for Textual Overlay in Vimeo Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-brightness-on-windows-volume-controls/"><u>Restore Brightness on Windows' Volume Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-reawakening-guide-navigating-through-windows-8-revival-techniques/"><u>System Reawakening Guide: Navigating Through Windows' 8 Revival Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactical-approaches-to-overcoming-disabled-errors-in-ps-execution/"><u>Tactical Approaches to Overcoming 'Disabled' Errors in PS Execution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win10/11: Reactivating Unresponsive Adobe Photoshop"
-date: 2024-09-11T01:20:44.396Z
-updated: 2024-09-12T01:20:44.396Z
+date: 2024-10-28T17:24:58.319Z
+updated: 2024-11-01T17:41:11.249Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Run the Adobe Photoshop App as an Administrator
 
  Some Photoshop users have said running that app with admin rights fixed it not opening. To do that, you’ll either need to temporarily select Photoshop to run with admin rights or set the app to always run as administrator.
@@ -42,37 +28,22 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -85,20 +56,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ## 4\. Turn Off Controlled Folder Access
 
  If controlled access is enabled on your PC, Photoshop might not be able to start because it can’t access certain protected folders. So, check if controlled folder access is on and disable it as follows:
@@ -107,38 +64,25 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
 
@@ -150,9 +94,30 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 4. Right-click your graphics adapter to select **Disable device**.  
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
 
@@ -166,33 +131,12 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Reinstall Photoshop
 
@@ -200,21 +144,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
 
-
-
-
+ When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
 ## Edit Your Images in Adobe Photoshop Again
 
@@ -222,11 +159,31 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live-for-2024/"><u>[New] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-download-of-youtube-videos/"><u>[Updated] 2024 Approved Direct Download of YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-retrace-mechanic-setup/"><u>2024 Approved Retrace Mechanic Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-steps-pinpointing-policies-in-windows-environments/"><u>3 Steps: Pinpointing Policies in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-proactive-steps-to-overcome-no-servers-found-in-apex-legends-(156-chars/"><u>8 Proactive Steps to Overcome 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-affordable-windows-10-licensing-and-deals/"><u>A Deep Dive Into Affordable Windows 10 Licensing & Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-with-auto-moves-the-w11-way/"><u>Accelerate Workflow with Auto-Moves: The W11 Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-configuration-windows-11-and-pc-manager/"><u>Achieving Optimal Configuration: Windows 11 & PC Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-in-use-files-errors-in-windows-152-chars/"><u>Addressing 'In-Use' Files Errors in Windows (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-history-welcome-new-hues-on-windows/"><u>Banish History, Welcome New Hues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-windows-11-efficiency-key-modifications-to-apply/"><u>Boost Windows 11 Efficiency: Key Modifications to Apply</u></a></li>
+<li><a href="https://tools.techidaily.com/dupinout/products/"><u>Dupinout's Products</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grasping-the-functionality-of-airborne-robotics/"><u>In 2024, Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-note-30-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Note 30 Pro Devices</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/protect-your-privacy-securely-locking-photo-collections-on-your-iphone-using-passwords/"><u>Protect Your Privacy: Securely Locking Photo Collections on Your iPhone Using Passwords</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-tus-audios-m4r-en-linea-gratuitamente-usando-la-solucion-de-conversion-de-movavi/"><u>Transforma Tus Audios M4R en Línea Gratuitamente Usando La Solución De Conversión De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-advantages-of-different-elgato-decks/"><u>Understanding the Advantages of Different Elgato Decks</u></a></li>
+</ul></div>
+

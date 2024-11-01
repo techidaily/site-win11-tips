@@ -1,7 +1,7 @@
 ---
 title: Unwavering File Elimination in Windows 11'S Trash Bin Setup
-date: 2024-09-14T20:22:40.379Z
-updated: 2024-09-17T09:16:18.030Z
+date: 2024-10-31T18:06:20.733Z
+updated: 2024-11-01T16:49:07.386Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
@@ -86,15 +100,16 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
-
- This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
-
-![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
-
- Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
@@ -102,6 +117,12 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
+
+![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
+
+ Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -122,5 +143,22 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>[New] In 2024, Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-secrets-for-hiring-top-notch-video-professionals/"><u>[Updated] In 2024, Secrets for Hiring Top-Notch Video Professionals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stop-screen-blackouts-with-obs-game-recordings/"><u>[Updated] In 2024, Stop Screen Blackouts with OBS Game Recordings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-newest-m1-chip-in-the-2021-apple-macbook-pro-16-inch/"><u>Comprehensive Evaluation of the Newest M1 Chip in the 2021 Apple MacBook Pro 16-Inch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correction-of-microsoft-app-update-mishaps/"><u>Correction of Microsoft App Update Mishaps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-input-a-win-guide/"><u>Mastering Audio Input: A Win Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-date-and-time-on-windows-taskbar/"><u>Mastering Date & Time on Windows Taskbar</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1036380-9781476727172-muchas-vidas-muchos-sabios-many-lives-many-masters/"><u>Muchas Vidas, Muchos Sabios (Many Lives, Many Masters) | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/powerdirector-command-center-a-complete-2024-examination/"><u>PowerDirector Command Center A Complete 2024 Examination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-virus-protection-top-5-methods-for-windows-defender-fixes/"><u>Reinstating Virus Protection: Top 5 Methods for Windows Defender Fixes</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/securing-your-microsoft-account-expert-tips-on-protection-against-cyber-threats-zdnet/"><u>Securing Your Microsoft Account: Expert Tips on Protection Against Cyber Threats - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-directx-update-errors/"><u>Steps for Fixing DirectX Update Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-ensure-taskmanager-dominance/"><u>Techniques to Ensure TaskManager Dominance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211314670-9781440501692-the-everything-vampire-book/"><u>The Everything Vampire Book | Free Book</u></a></li>
+</ul></div>
 

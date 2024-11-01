@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Repairing Windows 11'S Filesystem
-date: 2024-10-24T19:25:44.034Z
-updated: 2024-10-26T20:42:36.122Z
+date: 2024-10-31T19:04:51.965Z
+updated: 2024-11-01T19:28:05.419Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 5. Exit the Command Prompt window.
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Windows Store App Troubleshooter
 
  If a file system error occurs when you try launching MS Store apps or opening files with them, the Windows Store App troubleshooter might be useful for fixing it. That troubleshooter is there to resolve issues that stop UWP apps from working as they should. These are the steps for opening the Windows Store App troubleshooter:
@@ -64,28 +57,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -99,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
@@ -117,7 +82,27 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -127,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
@@ -135,13 +127,20 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -149,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
 
@@ -169,17 +175,18 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] In 2024, Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-duel-of-durability-hero-5-black-versus-keymission/"><u>[New] In 2024, The Duel of Durability HERO 5 Black Versus Keymission</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-gopro-editors-blueprint-to-stunning-colored-images/"><u>[Updated] The GoPro Editor's Blueprint to Stunning Colored Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-powered-eco-friendly-smart-home-innovations-by-company-name-insights-from-zdnet/"><u>AI-Powered Eco-Friendly Smart Home Innovations by [Company Name]: Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forge-ahead-with-stronger-windows-security-top-four-password-keepers/"><u>Forge Ahead with Stronger Windows Security: Top Four Password Keepers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-experience-mastering-windows-11s-search-tool/"><u>Jumpstart Your PC Experience: Mastering Windows 11’S Search Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-freezing-problem-during-red-dead-redemption-2-launch-phase/"><u>Overcoming Freezing Problem During Red Dead Redemption 2 Launch Phase</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/speedy-solutions-expert-guide-on-restoring-your-laptops-failed-hard-drive/"><u>Speedy Solutions: Expert Guide on Restoring Your Laptop's Failed Hard Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-predominant-anydesk-issues-in-os/"><u>Strategies to Correct Predominant AnyDesk Issues in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-data-recovery-on-windows-11-pro/"><u>Streamlining Data Recovery on Windows 11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-list-top-7-methods-to-grow-storage-without-paying/"><u>The Essential List: Top 7 Methods to Grow Storage Without Paying</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ideal-uavs-for-capturing-gopro-hd-footage/"><u>[Updated] 2024 Approved Ideal UAVs for Capturing GoPro HD Footage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-success-todays-powerful-instagram-tags-for-2024/"><u>[Updated] Social Media Success Today's Powerful #Instagram Tags for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leading-camera-innovations-revealed-future-edition/"><u>2024 Approved Leading Camera Innovations Revealed - Future Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-trending-topics-the-best-10-music-videos-on-fb/"><u>2024 Approved Trending Topics The Best 10 Music Videos on FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722125564448-cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-creating-slideshow-magic-and-spot-corrections-in-windows-11-photos/"><u>Expert Tips for Creating Slideshow Magic and Spot Corrections in Windows 11 Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-microsofts-web-browser-in-win11/"><u>How to Remove Microsoft's Web Browser in Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>In 2024, Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-vocalists-choice-the-finest-9-online-mic-recorders/"><u>In 2024, Vocalist's Choice The Finest 9 Online Mic Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-new-wins-setbacks-to-standard-users/"><u>Navigating Through New Wins: Setbacks to Standard Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essentials-to-evaluate-when-purchasing-pre-owned-laptops/"><u>Top 5 Essentials to Evaluate When Purchasing Pre-Owned Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-netgear-nighthawk-x6-wi-fi-expansion-unit-a-full-feature-breakdown/"><u>Ultimate Guide to Netgear Nighthawk X6 Wi-Fi Expansion Unit - A Full Feature Breakdown</u></a></li>
 </ul></div>
 

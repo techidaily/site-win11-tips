@@ -1,7 +1,7 @@
 ---
 title: Harnessing Windows Tools for Device Serial Numbers
-date: 2024-09-13T23:30:54.093Z
-updated: 2024-09-16T18:12:31.331Z
+date: 2024-10-26T18:34:50.157Z
+updated: 2024-11-01T16:46:15.142Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -143,13 +150,6 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the x64 folder in the Tools section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-x64-folder-in-the-tools-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you’re in the correct folder, follow these steps:
 
 1. Click the**File Explorer address bar** .
@@ -158,10 +158,10 @@ Once you’re in the correct folder, follow these steps:
 ![Typing the CMD command in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-the-cmd-command-in-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, type the following command into the Command Prompt and press**Enter** :
@@ -170,15 +170,42 @@ Once you’re in the correct folder, follow these steps:
 
 ![Displaying hardware IDs using DevCon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/displaying-hardware-ids-using-devcon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will show you the details of all the devices on your computer. The results will also contain the hardware IDs.
 
  For example, we've highlighted the hardware ID for the**Standard PS/2 Keyboard** in the image below.
 
 ![Selecting the hardware ID for the Standard PS2 Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-for-the-standard-ps2-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
  If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -199,5 +226,23 @@ Once you’re in the correct folder, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-drama-to-film-shaping-realistic-dialogue/"><u>[New] From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-immersive-home-theater-choosing-the-best-3d-players-for-2024/"><u>[New] Immersive Home Theater Choosing the Best 3D Players for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-racing-simulator-games/"><u>[New] In 2024, 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-practices-for-acknowledging-use-of-chatgpt-in-research-papers/"><u>Best Practices for Acknowledging Use of ChatGPT in Research Papers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210846182-9781956744934-beyond-what-we-can-see/"><u>Beyond What We Can See | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-heic-images-to-jpeg-in-windows-oses/"><u>Convert HEIC Images to JPEG in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-photo-package-failures-effectively/"><u>Correcting Windows Photo Package Failures Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-firmware-modernization-techniques-on-surfaces/"><u>Efficient Firmware Modernization Techniques on Surfaces</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p55-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P55 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prepare-for-the-offline-install-of-win11/"><u>Prepare For the Offline Install of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-assigned-file-programs-in-windows-os/"><u>Solving Non-Assigned File Programs in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-essential-factors-to-evaluate-when-shopping-for-your-next-dashcam/"><u>Top 9 Essential Factors to Evaluate When Shopping for Your Next Dashcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-behind-needed-items-failure-window/"><u>Unraveling the Mystery Behind “Needed Items” Failure Window</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mp3-kitty-acoustic-trick-for-2024/"><u>Updated MP3 Kitty Acoustic Trick for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/w10-versus-w11-the-biggest-ui-shifts-you-need-to-know/"><u>W10 Versus W11: The Biggest UI Shifts You Need to Know</u></a></li>
+</ul></div>
 

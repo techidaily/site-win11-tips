@@ -1,7 +1,7 @@
 ---
 title: "Secure Browsing in Win 11: Implement Microsoft Defender Application Guard"
-date: 2024-10-24T20:28:32.406Z
-updated: 2024-10-26T17:27:33.757Z
+date: 2024-10-25T19:20:11.405Z
+updated: 2024-11-01T17:29:42.911Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
  Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Install Microsoft Defender Application Guard Using the Control Panel
 
  You can also install Microsoft Defender Application Guard for Edge on your Windows 11 computer using the classic Control Panel. Here's how to do it:
@@ -66,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
@@ -95,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 5. This will open a new window, select the**Enabled** checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. You can now go to**Options** and change it to**2** or**3** .  
@@ -106,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 7. Once done, click**Apply** and then**OK** to save all the changes you have made.
 
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
@@ -145,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Microsoft Defender Application Guard and Stay Safe
@@ -170,15 +164,24 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-dynamics-behind-t-series-profit-on-youtube/"><u>[Updated] The Dynamics Behind T-Series' Profit on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/"><u>2024 Approved The Ultimate Method for IPTV Screen Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/bending-space-and-time-vrs-cinematic-innovation/"><u>Bending Space and Time VR's Cinematic Innovation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-15-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 15 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revive-lost-iphone-x-key-tips-and-tricks-shared-here/"><u>Revive Lost iPhone X Key Tips and Tricks Shared Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-scheduling-in-windows-11-calendar/"><u>Streamlining Scheduling in Windows 11 Calendar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vscode-instability-in-windows-11/"><u>Troubleshooting VSCode Instability in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-acid-pro-evaluation-finding-reliable-counterparts/"><u>[New] ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exclusive-access-to-free-switch-clones/"><u>[Updated] In 2024, Exclusive Access to Free Switch Clones</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-expert-tips-on-restoring-files-from-your-sabrent-rocket-solid-state-drive/"><u>1. Expert Tips on Restoring Files From Your Sabrent Rocket Solid State Drive</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/d-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-the-ultimate-gaming-rig-top-picks-for-z790-mobo-and-aio-cooler-combinations/"><u>Build the Ultimate Gaming Rig: Top Picks for Z790 Mobo & AIO Cooler Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-achieve-optimal-security-with-ms-defender-aguard-on-windows-11s-edge/"><u>Easily Achieve Optimal Security with MS Defender Aguard on Windows 11'S Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-tpm-support-in-virtualbox-70/"><u>Enabling/Disabling TPM Support in VirtualBox 7.0</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-essential-steps-to-overcome-windows-os-hypervisor-faults/"><u>Five Essential Steps to Overcome Windows OS Hypervisor Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-exclude-email-address-in-windows-login-settings/"><u>How to Exclude Email Address in Windows Login Settings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-x-flip-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo X Flip Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-2630-printer-drivers-on-windows-7-81-and-10-free-download/"><u>Install Epson WF 2630 Printer Drivers on Windows 7, 8.1 & 10 - Free Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-beware-the-persistent-problem-of-f1-2er-2021-game-crashing-and-solutions-to-overcome-it/"><u>PC Users Beware! The Persistent Problem of F1 2Er 2021 Game Crashing and Solutions to Overcome It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-steam-error-missing-files-on-modern-windows-11-pc/"><u>Rectify Steam Error: Missing Files on Modern Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-absence-of-supported-scanner-for-windows-hello/"><u>Remedying the Absence of Supported Scanner for Windows Hello</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-get-help-issue/"><u>Resolving Windows 11 'Get Help' Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-seamlessly-moving-your-images-from-android-devices-to-iphones/"><u>Step-by-Step Guide: Seamlessly Moving Your Images From Android Devices to iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-windows-compatible-ios-apps-for-android-users/"><u>Top 8 Windows-Compatible iOS Apps for Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-rescue-your-operators-download/"><u>Windows Woes? Rescue Your Operator's Download</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Discord Fatal Javascript Error in Windows 10 & 11
-date: 2024-10-22T22:19:12.570Z
-updated: 2024-10-27T00:43:43.366Z
+date: 2024-10-31T16:49:01.238Z
+updated: 2024-11-01T18:38:02.202Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -45,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 7. Choose a**Discord** version.
 8. Click**Uninstall** to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Delete Discord’s Data Folders
 
  The fatal Javascript error often arises because of corrupted Discord cache data. Fortunately, erasing a couple of Discord data folders will clear out any corruption.
@@ -64,26 +70,26 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -99,7 +105,22 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Go through Discord’s installation wizard to reinstall the software.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
 
@@ -116,29 +137,8 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
@@ -149,9 +149,25 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
@@ -179,20 +195,22 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-potential-expert-tips-for-youtube-video-trimming/"><u>[New] 2024 Approved Unlock Potential Expert Tips for YouTube Video Trimming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-basic-tactics-to-archive-webcam-chats-for-2024/"><u>[New] Basic Tactics to Archive Webcam Chats for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/erfect-shots-a-guide-to-capturing-engaging-youtube-content/"><u>[New] Perfect Shots A Guide to Capturing Engaging YouTube Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-schematic-gamers-graphs/"><u>[New] SCHEMATIC GAMER'S GRAPHS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>[Updated] 2024 Approved Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unparalleled-hands-on-gear-in-the-vr-world/"><u>[Updated] 2024 Approved Unparalleled Hands-On Gear in the VR World</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-windows-updates-0x80242016-hurdles/"><u>Avoiding Windows Update's 0X80242016 Hurdles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cybersecurity-insight-key-windows-activities-that-could-conceal-threats/"><u>Cybersecurity Insight: Key Windows Activities That Could Conceal Threats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-the-windows-11-taskbar-teams-chat-removal-will-impact-you/"><u>How the Windows 11 Taskbar Teams Chat Removal Will Impact You</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-media-creators-error-0x8007043c/"><u>Methods for Fixing Media Creator's Error 0X8007043C</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/revolutionizing-computing-how-emerging-3d-transistor-technology-sustains-moores-law/"><u>Revolutionizing Computing: How Emerging 3D Transistor Technology Sustains Moore's Law</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-recover-non-operational-windows-apps/"><u>Steps to Recover Non-Operational Windows Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-ai-leap-when-do-experts-predict-gpt-5-will-debut/"><u>The Next AI Leap – When Do Experts Predict GPT-5 Will Debut?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-enabledisable-bing-ai-on-windows-11-search-bar/"><u>Turbo Enable/Disable: Bing AI on Windows 11 Search Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-behind-windows-11s-disappearing-thumbnail-issue-fixes-here/"><u>What's Behind Windows 11'S Disappearing Thumbnail Issue? Fixes Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-the-art-of-transcending-huge-video-sizes-iphone-mac-connection/"><u>[New] In 2024, Mastering the Art of Transcending Huge Video Sizes IPhone-Mac Connection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-soloists-guide-to-captivating-audiences/"><u>[Updated] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-mastering-virtual-meeting-planning/"><u>2024 Approved Zoom Mastering Virtual Meeting Planning</u></a></li>
+<li><a href="https://fox-info.techidaily.com/add-auditory-components-to-premiere-pro-videos/"><u>Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-error-0xca00a009-from-windows-update-logs/"><u>Clearing Error 0xCA00A009 From Windows Update Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-secure-quick-access-button-in-windows-11-for-hardware-unhook/"><u>Craft Secure, Quick Access Button in Windows 11 for Hardware Unhook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-your-pcs-intel-processor-gen-through-windows/"><u>Deciphering Your PC's Intel Processor Gen Through Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-system-fixes-via-hotkey-configurations-in-w1011/"><u>Efficient System Fixes via Hotkey Configurations in W10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-sea-of-thieves-failure-to-start-properly/"><u>Fixing the Issue: Sea of Thieves Failure to Start Properly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-high-gpu-activity-in-windows-desktop-window/"><u>Managing High GPU Activity in Windows Desktop Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-tips-the-top-7-windows-activities-that-could-be-risky/"><u>Preventive Tips: The Top 7 Windows Activities That Could Be Risky</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-viewing-experience-top-tier-samsung-tv-now-more-affordable-than-ever/"><u>Revolutionary Viewing Experience: Top-Tier Samsung TV Now More Affordable Than Ever!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-computers-upgrade-chip-drivers/"><u>Streamline Computers: Upgrade Chip-Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-audio-tech-how-apples-latest-airpods-4-stack-up-against-previous-models/"><u>The Next Generation of Audio Tech - How Apple's Latest AirPods 4 Stack Up Against Previous Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-traveling-computers-into-the-windows-11-era-with-old-tools/"><u>Time Traveling Computers Into the Windows 11 Era with Old Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-preventing-unwanted-command-window-activation/"><u>Tips for Preventing Unwanted Command Window Activation</u></a></li>
 </ul></div>
 

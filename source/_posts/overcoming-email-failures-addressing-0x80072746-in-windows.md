@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Email Failures: Addressing 0X80072746 in Windows"
-date: 2024-09-11T01:23:36.000Z
-updated: 2024-09-12T01:23:36.000Z
+date: 2024-10-31T19:15:56.214Z
+updated: 2024-11-01T19:38:32.929Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Allow svchost.exe in the Firewall
 
@@ -41,20 +38,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
  It's worth noting that the exact steps of performing this action can vary depending on the specific program you are using. Typically, this information is available in the application settings of the app.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Modify VPN Settings
 
@@ -73,53 +56,20 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![VPN settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-settings-windows.jpg)
 3. Enable the **Allow VPN over metered network** option.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Allow VPN over metered network in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-over-metered-network.jpg)
 4. Now, head over to the "Related settings" section and choose **Change adapter options**.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. Right-click on your LAN (Wi-Fi) connectivity and choose **Properties** from the context menu.
 6. Select **Internet Protocol Version 6 (TCP/PV6)** and click **OK** to save the changes.
 
  You can now close the Settings app and check if the issue is resolved.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Set Up Your Account Manually
 
@@ -136,21 +86,23 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once the email account is removed, launch the official website of your email provider and copy the manual settings for IMAP. If these settings are not available, choose POP3\.
 
 1. Now, head back to the Mail client and launch the settings.
@@ -159,22 +111,16 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 3. Scroll down and choose **Advanced Setup**.  
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
-![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
-5. Finally, click on **Sign in** and check if the issue is resolved.
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
+5. Finally, click on **Sign in** and check if the issue is resolved.
 
 ## 4\. Update the Mail App
 
@@ -198,19 +144,12 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
  The Repair option attempts to fix any damaged or missing files that might be contributing to the error, while the Reset option will restore the default, error-free state of the application. It is important to note, however, that while these solutions are effective at fixing the underlying problem, you are likely to lose your settings and preferences within the Mail app.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Multiple Ways to Fix the Windows Mail App
 
@@ -220,18 +159,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -239,3 +166,20 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-choosing-the-best-video-grabber-for-windows-10-for-2024/"><u>[New] Ultimate Guide Choosing the Best Video Grabber for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>[Updated] 2024 Approved EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-beginners-handbook-to-instagrams-most-popular-feature-reels-for-2024/"><u>[Updated] The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-iphone-downloads-top-podcast-strategies/"><u>2024 Approved Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-kick-starting-a-captivating-instagram-live/"><u>2024 Approved Kick-Starting a Captivating Instagram Live</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-se-2020-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone SE (2020) by restoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-windows-non-responsive-performance-chart/"><u>Improving Windows' Non-Responsive Performance Chart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-file-thumbnails-in-windows-11-how-to-repair/"><u>Invisible File Thumbnails in Windows 11 – How to Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-installed-devices-message-on-pcs/"><u>Overcoming 'No Installed Devices' Message on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-obstacles-to-unique-printer-id/"><u>Removing Obstacles to Unique Printer ID</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-mobile-video-streaming/"><u>Restore Mobile Video Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-restoring-windows-google-nearby-share/"><u>Step-By-Step Guide to Restoring Windows Google Nearby Share</u></a></li>
+</ul></div>
+

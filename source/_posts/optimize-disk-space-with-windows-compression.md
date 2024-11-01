@@ -1,7 +1,7 @@
 ---
 title: Optimize Disk Space with Windows Compression
-date: 2024-10-23T21:27:47.125Z
-updated: 2024-10-26T19:59:27.763Z
+date: 2024-10-26T18:59:14.682Z
+updated: 2024-11-01T18:38:15.934Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable and Use Archive Support in Windows 11
 
  At the time of writing, the archive support feature is only available in Windows Insider build 23493 of the Dev channel.
@@ -65,46 +72,39 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
@@ -113,26 +113,6 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[New] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements/"><u>[New] In 2024, Behind the Curtain Exclusive Review of Apeaksoft's Tech Advancements</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-your-footage-with-premiere-pros-advanced-techniques-for-360-editing/"><u>[New] Transform Your Footage with Premiere Pro's Advanced Techniques for 360° Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-value-for-beginners-comprehensive-analysis-and-verdict-on-the-ecoflow-river-3-portable-battery-tech-insights-by-zdnet/"><u>Best Value for Beginners: Comprehensive Analysis and Verdict on the EcoFlow River 3 Portable Battery | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-mfc-9330cdw-setup-for-air-glide/"><u>Brother MFC-9330CDW Setup for Air Glide</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-deep-using-the-netstat-command-in-windows-11-os/"><u>Diving Deep: Using the Netstat Command in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-and-disable-the-windows-key/"><u>How to Enable and Disable the Windows Key</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-augment-folder-context-menus/"><u>Innovative Ways to Augment Folder Context Menus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcome-update-obstacles-with-these-fixes/"><u>Overcome Update Obstacles with These Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silence-expert-tips-on-restoring-nvidia-hd-audio-output/"><u>Solving Silence: Expert Tips on Restoring Nvidia HD Audio Output</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-roblox-unrecoverable-errors/"><u>Strategies to Overcome Roblox Unrecoverable Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tap-into-divine-interface-capabilities-in-windows-11/"><u>Tap Into Divine Interface Capabilities in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unbreakable-passwords-top-four-managers-for-the-new-windows-edition/"><u>Unbreakable Passwords: Top Four Managers for the New Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-gpus-potential-temp-guidelines/"><u>Unlocking Your GPU's Potential: Temp Guidelines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-guide-to-opening-quick-capture-utility/"><u>Windows 11 Guide to Opening Quick Capture Utility</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +120,22 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-art-of-crafting-an-engaging-facebook-biography-in-under-157-characters/"><u>[New] In 2024, The Art of Crafting an Engaging Facebook Biography in Under 157 Characters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-taming-unwanted-shake-in-drones-visual-outputs-for-2024/"><u>[New] Taming Unwanted Shake in Drones' Visual Outputs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-list-saving-your-favorite-ringtone-files/"><u>[Updated] Master List Saving Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-windows-updates-error-0x8024800c/"><u>Correcting Failed Windows Updates (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-powershell-scripts-removing-file-restrictions/"><u>Decoding PowerShell Scripts: Removing File Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x80070570-and-repairing-files-in-windows-11-os/"><u>Eradicating Error 0X80070570 & Repairing Files in Windows 11 OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 10T 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a56s-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A56s 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimize-your-pc-effortlessly-with-these-26-free-registry-tools/"><u>Optimize Your PC Effortlessly with These 26 Free Registry Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-measures-against-wlanextexe-cpu-spikes/"><u>Proactive Measures Against WLANEXT.EXE CPU Spikes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisit-your-digital-trail-in-windows-11/"><u>Revisit Your Digital Trail in Windows 11</u></a></li>
+</ul></div>
+

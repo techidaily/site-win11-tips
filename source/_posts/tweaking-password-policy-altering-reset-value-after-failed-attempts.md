@@ -1,7 +1,7 @@
 ---
 title: "Tweaking Password Policy: Altering Reset Value After Failed Attempts"
-date: 2024-10-22T22:55:47.637Z
-updated: 2024-10-26T23:06:08.476Z
+date: 2024-10-30T18:39:01.206Z
+updated: 2024-11-01T17:27:21.818Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -57,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
@@ -69,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
@@ -80,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
@@ -92,26 +110,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-accelerated-mp4-conversion-for-fb-media/"><u>[Updated] 2024 Approved Accelerated MP4 Conversion for FB Media</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/"><u>[Updated] Choosing Livestream Software The OBS Vs. Streamlabs Dilemma for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-s23-fe-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy S23 FE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/"><u>Boosted Efficiency: Expert Tips for Optimizing Bar Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-ideal-surge-protector-for-your-gadgets-a-comprehensive-guide/"><u>Choosing the Ideal Surge Protector for Your Gadgets: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficiently-change-your-facebook-videos-into-mp3-songs/"><u>Efficiently Change Your Facebook Videos Into MP3 Songs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-linux-with-windows-tools/"><u>Enhancing Linux with Windows Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expedite-word-clarity-with-windows-11-help/"><u>Expedite Word Clarity with Windows 11 Help</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-dll-not-loading-error-in-windows-steam-client/"><u>Fixing Dll Not Loading Error in Windows Steam Client</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/get-facebook-links-downloaded-top-8-tools-of-the-year-2023/"><u>Get Facebook Links Downloaded Top 8 Tools of the Year 2023</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/listenguide-examination-for-2024/"><u>ListenGuide Examination for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-workstations-with-windows-os/"><u>Minimalist Workstations with Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-identify-non-recognized-usb-devices-on-win-11/"><u>Steps to Identify Non-Recognized USB Devices on Win 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-micromobility-key-dates-news-updates-rumors-and-essential-know-how/"><u>The Ultimate Guide to Micromobility: Key Dates, News Updates, Rumors, and Essential Know-How</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-csgo-in-w11/"><u>Unlocking the Power of CS:GO in W11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -119,3 +117,27 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame/"><u>[New] 2024 Approved Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>[New] Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-through-boundaries-with-hdr-in-editing/"><u>[Updated] Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-fix-iphone-camera-not-focusing-problem/"><u>[Updated] How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>[Updated] In 2024, Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-optimizing-age-information-in-tiktok-profiles-for-2024/"><u>[Updated] Optimizing Age Information in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-7-indicative-windows-activities-of-malware/"><u>Deciphering 7 Indicative Windows Activities of Malware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-failed-to-attach-the-usb-device-error-in-virtualbox-on-windows/"><u>How to Fix the Failed to Attach the USB Device Error in VirtualBox on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-replay-magic-stream-control-secrets/"><u>In 2024, Twitch Replay Magic Stream Control Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-your-productivity-in-windows-with-flow-launcher/"><u>Increase Your Productivity in Windows With Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-advanced-tactics-for-group-policy-optimization/"><u>Leveraging Advanced Tactics for Group Policy Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-efficiency-in-windows-1011-with-top-rated-productivity-tools/"><u>Master Efficiency in Windows 10/11 with Top-Rated Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system32-access-on-windows-11/"><u>Mastering System32 Access on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-the-disruptive-noise-irq-tuning-guide/"><u>Silencing the Disruptive Noise: IRQ Tuning Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-way-to-cut-out-unwanted-onedrive-in-explorer/"><u>The Way to Cut Out Unwanted OneDrive in Explorer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-wet-proof-tech-timepieces-professional-evaluations-and-rankings/"><u>Top-Ranking Wet-Proof Tech Timepieces : Professional Evaluations & Rankings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-office-capabilities-installing-outlook-preview-on-windows-11/"><u>Unlock Full Office Capabilities: Installing Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-wilderness-aesthetic-an-in-depth-look-at-minecrafts-campfire-tales-skins/"><u>Unlocking the Wilderness Aesthetic: An In-Depth Look at Minecraft's Campfire Tales Skins</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Penetrating User Anonymity: Acquiring SIDs on Win11"
-date: 2024-10-19T16:49:55.544Z
-updated: 2024-10-26T22:38:52.277Z
+date: 2024-10-29T19:40:43.228Z
+updated: 2024-11-01T19:28:58.971Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ whoami /user > C:\SID.txt
 6. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Using WMIC
@@ -82,10 +82,10 @@ Get-WmiObject win32_useraccount | Select name,sid
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
@@ -108,10 +108,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 6. Similarly, you can check the other SID keys and open their **ProfileImagePath** value to find their corresponding user name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close the Registry Editor app afterward.
@@ -130,21 +130,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
-7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
-![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
+![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
 
 ## Check SIDs in a Jiffy
 
@@ -154,25 +149,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-iphone-users-guide-to-picture-softening-four-ways/"><u>[New] IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-keystrokes-using-typingaid/"><u>Accelerate Your Keystrokes Using TypingAid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amending-disabled-windows-shadow-snapshots/"><u>Amending Disabled Windows Shadow Snapshots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-unavailability-of-icloud-on-windows/"><u>Fixing the Unavailability of iCloud on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freedomgpt-unveiled-how-to-install-and-use-a-no-limit-gpt-tool-on-windows-pcs/"><u>FreedomGPT Unveiled: How to Install and Use a No-Limit GPT Tool on Windows PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-motorola-moto-g24-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Moto G24 Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-guide-for-installing-windows-11-arm-via-iso-download/"><u>How-To Guide for Installing Windows 11 ARM via ISO Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-recollection-of-previous-windows-password/"><u>Mending “Recollection of Previous Window's Password”</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-mspm-setup-obstacles-in-windows-vista/"><u>Overcoming MSPM Setup Obstacles in Windows Vista</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-crashes-due-to-video-drivers/"><u>Remedying Windows Crashes Due to Video Drivers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-slideshows-on-the-go-using-an-android-phone-to-manage-powerpoint/"><u>Seamless Slideshows on the Go: Using an Android Phone to Manage PowerPoint</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-7-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-30-trending-tiktok-anime-inspirations-for-2024/"><u>Top 30 Trending TikTok Anime Inspirations for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-how-to-stabilize-your-video-for-better-impressions-in-fcpx-in-2024/"><u>Updated How to Stabilize Your Video for Better Impressions in FCPX, In 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +156,27 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[Updated] 2024 Approved OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-gamer-centric-streaming-tool-selection/"><u>[Updated] Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-simplify-aquatic-footage-7-key-shooting-strategies/"><u>[Updated] In 2024, Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-negative-space-reverse-video-tricks-for-instagram/"><u>[Updated] Mastering Negative Space Reverse Video Tricks for Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-journey-of-a-youtube-video-from-creation-to-live-streaming/"><u>[Updated] The Journey of a YouTube Video From Creation to Live Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-top-6-free-substitutes-for-openais-phi/"><u>Discover Top 6 Free Substitutes for OpenAI's Phi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/educational-gaming-with-latin-language/"><u>Educational Gaming with Latin Language</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-powershell-to-unblock-files/"><u>Essential Tips for Using PowerShell to Unblock Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluate-your-computers-electrical-demand-in-windows-environment/"><u>Evaluate Your Computer’s Electrical Demand in Windows Environment</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-phantom-v-fold-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Phantom V Fold Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-does-imovie-set-dimensions-in-2024/"><u>How Does iMovie Set Dimensions, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-date-and-time-settings-on-desktop-toolbars/"><u>Navigating Date & Time Settings on Desktop Toolbars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-portaudio-error-in-audacity-windows-11-and-11-devices/"><u>Overcoming PortAudio Error in Audacity, Windows 11 & 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overriding-no-notify-feature-for-ws11-webcam-access/"><u>Overriding No-Notify Feature for WS11 WebCam Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-to-cure-onedrive-synch-problems-with-windows-11/"><u>Quick Remedies to Cure OneDrive Synch Problems with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rising-roars-3-applications-for-elevating-your-pcs-audio-levels/"><u>Rising Roars: 3 Applications for Elevating Your PC’s Audio Levels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharing-tunes-instagram-copyright-edicts-for-2024/"><u>Sharing Tunes Instagram Copyright Edicts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-the-credential-manager-in-windows-11-os/"><u>Triggering the Credential Manager in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unsuccessful-image-saving-issue-in-win11/"><u>Troubleshooting Unsuccessful Image Saving Issue in Win11</u></a></li>
+</ul></div>
+

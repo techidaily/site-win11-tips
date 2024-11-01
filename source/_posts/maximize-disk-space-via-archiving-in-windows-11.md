@@ -1,7 +1,7 @@
 ---
 title: Maximize Disk Space via Archiving in Windows 11
-date: 2024-09-09T16:14:10.472Z
-updated: 2024-09-16T20:20:23.864Z
+date: 2024-10-27T18:04:17.395Z
+updated: 2024-11-01T17:14:13.230Z
 tags:
   - windows10
   - windows11
@@ -65,19 +65,47 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
 
@@ -93,12 +121,21 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>[Updated] 2024 Approved Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-into-livestrances-a-gamers-guide-to-youtube-success-for-2024/"><u>[Updated] Breaking Into Livestrances A Gamers' Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-spice-up-your-videos-7-premium-royalty-free-audio-clips/"><u>[Updated] In 2024, Spice Up Your Videos 7 Premium, Royalty-Free Audio Clips</u></a></li>
+<li><a href="https://facebook.techidaily.com/3-reasons-why-metas-social-media-dominance-should-scare-you/"><u>3 Reasons Why Meta's Social Media Dominance Should Scare You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-high-resource-consumption-by-security-apps/"><u>Curbing High-Resource Consumption by Security Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-code-0x800f0831/"><u>Decoding Windows Error Code 0X800F0831</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-folder-comments-in-windows-11s-file-explorer/"><u>How to Add Folder Comments in Windows 11'S File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-avoid-folder-restrictions-on-windows-11/"><u>How to Avoid Folder Restrictions on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-camera-not-detected-when-using-snap-cameras/"><u>How to Solve 'Camera Not Detected' When Using Snap Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-recurring-audio-issues-on-your-windows-11-device-effortlessly/"><u>How to Solve Recurring Audio Issues on Your Windows 11 Device Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intuitive-pathways-seamlessly-integrating-win11-shortcut-tools/"><u>Intuitive Pathways: Seamlessly Integrating Win11 Shortcut Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-elite-8-virtual-handhelds-overview-for-2024/"><u>The Elite 8 Virtual Handhelds Overview for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-in-outdated-devices-with-windows-11-to-go-rufus-tutorial/"><u>Unleash Potential in Outdated Devices with Windows 11, To Go, Rufus Tutorial</u></a></li>
+</ul></div>
 

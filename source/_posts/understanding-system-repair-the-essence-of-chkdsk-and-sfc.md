@@ -1,7 +1,7 @@
 ---
 title: "Understanding System Repair: The Essence of CHKDSK & SFC"
-date: 2024-10-23T20:35:15.031Z
-updated: 2024-10-26T20:39:39.174Z
+date: 2024-10-29T18:03:42.829Z
+updated: 2024-11-01T17:07:26.991Z
 tags:
   - windows10
   - windows11
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 * [What Is DISM and When Should You Use It?](#what-is-dism-and-when-should-you-use-it)
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * CHKDSK scans your hard drive for errors and bad sectors, and you should run it if your computer isn't booting properly.
@@ -62,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Run CHKDSK Through File Explorer
@@ -85,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Run CHKDSK From the Command Prompt
 
@@ -110,6 +84,19 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 * To scan for bad sectors and errors, type **chkdsk /r c:**
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is SFC Scannow and When Should You Use It?
 
@@ -136,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is DISM and When Should You Use It?
@@ -167,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
@@ -179,27 +173,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
  If you're still having trouble, perform a System Restore. This will restore your system files, settings, and programs to a time when they worked properly. If your system wasn't damaged when the restore point was created, it may solve your corruption problems.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-craft-memorable-content-explore-youtubes-top-10-creative-responses/"><u>[New] 2024 Approved Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-grasping-video-aspect-ratios-a-beginners-tale/"><u>2024 Approved Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/astra-pilot-disappearance-steps-for-windows-11-users/"><u>Astra Pilot Disappearance? Steps for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-failed-file-creation-on-11-camera-app/"><u>Bypassing Failed File Creation on 11 Camera App</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/documenting-xbox-gaming-tips-and-tricks/"><u>Documenting Xbox Gaming Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719366220535-effortless-assistance-for-your-common-windows-complaints/"><u>Effortless Assistance for Your Common Windows Complaints!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-uninstallreinstall-issues-for-windows-store/"><u>Fix Uninstall/Reinstall Issues for Windows Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-obsolete-to-optimal-atlasos-makeover/"><u>From Obsolete to Optimal: AtlasOS Makeover</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unlock-device-access-after-encountering-error-22-in-windows-11/"><u>How to Unlock Device Access After Encountering Error 22 in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-google-pixel-8-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Google Pixel 8 and Browser | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-g24-power-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola G24 Power FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-restoring-file-transfer-on-win11/"><u>Navigating Network Hurdles: Restoring File Transfer on WIN11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-pbm-image-editing-and-conversion-by-movavi-fast-and-free/"><u>Online PBM Image Editing and Conversion by Movavi: Fast & FREE!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-video-from-mkv-to-mp4-on-windows-pcs/"><u>Optimizing Video: From MKV to MP4 on Windows PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-windows-11/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Windows 11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-5-best-free-divx-video-cutters-for-2024/"><u>Top 5 Best Free Divx Video Cutters for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +180,25 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-superior-fb-video-player-reviews-10-to-1/"><u>[Updated] Superior FB Video Player Reviews #10 to #1</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>2024 Approved Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-the-windows-11-crash-code-errors/"><u>Clearing Up the Windows 11 Crash Code Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-typography-expansion-in-after-effects/"><u>Effortless Typography Expansion in After Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-visual-performance-the-ultimate-vram-boosters/"><u>Elevating Visual Performance: The Ultimate VRAM Boosters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-customizing-windows-boot-settings/"><u>Expert Strategies for Customizing Windows Boot Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-windows-updates-not-installing/"><u>How to Fix Windows Updates Not Installing</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/kmworld-recognizes-abbyy-compreno-as-the-defining-tech-product-of-2016/"><u>KMWorld Recognizes ABBYY Compreno as the Defining Tech Product of 2016</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovos-latest-tablet-the-p1-1-pro-a-balanced-review-of-advantages-and-disadvantages/"><u>Lenovo's Latest Tablet, The P1 1 Pro: A Balanced Review of Advantages & Disadvantages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/migrating-your-torrent-tracking-moving-qbittorrent-efficiently/"><u>Migrating Your Torrent Tracking: Moving qBittorrent Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-app-restrictions-for-store/"><u>Overcoming Windows 11 App Restrictions for Store</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet-for-2024/"><u>Perfect Peace Mastering the Art of Muting Individuals on GoMeet for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-anydesk-quirks-for-a-smooth-windows-experience/"><u>Resolving AnyDesk Quirks for a Smooth Windows Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/senso-activewireless-cost-effective-headphone-review/"><u>Senso ActiveWireless: Cost-Effective Headphone Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-usb-not-attached-error-in-virtualbox-on-windows-platform/"><u>Troubleshooting 'USB Not Attached' Error in VirtualBox on Windows Platform</u></a></li>
+</ul></div>
+

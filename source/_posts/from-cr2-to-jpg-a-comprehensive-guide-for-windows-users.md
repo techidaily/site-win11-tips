@@ -1,7 +1,7 @@
 ---
 title: "From CR2 to JPG: A Comprehensive Guide for Windows Users"
-date: 2024-09-12T16:52:22.681Z
-updated: 2024-09-17T08:50:10.471Z
+date: 2024-10-28T17:40:54.086Z
+updated: 2024-11-01T17:26:42.259Z
 tags:
   - windows10
   - windows11
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 ![The file format conversion options in Image Converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-format-selection.jpg)
 4. Press the **Click to Choose** button and select a folder in which to save the JPG file. Then click the **Select Folder** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the checkbox for the file you’ve selected to convert.
 6. Press the **Convert All** **Images** button.  
 ![The Image Converter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-image-converter-app.jpg)
@@ -81,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
 3. Select a CR2 file and click **Open**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
@@ -100,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Go to the directory that the IrfanView files were downloaded to.
 
 1. Double-click on the **iview462\_x64\_setup.exe** file to open the IrfanView setup window.  
@@ -118,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
@@ -136,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
@@ -155,13 +162,20 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 9. Click **Exit** in the "Batch Conversion done" window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Convert Your CR2 Photos to JPG Images
 
@@ -179,5 +193,24 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-little-billionaire-a-10-year-olds-wealthy-youtube-journey/"><u>[Updated] 2024 Approved The Little Billionaire A 10-Year-Old's Wealthy YouTube Journey</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rising-through-rhythm-how-to-submit-music-to-youtube/"><u>[Updated] In 2024, Rising Through Rhythm How to Submit Music to YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-livechat-capture-suite-fb-version/"><u>2024 Approved LiveChat Capture Suite FB Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-strategies-for-achieving-desired-career/"><u>AI-Powered Strategies for Achieving Desired Career</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-chromeedge-bar-hide-on-maxed-windows/"><u>Eliminating Chrome/Edge Bar Hide on Maxed Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-and-replace-missing-d3dx9nineteenth-error-files/"><u>How to Locate and Replace Missing D3dx9_nineteenth Error Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-pioneer-dj-ddj-sx2-software-speedy-download-steps/"><u>Instant Access to Pioneer DJ DDJ-SX2 Software - Speedy Download Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-11-efficiency-with-shortcuts-and-nircmd/"><u>Master Your Windows 11 Efficiency with Shortcuts & NirCmd</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-notification-settings/"><u>Navigating Windows 11 Notification Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrents-unresponsive-behavior-in-windows/"><u>Overcoming uTorrent's Unresponsive Behavior in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-access-challenges/"><u>Overcoming Windows 11 Access Challenges</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210342701-9781098096618-pieces/"><u>Pieces | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-spotify-connectivity-hiccup/"><u>Solving Windows 11'S Spotify Connectivity Hiccup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-luminary-developers-transforming-vr-landscapes/"><u>The Luminary Developers Transforming VR Landscapes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-a-pristine-windows-11-launch/"><u>The Ultimate Path to a Pristine Windows 11 Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-modifying-win11-smartscan-settings/"><u>Tips for Modifying Win11 SmartScan Settings</u></a></li>
+</ul></div>
 

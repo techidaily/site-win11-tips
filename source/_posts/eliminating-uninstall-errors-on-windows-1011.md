@@ -1,7 +1,7 @@
 ---
 title: Eliminating Uninstall Errors on Windows 10/11
-date: 2024-09-12T21:32:19.415Z
-updated: 2024-09-17T02:48:50.953Z
+date: 2024-10-29T18:33:05.881Z
+updated: 2024-11-01T19:03:53.696Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,26 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Troubleshoot With the Program Install and Uninstall Troubleshooter
 
  Windows doesn’t include any troubleshooter for fixing uninstallation issues. However, there is a Microsoft Program Install and Uninstall troubleshooter that might be useful for fixing the “You do not have sufficient access to uninstall” error. This is how you can run the Program Install and Uninstall troubleshooter:
@@ -51,11 +71,25 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 5. Then select the program you can’t uninstall and select **Next**.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/program-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off User Account Control
 
  The “You do not have sufficient access to uninstall” error can sometimes arise because User Account Control is set to high. So, try temporarily turning UAC off before uninstalling the affected software. Our guide on [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off UAC.
 
 ![The User Account Control settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set Full Control Permissions for the Software’s Installation Folder
 
@@ -66,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/properties-option3.jpg)
 3. Click **Edit** on the **Security** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select your user account name.
 5. Click the **Full control** checkbox to select that setting if it’s not already.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-window.jpg)
@@ -80,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 7. Select **OK** to exit the properties window.
 8. Repeat the above instructions for the program’s EXE (application) file.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Uninstall the Software With an UninstallString Value
 
@@ -109,16 +129,16 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![An uninstall command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/undostring-command.jpg)
 6. Press **Enter** to run the command and remove the software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that the above registry string is for 64-bit software. To find the strings for 32-bit software, you’ll need to go to this registry path:
 
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall`
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Uninstalling the Software With a Third-Party Uninstaller Tool
 
@@ -131,6 +151,14 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 5. Open IObit Uninstaller and select the **All programs** tab.  
 ![The IObit Uninstaller software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-iobit-uninstaller-software.jpg)
 6. Select the program and click **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click on the checkbox labeled **Automatically remove residual files**.
 8. Select **Uninstall** to remove the software.  
 ![The Uninstall button in IObit Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-button.jpg)
@@ -150,10 +178,16 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 5. Next, select the **MSIServer** key and double-click its **(Default)** string.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Enter **Service** in the **Value data** box and select **OK**.  
@@ -161,10 +195,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 7. Then enter safe mode and try uninstalling the affected software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Uninstall the Software You Need to Remove on Windows
@@ -183,5 +217,16 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-decoding-the-secrets-of-discord/"><u>[Updated] Decoding the Secrets of Discord</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-potential-of-googles-podcast-tools/"><u>2024 Approved Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-and-enhance-print-tools-in-w11-up-to-56-chars/"><u>Explore and Enhance Print Tools in W11 (Up to 56 Chars)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-4g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mp3-conversion-guide-best-free-apps-for-iphone-and-youtube/"><u>In 2024, MP3 Conversion Guide Best Free Apps for iPhone & YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>In 2024, Warmth Amidst Cold Selecting Perfect Winter Backdrops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-windows-store-glitch-error-x80072f17-fix/"><u>Rectifying Windows Store Glitch: Error X80072F17 Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotlight-control-on-lock-screen-onoff-guide-for-windows-users/"><u>Spotlight Control on Lock Screen: On/Off Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-inactivity-timer-personalization-guide/"><u>Windows Inactivity Timer: Personalization Guide</u></a></li>
+</ul></div>
 

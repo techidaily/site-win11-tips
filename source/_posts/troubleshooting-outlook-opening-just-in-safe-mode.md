@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Outlook Opening Just in Safe Mode
-date: 2024-10-20T22:01:28.826Z
-updated: 2024-10-26T18:12:28.557Z
+date: 2024-10-30T18:30:28.730Z
+updated: 2024-11-01T17:31:35.597Z
 tags:
   - windows10
   - windows11
@@ -49,20 +49,6 @@ To disable add-ins in Outlook:
 2. Type**outlook.exe /resetnavpane** in the Open field and press**Enter** .  
 ![Reset Navigation Pane in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-navigation-pane-in-outlook.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Outlook Inbox Repair Tool
 
  It’s not uncommon for Outlook data files to get corrupted over time. When this happens,[Outlook may keep crashing](https://www.makeuseof.com/microsoft-outlook-crashing-windows/) or trouble you with such issues. Fortunately, Outlook includes an Inbox Repair Tool that can help you fix any damaged Outlook data files. Here’s how you can run it.
@@ -78,9 +64,23 @@ To disable add-ins in Outlook:
 
  After the scan is complete, restart the Outlook app and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Program Compatibility Troubleshooter
 
  Running the program compatibility troubleshooter can help Windows detect and fix any issues that may have been preventing Outlook from opening in normal mode. Hence, it's a good idea to run this troubleshooter. If you need help with that, check our guide on[different ways to run the Program Compatibility troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) and follow your preferred method to fix compatibility issues with the Outlook app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create a New Outlook Profile
 
@@ -98,13 +98,6 @@ To create a new Outlook profile:
 8. After creating your profile, select it under**When starting Microsoft Outlook** and hit**Apply** .  
 ![Create New Outlook Profile-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-outlook-profile-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update the Outlook App
 
  Microsoft updates Outlook on a regular basis to deliver new features, security patches, and bug fixes. However, you may miss out on these improvements if you have disabled[automatic updates for Office apps](https://www.makeuseof.com/windows-stop-automatic-office-updates/) . Thankfully, it’s fairly easy to update the Outlook app manually. Here are the steps for the same.
@@ -113,13 +106,26 @@ To create a new Outlook profile:
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App on Windows-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-outlook-app-on-windows-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once updated, restart the Outlook app and see if it still opens in normal mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
@@ -136,13 +142,6 @@ To run the Office repair tool on Windows:
 6. Click the**Repair** button.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the repair tool to apply the fixes and see if that helps. If the problem persists, repeat the above steps to perform an**Online Repair** . This process may take longer, but it’s most likely to resolve the issue.
 
 ## 8\. Install Windows Updates
@@ -150,6 +149,13 @@ To run the Office repair tool on Windows:
  Updates are critical for any operating system, and Windows is no different in this regard. If this issue is caused by a bug within Windows, installing newer updates should help.
 
  If you need help installing the latest updates, check our guide to learn[different ways to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Outlook Again on Windows
 
@@ -170,21 +176,22 @@ To run the Office repair tool on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-pro-level-snapshot-techniques-maximizing-zoomed-photo-and-video-experience/"><u>[New] Pro-Level Snapshot Techniques Maximizing Zoomed Photo and Video Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-straightforward-approach-to-discovering-ram-in-windows/"><u>A Straightforward Approach to Discovering RAM in Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/comprehensive-tutorial-adding-and-configuring-the-marauder-extension-for-kodi-users/"><u>Comprehensive Tutorial: Adding and Configuring the Marauder Extension for Kodi Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compute-discerning-window-systems-origins/"><u>Compute: Discerning Window Systems' Origins</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-a-domino-effect-with-memes-for-2024/"><u>Creating a Domino Effect with Memes for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-access-entry-error-in-microsoft-os/"><u>Disabling 'Access Entry' Error in Microsoft OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dpx/"><u>DPX 이미지를 영구제액스로 바꾸기: 온라인 가장치 자동화 - 무료 몇 단계</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/dynamic-arrangement-of-your-youtube-selections/"><u>Dynamic Arrangement of Your YouTube Selections</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-tracking-victory-in-escape-from-tarkov-a-pros-secrets-to-overcome-slow-fps-through-six-key-modifications/"><u>Fast-Tracking Victory in Escape From Tarkov: A Pro's Secrets to Overcome Slow FPS Through Six Key Modifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-11-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 11 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retro-game-revival-elevating-experiences-by-adding-achievements-using-retroarch/"><u>Retro Game Revival: Elevating Experiences by Adding Achievements Using Retroarch</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/surviving-in-mc-6-home-ideas/"><u>Surviving in MC 6 Home Ideas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-microphone-issues-live-recording-fixes-in-obs-w11/"><u>Troubleshooting Microphone Issues: Live Recording Fixes in OBS, W11</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-sound-issues-in-halo-infinite/"><u>Ultimate Guide: Solving Sound Issues in Halo Infinite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-windows-potential-get-the-outlook-preview-installed/"><u>Unveil Windows' Potential: Get the Outlook Preview Installed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-anime-inspired-videos-reshaping-online-culture/"><u>[New] In 2024, Top 30 Anime-Inspired Videos Reshaping Online Culture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-olympic-zenith-highlighting-snowboard-x-races/"><u>[New] Olympic Zenith Highlighting Snowboard X Races</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-sharp-4k-top-10-mirrorless-cameras-for-2024/"><u>[Updated] Mastering Sharp 4K Top 10 Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-xcover-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy XCover 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-out-clutter-celebrate-pure-win11/"><u>Clear Out Clutter: Celebrate Pure Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delay-windows-11-shutdown-dealing-with-live-applications/"><u>Delay Windows 11 Shutdown: Dealing with Live Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-ghosting-on-monitor-easy-steps/"><u>How to Fix Ghosting on Monitor [Easy Steps]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-google-chrome-aw-snap-error-on-windows/"><u>How to Fix the Google Chrome “Aw, Snap!” Error on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-s17e-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo S17e Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-onlineaacogg/"><u>Movavi OnlineフリーAAC音源の迅速かつストレスなしOGGへの変更 - 使い勝手強化版</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-lost-d3dx939dll-issue/"><u>Overcoming Windows 11'S Lost D3DX9_39.dll Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickening-steam-download-speed-on-your-windows-system/"><u>Quickening Steam Download Speed on Your Windows System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-problems-the-ultimate-guide-for-an-unopenable-epic-games-launcher/"><u>Resolving Problems: The Ultimate Guide for an Unopenable Epic Games Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-your-pc-adjusting-boot-sequence-timer-in-win11/"><u>Speeding Up Your PC: Adjusting Boot Sequence Timer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-steam-login-errors/"><u>Strategies for Resolving Steam Login Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-research-meet-perplexity-ai-the-ai-tool-revolutionizing-your-google-searches/"><u>Transforming Research? Meet Perplexity AI - The AI Tool Revolutionizing Your Google Searches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocked-accessibility-for-non-functional-applications-on-ms-store/"><u>Unblocked Accessibility for Non-Functional Applications on MS Store</u></a></li>
 </ul></div>
 

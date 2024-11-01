@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Files with Auto-Move Command on Win 11
-date: 2024-10-20T17:09:02.373Z
-updated: 2024-10-26T22:06:04.747Z
+date: 2024-10-29T18:29:23.815Z
+updated: 2024-11-01T16:02:48.018Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -68,14 +68,21 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 5. Make sure the **Add to Explorer context menu** option is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
 
@@ -85,57 +92,21 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 3. Then input a title for your new folder and press **Enter**.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-instagrams-monetization-secrets/"><u>[New] Unlocking Instagram’s Monetization Secrets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-whats-fresh-with-facebook-latest-info-here/"><u>[Updated] In 2024, What’s Fresh with Facebook? Latest Info Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-chrome-clock-error-ahead-or-behind-windows-edition/"><u>Adjusting Chrome Clock Error: Ahead or Behind? (Windows Edition)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-breakdown-dji-inspire-1-explored/"><u>Complete Breakdown DJI Inspire 1 Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-window-11-mails-default-html-settings-for-clarity/"><u>Overhauling Window 11 Mail's Default HTML Settings for Clarity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade-for-2024/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-windows-tips-top-20-cmd-commands/"><u>Transformative Windows Tips: Top 20 CMD Commands</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/sh-creativity-with-youtube-list-mix-ups-for-2024/"><u>Unleash Creativity with YouTube List Mix-Ups for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +115,27 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-future-proofing-visuals-evaluating-av1s-standpoint-over-vp9-for-2024/"><u>[Updated] Future-Proofing Visuals Evaluating AV1's Standpoint over VP9 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streamsaver-fb-video-downloader-suite-for-2024/"><u>[Updated] StreamSaver FB Video Downloader Suite for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>[Updated] Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-techniques-and-tips-for-high-quality-screen-recording-in-adobe-captivity/"><u>2024 Approved Innovative Techniques & Tips for High-Quality Screen Recording in Adobe Captivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-car-tools-for-efficient-windows-use/"><u>Essential Car Tools for Efficient Windows Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixing-a-frozen-control-key-in-win11/"><u>Guiding You Through Fixing a Frozen Control Key in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-notifications-not-working-on-windows/"><u>How to Fix Outlook Notifications Not Working on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ey-to-digital-reach-the-complete-process-of-starting-a-youtube-channel/"><u>Journey to Digital Reach The Complete Process of Starting a YouTube Channel</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/laugh-out-loud-meme-making-techniques/"><u>Laugh Out Loud Meme-Making Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/legitimacy-check-on-facebooks-security-email-address/"><u>Legitimacy Check on Facebook's Security Email Address</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-zoom-for-superior-skype-interactions-and-communication-for-2024/"><u>Leveraging Zoom for Superior Skype Interactions & Communication for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-printer-troubles-reactivating-missing-wwinplusp-on-windows/"><u>Mastering Printer Troubles: Reactivating Missing WWin+P on Windows.</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1726227583001-movavi-video-editor/"><u>Movavi Video Editor: 高效下载与使用指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-unmet-system-conditions-indicator-in-win11/"><u>Override Unmet System Conditions Indicator in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-missing-window-panes-in-windows-11-6-tactics/"><u>Reinstating Missing Window Panes in Windows 11 (6 Tactics)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-2070-super-drivers-download-and-installation-guide-for-windows-11-users/"><u>RTX 2070 Super Drivers: Download and Installation Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-dependencies-using-wpm-effectively/"><u>Streamlining Dependencies: Using WPM Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-qt-initialization-unsuccessful-in-dev-environment/"><u>Tackling Qt Initialization Unsuccessful in Dev Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-optimal-performance-by-taming-high-cpu-demands/"><u>Unleashing Optimal Performance by Taming High CPU Demands</u></a></li>
+</ul></div>
+

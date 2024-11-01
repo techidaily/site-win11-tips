@@ -1,7 +1,7 @@
 ---
 title: "Efficient Scheduling: Combining To-Do and IFTTT Services"
-date: 2024-09-13T03:44:17.680Z
-updated: 2024-09-17T02:35:18.312Z
+date: 2024-10-28T16:25:21.056Z
+updated: 2024-11-01T17:41:35.913Z
 tags:
   - windows10
   - windows11
@@ -93,6 +93,14 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 1. Go to **Create** at the top-right and click the **If This** banner.  
 ![If This Then That IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/if-this-then-that-ifttt.jpg)
 2. Type "Asana" in the search box and click **Asana**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Asana search result IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-search-result-ifttt.jpg)
 3. Click **New task assigned to you in a project**. Click **Connect** if prompted and follow the onscreen instructions to link IFTTT with Asana.  
 ![Asana triggers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-triggers.jpg)
@@ -112,15 +120,49 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 ![IFTTT action creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page.jpg)
 5. Scroll down and click **Create action**.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![IFTTT action creation page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page-for-to-do.jpg)
 6. Click **Continue.**  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Applet creation on IFTTT final steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/applet-creation-on-ifttt-final-steps.jpg)
 7. Finally, click **Finish** to deploy your Applet.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Asana and Microsoft To Do Applet final step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-and-microsoft-to-do-applet-final-step.jpg)
 
  Once deployed, your Applet will execute the Asana-Microsoft To Do workflow accordingly. This can be a helpful [Asana hack to boost your productivity](http://www.makeuseof.com/asana-hacks-to-know/).
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Automate Task Completion Using IFTTT
 
@@ -135,6 +177,14 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 4. Ensure you set the **Which task list?** dropdown to the task list used when automating task creation in the previous sections. For instance, if you're automating new task creation on "Example task," select this same task for the Trigger.  
 ![IFTTT trigger creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page.jpg)
 5. Click the **Then That** banner and type "Gmail"in the search bar. Select **Gmail** when seen.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Service selection page for action IFTTT-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/service-selection-page-for-action-ifttt-1.jpg)
 6. Click **Send an email**. Next, fill in the email address fields on the following page accordingly, separating the email addresses by a comma.  
 
@@ -147,22 +197,16 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 
 ![IFTTT trigger creation page To Do task completion sample](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page-to-do-task-completion-sample.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whenever you complete the specified task in Microsoft To Do, your IFTTT Applet will send an email notification to the listed addresses that you've completed it.
 
  Besides these examples we've provided above, IFTTT also has public Microsoft To Do Applets you can use freely. Feel free to explore these on [IFTTT](http://ifttt.com/microsoft%5Ftodo)'s Microsoft To Do public Applets page.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Automate Microsoft To Do Without Limitations
 
@@ -178,5 +222,26 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-pushing-boundaries-with-innovative-vsco-techniques/"><u>[New] Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailored-content-personalizing-facebook-ad-videos-effectively-for-2024/"><u>[New] Tailored Content Personalizing Facebook Ad Videos Effectively for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb/"><u>[Updated] Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-measure-the-performance-of-igtv-videos/"><u>[Updated] In 2024, How to Measure the Performance of IGTV Videos?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieving-youtube-success-increasing-followers-quickly/"><u>Achieving YouTube Success Increasing Followers Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-the-watchful-eye-of-windows-11/"><u>Eradicate the Watchful Eye of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-woes-7-ways-to-regain-optional-features/"><u>Fix Windows Woes: 7 Ways to Regain Optional Features</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-aomei-dataknife-robust-windows-backup-and-recovery-solution/"><u>Free AOMEI DataKnife - Robust Windows Backup & Recovery Solution</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guide-de-depannage-pour-lerreur-0x80n70643-dans-kb5034441-solutions-rapides/"><u>Guide De Dépannage Pour L'erreur 0X80n70643 Dans KB5034441 - Solutions Rapides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-removing-windows-bt-folders-safely/"><u>Guidelines for Removing Windows ~BT Folders Safely</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-10t-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 10T 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y27-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y27 4G to iPod | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-from-booting-directly-to-bios/"><u>Preventing Windows From Booting Directly to BIOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-not-supported-problem-in-windows-os/"><u>Quick Fixes to 'Not Supported' Problem in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-play-tackling-intermittent-ps4-remote-control-loss/"><u>Seamless Play: Tackling Intermittent PS4 Remote Control Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-upgrading-your-windows-11-login-method/"><u>The Complete Guide to Upgrading Your Windows 11 Login Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-windowware-curbing-display-responses-disruptions/"><u>Winning at Windowware: Curbing Display Responses Disruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-solve-steam-disk-readwrite-woes/"><u>Winning Strategies to Solve Steam Disk Read/Write Woes</u></a></li>
+</ul></div>
 

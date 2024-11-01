@@ -1,7 +1,7 @@
 ---
 title: "Unlocking: Excel Content on Notepad Revealed"
-date: 2024-10-22T18:21:55.809Z
-updated: 2024-10-26T22:34:16.879Z
+date: 2024-10-31T18:37:41.167Z
+updated: 2024-11-01T17:14:01.338Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Default Settings for File Types
@@ -59,23 +65,16 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
 
@@ -99,15 +98,28 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 4. Press **Enter** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use an Excel Repair Tool (if Applicable)
 
@@ -131,21 +143,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories-for-2024/"><u>[Updated] Battlefield Legends The Ultimate List of Top 7 Total War Victories for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>2024 Approved Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-cleanup-integrating-uninstall-shortcuts-into-wins-interface/"><u>Convenient Cleanup: Integrating Uninstall Shortcuts Into Win's Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-spark-10-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Spark 10 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ix-escort-smart-radar-detector-tested-the-ai-powered-device-adapts-to-your-driving-habits/"><u>IX Escort Smart Radar Detector Tested: The AI-Powered Device Adapts to Your Driving Habits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-embellishing-system-tray-with-weather-icons-in-windows-11/"><u>The Complete Guide to Embellishing System Tray with Weather Icons in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-desktop-drawing-tips-and-tricks-compilation/"><u>Windows Desktop Drawing: Tips & Tricks Compilation</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +150,27 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-video-vanguard-10-web-based-hd-recording-tools/"><u>[New] Video Vanguard #10 Web-Based HD Recording Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beatbell-instructions-making-tamil-music-your-call-alerts-for-2024/"><u>[Updated] BeatBell Instructions Making Tamil Music Your Call Alerts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-android-freedom-selecting-prime-video-editing-tools/"><u>[Updated] In 2024, Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-ultimate-guide-to-saving-your-zoho-emails-simple-methods-to-securely-back-up-your-data/"><u>1. Ultimate Guide to Saving Your Zoho Emails: Simple Methods to Securely Back Up Your Data</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-s17t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo S17t to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-print-settings-for-windows-11-edge-shield-mode/"><u>Configuring Print Settings for Windows 11 Edge Shield Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/formulate-funny-imagery-with-adobe-for-2024/"><u>Formulate Funny Imagery with Adobe for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-server-stumbled-microsoft-store-error-in-windows-11-and-11/"><u>How to Fix the “Server Stumbled” Microsoft Store Error in Windows 11 & 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-revolutionizing-advertising-top-20-influential-expressions/"><u>In 2024, Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-digital-drawing-embrace-4-essential-updates-to-paint/"><u>Mastering Digital Drawing - Embrace 4 Essential Updates to Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-challenges-for-fbm-connectivity/"><u>Overcoming Windows Challenges for FBM Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-repairing-frequent-rainmeter-hiccups/"><u>Quick Guide to Repairing Frequent Rainmeter Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revival-tactics-restoring-microsoft-store-on-win-11-and-11/"><u>Revival Tactics: Restoring Microsoft Store on Win 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/superior-gaming-experience-with-windows-software/"><u>Superior Gaming Experience with Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-ordinary-into-exquisite-windows-outlook-calendar-tactics/"><u>Transforming Ordinary Into Exquisite: Windows Outlook Calendar Tactics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-avengers-saga-marvel-strikes-a-balance-between-extremes/"><u>Unboxing the Avengers Saga: Marvel Strikes a Balance Between Extremes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-pc-from-nvidias-geforce-now-error-0xc0f1103f/"><u>Unlocking Windows PC From Nvidia's GeForce Now Error 0Xc0f1103f</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enabling Perfect Copy-Paste Between Chrome/Edge/Firefox
-date: 2024-10-21T16:38:10.194Z
-updated: 2024-10-27T00:41:42.069Z
+date: 2024-10-31T17:54:24.085Z
+updated: 2024-11-01T19:22:42.639Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check for Problems With Your Keyboard
 
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
  If you're unable to copy and paste text from outside the browser, too, there could be a problem with the shortcuts themselves or with your keyboard keys. In this case, follow our guides on [how to fix malfunctioning keyboard keys](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/) (and [keyboard shortcuts](https://www.makeuseof.com/ways-fix-keyboard-shortcuts-not-working-in-windows-10/)) to resolve the underlying problem.
 
  However, if you can copy-paste text outside the browser but not within it, proceed to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Other Active Applications
 
@@ -77,32 +77,32 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Clear the Clipboard Cache and History
 
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 * [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Alternative Methods to Copy and Paste Text
@@ -138,14 +138,14 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
 
- If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
 
 ## Copy-Paste Your Text Again Effortlessly
 
@@ -157,24 +157,6 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-smart-strategies-for-entrepreneurial-video-marketing/"><u>[New] 2024 Approved SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pinterests-top-free-tools-effortless-video-downloads-online/"><u>[Updated] 2024 Approved Pinterest’s Top Free Tools Effortless Video Downloads Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-essential-tips-to-improve-your-chromebooks-zooming-skills/"><u>[Updated] Essential Tips to Improve Your Chromebook's Zooming Skills</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explaining-the-red-x-its-role-in-file-system-navigation/"><u>Explaining the Red “X”: Its Role in File System Navigation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-ars-capabilities-and-limits/"><u>In 2024, Understanding AR's Capabilities and Limits</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-6-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 6 Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-windows-apps-into-linux-world/"><u>Integrating Windows Apps Into Linux World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-hello-recognition-work-again/"><u>Making Windows Hello Recognition Work Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-networks-security-keys-five-steps-towards-error-elimination-in-windows/"><u>Mastering Your Network's Security Keys: Five Steps Towards Error Elimination in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-memory-assessment-made-easy/"><u>Windows Memory Assessment Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-ways-the-best-fixes-to-skip-the-long-wait-in-install-steps/"><u>Winning Ways: The Best Fixes to Skip the Long Wait in Install Steps</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -182,3 +164,19 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-superior-photos-repository-hubs/"><u>[New] Superior Photos Repository Hubs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-ideal-hashtags-for-your-youtube-videos/"><u>[Updated] In 2024, Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c12-plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C12 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-the-look-and-feel-of-zoom-videos/"><u>Elevating the Look & Feel of Zoom Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/emancipate-chatbots-on-windows-using-freedomgpt/"><u>Emancipate ChatBots on Windows: Using FreedomGPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-xs-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone XS How to Bypass?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-opengl32dll-error-messages/"><u>Step-by-Step Guide: Correcting Missing OpenGL32.dll Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-roblox-crashes/"><u>Strategies to Recover From Roblox Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-teams-hurdle-80080300-on-win11-systems/"><u>Tackling Microsoft Teams Hurdle #80080300 on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-shutdown-command-secrete-windows-11s-hideaway/"><u>The Invisible Shutdown Command: Secrete Windows 11'S Hideaway</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g73-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G73 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

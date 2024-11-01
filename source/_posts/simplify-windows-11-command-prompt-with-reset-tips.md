@@ -1,7 +1,7 @@
 ---
 title: Simplify Windows 11 Command Prompt with Reset Tips
-date: 2024-10-22T20:30:56.521Z
-updated: 2024-10-26T20:46:44.448Z
+date: 2024-10-28T17:00:13.713Z
+updated: 2024-11-01T17:03:18.230Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  Let's now move to the below sections and see how it can be reset.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -50,17 +43,17 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -76,10 +69,10 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -102,15 +95,28 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
 
@@ -131,24 +137,17 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-steps-to-save-youtube-videos/"><u>[New] 2024 Approved Easy Steps to Save YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>[New] The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/all-inclusive-rundown-whats-behind-the-google-podcast-app-for-2024/"><u>All-Inclusive Rundown What's Behind the Google Podcast App for 2024</u></a></li>
-<li><a href="https://tools.techidaily.com/acethinker/aquaclip-downloader/"><u>Aqua Clip / Video Keeper</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-on-linking-up-a-samsung-universal-remote-with-your-set-top-box/"><u>Easy Instructions on Linking Up a Samsung Universal Remote With Your Set-Top Box</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevated-operations-consistent-admin-mode-for-terminal/"><u>Elevated Operations: Consistent Admin Mode for Terminal</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/flip-the-script-learning-to-negative-play-in-instagram-for-2024/"><u>Flip the Script Learning to Negative Play in Instagram for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-flushed-to-functional-8-steps-for-desktop-color-correction/"><u>From Flushed to Functional: 8 Steps for Desktop Color Correction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-hyper-v-in-windows-11/"><u>How to Enable Hyper-V in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-minimize-malware-scanners-cpuram-demands/"><u>How to Minimize Malware Scanner's CPU/RAM Demands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-g310-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia G310 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y36i-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y36i FRP?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-selectivity-enable-checkbox-file-option-in-win11/"><u>Perfecting Selectivity: Enable Checkbox File Option in Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/podcasters-playlist-the-best-music-spots-to-open-your-ears/"><u>Podcaster’s Playlist The Best Music Spots to Open Your Ears</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-your-chatgpt-experience-windows-guide/"><u>Start Your ChatGPT Experience: Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-revolutionizing-text-design-top-10-after-effects-templates/"><u>[New] 2024 Approved Revolutionizing Text Design Top 10 After Effects Templates</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-no-budget-big-fun-youtube-vids-as-tweets-gifs-for-2024/"><u>[New] No Budget, Big Fun YouTube Vids as Tweets' GIFs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>[Updated] 2024 Approved The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-vintage-charm-filters-for-existing-media-on-ig/"><u>[Updated] In 2024, Unleashing Vintage Charm Filters for Existing Media on IG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>2024 Approved Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-microsofts-automated-update-protocol/"><u>Decoding Microsoft's Automated Update Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-remedies-for-windows-isdonedll-glitches/"><u>Efficient Remedies for Windows' ISDone.dll Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-protection-activating-tpm-and-secure-boot-before-windows-11/"><u>Elevate Your PC's Protection: Activating TPM & Secure Boot Before Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-frequent-termination-issues-in-rust-software-development/"><u>How to Prevent Frequent Termination Issues in Rust Software Development</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-a-dormant-tab-key-in-windows/"><u>Overcoming Obstacles: Fixing a Dormant Tab Key in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/screen-spectacular-sj6-vs-yi-4k-edition-for-2024/"><u>Screen Spectacular SJ6 Vs. Yi 4K Edition for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728503275861-biosuefi/"><u>エラーが発生した場合のBIOS・UEFIとシステムイメージ復元手順：トラブルシューティング</u></a></li>
 </ul></div>
 

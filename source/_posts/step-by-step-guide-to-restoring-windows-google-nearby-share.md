@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Guide to Restoring Windows Google Nearby Share
-date: 2024-10-22T00:17:32.113Z
-updated: 2024-10-26T18:55:40.908Z
+date: 2024-10-25T18:10:37.371Z
+updated: 2024-11-01T19:29:24.388Z
 tags:
   - windows10
   - windows11
@@ -41,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Reopen the app after this, and see if you can send and receive files as before.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Make Sure Bluetooth and Wi-Fi Are Turned On
 
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  You can quickly enable Bluetooth and Wi-Fi on your PC [using the Quick Settings panel on Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/). Additionally, you should connect both your Windows PC and Android phone to the same Wi-Fi network to improve the sharing experience.
 
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Bring Both Devices Closer
 
@@ -78,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Change the Default Save Location
@@ -96,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 4. Select another location on your PC and click the **Change** button.  
 ![Change Default Save Location in Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-default-save-location-in-nearby-share-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After completing the above steps, try to receive files from an Android device.
 
 ## 7\. Enable Notifications for the App
@@ -108,20 +114,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Repair the Nearby Share App
 
@@ -140,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
  Restart the Nearby Share app after this and see if it works as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall the Nearby Share App
 
  If the issue remains even after you repair the Nearby Share app, you can try reinstalling it on your PC. Here's how you can go about it:
@@ -157,9 +149,23 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 4. Follow the on-screen instructions to remove the app.  
 ![Uninstall Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-nearby-share-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have uninstalled the app, be sure to remove any residual app files from your computer. If you need help with that, you can learn how to [eradicate leftovers from uninstalled software in Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
  Download Google’s [Nearby Share app](https://android.com/better-together/nearby-share-app/) and install it on your PC. Following that, it should work smoothly on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Google’s Nearby Share App on Windows Again
 
@@ -169,26 +175,6 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-your-feeds-posting-videos-from-twitter-on-snapchat/"><u>[New] Uniting Your Feeds Posting Videos From Twitter on Snapchat</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elite-echo-engineer-for-podcasting-excellence/"><u>[Updated] Elite Echo Engineer for Podcasting Excellence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[Updated] In 2024, Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-windows-services-tool-when-it-wont-open-or-respond/"><u>7 Ways to Fix the Windows Services Tool When It Won't Open or Respond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-customized-clips-on-iphone-3-free-music-integration-techniques-for-2024/"><u>Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/excelling-at-windows-11-desktop-image-standards/"><u>Excelling at Windows 11 Desktop Image Standards</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-vocal-expressions-to-written-words-with-windows-whisper/"><u>From Vocal Expressions to Written Words with Windows Whisper</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-sfc-and-dism-can-revitalize-your-windows-11-system/"><u>How SFC & DISM Can Revitalize Your Windows 11 System</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone XR?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-low-usb-controller-limitation-error/"><u>Remedying “Low USB Controller Limitation” Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-event-viewer-issues-on-windows-11/"><u>Solving Event Viewer Issues on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/synchronizing-sound-pathways-resolving-paudio-in-winaudacity/"><u>Synchronizing Sound Pathways: Resolving PAudio in WINAudacity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-8-plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 8 Plus</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +182,20 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>[New] 2024 Approved Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>[Updated] 2024 Approved Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>[Updated] Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-captivating-youtube-closures-expert-guides-included/"><u>2024 Approved Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desk-dilemmas-taming-the-pink-and-purple-on-your-screen/"><u>Desk Dilemmas: Taming the Pink & Purple on Your Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clearing-storage-on-your-windows-11-pc-top-strategies-and-tools/"><u>Efficiently Clearing Storage on Your Windows 11 PC: Top Strategies and Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-and-styling-terminal-image/"><u>Selecting and Styling Terminal Image</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-aesthetic-enhancement-implementing-themes-from-the-microsoft-store/"><u>The Art of Aesthetic Enhancement: Implementing Themes From the Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-seven-pocket-friendly-tools-to-increase-windows-volume/"><u>Top Seven Pocket-Friendly Tools to Increase Windows Volume</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unseen-but-not-untouched-instagram-guide-for-2024/"><u>Unseen but Not Untouched Instagram Guide for 2024</u></a></li>
+</ul></div>
+

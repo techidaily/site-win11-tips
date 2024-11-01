@@ -1,7 +1,7 @@
 ---
 title: Initiating SFC Tool for Windows File Integrity
-date: 2024-10-26T00:18:37.104Z
-updated: 2024-10-26T19:56:38.049Z
+date: 2024-10-29T19:47:46.827Z
+updated: 2024-11-01T17:10:49.508Z
 tags:
   - windows10
   - windows11
@@ -48,14 +48,14 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -104,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
  The CBS.log file contains other logs besides those from the System File Checker. When looking through the entries, look for those that have an**\[SR\]** tag on them. Each entry will contain the date and time of the scan, along with the details of what happened.
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
@@ -117,18 +117,18 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -151,19 +151,18 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps-for-2024/"><u>[New] Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-launch-to-laughter-ifunnys-meme-app-made-simple/"><u>[Updated] Quick Launch to Laughter IFunny's Meme App Made Simple</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-effective-wellness-ads-on-social-media-platforms/"><u>2024 Approved Effective Wellness Ads on Social Media Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-visual-fields-in-windows-systems/"><u>Altering Visual Fields in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridge-gap-for-sd-detectability-by-explore-window/"><u>Bridge Gap for SD Detectability by Explore Window</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-defusing-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Deciphering and Defusing Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-mac-locations-on-your-windows-11-system/"><u>Deciphering MAC Locations on Your Windows 11 System</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/delightful-dolcetto-discover-more-than-20-slang-terms/"><u>Delightful Dolcetto: Discover More Than 20 Slang Terms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-mouse-drivers-for-windows-10/"><u>Installing Latest Mouse Drivers for Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-lock-pattern-creation-guide-for-windows-11-pcs/"><u>Personalized Lock Pattern Creation Guide for Windows 11 PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-drm-removal-from-ebook-pages/"><u>Step-by-Step Guide to DRM Removal From eBook Pages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-device-opens-issue-on-audacity-in-windows/"><u>Steps to Correct Device Opens Issue on Audacity in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-mkv-player-for-windows-and-mobile-for-2024/"><u>Ultimate MKV Player for Windows & Mobile for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-your-website-via-chatgpts-4-pathways/"><u>Unlock the Potential of Your Website via ChatGPT's 4 Pathways</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[New] 2024 Approved Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-narration-and-voiceovers-to-your-video/"><u>[New] How to Add Narration and Voiceovers to Your Video</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/asus-vivobookasusf910/"><u>ASUS Vivobookのリカバリモードでシステム復元手順：ASUS回復キーF9使用【ウィンドゥ10】</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-red-x-symbols-in-computer-file-systems/"><u>Demystifying Red “X” Symbols in Computer File Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-amd-rx-6700-xt-on-windows-11-10-and-7-platforms/"><u>Download Updated Drivers for AMD RX ‌6700 XT on Windows 11, 10 and 7 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-a-head-start-at-gameplay-with-winning-tactics-fc-style/"><u>Get a Head Start at Gameplay with Winning Tactics, FC Style</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ghostly-replay-techniques-for-editors/"><u>Ghostly Replay Techniques for Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-error-code-0x800705b4-fixes-for-seamless-windows-11-updates/"><u>Mastering Error Code 0X800705b4 Fixes for Seamless Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-next-leap-after-cortana/"><u>Microsoft's Next Leap After Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-your-non-responsive-windows-digital-scribe/"><u>Reigniting Your Non-Responsive Windows Digital Scribe</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplify-screenplay-to-film-use-windows-movie-maker-win11/"><u>Simplify Screenplay to Film Use Windows Movie Maker (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-try-connection-bluetooth-misfire/"><u>Swift Solution to 'Try Connection' Bluetooth Misfire</u></a></li>
 </ul></div>
 

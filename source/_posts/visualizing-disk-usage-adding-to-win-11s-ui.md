@@ -1,7 +1,7 @@
 ---
 title: Visualizing Disk Usage, Adding to Win 11'S UI
-date: 2024-10-22T21:35:07.221Z
-updated: 2024-10-26T21:20:36.211Z
+date: 2024-10-26T17:46:36.182Z
+updated: 2024-11-01T18:04:00.192Z
 tags:
   - windows10
   - windows11
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**Next** when installation is complete.
@@ -78,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
@@ -105,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
@@ -135,16 +135,20 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-building-your-brand-through-effective-fb-reel-strategies/"><u>[New] Building Your Brand Through Effective FB Reel Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-screen-capture-tips-for-mi-11-users/"><u>[Updated] Essential Screen Capture Tips for Mi 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-keyspace-perfection-on-windows-11/"><u>Configuring Keyspace Perfection on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-open-mouse-settings-efficiently-in-win11/"><u>Essential Tips: Open Mouse Settings Efficiently in Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-13-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 13 From Your Apple ID</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pushing-the-limits-with-gopro-film-techniques-for-2024/"><u>Pushing the Limits with GoPro Film Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-review-comprehensive-guide-and-analysis/"><u>Tom's Hardware Review: Comprehensive Guide and Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thriving-on-the-grid-maximizing-your-telegram-impact/"><u>[New] Thriving on the Grid Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-deciphering-the-superior-video-sharing-platform-tiktok-or-youtube-shorts/"><u>2024 Approved Deciphering the Superior Video-Sharing Platform TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-diverse-windows-operations-to-start-software/"><u>Discovering Diverse Windows Operations to Start Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-usability-in-tech-stellar-redesigns-backup-process/"><u>Enhanced Usability in Tech: Stellar Redesigns Backup Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-workflow-smartly-add-app-buttons-in-win11-interface/"><u>Enhanced Workflow: Smartly Add App Buttons in Win11 Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-11-entry-point-top-strategies-revealed/"><u>Enhancing the Windows 11 Entry Point: Top Strategies Revealed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-search-of-perfection-gopros-1-10-case-review-for-2024/"><u>In Search of Perfection - GoPro's #1-10 Case Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-official-windows-os-on-steam-deck/"><u>Installing Official Windows OS on Steam Deck</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-access-denied-on-nvidia-control-panel-in-win1110/"><u>Overcoming Access Denied on Nvidia Control Panel in Win11/10</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/pc-mac-ps-xboxthe-sims-4/"><u>PC, Mac, PS, Xbox用に、The Sims 4ゲームサーバーを安全にバックアップする詳細ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-nintendo-switch-emulators-for-windows/"><u>The Best Nintendo Switch Emulators for Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/windows-videography-embrace-hdr-magic-for-2024/"><u>Windows Videography Embrace HDR Magic for 2024</u></a></li>
 </ul></div>
 

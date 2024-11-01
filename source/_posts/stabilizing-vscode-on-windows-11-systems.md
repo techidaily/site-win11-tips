@@ -1,7 +1,7 @@
 ---
 title: Stabilizing VSCode on Windows 11 Systems
-date: 2024-09-12T22:34:40.256Z
-updated: 2024-09-16T18:54:13.646Z
+date: 2024-10-30T16:55:00.838Z
+updated: 2024-11-01T16:53:55.334Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 **Right-click** on the Start button and select the**Restart** option from the Power user menu. After the system restarts, run the Visual Studio Code with administrator permissions and check if it crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Disable Hardware Acceleration
 
  Hardware acceleration can cause problems on the low-spec system running the Visual Studio app. There isn’t an option for this feature in the app settings. So, you must modify the argv.json file to disable it. Here's how:
@@ -52,6 +59,19 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![Disable Hardware Acceleration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-hardware-acceleration.jpg)
 4. Press**Ctrl+ S** to save the changes to the file.
 5. Restart the app and check if it crashes now.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
 
@@ -69,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![Disable Visual Studio Code Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-visual-studio-code-extensions.jpg)
 4. Repeat this process for all extensions to disable them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now restart the Visual Studio Code app and run it for some time without any extensions. If it doesn't crash, an extension is probably the reason behind the crash.
 6. To identify the extension, revisit the Extension settings in the app and right-click on a disabled extension. Select the**Enable** option.
 7. Check if Visual Studio Code encounters a crash when this extension is active. Repeat the process to find the culprit extension and remove it from the app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Exclude Visual Studio Code in Windows Defender
 
@@ -92,24 +112,19 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 2. Select the**Check for updates** option from the context menu.  
 ![Update the Visual Studio Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-visual-studio-code.jpg)
 3. If there is an update available, download and install it and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Launch the app again and use it for some time while keeping an eye out for crashes.
 
 ## 8\. Roll Back the Last Windows Update
 
  Windows updates can break system features or not sit well with third-party apps. If you encounter the app crash issue after a recent update,[manually uninstall the most recent Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) on your computer. It will revert all the new changes made to your system.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Reinstall Visual Studio Code
 
@@ -127,29 +142,22 @@ winget uninstall Microsoft.VisualStudioCode
 ![Reinstall Visual Studio Code 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-1.jpg)
 7. Launch the Command Prompt with admin privileges again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Then type the following command and press the enter key:**winget install Microsoft.VisualStudioCode**  
 ![Reinstall Visual Studio Code 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-2.jpg)
 9. It will take a while to download and install the app on your system. You won’t need to interact with the installer window or grant any permissions.
 
 10. Run Visual Studio Code now and check if the app encounters any crashes now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Use the Web Version
 
  Microsoft even offers a[web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Visual Studio Code Won’t Crash Anymore on Windows 11
 
@@ -168,5 +176,22 @@ winget uninstall Microsoft.VisualStudioCode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-guide-to-iphones-macro-and-close-up-photography-tactics/"><u>[New] In 2024, Ultimate Guide to iPhone's Macro & Close-Up Photography Tactics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-video-grabbers-for-windows-10-users-for-2024/"><u>[Updated] Essential Video Grabbers for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-of-valheim-crop-cultivation/"><u>[Updated] In 2024, Unveiling the Secrets of Valheim Crop Cultivation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-captivating-literary-book-trailers/"><u>2024 Approved Captivating Literary Book Trailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-disable-explorers-default-views/"><u>Cut Down Clutter: Disable Explorer's Default Views</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-bios-security-recover-from-grayed-out-secure-boot-errors/"><u>Enhancing BIOS Security: Recover From Grayed Out Secure Boot Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-enhanced-use-of-windows-11-hardware/"><u>Essential Tweaks for Enhanced Use of Windows 11 Hardware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-are-podcasters-paid-in-2024/"><u>How Are Podcasters Paid, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-expertly-control-your-sounds-with-windows-11/"><u>How to Expertly Control Your Sounds with Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigating-obs-setup-for-zoom-streaming-excellence/"><u>Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-system-call-failure-on-modern-windows-systems/"><u>Tackling System Call Failure on Modern Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-streamlining-with-new-folder-placement-in-menu/"><u>Windows 11: Streamlining with New Folder Placement in Menu</u></a></li>
+</ul></div>
 

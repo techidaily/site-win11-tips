@@ -1,7 +1,7 @@
 ---
 title: "Reducing Delays, Increasing Frame Rate: Win Edition Guide"
-date: 2024-09-11T01:20:44.304Z
-updated: 2024-09-12T01:20:44.304Z
+date: 2024-10-25T17:43:09.562Z
+updated: 2024-11-01T18:30:28.812Z
 tags:
   - windows10
   - windows11
@@ -32,26 +32,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Always Run Roblox as Administrator
 
  When a process is run as an administrator, it takes precedence over other tasks. Due to this, your hardware allocates most of its resources to this specific process rather than to other processes running in its parallel.
@@ -59,6 +39,20 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  Running Roblox as an administrator will prioritize it over other tasks, which may improve the frame rate and reduce lag. To run Roblox as an administrator, right-click on the Roblox icon and select**Run as administrator** .
 
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Free Up System Resources to Support Roblox
 
@@ -72,19 +66,12 @@ To remove this unnecessary burden from your GPU, follow these steps:
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Change Graphics Quality
 
@@ -98,41 +85,7 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Put Roblox on High-Performance Graphics Mode
 
@@ -142,37 +95,23 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Change the Power Plan Settings
 
@@ -185,20 +124,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
 
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Turn Off Visual Effects
 
@@ -214,20 +139,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 8\. Check for Internet Issues
 
  A slow or unstable internet connection can also cause Roblox to lag. The following tips will help you determine if your internet is causing the problem:
@@ -237,19 +148,12 @@ To remove this unnecessary burden from your GPU, follow these steps:
 * Even though there isn't much evidence to support this, changing the DNS settings can reduce latency slightly, which can reduce lag in online games.[Change the DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) and see if it improves Roblox's performance.
 * If available, use an Ethernet cable to connect your device to the internet, as it helps establish a stable connection.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Play Roblox Lag-Free and Get Better FPS on Windows
 
@@ -257,14 +161,11 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
  While the above changes will undoubtedly improve Roblox's performance, if you want to streamline things even further, make system-specific changes to improve the overall performance of your games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -273,4 +174,24 @@ To remove this unnecessary burden from your GPU, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/xploring-object-oriented-programming-for-complex-applications/"><u>[New] Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-your-watchlist-using-double-display-with-netflix/"><u>[New] In 2024, Enhance Your Watchlist Using Double Display with Netflix</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-content-the-science-of-instagram-video-loops/"><u>[New] In 2024, Transform Your Content The Science of Instagram Video Loops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-no-write-saves-winos/"><u>A Step-by-Step Guide to Fixing No Write Saves, WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-masked-in-simplicity-secretly-slowing-down-your-system/"><u>Apps Masked in Simplicity: Secretly Slowing Down Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719315730924-avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-pitfalls-of-roblox-error-262/"><u>Avoiding Common Pitfalls of Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-windows-11-highlighted-icons-for-tidy-desktop/"><u>Banish Windows 11 Highlighted Icons for Tidy Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battery-saver-mastery-on-windows-laptops-essential-tips/"><u>Battery Saver Mastery on Windows Laptops - Essential Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-eluding-windows-11-explorer-errors/"><u>Best Practices for Eluding Windows 11 Explorer Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-audio-and-video-recording-on-windows-11s-snipping-tool-max-156/"><u>Blend Audio and Video Recording on Windows 11'S Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-access-your-favorites-anytime-the-leading-6-free-video-downloaders/"><u>In 2024, Access Your Favorites Anytime The Leading 6 Free Video Downloaders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone XS Max</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-5-digital-videography-devices/"><u>Leading 5 Digital Videography Devices</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor X50i+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-and-solutions-for-restoring-microsoft-print-to-pdf-functionality-on-windows-11/"><u>Tips and Solutions for Restoring Microsoft Print to PDF Functionality on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-free-video-editing-tools-for-windows-7-in-2er-2024-comprehensive-list/"><u>Top Free Video Editing Tools for Windows 7 in 2Er 2024 - Comprehensive List</u></a></li>
+</ul></div>
 

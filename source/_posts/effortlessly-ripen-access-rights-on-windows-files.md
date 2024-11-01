@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Ripen Access Rights on Windows Files
-date: 2024-10-21T16:57:21.117Z
-updated: 2024-10-26T17:12:28.594Z
+date: 2024-10-27T18:30:29.689Z
+updated: 2024-11-01T17:13:37.574Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ask the Owner to Change the Permissions
 
  While setting up a shared folder, Windows allows you to set custom permissions, such as allowing or denying full control, read and write permissions, etc.
@@ -51,15 +58,23 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Networking Services
@@ -74,23 +89,16 @@ Follow this step-by-step guide to restart the networking services:
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
@@ -108,6 +116,13 @@ To turn on Network discovery, follow these steps:
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
@@ -144,22 +159,8 @@ Here's how to reset the network settings on Windows:
 ![CMD In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cmd-in-search-bar.jpg)
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
 
@@ -182,19 +183,17 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevating-your-tiktok-career-with-effective-monetization-strategies/"><u>[New] 2024 Approved Elevating Your TikTok Career with Effective Monetization Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strong-authentication-protocols/"><u>[New] 2024 Approved Strong Authentication Protocols</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-virtual-vs-augmented-unraveling-ar-mr-and-vr-distinctions/"><u>[New] In 2024, Virtual Vs. Augmented Unraveling AR, MR & VR Distinctions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-victory-through-unwrapped-strategy/"><u>2024 Approved Market Victory Through Unwrapped Strategy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-steam-must-be-running-to-play-this-game-error-in-windows-11/"><u>7 Ways to Fix the Steam Must Be Running to Play This Game Error in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/build-a-custom-facebook-coverage-for-2024/"><u>Build a Custom Facebook Coverage for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-windows-11-blackout-with-easy-tips-and-tricks/"><u>Bypass Windows 11 Blackout with Easy Tips & Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-phantom-v-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Phantom V Flip Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-8-photo-montage-synthesizer-online/"><u>In 2024, Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-performance-dont-delay-download-new-nvidia-drivers/"><u>Optimize Performance - Don’t Delay, Download New Nvidia Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-absent-system-cooling-policy-in-pcs/"><u>Reinstating Absent System Cooling Policy in PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-revitalize-stuck-and-slow-downloads-in-windows-directory/"><u>Steps to Revitalize Stuck and Slow Downloads in Windows Directory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-content-restricted-in-windows-steam/"><u>Unraveling Content Restricted in Windows Steam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apeaksofts-screen-recorder-mastery-2023-exposed-for-2024/"><u>[Updated] Apeaksoft's Screen Recorder Mastery - 2023 Exposed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-your-content-insights-into-viewership-lead/"><u>[Updated] In 2024, Elevating Your Content Insights Into Viewership Lead</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>[Updated] Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-reversing-problems-from-a-recent-windows-update/"><u>Expert Advice: Reversing Problems From a Recent Windows Update</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A58 4G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-pc-lifespan-and-efficiency-by-updating-hp-omen-drivers/"><u>Increase PC Lifespan and Efficiency by Updating HP Omen Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-support-software-for-windows-11-free-download/"><u>Latest Intel USB 3.0 Support Software for Windows 11 - Free Download</u></a></li>
+<li><a href="https://facebook.techidaily.com/life-post-online-worlds-benefits-or-bust/"><u>Life Post-Online Worlds: Benefits or Bust?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-experience-file-explorer-troubleshooting/"><u>Revitalize Your Experience: File Explorer Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-opening-win-11s-call-center/"><u>Steps for Opening Win 11'S Call Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-rectify-non-specified-values-on-windows-pcs/"><u>Techniques to Rectify Non-Specified Values on Windows PCs</u></a></li>
 </ul></div>
 

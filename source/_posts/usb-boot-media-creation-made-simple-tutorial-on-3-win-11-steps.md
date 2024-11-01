@@ -1,7 +1,7 @@
 ---
 title: USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps
-date: 2024-09-11T01:21:49.110Z
-updated: 2024-09-12T01:21:49.110Z
+date: 2024-10-27T16:05:40.026Z
+updated: 2024-11-01T16:48:22.145Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Before We Start: How to Download the Windows 11 ISO Image
 
@@ -44,20 +41,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 7. Your download will begin immediately. However, it may take some time to finish downloading, depending on your Internet speed.
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
@@ -84,20 +67,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Once done, Rufus will show a success message. Now you can use the [Windows 11 bootable drive to install the OS](http://www.makeuseof.com/how-to-clean-install-windows-11/) on any compatible system.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. How to Create a Windows 11 Bootable USB Drive Using the Media Creation Tool
 
  The media creation tool is Microsoft's in-house solution to create an installation media. You can use the media creation tool to create a bootable USB flash drive or download the ISO file to your local drive. Since it needs to download the ISO to create a bootable drive, you cannot use an existing Windows ISO image with this tool.
@@ -111,51 +80,33 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 5. Click the **Accept button** to agree to the terms.  
 ![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
 2. Choose your options and click **Next**.  
 ![choose which media to use Media Creation Tool Bootable Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/choose-which-media-to-use.png)
 3. In the **Choose which media to use** window, select **USB flash** drive.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Next** button.
 5. Select your USB drive from the list of drives available.  
 ![select a usb drive media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-a-usb-drive.png)
 6. Click the **Next** button to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Next, click the **Finish** button.
 
  Media Creation Tool will now download the necessary Windows 11 files and create an installation media. When the "your USB flash drive is ready" message appears, click the **Finish** button to close the setup wizard. Now you can boot from the USB drive to troubleshoot or [clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/).
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. How to Create a Bootable Drive Using Command Prompt
 
@@ -165,19 +116,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 2. Press the **Win** key, type cmd, **and** click on **Run as Administrator** under **Command Prompt.** You can also use PowerShell if you prefer it over Command Prompt.  
 ![disk part windows 11 bootable drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disk-part-windows-11-bootable-drive.png)
 3. In the Command Prompt window, type the following command and hit enter to launch the **Windows Diskpart** utility.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 `DISKPART`
 4. Next, type the following command to list all the available storage devices:  
@@ -197,19 +135,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![format usb drive windows 11 cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/format-usb-drive-windows-11-cmd.png)
 7. Type the following command and hit enter to activate the partition:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `Active`
 8. Then type the following command to format the USB drive. It is important to format the drive in NTFS format as the [FAT32 format will cause the incorrect parameter error](https://www.makeuseof.com/windows-fix-parameter-is-incorrect-error/).  
 `FORMAT FS=NTFS LABEL=&ldquo;BootableUSB&rdquo; QUICK OVERRIDE`
@@ -225,18 +150,12 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![cmd list volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/cmd-list-volume.png)
 3. Once the ISO is mounted, type the following command to launch Diskpart.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 `Diskpart`
 4. Next, type the following command to show the available volume.  
@@ -244,19 +163,12 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 5. This will help you determine the Drive letter for the mounted ISO file. In the **Type column**, the mounted ISO will be listed as **DVD-ROM**. And the **Ltr column** lists the letter associated with the volume. Note down the details of the ISO volume as you will be using it moving forward.  
 ![list volume cmd windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/list-volume-cmd-windows-11.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 1. Once you have the volume details for the mounted ISO, type the following command to exit Diskpart:  
 `Exit`
@@ -276,19 +188,12 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  That’s it. Now you can use the USB bootable drive to clean install Windows 11\.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Multiple Ways to Create a Windows 11 Bootable USB Drive
 
@@ -298,18 +203,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -317,3 +210,21 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-auto-arcade-adventures-for-kids/"><u>[New] 2024 Approved Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inside-the-latest-youtube-income-regulations/"><u>[New] Inside the Latest YouTube Income Regulations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prime-filters-for-smooth-streaming-sessions-for-2024/"><u>[New] Prime Filters for Smooth Streaming Sessions for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-best-8-platforms-for-effective-youtube-advertising/"><u>[New] The Best 8 Platforms for Effective Youtube Advertising</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-finding-the-most-impactful-keywords-for-your-videos-for-2024/"><u>[Updated] The Ultimate Guide to Finding the Most Impactful Keywords for Your Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-discrepancies-in-disk-based-discord-queries/"><u>Addressing Discrepancies in Disk-Based Discord Queries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operative-brightness-fn-button-on-windows-11/"><u>Addressing Non-Operative Brightness Fn Button on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-docx-to-pdf-conversion-on-modern-windows/"><u>Advanced Tips for Docx-to-PDF Conversion on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assisting-with-utorrent-download-stalls-in-microsoft-environments/"><u>Assisting with uTorrent Download Stalls in Microsoft Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blueprints-for-crafting-safe-dialog-box-for-hardware-disconnect/"><u>Blueprints for Crafting Safe Dialog Box for Hardware Disconnect</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-affordable-tablets-comprehensive-expert-reviews/"><u>Top Rated Affordable Tablets : Comprehensive Expert Reviews</u></a></li>
+</ul></div>
+

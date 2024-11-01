@@ -1,7 +1,7 @@
 ---
 title: Solving Windows Spatial Audio THX Failures
-date: 2024-10-19T16:21:26.877Z
-updated: 2024-10-26T18:35:52.410Z
+date: 2024-10-28T17:55:09.605Z
+updated: 2024-11-01T19:00:27.428Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ To run the Windows Audio troubleshooter:
 5. The troubleshooter will first check for issues with the audio services. Next, you'll be prompted to select a malfunctioning device. Select the**THX Spatial** **Audio** device and click**Next** .
 6. Follow on-screen instructions and apply the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Sound Output Device
 
  You can set your preferred sound output device in the THX Spatial Audio interface. Since THX Spatial Audio routs the audio through its interface to your audio device, you must set it as the default audio output device on your PC.
@@ -60,21 +53,29 @@ To run the Windows Audio troubleshooter:
 2. Click the**Speaker/Sound** icon beside the**Volume slider** .  
 ![taskbar audio windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-audio-windows-11.jpg)
 3. Select**Speaker (THX Special)** as the**Sound Output device.**  
-![taskbar audio windows 11 set thx spatial audio default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-audio-windows-11-set-thx-spatial-audio-default.jpg)
-4. Next, launch the**THX Spatial Audio** app.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![taskbar audio windows 11 set thx spatial audio default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-audio-windows-11-set-thx-spatial-audio-default.jpg)
+4. Next, launch the**THX Spatial Audio** app.  
 
 ![thx spatial audio output device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-output-device.jpg)
 5. In the**Audio** Tab, toggle the switch for**THX Spatial Audio** to turn it on.
 6. Click the**Output Device** drop-down, and select your sound output device (**Speaker/Headphone)** .
 
  That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by[THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set Your Default Audio Device in Sound
 
@@ -93,10 +94,10 @@ To change your default playback device:
 7. Relaunch the THX Spatial Audio and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair Your Razer THX Spatial Audio App
@@ -111,6 +112,14 @@ To run the THX Spatial Audio repair:
 4. Locate and select the**THX Spatial Audio** app from the list.  
 ![thx spatial audio repair control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-repair-control-panel.jpg)
 5. Next, click on the**Uninstall/Change** option. Click**Yes** if prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click on the**Repair** option**under What Would You Like To Do?** section.  
 ![thx spatial audio control panel repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-control-panel-repair.jpg)
 7. The repair tool will try to repair the app by reinstalling the necessary drivers. Wait for the process to complete and close the repair tool.
@@ -119,6 +128,13 @@ To run the THX Spatial Audio repair:
  After repair, you may find all your audio devices disabled in Taskbar. This issue can occur if the repair tool abruptly stops critical audio services during the repair.
 
  To fix the issue, right-click on the**Muted Speaker** icon in**Taskbar** and select**Troubleshoot Sound Problems** . This will launch the**Windows Audio troubleshooter** . Follow on-screen instructions and apply any recommended fixes to restore audio on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall THX Spatial Audio
 
@@ -132,13 +148,6 @@ To uninstall THX Spatial Audio:
 ![windows 11 settings apps installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-apps-installed-apps.jpg)
 4. Locate the**THX Spatial Audio** app using the**Search app** bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the**three-dots menu** next to the app name and select**Uninstall** .  
 ![thx spatial audio uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-uninstall.jpg)
 
@@ -149,10 +158,10 @@ To uninstall THX Spatial Audio:
 4. In Registry Editor, navigate to the following location:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\`
@@ -161,6 +170,13 @@ To uninstall THX Spatial Audio:
 7. Next, go to the[THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
 
  Additionally, if you have Razer Synapse installed, check if an update is available. To do this, launch the app and click on the**Settings** (**Gear**) icon on top of the toolbar. Next, open the**About** tab and click on**Check for updates.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Install Pending Windows Updates
 
@@ -175,13 +191,6 @@ To update your Windows PC:
 3. Click on**Check for updates** . Windows scan for available updates and list them.
 4. Next, click on**Download** and install all. Wait for the updates to install and restart your PC to see if that resolves the THX Spatial Audio no sound problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update or Reinstall Your Audio Drivers
 
  Audio driver incompatibility with the THX Spatial Audio software may cause the device to malfunction. To fix the issue, check if an audio driver update is available. If not, try reinstalling the existing driver to see if that helps resolve the issue.
@@ -195,16 +204,10 @@ To update your audio device driver:
 4. Next, right-click on your audio output device and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![device manager update audio driver search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-search-automatically-for-drivers.jpg)
@@ -220,13 +223,6 @@ To reinstall the audio device driver:
 4. Click on **Let me pick from a list of available drivers on my computer.**  
 ![device manager update audio driver let me pick from list available drivers on computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-let-me-pick-from-list-available-drivers-on-computer.jpg)
 5. Select your driver model and click**Next** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Once installed, close Device Manager and check for any improvements.
 
@@ -251,20 +247,24 @@ To reinstall the audio device driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[New] 2024 Approved Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-2-ways-to-increase-your-youtube-audience-fast/"><u>[New] In 2024, 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-pinnacle-5-iphone-apps-for-auditory-escapades-for-2024/"><u>[Updated] Pinnacle 5 iPhone Apps for Auditory Escapades for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-spearheading-social-media-select-the-best-video-editors-for-ig-for-2024/"><u>[Updated] Spearheading Social Media Select the Best Video Editors for IG for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bringing-traditional-visuals-the-iconic-window-11-search-return/"><u>Bringing Traditional Visuals: The Iconic Window 11 Search Return</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-devhome-your-nexus-for-windows-11-innovation/"><u>Discovering DevHome: Your Nexus for Windows 11 Innovation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-power-management-options/"><u>Exploring Windows' Power Management Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-small-icons-a-guide-for-your-win-11-desktop/"><u>Fixing Small Icons: A Guide for Your Win 11 Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-windows-photo-viewer-on-win11-pcs/"><u>How to Reinstate Windows Photo Viewer on Win11 PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-pro-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze Pro 5G Bootloader Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pro-skills-screen-capturing-skype-conversations/"><u>Pro Skills Screen Capturing Skype Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/purple-pandemonium-restore-your-pcs-color-calibration/"><u>Purple Pandemonium? Restore Your PC's Color Calibration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-images-with-your-hp-laptops-screen/"><u>Step-by-Step Guide: Capturing Images with Your HP Laptop's Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-effective-mts-video-editor-software-on-windows/"><u>Ultimate Guide to the Most Effective MTS Video Editor Software on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-6-bargains-for-your-homes-ultimate-viewing-for-2024/"><u>[New] Prime 6 Bargains for Your Home's Ultimate Viewing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>[Updated] 2024 Approved A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-steps-to-reactivate-winget-on-windows-11/"><u>Effortless Steps to Reactivate Winget on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-top-tier-artificnial-intelligence-chatbots-chatgpt-vs-microsoft-bing-vs-google-bard-which-takes-the-lead/"><u>Evaluating Top-Tier Artificnial Intelligence Chatbots: ChatGPT Vs. Microsoft Bing Vs. Google Bard - Which Takes the Lead?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-and-restore-inaccessible-gpu-configuration-tools-for-amd-radeon/"><u>Fix and Restore Inaccessible GPU Configuration Tools for AMD Radeon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-resolving-vds-errors-in-windows-1011/"><u>Guidance: Resolving VDS Errors in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-xc10100bf-file-errors/"><u>Guide to Resolve XC10100BF File Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-google-chrome-from-crashing-on-pc/"><u>How to Stop Google Chrome From Crashing on PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-latest-laptop-showcase-the-trailblazing-omnibook-x-defined-by-its-impressive-snapdragon-x-chip-and-extended-battery-durability/"><u>HP's Latest Laptop Showcase: The Trailblazing OmniBook X, Defined by Its Impressive Snapdragon X Chip and Extended Battery Durability</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-10-best-creative-youtube-video-reaction-ideas-you-should-know/"><u>In 2024, 10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-12-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme 12 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465098529-iphone-cant-deliver-texts-discover-10-effective-remedies-and-expert-advice/"><u>IPhone Can't Deliver Texts? Discover 10 Effective Remedies & Expert Advice!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-window-recovery-in-win-1011-unlocking-6-methods-for-out-of-sight-panes/"><u>Master Window Recovery in Win 10/11: Unlocking 6 Methods for Out-of-Sight Panes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-driver-verifier-for-diagnostics-in-w11/"><u>Opening Driver Verifier for Diagnostics in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-setting-retrieval-hurdle-in-nvidias-software/"><u>Overcoming Setting Retrieval Hurdle in NVIDIA's Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-rtl8188cu-wi-fi-card-download-drivers-for-win10pluswin7/"><u>Realtek RTL8188CU Wi-Fi Card - Download Drivers for Win10+/Win7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-system-help-with-these-essential-steps/"><u>Simplify System Help with These Essential Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-systemtray-with-numlock-icon-windows-11-guide/"><u>Upgrading SystemTray with NumLock Icon: Windows 11 Guide</u></a></li>
 </ul></div>
 

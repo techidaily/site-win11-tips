@@ -1,7 +1,7 @@
 ---
 title: Innocuous Apps Overshadowed by Their True Role as Slowdown Agents
-date: 2024-10-24T21:29:01.162Z
-updated: 2024-10-26T21:21:23.347Z
+date: 2024-10-26T19:46:59.078Z
+updated: 2024-11-01T16:52:56.008Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
+<span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -68,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -83,38 +89,21 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
 
  Some of Windows 11's default apps take a sizable chunk out of your RAM, even if you never boot them up. Fortunately, just hiding them from your taskbar is enough from them latching onto your RAM for no good reason.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-perfecting-your-mobile-video-recordings-on-snapchat/"><u>[New] 2024 Approved Perfecting Your Mobile Video Recordings on Snapchat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streaming-sounds-into-your-social-story-arcs/"><u>[Updated] 2024 Approved Streaming Sounds Into Your Social Story Arcs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-macs-finest-for-gif-saving-the-leading-apps/"><u>[Updated] Mac's Finest for GIF Saving The Leading Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-leading-apps-to-monitor-facebook-twitter-and-instagram-tags/"><u>2024 Approved Leading Apps to Monitor Facebook, Twitter and Instagram Tags</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>2024 Approved Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/catchy-opening-tunes-podcasts-best-audio-gems-for-2024/"><u>Catchy Opening Tunes Podcast's Best Audio Gems for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-the-windows-application-net-error-message/"><u>Correcting the Windows Application .NET Error Message</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tifying-mukbang-a-comprehensive-production-guide/"><u>Demystifying Mukbang A Comprehensive Production Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-inactive-icons-on-the-desktop-bar/"><u>Fixing Inactive Icons on the Desktop Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-windows-error-loadlib-err-87/"><u>Mitigating Windows Error LoadLib Err 87</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-interface-adding-portable-software-to-w11/"><u>Optimize Your Interface: Adding Portable Software to W11</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/pasos-faciles-para-aplicar-el-rescate-de-una-unica-llave-de-lenovo-en-sistemas-operativos-variados/"><u>Pasos Fáciles Para Aplicar El Rescate De Una Única Llave De Lenovo en Sistemas Operativos Variados</u></a></li>
-<li><a href="https://techidaily.com/remove-motorola-lock-screen-without-password-motorola-moto-g04-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Lock Screen without Password(Motorola Moto G04)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-lost-window-steam-connectivity/"><u>Restoring Lost Window-Steam Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-internal-builds-in-windows-11/"><u>Safeguarding Internal Builds in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-apex-legends-crashes-w11/"><u>Strategies to Prevent Apex Legends Crashes W11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-eradicate-hp-screensaver-glare/"><u>Techniques to Eradicate HP Screensaver Glare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workarounds-to-manipulate-windows-11-sleepwake/"><u>Workarounds to Manipulate Windows 11 Sleep/Wake</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +112,21 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-videography-the-leading-screen-recorder-apps/"><u>[Updated] Essential Videography The Leading Screen Recorder Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[Updated] In 2024, Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-release-a-stuck-update-on-legacy-operating-systems-like-win7-new-edition-of-comprehensive-guide-for-users-seeking-assistance-in-the-year-of-our-lord-76/"><u>How to Release a Stuck Update on Legacy Operating Systems Like Win7? - New Edition of Comprehensive Guide for Users Seeking Assistance in the Year of Our Lord Two Thousand and Twenty-Four! (Step by Step Guide & Expert Advice)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-on-telnet-in-up-to-date-windows-11/"><u>How to Turn On Telnet in Up-to-Date Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-m14-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy M14 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-quintessential-scores-in-8-distinct-movie-spheres/"><u>In 2024, Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/simple-guide-migrate-operating-system-seamlessly-from-old-ssd-to-new-ssd-on-windows-using-just-3-easy-steps/"><u>Simple Guide: Migrate Operating System Seamlessly From Old SSD to New SSD on Windows Using Just 3 Easy Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-neo-5-se-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme GT Neo 5 SE Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-the-application-start-failed-error-code-xc000003e-on-win11/"><u>Understanding and Resolving The Application Start Failed Error Code Xc000003e on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-unrelated-edgers-in-tasker/"><u>Understanding Unrelated Edgers in Tasker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-disabling-the-gpsvc-loop/"><u>Unlocking Windows: Disabling the GPSVC Loop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unmatched-virtual-speedway-showdowns-top-5-list-for-2024/"><u>Unmatched Virtual Speedway Showdowns Top 5 List for 2024</u></a></li>
+</ul></div>
+

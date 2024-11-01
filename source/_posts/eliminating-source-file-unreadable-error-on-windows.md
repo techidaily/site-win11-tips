@@ -1,7 +1,7 @@
 ---
 title: Eliminating Source File Unreadable Error on Windows
-date: 2024-10-24T20:57:42.396Z
-updated: 2024-10-26T21:00:15.502Z
+date: 2024-10-29T17:14:39.772Z
+updated: 2024-11-01T16:33:45.657Z
 tags:
   - windows10
   - windows11
@@ -33,18 +33,18 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run a Check Disk Scan
 
  Running a Check Disk scan is a widely confirmed fix for the “Cannot read from the source file” error. That highlights this error is often caused by bad disk sectors on drives. Running a Check Disk scan via the Command Prompt for the drive that includes the files will usually remedy such a cause. Our [how to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) article tells you how to apply this potential fix.
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-chkdsk-command2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Try a Different USB Cable or Port for External Drives
 
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![The Send to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-send-to-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check the Permissions for the Affected Files
 
  You might need to fix the “Cannot read from the source file or disk” because one of the files you’re trying to copy doesn’t have full control permissions set. You can check and fix permissions for affected files as follows:
@@ -65,6 +72,14 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 3. Then select **Edit** on the **Security** tab.  
 ![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-edit-button.jpg)
 4. Next, select the checkbox labeled **Full control** with the **Allow** column.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-full-control-checkbox.jpg)
 5. Press **Apply** to save the file’s permission settings.
 6. Click **OK** to exit.
@@ -72,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
  If you can’t see your account username within the Group box, you’ll need to add it. To do so, click **Add** on the **Security** tab to bring up a Select Users or Group window; then click **Advanced** \> **Find now** to select your user account. Click **OK** to add the selected account.
 
 ![The Find now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-find-now-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access Files on Mac-Formatted Drives With Third-Party Software
 
@@ -88,20 +96,13 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![The File system detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-file-system-detail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re trying to copy files from Mac-formatted drives, you can access them with third-party software. Software packages like MacDrive, UFS Explorer, and Paragon HFS+ enable users to access files on Mac-formatted drives on Windows PCs. Our article about [reading Mac-formatted drives on Windows](https://www.makeuseof.com/tag/4-ways-read-mac-formatted-drive-windows/) provides details on how to apply this potential resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copy Files Between Drives on Your Windows PC Again
@@ -112,29 +113,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
  This Windows error message can sometimes pop up when users try to copy certain files from or to external USB drives. As such, here is how you can fix the “Cannot read from the source file or disk” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-your-skype-conversations-on-any-system/"><u>[New] 2024 Approved Capture Your Skype Conversations on Any System</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>[New] In 2024, Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-pathway-to-crafting-a-viral-video-introduction/"><u>[New] In 2024, The Pathway to Crafting a Viral Video Introduction</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-augmented-spectacle-the-new-age-of-movie-magic-for-2024/"><u>[Updated] Augmented Spectacle The New Age of Movie Magic for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-streamlined-subscription-links-for-video-channels-for-2024/"><u>[Updated] Guide to Streamlined Subscription Links for Video Channels for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-guide-leading-4k-uhd-blu-ray-devices-for-2024/"><u>[Updated] Ultimate Guide Leading 4K UHD Blu-Ray Devices for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-play-40c-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor Play 40C to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/experience-the-pinnacle-of-windows-interactivity/"><u>Experience the Pinnacle of Windows Interactivity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Hot 40 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-sharing-photos-and-videos-between-android-and-iphone/"><u>In 2024, Sharing Photos & Videos Between Android & iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-works-into-windows-os-step-by-step-guide/"><u>Integrating Works Into Windows OS: Step by Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-devices-awake-disabling-usb-hibernate-in-win-11/"><u>Keep Devices Awake: Disabling USB Hibernate in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-upgrades-safely-with-tpm-and-secure-boot-enablement/"><u>Navigating Upgrades Safely with TPM and Secure Boot Enablement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-normal-display-on-microsoft-store/"><u>Restoring Normal Display on Microsoft Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-installer-mishaps-a-win11-blueprint/"><u>Unraveling & Correcting Installer Mishaps: A Win11 Blueprint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +120,27 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-teams-personalized-call-banners/"><u>[New] 2024 Approved Mastering Teams' Personalized Call Banners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-drone-list-to-maximize-gopro-video-quality-for-2024/"><u>[New] Ultimate Drone List to Maximize GoPro Video Quality for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cinematography-secrets-unveiled-by-youtube-pros/"><u>[Updated] Cinematography Secrets Unveiled by YouTube Pros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[Updated] Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/best-practices-for-embedding-facebook-video-streams/"><u>Best Practices for Embedding Facebook Video Streams</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-app-complaint-net-core-install-required-on-windows/"><u>Fixing App Complaint: .NET Core Install Required on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/frame-freedom-top-9-ways-to-banish-lag-from-your-windows-videos/"><u>Frame Freedom: Top 9 Ways to Banish Lag From Your Windows Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-local-users-and-groups-management-in-windows-11-and-10-home/"><u>How to Enable Local Users and Groups Management in Windows 11 and 10 Home</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-v29e-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo V29e</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-silencing-geforce-ui/"><u>Mastering the Art of Silencing GeForce UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-errors-interpreting-bsod-with-code-0x0e00000b/"><u>Mastering Windows Errors: Interpreting BSOD with Code 0X0e00000b</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-in-compression-rectifying-checksum-errors-with-winrar/"><u>Precision in Compression: Rectifying Checksum Errors with WinRAR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-system-call-failed-on-windows-1011/"><u>Quick Fixes: System Call Failed on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-responsive-brighness-fn-key-on-windows-11/"><u>Resolving Non-Responsive Brighness Fn Key on Windows 11</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-the-critical-error-103-in-microsoft-office-a-step-by-step-guide/"><u>Resolving the Critical Error 103 in Microsoft Office: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>SDR Upgrade Manual Unveiling the Secrets of HDR Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-master-file-synergy-on-windows-11/"><u>Tips to Master File Synergy on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-startup-secrets-in-windows/"><u>Unraveling Startup Secrets in Windows</u></a></li>
+</ul></div>
+

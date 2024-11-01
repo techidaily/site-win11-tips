@@ -1,7 +1,7 @@
 ---
 title: Techniques to Overcome Unsigned Updates Issue
-date: 2024-10-21T22:08:15.108Z
-updated: 2024-10-26T17:24:56.974Z
+date: 2024-10-29T19:06:50.877Z
+updated: 2024-11-01T19:25:21.505Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,23 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check the Windows Update and BITS Services Are Enabled
@@ -60,15 +73,16 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 4. Double-click **Windows Update** to access settings for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-window.jpg)
 5. Set the **Startup type** setting to the **Automatic** option.  
-![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
-6. Click **Start** (inside the properties windows) to run the Windows Update service.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
+6. Click **Start** (inside the properties windows) to run the Windows Update service.
 
 7. Save the settings by pressing the **Apply** and **OK** buttons.
 8. Double-click the **Background Intelligent Transfer Service** to view its settings.
@@ -77,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 11. Then click on the **Apply** and **OK** options to set that service’s options.
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset Components for Windows Updates
 
@@ -92,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Erase the Windows Update Key
 
  Deleting the Windows Update registry key is a potential resolution some users confirm to fix error 0x800b0109\. However, we always recommend [backing up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or saving a system restoration point before deleting registry keys.
@@ -112,16 +126,30 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 4. Right-click the WindowsUpdate registry key to select **Delete**.  
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-option-1.jpg)
 5. Click **Yes** when prompted for confirmation to delete the key.  
-![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
+
  Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
 
@@ -135,27 +163,7 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 ![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
 4. Note down the KB code for your recently failed Windows update.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Apply an In-Place Windows Upgrade
 
@@ -173,23 +181,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-ai-powered-image-processing-hub/"><u>[Updated] AI-Powered Image Processing Hub</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-overcoming-fixed-color-voids-in-recording-software/"><u>[Updated] In 2024, Overcoming Fixed Color Voids in Recording Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-skype-capture-methods-seamless-transition-between-oses/"><u>[Updated] Skype Capture Methods Seamless Transition Between OSes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beginning-your-italian-journey-top-10-welcoming-phrases/"><u>Beginning Your Italian Journey: Top 10 Welcoming Phrases</u></a></li>
-<li><a href="https://extra-information.techidaily.com/examining-benq-sw320-the-4k-visionary/"><u>Examining BenQ SW320 The 4K Visionary</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-spotify-application-is-not-responding-error-in-windows-11-and-11/"><u>How to Fix the “Spotify Application Is Not Responding” Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-and-use-the-windows-terminal-in-quake-mode/"><u>How to Open and Use the Windows Terminal in Quake Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-csgo-in-w11/"><u>Mastering the Art of Starting CS:GO in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disconnection-issues-with-ea-services-in-win/"><u>Overcoming Disconnection Issues with EA Services in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-jot-down-techniques-in-windows-11-no-apps/"><u>Quick Jot-Down Techniques in Windows 11, No Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-sailing-installation-of-wi-fi-expansion-cards-on-desktops/"><u>Smooth Sailing: Installation of Wi-Fi Expansion Cards on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surface-laptop-studio-2-explored-creators-dream-device/"><u>Surface Laptop Studio 2 Explored: Creator's Dream Device?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-swf-flash-videos-into-high-quality-mp4s/"><u>Ultimate Tutorial on Converting Your SWF Flash Videos Into High-Quality MP4s</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +188,25 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>[New] Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight/"><u>[New] In 2024, Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-rhythmic-recording-music-infused-snapchat-adventures/"><u>[Updated] Rhythmic Recording Music-Infused Snapchat Adventures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-building-the-ultimate-youtube-musical-collection/"><u>2024 Approved Building the Ultimate YouTube Musical Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-the-store-reactivation-steps-for-ms-in-windows-11/"><u>Bring Back the Store: Reactivation Steps for MS in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browser-download-techniques-after-windows-installation/"><u>Browser Download Techniques After Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-window-for-secure-hardware-removal-on-windows-11/"><u>Building a Window for Secure Hardware Removal on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-hidden-taskbar-scan-shield-in-windows-11/"><u>Bypass Hidden Taskbar Scan Shield in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-barrier-taking-down-security-questions-on-local-account-win-11/"><u>Bypass the Barrier: Taking Down Security Questions on Local Account (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-firewall-restrictions-allow-browser-networking-in-windows/"><u>Bypassing Firewall Restrictions: Allow Browser Networking in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-your-geforce-experience-scanning-problem-in-win/"><u>Bypassing Your GeForce Experience Scanning Problem in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-critical-windows-user-alerts-in-action/"><u>Capturing Critical Windows User Alerts in Action</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-v30-lite-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo V30 Lite 5G Easily?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-a25-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy A25 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899118514-the-ultimate-guide-to-picking-the-perfect-motherboard-explore-7-important-details/"><u>The Ultimate Guide to Picking the Perfect Motherboard: Explore 7 Important Details</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-zte-axon-40-lite-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-cortana-not-functioning/"><u>Troubleshooting Guide: How to Fix 'Cortana Not Functioning'</u></a></li>
+</ul></div>
+

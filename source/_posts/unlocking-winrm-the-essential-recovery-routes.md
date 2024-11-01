@@ -1,7 +1,7 @@
 ---
 title: "Unlocking WinRM: The Essential Recovery Routes"
-date: 2024-09-11T01:22:43.954Z
-updated: 2024-09-12T01:22:43.954Z
+date: 2024-10-30T19:25:48.225Z
+updated: 2024-11-01T17:54:29.878Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
  To create a recovery drive, you’d need to use the Windows Recovery Drive app. As such, in this article, we’ll show you the various ways to access this app so you can secure your data when it's needed.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Use the Run Command Dialog Box
 
@@ -39,25 +36,12 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![Typing RecoveryDrive in the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-Run-command-dialog-box.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Use the Start Menu Search Bar
 
@@ -68,23 +52,23 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 1. Press the **Start menu search bar icon** on the taskbar or press **Win + S**.
 2. Type **Recovery Drive** and then select the **Best match**.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Use the Start Menu
 
 ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Running into issues while using the Start menu search bar? If so, then you can access the Recovery Drive tool using the Start menu.
 
@@ -95,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 3. Locate and select the **Recovery Drive app**.
 
 ![Selecting the Recovery Drive option from the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-Recovery-Drive-option-from-the-Start-menu-items.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use the File Explorer Address Bar
 
@@ -107,20 +98,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![Typing RecoveryDrive in the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-File-Explorer-Address-Bar.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 5\. Use the System Settings
 
  You can always use the system settings to troubleshoot your PC or repair the apps on your device. Well, you’d be glad to know that the system settings can also help you access various apps.
@@ -131,34 +108,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 2. Type **Recovery Drive** in the search box and then click the relevant option.
 
 ![Typing Recovery Drive in the settings search box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-Recovery-Drive-in-the-settings-search-box.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Use the Control Panel
 
@@ -174,25 +123,19 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![Clicking the Create a recovery drive option on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-Create-a-recovery-drive-option-on-the-Control-Panel.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Search for the Recovery Drive App in the System32 Directory
 
@@ -208,37 +151,9 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![Clicking the RecoveryDrive option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-RecoveryDrive-option-in-the-System32-folder.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  To make things easier, you can pin the RecoveryDrive executable (.exe) file to your taskbar. That way, you’ll be able to easily access the Recovery Drive app at all times.
 
  To pin the Recovery Drive app to the taskbar, right-click on the **RecoveryDrive** file in the System32 folder and then select **Pin to taskbar**.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Use the Task Manager
 
@@ -256,20 +171,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 ## 9\. Use the Command Prompt or PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can always use the Command Prompt or PowerShell to configure some settings or troubleshoot system issues. Now, we’ll check out how you can use these tools to open the Recovery Drive app.
 
@@ -291,26 +192,6 @@ RecoveryDrive
 
 RecoveryDrive
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 10\. Use a Recovery Drive Desktop Shortcut
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
@@ -324,6 +205,13 @@ RecoveryDrive
 
 ![Creating the RecoveryDrive desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Creating-the-RecoveryDrive-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **Recovery Drive App** or something similar in the **Name** box. From there, press the **Finish** button.
 
  You can now easily access the Recovery Drive app by using your desktop shortcut. To make the desktop shortcut easily accessible, simply pin it to the taskbar.
@@ -334,14 +222,11 @@ RecoveryDrive
 
  And if you want more ways to diagnose and fix your PC problems, check out the Windows Recovery Environment tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -350,12 +235,26 @@ RecoveryDrive
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-practices-to-personalize-snapchat-video-playback/"><u>[New] 2024 Approved Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-navigating-youtubes-photo-publishing/"><u>[New] Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-80s-filters-and-effects-for-professional-videos/"><u>[New] Top 80S Filters & Effects for Professional Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-m1-fueled-laptops-face-off-air-versus-pro-for-2024/"><u>[Updated] M1-Fueled Laptops Face Off Air Versus Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pioneering-immersive-tech-firms/"><u>2024 Approved Pioneering Immersive Tech Firms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-prime-screenshot-substitutes-beyond-the-windows-ecosystem/"><u>5 Prime Screenshot Substitutes Beyond the Windows Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-edge-why-a-pc-outmatches-a-mac-in-9-key-aspects/"><u>Analyzing the Edge: Why a PC Outmatches a Mac in 9 Key Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-set-of-folders-cannot-be-opened-error-in-outlook-on-windows/"><u>How to Fix “The Set of Folders Cannot Be Opened” Error in Outlook on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-defy-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Defy 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-cmd-lingo-top-5-playful-procedures-unveiled/"><u>Learn Cmd Lingo: Top 5 Playful Procedures Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-virtual-reality-players-arsenal/"><u>Premier Virtual Reality Player's Arsenal</u></a></li>
+<li><a href="https://win-superb.techidaily.com/restore-windows-server-backups-to-virtual-machines-two-effective-methods/"><u>Restore Windows Server Backups to Virtual Machines - Two Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-low-usb-controller-space/"><u>Strategies to Combat Low USB Controller Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/suspending-windows-update-activations/"><u>Suspending Windows Update Activations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-hp-laserjet-p2035-printer-problems-on-a-windows-pc-solutions/"><u>Troubleshooting HP LaserJet P2035 Printer Problems on a Windows PC - Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-0x80072f8f-on-pcs/"><u>Unraveling the Mystery of 0X80072f8f on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-automate-heic-to-jpeg-images/"><u>Win 10/11: Automate HEIC to JPEG Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-role-in-boosting-linux-desktops/"><u>WSL's Role in Boosting Linux Desktops</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Win LSA Protection Faults
-date: 2024-10-23T23:17:14.570Z
-updated: 2024-10-26T19:24:40.788Z
+date: 2024-10-26T18:32:02.996Z
+updated: 2024-11-01T19:38:33.425Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan for Malicious Programs
 
  If restarting the computer doesn't solve the issue, check your system for malicious software. Malware infections may corrupt system files and prevent LSA protection from working.
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -64,16 +84,17 @@ Administrative Templates > System > Local Security Authority
 5. Double-click **Configure LSASS to run as a protected process** in the right pane.  
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After making the above changes, restart your computer and check if the error is resolved.
 
@@ -91,24 +112,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
 6. Change the Value data from 0 to **2** and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
 
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
 
@@ -125,40 +132,24 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the LSA Protection Error on Windows
 
  Local Security Authority protection safeguards unauthorized access to system resources, such as passwords or other sensitive information. However, this feature might not work as expected due to LSA Protection Error. Thanks to the potential solutions discussed in this guide, solving the problem is easy.
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-captivating-videos-start-here-these-7-royalty-free-audios/"><u>[New] In 2024, Captivating Videos Start Here These 7 Royalty-Free Audios</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-slideshow-feature/"><u>[New] In 2024, Instagram Slideshow Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3google/"><u>「MP3ファイルを簡単にダウンロード！Google検索で上位に行く最適アルゴリズムの解説」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-8-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 8 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/framemaster-top-screen-recorder-reviews-of-the-year/"><u>FrameMaster Top Screen Recorder Reviews of the Year</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-fixing-unexpected-system-call-failures-on-win1011/"><u>Guide: Fixing Unexpected System Call Failures on Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reduce-windows-surrounders-feature/"><u>How To Reduce Windows Surrounders Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-fotoverwaltungssoftware-fur-macpc-expertenvergleich-der-besten-anwendungen-2018-2019/"><u>Top Fotoverwaltungssoftware Für MAC/PC: Expertenvergleich Der Besten Anwendungen (2018-2019)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-vintage-gaming-journey-integrating-trophies-via-retroarch/"><u>Transform Your Vintage Gaming Journey: Integrating Trophies via Retroarch</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/vintage-visions-older-tech-modern-memories/"><u>Vintage Visions Older Tech, Modern Memories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workaround-to-allow-third-party-antiviruses-with-windows-defender/"><u>Workaround to Allow Third-Party Antiviruses with Windows Defender</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -167,3 +158,27 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[New] 2024 Approved The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-extracting-youtube-content-with-ease/"><u>[Updated] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>[Updated] 2024 Approved Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-hd-video-the-best-android-players/"><u>2024 Approved Mastering HD Video The Best Android Players</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-visionary-storylines-in-the-eight-genre-sphere/"><u>2024 Approved Visionary Storylines in the Eight Genre Sphere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-new-life-into-wt-color-schemes/"><u>Breathing New Life Into WT: Color Schemes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-safe-window-shortcut-for-easy-hardware-disconnect-on-win11/"><u>Building a Safe Window Shortcut for Easy Hardware Disconnect on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-brick-wall-top-fixes-for-windows-install-verification-pause/"><u>Bypass the Brick Wall: Top Fixes for Windows Install Verification Pause</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-the-worst-8-bad-habits-in-windows-11-life/"><u>Bypass the Worst: 8 Bad Habits in Windows 11 Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-quick-access-go-straight-to-file-explorer-via-onedrive/"><u>Bypassing Quick Access: Go Straight to File Explorer via OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-error-code-0x8004def5/"><u>Bypassing Windows 11 Error Code: 0X8004DEF5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-uac-notifications-with-precision/"><u>Capturing UAC Notifications with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cast-your-canvas-into-the-night-with-paints-dark-mode/"><u>Cast Your Canvas Into the Night with Paint's Dark Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-banners-silenced-windows-notification-guide/"><u>Chrome Banners Silenced: Windows Notification Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-archive-snaps-from-android-plus-mac-systems/"><u>How to Archive Snaps From Android + Mac Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-sharing-power-strategies-for-uploading-oversized-videos-to-discord-without-spending-a-dime/"><u>Maximize Your Sharing Power: Strategies for Uploading Oversized Videos to Discord without Spending a Dime</u></a></li>
+</ul></div>
+

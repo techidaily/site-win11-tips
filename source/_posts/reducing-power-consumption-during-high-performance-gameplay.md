@@ -1,7 +1,7 @@
 ---
 title: Reducing Power Consumption During High-Performance Gameplay
-date: 2024-10-25T20:00:04.349Z
-updated: 2024-10-26T18:41:20.394Z
+date: 2024-10-26T18:46:41.312Z
+updated: 2024-11-01T18:15:48.318Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  If none of the above checks help or resolve the problem, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check if the Game Is Really Straining the CPU
 
  First, double-check that the game you blame for high CPU usage is really straining it. There is a chance that some other programs running simultaneously with the game might be using more CPU resources than the game itself. So, closing those resource-hungry tasks alone may free up enough resources and lower CPU usage.
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Force the Game to Process Graphics Using the Dedicated GPU (if Available)
 
  Usually, a dedicated GPU handles graphics-intensive tasks if it's installed on a device. If you have a dedicated GPU installed but still see high CPU usage while playing a game, the game may not be using the GPU to process graphics. Therefore, configure the game to use GPU to fix the issue. Here's how:
@@ -63,25 +77,11 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  Forcing the game to use the dedicated GPU will likely reduce CPU usage. If not, check whether the problem is game-specific.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Ensure That the Problem Isn't Confined to One Game
 
  Check if the CPU usage spikes when you run a specific game or for all graphics-intensive games. If the problem occurs with only one game that isn't resource-intensive, an outdated or corrupt version of the game could be the culprit. To exclude this possibility, update the game and the gaming client if the game runs through it.
 
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Sacrifice Graphics Quality
 
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 ![Efficiency Mode Option Grayed Out for Roblox Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/efficiency-mode-option-grayed-out-for-roblox-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
@@ -113,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 ![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring the CPU Usage Down While You Game on Windows
@@ -140,22 +140,20 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language/"><u>[New] 2024 Approved Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-inferno-captures-best-slow-motion-cameras/"><u>[Updated] Inferno Captures Best Slow-Motion Cameras</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>[Updated] Unveiling the Dynamics An In-Depth Look at Luminance's HDR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-window-restoration-after-dark-screens/"><u>Effortless Window Restoration After Dark Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-for-fixing-fall-guys-link-failures-windows-wise/"><u>Essential Steps for Fixing Fall Guys Link Failures Windows-Wise</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-outlooks-something-went-wrong-error-on-windows/"><u>How to Fix Microsoft Outlook's “Something Went Wrong” Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-save-windows-spotlight-pictures-to-use-as-wallpapers-when-you-want/"><u>How to Save Windows Spotlight Pictures to Use as Wallpapers When You Want</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-infinix-note-30i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Infinix Note 30i Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/instantaneous-windows-photo-explorer-for-2024/"><u>Instantaneous Windows Photo Explorer for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/motorolas-mid-range-marvel-the-one-hyper-reviewed-striking-features-with-robust-performance/"><u>Motorola's Mid-Range Marvel: The One Hyper Reviewed - Striking Features with Robust Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quelling-win1011-screen-glitches-with-ease/"><u>Quelling WIN10/11 Screen Glitches with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-troubled-windows-11-calendars/"><u>Resetting Techniques for Troubled Windows 11 Calendars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-15-film-enhancing-luts-for-gopro-cameras-for-2024/"><u>Top 15 Film-Enhancing LUTs for GoPro Cameras for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-5-popular-white-backdrop-fashion-apps-your-ultimate-guide/"><u>Top 5 Popular White Backdrop Fashion Apps : Your Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-roblox-availability-tackling-windows-settings-issue/"><u>Unblocking Roblox Availability: Tackling Windows Settings Issue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>[New] In 2024, A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[Updated] 2024 Approved The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-how-to-use-video-enhancer-22/"><u>[Updated] How To Use Video Enhancer 2.2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivate-with-these-14-astonishing-text-animations-for-2024/"><u>Captivate with These 14 Astonishing Text Animations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-universe-awaits-essential-key-collectors-612lifetime-windows-11-sale/"><u>Digital Universe Awaits: Essential Key Collector's $6.12/Lifetime Windows 11 Sale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-premium-quality-sound-with-yamahas-budget-friendly-bar-for-only-half-of-a-1000-jbl-price-expert-insights-from-zdnet/"><u>Get Premium Quality Sound with Yamaha's Budget-Friendly Bar for Only Half of a $1,000 JBL Price - Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-shared-device-conflicts-in-win11/"><u>Navigating Shared Device Conflicts in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Oppo Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oppo-a56s-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo A56s 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reactivate-frozen-resource-monitors-in-windows-11/"><u>Strategies to Reactivate Frozen Resource Monitors in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/textual-alchemy-gpt-for-fantasy-worlds/"><u>Textual Alchemy: GPT for Fantasy Worlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-power-down-on-windows-machines/"><u>Understanding Power Down on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-viewing-9-methods-to-sharpen-video-playback-on-windows/"><u>Uninterrupted Viewing: 9 Methods to Sharpen Video Playback on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-v27-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V27 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

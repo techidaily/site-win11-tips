@@ -1,7 +1,7 @@
 ---
 title: "Navigate and Fix: Windows Hello Fingerprint Error Guide"
-date: 2024-10-23T17:56:29.845Z
-updated: 2024-10-26T18:30:27.981Z
+date: 2024-10-29T17:19:00.660Z
+updated: 2024-11-01T18:14:02.763Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  Restart your PC after completing the above steps and check if the issue still occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Windows 10 and 11 include a number of [troubleshooters for resolving various system-related issues](https://www.makeuseof.com/windows-11-troubleshooters/). In this case, you should run the Hardware and Devices troubleshooter. It will scan your computer’s fingerprint scanner for any issues and attempt to fix them.
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  Use one of the many ways to [disable Fast Startup on your Windows computer](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and see if that gets the fingerprint scanner to work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Configure Windows Biometric Service to Start Automatically
 
  The Windows Biometric Service is an essential program for Windows Hello, as it captures and manages your fingerprint data. Ideally, the service should start automatically every time Windows boots. However, this might not happen if the service is not configured correctly.
@@ -85,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 4. Click the drop-down menu to change the **Startup type** to **Automatic**.
 5. Hit **Apply** followed by **OK**.  
 ![Windows Biometric Service Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-Biometric-Service-Properties.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
 
@@ -107,21 +114,7 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 4. Check if all the policies within the Biometrics folder are enabled. If not, double-click each policy one by one and set them to **Enabled**.  
 ![Biometric Policies in Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC one more time and check if the issue is still there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a New User Account
 
@@ -136,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
  Set up Windows Hello fingerprint login for your new user account and see if you can sign in with your fingerprint.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
@@ -156,20 +149,27 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 6. Review all the details one more time before hitting **Finish**.  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/System-Restore-Dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will restart and revert to the specified restore point. After that, the fingerprint should work as before.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Install the Latest Windows Updates
 
  Microsoft regularly releases software updates for Windows 10 and Windows 11 to add new features, improve performance, and—crucially for our purposes—fix bugs. If the fingerprint not working issue is caused by a system bug, updating Windows to its most recent version should help.
 
  You can check for new updates by going to the **Windows Update** tab in the **Settings** app. Download and install any pending updates on your PC. Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows Hello's Fingerprint Check
 
@@ -179,29 +179,6 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  Fortunately, there are several ways to fix this annoying issue. So, let’s dive in and explore what you should do when Windows Hello fingerprint login isn’t working.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-creative-geniuses-in-naming-top-10-ai-powerhouse-generators-for-2024/"><u>[New] Creative Geniuses in Naming Top 10 AI Powerhouse Generators for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discover-the-most-popular-budget-vector-and-illustration-pages/"><u>[New] Discover the Most Popular Budget Vector & Illustration Pages</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/atch-what-you-liked-no-more-unveiling-yt-deletions-online/"><u>[New] Watch What You Liked No More Unveiling YT Deletions Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-therapy-techniques-a-guide-to-applying-chatgpt-within-cognitive-behavioral-frameworks/"><u>Enhancing Therapy Techniques: A Guide to Applying ChatGPT Within Cognitive Behavioral Frameworks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envision-thinking-mindmappings-plus-chatgpt-synergy/"><u>Envision Thinking: Mindmappings + ChatGPT Synergy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-selections-of-innovative-vtuber-sound-tools-for-2024/"><u>Expert Selections of Innovative Vtuber Sound Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-version-of-epson-xp-420-drivers-here/"><u>Get the Latest Version of Epson XP-420 Drivers Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-internal-error-in-windows-11-remote/"><u>Mastering the Art of Fixing Internal Error in Windows 11 Remote</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-mspcm-interface-on-windows-11-easily/"><u>Navigating the MSPCM Interface on Windows 11 Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-connectivity-woes-in-w11/"><u>Navigating Through Steam Connectivity Woes in W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/network-free-techniques-successfully-installing-device-drivers-in-windows-offline/"><u>Network-Free Techniques: Successfully Installing Device Drivers in Windows Offline</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-identify-applause-acoustic-marker/"><u>New Identify Applause Acoustic Marker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/recordwise-gettingmaximumoutofyourcam-for-2024/"><u>RecordWise GettingMaximumOutOfYourCam for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-itunes-operational-status-on-your-pc/"><u>Restoring iTunes Operational Status on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-lsass-component-resolution-a-user-friendly-guide/"><u>Win LSass Component Resolution: A User-Friendly Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,3 +186,18 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>2024 Approved Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-lenovo-ideapad-320-an-ode-to-sleek-design-and-iconic-keyboard-experience/"><u>Discovering the Lenovo Ideapad 320: An Ode to Sleek Design & Iconic Keyboard Experience</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/free-10-websites-to-watch-cartoon-online-in-hd-for-2024/"><u>FREE 10 Websites to Watch Cartoon Online in HD for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-20-proplus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark 20 Pro+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-always-ontop-status-of-calculator-in-windows/"><u>Maintaining Always Ontop Status of Calculator in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-calls-tracking-techniques/"><u>Mastering Windows Calls Tracking Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-notebook-display-adjusting-windows-11s-themes-and-fonts/"><u>Optimizing Notebook Display: Adjusting Windows 11'S Themes & Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/registry-tweaks-for-windows-setup-management/"><u>Registry Tweaks for Windows Setup Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-discounts-and-savings-in-july-2024-iphone-apple-watch-and-ipad-bargains/"><u>Top Apple Discounts & Savings in July 2024 - iPhone, Apple Watch & iPad Bargains</u></a></li>
+</ul></div>
+

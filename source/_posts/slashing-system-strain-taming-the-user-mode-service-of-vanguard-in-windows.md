@@ -1,7 +1,7 @@
 ---
 title: "Slashing System Strain: Taming the User-Mode Service of Vanguard in Windows"
-date: 2024-10-19T16:31:11.918Z
-updated: 2024-10-26T22:57:28.185Z
+date: 2024-10-30T16:42:30.659Z
+updated: 2024-11-01T19:23:37.715Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  If none of the above checks fixes the problem, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable and Restart Valorant and Vanguard Processes
 
  First off, ensure that a temporary glitch hasn't fueled the high CPU usage by the Vanguard user-mode service process. The easiest way to rule out this possibility is to close Valorant, turn off the Vanguard services, and restart them.
@@ -53,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  Once these processes are disabled, give Valorant a fresh start, which will automatically restart Vanguard. If restarting the processes doesn't make a difference and the process continues to overstretch the CPU, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Make the Vanguard User-Mode Service Process a Low Priority
 
  Windows allows users to limit the CPU resource usage of processes in two different ways. The first is to change the priority of the process, and the second is to turn on the efficiency mode. Using either of these methods limits the allocation of CPU resources to less essential processes, limiting their CPU usage.
@@ -68,15 +54,22 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
 
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
@@ -92,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Stop the Vanguard Service and Restart It
@@ -109,6 +102,14 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 4. After that, restart the service by clicking on the **Start** button again.  
 ![Stop the Vgc Service in the General Tab of Properties Window in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-stop-the-vgc-service-in-the-general-tab-of-properties-window-in-windows-services-app.jpg)
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
 
 ## 6\. Disable Third-Party Overlays
@@ -121,6 +122,19 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Move Valorant to a Different Drive
 
  Installing Valorant on the same drive as your operating system has been reported to cause problems. If you've also installed the game on the same drive where your OS resides, it's possible that Windows security could be hindering Vanguard's activity, making it consume more resources.
@@ -128,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Install a Fresh Copy of Vanguard
@@ -144,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Don't Let Vanguard Overstress Your CPU
 
  The consumption of excessive CPU resources by a single process can affect the game's performance and degrade the overall system performance. Hopefully, you now better understand what causes the CPU spike for the Vanguard user-mode service process and the best ways to bring it down to a normal level.
@@ -159,27 +166,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  If you want to reduce the CPU usage of the Vanguard user-mode service process and play Valorant seamlessly, here are some fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-movavi-2024-editing-suite-analysis-and-insights/"><u>[New] Movavi 2024 Editing Suite Analysis & Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-memes-edit-master/"><u>[Updated] Ultimate Memes Edit Master</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-manual-for-mending-screen-size-issues-on-windows/"><u>A Step-by-Step Manual for Mending Screen Size Issues on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decode-fn-key-operations-in-modern-windows-pcs/"><u>Decode FN Key Operations in Modern Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-alt-codes-failing-in-windows-60-characters/"><u>Effective Fixes for ALT Codes Failing in Windows (60 Characters)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-video-processing-on-windows-embrace-distributed-power-via-tdarr/"><u>Elevate Video Processing on Windows: Embrace Distributed Power via Tdarr</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-new-kobo-nia-challenges-amazons-kindle-dominance-in-ebook-readers/"><u>How the New Kobo Nia Challenges Amazon's Kindle Dominance in Ebook Readers</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-record-audio-on-windows-11-in-2024/"><u>How To Record Audio on Windows 11, In 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-spark-go-2023-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Spark Go (2023) Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-c33-2023-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme C33 2023 Face Lock?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-live-video-enhancers-for-online-broadcasts/"><u>In 2024, Top 8 Live Video Enhancers for Online Broadcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-of-intel-unison-for-convenient-windows-11-calls/"><u>Making the Most of Intel Unison for Convenient Windows 11 Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-error-repair-code-0xc00ce556-on-windows/"><u>Mastering Error Repair: Code 0xC00CE556 on WINDOWS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/al-sizing-for-youtube-thumbnail-impact/"><u>Optimal Sizing for YouTube Thumbnail Impact</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-snip-tool-text-edits-on-win-11/"><u>Perfecting Snip Tool Text Edits on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-wild-high-on-your-windows-desktop/"><u>Taming the Wild High on Your Windows Desktop</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +173,21 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-chuckle-away-with-premium-complimentary-meme-templates/"><u>[New] 2024 Approved Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-assessing-the-value-of-digital-image-anchor-points/"><u>[Updated] 2024 Approved Assessing the Value of Digital Image Anchor Points</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-animated-bouncing-text/"><u>[Updated] 2024 Approved How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-the-zero-error-on-new-win11-systems/"><u>Eradicate the Zero Error on New Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-installing-win11s-version-22h2-upgrade-successfully/"><u>Expert Advice on Installing Win11's Version 22H2 Upgrade Successfully</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo X90S</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-update-issue-problem-solved/"><u>Microsoft Flight Simulator 2020 Update Issue: Problem Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-difficulties-handling-winscomrsvdll-problems/"><u>Navigate Through Difficulties: Handling WinscomrsvDll Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-disconnected-spotify-pc-app/"><u>Quick Fix for Disconnected Spotify PC App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-updating-administrator-in-win11-environment/"><u>Streamlined Steps for Updating Administrator in Win11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-halt-the-start-of-edge-tabs-in-windows-11/"><u>Ways to Halt the Start of Edge Tabs in Windows 11</u></a></li>
+</ul></div>
+

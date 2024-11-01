@@ -1,7 +1,7 @@
 ---
 title: Designing Windows Snapping with PowerToys Expertise
-date: 2024-10-22T19:28:01.558Z
-updated: 2024-10-26T21:52:36.991Z
+date: 2024-10-28T17:33:09.345Z
+updated: 2024-11-01T19:37:34.116Z
 tags:
   - windows10
   - windows11
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize FancyZones Settings in PowerToys
@@ -72,26 +72,32 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
@@ -99,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multitask Better With Custom Snap Layouts on Windows 11
@@ -124,22 +136,17 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-boost-your-posts-10-powerful-hashtags-you-cant-ignore/"><u>[New] Boost Your Posts 10 Powerful Hashtags You Can't Ignore</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-comparing-digital-universes-meta-to-omni/"><u>[Updated] Comparing Digital Universes Meta to Omni</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-hands-on-guide-flipping-film-with-vlc-software/"><u>[Updated] In 2024, Hands-On Guide Flipping Film with VLC Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-bridging-social-media-and-television-with-live-streaming/"><u>2024 Approved Bridging Social Media & Television with Live Streaming</u></a></li>
-<li><a href="https://techidaily.com/automated-marketing-with-the-help-of-cookiebot-elevate-your-digital-strategy/"><u>Automated Marketing with the Help of Cookiebot: Elevate Your Digital Strategy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719319638119-collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortlessly-launch-file-explorer-on-your-windows-tenth-pc-a-step-by-step-guide-with-12-tips/"><u>Effortlessly Launch File Explorer on Your Windows Tenth PC: A Step-by-Step Guide with 12 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-windows-storage-without-overwriting-data/"><u>Elevate Windows Storage Without Overwriting Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/epic-games-troubleshooting-on-pc-focus-on-login-issues/"><u>Epic Games Troubleshooting on PC: Focus on Login Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-spectrum-of-picture-alteration-for-2024/"><u>Exploring the Spectrum of Picture Alteration for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-windows-snip-and-sketch-with-one-move/"><u>Launching Windows Snip & Sketch With One Move</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-fixing-lol-drops-in-windows/"><u>Mastering Connectivity: Fixing LoL Drops in Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-smart-snacks-app-child-health-advocate-in-2017s-top-games/"><u>Mondly Kids Smart Snacks App: Child Health Advocate in 2017'S Top Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-copy-and-paste-on-chrome-edge-firefox-os/"><u>Overhauling Copy & Paste on Chrome, Edge, Firefox OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snowy-seasonings-sharing-apps-from-microsofts-marketplace/"><u>Snowy Seasonings: Sharing Apps From Microsoft's Marketplace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-domain-based-biometric-use-in-windows-11/"><u>Tailoring Domain-Based Biometric Use in Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>[New] Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-crafting-an-engaging-film-teaser/"><u>[Updated] 2024 Approved Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-7-cameras-elevating-interactive-learning-vlogs-and-tutorials-for-2024/"><u>[Updated] Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rotate-the-windows-display-by-90-degrees-and-why-you-should/"><u>How to Rotate the Windows Display by 90 Degrees (and Why You Should)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-series-top-tier-webcam-grips/"><u>In 2024, Ultimate Series Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-11-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 11 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-to-administering-windows-component-tool/"><u>Introduction to Administering Windows' Component Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberate-your-laptop-slimline-windows-11/"><u>Liberate Your Laptop: Slimline Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-timers-on-the-fly-fixing-scheduler-problems/"><u>Resolve Timers on the Fly: Fixing Scheduler Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-beginners-blueprint-for-windows-11-desktop-art/"><u>The Beginner's Blueprint for Windows 11 Desktop Art</u></a></li>
 </ul></div>
 

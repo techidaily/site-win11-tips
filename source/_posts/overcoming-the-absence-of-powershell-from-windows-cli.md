@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Absence of PowerShell From Windows CLI
-date: 2024-10-25T00:26:25.374Z
-updated: 2024-10-26T20:56:43.516Z
+date: 2024-10-29T16:57:34.708Z
+updated: 2024-11-01T18:16:41.732Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Launch PowerShell Using Run Command or File Explorer
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
 
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
 
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 4. Open the WindowsPowerShell folder and go to the**v1.0** folder.
 5. Double-click on the PowerShell executable file and see if it works. If it does, right-click on it and select**Send to > Desktop (create shortcut)** .  
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
@@ -105,6 +91,13 @@ To run the SFC scan on Windows:
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
 
@@ -136,13 +129,20 @@ To create a new user account on Windows, use these steps.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Windows PowerShell Again
@@ -166,22 +166,22 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>[New] In 2024, GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-speech-clarity-achieved-by-googles-advanced-conversion-for-2024/"><u>[New] Speech Clarity Achieved by Google's Advanced Conversion for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-high-definition-video-refiner-for-pcmacos/"><u>[Updated] In 2024, High Definition Video Refiner for PC/MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>[Updated] Masterclass in Mobile Video Viewing 10 Leading iPhone/iPad Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-maximizing-iphone-hdr-quality-with-post-production-tricks-in-premiere-pro-for-2024/"><u>[Updated] Maximizing iPhone HDR Quality with Post-Production Tricks in Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-in-the-world-of-google-podcasts/"><u>2024 Approved Hidden Gems in the World of Google Podcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-hypervisorerror-blue-screen-on-windows-10-and-11/"><u>5 Ways to Fix the HYPERVISOR_ERROR Blue Screen on Windows 10 & 11</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correct-primes-textual-missteps-on-windows-11-desktops/"><u>Correct Prime's Textual Missteps on Windows 11 Desktops</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-c67-4g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme C67 4G Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-linux-into-your-windows-desktop-world/"><u>Integrating Linux Into Your Windows Desktop World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-daily-productivity-the-top-6-apps-for-windows-11-users/"><u>Mastering Daily Productivity: The Top 6 Apps For Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-hardware-ids-retrieval-methods/"><u>Mastering Windows Hardware IDs Retrieval Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-ipads-evolution-a-guide-to-os-versions/"><u>Mastering Your iPad's Evolution: A Guide to OS Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-change-windows-startpage-configuration/"><u>Steps to Change Windows Startpage Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-hidden-wins-must-use-secrets-in-windows-11/"><u>Uncovering Hidden Wins: Must-Use Secrets in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-a-future-ready-device-review-of-asus-s15-bape-edition/"><u>Unveiling a Future-Ready Device: Review of Asus S15 BAPE Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-community-builders-gamer-youtubers-for-2024/"><u>[New] Community Builders Gamer YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-instrumental-showcase-highlighting-the-best-15-video-techniques/"><u>[Updated] Instrumental Showcase Highlighting the Best 15 Video Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[Updated] Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-trends-top-10-modern-effects/"><u>2024 Approved Text Trends Top 10 Modern Effects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-magic-6-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor Magic 6 PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-cr2-files-into-compatible-windows-based-jpeg-images/"><u>Convert CR2 Files Into Compatible Windows-Based JPEG Images</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-optimize-your-sites-traffic/"><u>Cookiebot-Enabled: Optimize Your Site's Traffic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-overwatch-2-device-rendering-issue/"><u>How to Address Overwatch 2 Device Rendering Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-6s-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 6s Without a Home Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intercepting-wacatacbml-attacks-securing-windows-against-malware-invasion/"><u>Intercepting Wacatac.B!ml Attacks: Securing Windows Against Malware Invasion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dll-loss-mfc71u-on-windows-systems/"><u>Overcoming DLL Loss: Mfc71u on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-deactivated-temperature-control-on-winos/"><u>Overhauling Deactivated Temperature Control on WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-avoid-keyboard-triggers-without-intent/"><u>Techniques to Avoid Keyboard Triggers without Intent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-eliminate-xbox-game-pass-error-0x00000001/"><u>Troubleshooting Windows 11: Eliminate Xbox Game Pass Error 0X00000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-and-deleting-your-usage-logs/"><u>Windows 11: Accessing & Deleting Your Usage Logs</u></a></li>
 </ul></div>
 

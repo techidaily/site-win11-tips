@@ -1,7 +1,7 @@
 ---
 title: WinError X80780119 Solution Guide
-date: 2024-10-19T20:44:45.110Z
-updated: 2024-10-27T00:24:48.147Z
+date: 2024-10-31T19:06:05.276Z
+updated: 2024-11-01T18:03:26.148Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -74,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
 
@@ -100,13 +93,26 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
 
@@ -123,19 +129,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Once done, press the **Win** \+ **R** keys together to open Run.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
 8. Execute the following commands in Command Prompt one by one:  
@@ -143,27 +136,18 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create a Backup Without Any More Errors on Windows
 
  Ensuring the protection of your data should be your foremost priority, and a system image backup plays a vital role in safeguarding against unforeseen data loss. With the solutions above, you should be able to get the System Restore utility up and running in no time. However, if the problem persists, you can consider reporting the issue to Microsoft and try the specific solutions they suggest. Till then, you can switch to a third-party backup tool to safeguard your data.
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting/"><u>[New] In 2024, Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-nikon-j5s-4k-capability/"><u>[Updated] In 2024, The Ultimate Guide to Nikon J5's 4K Capability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-power-management-on-win-11/"><u>Efficient Power Management on Win 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-propel-your-creativity-mastering-inshot-for-device-edits/"><u>In 2024, Propel Your Creativity Mastering Inshot for Device Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-11-game-snapshots-top-5-capture-strategies/"><u>In 2024, Windows 11 Game Snapshots Top 5 Capture Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safe-windows-storage-expansion-methods/"><u>Safe Windows Storage Expansion Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-systemsettings-issues-on-win11/"><u>Strategies to Overcome SystemSettings Issues on Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-technicality-of-srgb-vs-rgb/"><u>The Technicality of Srgb vs Rgb</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-v27e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo V27e Auto Does Not Work | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +156,18 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-starting-stronger-exploring-the-best-15-video-intros/"><u>[New] 2024 Approved Starting Stronger Exploring the Best 15 Video Intros</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-expressive-imagery-premier-snapchat-filters-and-lenses/"><u>[Updated] In 2024, Expressive Imagery Premier Snapchat Filters and Lenses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-best-practices-amplifying-video-and-audio-clarity/"><u>[Updated] YouTube's Best Practices Amplifying Video and Audio Clarity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhancing-meet-visuals-applying-filters-effects-and-masks/"><u>2024 Approved Enhancing Meet Visuals Applying Filters, Effects & Masks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launch-free-portable-dvd-software-today/"><u>2024 Approved Launch Free, Portable DVD Software Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-hidden-addresses-of-installed-pc-apps/"><u>Demystifying the Hidden Addresses of Installed PC Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-user-experience-with-drive-views/"><u>Enhancing the User Experience with Drive Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Age of Wonders: Planetfall From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-non-working-cut-and-paste-on-win-11/"><u>Remedying Non-Working Cut & Paste on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safety-switch-stopping-windows-11-tasks/"><u>Safety Switch: Stopping Windows 11 Tasks</u></a></li>
+</ul></div>
+

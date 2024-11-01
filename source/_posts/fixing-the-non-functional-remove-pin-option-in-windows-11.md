@@ -1,7 +1,7 @@
 ---
 title: Fixing the Non-Functional 'Remove PIN' Option in Windows 11
-date: 2024-10-23T19:43:13.109Z
-updated: 2024-10-26T23:01:18.436Z
+date: 2024-10-28T16:47:35.385Z
+updated: 2024-11-01T18:27:02.547Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ To remove PIN using forgot my PIN:
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's it! You have successfully removed the Windows Hello PIN.
 
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
@@ -74,43 +81,29 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
 
@@ -120,6 +113,13 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Scroll down and click on**PIN (Windows Hello).**
 5. Click on**Remove** and then on**Remove** again to confirm the action.
 6. Enter your account password and click OK to remove the PIN.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
 
@@ -140,19 +140,16 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-creative-instagram-story-questions-increase-engagement/"><u>[New] Creative Instagram Story Questions Increase Engagement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-boosting-your-valheim-game-performance-and-eliminating-lag/"><u>2024 Ultimate Guide: Boosting Your Valheim Game Performance & Eliminating Lag</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728485889305-aomei-backupper/"><u>AOMEI Backupper還原：簡易指南 - 重建損壞的分割區與單元</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-disabled-lock-screen-timer/"><u>Corrective Measures for Disabled Lock Screen Timer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-captivating-conversations-mastering-zooms-filter-features/"><u>Crafting Captivating Conversations Mastering Zoom's Filter Features</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/s-dream-the-ultimate-compilation-of-best-yt-game-entrances/"><u>Gamer's Dream The Ultimate Compilation of Best YT Game Entrances</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-blue-screen-of-death-bsod-error-in-windows-11/"><u>How to Fix a Blue Screen of Death (BSOD) Error in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-focusing-capabilities-in-your-iphone-camera-effective-solutions/"><u>How to Restore Focusing Capabilities in Your iPhone Camera – Effective Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-examining-splitcam-top-video-recorder/"><u>In 2024, Examining SplitCam Top Video Recorder?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-lost-wireless-ties-with-these-10-windows-10-tweaks/"><u>Reclaiming Lost Wireless Ties with These 10 Windows 10 Tweaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-solutions-for-we-encountered-an-error-during-oculus-install/"><u>Step-By Step Solutions for We Encountered an Error During Oculus Install</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-social-connectivity-with-downloader-tools-for-2024/"><u>[New] Unlock Social Connectivity with Downloader Tools for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-building-a-strong-foundation-for-advertising-deals-using-famebit-methods/"><u>2024 Approved Building a Strong Foundation for Advertising Deals Using FameBit Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-compact-cameras-for-1000-or-less-4k/"><u>Best Compact Cameras for $1000 or Less (4K)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>Cross-Device The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-plus-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proper-planning-essential-steps-for-using-wsl-2-right/"><u>Proper Planning: Essential Steps for Using WSL 2 Right</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-data-how-to-use-controlling-access-settings-in-windows/"><u>Securing Data: How to Use Controlling Access Settings in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-pathway-for-windows-11-emulation-on-workstation-17/"><u>The Ultimate Pathway for Windows 11 Emulation on Workstation 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-workflows-utilize-flow-launcher-for-maximum-output/"><u>Turbocharge Workflows: Utilize Flow Launcher for Maximum Output</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-canary-an-easy-to-follow-guide/"><u>Understanding Windows Canary: An Easy-to-Follow Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unravel-the-complexities-of-setting-up-a-hp-printer-for-novices/"><u>Unravel the Complexities of Setting Up a HP Printer for Novices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamless Hosting of Linux VMs via Hyper-V Windows Platform
-date: 2024-10-20T19:39:04.601Z
-updated: 2024-10-26T23:51:42.274Z
+date: 2024-10-29T16:55:17.457Z
+updated: 2024-11-01T19:46:57.919Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,22 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
 
@@ -56,10 +63,10 @@ To enable Virtualization, do as follows:
 5. Click on the**OK** button to apply changes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
@@ -95,22 +102,15 @@ To create an Ubuntu virtual machine, do as follows:
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
@@ -126,13 +126,6 @@ To create an Ubuntu virtual machine, do as follows:
 7. The installer will prompt you to restart the system. Click on the**Restart Now** button.  
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
 ## A Few Things to Remember
@@ -142,6 +135,19 @@ To create an Ubuntu virtual machine, do as follows:
  So, you need to use a system that can devote ample hardware resources to the Windows virtual machine. Only, then you would be able to use Hyper-V and create a Linux virtual machine and allocate run it without any issues. After you try our Ubuntu using Hyper-V, you can power off the virtual machine. Or you can take the extra step and delete the virtual machine from Hyper-V Manager. It will free up a lot of space inside the Windows virtual machine.
 
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
@@ -162,19 +168,18 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-top-notch-animated-text-settings/"><u>[Updated] Top-Notch Animated Text Settings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-historys-high-scorers-on-reddit-top-10-list/"><u>2024 Approved History's High Scorers on Reddit - Top 10 List</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-superior-web-recording-gear/"><u>2024 Approved Superior Web Recording Gear</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-note-30-vip-racing-edition-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Note 30 VIP Racing Edition Is Unlocked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-avi-viewer-mobile-and-desktop-edition-for-2024/"><u>Ideal AVI Viewer Mobile & Desktop Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insights-into-windows-patch-identification/"><u>Insights Into Window's Patch Identification</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-control-over-windows-snipping-commands/"><u>Regaining Control Over Windows' Snipping Commands</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smart-tips-on-assessing-used-ipads-a-comprehensive-checklist/"><u>Smart Tips on Assessing Used iPads: A Comprehensive Checklist</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-stuck-lock-screen-delay-on-pcs/"><u>Solutions for Stuck Lock Screen Delay on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-usbasp-operation-on-xp-7-and-modern-windows/"><u>Streamlining USBasp Operation on XP, 7, & Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-permanent-trash-setup-for-efficient-file-disposal-on-pcs/"><u>Tailored Permanent Trash Setup for Efficient File Disposal on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-error-0xc00d36b4-sound-fixes/"><u>Unraveling Windows Error 0XC00D36B4: Sound Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-screen-capture-utility-quickly/"><u>Windows 11: Accessing Screen Capture Utility Quickly</u></a></li>
-<li><a href="https://games-able.techidaily.com/x-ally-eradicates-main-gaming-console-flaw/"><u>X-Ally Eradicates Main Gaming Console Flaw</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-5-toy-drones-reviewed/"><u>[New] Prime 5 Toy Drones Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] 2024 Approved Ace the Game Crafting a Pro Gaming Channels Success Story</u></a></li>
+<li><a href="https://win-popular.techidaily.com/44cm5ywo6z2i6kej5rg65pa55rov77ya5b6p5y6f56gs56kf5lik55qe5pya5paw5pcn5asx6loh5paz44cn/"><u>「全面解決方法：復原硬碟上的最新損失資料」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>2024 Approved Passport Photo Creation Made Easy 10 Images at No Cost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts-for-2024/"><u>Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halting-secondary-apps-camera-usage-code-0xa00f4243/"><u>Halting Secondary App's Camera Usage: Code 0xA00F4243</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/highest-quality-capture-options-for-2024/"><u>Highest Quality Capture Options for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>In 2024, 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-11s-core-data-the-hidden-registry/"><u>Investigating Windows 11'S Core Data: The Hidden Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-dead-input-devices-in-windows-os/"><u>Remedies for Dead Input Devices in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-alter-your-windows-cursor-on-pc/"><u>Steps to Alter Your Window's Cursor on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-upgrade-new-features-in-microsoft-paint/"><u>The Ultimate Upgrade: New Features in Microsoft Paint</u></a></li>
 </ul></div>
 

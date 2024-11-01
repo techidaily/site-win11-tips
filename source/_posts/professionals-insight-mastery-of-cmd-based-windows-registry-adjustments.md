@@ -1,7 +1,7 @@
 ---
 title: "Professionals' Insight: Mastery of CMD-Based Windows Registry Adjustments"
-date: 2024-10-20T16:25:25.185Z
-updated: 2024-10-26T21:30:27.955Z
+date: 2024-10-30T18:36:41.176Z
+updated: 2024-11-01T17:12:00.013Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![details of the reg add command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/details-of-the-reg-add-command-in-command-prompt.jpg)
 
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add and Delete Keys in the Windows Registry
 
@@ -100,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Copy Registry Entries From One Key to Another
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
@@ -119,9 +112,23 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  Unfortunately, there's no way to copy specific values from one key to another. You'll have to use the Registry Editor for that.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Import Registry Entries
 
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
 
@@ -129,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  Once you run that command, the contents of the reg file will be merged with the registry.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -156,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the **reg save** command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here's an example:
 
 `reg save HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv /y`
@@ -166,25 +180,11 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
 `reg restore HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv`
 
  Now the **MyNewKey2** key should return to the state it was in when you made the backup.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tweak the Registry Without the Registry Editor
 
@@ -194,29 +194,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  Although using it takes a little more know-how than the Registry Editor, our guide should be able to get you started.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-your-visual-content-on-instagram-using-these-6-tools/"><u>[New] In 2024, Transform Your Visual Content on Instagram Using These 6 Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-photoshop-simplified-beginner-friendly-editing-secrets-for-2024/"><u>[New] Photoshop Simplified Beginner-Friendly Editing Secrets for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channelart-essentials-10-digital-tools-to-design-logos-and-themes-for-2024/"><u>[Updated] ChannelArt Essentials 10 Digital Tools to Design Logos & Themes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[Updated] In 2024, How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-failure-windows-update-issue-code-0x80242016/"><u>Avoid Failure: Windows Update Issue Code 0X80242016</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-customized-keyboard-tricks-for-win-os/"><u>Boost Efficiency: Customized Keyboard Tricks for WIN OS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-activity-assessment-guide-for-2024/"><u>Complete Activity Assessment Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-strategies-for-resolving-witcher-3-game-failures-on-startup/"><u>Effective Strategies for Resolving Witcher 3 Game Failures on Startup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-strategies-for-disconnected-steam-content-servers-on-pc/"><u>Fix Strategies for Disconnected Steam Content Servers on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronic-emporium-unlocking-hardware-secrets/"><u>Inside Tom's Electronic Emporium: Unlocking Hardware Secrets</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-reset-protocols-unveiled-the-ultimate-guide-to-data-erasure/"><u>IPhone Reset Protocols Unveiled: The Ultimate Guide to Data Erasure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pioneering-gpu-performance-unveiling-the-top-6-tools-for-windows-users/"><u>Pioneering GPU Performance: Unveiling the Top 6 Tools for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-store-error-code-0x80073cf3/"><u>Steps to Resolve Windows Store Error Code 0X80073CF3</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/mline-your-youtube-watch-with-no-black-or-white-edges/"><u>Streamline Your YouTube Watch with No Black or White Edges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-printer-removal-procedures-for-windows-11-users/"><u>Swift Printer Removal Procedures for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-fn-keys-adjustments-for-microsoft-windows-1011/"><u>Tailored FN Keys Adjustments for Microsoft Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-the-art-of-toggling-between-window-terminals-concentration-and-normalcy/"><u>Uncovering the Art of Toggling Between Window Terminal's Concentration and Normalcy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-advanced-capabilities-with-windows-powershell-policy-settings/"><u>Unlock Advanced Capabilities with Windows PowerShell Policy Settings</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -224,3 +201,25 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-novelty-a-deep-exploration-of-filter-innovations/"><u>[New] Navigating Novelty A Deep Exploration of Filter Innovations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplifying-vfx-with-magix-video-pro-x/"><u>[Updated] Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soundscout-beyond-dacast-horizons/"><u>[Updated] SoundScout Beyond DaCast Horizons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/computing-evolution-adapting-to-the-power-of-16gb-ram/"><u>Computing Evolution: Adapting to the Power of 16GB RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-black-windows-rdp-connection-issue/"><u>Correcting Black Windows RDP Connection Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x80d03801-in-windows-apps/"><u>Correcting Error Code 0X80D03801 in Windows Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-for-keeping-your-tv-remote-sanitized-and-germ-free-a-complete-guide/"><u>Effective Methods for Keeping Your TV Remote Sanitized & Germ-Free: A Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-steam-content-downloading-for-windows-users/"><u>Faster Steam Content Downloading for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-bypassing-windows-11s-security-barrier/"><u>Guide to Bypassing Windows 11'S Security Barrier</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y55s-5g-2023-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y55s 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-sky-explorers-the-least-expensive-drones/"><u>In 2024, Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-workspace-reinstate-windows-icons/"><u>Maximize Your Workspace: Reinstate Windows Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-for-fixing-battlenet-login-failure/"><u>Methodical Approach for Fixing Battle.net Login Failure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-total-war-three-kingdoms-freezing-problem/"><u>Resolving 'Total War: Three Kingdoms' Freezing Problem</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2020-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2020) Suddenly | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-earning-on-reddit-no-skills-required/"><u>Step-by-Step Guide to Earning on Reddit - No Skills Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
+</ul></div>
+

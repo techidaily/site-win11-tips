@@ -1,7 +1,7 @@
 ---
 title: Windows Storage Management for Your Apps
-date: 2024-09-11T20:13:22.208Z
-updated: 2024-09-17T00:40:26.818Z
+date: 2024-10-31T16:52:15.089Z
+updated: 2024-11-01T16:28:48.306Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
  Although Microsoft is gradually transitioning from the Control Panel to the modern Settings app, the Control Panel still remains accessible in all versions of Windows, including Windows 11\. So, if you prefer using the Control Panel, use these steps to check how much storage your apps or programs are using on Windows.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 3. Use the drop-down menu in the top right corner to change the view type to **Large icons**.
 4. Click on **Programs and Features** to view a list of programs installed on your computer. You can check the **Size** column to find out how much space a program is using.  
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
 
@@ -62,10 +76,23 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -82,5 +109,16 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-excellence-exchange-global-creators/"><u>[New] 2024 Approved Excellence Exchange Global Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>[Updated] The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-blending-the-search-bar-from-taskbar/"><u>Expert Guide to Blending the Search Bar From Taskbar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-12-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus 12 is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-vs-chatgpt-on-snapchat-choosing-the-right-tool-for-your-needs/"><u>My AI Vs. ChatGPT on Snapchat: Choosing the Right Tool for Your Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-non-syncing-a-stepwise-solution-on-windows/"><u>Navigate Through Non-Syncing: A Stepwise Solution on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-displayed-windows-11-sign-ins/"><u>Tackling Non-Displayed Windows 11 Sign-Ins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winhidedrives-guide-for-windows-enthusiasts/"><u>WinHideDrives Guide for Windows Enthusiasts</u></a></li>
+</ul></div>
 

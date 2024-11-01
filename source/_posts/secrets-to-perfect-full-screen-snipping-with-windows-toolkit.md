@@ -1,7 +1,7 @@
 ---
 title: Secrets to Perfect Full-Screen Snipping with Windows' Toolkit.
-date: 2024-10-23T19:43:49.345Z
-updated: 2024-10-26T16:30:10.431Z
+date: 2024-10-25T16:01:12.100Z
+updated: 2024-11-01T17:29:48.766Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Now that we have identified the possible causes, let's explore some effective troubleshooting methods to help you quickly resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Adjust the Scale Levels
@@ -57,6 +57,13 @@ Here is how you can change the scaling settings:
 ![Adjust the Scale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scale-settings-windows11.jpg)
 5. Close the Settings app and reboot to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hopefully, upon reboot, you will no longer face the problem.
 
  Another way to fix the issue in this scenario is by setting the bigger scaling ratio monitor as your primary display. This is because Windows tends to prioritize the primary display when it comes to scaling. It will set the scaling of the secondary monitor based on the primary one.
@@ -69,13 +76,6 @@ To change your primary display on Windows, follow these steps:
 4. Click on the screen that you want to make your primary display and expand the**Multiple displays** option.
 5. Choose the**Make this my main display** option.  
 ![Switch the main display in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/switch-displays.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
 
@@ -93,19 +93,6 @@ Follow these steps to proceed:
 
 ![Click on the New option in Snip & Sketch tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
 
 ## 3\. Update Snip & Sketch
@@ -113,6 +100,13 @@ Follow these steps to proceed:
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
 
  Since the Snip & Sketch tool is a Microsoft Store app, you can use the Store utility to update it. Here's[how to update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) in Windows, so check it out to learn how to keep Snip & Sketch (and all other Microsoft Store apps) updated.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair/Reset Snip & Sketch
 
@@ -127,17 +121,18 @@ Here is how to do that:
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
 3. Now, scroll down the following window to look for Snip & Sketch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
 6. Wait for the process to complete, then check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
 
  Once the tool has been reset, it should work correctly. If the problem appears again in the future, you can consider using any of the other[ways to take screenshots in Windows 11](https://www.makeuseof.com/take-screenshot-windows-11/) until Microsoft releases an official fix for this problem.
@@ -161,19 +156,22 @@ Here is how to do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-in-depth-examination-samsung-gear-360-virtual-reality-lens/"><u>[Updated] 2024 Approved In-Depth Examination Samsung Gear 360 Virtual Reality Lens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-productivity-integrating-flow-launcher-into-daily-routine/"><u>Amplify Productivity: Integrating Flow Launcher Into Daily Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-recording-basics-for-newcomers-on-win-11/"><u>Audio Recording Basics for Newcomers on Win 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-utilizing-toolbar-features-in-microsofts-pcm-win11/"><u>Navigating and Utilizing Toolbar Features in Microsoft's PCM Win11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/overcome-cyberpunk-2077-launch-hurdles-update-details-inside/"><u>Overcome Cyberpunk 2077 Launch Hurdles - Update Details Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-systems-graphics-with-windows-11-tips/"><u>Revive Your System's Graphics with Windows 11 Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ard-youtube-vs-creative-commons-liberty-clauses/"><u>Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-repair-exploration-sifting-through-disms-role-with-chkdsksfc/"><u>System Repair Exploration: Sifting Through DISM's Role with CHKDSK/SFC</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-reno-10-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo Reno 10 Pro 5G without backup.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-windows-pc-select-prime-clock-saver-programs/"><u>Transform Windows PC – Select Prime Clock Saver Programs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unveiling-the-best-practices-for-transmitting-media-in-discord/"><u>Unveiling the Best Practices for Transmitting Media in Discord</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-g310-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia G310 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-plot-crafting-platform/"><u>[New] Ideal Plot Crafting Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unmatched-storytelling-education-1-8-spotlight/"><u>[New] In 2024, Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-method-to-archive-webcam-discussions-for-2024/"><u>[New] Method to Archive Webcam Discussions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevating-visual-storytelling-expert-techniques-for-instagram-video-edits/"><u>[Updated] 2024 Approved Elevating Visual Storytelling Expert Techniques for Instagram Video Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>[Updated] In 2024, Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] In 2024, The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escape-s-mode-confinement-on-win-1011-systems/"><u>Escape S Mode Confinement on Win 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-approach-for-windows-error-management/"><u>Essential Approach for Windows Error Management</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-the-driver-verifier-in-win11-pro/"><u>Initiating the Driver Verifier in Win11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-webcam-failure-code-a00f4289-resolution/"><u>Navigating Windows 11 Webcam Failure - Code A00F4289 Resolution</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/optimizing-performance-best-practices-for-fast-loading-times-for-2024/"><u>Optimizing Performance Best Practices for Fast Loading Times for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-taskbar-scaling-in-windows-11/"><u>Personalized Taskbar Scaling in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-freezing-problems-microsoft-teams-win11-and-win10-guide/"><u>Resolving Freezing Problems: Microsoft Teams Win11 & Win10 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-failed-login-to-game-pass-service-on-windows-1011/"><u>Reversing Failed Login to Game Pass Service on Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-camon-20-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Camon 20 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-file-finder-the-latest-entries-guide/"><u>Windows File Finder: The Latest Entries Guide</u></a></li>
 </ul></div>
 

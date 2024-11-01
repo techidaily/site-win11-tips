@@ -1,7 +1,7 @@
 ---
 title: Tackling System Call Failure on Modern Windows Systems
-date: 2024-10-22T17:18:51.082Z
-updated: 2024-10-26T22:55:21.707Z
+date: 2024-10-29T16:06:32.302Z
+updated: 2024-11-01T17:54:19.648Z
 tags:
   - windows10
   - windows11
@@ -33,16 +33,22 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Tools in Command Prompt
 
 ![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Corrupted system files could be causing File Explorer to crash. As such, it's worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.
 
@@ -55,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
  A failing hard drive is another potential cause of the “system call failed” error. You can check for and repair disk errors with the Check Disk (CHKDSK) tool on Windows.
 
  Our [how to run CHKDSK](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) guide explains how you can utilize the Check Disk tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Initiate a Malwarebytes Scan
 
@@ -83,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 ![Services tab on Windows Configuration menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restore Windows 11/10 to an Earlier Time
@@ -97,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Apply a Factory Reset
 
  A factory reset will restore your Windows PC to a default (out-of-the-box) system configuration. Applying a factory reset is a drastic potential resolution but one that will likely resolve the “System call failed” error. It will mean you lose user-installed software that will then have to be reinstalled.
@@ -113,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 ![The Keep my files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the “System Call Failed” Error Fixed
@@ -127,24 +145,6 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-instagrams-question-marker-magic/"><u>[New] 2024 Approved Navigating Instagram’s Question Marker Magic</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-potential-the-rising-stars-of-women-in-video-content-for-2024/"><u>[Updated] Unleashing Potential The Rising Stars of Women in Video Content for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-narzo-60x-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme Narzo 60x 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-with-customized-cmd-shortcuts-and-windows/"><u>Boost Efficiency with Customized Cmd Shortcuts and Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-battlenet-speed-fasten-your-windows-pace/"><u>Boosting Battle.net Speed: Fasten Your Windows Pace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-the-heat-cutting-down-vanguard-writes-on-your-computer/"><u>Easing the Heat: Cutting Down Vanguard’ Writes on Your Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-note-12-pro-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Redmi Note 12 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-launch-issues-top-tips-and-fixes-for-players/"><u>League of Legends Launch Issues: Top Tips and Fixes for Players</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macos-slideshow-creator-unite-images-and-videos-for-2024/"><u>MacOS SlideShow Creator Unite Images & Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pitfalls-of-the-promotional-assessing-risks-with-low-price-auth-codes/"><u>Pitfalls of the Promotional: Assessing Risks with Low-Price Auth Codes</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/secure-your-classroom-content-seamless-schooltube-downloads-in-mp4-or-avi-format-for-enhanced-learning-experiences/"><u>Secure Your Classroom Content: Seamless SchoolTube Downloads in MP4 or AVI Format for Enhanced Learning Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/vr-2/"><u>VRコンテンツ鑑賞に最適: 簡単かつ効果的な2つの技術</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +152,21 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-top-fifa-film-analysis-on-youtube-infographics/"><u>[Updated] Top FIFA Film Analysis on YouTube Infographics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-sequences-a-movie-maker-approach-to-animation/"><u>2024 Approved Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unmatched-clarity-the-ultimate-mic-guide/"><u>2024 Approved Unmatched Clarity The Ultimate Mic Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultra-compact-lenovo-laptop-featuring-amd-ryzen-cpu-and-enhanced-connectivity-with-7-usb-ports/"><u>Discover the Ultra-Compact Lenovo Laptop Featuring AMD Ryzen CPU & Enhanced Connectivity with 7 USB Ports</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you-in-2024/"><u>GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-charting-the-top-8-online-photo-hybrid-creator/"><u>In 2024, Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-video-podcasts-everything-you-need-to-know/"><u>New In 2024, Video Podcasts Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-user-experience-top-free-must-haves-for-win11/"><u>Optimal User Experience: Top Free Must-Haves for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-instant-silence-windows-1011-on-standby/"><u>Tricks to Instant Silence Windows 10/11 on Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unverified-ai-keys-may-jeopardize-win-11-security/"><u>Unverified AI Keys May Jeopardize Win 11 Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-hacks-crafting-an-invisible-context-menu/"><u>Windows 11 Hacks: Crafting an Invisible Context Menu</u></a></li>
+</ul></div>
+

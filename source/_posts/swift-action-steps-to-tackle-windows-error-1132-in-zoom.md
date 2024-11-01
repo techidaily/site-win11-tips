@@ -1,7 +1,7 @@
 ---
 title: Swift Action Steps to Tackle Window's Error 1132 in Zoom
-date: 2024-10-22T21:34:31.442Z
-updated: 2024-10-26T22:16:34.212Z
+date: 2024-10-27T16:40:42.858Z
+updated: 2024-11-01T16:04:57.874Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
 5. Wait for the Zoom updater to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Sign back into Zoom after the update, and try joining a meeting.
 
@@ -76,17 +62,18 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
 5. Double-click any Zoom rule you find listed there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
@@ -95,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
@@ -121,14 +108,22 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set Up a New Windows Account
@@ -139,6 +134,14 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for[creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
 3. When you’ve set up a new local Windows user account, log out of your current one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
 6. Then open and sign in to the Zoom app.
@@ -165,18 +168,19 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-virtual-reality-in-engineering-and-business-applications/"><u>[New] 2024 Approved Virtual Reality in Engineering and Business Applications</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-envisioning-the-future-learn-from-these-6-metaverse-scenarios/"><u>[New] Envisioning the Future Learn From These 6 Metaverse Scenarios</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beyond-indexation-understanding-youtubes-unlisted-mechanism/"><u>[New] In 2024, Beyond Indexation Understanding YouTube's Unlisted Mechanism</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-upgrade-voice-quality-in-sony-console-gaming/"><u>[New] In 2024, Upgrade Voice Quality in Sony Console Gaming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/calculating-costs-in-youtube-advertising-campaigns-for-2024/"><u>Calculating Costs in YouTube Advertising Campaigns for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-safeguard-for-your-macbook-pro-detailed-reviews-and-insights-on-procases-solution/"><u>Cost-Effective Safeguard for Your MacBook Pro: Detailed Reviews & Insights on ProCase's Solution</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-third-place-ipad-audio-capture-apps-for-2024/"><u>Cutting-Edge Third-Place iPad Audio Capture Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-low-latency-techniques-for-discord-on-windows/"><u>Mastering Low-Latency Techniques for Discord on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/methods-for-smooth-volume-diminishment-in-lumafusion-for-2024/"><u>Methods for Smooth Volume Diminishment in Lumafusion for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools/"><u>[New] In 2024, The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-melody-makers-manual-youtube-track-transfers/"><u>[Updated] 2024 Approved Melody Makers' Manual YouTube Track Transfers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-snappy-screen-recording-tool-for-pcs/"><u>[Updated] In 2024, Snappy Screen Recording Tool for PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-comprehensive-look-at-apeaksofts-recording-software/"><u>[Updated] In 2024, The Comprehensive Look at Apeaksoft’s Recording Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>2024 Approved Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discover-hidden-files-quickly-4-simple-methods/"><u>Discover Hidden Files Quickly: 4 Simple Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-run-as-user-permissions-problems/"><u>Essential Fixes for Run As User Permissions Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-the-unfixable-your-complete-manual-for-resolving-advapi32dll-not-found-problems/"><u>Fix the Unfixable? Your Complete Manual for Resolving 'advapi32.dll Not Found' Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-mend-missing-steam-game-icons/"><u>Guide to Mend Missing Steam Game Icons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a05s-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A05s Fingerprint Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-11-to-revive-inactive-wi-fi-hotspot/"><u>Resetting Windows 11 to Revive Inactive Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-for-windows-error-code-0x887a0006-gpu-hang/"><u>Step-by-Step for Windows Error Code 0X887A0006: GPU Hang</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-fix-for-error-code-0x80041015-on-pc/"><u>Unveiling the Fix for Error Code 0X80041015 on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-reserve-memory-an-overview/"><u>Windows Reserve Memory: An Overview</u></a></li>
 </ul></div>
 

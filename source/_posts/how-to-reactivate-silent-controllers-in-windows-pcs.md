@@ -1,7 +1,7 @@
 ---
 title: How To Reactivate Silent Controllers in Windows PCs
-date: 2024-10-23T21:14:20.246Z
-updated: 2024-10-26T17:02:39.691Z
+date: 2024-10-31T16:49:22.346Z
+updated: 2024-11-01T17:15:09.954Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  If your controller does not show up in the Game Controllers window or the status does not say **OK**, you may be experiencing a connection problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disconnect and Reconnect the Controller
 
  When you encounter [issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
@@ -58,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
  Following that, your controller should appear in the Device Manager window and work as expected.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Relevant Window Troubleshooters
 
@@ -81,19 +81,25 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After running the above troubleshooter, try using your controller again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Controller's Driver
@@ -106,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 4. Select the **Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Controller’s Firmware
 
@@ -131,23 +137,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-choosing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>[New] 2024 Approved Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-essence-of-engaging-live-broadcasts-360-video-techniques-for-youtube/"><u>[Updated] 2024 Approved The Essence of Engaging Live Broadcasts 360° Video Techniques for Youtube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlocking-canvas-potential-10-secrets-for-professionals/"><u>[Updated] In 2024, Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adding-movecopy-tasks-to-windows-explorers-context-menu/"><u>Adding Move/Copy Tasks to Windows Explorer's Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/copilot-disappearance-in-ws11-quick-fixes-guide/"><u>Copilot Disappearance in WS11: Quick Fixes Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-camera-app-f429f-hiccup/"><u>How to Rectify Windows 11 Camera App F429F Hiccup</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-digital-workshop-archives/"><u>In 2024, Digital Workshop Archives</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-timing-analysis-of-a-20mb-film/"><u>In 2024, Timing Analysis of a 20MB Film</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-the-power-of-netgear-nighthawk-x10-ad7200-top-reviews-on-high-speed-wifi-performance/"><u>Unleashing the Power of Netgear Nighthawk X10 (AD7200): Top Reviews on High-Speed WiFi Performance</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unveiling-lost-reddit-content-instant-access-techniques/"><u>Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +144,19 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-a-dual-device-expedition-in-virtual-frontiers/"><u>[New] In 2024, A Dual-Device Expedition in Virtual Frontiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-server-hiccups-a-microsoft-store-error-guide-for-win-1011/"><u>Defeating Server Hiccups: A Microsoft Store Error Guide for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-os-compatibility-for-adobes-creative-suite/"><u>Enhancing OS Compatibility for Adobe's Creative Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guarding-against-data-leaks-how-neural-network-model-inversions-pose-a-danger-to-chatbots/"><u>Guarding Against Data Leaks: How Neural Network Model Inversions Pose a Danger to Chatbots</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avoiding-common-pitfalls-in-digital-marketing-journey/"><u>In 2024, Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-15-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 15</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-windows-programs-that-aid-the-transition-from-apple-devices/"><u>Key Windows Programs That Aid the Transition From Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-text-environment-a-windows-11-notepad-guide/"><u>Mastering Your Text Environment: A Windows 11 Notepad Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+</ul></div>
+

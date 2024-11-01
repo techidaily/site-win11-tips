@@ -1,7 +1,7 @@
 ---
 title: Resolving Connection Errors with Unidentified USB Ports
-date: 2024-09-11T01:23:44.208Z
-updated: 2024-09-12T01:23:44.208Z
+date: 2024-10-28T19:34:23.810Z
+updated: 2024-11-01T19:14:04.240Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  Fortunately, it's a very common issue and can easily be fixed. This guide will go through all the working solutions that will help you troubleshoot this error message for good.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## What Causes the Unknown USB Device, Port Reset Failed Error in Windows 11?
 
@@ -39,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -46,26 +50,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Look for Hardware Changes
 
@@ -76,25 +60,32 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -106,20 +97,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 4. Click**Next** .
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Disable Fast Startup
 
@@ -148,21 +125,14 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
- Now, wait until Windows searches for any available driver update online and install it on your computer.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
 
@@ -172,20 +142,6 @@ Next, restart your computer and check for the problem.
 2. Right-click on the problematic device and choose**Uninstall device.**
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Disable the USB Selective Suspend Setting
 
@@ -198,39 +154,11 @@ Next, restart your computer and check for the problem.
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 8\. Update Your BIOS
 
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -238,14 +166,11 @@ Next, restart your computer and check for the problem.
 
  If you see the Unknown USB Device, Port Reset Failed error in the Device Manager; you now know what's causing the problem and how to fix it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -254,12 +179,21 @@ Next, restart your computer and check for the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screenmasters-battleground/"><u>[New] 2024 Approved ScreenMasters Battleground</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-share-twitter-videos-on-facebook-in-2024/"><u>[New] How to Share Twitter Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-25-essential-hashtags-for-increased-instagram-engagement-for-2024/"><u>[Updated] 25 Essential Hashtags for Increased Instagram Engagement for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-perfect-your-focus-a-guide-to-roblox-tight-scopes-for-2024/"><u>[Updated] Perfect Your Focus A Guide to Roblox Tight Scopes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photography-perks-fast-and-fun-edits-using-windows-paint-app/"><u>[Updated] Photography Perks Fast & Fun Edits Using Windows Paint App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuit-dun-fichier-amv-a-wmv-en-ligne-guide-complet/"><u>Conversion Gratuit D'un Fichier AMV À WMV en Ligne – Guide Complet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-disable-explorers-default-views/"><u>Cut Down Clutter: Disable Explorer's Default Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-enhanced-use-of-windows-11-hardware/"><u>Essential Tweaks for Enhanced Use of Windows 11 Hardware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/guide-to-various-video-recording-devices/"><u>Guide to Various Video Recording Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-expertly-control-your-sounds-with-windows-11/"><u>How to Expertly Control Your Sounds with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-system-call-failure-on-modern-windows-systems/"><u>Tackling System Call Failure on Modern Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-prolonged-shutdown-during-running-apps-in-windows-10/"><u>Techniques for Prolonged Shutdown During Running Apps in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-using-telegram-web-effectively-for-2024/"><u>The Ultimate Guide to Using Telegram Web Effectively for 2024</u></a></li>
+</ul></div>
 

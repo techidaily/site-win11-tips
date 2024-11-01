@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Action: Creating Custom Window Pattern Loops"
-date: 2024-10-22T22:33:47.283Z
-updated: 2024-10-26T16:52:51.449Z
+date: 2024-10-31T16:59:29.701Z
+updated: 2024-11-01T16:06:15.405Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Customize 9Locker
@@ -75,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
@@ -101,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 4. Press the **Finish** button with the Launch Eusing Maze Lock checkbox selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. An Eusing Maze Lock prompt for unlocking the preset pattern lock will appear. Click **OK** to close that prompt and bring up a configuration window.
@@ -113,6 +100,14 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
 6. Click **OK** on the Eusing Maze Lock window.
@@ -124,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Customize Eusing Maze Lock
@@ -147,10 +142,16 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lock Your Windows 10 or 11 PC Differently
@@ -161,25 +162,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cozy-up-your-videos-best-winter-bgs-revealed-for-2024/"><u>[New] Cozy Up Your Videos Best Winter Bg's Revealed for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-luminous-transformations-for-android-videos-step-by-step/"><u>[Updated] Luminous Transformations for Android Videos Step by Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>[Updated] Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-basics-made-simple-a-list-of-10-accessible-youtube-projects/"><u>[Updated] Video Basics Made Simple A List of 10 Accessible YouTube Projects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/crafting-an-exceptional-experience-in-stardew-valley-top-7-mods-for-2024/"><u>Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods) for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/icon-position-correction-made-simple/"><u>Icon Position Correction Made Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mobile-file-access-via-windows-server/"><u>Mobile File Access via Windows Server</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-future-microsofts-copilot-key-and-windows-11-revolution/"><u>Navigating the Future: Microsoft's Copilot Key and Windows 11 Revolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-order-in-windows-registry-through-repair-methods/"><u>Restoring Order in Windows Registry Through Repair Methods</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/toshiba-wireless-drivers-downloaded-your-guide-for-secure-and-easy-updates/"><u>Toshiba Wireless Drivers Downloaded: Your Guide for Secure and Easy Updates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/k-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-against-roblox-needs-to-close-windows-errors/"><u>Winning Against Roblox Needs to Close Windows Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +169,23 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-sensational-tale-tiler-system-for-2024/"><u>[Updated] Sensational Tale Tiler System for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upcoming-assessment-varied-perspectives/"><u>[Updated] Upcoming Assessment Varied Perspectives</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-highest-quality-documentphoto-scanners-selecting-the-perfect-one-for-you/"><u>2024'S Highest Quality Document/Photo Scanners - Selecting the Perfect One for You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-windows-11-appsfolder-a-step-by-step-walkthrough/"><u>Breaking Into Windows 11 AppsFolder: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-locked-windows-screen-saver/"><u>Breathe Life Into Your Locked Windows Screen Saver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-code-2e-restore-windows-update/"><u>Bypass Error Code 2E, Restore Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-download-or-install-icloud-on-windows-try-these-fixes/"><u>Can’t Download or Install iCloud on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-a-new-course-overcoming-xbox-errors-in-win11/"><u>Charting a New Course: Overcoming Xbox Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-new-territory-ai-in-the-world-of-windows-11/"><u>Charting New Territory: AI in the World of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-wisely-critical-considerations-in-procuring-a-laptop/"><u>Choosing Wisely: Critical Considerations in Procuring a Laptop</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-resoudre-le-blocage-des-mises-a-jourtelechargements-pour-windows-11-guides-dinstallation-faciles/"><u>Comment Résoudre Le Blocage Des Mises À Jour/Téléchargements Pour Windows 11 : Guides D'Installation Faciles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-your-cinematography-slow-motion-on-gopro-hero-10/"><u>Enhancing Your Cinematography Slow Motion on GoPro Hero 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-androids-low-cost-video-call-app-selection/"><u>In 2024, Android's Low Cost Video Call App Selection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/syncing-sound-with-visuals-on-facebook-essential-guide-for-2024/"><u>Syncing Sound with Visuals on Facebook - Essential Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-primary-motives-for-organizations-disallowing-chatgpt/"><u>Unveiling the Primary Motives for Organizations Disallowing ChatGPT</u></a></li>
+</ul></div>
+

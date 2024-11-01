@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Prime Watching with Proactive Subtitles Troubleshooting in Windows 11
-date: 2024-09-11T01:22:22.639Z
-updated: 2024-09-12T01:22:22.639Z
+date: 2024-10-29T19:09:43.664Z
+updated: 2024-11-01T16:46:24.474Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
  In this article, we'll share five things to try when Prime Video subtitles are not working in Windows 11\. So, let's begin.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Perform Some Basic Fixes
 
@@ -39,61 +36,20 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Eliminate Browser Issues
 
@@ -102,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -113,23 +76,16 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Reinstall the Prime Video App
 
@@ -137,54 +93,24 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
  Watching your favorite movies on Prime Video can be a great way to unwind after a long day. But what if you play the title only to find that subtitles aren't working? Despite how serious it may sound, troubleshooting this issue is very easy. Simply follows the above solutions to fix Prime Video subtitles not working in Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,12 +119,21 @@ thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe69685
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>[New] A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-netflixs-video-playback-controls/"><u>[New] Navigating Netflix's Video Playback Controls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-scheduling-zoom-on-android-a-step-by-step-approach/"><u>[Updated] 2024 Approved Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-comprehensive-list-of-alternatives-to-popular-gopro-cams/"><u>2024 Approved A Comprehensive List of Alternatives to Popular GoPro Cams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-filter-selection-best-9-streaming-aids/"><u>2024 Approved Essential Filter Selection Best 9 Streaming Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-system-id-inaccuracy-in-windows-11/"><u>Addressing System ID Inaccuracy in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-smart-8-hd-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dual-virus-defense-think-again-windows-users/"><u>Dual Virus Defense? Think Again, Windows Users!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-run-pcs-leveraging-the-power-of-key-optimization-tools/"><u>Efficiently Run PCs: Leveraging the Power of Key Optimization Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-background-removal-in-photo-editing-tools/"><u>Mastering Background Removal in Photo Editing Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-fix-for-non-functional-microphonevoice-communication-in-warzone-on-desktops-and-gaming-systems/"><u>Solving Fix for Non-Functional Microphone/Voice Communication in Warzone on Desktops and Gaming Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steer-clear-of-stuck-arrows-in-windows/"><u>Steer Clear of Stuck Arrows in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-fixing-non-detectable-wi-fi-in-win11/"><u>The Ultimate Guide to Fixing Non-Detectable Wi-Fi in Win11</u></a></li>
+</ul></div>
 

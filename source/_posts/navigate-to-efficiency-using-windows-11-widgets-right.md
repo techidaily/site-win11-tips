@@ -1,7 +1,7 @@
 ---
 title: "Navigate to Efficiency: Using Windows 11 Widgets Right"
-date: 2024-10-22T20:40:35.649Z
-updated: 2024-10-26T21:25:57.182Z
+date: 2024-10-26T18:37:47.205Z
+updated: 2024-11-01T16:51:56.490Z
 tags:
   - windows10
   - windows11
@@ -50,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Follow the below steps to add widgets:
 
 1. Launch the widgets panel by hovering your mouse over the**Widgets button** .
@@ -71,18 +58,18 @@ Follow the below steps to add widgets:
 
  You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the Size of Widgets
 
  Microsoft allows you to choose the size of widgets. Each widget will display the main information of the app irrespective of which size you choose. However, a large widget will show some additional information that you can not find on a medium or small widget. Windows 11 currently supports three sizes:**Small** ,**Medium** , and**Large** .
 
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To change the size of widgets, follow the below steps:
 
@@ -90,13 +77,6 @@ To change the size of widgets, follow the below steps:
 2. Select from**Small** ,**Medium** , and**Large** .
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
@@ -109,16 +89,10 @@ To change the size of widgets, follow the below steps:
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
@@ -132,13 +106,20 @@ To change the size of widgets, follow the below steps:
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
 
@@ -152,6 +133,13 @@ To expand the widgets panel, follow the below steps:
 2. Click on the**enlarge icon** , located right beside the**user profile logo** .
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
 
@@ -180,24 +168,20 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] 2024 Approved Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-excellent-tools-to-save-live-feeds-from-youtube-vids/"><u>[New] In 2024, Excellent Tools to Save Live Feeds From YouTube Vids</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapstreak-savvy-guidance-to-prevent-interruptions-for-2024/"><u>[New] Snapstreak Savvy Guidance to Prevent Interruptions for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-free-editing-the-ultimate-guide-to-fcp/"><u>2024 Approved Financial-Free Editing The Ultimate Guide to FCP</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-temporary-pause-image-save-guide/"><u>2024 Approved Temporary Pause Image Save Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-12r-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from OnePlus 12R to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-elevating-your-wsl-2-and-docker-coexistence/"><u>A Guide to Elevating Your WSL 2 & Docker Coexistence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-failed-projection-links-on-windows-os/"><u>How to Tackle Failed Projection Links on Windows OS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-patient-engagement-with-ad-insights/"><u>In 2024, Revolutionize Patient Engagement with Ad Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-tasteful-tactics-elevating-culinary-channel-monikers/"><u>In 2024, Tasteful Tactics Elevating Culinary Channel Monikers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-closure-opening-folderfile-secrets-quickly/"><u>Inside Closure: Opening Folder/File Secrets Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-dual-camera-access-in-windows-apps/"><u>Preventing Dual Camera Access in Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-intrusions-top-7-windows-safeguarding-methods/"><u>Preventing Intrusions: Top 7 Windows Safeguarding Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shading-your-way-back-to-retro-gaming-bliss-with-retroarc/"><u>Shading Your Way Back to Retro Gaming Bliss with RetroArc</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-digital-life-learn-these-5-essential-window-folder-tricks/"><u>Simplify Your Digital Life: Learn These 5 Essential Window Folder Tricks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-head-tricks-simple-steps-for-stunning-online-presence-for-2024/"><u>Talking-Head Tricks Simple Steps for Stunning Online Presence for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-how-to-clear-steams-dns-cache/"><u>Understanding How to Clear Steam's DNS Cache</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/workaround-for-prolonged-shutdown-during-active-windows-10-applications/"><u>Workaround for Prolonged Shutdown During Active Windows 10 Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[New] 2024 Approved From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eigning-supreme-top-techniques-for-innovative-youtube-end-screens-for-2024/"><u>[New] Reigning Supreme Top Techniques for Innovative YouTube End Screens for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tactics-for-avoiding-a-youtube-sanction/"><u>[Updated] Tactics for Avoiding a YouTube Sanction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fresh-footage-feature-film-reviews/"><u>2024 Approved Fresh Footage Feature Film Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compress-videos-for-optimal-speed-and-quality-achieve-up-to-95-smaller-file-size/"><u>Compress Videos for Optimal Speed & Quality - Achieve Up To 95% Smaller File Size!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-user-experience-with-win-1011s-fn-keys/"><u>Enhance Your User Experience with Win 10/11'S Fn Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-new-features-in-windows-11s-yearly-update-extension/"><u>Exploring New Features in Windows 11'S Yearly Update Extension</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-discord-load-times-in-windows-operating-system/"><u>Optimizing Discord Load Times in Windows Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-connectivity-restored-reveal-the-hidden-fixes-for-missing-bluetooth-on-win-11/"><u>Seamless Connectivity Restored: Reveal the Hidden Fixes for Missing Bluetooth on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slip-through-security-gaps-stealthy-remote-access-on-windows-11/"><u>Slip Through Security Gaps: Stealthy Remote Access on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-airpods-work-but-dont-produce-sound-in-windows-environments/"><u>Solution Steps for When Your AirPods Work but Don't Produce Sound in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/"><u>Steps to Resolve iPhone Image Failure in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-format-rejection-by-windows-vlc/"><u>Tackling the Format Rejection by Windows-VLC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-nier-replicant-remaster-wont-start-expert-advice-on-resolving-the-game-launch-issue/"><u>Why NieR Replicant Remaster Won't Start? Expert Advice on Resolving the Game Launch Issue</u></a></li>
 </ul></div>
 

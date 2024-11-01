@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Memory Error' In VMware Windows Environments
-date: 2024-09-11T01:24:01.344Z
-updated: 2024-09-12T01:24:01.344Z
+date: 2024-10-25T18:58:34.043Z
+updated: 2024-11-01T19:20:22.293Z
 tags:
   - windows10
   - windows11
@@ -20,33 +20,10 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
  This VMware issue can arise when there’s more than enough RAM available on a PC. However, there are numerous possible causes for the “not enough physical memory” error. This is how you can fix the “not enough physical memory” WMware error in Windows 10 and 11.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Configure VMware to Run as an Administrator
 
@@ -61,20 +38,14 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 ![The Compatibility tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab2.jpg)
 5. Select**Apply** to save the new administrator option for VMware.
 
-
-
+6. Then select**OK** to close WMware’s properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-6. Then select**OK** to close WMware’s properties window.
 
 ## 2\. Edit the Config File
 
@@ -87,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 ![The Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-with-option.jpg)
 4. Select**Notepad** to view the configuration file in that text editor.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Then **input vmmon.disableHostParameters = “TRUE”** at the bottom of the configuration file as in the image below.  
 ![WMware's config.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-config-ini-file.jpg)
@@ -126,35 +91,15 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 ![The Software Updates option in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-software-updates-option.jpg)
 4. Then click the**Check for Updates** button.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option4.jpg)
 5. Press the**Get More Information** button for an available update.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 1. Log into an account profile on the website that opens.
 2. Select the**Download Now** option on the website for the latest VMware Workstation version.
@@ -164,19 +109,12 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 6. Go to the downloads folder that includes the WMware setup wizard.
 7. Double-click the downloaded VMware installer to open it. Go through the setup wizard to install the latest VMware version.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Delete a Recent Windows Update
 
@@ -184,25 +122,12 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-uninstall-update-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Perform a Clean Boot
 
@@ -213,20 +138,6 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
  To disable all third-party startup programs and services, check out the guidelines in our guide on[how to clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will perform a clean boot whenever you restart Windows.
 
  Try utilizing your VMware virtual machine after clean booting. If this works,
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7\. Set Up a New Virtual Machine
 
@@ -242,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,12 +160,18 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-achieve-proficiency-in-audio-upload-with-google/"><u>[New] 2024 Approved Achieve Proficiency in Audio Upload with Google</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-gear-up-for-speedy-tiktok-production-with-this-guide/"><u>[New] In 2024, Gear Up For Speedy TikTok Production with This Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-simplified-guide-designing-your-podcasts-rss-feed/"><u>2024 Approved Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-docker-performance-within-wsl-2-environment/"><u>Elevating Docker Performance Within WSL 2 Environment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-7025-now-playing-well-on-win11/"><u>GeForce 7025, Now Playing Well on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-save-uac-prompts-in-windows/"><u>Innovative Ways to Save UAC Prompts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-merge-windows-embraces-kali-linux/"><u>Masterful Merge: Windows Embraces Kali Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-stuck-lock-screen-timer-in-windows-1011/"><u>Solving Stuck Lock Screen Timer in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-window-apps-with-easy-internet-troubleshooting-steps/"><u>Streamline Window Apps with Easy Internet Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-chatting-with-whatsapp-on-a-mac-computer/"><u>The Ultimate How-To for Chatting with WhatsApp on a Mac Computer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-the-power-of-slow-mo-top-10-video-players-for-2024/"><u>Updated Unleash the Power of Slow Mo Top 10 Video Players for 2024</u></a></li>
+</ul></div>
 

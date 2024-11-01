@@ -1,7 +1,7 @@
 ---
 title: "Intuitive Pathways: Seamlessly Integrating Win11 Shortcut Tools"
-date: 2024-10-22T00:07:43.596Z
-updated: 2024-10-27T00:27:26.519Z
+date: 2024-10-31T16:53:01.799Z
+updated: 2024-11-01T16:45:57.964Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
  If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Your Own Shortcuts to the Windows 11 Context Menu
@@ -74,19 +74,19 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 ![The delete context menu option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-delete-option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This registry tweak also works much the same in Windows 10 and earlier Microsoft desktop platforms. So, this isn’t just a Windows 11 trick. As Windows 10 has a classic context menu by default, you don’t need to click **Show more options** on that menu to select the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Program Shortcuts to the Context Menu With Easy Context Menu
@@ -109,18 +109,18 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 6. Click the **Apply Changes** button on the Easy Context Menu window.  
 ![The Apply Changes button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/apply-changes-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you’ve added a new program shortcut to the classic context menu in Windows 11\. Bring up the classic context menu by right-clicking anywhere on the desktop and selecting **Show more options**. Then select the new software shortcut, which will be somewhere near the bottom of the classic menu.
 
  You can remove that shortcut and other options from the right-click menu with Easy Context Menu. To do so, click the **ContextMenu Cleaner** button; deselect the checkbox for the software shortcut to disable it on the context menu (you can still restore it later). Then click **Refresh** to save the context menu changes.
 
 ![The ContextMenu Cleaner window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/contextmenu-cleaner-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There’s also much more you can add to the desktop’s right-click menu with Easy Context Menu than software shortcuts. Easy Context Menu includes many other checkboxes for adding various tools and turn-off options to the right-click menu. Select some of the checkboxes for system tools and turn-off options, and click **Apply Changes** to add handy shortcuts for accessing utilities and shutting down Windows to the context menu.
 
@@ -130,22 +130,6 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  Nevertheless, you can still add program shortcuts to the desktop context menu in Windows 11 by editing the registry. By doing so, you can replace desktop shortcut icons with context menu ones.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-insights-on-how-youtube-handles-uploaded-videos/"><u>[New] 2024 Approved Insights on How YouTube Handles Uploaded Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>[New] Showcasing Creativity An Assortment of Top 5 Book VTTs</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assisting-users-with-erratic-gesture-inputs-in-windows/"><u>Assisting Users with Erratic Gesture Inputs in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-overcoming-mfc42dll-file-does-not-exist-error-messages/"><u>Comprehensive Strategies for Overcoming 'mfc42.dll File Does Not Exist' Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-troubleshooting-winning-against-camera-app-failures/"><u>Effortless Troubleshooting: Winning Against Camera App Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-access-to-top-7-highly-rated-cost-free-pc-passwords/"><u>Exclusive Access to Top 7 Highly Rated, Cost-Free PC Passwords</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-conversion-transform-mov-files-into-ogg-format-with-online-tools/"><u>Free Conversion: Transform MOV Files Into OGG Format with Online Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-remedy-disconnected-windows-11-printers/"><u>Guide to Remedy Disconnected Windows 11 Printers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/outage-alert-microsoft-365-disrupted-services-impacting-millions-inside-the-incident-technews/"><u>Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-your-workspace-tackling-screen-lag-in-windows/"><u>Streamline Your Workspace: Tackling Screen Lag in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +137,23 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gadget-games-galore-quickest-quality-flash-titles/"><u>[New] In 2024, Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok/"><u>[New] Take Control How to Involve Yourself in a Friend's Live on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>[Updated] 2024 Approved Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[Updated] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-blocked-resources-steps-for-windows-users-156-chars/"><u>Clearing Up Blocked Resources: Steps for Windows Users (156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-maximum-performance-in-windows-11/"><u>Essential Tweaks for Maximum Performance in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-unlocking-folders-that-wont-double-click-open/"><u>Fixing Windows 10/11: Unlocking Folders that Won't Double-Click Open</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-error-win11s-uptime-failure-code-0x80246007/"><u>How to Reset Error: Win11’s Uptime Failure, Code 0X80246007</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-newcomers-journey-to-prosperity-via-periscope/"><u>In 2024, Newcomer's Journey to Prosperity via Periscope</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>In 2024, The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-partners-up-enhanced-buttonfiltration-with-pearson/"><u>Mondly Partners Up: Enhanced ButtonFiltration With Pearson</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-extraction-problem-error-1152-in-windows/"><u>Overcoming Extraction Problem: Error 1152 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-grades-essential-tips-for-efficient-windows-learning/"><u>Skyrocket Your Grades: Essential Tips for Efficient Windows Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-ui-resolution-on-new-windows-build/"><u>Streamline UI Resolution on New Windows Build</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-efficiency-a-detailed-appraisal-of-freestyle2-blue-software-for-apple-users/"><u>Unleashing Efficiency: A Detailed Appraisal of Freestyle2 Blue Software for Apple Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Introduction to Chromium on the Latest Windows 11 OS
-date: 2024-09-11T01:21:00.394Z
-updated: 2024-09-12T01:21:00.394Z
+date: 2024-10-30T16:53:04.832Z
+updated: 2024-11-01T19:02:34.952Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  Installing Chrome on Windows 11 isn't as simple as you might think. Let's run through a few of the choices you have and issues you might run into while trying to install it.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Should You Download the 32-bit or 64-bit Version of Chrome?
 
@@ -38,20 +35,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![selecting the about section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-settings.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  By default, when you visit the[download Chrome webpage](https://www.google.com/chrome/browser/) , it will offer up the 32-bit version of Chrome. This is because the 32-bit version will run on 64-bit computers (the inverse, however, is not true—64-bit Chrome will not run on 32-bit Windows).
 
  So if you have a 32-bit system, simply click the**Download** button on this page. The download of the .exe file will begin after you accept Google's terms and conditions and choose if you want it as your default browser or not.
@@ -60,43 +43,22 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  Those with a 64-bit system will want to visit the[64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 64-bit Users: It's Time to Update
 
  You can verify which version you're running by clicking on the vertical ellipsis in the top-right corner of the Chrome browser and selecting**Settings** . You’ll be redirected to a new page. Here, choose**About Chrome** . Here, you can check if you're running 32-bit or 64-bit Chrome.
 
 ![checking the chrome version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/chrome-version.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If you're running 32-bit Chrome, don't worry; the transition is seamless. Simply download 64-bit Chrome as detailed above and run the installer. Once the installer is done, close Chrome completely.
 
  Then reopen Chrome. You can go back to the**About Google Chrome** screen to verify that you're running 64-bit Chrome now. All your bookmarks and synced info should remain exactly as it was, and you can even open the last tabs you were using by clicking on the vertical ellipsis once again, and hovering over the**History** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What About the Chrome Beta or Canary Channels?
 
@@ -122,26 +84,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![selecting reputation-based protection in security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reputation-based-protection.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Doing this will disable Windows SmartScreen, although this is not recommended.
 
 ## Trouble With Your Internet Connection?
@@ -154,19 +96,12 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on[Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## The Start Menu and Taskbar Icons
 
@@ -176,29 +111,23 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  If you prefer to stay in the desktop environment, you can pin it to the Taskbar to keep it pinned to the bar that runs along the bottom of your desktop.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Master the Chrome Keyboard Shortcuts
 
  We've provided a list of all the[keyboard shortcuts for Chrome](https://www.makeuseof.com/tag/google-chrome-shortcuts-pdf/) on Windows, and they're incredibly helpful for increasing the speed at which you can use your browser. Keep a list of the most useful ones for yourself and work on memorizing them—you won't regret it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are You Using a Touchscreen? Enable Pinch-to-Zoom
 
@@ -206,25 +135,12 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 If it ever gives you issues, you can always go back and disable it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Uninstall Chrome
 
@@ -232,38 +148,15 @@ If it ever gives you issues, you can always go back and disable it.
 
  This will open a window on the desktop with a list of all your installed desktop applications. Find Chrome, select the vertical ellipsis to the app's right, and click**Uninstall** .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Getting the Most Out of Chrome on Windows 11
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -272,12 +165,24 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-qualitysnap-video-reporter-checkup-for-2024/"><u>[New] QualitySnap Video Reporter Checkup for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes/"><u>[New] Tailor Your Space The Best Apps to Create Engaging YouTube Themes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-list-of-free-windows-screenshot-apps-for-2024/"><u>[Updated] The Ultimate List of Free Windows Screenshot Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719333011753-4-proven-strategies-for-enhancing-window-shot-taking-on-windows-os/"><u>4 Proven Strategies for Enhancing Window Shot Taking on Windows OS.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-hibernate-mode-not-working-on-windows/"><u>4 Ways to Fix Hibernate Mode Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-secure-windows-options-when-bitlocker-isnt-available/"><u>5 Secure Windows Options when Bitlocker Isn't Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-rotate-images-on-a-windows-11-pc/"><u>6 Ways to Rotate Images on a Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-remedies-for-vmware-stop-at-boot-on-windows-11/"><u>8 Remedies for VMware Stop at Boot on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-disk-alignment-failures/"><u>Addressing Windows Disk Alignment Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-winerror-740-easy-to-follow-tips-for-windows-users/"><u>Avoiding WinError 740: Easy-to-Follow Tips for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-ancient-tech-upgrade-with-atlasos/"><u>Boost Ancient Tech: Upgrade with AtlasOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cast-excellence-incorrante-video-loops-into-television/"><u>Broadcast Excellence Incorrante Video Loops Into Television</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-mix-fold-3-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-x-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone X Activity | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhancing-meetings-screen-capture-with-webcam/"><u>In 2024, Enhancing Meetings Screen Capture with Webcam</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-c12-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia C12 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-phantom-v-flip-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Phantom V Flip Phone Now with These Tips</u></a></li>
+</ul></div>
 

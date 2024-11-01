@@ -1,7 +1,7 @@
 ---
 title: Restoring Forgotten Windows Data Devices
-date: 2024-09-10T03:23:03.196Z
-updated: 2024-09-16T16:50:39.640Z
+date: 2024-10-31T19:06:00.633Z
+updated: 2024-11-01T19:19:23.983Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  One thing to note is that since you can't see the drive in File Explorer, we recommend using the Disk Management tool or Command Prompt to rename it instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rescan Your Disks
 
  If renaming the drive didn't work, another way to manually refresh your computer's drive recognition system is to rescan your disks. To do that, follow the steps below:
@@ -53,9 +60,23 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![the Disk Management option in Computer Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-disk-management-option-in-computer-management.jpg)
 4. Click **Action** in the top menu and select **Rescan Disks**.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
  Now, check to see if you can see the drive again and if you can access it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update the Disk's Driver
 
@@ -63,31 +84,30 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 ![updating a disk drive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/updating-a-disk-drive-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Afterward, you can check if the drive has reappeared in File Explorer and the Send to menu.
 
 ## 5\. Check for Conflicting Software
 
  There could be an app, program, or driver that is interfering with the recognition of your drive on Windows. To root it out, try [performing a clean boot of Windows](https://www.makeuseof.com/clean-boot-windows-11/), which loads the least amount of programs and drivers, and see if the drive shows up. Then, start ruling out which software or service was behind the drive letter missing in the first place.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Check That the Drive Is Connected and Working Properly
 
  If you've struck out on the software side of things, then perhaps the issue is hardware-related. For an external drive, try connecting it to a different USB port or using a different cable to see if it works. If your drive is internal, you'll have to open up the PC to check the connections and see if any are faulty (if you don't have an eye for these kinds of things, consider getting a hardware professional to help).
 
  If there's nothing wrong with the connections upon physical inspection, then it could be that the drive is faulty. Check it for physical damage or if its disks are spinning inside when plugged in. If you find that something is wrong with the drive physically, then you might have no choice but to replace it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Your Missing Drive to Reappear on Windows
 
@@ -103,5 +123,21 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-4-proven-methods-to-perfect-instagram-video-loops/"><u>[Updated] 4 Proven Methods to Perfect Instagram Video Loops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[Updated] Conquering Remote Work Mastering the Use of Zoom and Gmail</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-zoom-setup-playbook/"><u>[Updated] The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-utorrent-download-pace-in-windows/"><u>Enhance uTorrent Download Pace in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-audio-experience-selecting-the-top-mics/"><u>In 2024, Ultimate Audio Experience Selecting the Top Mics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/initiate-impactful-engagement-configuring-and-assessing-instream-ads-in-fb-for-2024/"><u>Initiate Impactful Engagement Configuring and Assessing Instream Ads in FB for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/iphone-11-streaming-how-to-cast-ios-13s-4k-airplay-on-windows-10-and-mac-os/"><u>IPhone 11 Streaming: How to Cast IOS 13'S 4K AirPlay on Windows 10 and Mac OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multilingual-typography-downloading-windows-fonts/"><u>Mastering Multilingual Typography: Downloading Windows Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-new-era-of-windows-home-edition-vs-pro-advantage/"><u>Navigating the New Era of Windows: Home Edition Vs. Pro Advantage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-winos-isdonedll-issues/"><u>Navigating Through WinOS ISDone.dll Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/review-magix-video-edit-suite-for-2024/"><u>Review MAGIX Video Edit Suite for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-superior-control-over-window-panel/"><u>Securing Superior Control Over Window Panel</u></a></li>
+</ul></div>
 

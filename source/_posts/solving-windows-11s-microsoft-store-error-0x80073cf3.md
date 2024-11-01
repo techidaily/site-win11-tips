@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Microsoft Store Error 0X80073cf3
-date: 2024-09-11T01:20:43.893Z
-updated: 2024-09-12T01:20:43.893Z
+date: 2024-10-31T18:07:16.639Z
+updated: 2024-11-01T19:27:08.024Z
 tags:
   - windows10
   - windows11
@@ -30,52 +30,12 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 ![The Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-control-panel.jpg)
 4. Next, click **View all** on the left of the Troubleshooting applet.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![The View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-all.jpg)
 5. Select **Windows Store Apps** in the troubleshooting tool list.  
 ![The troubleshooter list in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/troubleshooter-list.jpg)
 6. Then select **Next** to initiate the Windows Store Apps troubleshooting. Apply any potential solutions for error code 0x80073CF the troubleshooter gives you.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Clear the Microsoft Store’s Cache
 
@@ -83,45 +43,11 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsreset-command.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Reset the Microsoft Store App
 
  Windows Settings also includes a **Reset** option for the Microsoft Store. Selecting **Reset** is a similar fix to running the wsreset command, but it’s a more general option for clearing all Microsoft Store’s data. As such, if the wsreset command is ineffective, try performing a reset instead. You can apply this solution by following the instructions within our guide on [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/).
 
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Repair the Gaming Services App
 
@@ -130,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
  If you don’t have the Gaming Services app, you may need it to download and install certain games from the Microsoft Store without issues. So, try downloading and installing Gaming Services from the Microsoft Store to fix error 0x80073CF3\. Open this Gaming Services Microsoft Store page and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** to install the app.
 
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
 
@@ -141,27 +74,27 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
 
-
-
-
+ You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
 ## 7\. Free Up Some Drive Storage Space
 
@@ -169,59 +102,25 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 8\. Reinstall the Microsoft Store App
 
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
 
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
 
@@ -231,19 +130,12 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
@@ -251,11 +143,33 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/3-methods-for-removing-a-disks-partition-in-windows/"><u>3 Methods for Removing a Disk's Partition in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-assistance-top-tips-for-fixed-gameplay-on-pcs/"><u>Accelerated Assistance: Top Tips for Fixed Gameplay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-folder-and-file-unity-a-windows-exploration/"><u>Achieving Folder & File Unity: A Windows Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aging-gracefully-upgrading-your-familys-old-computer/"><u>Aging Gracefully: Upgrading Your Family’s Old Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/anecdotal-insights-into-seamless-windows-11-setup/"><u>Anecdotal Insights Into Seamless Windows 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-capture-mastery-snipping-tools-latest-recording-features-explained-max-156/"><u>Audio-Visual Capture Mastery: Snipping Tool's Latest Recording Features Explained (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/black-friday-bonanza-get-your-deal-612-for-eternal-windows-10/"><u>Black Friday Bonanza: Get Your Deal - $6.12 for Eternal Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-disk-space-how-to-use-windows-autodeleting-feature/"><u>Boost Disk Space: How to Use Windows' AutoDeleting Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-task-manager-admin-mode-on-windows-11/"><u>Boosting Task Manager: Admin Mode on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-tips-for-keeping-your-settings-intact-while-upgrading-kodi-to-the-latest-version-on-windows-pcs/"><u>Easy Tips for Keeping Your Settings Intact While Upgrading Kodi to the Latest Version on Windows PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-change-screenshot-saving-location-on-mac/"><u>In 2024, Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-crossing-platforms-upload-video-to-twittertumblr/"><u>In 2024, Crossing Platforms Upload Video to Twitter/Tumblr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-5-strategies-for-copying-files-to-your-system/"><u>Master 5 Strategies for Copying Files to Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-visibility-restoring-unhidden-apps-on-apples-device/"><u>Mastering Visibility: Restoring Unhidden Apps on Apple's Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-creating-a-duel-on-tiktok/"><u>The Ultimate Guide: Creating a Duel on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-guide-to-smartphones-that-bring-your-gear-vr-world-to-life/"><u>Ultimate Guide to Smartphones That Bring Your Gear VR World to Life</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-mastery-learn-the-top-40-keyboard-shortcuts/"><u>Updated In 2024, FCPX Mastery Learn the Top 40 Keyboard Shortcuts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/video-storytelling-made-easy-best-ios-collage-apps-for-2024/"><u>Video Storytelling Made Easy Best iOS Collage Apps for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Protection: Five Changes to the Windows Firewall"
-date: 2024-09-11T01:20:43.264Z
-updated: 2024-09-12T01:20:43.264Z
+date: 2024-10-29T17:12:08.031Z
+updated: 2024-11-01T19:02:27.342Z
 tags:
   - windows10
   - windows11
@@ -21,20 +21,6 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
  So, what's the solution if you've configured the wrong firewall settings by mistake? It's simple—all you need to do is reset these settings to their defaults.
 
  Let’s dive in and explore all the solutions.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Use the Control Panel
 
@@ -63,20 +49,6 @@ netsh advfirewall reset
 
  Wait for the process to complete. From there, restart your device to save these changes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
@@ -93,19 +65,12 @@ netsh advfirewall reset
 
  Wait for the process to complete, and then restart your device.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Use the Windows Security App
 
@@ -121,33 +86,19 @@ netsh advfirewall reset
 
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
 
@@ -164,19 +115,12 @@ netsh advfirewall reset
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
 
@@ -194,14 +138,11 @@ netsh advfirewall reset
 
  To reset the firewall settings with ease, check out any of the tips we’ve covered. And if you want to reset the Settings app instead, there are solutions for that too!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +151,24 @@ netsh advfirewall reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>2024 Approved Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-top-tier-gaming-displays-in-4k-quality-for-2024/"><u>5 Top-Tier Gaming Displays in 4K Quality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-disabling-chrome-tab-clones/"><u>A Step-by-Step Approach to Disabling Chrome Tab Clones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-tale-of-time-the-windows-taskbar-saga-19852023/"><u>A Tale of Time: The Windows Taskbar Saga (1985–2023)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-hello-compatible-scanner-glitch/"><u>Addressing Windows Hello Compatible Scanner Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-steam-authentication-setbacks-in-rust-for-windows-users/"><u>Avoiding Steam Authentication Setbacks in Rust for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-heic-image-transformation-into-jpeg-using-w11-features/"><u>Batch Heic Image Transformation Into JPEG Using W11 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginner-friendly-guide-setting-up-the-jdk-on-windows-11/"><u>Beginner-Friendly Guide: Setting Up the JDK on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-efficiency-activating-search-bar-on-windows-11-tm/"><u>Boost Your Efficiency: Activating Search Bar on Windows 11 TM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-productivity-with-windows-command-shortcuts/"><u>Boost Your Productivity with Windows Command Shortcuts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-to-your-screen-top-5-downloader-apps-for-2024/"><u>Facebook to Your Screen Top 5 Downloader Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y36i-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y36i</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-internet-connection-league-of-legends-on-windows/"><u>Mastering Internet Connection: League of Legends on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-vrs-digital-storyscapes/"><u>Navigating Through VR's Digital Storyscapes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-video-metadata-editors-for-mac-users-easy-and-effective-for-2024/"><u>The Best Video Metadata Editors for Mac Users (Easy and Effective) for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-40-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 40 Pro Device</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-chromecast-streaming-any-video-format-made-easy-updated-2023/"><u>Updated Unlock Chromecast Streaming Any Video Format Made Easy (Updated 2023)</u></a></li>
+</ul></div>
 

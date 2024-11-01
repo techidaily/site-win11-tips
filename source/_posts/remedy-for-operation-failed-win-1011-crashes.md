@@ -1,7 +1,7 @@
 ---
 title: "Remedy for 'Operation Failed': Win 10/11 Crashes"
-date: 2024-10-23T18:16:35.572Z
-updated: 2024-10-26T20:03:53.202Z
+date: 2024-10-27T16:32:44.313Z
+updated: 2024-11-01T18:37:33.004Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
 To check and install Windows updates:
@@ -68,22 +75,8 @@ To check and install Windows updates:
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
@@ -91,6 +84,14 @@ To check and install Windows updates:
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -100,19 +101,6 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -132,27 +120,35 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -173,10 +169,10 @@ To uninstall Windows updates:
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -198,18 +194,24 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>[Updated] Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-skype-audio-archive-mp3-techniques-free-edition-for-2024/"><u>[Updated] Skype Audio Archive MP3 Techniques, Free Edition for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/expert-tips-implement-borders-on-instagram-media-for-2024/"><u>Expert Tips Implement Borders on Instagram Media for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fast-track-to-facebooks-latest-viewing-history-2e23-for-2024/"><u>Fast Track to Facebook’s Latest Viewing History (2E23) for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/guide-sharing-your-gaming-library-with-pals-on-xbox-one/"><u>Guide: Sharing Your Gaming Library with Pals on Xbox One</u></a></li>
-<li><a href="https://win-answers.techidaily.com/halo-infinite-troubleshooting-solving-the-mystery-of-the-missing-visuals/"><u>Halo Infinite Troubleshooting: Solving the Mystery of the Missing Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds/"><u>In 2024, Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-solutions-to-uninterrupted-facebook-live-problems/"><u>In 2024, Solutions to Uninterrupted Facebook Live Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-and-folder-combination-in-windows-11/"><u>Mastering File & Folder Combination in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-simplify-your-life-a-guide-on-quick-removal-of-youtube-feedback/"><u>[Updated] Simplify Your Life A Guide on Quick Removal of YouTube Feedback</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inshot-cut-mastery-creating-fluid-movements/"><u>2024 Approved Inshot Cut Mastery Creating Fluid Movements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophile-writers-premier-talk-shows-from-googloud-for-2024/"><u>Audiophile' Writers Premier Talk Shows From GooGloud for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disconnecting-anonymous-windows-users-securely/"><u>Disconnecting Anonymous Windows Users Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-advanced-network-monitoring-with-windows-11s-netstat-tool/"><u>Explore Advanced Network Monitoring with Windows 11'S Netstat Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-lowered-cpu-levels-on-windows-hosts/"><u>Guiding Lowered CPU Levels on Windows Hosts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-x6-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco X6 Pro Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>In 2024, Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-hp-officejet-pro-8600-software-and-driver-downloads/"><u>Latest Windows-Compatible HP Officejet Pro 8600 Software and Driver Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-dism-with-win11-images/"><u>Navigating the Complexities of DISM with Win11 Images</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/perfect-the-art-of-teamsnap-photos-for-business-success/"><u>Perfect the Art of TeamSnap Photos for Business Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-the-past-7-windows-11-features-from-yesteryears/"><u>Rediscovering the Past: 7 Windows 11 Features From Yesteryears</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-wise-implementation-of-ms-defender-application-guard-in-edge-browser/"><u>Step-Wise Implementation of MS Defender Application Guard in Edge Browser</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-huawei-nova-y91-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Huawei Nova Y91 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-simplified-approach-to-creating-windows-11-uwp-links/"><u>The Simplified Approach to Creating Windows 11 (UWP) Links</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-safe-browsing-on-google-gemini/"><u>The Ultimate Walkthrough for Safe Browsing on Google Gemini</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80070091-in-windows-os/"><u>Understanding and Resolving Error 0X80070091 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-mystery-8-ways-to-iis-manager-access/"><u>Unlocking the Mystery: 8 Ways to IIS Manager Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-sticking-with-my-iphone-14-beats-moving-to-the-iphone-16-pro-insights-from-a-tech-blogger-at-zdnet/"><u>Why Sticking with My iPhone 14 Beats Moving to the iPhone 16 Pro - Insights From a Tech Blogger at ZDNet</u></a></li>
 </ul></div>
 

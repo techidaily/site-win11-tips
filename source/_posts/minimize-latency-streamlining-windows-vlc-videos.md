@@ -1,7 +1,7 @@
 ---
 title: "Minimize Latency: Streamlining Windows VLC Videos"
-date: 2024-09-15T08:20:49.580Z
-updated: 2024-09-17T08:47:18.595Z
+date: 2024-10-30T17:49:08.031Z
+updated: 2024-11-01T16:41:48.584Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,21 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 5. Click on**Save** .  
 ![Disable Hardware Acceleration in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-hardware-acceleration-in-vlc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart the VLC app after this and see if the video plays smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change Power Plan to High Performance
 
@@ -57,7 +71,21 @@ Restart the VLC app after this and see if the video plays smoothly.
 5. Select**High performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable In-Loop Deblocking Filter
 
@@ -67,13 +95,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 2. Switch to the**Input / Codes** tab.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the Caching Value
 
@@ -90,13 +111,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 7. Click the**Save** button.  
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reset the VLC Preferences
 
  VLC allows you to customize a number of settings and preferences that affect its behavior. However, if some of these preferences in the VLC app are not configured correctly, it could cause it to misbehave on Windows. Instead of going through each of your preferences one by one, it's easier to reset them all and start over.
@@ -108,19 +122,6 @@ To reset your VLC media player preferences, use these steps:
 3. In the Interface tab, click the**Reset Preferences** button at the bottom.
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.  
 ![Reset VLC Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-vlc-preferences.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart the VLC media player and check if the videos still lag.
 
@@ -135,10 +136,10 @@ To check for pending updates in the VLC media player:
 ![Check for Updates in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-for-updates-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If an update is available, follow the on-screen prompts to install it. After that, videos should play smoothly on Windows.
@@ -173,5 +174,26 @@ To check for pending updates in the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>[New] 2024 Approved Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-optimizing-your-online-presence-leading-twitter-de-followers/"><u>[New] In 2024, Optimizing Your Online Presence Leading Twitter De-Followers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-how-to-make-a-tiktok-outro/"><u>[Updated] 2024 Approved How To Make A Tiktok Outro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-the-landscape-a-guide-to-using-hashtags-on-facebook/"><u>[Updated] 2024 Approved Navigating the Landscape A Guide to Using Hashtags on Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[Updated] From Camera Roll to YouTube The Ultimate Uploading Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/audio-technica-driver-update-procedure-a-user-friendly-walkthrough/"><u>Audio Technica Driver Update Procedure: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-high-resource-consumption-by-security-apps/"><u>Curbing High-Resource Consumption by Security Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-code-0x800f0831/"><u>Decoding Windows Error Code 0X800F0831</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-deeper-dxvks-role-in-optimizing-windows-games/"><u>Diving Deeper: DXVK's Role in Optimizing Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-avoid-folder-restrictions-on-windows-11/"><u>How to Avoid Folder Restrictions on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-w11-easy-capture-tool-windows-11-screen-recording/"><u>In 2024, W11 Easy Capture Tool Windows 11 Screen Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intuitive-pathways-seamlessly-integrating-win11-shortcut-tools/"><u>Intuitive Pathways: Seamlessly Integrating Win11 Shortcut Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-dll-windows-guide-to-mfc71u/"><u>Reinstating Lost DLL: Windows Guide to Mfc71u</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-speech-recognition-failed-windows-issue/"><u>Resolving 'Speech Recognition Failed' Windows Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secrets-behind-elon-musks-new-venture-grok-ai-cost-and-potential-explored/"><u>The Secrets Behind Elon Musk's New Venture, Grok AI - Cost and Potential Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-in-outdated-devices-with-windows-11-to-go-rufus-tutorial/"><u>Unleash Potential in Outdated Devices with Windows 11, To Go, Rufus Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-with-toms-equipment-analysis/"><u>Unveiling the Latest in Technology with Tom’s Equipment Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-key-conundrum-nine-strategies-to-recover-from-non-functional-combinations-and-shortcuts/"><u>Windows Key Conundrum: Nine Strategies to Recover From Non-Functional Combinations and Shortcuts</u></a></li>
+</ul></div>
 

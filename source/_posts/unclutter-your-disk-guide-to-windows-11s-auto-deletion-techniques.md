@@ -1,7 +1,7 @@
 ---
 title: "Unclutter Your Disk: Guide to Windows 11'S Auto-Deletion Techniques"
-date: 2024-10-20T23:00:07.232Z
-updated: 2024-10-27T00:16:46.133Z
+date: 2024-10-26T18:08:59.391Z
+updated: 2024-11-01T17:00:51.001Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,20 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your files will be removed as quickly as soon as you hit the above commands.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 5. In the **Name** box, enter a name for the task.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -123,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
@@ -139,23 +139,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-restored-full-screen-in-obs/"><u>[New] In 2024, Restored Full Screen in OBS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-ai-for-stunning-photo-creation/"><u>[New] Premier AI for Stunning Photo Creation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>2024 Approved Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bringing-clarity-to-unknown-direct-x-quirks-on-league-of-legends/"><u>Bringing Clarity to Unknown Direct X Quirks on League of Legends</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-shifting-your-powertoys-profile-to-another-pc/"><u>Efficiently Shifting Your PowerToys Profile to Another PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-resolving-rdp-errors-in-windows-11/"><u>Essential Tips for Resolving RDP Errors in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/"><u>How to Endure and Correct Win11's Fatal Bug</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-absurdity-in-action-best-out-of-the-box-tiktok-games/"><u>In 2024, Absurdity in Action Best Out-of-the-Box TikTok Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-transition-website-to-desktop-compatibility/"><u>Seamless Transition: Website to Desktop Compatibility</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-unnoticed-alerts-try-out-these-proven-7-remedies/"><u>Struggling with iPhones Unnoticed Alerts? Try Out These Proven 7 Remedies.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-understanding-its-windows-purpose/"><u>What Is Pagefile.sys? Understanding Its Windows Purpose</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yourphoneexe-explained-is-it-safe-on-windows-7xp/"><u>YourPhone.exe Explained - Is It Safe on Windows 7/XP?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +146,27 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>[New] Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-right-mic-a-guide-for-multifaceted-yt-channels-for-2024/"><u>[Updated] Finding the Right Mic A Guide for Multifaceted YT Channels for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-top-displayed-calculator-on-pcs/"><u>Ensuring Top-Displayed Calculator on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-edits-for-enhanced-user-control-in-win11/"><u>Essential Edits for Enhanced User Control in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-windows-auditory-service-auto-restart-feature/"><u>How to Enable Windows Auditory Service Auto-Restart Feature</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-m34-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy M34 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-upgrade-for-ancient-computers-running-windows-11-using-to-go-and-rufus/"><u>Instant Upgrade for Ancient Computers: Running Windows 11 Using To Go & Rufus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-content-collaboration-in-youtube-for-increased-engagement/"><u>Optimize Content Collaboration in YouTube for Increased Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-display-in-windows-11/"><u>Overcoming Missing Display in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-problem-solved-reconnect-and-restore-your-sound/"><u>Realtek HD Audio Problem Solved: Reconnect and Restore Your Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regular-maintenance-rebuilding-win-icon-cache/"><u>Regular Maintenance: Rebuilding Win Icon Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrieve-your-wingman-copilot-in-ws11s-struggle/"><u>Retrieve Your Wingman (Copilot) In WS11's Struggle</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mlining-the-process-of-finding-your-own-musical-compilation-on-youtube-for-2024/"><u>Streamlining the Process of Finding Your Own Musical Compilation on Youtube for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-bargain-in-big-screens-an-in-depth-review-of-the-tcl-50s425-the-2019s-value-packed-4k-roku-tv/"><u>The Best Bargain in Big Screens - An In-Depth Review of the TCL 50S425, the 2019'S Value-Packed 4K Roku TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-captcha-on-steam-for-successful-logins/"><u>Unblocking CAPTCHA on Steam for Successful Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-displays-potential-with-these-simple-steps/"><u>Unlock Your Display's Potential with These Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-high-fidelity-audio-dolby-atmos-integration-steps/"><u>Unlocking High-Fidelity Audio: Dolby Atmos Integration Steps</u></a></li>
+</ul></div>
+

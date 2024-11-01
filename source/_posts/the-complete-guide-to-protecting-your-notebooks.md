@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Protecting Your Notebooks
-date: 2024-09-11T01:20:57.582Z
-updated: 2024-09-12T01:20:57.582Z
+date: 2024-10-25T16:34:43.272Z
+updated: 2024-11-01T18:21:10.207Z
 tags:
   - windows10
   - windows11
@@ -20,33 +20,10 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
 
@@ -65,35 +42,14 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 7. Scroll down and click **Sync now**.  
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Manually Back Up and Restore Your Sticky Notes
 
@@ -106,35 +62,28 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 ![opening tne Local State folder in Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/opening-local-state-folder-in-windows-run.jpg)
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
 
@@ -146,37 +95,18 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Never Lose Your Sticky Notes Again
 
  Losing your sticky notes means you could lose potentially important information. So it makes sense to always have a copy stored somewhere in case you need to restore them. We recommend using your Microsoft account to back up the notes, considering it's convenient to both sync and restore them later on, but it's also a good idea to know that there's a manual option available.
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +115,21 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultra-hd-monitors-with-superior-video-capture-capabilities/"><u>[New] 2024 Approved Ultra HD Monitors with Superior Video Capture Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-evaluating-ffmpegs-retention-of-sound-formats/"><u>[New] Evaluating FFmpeg's Retention of Sound Formats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-30-hashtags-propel-video-views-in-gameplay/"><u>[Updated] Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultra-clear-gaming-best-21-hdmi-compatible-monitors-ps5-for-2024/"><u>[Updated] Ultra Clear Gaming Best 2.1 HDMI Compatible Monitors [PS5] for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-tiny-tycoons-trail-to-treasure-ryan-kaji-and-youtube-earnings/"><u>2024 Approved Tiny Tycoon’s Trail to Treasure Ryan Kaji and YouTube Earnings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-hotkey-hits-unlock-maximum-auto-click-potential/"><u>5 Hotkey Hits: Unlock Maximum Auto Click Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-streamlined-guide-to-resolving-roblox-error-code-262/"><u>A Streamlined Guide to Resolving Roblox Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-directories-to-w11s-right-click-menu-steps/"><u>Adding Directories to W11's Right-Click Menu Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-system-mastering-windows-11-efficiency/"><u>Boost Your System: Mastering Windows 11 Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-mystery-of-infinite-c-drive-usage/"><u>Combatting the Mystery of Infinite C: Drive Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero5-black-evolution-from-hero4-silver/"><u>GoPro Hero5 Black Evolution From Hero4 Silver</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-directory-for-guitar-enthusiasts-shareable-photos-and-music-downloads-for-2024/"><u>New The Ultimate Directory for Guitar Enthusiasts Shareable Photos & Music Downloads for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-capturing-perfect-vertical-videos-with-your-desktop/"><u>Ultimate Guide: Capturing Perfect Vertical Videos with Your Desktop</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Spotify Connectivity Hiccup
-date: 2024-10-21T16:07:47.865Z
-updated: 2024-10-26T23:05:08.761Z
+date: 2024-10-26T19:40:23.126Z
+updated: 2024-11-01T19:34:54.229Z
 tags:
   - windows10
   - windows11
@@ -42,20 +42,22 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 3. Select**Settings** to view Spotify’s options.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-settings-option.jpg)
 4. Click the**Proxy type** drop-down menu to select**HTTP** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The HTTP option in Spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/http-option.jpg)
 5. Then select**Restart App** to apply.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change DNS Server Settings
@@ -65,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -79,14 +88,28 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 6. Then right-click the**EnableActiveProbing** DWORD and select**Modify** .  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
@@ -104,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![The turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-firewall-s-allow-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
@@ -115,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Spotify
 
@@ -137,23 +153,9 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Spotify Music Online Again
 
@@ -174,24 +176,22 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[New] 2024 Approved Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-triple-trouble-how-to-handle-three-tubes-of-content-at-once/"><u>[New] 2024 Approved Triple Trouble How to Handle Three Tubes of Content at Once</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-brief-path-to-past-posts-reinstating-reddit-removals-quickly/"><u>[New] Brief Path to Past Posts Reinstating Reddit Removals Quickly</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-30-unique-pfps-for-a-stellar-tiktok-presence/"><u>[New] In 2024, Top 30 Unique PFPs for a Stellar TikTok Presence</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>[New] In 2024, Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[Updated] 2024 Approved The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-ai-like-never-before-dive-into-openais-freshly-launched-gpt-custom-store-today/"><u>Experience AI Like Never Before - Dive Into OpenAI's Freshly Launched GPT Custom Store Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionary-mobile-mac-data-cleanse-by-stellar-eraser-superior-standard-edition/"><u>Revolutionary Mobile Mac Data Cleanse by Stellar Eraser - Superior Standard Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-budget-budgets-the-best-white-boards-of-2023/"><u>Top Budget Budgets: The Best White Boards of 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-15-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-use-whiteboard-in-zoom-meeting/"><u>[New] How to Use Whiteboard in Zoom Meeting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-innovative-strategies-for-recording-in-audacity/"><u>[New] Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-basics-for-macwindows-computers-explained/"><u>[New] TikTok Basics for Mac/Windows Computers Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-commanders-showdown-the-pinnacle-total-war-clashes/"><u>[Updated] Elite Commanders' Showdown The Pinnacle Total War Clashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>2024 Approved Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-and-gpt-collide-mastering-voiceactivation/"><u>Android & GPT Collide: Mastering VoiceActivation</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-f23-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo F23 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-perform-common-windows-actions-with-shortcuts/"><u>How to Perform Common Windows Actions With Shortcuts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-pixizs-pathway-from-picture-taking-to-storytelling-through-videos/"><u>In 2024, Pixiz's Pathway From Picture Taking to Storytelling Through Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lossless-conversion-and-guide/"><u>Lossless, Conversion, and Guide.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-your-pcs-overwatch-2-lossed-graphic-error/"><u>Resolving Your PC’s Overwatch 2 Lossed Graphic Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-win-10-and-11-networks-with-telnet-easily/"><u>Tailoring Win 10 & 11 Networks with Telnet Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-windows-user-manual-for-speech-to-text-conversion/"><u>The Complete Window's User Manual for Speech-to-Text Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-maximize-laptop-lifespan-power-management-basics/"><u>Tips: Maximize Laptop Lifespan - Power Management Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-system-accessibility-context-menu-enhancement-in-win1011/"><u>Upgrade System Accessibility: Context Menu Enhancement in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-active-windows-sound-services/"><u>Winning Back Active Windows Sound Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-lossed-rendering-support-in-overwatch-2/"><u>Winning Back Lossed Rendering Support in Overwatch 2</u></a></li>
 </ul></div>
 

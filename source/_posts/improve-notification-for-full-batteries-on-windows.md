@@ -1,7 +1,7 @@
 ---
 title: Improve Notification for Full Batteries on Windows
-date: 2024-09-11T01:20:43.747Z
-updated: 2024-09-12T01:20:43.747Z
+date: 2024-10-31T17:58:40.168Z
+updated: 2024-11-01T16:55:57.377Z
 tags:
   - windows10
   - windows11
@@ -19,26 +19,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  Laptop batteries degrade when kept charged at 100 percent. The more you leave a laptop plugged in, the more its battery will deteriorate over time. So, some users no doubt try to preserve their laptops’ battery lifespans by leaving them unplugged as much as possible.
 
  Windows doesn’t incorporate a high-battery notifier (alert) for informing you when a plugged-in laptop is fully charged or close to it. Such a feature would be useful for users who prefer to leave their laptops unplugged when they can. This is how you can add a full battery charge alert to Windows 11/10 with three apps.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Add a Full Battery Charge Alert With Battery Notification
 
@@ -65,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![The Battery Notification taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-battery-notification-taskbar-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Full Battery Charge Alert With Battery Notifier
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
@@ -78,24 +65,25 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![The Battery Notifier system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/battery-notifier-taskbar-icon.jpg)
 7. Make sure the**Full Battery** notification checkbox is set to**On** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
 
 ![The Settings tab in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-setting-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
 
@@ -104,40 +92,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
 ![The Light theme option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-white-theme.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Add a Full Battery Charge Alert Full Battery & Theft Alarm
 
@@ -151,75 +105,14 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![The Charge Alarm option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/charge-alarm-setting.jpg)
 6. Click the**Settings** (cog) button at the bottom left of the app.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can change the charge percentage for the high alert by dragging the bar on the**Battery level to notify** bar. Below that there’s also a**Low battery level to notify** bar you can configure.
 
  To change the sound for the notifier, click the**Reminder Ringtone** drop-down menu; select an alternative alarm or call sound there. Click**Play** to see and hear a test notification with the chosen sound.
 
 ![A test notification for Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/test-notification.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Enable Notifications for the Battery Apps
 
@@ -231,21 +124,28 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
 4. Select the**Allow notifications to play sounds** option.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Click the notification toggle switches on for the battery apps in this guide.  
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Listen Out for Your Full Battery Charge Notifiers in Windows
 
@@ -257,8 +157,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +164,20 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-social-media-strategy-optimizing-your-facebook-story/"><u>[New] Social Media Strategy Optimizing Your Facebook Story</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-youtube-potential-expert-tips-on-writing-video-outlines/"><u>[New] Unlock Your YouTube Potential Expert Tips on Writing Video Outlines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-render-photos-add-inward-radiant-spread-in-photoshop/"><u>2024 Approved Render Photos Add Inward Radiant Spread in Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-enhance-and-immerse-in-atmos-on-windows/"><u>A Complete Guide to Enhance and Immerse in Atmos on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-rejuvenating-steam-on-windows-11/"><u>A Practical Approach to Rejuvenating Steam on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminals-user-privilege-settings/"><u>Adjusting Windows Terminal's User Privilege Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-slow-response-times-after-adding-an-additional-screen/"><u>Avoid Slow Response Times After Adding an Additional Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-errors-essential-tips-for-first-time-windows-11-users/"><u>Avoiding Common Errors: Essential Tips for First-Time Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/behind-closed-curtains-of-windows-how-to-open-hidden-self-assessment-tool/"><u>Behind Closed Curtains of Windows: How to Open Hidden Self-Assessment Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-mobile-photography-note-taking-tools/"><u>Best Mobile Photography Note-Taking Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/high-flying-rivals-dji-drone-vs-gopro/"><u>High-Flying Rivals DJI Drone vs GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-auto-tracking-mount-for-cameras-and-phones/"><u>In 2024, Best Auto Tracking Mount for Cameras and Phones</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620231867-speedy-conversion-guide-turning-your-3gp-videos-into-avi-for-no-cost-and-fast-results/"><u>Speedy Conversion Guide: Turning Your 3GP Videos Into AVI for No Cost and Fast Results</u></a></li>
+</ul></div>
 

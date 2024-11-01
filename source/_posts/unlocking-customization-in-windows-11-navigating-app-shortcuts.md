@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Customization in Windows 11: Navigating App Shortcuts"
-date: 2024-10-24T23:27:05.890Z
-updated: 2024-10-26T22:58:17.045Z
+date: 2024-10-25T17:42:15.344Z
+updated: 2024-11-01T18:13:34.655Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,16 @@ Here is how you can do that:
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Use the Settings App
@@ -69,6 +75,13 @@ Follow these steps to proceed:
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -80,21 +93,14 @@ To proceed, follow these steps:
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
@@ -106,6 +112,13 @@ To proceed, follow these steps:
 * The app is not compatible with your system.
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update Windows 11
 
@@ -120,13 +133,26 @@ Here is how you can do that:
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once this is done, follow one of the steps above to change the default app.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reset the Targeted App
 
@@ -144,13 +170,6 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -166,13 +185,6 @@ Here is how you can proceed:
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -195,24 +207,19 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beautys-brightest-stars-youtube-personalities-to-follow/"><u>[New] In 2024, Beauty's Brightest Stars YouTube Personalities to Follow</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-discovering-the-best-in-webcam-videography-tech/"><u>[Updated] Discovering the Best in WebCam Videography Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-win-error-31-restoring-seamless-internet-access/"><u>Clearing Up WIN Error 31: Restoring Seamless Internet Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-error-31-steps-for-fixing-network-connectivity-issues/"><u>Decoding Windows Error 31: Steps for Fixing Network Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-engaging-photoshop-on-modern-windows-machines/"><u>Effortlessly Engaging Photoshop on Modern Windows Machines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-up-your-iphones-storage-by-easily-deleting-heic-image-files-what-you-need-to-know/"><u>Free Up Your iPhone's Storage by Easily Deleting HEIC Image Files - What You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-basic-to-exceptional-the-distinct-features-that-make-the-chatgpt-desktop-app-a-superior-choice/"><u>From Basic to Exceptional: The Distinct Features That Make the ChatGPT Desktop App a Superior Choice</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-and-fix-enshrouded-software-crashes-on-personal-computers/"><u>Prevent and Fix Enshrouded Software Crashes on Personal Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/recovery-of-missing-widgets-and-icons-on-windows-11/"><u>Recovery of Missing Widgets and Icons on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-0x80072f8f-0x20000-error-on-pcs/"><u>Resolving 0X80072f8f-0x20000 Error on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-order-7-methods-for-windows-users-disrupted-google-drive/"><u>Restore Order: 7 Methods for Windows Users, Disrupted Google Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-gaming-picking-the-perfect-install-drive/"><u>Streamlined Gaming: Picking the Perfect Install Drive</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-ranked-niche-streaming-platforms/"><u>Top-Ranked Niche Streaming Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-taming-vanguards-cpu-power-draw-in-windows/"><u>Unlock Peak Performance: Taming Vanguard’s CPU Power Draw in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-mysteries-inside-its-registry-files/"><u>Unraveling Windows 11'S Mysteries: Inside Its Registry Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-during-prime-day-strategies-for-a-superior-wi-fi-experience-at-home/"><u>Upgrade During Prime Day: Strategies for a Superior Wi-Fi Experience at Home</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/orrow-without-cost-images-from-leading-youtubers-archives-for-2024/"><u>[New] Borrow Without Cost Images From Leading YouTubers' Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-choice-microphones-for-youtube-creators/"><u>[New] Top Choice Microphones for YouTube Creators</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/birth-and-development-of-nederlands/"><u>Birth & Development of Nederlands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-security-in-free-apps-for-windows-os/"><u>Ensuring Security in Free Apps for Windows OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-artisans-path-to-creating-3d-luts/"><u>In 2024, The Artisan’s Path to Creating 3D LUTs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-perfect-print-driver-the-ultimate-guide-to-setting-up-the-brother-mfc-l2700dw-on-windows-systems/"><u>Installing the Perfect Print Driver: The Ultimate Guide to Setting up the Brother MFC-L2700DW on Windows Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/master-the-art-of-live-content-utilizing-wirecast-for-fb-for-2024/"><u>Master the Art of Live Content Utilizing Wirecast for FB for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-for-determining-your-devices-identification-through-windows/"><u>Proven Methods for Determining Your Devices’ Identification Through Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-possibilities-with-openais-latest-innovation-gpt-4-ai-model/"><u>Redefining Possibilities with OpenAI’s Latest Innovation: GPT-4 AI Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-windows-display-orientation-easily/"><u>Shift Windows Display Orientation Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-tasks-with-notetaking-techniques-for-w11w10/"><u>Simplify Your Tasks with Notetaking Techniques for W11/W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-share-issue-on-geforce-experience/"><u>Troubleshooting Share Issue on GeForce Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-and-its-disappearing-drive-letters-analysis-and-remedial-strategies/"><u>Windows and Its Disappearing Drive Letters: Analysis & Remedial Strategies</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ahm-khtoat-lhthf-gzaa-bya-bngah-oalaathor-aal-astrdad-amn-tknyat-albhth/"><u>أهم خطوات لحذف جزء بيئة بنجاح والعثور على استرداد آمن: تقنيات البحث</u></a></li>
 </ul></div>
 

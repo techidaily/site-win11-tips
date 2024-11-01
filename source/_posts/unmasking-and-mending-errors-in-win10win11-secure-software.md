@@ -1,7 +1,7 @@
 ---
 title: Unmasking & Mending Errors in Win10/Win11 Secure Software
-date: 2024-09-16T03:36:28.952Z
-updated: 2024-09-16T22:37:55.494Z
+date: 2024-10-28T17:27:28.281Z
+updated: 2024-11-01T19:11:07.114Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,19 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Modify the Windows Defender Registry Key
 
  This registry tweak for modifying a**DisableAntiSpyware** DWORD is one of the most widely confirmed fixes for the “Unexpected error” issue. So, maybe this could the “Unexpected error” solution you’re looking for as well. To apply this potential fix, edit the registry as follows:
@@ -68,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Run a Malwarebytes Scan
 
  The “Unexpected error” can sometimes be caused by malware targeting Windows Security. Yet, users can’t purge malware with Windows Security because of the error. So, try running a scan with the freeware Malwarebytes version. Some users have said utilizing that software helped them resolve the “Unexpected error” issue. This is how you can run a Malwarebytes scan:
@@ -89,21 +95,22 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10. Malwarebytes will then open automatically. Select**Get started** \>**Maybe later** within the Malwarebytes window.
 11. Click**Get started** again.
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
 
@@ -133,21 +133,21 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 ![The Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-defender-antivirus-policy-settings.jpg)
 4. Click**Not Configured** if that policy is set to**Enabled** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
 5. Select the policy’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
@@ -157,6 +157,13 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 [Applying a Windows reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) might resolve some deeper system issues causing the “Unexpected error” issue. However, it’s only advised to do so if none of the other potential solutions suggested here work.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
@@ -179,5 +186,24 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-dominion-vs-streamlabs-kingdom/"><u>[New] In 2024, OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creative-ae-templates-select-10/"><u>[Updated] Creative AE Templates Select 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfectly-uploading-srt-files-a-comprehensively-reviewed-methodology/"><u>[Updated] Perfectly Uploading SRT Files A Comprehensively Reviewed Methodology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-polarr-editor-explained-the-ultimate-visual-enhancement-pathway-for-2024/"><u>[Updated] Polarr Editor Explained The Ultimate Visual Enhancement Pathway for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-solutions-for-tackling-miracast-rejection-by-your-device-expert-advice/"><u>2024 Solutions for Tackling Miracast Rejection by Your Device: Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-20c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 20C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-gpu-load-effective-wm-tweaks-for-win11/"><u>Cutting Down GPU Load: Effective WM Tweaks for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-sfc-tool-for-windows-file-integrity/"><u>Initiating SFC Tool for Windows File Integrity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-windows-apps-for-the-switcher-from-mac-users-to-windows-warriors/"><u>Key Windows Apps for the Switcher: From Mac Users to Windows Warriors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintain-screen-integrity-against-unwanted-scrolls/"><u>Maintain Screen Integrity Against Unwanted Scrolls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sketching-simplicity-crafting-windows-11-desktop-designs/"><u>Sketching Simplicity: Crafting Windows 11 Desktop Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slashing-system-strain-taming-the-user-mode-service-of-vanguard-in-windows/"><u>Slashing System Strain: Taming the User-Mode Service of Vanguard in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-boosting-image-resolution-on-phones-with-minimal-megapixel-cameras/"><u>Solutions for Boosting Image Resolution on Phones with Minimal Megapixel Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trouble-with-talking-solve-your-destiny-amid-voice-chat-glitches-easily/"><u>Trouble with Talking? Solve Your Destiny Amid Voice Chat Glitches Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-hidden-secrets-of-print-settings-in-win11-max-50-chars/"><u>Unlock the Hidden Secrets of Print Settings in Win11 (Max 50 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintaining-a-valid-functional-temp-folder/"><u>Windows 11: Maintaining a Valid, Functional Temp Folder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-net-windows-update-techniques/"><u>Zero-Net Windows Update Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Mechanics of Windows Screenshows
-date: 2024-10-19T22:02:12.827Z
-updated: 2024-10-26T16:06:27.126Z
+date: 2024-10-30T18:03:46.713Z
+updated: 2024-11-01T18:39:03.955Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Screen savers came to the rescue by displaying moving elements on the screen whenever the system was left idle for a specific duration. But it was all back in the day and now, [most of us don't even need screen savers](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) to save the day, due to the fast boot times and technological advancements in the display industry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Screen Saver on Windows 11
@@ -57,13 +57,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  To begin, open **Settings** by searching for it in the Start menu. Once it opens, switch to the **Personalization** tab from the left sidebar and select **Lock screen**.
 
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
 
@@ -76,10 +69,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize Screen Savers on Windows 11
@@ -94,16 +87,16 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![customize windows screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-windows-screen-saver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select Fliqlo from the dropdown menu and hit **Apply > Ok** to save the changes. Also, preview the screen saver to ensure it's working correctly.
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Have Screen Savers Changed?
 
@@ -114,6 +107,19 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  After the 90s, LCDs rendered screen savers obsolete, but computer users still found them exciting, even though they were of no practical use.
 
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bringing Back the Old Days With Windows Screen Savers
 
@@ -127,27 +133,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-streaming-sounds-into-your-social-story-arcs-for-2024/"><u>[New] Streaming Sounds Into Your Social Story Arcs for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-swiftrecorder-plus-soundtrack-guided-screen-recording/"><u>[New] SwiftRecorder Plus - Soundtrack Guided Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-comprehensive-explanation-of-changing-your-social-media-cover/"><u>[Updated] 2024 Approved A Comprehensive Explanation of Changing Your Social Media Cover</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-cinematic-clarity-hub-query-responses-for-2024/"><u>[Updated] Cinematic Clarity Hub Query Responses for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[Updated] In 2024, From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/complete-guide-to-disabling-the-windows-subsystem/"><u>Complete Guide to Disabling the Windows Subsystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/focusing-gpo-application-one-user-approach-for-windows-1111/"><u>Focusing GPO Application: One-User Approach for Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-diskusage-for-in-depth-drive-space-examination/"><u>Harnessing the Potential of DiskUsage for In-Depth Drive Space Examination</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-directx-setup-couldnt-download-the-file-error-on-windows/"><u>How to Fix the “DirectX Setup Couldn’t Download the File” Error on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207894356-pdf-printing-woes-master-the-art-of-quick-and-effective-solutions/"><u>PDF Printing Woes? Master the Art of Quick and Effective Solutions!</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-functionality-of-your-windows-headset-mic/"><u>Regaining Functionality of Your Windows Headset Mic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-shlwapidll-missing-error-step-by-step-solutions/"><u>Resolving the shlwapi.dll Missing Error: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-troubled-tracker-fixes-for-frozen-torrents/"><u>Tackling the Troubled Tracker: Fixes for Frozen Torrents</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-powershell-errors-with-script-enablement-fixes/"><u>Troubleshooting PowerShell Errors with Script Enablement Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-print-management-tool-and-how-do-you-access-it/"><u>What Is the Windows Print Management Tool, and How Do You Access It?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-10s-guide-to-effortlessly-merge-data/"><u>Win 10'S Guide to Effortlessly Merge Data</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +140,27 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-time-lapse-wizardry-harnessing-gopros-potential/"><u>[New] In 2024, Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-boosting-roi-in-fb-ads-through-animation-techniques/"><u>[Updated] Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-techniques-for-moving-snapshot-to-photo-library/"><u>[Updated] In 2024, Efficient Techniques for Moving SnapShot to Photo Library</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-initiating-your-adventure-in-av1/"><u>[Updated] Initiating Your Adventure in AV1</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unifying-visual-experience-in-iphone-recording/"><u>[Updated] Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-expert-strategies-for-window-10-enhancement/"><u>Boost Your PC's Performance: Expert Strategies for Window 10 Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-process-of-eliminating-security-record-in-windows/"><u>Decoding the Process of Eliminating Security Record in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-virtualbox-v70-installation-for-windows-11-users/"><u>Essential Guide: VirtualBox v7.0 Installation for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dodge-repeated-network-logon-error-messages-on-windows/"><u>How to Dodge Repeated Network Logon Error Messages on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-editions-filmmaker-writers-on-windows/"><u>In 2024, Innovative Editions Filmmaker' Writers on WIndows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-lava-blaze-2-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shadows-add-stealthy-menu-in-win11/"><u>Navigating the Shadows: Add Stealthy Menu in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-freeze-crash-and-blackout/"><u>Overcoming Chrome Freeze, Crash, and Blackout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdles-of-windows-11s-search-functionality/"><u>Overcoming the Hurdles of Windows 11'S Search Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-performance-the-most-unnecessary-windows-applications/"><u>Sharpen Performance: The Most Unnecessary Windows Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-bypassing-drm-on-first-16-chapters-of-your-ebook/"><u>Step-by-Step Guide to Bypassing DRM on First 16 Chapters of Your eBook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-imminent-windows-licensing-warning/"><u>Troubleshooting Imminent Windows Licensing Warning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-key-beware-the-subtle-dangers-of-discounts/"><u>Windows Key Beware: The Subtle Dangers of Discounts</u></a></li>
+</ul></div>
+

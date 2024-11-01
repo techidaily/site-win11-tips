@@ -1,7 +1,7 @@
 ---
 title: Swift Fixes for WWE 2K23 Glitches on Windows 11 PCs
-date: 2024-10-20T16:13:53.331Z
-updated: 2024-10-26T17:42:53.421Z
+date: 2024-10-28T18:23:18.530Z
+updated: 2024-11-01T16:22:31.676Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
 Knowing some of the main causes, let's dive into the solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Confirm That WWE 2K23 Is Compatible With Your Computer
 
  The first thing you should check is your hardware. Does it have enough power to run WWE 2K23? There are the minimum requirements you need to run WWE 2K23 on your computer:
@@ -47,6 +54,13 @@ Knowing some of the main causes, let's dive into the solutions.
 * 80GB of free space
 
  None of the solutions below will work if your computer fails to fulfill any of the above requirements. You'll have to upgrade your computer to fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Edit WWE 2K23's Graphical Settings
 
@@ -79,6 +93,13 @@ Knowing some of the main causes, let's dive into the solutions.
 2. In the**Memory** column, look for applications consuming the maximum system memory, right-click on them, and choose**End** **Task** .  
 ![End Task option in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By ending unnecessary apps, you free up some system memory to help the game run.
 
 ## 4\. Force WWE 2K23 to Use Dedicated Graphics
@@ -86,13 +107,6 @@ Knowing some of the main causes, let's dive into the solutions.
  Many computers have both an integrated and a dedicated GPU. But sometimes, the game mistakenly uses the onboard graphics (which doesn't have enough power to run the game properly) instead of the dedicated card. This may cause low frames or a complete game crash.
 
  The solution is to manually tell your computer to[use the dedicated graphics card](https://www.makeuseof.com/how-to-set-default-gpu/) [for your game](http://www.makeuseof.com/how-to-set-default-gpu/) . Once you're on a dedicated graphics card, check if the problem is fixed. If not, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Everything
 
@@ -114,13 +128,6 @@ Knowing some of the main causes, let's dive into the solutions.
 
  Along with enabling this mode, you can do many other things to[improve your laptop's gaming performance](https://www.makeuseof.com/tag/5-ways-improve-laptop-gaming-performance/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Temporarily Disable Windows Security
 
  Your security app ensures your system remains free from viruses and other malware attacks. It does so by blocking malicious applications from running on your computer. But sometimes, it can block trusted apps and games like WWE 2K23 and cause them to crash.
@@ -129,14 +136,20 @@ Knowing some of the main causes, let's dive into the solutions.
 
 ![Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/real-time-protection.jpg)
 
- To disable a third-party security program, right-click on its icon in the system tray and choose**Disable** from the context menu. However, if the security program icon is not in the system tray, check out its support pages for the disabling process.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To disable a third-party security program, right-click on its icon in the system tray and choose**Disable** from the context menu. However, if the security program icon is not in the system tray, check out its support pages for the disabling process.
 
 ## 8\. Remove Corruption From the Game's Files
 
@@ -146,13 +159,6 @@ Knowing some of the main causes, let's dive into the solutions.
 
  After completing the process, restart the Steam client and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall WWE 2K23
 
  If verifying the game files wasn't helpful and you're still struggling with the crashing issue, then you are left with no option other than reinstalling the game.
@@ -160,10 +166,16 @@ Knowing some of the main causes, let's dive into the solutions.
  To reinstall WWE 2K23, launch the Steam client and go to the**Library** section. Then, right-click on WWE 2K23, hover the cursor to**Manage,** and choose**Uninstall.** After the uninstallation process is complete, reinstall the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You've Fixed WWE 2K23 Crashing
@@ -185,16 +197,19 @@ Knowing some of the main causes, let's dive into the solutions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-11-secrets-to-increasing-your-facebook-video-reach-for-2024/"><u>[New] 11 Secrets to Increasing Your Facebook Video Reach for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-in-place-fixing-recurring-crashes-on-the-go-with-wot-blitz/"><u>[SOLUTION IN PLACE] Fixing Recurring Crashes on the Go with WOT Blitz</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tailoring-the-last-push-how-to-edit-a-vimeo-video/"><u>[Updated] Tailoring the Last Push How to Edit a Vimeo Video</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-players-perspective-why-portable-consoles-win-for-me-in-gaming/"><u>A Player's Perspective: Why Portable Consoles Win for Me in Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-annoyance-of-a-never-ending-update-loop/"><u>Avoid the Annoyance of a Never-Ending Update Loop</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-tutorial-to-turn-gifs-to-stickers-discordwhatsapptelegram-for-2024/"><u>Complete Tutorial to Turn GIFs to Stickers [Discord/WhatsApp/Telegram] for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hide-post-display-adjustment-in-windows-power-configuration/"><u>Hide Post-Display Adjustment in Windows Power Configuration</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-first-timers-roadmap-earning-money-from-periscope-chats/"><u>In 2024, First-Timer's Roadmap Earning Money From Periscope Chats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-malware-discovery-without-software-assistance/"><u>Mastering Malware Discovery without Software Assistance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-copypaste-anomalies/"><u>Overcoming Windows 11 Copy/Paste Anomalies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resetting-graphics-drivers-on-latest-oses/"><u>Quick Guide to Resetting Graphics Drivers on Latest OSes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premium-video-capture-without-extras/"><u>[New] 2024 Approved Premium Video Capture Without Extras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-establishing-a-powerful-gaming-channel-for-2024/"><u>[New] Charting the Course Establishing a Powerful Gaming Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-spy-on-fb-chronicles-unseen/"><u>[New] In 2024, Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-scraps-to-spectacle-a-collage-manual/"><u>[Updated] From Scraps to Spectacle A Collage Manual</u></a></li>
+<li><a href="https://extra-information.techidaily.com/design-your-brand-free-logo-templates-and-personalization/"><u>Design Your Brand Free Logo Templates & Personalization</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-11-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme 11 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-marketplace-error-0x80073cf3/"><u>Mastering Fixes for Windows Marketplace (Error 0X80073CF3)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimal-handbrake-configuration-tips-for-enhanced-quality-on-dvds-and-blu-rays/"><u>Optimal HandBrake Configuration Tips for Enhanced Quality on DVDs and Blu-Rays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-package-management-proficiency-wingetui-for-windows-users/"><u>Unlock Package Management Proficiency: WingetUI for Windows Users</u></a></li>
 </ul></div>
 

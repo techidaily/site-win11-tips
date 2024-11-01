@@ -1,7 +1,7 @@
 ---
 title: Techniques for Limiting User Access in Windows Folders
-date: 2024-09-15T22:02:27.634Z
-updated: 2024-09-17T07:37:10.484Z
+date: 2024-10-28T18:35:15.077Z
+updated: 2024-11-01T17:51:48.446Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn on Controlled Folder Access With PowerShell
 
  Windows PowerShell gives you an alternative method to enable and disable controlled folder access by executing commands. You can turn on controlled folder access with PowerShell as follows:
@@ -51,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 `Set-MpPreference -EnableControlledFolderAccess Enabled`  
 ![The enable controlled folder access command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-controlled-folder-access-command.jpg)
 5. You can disable controlled folder access by executing this command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
 
@@ -132,19 +152,19 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
 3. Click**Save** to add the**Turn on Control folder access** registry file to the desktop.
 4. Close the Notepad editor, and double-click the**Turn on Control folder access.reg** file on the desktop.  
 ![The registry script confirmation dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-script-confirmation-dialog.jpg)
 5. Select**Yes** to confirm you trust the script.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
 
@@ -159,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -178,16 +191,24 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Open** to add the selected game or software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
 
@@ -206,5 +227,20 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-free-no-invasive-android-video-recorders/"><u>[New] In 2024, Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-and-easy-image-trimming-techniques-for-websites/"><u>[New] Quick & Easy Image Trimming Techniques for Websites</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-ranked-switch-console-simulations-online/"><u>[New] Top-Ranked Switch Console Simulations Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screenmasterrevolution-next-gen-recording-software/"><u>2024 Approved ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ning-custom-youtube-music-sequences/"><u>Designing Custom YouTube Music Sequences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enjoy-gameplay-without-extra-cables-setup-ps3-controller-on-windows/"><u>Enjoy Gameplay Without Extra Cables: Setup PS3 Controller on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-unsigned-updates-issue/"><u>Techniques to Overcome Unsigned Updates Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shadowy-side-of-microsoft-artistry/"><u>The Shadowy Side of Microsoft Artistry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-altering-video-speed-in-stories/"><u>The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-fixes-for-mysterious-disk-space-loss-in-windows/"><u>Top Fixes for Mysterious Disk Space Loss in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-gesture-failures-in-windows/"><u>Understanding and Correcting Gesture Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-scrub-windows-safety-log-files-easy-methods/"><u>Ways to Scrub Windows' Safety Log Files: Easy Methods</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola G54 5G | Dr.fone</u></a></li>
+</ul></div>
 

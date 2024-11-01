@@ -1,7 +1,7 @@
 ---
 title: Tips for Rectifying Non-Operational PC Keys
-date: 2024-09-12T22:40:01.782Z
-updated: 2024-09-17T00:35:15.546Z
+date: 2024-10-28T18:57:25.081Z
+updated: 2024-11-01T16:31:30.059Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
 After logging into your computer, start applying the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure the Keys Aren’t Damaged
 
  It's almost impossible for several keys on your keyboard to malfunction simultaneously. However, if you have dropped your keyboard recently, hit it with something, or spilled a liquid on it, some keys may have been damaged.
@@ -43,6 +50,13 @@ After logging into your computer, start applying the following fixes.
  To determine if the keys are functioning correctly, go to the[keyboard test website](https://keyboard-test.space/) , press the keys that are not responding, and check if they register successfully during the test. If the keys don't register, then they may have become defective. So, have your external keyboard or laptop inspected by a technician.
 
 ![Testing Keyboard Keys on the Keyboard Test Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/testing-keyboard-keys-on-the-keyboard-test-website.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, if the keys register successfully during the test, either software interference or Windows settings are preventing the keys from working correctly. In that case, start applying the remaining fixes.
 
@@ -69,13 +83,6 @@ If the above fixes do not work, start applying the remaining fixes.
 
  However, if some of the keys in one or more of these sets are no longer working (randomly), keep applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Keyboard Troubleshooter
 
  Microsoft Windows includes a keyboard troubleshooter designed to diagnose and fix keyboard problems. In most cases, running this troubleshooter fixes most keyboard problems without the need for further action. Follow these steps to run the keyboard troubleshooter:
@@ -88,19 +95,6 @@ If the above fixes do not work, start applying the remaining fixes.
 
  Then, follow the on-screen instructions if you are prompted to follow them. Most likely, the troubleshooter will make the changes automatically. If not, the troubleshooter will suggest you a few changes.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update or Reinstall the Keyboard Drivers
 
  Outdated or corrupt drivers can cause unforeseen problems with computer peripherals. So, if you have not updated your keyboard drivers in a long time, this is a good time to do so. Follow these steps to update the keyboard drivers:
@@ -111,6 +105,13 @@ If the above fixes do not work, start applying the remaining fixes.
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
  If updating the keyboard driver does not make any difference, reinstall it. To uninstall a keyboard driver, right-click it and select**Uninstall device** . Then, click**OK** in the confirmation popup. After that, restart your device, and Windows will hopefully reinstall the drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Change the Keyboard Settings
 
@@ -123,25 +124,25 @@ If the above fixes do not work, start applying the remaining fixes.
 4. Disable the toggles next to**Sticky keys** ,**Filter keys** , and**Toggle keys** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Disable the toggle next to**Underline access keys** .  
 ![Disable Certain Keyboard Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-disable-certain-keyboard-settings-in-the-windows-settings-app.jpg)
 6. Then, go to**Typing** under**Related settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Go to Typing Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-typing-settings-under-related-settings-in-windows-settings-app.jpg)
 7. Turn off the toggles next to **Show text suggestions when typing on the physical keyboard** and**Multilingual text suggestions** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn Off the Toggles Next to Show Text Suggestions When Typing on the Physical Keyboard and Multilingual Text Suggestions in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-turn-off-the-toggles-next-to-show-text-suggestions-when-typing-on-the-physical-keyboard-and-multilingual-text-suggestions-in-windows-settings-app.jpg)
 8. After that, click on**Advanced keyboard settings** and make sure the correct language option is selected.
@@ -163,5 +164,26 @@ If the above fixes do not work, start applying the remaining fixes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-eco-screen-shots-download-free-guides-for-cinematic-creation/"><u>[New] 2024 Approved Eco-Screen Shots Download Free Guides for Cinematic Creation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-captioning-videos-efficiently-on-vimeo-platform/"><u>[Updated] 2024 Approved Captioning Videos Efficiently on Vimeo Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-list-all-rounder-camcorders/"><u>[Updated] In 2024, Ultimate List All-Rounder Camcorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-guide-audio-free-video-recording-methods/"><u>2024 Approved Guide Audio-Free Video Recording Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/altitude-adeptness-the-shift-from-standard-to-pro-pilots/"><u>Altitude Adeptness: The Shift From Standard to Pro Pilots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-center-conquest-windows-high-rank-entry/"><u>Command Center Conquest: Windows High-Rank Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disconnect-on-a-windows-pc/"><u>Fixing Steam Disconnect on a Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unavailable-roblox-on-windows-due-to-account-configs/"><u>Fixing Unavailable Roblox on Windows Due to Account Configs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-smart-8-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Smart 8 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-windows-11-sketch-software-ranked-and-reviewed/"><u>Masterful Windows 11 Sketch Software Ranked and Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-disk-space-with-windows-compression/"><u>Optimize Disk Space with Windows Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-displaying-windows-1011-search-outcomes/"><u>Resolving Non-Displaying Windows 10/11 Search Outcomes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/social-media-momentum-linking-igtv-and-fb/"><u>Social Media Momentum Linking IGTV and FB</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-batman-arkham-knights-sudden-system-failures-and-serious-glitches/"><u>Solving Batman: Arkham Knight's Sudden System Failures & Serious Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stop-mingling-siri-and-chatgpt-differentiate-them-now/"><u>Stop Mingling Siri & ChatGPT: Differentiate Them Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-handbook-for-windows-startup-tweaks/"><u>The Ultimate Handbook for Windows Startup Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-to-banish-windows-pink-screens/"><u>Unveiling Secrets to Banish Windows Pink Screens</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/x-audiomaster-personal-computing/"><u>X-AudioMaster Personal Computing</u></a></li>
+</ul></div>
 

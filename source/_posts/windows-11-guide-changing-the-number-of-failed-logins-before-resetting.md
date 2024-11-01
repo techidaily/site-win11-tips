@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Guide: Changing the Number of Failed Logins Before Resetting"
-date: 2024-09-13T02:50:10.027Z
-updated: 2024-09-16T22:28:34.584Z
+date: 2024-10-31T18:23:46.560Z
+updated: 2024-11-01T18:59:14.838Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
 
  If the system you’re working with isn’t running the Pro, Enterprise, or Education edition of Windows 10 or 11, you’ll have to change how long before the account lockout counter is reset via the command prompt.
@@ -50,14 +57,35 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 ![Using the command prompt to list Windows account policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts-02.jpg)
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
 `net accounts /lockoutwindow:60`  
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
@@ -73,12 +101,20 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-essential-tactics-for-viral-fb-video-marketing-for-2024/"><u>[New] Essential Tactics for Viral FB Video Marketing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ajeys-youtube-profit-milestones/"><u>[New] In 2024, Ajey's YouTube Profit Milestones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-hidden-accessing-youtube-video-comments/"><u>[New] Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quick-start-utilizing-zoom-in-windows-10-environment-for-2024/"><u>[Updated] Quick Start Utilizing Zoom in Windows 10 Environment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-to-enhancing-colors-in-photoshop/"><u>2024 Approved Quick Guide to Enhancing Colors in Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-pcs-audio-anomaly-windows-error-xc00d36b4/"><u>Conquering PC's Audio Anomaly: Windows Error XC00D36B4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/identifying-and-resolving-unidentified-sound-devices-on-windows-10-systems/"><u>Identifying and Resolving Unidentified Sound Devices on Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-studies-top-8-tips-on-a-windows-computer/"><u>Optimize Your Studies: Top 8 Tips on a Windows Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-effective-methods-to-configure-dns-in-win11/"><u>Quick and Effective Methods to Configure DNS in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-faulty-display-on-windows-11-with-new-driver/"><u>Revive Faulty Display on Windows 11 with New Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-error-e8024002e-restore-window-updates/"><u>Stop Error E:8024002E, Restore Window Updates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-6-minecraft-survival-house-ideas-you-can-try/"><u>Top 6 Minecraft Survival House Ideas You Can Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-full-potential-of-your-window-11-search-function/"><u>Unleash the Full Potential of Your Window 11 Search Function</u></a></li>
+</ul></div>
 

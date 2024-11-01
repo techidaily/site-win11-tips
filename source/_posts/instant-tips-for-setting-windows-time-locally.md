@@ -1,7 +1,7 @@
 ---
 title: Instant Tips for Setting Windows Time Locally
-date: 2024-09-13T00:16:44.864Z
-updated: 2024-09-16T17:09:25.471Z
+date: 2024-10-31T19:12:33.724Z
+updated: 2024-11-01T19:16:39.848Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Now restart your computer and check if Windows can set the time zone automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set the Windows Time Service to Automatic
 
  If the location services are already enabled, but Windows still can't detect the time zone, the problem may be related to the Windows Time Service. This background service keeps your system clock synchronized with time servers.
@@ -59,9 +66,23 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Apply** and **OK** to save the changes.
 
  Once you've done this, restart your PC and check the time zone settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -79,19 +100,20 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 5. In the right pane, double-click the **Start** (DWORD) value.  
 ![Modify Registry to change the Set time zone automatically setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-the-set-time-zone-automatically-setting.jpg)
 6. When the Edit DWORD Value window pops up, set the Value data to **3** and click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. After doing this, you must change the location setting. To do this, navigate to the following key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
 8. Move to the right pane and double-click the **Value** (REG\_SZ) value.  
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
@@ -107,23 +129,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **Apply** and **OK** to save the changes.
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Time Service
 
@@ -159,5 +167,22 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-browsing-navigating-safaris-safe-area-mode/"><u>[New] Elevate Your Browsing Navigating Safari's Safe Area Mode</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209516795-9780008292430-365-days-wild/"><u>365 Days Wild | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/blur-the-outside-sharpen-inside-bokeh-balance-guide-for-2024/"><u>Blur the Outside, Sharpen Inside Bokeh Balance Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-excellent-connectivity-with-the-simplistic-design-of-clearstreams-eclipse-antenna-a-comprehensive-review/"><u>Experience Excellent Connectivity with the Simplistic Design of ClearStream's Eclipse Antenna - A Comprehensive Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quieting-audio-tracks-for-serenity/"><u>In 2024, Quieting Audio Tracks for Serenity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/playful-media-extractor-evaluation/"><u>Playful Media Extractor Evaluation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-optimal-function-modernizing-old-windows-tech/"><u>Restoring Optimal Function: Modernizing Old Windows Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

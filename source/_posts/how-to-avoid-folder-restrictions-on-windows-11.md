@@ -1,7 +1,7 @@
 ---
 title: How to Avoid Folder Restrictions on Windows 11
-date: 2024-10-24T20:44:06.443Z
-updated: 2024-10-26T22:28:25.697Z
+date: 2024-10-27T18:59:29.030Z
+updated: 2024-11-01T19:29:53.241Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  As you now understand why folders in your computer are reverting to read-only mode, let's look at some ways to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn Off Folder Protection
 
  Do you use folder lock software to protect your data, but some of those protected folders become read-only at random? If so, the restrictions are likely imposed by the folder lock software. Thus, by turning off the security limitations for those folders, you might be able to fix the problem right away.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 4. Click **Apply** and hit **OK**.  
 ![Unchecking the Box for Read-Only Option in the General Tab of Properties Window of the File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Unchecking-the-Box-for-Read-Only-Option-in-the-General-Tab-of-Properties-Window-of-the-File-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If removing the attribute this way does not solve the problem, or if the problem involves multiple files, keep applying the remaining fixes.
 
  If you have encountered the issue on a work computer, you may not be able to apply a few fixes mentioned below. Thus, if you encounter an error saying you don't have permission to make any changes, it's best to let your IT admin handle it.
@@ -62,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
@@ -78,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 4. Click the **Edit** button.  
 ![Clicking on Edit Button under Security Tab in Properties Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Clicking-on-Edit-Button-under-Security-Tab-in-Properties-Window-on-Windows.jpg)
 5. Choose the user you want to grant access to.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. In the **Permissions for Users** window, check the box next to **Full control** under **Allow** column.  
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
@@ -105,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 4. Turn off the toggle under **Controlled folder access**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
@@ -116,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
@@ -134,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 5. Click **Restore defaults** button.
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -175,16 +175,16 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Go to Previous Restore Point
@@ -196,10 +196,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
  If you're unfamiliar with the process, check out our article that explains [how to perform a system restore in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/#how-to-use-restore-point-to-restore-your-windows-11-system). For Windows 10, the process is nearly the same.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Your Files and Folders Editable
@@ -208,27 +208,6 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  In this article, we'll explain why your folders revert to read-only mode and what you can do to prevent it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-freezing-your-window-windows-screenshoting-guide/"><u>2024 Approved Freezing Your Window Windows Screenshoting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-christmas-ify-your-windows-11/"><u>7 Ways to Christmas-Ify Your Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-versatility-top-10-innovative-ways-to-use-powertoys-tools/"><u>Discover Versatility: Top 10 Innovative Ways to Use PowerToys Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-the-latest-brother-scanner-drivers-compatible-with-windows/"><u>How to Download the Latest Brother Scanner Drivers Compatible with Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 12 Pro Max | Stellar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-find-x6-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Find X6 Pro Is Unlocked</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-leveraging-obs-for-top-notch-social-media-streaming/"><u>In 2024, Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-your-mouse-cursor-stand-out-on-windows-devices/"><u>Making Your Mouse Cursor Stand Out on Windows Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monetize-your-youtube-shorts-essentials-possible-income-for-2024/"><u>Monetize Your Youtube Shorts Essentials, Possible Income for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-github-desktop-on-windows-systems/"><u>Navigating the World of GitHub Desktop on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-application-crash-due-to-unhandled-exceptions/"><u>Navigating Through 'Application Crash' Due to Unhandled Exceptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-defenders-antivirus-blockage/"><u>Navigating Through Windows Defender's Antivirus Blockage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nine-critical-alerts-when-to-reset-windows/"><u>Nine Critical Alerts: When to Reset Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fix-game-stability-issues-with-forza-horizon-5-on-pcs/"><u>Step-by-Step Guide to Fix Game Stability Issues with Forza Horizon 5 on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disabled-user-sign-in-on-windows/"><u>Troubleshooting Disabled User Sign-In on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/tutorial-installing-model-8720-printer-on-your-computer/"><u>Tutorial: Installing Model 8720 Printer on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-your-pcs-true-wired-capability-through-win11-connectivity-tweaks/"><u>Unveil Your PC’s True Wired Capability Through Win11 Connectivity Tweaks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -236,3 +215,20 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-efficiently-balancing-professional-commitments-and-creativity/"><u>[New] 2024 Approved Efficiently Balancing Professional Commitments & Creativity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ptimize-your-youtube-stream-choosing-superior-webcams/"><u>[New] Optimize Your YouTube Stream Choosing Superior Webcams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-cameras-obs-vs-twitch-studio-edition/"><u>[Updated] Comparing Cameras OBS vs Twitch Studio Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-protecting-content-rights-in-youtube-to-mp4-transfers-for-2024/"><u>[Updated] Protecting Content Rights in Youtube-to-MP4 Transfers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-compromised-windows-defense-in-win-11/"><u>Correcting Compromised Windows Defense in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-dialer-feature-win-11/"><u>How to Engage Dialer Feature Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-c300-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia C300 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-opening-windows-folders-via-double-click/"><u>Overcoming the Hurdle: Opening Windows' Folders via Double-Click</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshoot-windows-to-go-drive-issues-with-these-5-steps/"><u>Troubleshoot Windows To Go Drive Issues with These 5 Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-explores-openais-budget-friendly-approach-to-enhancing-gpt-crafting-with-more-affordable-tuning-options/"><u>ZDNet Explores OpenAI's Budget-Friendly Approach to Enhancing GPT-Crafting with More Affordable Tuning Options</u></a></li>
+</ul></div>
+

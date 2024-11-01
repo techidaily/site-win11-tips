@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step to Open Disk Space on Windows 10/11
-date: 2024-09-11T01:23:06.467Z
-updated: 2024-09-12T01:23:06.467Z
+date: 2024-10-25T18:44:23.711Z
+updated: 2024-11-01T17:58:28.469Z
 tags:
   - windows10
   - windows11
@@ -16,13 +16,10 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ## Step-by-Step to Open Disk Space on Windows 10/11
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ### Quick Links
 
@@ -47,39 +44,19 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Search for Disk Management in Windows
 
@@ -90,19 +67,12 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Launch Disk Management From the Quick Access Menu
 
@@ -114,25 +84,12 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Use the Run Dialog to Open Disk Management
 
@@ -143,26 +100,6 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -177,26 +114,6 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
  While we listed only four methods here, Windows offers more options to open Disk Management. For instance, you can type **diskmgmt** and hit **Enter** in Command Prompt or Windows PowerShell to launch Disk Management. You can also find Disk Management in the Computer Management app on Windows.
@@ -205,18 +122,6 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -224,3 +129,27 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-timely-team-setups-adjusting-backdrop-beforeafter-calls/"><u>[New] 2024 Approved Timely Team Setups Adjusting Backdrop Before/After Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc-for-2024/"><u>[Updated] Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-picks-for-integrating-frame-elements-with-images-for-2024/"><u>[Updated] Top Picks for Integrating Frame Elements with Images for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-win11s-sticky-notes-with-ease/"><u>Conquer Win11's Sticky Notes with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-clearance-ways-keeping-files-on-win11-safe-max-156-chars/"><u>Drive Clearance Ways: Keeping Files on Win11 Safe (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-windows-1011-climate-choices/"><u>Exclusive Windows 10/11 Climate Choices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-f5-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco F5 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-g2-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo G2 to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-the-best-10-online-vectors-collections/"><u>In 2024, Uncover the Best 10 Online Vectors Collections</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discords-indicator-for-inactivity-credible-or-misleading/"><u>Is Discord's Indicator for Inactivity Credible or Misleading?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-recording-mi-11-edition-for-2024/"><u>Mastering Screen Recording Mi 11 Edition for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-voice-commands-xbox-and-pc-synergy/"><u>Mastering Voice Commands: Xbox & PC Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-potential-identifying-the-top-pc-boosters-for-windows/"><u>Peak Potential: Identifying the Top PC Boosters for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-c0000005-error-on-your-pcs-operating-system/"><u>Remedy for C0000005 Error on Your PC's Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-reasons-to-choose-win11-over-apples-macos/"><u>Top Reasons to Choose Win11 Over Apple's macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toward-greater-autonomy-john-deere-embraces-right-to-repair-according-to-new-zdnet-report/"><u>Toward Greater Autonomy: John Deere Embraces Right to Repair, According to New ZDNet Report</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-boot-speed-heres-how/"><u>Turbocharge Windows 11 Boot Speed – Here’s How</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-your-windows-devices-microsoft-store-error-code-x800704cf/"><u>Unlocking Your Windows Devices: Microsoft Store Error Code X800704CF</u></a></li>
+</ul></div>
+

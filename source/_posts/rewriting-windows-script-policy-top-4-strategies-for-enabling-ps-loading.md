@@ -1,7 +1,7 @@
 ---
 title: "Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading"
-date: 2024-09-11T01:23:47.056Z
-updated: 2024-09-12T01:23:47.056Z
+date: 2024-10-25T18:33:57.624Z
+updated: 2024-11-01T17:59:40.518Z
 tags:
   - windows10
   - windows11
@@ -22,27 +22,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  Let’s dive in!
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Run PowerShell in Administrator Mode
 
@@ -57,43 +40,9 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### What Is the Execution Policy, and How Does It Work?
 
@@ -137,20 +86,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -165,25 +100,12 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -221,23 +143,29 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  From there, click **Apply** and then click **OK** to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -253,19 +181,12 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the value is missing, create it through these steps:
 
@@ -279,6 +200,13 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run Your PowerShell Scripts Without Any Restrictions
 
  It can be quite frustrating when you suddenly can’t execute certain commands on Windows PowerShell. But if you come across the “scripts is disabled” error, the solutions we’ve covered should help.
@@ -289,18 +217,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  Let’s dive in!
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -308,3 +224,27 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-fake-followers-on-instagram-effortlessly/"><u>[New] 2024 Approved Unveiling Fake Followers on Instagram, Effortlessly</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>[New] The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-seamless-integration-vimeo-uploads-with-windows-media-center/"><u>[Updated] 2024 Approved Seamless Integration Vimeo Uploads with Windows Media Center</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-methods-for-saving-discord-livestreams-on-video/"><u>[Updated] Essential Methods for Saving Discord Livestreams on Video</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-experts-selection-ideal-sierra-dvd-creators-for-2024/"><u>[Updated] Expert’s Selection Ideal Sierra DVD Creators for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-industry-insights-top-10-handheld-hd-playback-units/"><u>[Updated] Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-path-to-clutter-free-windows-disks/"><u>Clear Path to Clutter-Free Windows Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-preserving-your-note-apps-integrity/"><u>Expert Advice: Preserving Your Note App's Integrity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-search-box-in-windows-11-task-manager/"><u>How to Enable the Search Box in Windows 11 Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-and-fix-windows-hello-fingerprint-error-guide/"><u>Navigate and Fix: Windows Hello Fingerprint Error Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stuck-power-settings-on-windows-11/"><u>Overcoming Stuck Power Settings on Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-selection-of-simple-effective-gamers-edit-tools/"><u>Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-optimal-function-modernizing-old-windows-tech/"><u>Restoring Optimal Function: Modernizing Old Windows Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-playing-pokemon-unite-on-a-personal-computer/"><u>Step-by-Step Tutorial: Playing Pokémon Unite on a Personal Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-seamless-clipchamp-on-latest-windows-11/"><u>Strategies for Seamless ClipChamp on Latest Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-itunes-store-issues-tips-for-smooth-loading-and-access/"><u>Troubleshooting iTunes Store Issues: Tips for Smooth Loading and Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-proprietor-of-chatgpt-a-comprehensive-guide/"><u>Unveiling the Proprietor of ChatGPT: A Comprehensive Guide</u></a></li>
+</ul></div>
+

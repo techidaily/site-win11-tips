@@ -1,7 +1,7 @@
 ---
 title: Preparing Oculus Quest for Windows PC VR Integration
-date: 2024-10-25T22:46:05.111Z
-updated: 2024-10-26T18:37:27.058Z
+date: 2024-10-26T16:59:25.000Z
+updated: 2024-11-01T17:58:18.332Z
 tags:
   - windows10
   - windows11
@@ -43,17 +43,18 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 2. Click the**Download Software** option for the Oculus Quest 2.  
 ![The Download Software option for Oculus Windows app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-software-option.jpg)
 3. Double-click the**OculusSetup** file once it's downloaded.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the**Get started** and**Agree** buttons.
 5. Select**Install Now** to add Oculus to your software library.  
 ![The Install Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-now-button.jpg)
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Oculus Link
 
@@ -78,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
@@ -89,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
  When you’ve enabled Quest Link in your headset, you’ll enter a new Oculus Dash home environment. That’s essentially a new user interface in which you can browse the Oculus Rift store from which to download/install apps for your Quest 2\. Press the**Store** button to bring up the Oculus Rift storefront.
 
 ![The Oculus Rift Store in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/oculus-rift-storefront.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ll have the Oculus Rift store at your fingertips on your Oculus Quest 2\. There you can download and install VR apps that will be stored on your PC’s hard drive. Download a freely available entertainment app from there to get started.
 
@@ -111,16 +119,16 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 ![A screenshot captured in Dash's Home VR feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-feature-sceenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can access that virtual environment by pressing the**Home** button on the Dash bar. Press the**Menu** button on the left control stick to bring up the menu for customizing the environment. Then select**Inventory** to add new things to the environment from the**Base** ,**Objects** , and**Decorations** tabs on that menu.
 
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
 
@@ -129,17 +137,23 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 ![The Disable Quest Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-quest-link-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Your PC VR App Library from Windows
@@ -156,13 +170,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 ![The Edit library location options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-library-locations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add a new default installation folder for the apps by pressing the**Add** location button. Choose a new directory in the window, and click the**Select Folder** button. Press the three-dot button for the new location by selecting**Make Default** .
 
  You can configure some options for the headset from the**Devices** tab. Click the headset you’ve added in that tab to bring up Quest 2 microphone, headphone, and graphics preferences settings. Clicking**Graphics Preferences** there will enable you to select alternative Quest 2 refresh rate options and configure the rendering resolution.
@@ -170,10 +177,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 ![Audio settings for PC VR in the Oculus software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upgrade the Oculus Quest 2 With Your Windows PC
@@ -195,17 +202,20 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-facebook-live-capturing-your-broadcasts/"><u>[Updated] Mastering Facebook Live Capturing Your Broadcasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-best-budget-video-players-across-operating-systems/"><u>2024 Approved The Best Budget Video Players Across Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-hp-printer-software-installation-package-for-officejet-pro-e8610-on-various-windows-systems/"><u>Complete HP Printer Software Installation Package for Officejet Pro E8610 on Various Windows Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guida-rapida-alla-compressione-e-riduzione-del-file-grande-dei-video-per-la-pubblicazione-su-facebook/"><u>Guida Rapida Alla Compressione E Riduzione Del File Grande Dei Video per La Pubblicazione Su Facebook</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-love-notes-in-the-land-of-eiffel/"><u>Linguistic Love Notes in the Land of Eiffel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-onedrive-errors/"><u>Navigating Through the Complexities of OneDrive Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/practical-guide-to-disregarding-false-security-alarms-in-chrome/"><u>Practical Guide to Disregarding False Security Alarms in Chrome</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-steam-network-error-in-windows-11-systems/"><u>Remedying Steam Network Error in Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-page-load-failure-on-microsoft-store-windows-app/"><u>Resolving 'Page Load Failure' On Microsoft Store Windows App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/sonicscope-in-depth-auditory-evaluation/"><u>SonicScope In-Depth Auditory Evaluation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-c0000005-failure-on-windows-108/"><u>Tackling C0000005 Failure on Windows 10/8</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-editing-backwards-videos-on-snapchat/"><u>Ultimate Guide: Editing Backwards Videos on Snapchat</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-social-media-marketing-essential-24-trend-alerts/"><u>[Updated] 2024 Approved Mastering Social Media Marketing Essential '24 Trend Alerts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>2024 Approved Metavision Uncovered Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-1011-ui-with-portable-apps-icons/"><u>Elevate Windows 10/11 UI with Portable Apps Icons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-content-visibility-discover-6-thumbnail-designers-best-tools/"><u>Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-powershell-mastery-of-execution-policy-settings/"><u>Empowering PowerShell: Mastery of Execution Policy Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-dev-windows-11s-jdk-integration/"><u>From Zero to Dev: Windows 11'S JDK Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme ?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nubia Z50 Ultra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-double-click-quickness-on-pc-three-key-settings/"><u>Optimize Double-Click Quickness on PC: Three Key Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-nonexistent-gadget-reference-on-win-11/"><u>Overcoming Nonexistent Gadget Reference on Win 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-agni-2-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Agni 2 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/test-drive-review-the-glion-dolly-expensive-elaborate-and-swift-movement-unveiled/"><u>Test Drive Review: The Glion Dolly - Expensive, Elaborate, and Swift Movement Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-overcome-no-server-woes-in-windows-pc-apex-legends-(156-chars/"><u>Top Strategies to Overcome No-Server Woes in Windows PC Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-virtualbox-efail-windows-error/"><u>Understanding and Fixing Virtualbox E_FAIL (Windows) Error</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-lenovo-ideapad-130s-delivering-surprising-ease-of-use-on-a-budget-laptop/"><u>Unpacking the Lenovo IdeaPad 130S: Delivering Surprising Ease-of-Use on a Budget Laptop</u></a></li>
 </ul></div>
 

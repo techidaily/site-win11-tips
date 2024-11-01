@@ -1,7 +1,7 @@
 ---
 title: Tackling Org-Based Configurations Issues on Windows 11 Devices
-date: 2024-10-23T21:04:21.234Z
-updated: 2024-10-27T00:03:09.281Z
+date: 2024-10-31T16:48:19.103Z
+updated: 2024-11-01T19:18:34.508Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ Let's now see how to fix this problem.
 
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check for Windows Updates
 
  If restarting your computer doesn't do the trick, make sure you've got the latest Windows updates installed on your computer. Microsoft routinely rolls out updates that could potentially address quite a few problems with its operating system. So, it is advised to search for any pending Windows Updates as another potential solution.
@@ -63,10 +56,10 @@ Let's now see how to fix this problem.
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
@@ -82,6 +75,13 @@ Let's now see how to fix this problem.
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
 
@@ -100,10 +100,16 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the next pop-up page, check the**Enabled** radio button.  
@@ -126,10 +132,10 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 5. Then right-click on it and choose**Delete** from the context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
@@ -155,24 +161,24 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-storytelling-success-planning-a-dynamic-marketing-strategy/"><u>[New] 2024 Approved Instagram Storytelling Success Planning a Dynamic Marketing Strategy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-authenticity-voice-overs-that-resonate-with-audiences/"><u>[Updated] In 2024, Capturing Authenticity Voice Overs That Resonate with Audiences</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-learning-luminaries-leading-ed-tutorials-online-for-2024/"><u>[Updated] Learning Luminaries Leading Ed Tutorials Online for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways/"><u>[Updated] Unlock Follower Growth Secrets on Facebook in 10 Simple Ways</u></a></li>
-<li><a href="https://discover-able.techidaily.com/bisherig-verlorene-daten-wiederfinden-wiederherstellen-von-windowsold-verzeichnissen-auf-verschiedenen-windows-versionen-111087/"><u>Bisherig Verlorene Daten Wiederfinden: Wiederherstellen Von 'Windows.old'-Verzeichnissen Auf Verschiedenen Windows-Versionen (11/10/8/7)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719268439990-chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-high-dpi-displays-a-windows-guide/"><u>Dealing with High DPI Displays: A Windows Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-designing-text-in-3d-space-ps/"><u>Expert Tips for Designing Text in 3D Space PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-efficiently-extract-onedrive-from-windows-explorer/"><u>How To Efficiently Extract OneDrive From Windows Explorer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi K70 Pro Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-key-to-captivation-a-guide-to-more-likes-on-your-tiktok-unboxing-videos/"><u>In 2024, The Key to Captivation A Guide to More Likes on Your TikTok Unboxing Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-calculator-opening-method/"><u>Mastering Windows 11 Calculator Opening Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-essential-7-strategies-in-windows-11-38/"><u>Maximizing Efficiency: Essential 7 Strategies in Windows 11 (38)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-restore-deleted-run-logs/"><u>Methods to Restore Deleted Run Logs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-reconnecting-lele-on-pc/"><u>Navigating Network Hurdles: Reconnecting LeLë on PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-hardware-limitations-how-to-activate-windows-11-on-ineligible-processors-with-revouninstaller-techniques/"><u>Overcoming Hardware Limitations: How to Activate Windows 11 on Ineligible Processors with RevoUninstaller Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premier-league-of-basketball-the-nba-2k19-digital-challenge/"><u>Premier League of Basketball: The NBA 2K19 Digital Challenge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-gmail-plus-outlook-in-one-window-windows/"><u>Step-by-Step Guide: Gmail + Outlook in One Window, Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/time-capsules-unlocked-exploring-7-features-from-bygone-windows/"><u>Time Capsules Unlocked: Exploring 7 Features From Bygone Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-maximizing-apple-podcast-listing-chances/"><u>[New] Guide Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-pioneering-play-integrating-vr-in-recreation/"><u>[New] In 2024, Pioneering Play Integrating VR in Recreation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-videoleap-for-macbook-but-cant-seem-to-find-any-solution-here-is-a-detailed-guide-on-how-to-download-and-install-videoleap-for-mac/"><u>Are You Looking for Videoleap for MacBook, but Cant Seem to Find Any Solution? Here Is a Detailed Guide on How to Download and Install Videoleap for Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disarming-webcam-error-code-a00f4289-in-windows-11-panorama/"><u>Disarming Webcam Error Code A00F4289 in Windows 11 Panorama</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-file-types-on-windows/"><u>How to Change File Types on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-to-the-core-understanding-sids-on-windows-11/"><u>Journey to the Core: Understanding SIDs on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-edges-steady-presence-in-windows-11/"><u>Managing Edge's Steady Presence in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-office-error-0x80041015-on-windows/"><u>Mastering the Art of Fixing Office Error: 0X80041015 on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nine-remedies-for-firefox-video-glitches-on-social-media-for-2024/"><u>Nine Remedies for Firefox Video Glitches on Social Media for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-sticky-menu-issues-in-windows-11/"><u>Overcoming Sticky Menu Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rekindle-festive-spirit-with-enchanting-pane-decor/"><u>Rekindle Festive Spirit with Enchanting Pane Decor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-installation-with-microsofts-windows-cab-format/"><u>Streamlining File Installation with Microsoft's Windows CAB Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-troubles-discover-6-reliable-solutions-for-restoring-your-game-connectivity/"><u>Terraria Troubles? Discover 6 Reliable Solutions for Restoring Your Game Connectivity</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-journey-to-crafting-a-notable-professional-profile-on-facebook/"><u>The Journey to Crafting a Notable Professional Profile on Facebook</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-rdp-connectivity-woes/"><u>Understanding and Resolving RDP Connectivity Woes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-proplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro+ Phones</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-7-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 7 Plus is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Absence of Assigned Application Linkage (Windows)
-date: 2024-10-20T20:44:38.400Z
-updated: 2024-10-26T18:32:17.115Z
+date: 2024-10-27T19:00:43.475Z
+updated: 2024-11-01T17:59:50.819Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  If you haven't changed a default app before, check out our article on[Windows 11 default apps](https://www.makeuseof.com/change-windows-11-default-apps/) . The article discusses various ways to change the default app, but we recommend using the second method, which is using the Settings app. That's because this method lets you search for specific file formats and choose a default app for them.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Is the Default App Already Selected? Repair or Change It
 
  If the app you intend to set as default for a particular file format is already selected as a default application, but Windows still displays this error, the app has likely become corrupt, thus causing the error.
@@ -75,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -93,25 +79,34 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
 4. If it's not there, right-click in the blank area and go to**New > String Value** . Then rename it to**"IsShortcut** .**"**  
-![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
-5. If the string value is already there, right-click on it and select**Delete** .  
-![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
-6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
+5. If the string value is already there, right-click on it and select**Delete** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
+6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
 7. Restart your device once after that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
@@ -128,6 +123,13 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're using a shortcut to open games, especially the ones installed in a gaming client, open them from the gaming client or the installation directory.
 * In case the game launcher requires you to log in before playing any of the installed games, ensure you do so.
 * If you're experiencing this error in a specific game or app, ensure its files haven't been corrupted.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Open Your Apps, Files, and Folders Again on Windows
 
@@ -148,16 +150,15 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-liftoff-your-phone-images-with-free-magnification-app/"><u>[New] Liftoff Your Phone Images with Free Magnification App</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ustainable-traffic-growth-ethical-video-marketing-tips/"><u>[New] Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-scouring-social-media-locating-facebook-videos/"><u>[Updated] Scouring Social Media Locating Facebook Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-phantom-v-fold-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Phantom V Fold Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-gradual-audio-diminishment-in-lumafusion/"><u>In 2024, Implementing Gradual Audio Diminishment in Lumafusion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-restoring-lost-sync-credentials-effectively/"><u>Microsoft To-Do: Restoring Lost Sync Credentials Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-server-disruptions-and-ms-store-issues-on-windows-11-and-11/"><u>Remedy for Server Disruptions and MS Store Issues on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-invalid-profiles-in-windows-operating-systems/"><u>Steps to Correct Invalid Profiles in Windows Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-re-listing-bluetooth-on-windows-pc/"><u>Strategies for Re-Listing Bluetooth on Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-lenovo-thinkpad-x1-nano-in-detail-is-it-the-best-lightweight-laptop-on-the-market/"><u>The Lenovo ThinkPad X1 Nano in Detail – Is It the Best Lightweight Laptop on the Market?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-free-and-easy-the-best-3gp-video-rotators-for-2024/"><u>Updated Free and Easy The Best 3GP Video Rotators for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-enrolling-in-the-apple-podcast-network/"><u>[New] In 2024, Enrolling in the Apple Podcast Network</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-artistic-side-using-bokeh-to-dazzle-insta-followers/"><u>[New] In 2024, Unleash Your Artistic Side Using Bokeh to Dazzle Insta Followers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-portable-cinematic-vibration-reliever-kit/"><u>[Updated] Portable Cinematic Vibration Reliever Kit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-experiences-the-metaverse-explored-through-6-models/"><u>2024 Approved Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-1011-functionality-add-diskspace-analyzer-menu-feature/"><u>Boosting Windows 10/11 Functionality: Add DiskSpace Analyzer Menu Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-obstacles-solutions-for-uninstalled-optional-functions-on-windows-os/"><u>Bypassing Obstacles: Solutions for Uninstalled Optional Functions on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/capturing-sound-with-snipping-tools-screen-recorder-feature-max-156/"><u>Capturing Sound with Snipping Tool's Screen Recorder Feature (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-defaults-optimize-your-windows-11-device-use/"><u>Changing Defaults: Optimize Your Windows 11 Device Use</u></a></li>
+<li><a href="https://article-posts.techidaily.com/deciphering-whatsapp-talk-mechanics-for-2024/"><u>Deciphering WhatsApp Talk Mechanics for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-strategies-for-securing-your-facebook-profile-a-comprehensive-tutorial/"><u>Ultimate Strategies for Securing Your Facebook Profile - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

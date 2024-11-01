@@ -1,7 +1,7 @@
 ---
 title: Minimizing Windows Memory Impact From Edge's View2
-date: 2024-10-19T22:52:26.710Z
-updated: 2024-10-26T17:25:00.317Z
+date: 2024-10-29T16:28:40.586Z
+updated: 2024-11-01T16:58:14.861Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  Technically, there are only a few ways to resolve the increased memory consumption issue. Let's check them one by one to see which one works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Update Microsoft Edge First
@@ -70,16 +70,36 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 3. A new browser tab will open, and it'll scan for any available new version updates and install them. Once the browser installs all the updates, restart Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. After updating, we recommend restarting the computer. And after a restart, [open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and check the **Memory** percentage status for an idea.  
 ![Memory Status In Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memory-status-in-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you fail to update using the given steps, you can always download the updated version from [Microsoft.com](https://www.microsoft.com/en-us/edge/download?form=MA13FJ).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reinstall Microsoft Edge WebView2
 
@@ -89,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reset Microsoft Edge's Settings
 
  If reinstalling fails, your last option is to reset the Microsoft Edge settings. We know this is risky, as all your browser settings will reset. But resetting the settings can help solve any misconfigurations that might be causing excessive memory usage.
@@ -103,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  To proceed with a reset, go to **Settings** and click on the **Reset settings** option from the sidebar. Once there, click on **Restore settings to their default values > Reset**.
 
 ![Mirosoft Edge Reset Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mirosoft-edge-reset-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As mentioned above, resetting will remove your personalized browser settings. So, note down any specific settings you may want to change later.
 
@@ -121,22 +127,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
  In this article, we'll look at the Microsoft Edge WebView2 process and guide you on preventing it from hogging your computer's memory.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-fast-track-channel-growth-to-partner-status-aim-for-10000-views-in-2024/"><u>[Updated] Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-slidestream-creator-pro-macos/"><u>2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
-<li><a href="https://facebook.techidaily.com/6-reasons-to-still-use-facebook/"><u>6 Reasons to Still Use Facebook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mic-avenue-leading-educators-on-youtube-for-2024/"><u>Academic Avenue Leading Educators on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-local-user-policies-a-guide-to-windows-11-and-11-systems/"><u>Adjusting Local User Policies: A Guide to Windows 11 & 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-control-file-explorer-display-options-windows-11/"><u>How to Control File Explorer Display Options (Windows 11)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-vegas-pros-21-landmark-release-a-complete-analysis/"><u>In 2024, Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-s18-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo S18 has been deleted</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-sony-xperia-1-v-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Sony Xperia 1 V without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-notepad-blockade-uncover-the-7-pathways-to-access-it-again/"><u>Windows Notepad Blockade: Uncover the 7 Pathways to Access It Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-efficient-wsl-2-on-windows/"><u>Winning Strategies for Efficient WSL 2 on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +134,27 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fabricate-funnier-photos/"><u>[New] Fabricate Funnier Photos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>[New] In 2024, Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-independent-android-games-for-non-networked-natives/"><u>[New] In 2024, Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-post-processing-colors/"><u>[Updated] 2024 Approved A Comprehensive Guide to Post-Processing Colors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-amplify-your-brands-message-top-terminology-secrets/"><u>[Updated] Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-inside-the-world-of-digital-screen-recording/"><u>2024 Approved Inside the World of Digital Screen Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussie-vocabulary-from-surfing-to-bbqs/"><u>Aussie Vocabulary: From Surfing to BBQs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs-for-2024/"><u>Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directx-management-downloading-and-updating-made-simple/"><u>DirectX Management: Downloading & Updating Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/forget-wsl-simpler-options/"><u>Forget WSL: Simpler Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-started-with-windows-accessibility-features/"><u>Getting Started with Windows Accessibility Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-steam-online-connectivity-error-win11/"><u>How to Correct Steam Online Connectivity Error (Win11)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c22-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C22 Through Google Earth?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-simultaneous-zip-file-extraction-in-windows/"><u>Master the Art of Simultaneous ZIP File Extraction in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-software-installation-with-windows-11-fixer/"><u>Mastering Software Installation with Windows 11 Fixer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-enabling-restore-and-recovery-tools/"><u>Quick Guide: Enabling Restore & Recovery Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-xbox-app-glitches-in-windows/"><u>Revive Your Xbox App Glitches in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unclogging-operational-blockages-in-windows-inked-devices/"><u>Unclogging Operational Blockages in Windows Inked Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/what-to-consider-before-you-buy-an-unlocked-smartphone/"><u>What to Consider Before You Buy an Unlocked Smartphone</u></a></li>
+</ul></div>
+

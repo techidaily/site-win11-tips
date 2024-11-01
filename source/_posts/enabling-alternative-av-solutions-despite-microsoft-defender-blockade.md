@@ -1,7 +1,7 @@
 ---
 title: Enabling Alternative AV Solutions Despite Microsoft Defender Blockade
-date: 2024-10-23T18:44:10.232Z
-updated: 2024-10-27T00:05:36.234Z
+date: 2024-10-29T17:19:05.825Z
+updated: 2024-11-01T16:24:50.188Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 3. Scroll down to **Virus & threat protection settings** and click on **Manage settings**.  
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
  After disabling Tamper Protection, see if your third-party antivirus works.
@@ -49,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
@@ -67,37 +75,30 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -115,27 +116,6 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 
  So how do you fix this? Let's check it out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-price-to-performance-tablets-with-gaming-capabilities/"><u>[New] 2024 Approved Best Price-to-Performance Tablets with Gaming Capabilities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-sound-windows-10-recorder-tips/"><u>[Updated] Mastering Sound Windows 10 Recorder Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-pushing-boundaries-top-2023s-professional-360-cameras/"><u>[Updated] Pushing Boundaries Top 2023'S Professional 360 Cameras</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crucial-cross-platform-tools-windows-meets-android/"><u>Crucial Cross-Platform Tools: Windows Meets Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-the-onedrive-symbol-from-windows-11-filesystem/"><u>Eradicating the OneDrive Symbol From Windows 11 Filesystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studio-not-launching-on-windows/"><u>How to Fix OBS Studio Not Launching on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini with IMEI Code?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>In 2024, Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ps4-to-video-complete-obs-broadcasting-guide/"><u>In 2024, PS4 to Video Complete OBS Broadcasting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-operating-environment-for-device-interfaces/"><u>Optimizing Windows Operating Environment for Device Interfaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-steam-file-sync-problem-in-windows-environment/"><u>Overcoming Steam File Sync Problem in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prioritize-safety-invest-heavily-in-research-to-develop-advanced-safety-features-that-reduce-potential-risks-associated-with-drone-operations-such-as-collis31/"><u>Prioritize Safety: Invest Heavily in Research to Develop Advanced Safety Features that Reduce Potential Risks Associated with Drone Operations, Such as Collision Avoidance Technology, Redundant System Architectures, and Thorough Pre-Flight Checks.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solve-your-windows-movie-maker-display-issue-top-tricks-when-faced-with-a-black-screen/"><u>Solve Your Windows Movie Maker Display Issue: Top Tricks When Faced With a Black Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stay-organized-with-automatic-files-deletion-in-win11/"><u>Stay Organized with Automatic Files Deletion in Win11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-zoom-disruptions-on-pcs-latest-solutions/"><u>Troubleshoot and Stop Zoom Disruptions on PCs - Latest Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719334227097-windows-transcends-platforms-iphoneipadmacpc-compatibility-announced/"><u>Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +123,23 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost/"><u>[New] In 2024, Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-pcs-reactive-devices-during-rest/"><u>Commanding PC's Reactive Devices During Rest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/differences-highlighted-microsoft-and-local-account-divergences-on-pc/"><u>Differences Highlighted: Microsoft and Local Account Divergences on PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-resolve-windows-1n-hypervisor-bsod-issues-tips-and-tricks-for-users/"><u>Effective Solutions to Resolve Windows 1N Hypervisor BSoD Issues: Tips and Tricks for Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nubia-red-magic-9-proplus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nubia Red Magic 9 Pro+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oppo-a58-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A58 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locate-windows-picture-cache-point/"><u>Locate Window’s Picture Cache Point</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-automatic-shutdowns-in-windows-11-os/"><u>Mitigating Automatic Shutdowns in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-fixing-the-to-do-syncheroom-dilemma/"><u>Swiftly Fixing the To Do Syncheroom Dilemma</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-windows-monitoring-for-opened-apps/"><u>Turn Off Windows Monitoring for Opened Apps</u></a></li>
+</ul></div>
+

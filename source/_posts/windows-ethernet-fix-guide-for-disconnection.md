@@ -1,7 +1,7 @@
 ---
 title: Windows Ethernet Fix Guide for Disconnection
-date: 2024-09-11T01:22:29.109Z
-updated: 2024-09-12T01:22:29.109Z
+date: 2024-10-25T16:41:07.668Z
+updated: 2024-11-01T17:11:37.845Z
 tags:
   - windows10
   - windows11
@@ -20,33 +20,10 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Ensure Your Router Isn't Faulty
 
@@ -55,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
  If the problem persists on the other device, connect the other device through Wi-Fi to the same internet connection.
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
 
@@ -88,37 +51,16 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Rule Out Operating System Issues
 
@@ -132,25 +74,12 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
@@ -159,20 +88,6 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
  In Windows 10, open the **Settings** app, click **Network and Internet**, select **Ethernet** from the left sidebar, and select your Ethernet network connection. Turn off the **Metered connection** toggle and change the **Network profile** from **Public** to **Private**.
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
@@ -190,45 +105,39 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Effortlessly Connect Your Device to an Ethernet Connection
 
  Seeing your Ethernet connected but not being able to access the internet can make us lose our cool. Hopefully, the above fixes will help you solve the problem and start using the internet again. If none of the fixes work and you need help figuring out the problem, contact your ISP and have them diagnose and fix it.
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -237,3 +146,23 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[New] Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-mobile-lut-apps/"><u>[New] Expertise in Mobile LUT Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-creation-your-guide-to-googles-audio-upload/"><u>2024 Approved From Creation Your Guide to Google's Audio Upload</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optidrive-specialists-judgment/"><u>2024 Approved OptiDrive Specialists Judgment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-invisible-hardware-on-microsoft-oses/"><u>Addressing Invisible Hardware on Microsoft OSes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-fixes-dealing-with-directdraw-glitches-in-win1011/"><u>Fast-Track Fixes: Dealing with DirectDraw Glitches in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/feature-context-menu-alert-for-windows-updates-in-win11plus11/"><u>Feature: Context Menu Alert for Windows Updates in Win11+11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unveil-8-reliable-video-promotion-services/"><u>In 2024, Unveil 8 Reliable Video Promotion Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-office-error-0x80041015-in-ms-word-and-excel/"><u>Overcoming Office Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-combination-of-files-in-windows-1011/"><u>Seamless Combination of Files in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secure-your-videos-top-5-fb-downloader-apps-ranked-for-2024/"><u>Secure Your Videos Top 5 FB Downloader Apps Ranked for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-6-minecraft-abodes-for-survivors/"><u>Top 6 Minecraft Abodes for Survivors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-to-windows-birthplace-points/"><u>Trailblazing to Windows' Birthplace Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhindered-wi-fi-on-your-desktop-9-strategies-for-win11-users/"><u>Unhindered Wi-Fi on Your Desktop: 9 Strategies for Win11 Users</u></a></li>
+</ul></div>
+

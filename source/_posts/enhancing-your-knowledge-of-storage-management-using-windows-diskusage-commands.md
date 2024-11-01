@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Knowledge of Storage Management Using Windows DiskUsage Commands
-date: 2024-10-25T16:12:23.838Z
-updated: 2024-10-26T22:07:09.633Z
+date: 2024-10-30T19:34:30.193Z
+updated: 2024-11-01T18:49:55.627Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
  If using DiskUsage.exe seems too complicated, you can easily view how disk space is being used with [Storage Sense](https://www.makeuseof.com/windows-11-storage-sense-guide/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## List All Files Larger Than a Specified Size
@@ -63,16 +63,17 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 2. The 15 largest files in the Downloads folder will now be listed in Command Prompt.  
 ![file data listed in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/diskusage-list.jpg)
 3. You can replace the number with any other you want to use. For example, to see the top 5 files taking up space, use **/u=5**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure to include the **/h** option so that the output is in a format that's easy to read.
 
  After identifying what is taking up the most space, you can use any one of these [methods to delete large files](https://www.makeuseof.com/windows-11-delete-select-files/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Additional DiskUsage Command Options
 
@@ -85,17 +86,17 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![A list of DiskUsage options in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/diskusage-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Analyze Drive Space With DiskUsage
@@ -104,24 +105,6 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 
  Here's how to start using DiskUsage.exe to view and analyze how the space in your drives is being used.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehending-quadcopters-how-they-soar-and-operate/"><u>[New] Comprehending Quadcopters How They Soar and Operate</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly/"><u>[Updated] 2024 Approved Best 5 YouTube Tag Generators & Tips to Tag Videos Properly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-mobile-mounting-accurate-camera-positioning/"><u>[Updated] Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/create-individualized-keystroke-rules-in-windows-11/"><u>Create Individualized Keystroke Rules in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-tackling-large-storage-consumers-in-windows/"><u>Cut Down Clutter: Tackling Large Storage Consumers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-for-loss-of-pin-access-in-windows-11-post-update-fallout/"><u>Fix for Loss of PIN Access in Windows 11 Post-Update Fallout</u></a></li>
-<li><a href="https://fox-that.techidaily.com/important-alert-why-you-should-install-ios-153-without-delay/"><u>Important Alert: Why You Should Install iOS 15.3 Without Delay</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-organization-setting-finder-options-for-optimal-file-management/"><u>Mastering Organization: Setting Finder Options for Optimal File Management</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2v-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2V Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-broken-home-button-issues-with-these-5-iphones-fixes/"><u>Solve Your Broken Home Button Issues with These 5 iPhones Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-secret-techniques-for-a-transparent-windows-11-title-bar/"><u>The Secret Techniques for a Transparent Windows 11 Title Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-android-into-a-compatible-webcam-for-windows-11/"><u>Turning Android Into a Compatible Webcam for Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-to-gif-magic-your-ultimate-guide-to-animated-images/"><u>Youtube to Gif Magic Your Ultimate Guide to Animated Images</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +112,27 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-dissecting-the-benefits-of-using-sns-hdr-over-others-for-2024/"><u>[New] Dissecting the Benefits of Using SNS HDR over Others for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-beginners-vlogging-landscape-for-2024/"><u>[New] Navigating Beginner's Vlogging Landscape for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-starters-guide-to-optimal-gopro-accessories-list-for-2024/"><u>[New] Starter’s Guide to Optimal GoPro Accessories List for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-100-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-dns-cache-via-steam-settings/"><u>Clearing Windows DNS Cache via Steam Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/decoding-the-process-behind-gopro-burst-recordings-for-2024/"><u>Decoding the Process Behind GoPro Burst Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-audio-recording-the-windows-11-handbook/"><u>Easy Audio Recording: The Windows 11 Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-archived-media-madvr-for-windows-enthusiasts/"><u>Enhance Archived Media: MadVR for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-microsofts-voice-assistant/"><u>Guide to Turn Off Microsoft's Voice Assistant</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-action-replay-compare-gopros-hero5-black-and-session/"><u>In 2024, Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-c55-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco C55? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latency-logic-how-to-quickly-examine-ethernet-performance/"><u>Latency Logic: How to Quickly Examine Ethernet Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/make-windows-11-work-better-with-a-simple-update/"><u>Make Windows 11 Work Better with a Simple Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-steam-connections-on-pc/"><u>Quick Fixes for Lost Steam Connections on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-windows-alt-key-problems/"><u>Strategies to Correct Windows ALT Key Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-temporary-file-extraction-in-windows-os/"><u>Streamlining Temporary File Extraction in Windows OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unified-imagery-the-ultimate-blend-strategy/"><u>Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-nas-on-smartphones-and-tablets/"><u>Utilizing NAS on Smartphones and Tablets</u></a></li>
+</ul></div>
+

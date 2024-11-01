@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows Chrome Error #40
-date: 2024-09-13T01:12:17.479Z
-updated: 2024-09-17T01:06:05.790Z
+date: 2024-10-28T18:00:39.848Z
+updated: 2024-11-01T17:02:21.714Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Your Extensions
 
  The extensive availability of extensions is a major reason why Chrome is favored by many Windows users. While these extensions help improve your browsing experience in many ways, not all of them can be considered reliable.
@@ -64,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 3. Use the toggles to disable all your extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Hardware Acceleration
 
@@ -86,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 5. Click the **Relaunch** button to apply the changes and restart Chrome.  
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -95,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 3. Select **Add** from the resulting menu.
 4. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After creating a new profile, try loading a few websites and see if you get any errors.
 
@@ -119,10 +126,16 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
@@ -141,5 +154,21 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ravel-blogging-essentials-step-by-step-path-to-success-for-2024/"><u>[New] Travel Blogging Essentials Step-by-Step Path to Success for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoid-distortion-best-practices-for-shooting-up-close-with-videoleap/"><u>[Updated] Avoid Distortion Best Practices for Shooting Up Close with VideoLeap</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/"><u>[Updated] In 2024, Curating the Perfect Soundtrack YouTube's Best Audio Sites Ranked</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid-for-2024/"><u>[Updated] Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-budget-friendly-iphone-14-pro-max-exceptional-battery-life-and-more-features-to-delight-your-senses-insights/"><u>Discover the Budget-Friendly iPhone 14 Pro Max: Exceptional Battery Life & More Features to Delight Your Senses - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-gaming-efficiency-with-reduced-cpu-demand/"><u>Enhancing Gaming Efficiency with Reduced CPU Demand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-non-functional-remove-pin-option-in-windows-11/"><u>Fixing the Non-Functional 'Remove PIN' Option in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-smart-8-plus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Smart 8 Plus FRP Locks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innocuous-apps-overshadowed-by-their-true-role-as-slowdown-agents/"><u>Innocuous Apps Overshadowed by Their True Role as Slowdown Agents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-performance-with-disabled-services-in-windows-11/"><u>Maximizing Performance with Disabled Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-handling-non-terminated-processes-on-pcs/"><u>Quick Guide: Handling Non-Terminated Processes on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-motorola-edge-40-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Edge 40 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-x80780119-solution-guide/"><u>WinError X80780119 Solution Guide</u></a></li>
+</ul></div>
 

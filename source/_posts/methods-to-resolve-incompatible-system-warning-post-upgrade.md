@@ -1,7 +1,7 @@
 ---
 title: Methods to Resolve 'Incompatible System' Warning Post-Upgrade
-date: 2024-10-21T22:11:16.742Z
-updated: 2024-10-26T22:49:01.857Z
+date: 2024-10-28T16:37:01.957Z
+updated: 2024-11-01T17:16:20.611Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ Additionally, you may also see the following error:
 
  If you are experiencing similar errors, it is possible that your PC doesn't have the minimum system requirements to run Windows 11\. That said, the error can be a false flag as well as it will not detect a Secure Boot and TMP 2.0-supported systems if the features are disabled in BIOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are the System Requirements to Install Windows 11?
 
  Interestingly, the official[Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
@@ -54,6 +61,13 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
 ### What Is UEFI Boot Mode?
@@ -61,13 +75,6 @@ Additionally, you may also see the following error:
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -79,26 +86,26 @@ Additionally, you may also see the following error:
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
@@ -114,16 +121,16 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
@@ -149,19 +156,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Right-click on the**MoSetup** key and selec**t New > DWORD** (32-bit) value.  
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
@@ -199,18 +193,24 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhance-your-windows-photos-with-personalized-soundtracks-and-filter-choices-for-2024/"><u>[New] Enhance Your Windows Photos with Personalized Soundtracks and Filter Choices for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] 2024 Approved Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweaked-sound-from-video-to-mp3aac/"><u>[Updated] 2024 Approved Tweaked Sound From Video to MP3/AAC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-p40-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/asus-proart-review-pushing-boundaries-in-color-accuracy-for-2024/"><u>ASUS ProArt Review Pushing Boundaries in Color Accuracy for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/beginners-manual-mastering-vmware-powercli-essentials-and-getting-started/"><u>Beginner's Manual: Mastering VMware PowerCLI Essentials and Getting Started</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-boot-efficiency-with-windows-11-programs/"><u>Boosting Boot Efficiency with Windows 11 Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen-for-2024/"><u>Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/instant-relief-overcoming-undetected-battery-errors-smoothly/"><u>Instant Relief: Overcoming Undetected Battery Errors Smoothly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-restrictions-and-unlocking-full-ram-potential/"><u>Overcoming Restrictions and Unlocking Full RAM Potential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
-<li><a href="https://win-info.techidaily.com/two-no-cost-methods-to-set-up-a-windows-10-bootable-backup-disk/"><u>Two No-Cost Methods to Set Up a Windows 10 Bootable Backup Disk</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-hidden-power-of-windows-11/"><u>[New] Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-dive-into-fixes-for-your-troublesome-instagram-video/"><u>[Updated] Dive Into Fixes for Your Troublesome Instagram Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-your-videography-top-tier-vimeo-tools/"><u>2024 Approved Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/earnings-explored-microsoft-and-its-windows-11-model/"><u>Earnings Explored: Microsoft & Its Windows 11 Model</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-igtv-visuals-cover-photos-update-for-2024/"><u>Elevating Your IGTV Visuals Cover Photos Update for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-10-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 10 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-buffering-in-apex-legends-error-fixes-explained/"><u>How to Overcome Constant Buffering in Apex Legends – Error Fixes Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-shaking-and-fluctuation-on-your-surface-pro-monitor/"><u>How to Stop Shaking and Fluctuation on Your Surface Pro Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immersive-tv-show-adventures-with-apple-vision-pro-bring-joy-bizarre-moments-and-exhaustion-an-in-depth-review-by-techexpertcom/"><u>Immersive TV Show Adventures with Apple Vision Pro Bring Joy, Bizarre Moments & Exhaustion - An In-Depth Review by TechExpert.com</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-acer-chromebook-r-11-elegant-and-featherlight-features/"><u>In-Depth Analysis of the Acer Chromebook R 11: Elegant & Featherlight Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/master-your-iphones-troubles-here-are-5-fixable-problems-via-dfu-mode/"><u>Master Your iPhone's Troubles? Here Are 5 Fixable Problems via DFU Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-blue-screen-mysteries/"><u>Navigating Through Windows' Blue Screen Mysteries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-free-windows-efficient-update-tips/"><u>Online-Free Windows: Efficient Update Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-detectable-disk-error/"><u>Overcoming Non-Detectable Disk Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-quick-tips-for-a-stable-wwe-gameplay/"><u>Rapid Resolution: Quick Tips for a Stable WWE Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-windows-photo-viewer-essential-tips-for-11-users/"><u>Reactivating Windows Photo Viewer: Essential Tips for 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-onedrive-folder-a-windows-10-guide/"><u>Shifting OneDrive Folder: A Windows 10 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-your-logitech-mx-master-mouse-driver/"><u>Step-by-Step Guide: Installing Your Logitech MX Master Mouse Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-enigma-of-extraneous-edges-processes/"><u>The Enigma of Extraneous Edges Processes</u></a></li>
 </ul></div>
 

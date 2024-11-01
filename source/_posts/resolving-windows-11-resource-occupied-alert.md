@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 11: Resource Occupied Alert"
-date: 2024-09-12T23:45:03.807Z
-updated: 2024-09-16T21:34:24.848Z
+date: 2024-10-30T18:01:48.280Z
+updated: 2024-11-01T18:12:35.111Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -89,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -113,15 +114,22 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -145,5 +153,21 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-speed-strategy-for-facebook-video-uploads-and-downloads/"><u>[New] 2024 Approved Ultimate Speed Strategy for Facebook Video Uploads & Downloads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-recording-tips-for-your-next-google-meet-video-call/"><u>[Updated] Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-art-of-selective-engagement-on-ig/"><u>2024 Approved The Art of Selective Engagement on IG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-disable-explorers-default-views/"><u>Cut Down Clutter: Disable Explorer's Default Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-bios-security-recover-from-grayed-out-secure-boot-errors/"><u>Enhancing BIOS Security: Recover From Grayed Out Secure Boot Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-enhanced-use-of-windows-11-hardware/"><u>Essential Tweaks for Enhanced Use of Windows 11 Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-expertly-control-your-sounds-with-windows-11/"><u>How to Expertly Control Your Sounds with Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-portable-gaming-experience-worth-it-steam-deck-review/"><u>Is the Portable Gaming Experience Worth It? - Steam Deck Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-to-unlocking-costless-image-streams-for-2024/"><u>Secrets to Unlocking Costless Image Streams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-system-call-failure-on-modern-windows-systems/"><u>Tackling System Call Failure on Modern Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-prolonged-shutdown-during-running-apps-in-windows-10/"><u>Techniques for Prolonged Shutdown During Running Apps in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-homeowners-handbook-to-boosting-internet-connectivity-speed/"><u>The Homeowner's Handbook to Boosting Internet Connectivity Speed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
+</ul></div>
 

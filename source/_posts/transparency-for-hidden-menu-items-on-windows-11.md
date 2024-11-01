@@ -1,7 +1,7 @@
 ---
 title: Transparency for Hidden Menu Items on Windows 11
-date: 2024-10-26T00:18:21.139Z
-updated: 2024-10-26T18:03:33.265Z
+date: 2024-10-30T17:34:20.518Z
+updated: 2024-11-01T18:12:16.011Z
 tags:
   - windows10
   - windows11
@@ -48,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
  To add the icon back in the system tray, click and drag it from the hidden icons menu and then place it in the system tray.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Hidden Icon Menu
 
  As mentioned earlier, the hidden icon menu is what appears when you click the **up caret** in the system tray. You can also hide and show this menu as you please.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using the Settings App
 
@@ -83,10 +90,10 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 ![the SystemTrayChevronVisibility value in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-regedit-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To show the hidden icon menu, set the **Value data** text box to **1** and click **OK**.
@@ -94,20 +101,13 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 ![setting the SystemTrayChevronVisibility value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And to hide the hidden icon menu set the **Value data** text box to **0** and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Control the Icons that Appear in the System Tray on Windows 11
 
@@ -117,27 +117,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-radiant-android-videos/"><u>[Updated] The Essential Guide to Radiant Android Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-through-facebook-gif-downloads-across-platforms/"><u>2024 Approved Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-the-def5-barrier-tips-for-win11s-onedrive-errors/"><u>Breaking Down the DEF5 Barrier: Tips for Win11's OneDrive Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-managing-excessive-tiktoks-mastering-edits-and-deletions/"><u>In 2024, Managing Excessive TikToks Mastering Edits & Deletions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-windows-11-with-an-older-windows-7-product-key/"><u>Launching Windows 11 with an Older Windows 7 Product Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-search-for-program-install-spots-on-pc/"><u>Mastering the Search for Program Install Spots on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/multi-person-playback-solutions-discover-how-to-stream-with-friends-on-spotify/"><u>Multi-Person Playback Solutions: Discover How to Stream with Friends on Spotify</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photo-cinematic-conversions-sonic-enhancements/"><u>Photo Cinematic Conversions Sonic Enhancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speak-write-and-transform-an-intuitive-guide-to-text-generation-with-windows-whisper/"><u>Speak, Write and Transform: An Intuitive Guide to Text Generation with Windows Whisper</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-memory-detection-problems/"><u>Understanding and Fixing Memory Detection Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-should-you-care-about-runtime-brokers-on-your-system/"><u>Why Should You Care About Runtime Brokers on Your System?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +124,18 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hoosing-between-tiktok-and-youtube-shorts-a-users-guide-for-2024/"><u>[New] Choosing Between TikTok and YouTube Shorts A User's Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[New] In 2024, Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obs-streamers-toolkit-for-captivating-sessions/"><u>[Updated] 2024 Approved OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[Updated] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-personalizing-windows-using-winbubble/"><u>A Step-by-Step Guide to Personalizing Windows Using WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-num-caps-lock-signifiers-in-win11-systemtray/"><u>Adding Num, Caps Lock Signifiers in Win11 SystemTray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackview-minipc-size-upgrade-speed-downgrade/"><u>Blackview MiniPC: Size Upgrade, Speed Downgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-awareness-of-power-levels-with-win-1011/"><u>Boosting Awareness of Power Levels with Win 10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-14-pro-max-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 14 Pro Max Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-capture-expertise-3-cost-free-methods-for-2024/"><u>Screen Capture Expertise 3 Cost-Free Methods for 2024</u></a></li>
+</ul></div>
+

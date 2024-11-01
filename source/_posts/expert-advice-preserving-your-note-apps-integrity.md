@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Preserving Your Note App's Integrity"
-date: 2024-10-22T16:22:04.366Z
-updated: 2024-10-26T22:27:58.089Z
+date: 2024-10-30T18:00:42.635Z
+updated: 2024-11-01T17:04:56.256Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -63,20 +63,26 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -90,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -102,27 +108,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-balancing-content-creation-and-employment/"><u>[Updated] 2024 Approved Balancing Content Creation and Employment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>2024 Approved Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-most-reliable-gopro-cases-1-10-showdown/"><u>2024 Approved The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-novel-way-to-manage-galaxy-devices-with-windows-11/"><u>A Novel Way to Manage Galaxy Devices with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-lookup-resurrecting-w11-file-explorer/"><u>Classic Lookup: Resurrecting W11 File Explorer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-techniques-for-missing-or-lost-btballoondll-errors/"><u>Comprehensive Troubleshooting Techniques for Missing or Lost btballoon.dll Errors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-command-line-experience-with-terminal-preference/"><u>Enhance Your Command Line Experience with Terminal Preference</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>In 2024, Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-spark-go-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Spark Go (2023) FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-power-indicators-ensure-a-full-charge-with-windows-11-alerts/"><u>Proactive Power Indicators: Ensure a Full Charge with Windows 11 Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-audible-acuity-ending-echo-of-empty-spaces/"><u>Regain Audible Acuity: Ending Echo of Empty Spaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-usb-failure-message-a-step-by-step-guide-for-windows-users/"><u>Resolving VirtualBox's USB Failure Message: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-pin-access-issues/"><u>Resolving Windows 11 PIN Access Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-easing-through-administrative-denial-of-installers/"><u>Strategies for Easing Through Administrative Denial of Installers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncompromised-security-in-windows-app-downloads/"><u>Uncompromised Security in Windows App Downloads</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-11-update-error-device-not-ready-8-fixes-for-a-smooth-upgrade/"><u>Windows 11 Update Error 'Device Not Ready': 8 Fixes for a Smooth Upgrade</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +115,21 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-getting-the-most-out-of-your-game-with-fraps/"><u>[Updated] 2024 Approved Getting the Most Out of Your Game with Fraps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>[Updated] Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-0xc00ce556-the-winoss-parsing-quest/"><u>Debugging 0xC00CE556: The WinOSs Parsing Quest</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-the-worth-in-your-subscription-to-youtube-tv/"><u>Discovering the Worth in Your Subscription to YouTube TV</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-xbox-audio-quality-within-windows-11-framework/"><u>Elevating Xbox Audio Quality Within Windows 11 Framework</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enable-automatic-iphone-screen-rotation-for-seamless-full-screen-video-viewing/"><u>Enable Automatic iPhone Screen Rotation for Seamless Full-Screen Video Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-motorola-edge-2023-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Motorola Edge 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-update-enables-direct-call-recording-without-additional-apps-insights-on-apples-latest-feature/"><u>IOS 18 Update Enables Direct Call Recording Without Additional Apps - Insights on Apple's Latest Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-issues-with-ea-games-on-pc/"><u>Mastering Network Issues with EA Games on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-microphone-issues-with-xbox-app-on-pc/"><u>Solutions to Microphone Issues with Xbox App on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-selecting-audioscapes-for-unveiling-videos/"><u>Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-powertoys-across-computers/"><u>Unifying PowerToys Across Computers</u></a></li>
+</ul></div>
+

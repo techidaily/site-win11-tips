@@ -1,7 +1,7 @@
 ---
 title: Re-Activating System Sound on Unresponsive Devices
-date: 2024-10-22T21:38:59.862Z
-updated: 2024-10-26T18:23:15.746Z
+date: 2024-10-28T18:16:35.586Z
+updated: 2024-11-01T17:08:53.611Z
 tags:
   - windows10
   - windows11
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 4. Next to the **Playing Audio** troubleshooter, click the **Run** button.  
 ![Run the Audio Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-audio-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for a while until Windows scans and fixes the issue. After this, see if the test tone is working.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Windows Audio Service
 
@@ -61,28 +61,21 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ![Open Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-windows-audio-service.jpg)
 3. Once found, double-click it to open its Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the General tab, click on the **Start type** drop down menu and select **Automatic**.  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-windows-audio-service.jpg)
 5. Now go to the **Service status** section and click on **Stop**.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Wait for a few moments, then press **Start** to restart the service.
 7. Click **Apply** \> **OK** to save the changes.
 
  After doing this, close the Services window and open any audio application to check if the test tone is playing.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Audio Enhancements
 
@@ -100,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ![Disable Audo Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-audo-enhancements.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Audio enhancements should now be disabled, and you may find your sound issues resolved. If you have multiple audio devices, repeat the process for each device. Once you have completed these steps, restart your computer and check if your audio issues have been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update the Audio Driver
 
@@ -120,6 +113,14 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 3. In the Device Manager window, expand the **Audio inputs and outputs** section.  
 ![Update Audio driver Via Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-audio-driver-via-device-manager.jpg)
 4. Find your audio device. Note the manufacturer and model name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Search online for drivers for your device. Usually, these will be on the manufacturer's website.
 
  These drivers usually install with a double-click, but if it doesn't, go back to Device Manager and do this:
@@ -129,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
  Wait until Windows downloads and installs the latest driver version. Once done, restart your device and check if the test tone is now playing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Audio Drivers
 
@@ -142,16 +150,16 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ![Uninstall Audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-audio-driver.jpg)
 4. If a warning pops up, click **Uninstall** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now follow the on-screen instructions to uninstall the audio driver.
 
  After this, close the window and restart your computer. Once your system is up, Windows will automatically detect the audio device and install its driver. This will fix the issue if the driver was corrupted.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Different Audio Formats
 
@@ -178,35 +186,11 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 * You can also [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It disables unnecessary third-party software running in the background, which may cause the issue. I
 * If the problem persists, [use the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/). This utility scans all protected system files and replaces them if they are corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Playing the Test Tone Again on Windows
 
  It appears that you are having problems with your sound card and the Windows test tone is not playing. Hopefully, one of these tips worked for you, and your speakers are now working.
 
  Dealing with audio problems on Windows is sometimes frustrating, but there are simple solutions available. This guide shows you how to troubleshoot the issue and get your speakers working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-smooth-decline-techniques-for-controlled-audio-reduction-for-2024/"><u>[New] Smooth Decline Techniques for Controlled Audio Reduction for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-color-tweaking-discover-top-tips-for-enhancing-hues/"><u>[Updated] Ultimate Color Tweaking Discover Top Tips for Enhancing Hues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-authenticating-a-step-by-step-for-youtube-users/"><u>2024 Approved Authenticating A Step-by-Step for Youtube Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-demystifying-how-to-access-youtube-via-facebook/"><u>2024 Approved Demystifying How to Access YouTube via Facebook</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-k70-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi K70</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-and-correction-of-windows-error-0xc00000f/"><u>Avoidance and Correction of Windows Error: 0Xc00000f</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-install-windows-11-arm-with-a-focus-on-iso-guide/"><u>Download & Install Windows 11 ARM with a Focus on ISO Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-installer-service-on-windows-systems/"><u>Managing Installer Service on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974628291-obtain-your-sound-blaster-audigy-fx-driver-software-here/"><u>Obtain Your Sound Blaster Audigy FX Driver Software Here!</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728474096323-pc/"><u>PCやスマホ用: セキュリティを保ちながらデータの自動バックアップ方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-methods-creating-efficient-sefx-packages-in-win11/"><u>Proven Methods: Creating Efficient SEFx Packages in Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-watching-mp4-videos-on-google-drive-without-issues/"><u>Troubleshooting Guide: Watching MP4 Videos on Google Drive Without Issues</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -215,3 +199,19 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-luminous-techniques-for-engaging-vlogs/"><u>[Updated] Luminous Techniques for Engaging Vlogs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-image-uploads-on-instagram/"><u>2024 Approved Mastering Image Uploads on Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-6-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 6 Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ic-craftsmanship-the-best-short-video-ideas-to-entertain-viewers/"><u>Comedic Craftsmanship The Best Short Video Ideas to Entertain Viewers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nord-ce-3-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nord CE 3 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-defender-past-techniques-for-windows-cleanse/"><u>Revamp Your Defender Past: Techniques for Windows Cleanse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-to-immediate-access-of-erased-reddit-threads/"><u>Secrets to Immediate Access of Erased Reddit Threads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-crafting-the-awkward-potion-in-minecraft/"><u>Step-by-Step Guide: Crafting the Awkward Potion in Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-camera-issue-saving-imagesvideos-problems/"><u>Troubleshooting Windows Camera Issue: Saving Images/Videos Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-rectifying-windows-struggling-charmap-problems/"><u>Unraveling and Rectifying Windows' Struggling CharMap Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-bothering-you-common-complaints-about-windows-11/"><u>What's Bothering You? Common Complaints About Windows 11</u></a></li>
+</ul></div>
+

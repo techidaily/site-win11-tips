@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Faulty Volume Shadows in Win
-date: 2024-09-14T20:44:33.179Z
-updated: 2024-09-16T19:09:54.068Z
+date: 2024-10-25T19:31:17.403Z
+updated: 2024-11-01T18:40:04.694Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,26 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Check Disk Utility
 
  Drive issues can cause Windows system backup VSS errors to occur, with codes like 0x807800A1 or 0x80042315\. In this case, running the Check Disk utility to scan for and address hard drive issues, such as bad sectors, is a potential fix for the Volume Shadow Copy Service not working. Check out this [guide to running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for further details about how you can apply this potential resolution.
@@ -60,25 +80,19 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
@@ -88,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
  Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to [disabling Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions for turning off that security component.
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
@@ -118,5 +125,24 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-through-top-film-makers-landscape/"><u>[New] In 2024, Navigating Through Top Film Makers' Landscape</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-meme-masterpieces-perfect-jokes-for-each-moment/"><u>[New] Meme Masterpieces Perfect Jokes for Each Moment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-satirical-graphics-memes-made-easy-by-kapwing/"><u>[New] Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-playlist-of-film-scores-and-tracks/"><u>[New] Ultimate Playlist of Film Scores & Tracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[Updated] In 2024, Begin with Class in Every Screen Best Intro Editor App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-inconsistent-exports-securing-smooth-srt-outputs/"><u>2024 Approved From Inconsistent Exports Securing Smooth SRT Outputs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-abnormal-typography-windows-style/"><u>Combatting Abnormal Typography Windows-Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-wireless-reach-with-5ghz/"><u>Enhancing Windows 11 Wireless Reach with 5GHz</u></a></li>
+<li><a href="https://fox-http.techidaily.com/fundamental-definitions-in-virtual-narrative-art/"><u>Fundamental Definitions in Virtual Narrative Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/migrate-powertoys-configurations-seamlessly/"><u>Migrate PowerToys Configurations Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-cables-no-phone-line-discover-alternative-methods-for-online-connectivity/"><u>No Cables, No Phone Line? Discover Alternative Methods for Online Connectivity!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-start-up-barriers-with-csgo-and-w11/"><u>Overcoming Start-Up Barriers with CS:GO and W11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-your-sims-4-live-action/"><u>Perfecting Your Sims 4 Live Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-try-connections-fiasco-with-this-guide-for-pcs/"><u>Tackle 'Try Connections' Fiasco with This Guide for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win-lsa-protection-faults/"><u>Tackling Win LSA Protection Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-windows-11-forecast-tools-essential-app-selections/"><u>Top Windows 11 Forecast Tools: Essential App Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-icon-management-from-invisible-to-visible/"><u>Windows 11 Icon Management: From Invisible to Visible</u></a></li>
+</ul></div>
 

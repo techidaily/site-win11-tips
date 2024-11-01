@@ -1,7 +1,7 @@
 ---
 title: "Resolving Window11's Error: MsResource/AppText"
-date: 2024-09-11T01:21:18.549Z
-updated: 2024-09-12T01:21:18.549Z
+date: 2024-10-27T16:56:24.287Z
+updated: 2024-11-01T17:32:19.338Z
 tags:
   - windows10
   - windows11
@@ -20,33 +20,10 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. How to Fix the "ms-resource:Appname/Text" Error in the Start Menu
 
@@ -72,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 ![remove holographicsfirstrun app powershell windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-holographicsfirstrun-app-powershell-windows.jpg)
 3. In the PowerShell window, type the following command and press **Enter**:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `Get-AppxPackage -all *HolographicFirstRun* | Remove-AppPackage -AllUsers`
 
  Once you've run the command, be sure to restart your computer.
@@ -98,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 ![run new task open tempstate folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-new-task-open-tempstate-folder-file-explorer.jpg)
 6. In the **Create new task** dialog, type the following path and click the **Browse** button.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `%localappdata%\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy`
 7. In the File Explorer window, delete the **TempState** folder.
 8. Go back to Task Manager, and click **Run new task**.
@@ -118,19 +69,12 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
  Once done, give your PC another restart.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Re-Register Your Microsoft Store Apps
 
@@ -146,19 +90,12 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
 ![view application folder windows 11 run shell apps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/view-application-folder-windows-11-run-shell-apps-folder.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Alternatively, you can view the application directory to view the installed apps. Press **Win + R** to open Run, type **shell:appsfolder**, and click **OK**. It will open the **Applications** folder. Go through the apps to see if you can locate an app named **ms-resource:Appname/Text** or similar to the entry in the Start Menu.
 
@@ -172,19 +109,12 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can use the built-in Microsoft Store Apps troubleshooter to fix issues with the store apps. Here’s how to do it.
 
@@ -199,19 +129,12 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the Windows Store Apps troubleshooter is missing or didn’t help, try to repair the Microsoft Store App. You can use the built-in repair option to find and fix common issues with the official app store.
 
@@ -246,20 +169,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 3. **Perform a reset** – If an in-place upgrade doesn’t help, consider [performing a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). You can perform a complete reset while choosing to keep your files, but all your apps will be removed.
 4. **Clean install** – [Performing a Windows clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) will erase everything on your computer and reinstall Windows 11 from scratch. Make sure to back up important data before attempting a clean install.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fixing the "ms-resource:Appname/Text" Error in Windows 11
 
  Often this entry in the start menu is a ghost entry from an unsuccessful or leftover installation of a Microsoft app. To remove the entry or restore the app, you can re-register the Microsoft app, remove the affected app package or run the Windows Store Apps Troubleshooter.
@@ -268,18 +177,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -287,3 +184,27 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-photoshop-shake-reduction-is-it-really-useful/"><u>[New] 2024 Approved Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-updated-strategy-and-its-effects/"><u>[Updated] 2024 Approved Instagram’s Updated Strategy and Its Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-crucial-modifications-to-revolutionize-the-windows-11-taskbar/"><u>6 Crucial Modifications to Revolutionize the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-for-resetting-your-windows-screen-backlight/"><u>7 Strategies for Resetting Your Windows Screen Backlight</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/nsvmp3-movavi-mp3/"><u>快適にオンラインで音楽NSVを無料MP3に変換する - Movavi MP3コンバータ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-from-windows-11s-default-pin-logon-to-traditional-password-method/"><u>A Seamless Shift From Windows 11'S Default PIN Logon to Traditional Password Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-onedrive-errors-in-windows-1011-system/"><u>Addressing OneDrive Errors in Windows 10/11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-screen-projection-not-working-window-glitch/"><u>Addressing Screen Projection Not Working Window Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-wallpaper-a-fresh-look-every-day/"><u>Altering Windows Wallpaper: A Fresh Look Every Day</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitguard-compromised-continue-now-not-tomorrow/"><u>BitGuard Compromised: Continue Now, Not Tomorrow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-counter-strike-performance-a-frame-rate-guide/"><u>Boosting Counter-Strike Performance: A Frame Rate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-connections-with-your-channels-audience-for-2024/"><u>Building Connections with Your Channel's Audience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessiphonedesktop-video-editing-top-8-software-recommendations/"><u>In 2024, SeamlessiPhone/Desktop Video Editing Top 8 Software Recommendations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719353749292-navigate-compatibility-hurdles-with-easy-to-follow-steps/"><u>Navigate Compatibility Hurdles with Easy-to-Follow Steps.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-flickering-lcd-issues-on-computers/"><u>Repairing Flickering LCD Issues on Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-title-emphasizes-that-amds-epyc-chip-has-shattered-performance-records-and-is-particularly-strong-in-multi-threaded-benchmarks-thanks-to-its-numerous-co47/"><u>The Title Emphasizes that AMD's EPYC Chip Has Shattered Performance Records and Is Particularly Strong in Multi-Threaded Benchmarks, Thanks to Its Numerous Cores.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-list-of-5-youtube-competitor-editors/"><u>The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 11 & 10</u></a></li>
+</ul></div>
+

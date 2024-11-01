@@ -1,7 +1,7 @@
 ---
 title: Learn the Simple Steps for Removing Blank Spaces on Your PC Drive
-date: 2024-09-11T01:24:09.746Z
-updated: 2024-09-12T01:24:09.746Z
+date: 2024-10-31T18:43:47.024Z
+updated: 2024-11-01T18:03:59.241Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  In this article, we'll show you how to remove empty folders from your computer with PowerShell, a Windows built-in utility, and third-party software.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Setting the Foundation to Delete Empty Folders in Windows
 
@@ -43,35 +40,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 3. Go to the**View** tab in the**Folder** **Options** window and check the box for**Show hidden files, folders, and drives** .  
 ![Checking the Circle for Show Hidden Files Folders and Drives in Folder Options Window of File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-checking-the-circle-for-show-hidden-files-folders-and-drives-in-folder-options-window-of-file-explorer.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Once you've signed in as an administrator and revealed the hidden folders, it's time to delete the empty folders.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Find and Delete Empty Folders Using Windows PowerShell
 
@@ -82,28 +51,30 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
 4. PowerShell will display all empty subfolders within that folder in a few seconds. Be patient if it takes a while.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Successfully Locating All Empty Folders and Subfolders Using Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-successfully-locating-all-empty-folders-and-subfolders-using-windows-powershell-app.jpg)
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
 ![Deleting the Empty Folders by Running the Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-deleting-the-empty-folders-by-running-the-command-in-windows-powershell-app.jpg)
 6. Hit**Enter** and the empty subfolders will be automatically deleted.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There's a catch, though. If you delete the empty subfolder in a folder that previously contained only that empty subfolder, the main folder also becomes empty. If you delete that empty folder by executing the command a second time, perhaps another parent folder in the tree may also become empty.
 
@@ -113,19 +84,18 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
@@ -140,22 +110,16 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 5. Check the boxes for all drives or folders you want to scan (except the one where your operating system is installed).  
 ![Checking the Boxes for Drives or Folders to Scan in the Empty Folder Cleaner Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/8-checking-the-boxes-for-drives-or-folders-to-scan-in-the-empty-folder-cleaner-software-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. When you have selected the drives and folders you want to scan for empty folders, click on the**Scan** button in the top-left corner.  
 ![Viewing the Empty Files and Folders Found After Scanning the Selected Folders in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/9-viewing-the-empty-files-and-folders-found-after-scanning-the-selected-folders-in-empty-folder-cleaner-software.jpg)
 2. Depending on how much data you're scanning, the app may take a while. Wait until the scan is complete.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3. Upon completion of the scan, you will see a list of empty folders that have been found on your device. You can view them either as a list or as a tree.
 4. Check the boxes for empty folders you wish to delete or select all empty folders by clicking**Select All** .  
@@ -164,35 +128,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 6. Once the warning pop-up appears, select**Yes** to delete all empty folders successfully.  
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Don't Let Empty Folders Clog Up Your Device's Organization
 
@@ -200,14 +136,11 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  Besides empty folders you deleted, many other files and folders unnecessarily burden your device, including files in Windows Temp, Recycle Bin, and LiveKernelReports. So, watch out for this extra burden and lower it regularly to keep your machine running smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,12 +149,24 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-see-groups-shared-photos-and-movies-on-messenger-for-2024/"><u>[New] How to See Group's Shared Photos and Movies on Messenger for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-online-advertising-for-beginners-4-must-know-strategies/"><u>[Updated] Masterful Online Advertising for Beginners 4 Must-Know Strategies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211154998-9782889702169-au-coeur-de-nos-vies-anterieures-decouvrir-lhistoire-de-son-ame/"><u>Au coeur de nos vies antérieures : Découvrir l'histoire de son âme | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/computer-reboot-mastery-unraveling-windows-eight-paths/"><u>Computer Reboot Mastery: Unraveling Windows' Eight Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-error-asking-for-previous-passcode/"><u>Deciphering “Windows Error Asking for Previous Passcode”</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-simplicity-with-windows-photos-generate-delete/"><u>Embracing Simplicity with Windows Photos Generate Delete</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-update-troubleshooter-stuck-on-resolving-problems/"><u>How to Fix the Windows Update Troubleshooter Stuck on Resolving Problems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>In 2024, Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-efficiency-automating-file-transfer-in-w11/"><u>Maximize Efficiency: Automating File Transfer in W11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016591300-no-audio-in-battlefield-4-discover-how-to-bring-your-game-back-to-life/"><u>No Audio in Battlefield 4? Discover How to Bring Your Game Back to Life!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/penetrating-user-anonymity-acquiring-sids-on-win11/"><u>Penetrating User Anonymity: Acquiring SIDs on Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-whole-home-sound-setup-with-home-automation-a-complete-tutorial/"><u>Seamless Whole-Home Sound Setup with Home Automation - A Complete Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-sound-management-in-win11-with-personalized-keys/"><u>Tailored Sound Management in Win11 with Personalized Keys</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213960-9780008138158-the-monkey-in-2016-your-chinese-horoscope/"><u>The Monkey in 2016: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-performing-fujitsu-scansnap-ix160-seo-article-ideal-for-paperwork-management/"><u>Top-Performing Fujitsu ScanSnap iX160 SEO Article: Ideal for Paperwork Management</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-by-drfone-android/"><u>Universal Unlock Pattern for Infinix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-xp-7-and-81-no-longer-backed-by-microsoft/"><u>Windows XP, 7, and 8.1 No Longer Backed by Microsoft</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tracking Data Used by Each Window's App
-date: 2024-10-19T16:32:22.175Z
-updated: 2024-10-26T16:23:02.666Z
+date: 2024-10-29T17:24:41.968Z
+updated: 2024-11-01T18:56:36.646Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
@@ -54,22 +54,15 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
 
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
 
@@ -83,10 +76,17 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -95,27 +95,6 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>[New] In 2024, Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-why-does-instagram-keep-flipping-my-video/"><u>[New] Why Does Instagram Keep Flipping My Video?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[Updated] Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[Updated] Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-combine-computer-imagery-like-a-pro/"><u>2024 Approved Combine Computer Imagery Like a Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-monetization-a-cpm-perspective/"><u>2024 Approved Mastering YouTube Monetization A CPM Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-youtube-watch-on-chrome-windows/"><u>Accelerate Your YouTube Watch on Chrome Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-act-reducing-excessive-background-load/"><u>Balancing Act: Reducing Excessive Background Load</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-ace-2-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus Ace 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80072efd-in-windows-devicesstore-apps/"><u>Overcoming Error 0X80072EFD in Windows Devices/Store Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/raising-the-bar-for-user-interface-in-w11-larger-icons/"><u>Raising the Bar for User Interface in W11: Larger Icons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-secure-your-browsing-with-microsofts-defender-in-win-11/"><u>Step-by-Step: Secure Your Browsing with Microsoft's Defender in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unplugged-bliss-selecting-smartphone-slowdowns/"><u>Unplugged Bliss Selecting Smartphone Slowdowns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-file-tracking-the-ultimate-guide-to-copying-windows-11-filesystem-trails-6-methods/"><u>Winning at File Tracking: The Ultimate Guide to Copying Windows 11 Filesystem Trails (6 Methods)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +102,22 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[Updated] 2024 Approved The Pro's Guide to iPhone Voice Memos and More</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-quick-realignment-youtube-on-mac-display-ratio/"><u>2024 Approved Quick Realignment YouTube on Mac Display Ratio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-concluding-your-videos-powerfully/"><u>2024 Approved The Art of Concluding Your Videos Powerfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-14-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 14 Face Lock?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-20-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 20 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-preventing-minecraft-crashes/"><u>Master the Art of Preventing Minecraft Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-ui-tweaks-windows-10-advanced-fix/"><u>Missing UI Tweaks: Windows 10 Advanced Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-troubles-in-wow-for-windows-users/"><u>Overcoming Startup Troubles in WoW for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-limits-top-4-software-for-exceeding-windows-maxed-volume/"><u>Pushing Limits: Top 4 Software for Exceeding Windows’ Maxed Volume</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/samsungs-solution-for-device-synergy-flow-streamlined/"><u>Samsung's Solution for Device Synergy - Flow Streamlined</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-defeat-windows-error-0xfffffff/"><u>Strategies to Defeat Windows' Error 0xFFFFFFF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-creating-windows-11-shortcuts-for-uwp/"><u>Streamlining Tasks: Creating Windows 11 Shortcuts for UWP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-10-streaming-services-worth-a-try/"><u>Updated 2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
+</ul></div>
+

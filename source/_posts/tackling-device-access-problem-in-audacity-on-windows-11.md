@@ -1,7 +1,7 @@
 ---
 title: Tackling Device Access Problem in Audacity on Windows 11
-date: 2024-10-24T17:04:01.273Z
-updated: 2024-10-26T16:55:44.709Z
+date: 2024-10-28T16:09:13.446Z
+updated: 2024-11-01T16:12:14.541Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Sound Devices Are Enabled
 
  The “Error while opening sound device” issue can arise because playback or recording devices are disabled. So, make sure the devices you’re trying to utilize with Audacity are fully enabled and set to default. This is how you can check your sound devices are enabled in Windows:
@@ -58,21 +51,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
@@ -83,8 +62,24 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 3. Select**Preferences** to bring up a settings window.  
 ![The Preferences option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/preferences-tab.jpg)
 4. Next, select the**Devices** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
@@ -100,6 +95,14 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 5. Then click the**Quality** tab.  
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
 ## 5\. Turn Off Software Playthrough
@@ -113,23 +116,16 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 4. Click the Preferences window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Endpoint Builder Service
@@ -140,18 +136,19 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 2. Enter**services** and open the Services app.
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
 ## 7\. Update Your PC’s Audio Device Driver
 
  If none of the above possible fixes do the trick, try updating your PC’s sound driver. The issue could be arising because your PC’s sound driver is outdated or corrupted. Our guide on[updating audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) includes instructions for applying this potential solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall Your PC’s Audio Driver
 
@@ -163,6 +160,14 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 4. Right-click High Definition Audio device to select an**Uninstall** context menu option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
@@ -188,20 +193,18 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-hit-list-top-10-songs-in-one-place/"><u>[Updated] 2024 Approved Hit List Top 10 Songs in One Place</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-dark-to-bright-on-your-lenovo/"><u>From Dark to Bright on Your Lenovo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apples-localized-ai-innovation-reaml-eclipses-microsofts-gpt-4-in-performance-digitalinsights/"><u>How Apple’s Localized AI Innovation, ReaML, Eclipses Microsoft's GPT-4 in Performance | DigitalInsights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-14-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 14 Pro Max Smoothly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docm file document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-10-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 10 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/real-time-aspect-ratio-modification-tips/"><u>Real-Time Aspect Ratio Modification Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/troubleshooting-techniques-to-restore-soundscape-on-lenovo-computers/"><u>Troubleshooting Techniques to Restore Soundscape on Lenovo Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-permanent-file-disposal-via-custom-trash-bin-setup/"><u>Windows 10/11: Permanent File Disposal via Custom Trash Bin Setup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-protect-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>[New] 2024 Approved Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-analyzing-multi-angle-video-technology-trends-today-for-2024/"><u>[New] Analyzing Multi-Angle Video Technology Trends Today for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-acquire-unlimited-stock-images-via-top-4-youtube-sources-for-2024/"><u>[Updated] Acquire Unlimited Stock Images via Top 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-pin-change-procedures/"><u>Breaking Down Windows PIN Change Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-up-the-boot-prompts-appearance/"><u>Brightening Up the BOOT Prompt's Appearance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-interface-limitations-top-solutions/"><u>Bypassing Windows Interface Limitations: Top Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/checking-if-windows-11-is-fully-operational/"><u>Checking If Windows 11 Is Fully Operational</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2231609-9781476621715-consciousness-studies/"><u>Consciousness Studies | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-and-install-showbox-streaming-platform-on-your-mac-a-step-by-step-guide/"><u>Download & Install Showbox Streaming Platform on Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pioneering-creations-cutting-edge-tips-for-gifs-for-2024/"><u>Pioneering Creations Cutting-Edge Tips for GIFs for 2024</u></a></li>
 </ul></div>
 

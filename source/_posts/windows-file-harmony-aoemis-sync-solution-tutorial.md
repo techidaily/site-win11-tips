@@ -1,7 +1,7 @@
 ---
 title: "Windows File Harmony: AOEMi's Sync Solution Tutorial"
-date: 2024-10-21T19:41:16.268Z
-updated: 2024-10-26T20:00:12.886Z
+date: 2024-10-29T18:05:46.974Z
+updated: 2024-11-01T17:54:34.318Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Basic Sync
@@ -53,10 +59,10 @@ To perform a basic sync:
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
@@ -66,10 +72,16 @@ To perform a basic sync:
 8. Finally, click**Start Sync** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
@@ -87,10 +99,16 @@ To perform a two-way sync:
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
@@ -112,6 +130,13 @@ Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Real-Time Sync
 
  For true real-time sync between the source and destination folders, you can enable AOMEI real-time sync. It's worth noting that this option isn't the most performant because it constantly has to poll the source folder to detect changes.
@@ -125,13 +150,6 @@ Within a few seconds, our file appears in the destination folder.
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
@@ -157,24 +175,22 @@ Within a few seconds, our file appears in the destination folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-efficient-strategies-to-log-facetime-discussions/"><u>[New] 2024 Approved Efficient Strategies to Log FaceTime Discussions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[Updated] In 2024, Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-black-and-white-to-richness-embracing-hdrs-power/"><u>2024 Approved From Black and White to Richness Embracing HDR's Power</u></a></li>
-<li><a href="https://discover-great.techidaily.com/5-effiziente-wege-zur-ubertragung-von-bildern-von-desktop-zu-apple-ipad/"><u>5 Effiziente Wege Zur Übertragung Von Bildern - Von Desktop Zu Apple iPad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/becoming-a-storage-strategy-expert-with-windows-diskusage-commands-mastery/"><u>Becoming a Storage Strategy Expert with Windows' DiskUsage Commands Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-running-task-manager-as-admin-on-win11/"><u>Elevate Your Computer Experience: Running Task Manager as Admin on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-compliance-with-insider-editions/"><u>Ensuring Compliance with Insider Editions</u></a></li>
-<li><a href="https://media-tips.techidaily.com/gratis-herunterladbare-dvd-player-programme-fur-windows-11-und-macos-beste-optionen-finden/"><u>Gratis Herunterladbare DVD-Player-Programme Für Windows 11 Und macOS – Beste Optionen Finden</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-not-responding-problems-in-windows-10-quickly/"><u>How to Fix 'File Explorer Not Responding' Problems in Windows 10 Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-enter-network-credentials-message-on-windows/"><u>How to Fix a Persistent Enter Network Credentials Message on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-suppress-gaming-suggestions-in-windows-11-ui/"><u>How to Suppress Gaming Suggestions in Windows 11 UI</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-bsplayer-9-pro-top-choice-for-streaming/"><u>In 2024, BSPlayer 9 Pro Top Choice for Streaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-15-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 15 Plus Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-swift-typing-techniques-with-powertoys/"><u>Master Swift Typing Techniques with PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-print-control-in-windows-11-9-ways-short-version-max-48-chars/"><u>Navigating Print Control in Windows 11 (9 Ways) - Short Version (Max 48 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070570-error-in-windows-restoring-damaged-data/"><u>Overcoming 0X80070570 Error in Windows: Restoring Damaged Data</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/subtle-techniques-for-edgenuity-free-study-time/"><u>Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-connectivity-issues-with-geforce-experience-software/"><u>Tackling Connectivity Issues with GeForce Experience Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-vanguard-ai-musicians-discovering-the-quintessential-sound-makers/"><u>Updated Vanguard AI Musicians Discovering the Quintessential Sound Makers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-football-video-analysis-top-youtube-infographics/"><u>[Updated] Football Video Analysis Top YouTube Infographics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-video-freely-on-any-os-no-cost-video-player/"><u>2024 Approved Stream Video Freely on Any OS No-Cost VIDEO Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/close-all-a-guide-to-ending-windows-instances-concurrently/"><u>Close All: A Guide to Ending Windows Instances Concurrently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-write-functionality-of-steam-folders-in-win-11/"><u>Enhancing Write Functionality of Steam Folders in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-taskbars-presence-during-window-maximum-size/"><u>Ensuring Taskbar's Presence During Window Maximum Size</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-error-0x80072f8f-0x20000/"><u>Expert Tips to Overcome Error 0X80072f8f - 0X20000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-printer-issues-a-step-by-point-guide/"><u>Fixing Disconnected Printer Issues: A Step-By Point Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-canon-mx49-pro-printer-up-to-date-free-drivers-for-windows-os/"><u>Getting Your Canon MX49^ Pro Printer Up-to-Date: Free Drivers for Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-amazon-echo-show-10-gen-3-revealed-innovative-roaming-features-for-your-space/"><u>In-Depth Amazon Echo Show 10 (Gen 3) Revealed: Innovative Roaming Features for Your Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-the-right-click-experience-for-update-tracking/"><u>Reinventing the Right-Click Experience for Update Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-windows-photo-viewer-on-windows-11-systems/"><u>Resurrecting Windows Photo Viewer on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/settle-down-high-contrast-settings-in-windows-10/"><u>Settle Down High Contrast Settings in Windows 10</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-5-ai-voice-generators-online-supports-all-browsers/"><u>Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/total-termination-of-wsl-in-the-windows-11-ecosystem/"><u>Total Termination of WSL in the Windows 11 Ecosystem</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-hands-free-screen-adjustment/"><u>Win10: Hands-Free Screen Adjustment</u></a></li>
 </ul></div>
 

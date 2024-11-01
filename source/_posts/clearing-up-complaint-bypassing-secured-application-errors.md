@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Complaint: Bypassing Secured Application Errors"
-date: 2024-10-23T21:16:39.232Z
-updated: 2024-10-26T20:51:44.699Z
+date: 2024-10-26T18:13:02.078Z
+updated: 2024-11-01T18:51:31.511Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
@@ -44,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable the SmartScreen Filter
@@ -67,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 ![Disable the SmartScreen Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-smartscreen-filter.jpg)
 5. Toggle off **Potentially unwanted app blocking** and **SmartScreen for Microsoft Store apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
 
 ## 5\. Modify the Group Policy Settings
@@ -86,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 3. Once you're in the Local Group Policy Editor window, navigate to the following:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options.`
@@ -97,19 +91,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 5. After making the changes, click **Apply > OK** and restart your computer to apply it.
 
  Keep in mind that modifying group policy settings can leave your computer vulnerable to malicious applications. Therefore, you should only do it as a last resort and revert the change as soon as you’re done.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Tweak the Registry Editor
 
@@ -198,34 +179,18 @@ net start cryptsvc`
 
  Wait for the process to finish and restart your computer. After the reboot, try running the blocked app again. It should now work without issues.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Access to Your Apps and Files on Windows
 
  Windows is known for its tight security which prevents malicious applications from launching and infecting your PC. However, sometimes even legitimate programs are blocked by the operating system and leave an error message saying “This app has been blocked for your protection.”
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win-trending.techidaily.com/cobian-backup/"><u>「Cobian Backupのネットワークドライブアクセス問題：その真相を解明する」</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-vigilance-tracking-top-7-potential-infection-pathways/"><u>Essential Windows Vigilance: Tracking Top 7 Potential Infection Pathways</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-apple-photo-imports-that-go-wrong-on-pcs-windows/"><u>How to Handle Apple Photo Imports That Go Wrong on PCs (Windows)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-phone-without-pin-by-drfone-android/"><u>How to Unlock Nubia Phone without PIN</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-reality-the-artisans-guide-to-lut-crafting/"><u>In 2024, From Concept to Reality The Artisan's Guide to LUT Crafting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-obs-mac-guide-streamlabs-setup/"><u>In 2024, OBS Mac Guide Streamlabs Setup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-witty-world-hilarity-on-screen-from-your-favorite-youtubers/"><u>In 2024, Witty World Hilarity on Screen From Your Favorite YouTubers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-romanian-with-the-award-winning-app-made-by-romanians/"><u>Learn Romanian With the Award-Winning App Made by Romanians</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/make-music-accessible-with-a-well-designed-youtube-playlist/"><u>Make Music Accessible with a Well-Designed YouTube Playlist</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-merge-edit-and-share-top-video-collage-apps-for-iphone-and-ipad-users/"><u>New In 2024, Merge, Edit, and Share Top Video Collage Apps for iPhone and iPad Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-net-core-not-installed-app-issue-in-windows/"><u>Overcoming .NET Core Not Installed App Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-operation-failure-in-windows-11-error-0x0000011b/"><u>Overcoming Operation Failure in Windows 11 (Error 0X0000011B)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-speaker-functionality-in-computers-abruptly/"><u>Restore Speaker Functionality in Computers Abruptly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-computer-speakers-fast-fixes-for-sound-problems/"><u>Revive Your Computer Speakers: Fast Fixes for Sound Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-grandmas-old-computer-for-better-use/"><u>Transform Your Grandma’s Old Computer for Better Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-eliminating-no-servers-found-in-apex-legends-(156-chars/"><u>Troubleshooting: Eliminating 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -234,3 +199,27 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tiktoks-triumph-the-most-shared-videos-on-twitter/"><u>[Updated] In 2024, TikTok's Triumph The Most Shared Videos on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-inshot-leading-video-editing-an-examination-review/"><u>2024 Approved Is InShot Leading Video Editing? An Examination Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-showdown-comparing-features-of-bings-ai-vs-chatgpt/"><u>ChatBot Showdown: Comparing Features of Bing’s AI Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/corrective-actions-for-broken-usb-tethered-mobile-internet-access/"><u>Corrective Actions for Broken USB Tethered Mobile Internet Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-privilege-restrictions-for-windows-installer-success/"><u>Easing Privilege Restrictions for Windows Installer Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-a-smooth-chrome-experience-on-windows-11/"><u>Effortless Fixes for a Smooth Chrome Experience on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elegant-volume-attenuation-using-lumafusion/"><u>Elegant Volume Attenuation Using Lumafusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-visibility-of-the-taskbar-with-maximized-window/"><u>Ensuring Visibility of the Taskbar With Maximized Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-underutilized-tools-for-system-monitoring/"><u>Exploring the Underutilized Tools for System Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-the-mist-of-talos-extender/"><u>How to Mend the Mist of Talos Extender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-test-a-microphone-on-windows-pc/"><u>How to Test a Microphone on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-win-11-games-in-no-time-the-ultimate-guide-to-boosting-your-playstyle/"><u>Master Win 11 Games in No Time: The Ultimate Guide to Boosting Your Playstyle</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-through-instagram-video-woes-with-ease-for-2024/"><u>Navigating Through Instagram Video Woes with Ease for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-methods-for-capturing-stunning-timelapse-videos-on-gopro-for-2024/"><u>Proven Methods for Capturing Stunning Timelapse Videos on GoPro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-situation-when-another-software-overrides-speakers/"><u>Remedying the Situation When Another Software Overrides Speakers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-link-failures-spotify-in-windows-11-environments/"><u>Resolving Link Failures: Spotify in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-for-setting-up-ms-word-opening-email-attachments-without-edit-options/"><u>Script for Setting Up MS Word: Opening Email Attachments Without Edit Options</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transcodificar-archivos-de-audio-de-wma-a-aiff-sin-costes-por-movavi-online/"><u>Transcodificar Archivos De Audio De WMA a AIFF Sin Costes Por Movavi Online</u></a></li>
+</ul></div>
+

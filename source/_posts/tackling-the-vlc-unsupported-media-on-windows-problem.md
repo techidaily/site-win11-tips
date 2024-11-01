@@ -1,7 +1,7 @@
 ---
 title: Tackling the 'VLC Unsupported Media' On-Windows Problem
-date: 2024-09-11T20:37:28.690Z
-updated: 2024-09-16T20:54:24.920Z
+date: 2024-10-29T18:55:21.162Z
+updated: 2024-11-01T16:01:21.213Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ To move the media file to a different folder:
 3. Right-click on the media file and select**Copy** .
 4. Next, create a new folder in**D:\\Users** and paste the file. Now open the file to see if it plays without the error.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change Folder or File Name
 
 ![rename file folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-folder-windows-11.jpg)
@@ -56,6 +63,13 @@ To rename the folder:
 4. Select the**Rename** option from the context menu. Alternatively, press**F2** on your keyboard to access the rename option.
 5. Rename the folder or file to a small name than the current folder name. Avoid using any special characters.
 6. Once renamed, open the folder and play any media file with the error to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset VLC Media Player Preference
 
@@ -82,28 +96,15 @@ To rename the folder:
 3. Next, press the**Win key** and type**VLC** .
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Right-click on the VLC Media Player icon and select**Open File Location.**  
 ![open vlc media player file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-vlc-medai-player-file-location.jpg)
 5. Next, right-click again on the**VLC media player** icon in the new**File Explore** tab and select**Open file location.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Here, locate and open the**lua** folder.
 2. Next, open the**playlist** folder.
@@ -112,10 +113,10 @@ To rename the folder:
 4. Select**Open with** and select**Notepad++** or another text file editor to open the file.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![youtube luac script save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-script-save.jpg)
@@ -134,19 +135,27 @@ To take ownership of a media file:
 2. Right-click on the media file and select**Properties** .  
 ![properties media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-media.jpg)
 3. In the**Properties** dialog, open the**Security** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
 5. Click the**Change** button for**Owner** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![file properties advanced security change owner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner.jpg)
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
 7. If the user is found, click**OK** .
@@ -163,21 +172,15 @@ To uninstall the VLC media player:
 ![windows 11 view installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-view-installed-apps.jpg)
 3. Click on**Installed apps** and then search for VLC.  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
 
@@ -198,5 +201,23 @@ To uninstall the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>[New] 2024 Approved Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-a-new-world-of-farming-the-best-7-mods-in-stardew/"><u>[Updated] In 2024, A New World of Farming - The Best 7 Mods in Stardew</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-replay-spotlight-how-vidma-measures-up-against-others/"><u>[Updated] Screen Replay Spotlight How Vidma Measures Up Against Others</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-communication-merging-skype-and-zoom-functionality/"><u>2024 Approved Boost Communication Merging Skype and Zoom Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-administering-pc-control-panel/"><u>Guide to Administering PC Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-fixing-missing-windows-1011-search-data/"><u>Guiding Users Through Fixing Missing Window's 10/11 Search Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-potentials-in-windows-11-unlocking-new-possibilities/"><u>Hidden Potentials in Windows 11: Unlocking New Possibilities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-lava-blaze-2-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-self-removal-from-facebook-photo-archives/"><u>Mastering Self-Removal From Facebook Photo Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-issue-unreachable-network-router-page/"><u>Overcoming Windows Issue: Unreachable Network Router Page</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-hot-30-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-overcome-windows-security-anomalies/"><u>Solutions to Overcome Windows Security Anomalies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/team-communication-reinvented-for-speed-and-clarity/"><u>Team Communication Reinvented for Speed & Clarity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-tech-gurus-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstall-and-reinstall-strategy-microsoft-store-problems/"><u>Uninstall and Reinstall Strategy: Microsoft Store Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting the Perfect Windows 11 Search Experience
-date: 2024-10-25T23:17:49.078Z
-updated: 2024-10-26T16:27:20.168Z
+date: 2024-10-30T16:27:47.542Z
+updated: 2024-11-01T17:16:50.269Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
  Choose any of the**SafeSearch** categories, depending on the level of filtering you want to apply to your search.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Include Search Results From Your Other Accounts
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
@@ -75,14 +75,15 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
 2. Beneath**Accounts Used by other apps** , click**Add a Microsoft Account** to add one, or**Add a Workplace or School Account** .  
-![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 ## 3\. Clear Search History on Your Device
 
@@ -107,17 +108,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Utilize Enhanced Search
@@ -131,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
  To turn on enhanced search, go to **Settings > Privacy & Security > Searching Windows to turn on enhanced search.** Tick the**Enhanced search** option to enable it. The process might take some time, so you might want to keep your PC plugged in.
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
@@ -159,18 +160,21 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>2024 Approved The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerate-footage-leading-android-apps-for-2024/"><u>Accelerate Footage Leading Android Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-prose-with-these-5-pc-apps/"><u>Boost Your Prose with These 5 PC Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-office-365-issue-code-30015-26/"><u>Correcting Office 365 Issue: Code 30015-26</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-finest-windows-11-drawers-here/"><u>Explore the Finest Windows 11 Drawers Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/impact-analysis-removal-of-windows-11-taskbars-chatting-function/"><u>Impact Analysis: Removal of Windows 11 Taskbar's Chatting Function</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-12-mini-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 12 mini and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208523630-minecraft-stability-restored-correcting-video-card-driver-errors-on-your-windows-pc/"><u>Minecraft Stability Restored: Correcting Video Card Driver Errors On Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-of-win11s-disconnected-5g-wi-fi/"><u>Tackling the Mystery of Win11's Disconnected 5G Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-mac-mouse-picks-your-comprehensive-guide/"><u>Top-Rated Mac Mouse Picks : Your Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-need-to-find-the-best-video-editing-apps-to-edit-video-on-your-ipad-we-can-help-from-here-this-guide-lists-the-best-video-editors-for-ipad-for-2024./"><u>Updated Need to Find the Best Video Editing Apps to Edit Video on Your iPad? We Can Help From Here. This Guide Lists the Best Video Editors for iPad for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-best-3d-video-player-for-android/"><u>[Updated] 2024 Approved Best 3D Video Player for Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-a-compelling-narrative-with-voiceover-and-visuals-for-2024/"><u>[Updated] Crafting a Compelling Narrative with Voiceover and Visuals for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transform-your-flip-to-flash-with-android/"><u>[Updated] Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-forward-hotkeys-for-fast-clicking/"><u>Drive Efficiency Forward: Hotkeys for Fast Clicking</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-g42-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia G42 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/"><u>Essential Fix Guide for WIN10/11's Corrupted Bin Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-hd-classics-unlocked-the-perfect-scummvm-techniques-for-windows-users/"><u>Full HD Classics Unlocked: The Perfect ScummVM Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi Redmi Note 12R.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-insights-on-the-new-samsung-galaxy-tab-s6-features-including-s-pen-and-dex-mode/"><u>In-Depth Insights on the New Samsung Galaxy Tab S6 - Features Including S Pen & DeX Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-into-system32-folder-of-win11/"><u>Journey Into System32 Folder of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win-11-edge-security-using-ms-defender-application-guard/"><u>Optimize Win 11 Edge Security Using MS Defender Application Guard</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/undamentals-of-quality-streaming-how-to-do-it-right-with-wirecast-and-youtube/"><u>The Fundamentals of Quality Streaming How to Do It Right with WireCast and Youtube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/which-platform-triumphs-in-revenue-generation-dailymotion-vs-youtube-for-2024/"><u>Which Platform Triumphs in Revenue Generation? Dailymotion Vs YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadow-issue-fixes-for-fall-creators-patch/"><u>Win11 Shadow Issue - Fixes for Fall Creator's Patch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-fix-a-step-by-step-guide/"><u>WinError 0Xc0000005 Fix: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

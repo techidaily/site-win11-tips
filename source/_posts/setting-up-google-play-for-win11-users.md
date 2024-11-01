@@ -1,7 +1,7 @@
 ---
 title: Setting Up Google Play for Win11 Users
-date: 2024-10-24T20:23:36.754Z
-updated: 2024-10-26T21:38:46.668Z
+date: 2024-10-25T18:10:48.886Z
+updated: 2024-11-01T16:58:45.447Z
 tags:
   - windows10
   - windows11
@@ -39,23 +39,9 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Note that this process requires installing third-party modified files and packages and involves potential risks. Before proceeding,[create a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) or[recovery drive](http://www.makeuseof.com/create-recovery-drive-system-repair-disc-windows-10/) . These recovery options can help you undo the changes or repair the system if something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Uninstall Android Subsystem for Android
 
 ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
 
@@ -70,6 +56,13 @@ To uninstall WSA:
 ## Step 2: Enable Developer Mode in Windows 11
 
 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -106,24 +99,25 @@ To install WSL and a Linux distro on Windows 11:
 ![windows subsystem for linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-linus-1.jpg)
 3. Next, search for a Linux distro. We’ll use Ubuntu. So, search for**Ubuntu** and install the distro. If you have a Linux distro installed, you can skip to the next step  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Ubuntu distro windows 11 install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ubuntu-distro-windows-11-install-1.jpg)
 4. Once installed, press the**Win** key and type**Ubuntu** . Right-click on**Ubuntu** and select**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the Ubuntu terminal, you’ll need to create a user with a password for the Linux system. So, create a username and password. Leave the Ubuntu terminal open.
 
  Now you’ll see a Linux\\Ubuntu folder in File Explorer’s left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 5: Setup Magisk and Windows Subsystem for Android
@@ -140,19 +134,20 @@ To install WSL and a Linux distro on Windows 11:
 5. Press**Enter** to close the GitHub repository to the Linux user account on your computer.  
 ![run script magiskonwsa local install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-script-magiskonwsa-local-install.jpg)
 6. Next, type the following command to move to the scripts folder. This will change the directory to the specified folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `cd MagiskOnWSALocal  
 cd scripts`
 7. Next, type the following command to run the script and download the necessary files to install all the necessary files for Magisk, Play Store, and Windows Subsystem for Android:  
 `./run.sh`
 8. Depending on your Internet speed, downloading may take some time. So, wait till the process is complete.
 9. As the process completes, you’ll see a command line installer open up.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 6: Install Google Play Store on Windows 11
 
@@ -161,6 +156,20 @@ cd scripts`
 2. Next, select**X64 X86\_64** for**Build Arch** .  
 ![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
 3. Next, for**WSA release** type, select**Retail Stable Channel** .  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
@@ -190,21 +199,14 @@ or
 4. Copy all the files and folders inside the**WSA** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, go to your installation drive**C:\\** and create a new folder named**WSA** .  
 ![WSA folder Windows C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-folder-windows-c-drive.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Paste the copied files into the**WSA** folder.
 2. Close**File Explorer** .
@@ -221,6 +223,13 @@ To enable Developer mode on Windows Subsystem for Android:
 
 ![Windows subsystem for android enable developer mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-android-enable-developer-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press the**Win** key, type**Windows Subsystem for Android** , and open the app from the search results.
 2. Next, open the**Developer** tab in the left pane.
 3. Toggle the**Developer mode** switch to turn it**On** .
@@ -231,10 +240,10 @@ To enable Developer mode on Windows Subsystem for Android:
  Now you can install Android apps on Windows 11 from Google Play Store. That said, some apps may still not work properly due to the region and licensing restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installing the Google Play Store on Windows 11
@@ -258,20 +267,21 @@ To enable Developer mode on Windows Subsystem for Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-high-end-downloads-best-10-apps-for-extracting-vimeo-videos-for-2024/"><u>[New] High-End Downloads Best 10 Apps for Extracting Vimeo Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>[Updated] In 2024, 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-method-integrating-links-into-tiktok-bios/"><u>2024 Approved Optimal Method Integrating Links Into TikTok Bios</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-earphones-malfunction-heres-how-you-can-resolve-the-issue/"><u>Corsair Earphones Malfunction? Here's How You Can Resolve the Issue!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/discover-the-magic-unveiling-hot-images-at-pexels-for-2024/"><u>Discover the Magic Unveiling Hot Images at Pexels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-widgets-toolbar-in-windows-11/"><u>How to Enable the Widgets Toolbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-halt-automatic-windows-11-reboots/"><u>How to Halt Automatic Windows 11 Reboots</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-proven-pathways-to-profit-with-youtube-short-videos/"><u>In 2024, Proven Pathways to Profit with YouTube Short Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-pc-invalid-name-issue-on-windows-11/"><u>Overcoming PC Invalid Name Issue on Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-recorder-devices-for-livestreaming-pros-on-youtube/"><u>Prime Recorder Devices for Livestreaming Pros on YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resuscitating-a-frozen-system-interface/"><u>Resuscitating a Frozen System Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-illusions-spatial-and-temporal-shifts/"><u>[New] Crafting Illusions Spatial and Temporal Shifts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-dynamic-public-speaker-review-v8/"><u>[New] Dynamic Public Speaker Review V8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlined-strategies-for-powerpoint-recordings/"><u>[New] Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-easy-guide-record-mov-files-on-win-11-pc-for-2024/"><u>[Updated] Easy Guide Record MOV Files on Win 11 PC for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-in-splitgate-strategies-for-fixing-low-fps-and-reducing-delays/"><u>Achieve Smoother Gameplay in Splitgate: Strategies for Fixing Low FPS & Reducing Delays</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/avi-mpeg/"><u>AVI から MPEGへ高画質移行手順と両フォーマット比較</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor 100 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workflow-with-process-management-and-aesthetic-overhaul-in-w11/"><u>Elevate Workflow with Process Management & Aesthetic Overhaul in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-chromiums-network-access-over-windows-security-barrier/"><u>Enabling Chromium's Network Access Over Windows Security Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-portable-software-menu-to-windows-11-and-11/"><u>How to Add a Portable Software Menu to Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-optimize-windows-storage-spotting-large-disk-usage/"><u>How to Optimize Windows Storage: Spotting Large Disk Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-reviving-a-sluggish-windows-11-experience/"><u>Quick Tips: Reviving a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reduce-windows-browser-process-count/"><u>Steps to Reduce Windows' Browser Process Count</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-enhancing-productivity-using-wsl-2/"><u>Top Strategies: Enhancing Productivity Using WSL 2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/whats-trending-on-tiktok-and-twittersphere-for-2024/"><u>What's Trending on TikTok and Twittersphere for 2024</u></a></li>
 </ul></div>
 

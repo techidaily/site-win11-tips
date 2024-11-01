@@ -1,7 +1,7 @@
 ---
 title: Easy Print Fixes for Common Windows 11 Printer Hiccups
-date: 2024-09-11T01:20:44.079Z
-updated: 2024-09-12T01:20:44.079Z
+date: 2024-10-28T17:35:48.584Z
+updated: 2024-11-01T17:15:38.255Z
 tags:
   - windows10
   - windows11
@@ -36,20 +36,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  If none of the aforementioned basic checks and fixes resolves the issue, you can start applying the remaining fixes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Run the Printer Troubleshooter
 
  Start investigating the problem by running the Printer troubleshooter. It's a built-in utility in Windows that helps users diagnose issues with their printers and provides suggestions for fixing them.
@@ -58,41 +44,21 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ![list of Windows troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/list-of-windows-troubleshooters.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Update the Relevant Drivers
 
@@ -104,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
 
@@ -129,25 +102,12 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 7. Restart your PC.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Recheck Your Default Printer
 
@@ -159,62 +119,28 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 ![devices and printers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/devices-and-printers.jpg)
 4. Then, head over to**Properties > Ports** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Check for New Windows Updates
 
@@ -227,35 +153,14 @@ Here's how you can check that:
 3. Click on**Check for Updates** .  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-options.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Remove Your Last Windows 11 Update
 
@@ -280,24 +185,18 @@ To go back to a restore point:
 ![advanced recovery tools in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/advanced-recovery-tools1.jpg)
 5. The System Restore dialogue box will launch open. Click on**Next** to proceed forward.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Select the restore point to restore your computer back to when your printer was functioning without a hitch.
 7. Again, click on**Next** and then**Finish** to confirm your restore point.
 8. It will confirm one last time if you wish to proceed with the system restore process. Move your cursor to**Yes** and click.
 
  Your PC will restart while it resets your Windows 11 to its last restore point.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Printer’s Fixed and Running—What’s Next?
 
@@ -309,8 +208,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -318,4 +215,18 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-affordable-online-communication-apps-for-video-calls/"><u>2024 Approved Top 10 Affordable Online Communication Apps for Video Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>2024 Approved Unveiling the Essence Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-keyboard-shortcuts-to-access-windows-ease-of-access/"><u>5 Keyboard Shortcuts to Access Windows Ease of Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-windows-11s-core-deciphering-its-registry/"><u>A Deep Dive Into Windows 11'S Core: Deciphering Its Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-towards-improved-security-extending-pins-in-oses/"><u>A Step Towards Improved Security: Extending PINs in OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-full-screen-display-overcoming-windows-overscan/"><u>Achieve Seamless Full-Screen Display: Overcoming Windows Overscan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-windows-11-home-hub-guide/"><u>Activate Windows 11 Home Hub: Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-online-tools-to-generate-artificial-faces-for-free/"><u>New 2024 Approved Top Online Tools to Generate Artificial Faces for Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reboot-and-refresh-effective-techniques-for-factory-resetting-your-lenovo-laptop/"><u>Reboot and Refresh: Effective Techniques for Factory-Resetting Your Lenovo Laptop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-restoring-missing-vcompdll-components-in-your-system/"><u>The Ultimate Guide to Restoring Missing vcomp.dll Components in Your System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
+</ul></div>
 

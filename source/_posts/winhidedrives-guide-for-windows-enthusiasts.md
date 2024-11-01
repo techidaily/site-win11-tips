@@ -1,7 +1,7 @@
 ---
 title: WinHideDrives Guide for Windows Enthusiasts
-date: 2024-10-19T20:48:12.783Z
-updated: 2024-10-26T21:38:16.055Z
+date: 2024-10-28T17:36:30.768Z
+updated: 2024-11-01T16:11:27.054Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `list volume`  
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
@@ -60,6 +68,13 @@ To hide a drive in Windows with Command Prompt, follow these steps:
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
  If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Hide a Drive Using the Group Policy Editor
 
@@ -78,10 +93,10 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
@@ -109,39 +124,19 @@ Here's what you need to do:
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -164,24 +159,22 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-power-of-hashtags-on-instagram-now/"><u>[New] Mastering the Power of #Hashtags on Instagram Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assisting-with-utorrent-sync-halt-on-microsoft-operating-systems/"><u>Assisting with uTorrent Sync Halt on Microsoft Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/drive-efficiency-to-new-heights-with-collective-windows-11-folder-creation/"><u>Drive Efficiency to New Heights with Collective Windows 11 Folder Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exposing-how-to-circumvent-secure-boot-mechanism-in-windows-11/"><u>Exposing How To Circumvent Secure Boot Mechanism in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y200e-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y200e 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-sky-high-creations-professional-tips-for-drone-video-mastery/"><u>In 2024, Sky High Creations Professional Tips for Drone Video Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-skewed-imagery-texts/"><u>Mastering Skewed Imagery Texts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pioneer-productivity-mass-folder-creation-on-modern-windows-systems/"><u>Pioneer Productivity: Mass Folder Creation on Modern Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-resolving-unreachable-device-error-on-pc/"><u>Quick Guide: Resolving Unreachable Device Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-your-personalized-mixer-settings-after-crashes/"><u>Reinstating Your Personalized Mixer Settings After Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-file-transfer-via-winrar-6-corrective-steps-for-sums/"><u>Secure File Transfer via WinRAR: 6 Corrective Steps for Sums</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/simple-tricks-to-transform-your-vqf-audio-into-crystal-clear-mp3-format/"><u>Simple Tricks to Transform Your VQF Audio Into Crystal Clear MP3 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mcpr-files-into-mp4-video-format/"><u>Step-by-Step Guide: Transforming MCPR Files Into MP4 Video Format</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11s-cloud-storage-functionality/"><u>Streamlining Windows 11'S Cloud Storage Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-tv-a-step-by-step-guide-to-restoring-netflix-sounds/"><u>Troubleshoot Your TV: A Step-by-Step Guide to Restoring Netflix Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-your-digital-desktop-top-5-apps-for-customizable-clock-screen-savers-on-windows/"><u>Upgrade Your Digital Desktop: Top 5 Apps for Customizable Clock Screen Savers on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-rotation-recording-versus-stereo-capture/"><u>[Updated] Complete Rotation Recording Versus Stereo Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-libertycam-pro-live-stream-review-explored-for-2024/"><u>[Updated] LibertyCam Pro Live Stream Review Explored for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-2023-guide-to-best-in-class-professionals-spinning-cameras/"><u>2024 Approved The 2023 Guide to Best-in-Class Professionals' Spinning Cameras</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-the-economical-aspects-of-nikons-sb-700/"><u>Assessing the Economical Aspects of Nikon's SB-700</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-managing-app-packages-using-wingetui-in-windows-11/"><u>Essential Guide to Managing App Packages Using WingetUI in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expediting-the-epic-games-universe-download-process/"><u>Expediting the Epic Games Universe Download Process</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between-for-2024/"><u>New S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-icon-cache-via-command-line/"><u>Optimizing Icon Cache via Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-error-microsoft-store-0x80073cf3/"><u>Overcoming Windows 11 Error: Microsoft Store 0X80073cf3</u></a></li>
+<li><a href="https://driver-error.techidaily.com/responsive-clicks-no-freezing-on-pc/"><u>Responsive Clicks, No Freezing on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-deploy-powertoys-in-win11-environments/"><u>Securely Deploy PowerToys in Win11 Environments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-red-dead-redemption-2s-unending-launch-sequence-a-step-by-step-guide/"><u>Solving Red Dead Redemption 2'S Unending Launch Sequence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-crash-resolve-error-code-x800704cf/"><u>Tackling Microsoft Store Crash: Resolve Error Code X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-potential-via-shortcut-combinations/"><u>Unveiling Windows' Hidden Potential via Shortcut Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-bestowed-powers-via-command-line/"><u>Windows 11: Bestowed Powers via Command Line</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-studio-optimization-device-agnostic-approaches/"><u>Youtube Studio Optimization Device-Agnostic Approaches</u></a></li>
 </ul></div>
 

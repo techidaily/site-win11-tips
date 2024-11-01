@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows 11'S Camera App Failures Effortlessly
-date: 2024-10-21T21:20:43.075Z
-updated: 2024-10-27T00:35:33.918Z
+date: 2024-10-28T16:57:12.618Z
+updated: 2024-11-01T18:49:05.748Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable and Start the Windows Camera Frame Server Service
 
  Error 0xA00F429F can often be due to a disabled Windows Camera Frame Server service. Some users who’ve needed to resolve the 0xA00F429F error have confirmed that enabling and starting the service fixed the issue. This is how you can enable and start the Windows Camera Frame Server service:
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Edit the Platform Registry Key
 
  Another confirmed fix for error 0xA00F429F is to edit the**Platform** registry key by creating a new EnableFrameServerMode DWORD. If you’re not entirely comfortable with editing the registry, you can[create a registry backup in Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before proceeding with this potential solution. Just make sure you tweak the registry exactly as follows:
@@ -72,30 +72,16 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enableframeservermode-dword.jpg)
 4. Then input**EnableFrameServerMode** in the DWORD’s name box.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Double-click the**EnableFrameServerMode** DWORD.
 6. Set the**EnableFrameServerMode** value to**0** and click**OK** .  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-dword-value-window.jpg)
 7. Restart Windows before opening Windows Camera again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Camera App
@@ -105,6 +91,19 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  You can clear the data for Windows Camera as covered in our[how to reset apps in Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) guide. While you’re at it, you can also try selecting Camera’s**Repair** option if resetting the app doesn’t make a difference.
 
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
 
@@ -116,22 +115,29 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
  Also, note that some antivirus software packages have camera shields that prevent apps from accessing webcams. For example, Avast Premium Security is one such antivirus tool that incorporates a Webcam Shield feature. If you have installed third-party antivirus software, check to see if it has such a camera shield and disable it if it’s enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update Your Webcam’s Driver
 
  The error 0xA00F429F message suggests updating camera drivers as a potential solution for this issue. That highlights this error can arise because of an outmoded or faulty camera device driver on your PC. So, try updating the driver for your PC’s webcam if it needs updating.
 
 ![The Driver Booster window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-booster-software.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
@@ -144,18 +150,25 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 `Get-AppxPackage *camera* | Remove-AppxPackage`  
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
 
@@ -176,20 +189,15 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-foremost-biodegradable-equipment-for-video-filming/"><u>[Updated] 2024 Approved Foremost Biodegradable Equipment for Video Filming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-all-about-io-screen-capture-mastery-guidebook-for-2024/"><u>[Updated] All About IO Screen Capture Mastery Guidebook for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-taking-views-viral-the-ultimate-guide-for-youtube-success/"><u>2024 Approved Taking Views Viral The Ultimate Guide for YouTube Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-steps-to-disable-automatic-updates-in-windows/"><u>5 Steps To Disable Automatic Updates in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dims-masterclass-restoring-and-repairing-win11-images/"><u>DIMS Masterclass: Restoring and Repairing Win11 Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-strategies-to-control-external-hard-drive-usage/"><u>Effective Strategies to Control External Hard Drive Usage</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-neo-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT Neo 5 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c12-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C12 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-htc-u23-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your HTC U23 Screen | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-s-most-popular-free-m4a-editor-programs/"><u>New In 2024, S Most Popular Free M4A Editor Programs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-non-functioning-reading-aloud-in-word-2016plus/"><u>Quick Guide to Reviving Non-Functioning Reading Aloud in Word 2016+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simple-steps-to-record-clear-sound-in-windows-11/"><u>Simple Steps to Record Clear Sound in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-typing-solutions-for-windows-pcs-7-must-dos/"><u>Speedy Typing Solutions for Windows PCs (#7 Must-Dos)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-c55-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme C55 without backup.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-copy-pasting-issues-across-chrome-edge-and-firefox-on-win/"><u>Troubleshooting Copy-Pasting Issues Across Chrome, Edge, & Firefox on Win</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-windows-recovery-toolkit/"><u>Essential Routes to Windows Recovery Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-saved-gamer-tactics-with-launcher-backups/"><u>Mastering Saved Gamer Tactics with Launcher Backups</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-music-to-a-video-online-for-free/"><u>New In 2024, How to Add Music to a Video Online for Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-microsoft-surface-driver-with-minimal-hassle/"><u>Step-by-Step Guide: Updating Your Microsoft Surface Driver with Minimal Hassle</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-ultimate-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>The Ultimate Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thorough-breakdown-googles-podcast-app-unveiled/"><u>Thorough Breakdown Google's Podcast App Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/uniden-r3-analysis-robust-construction-and-extended-range-capabilities/"><u>Uniden R3 Analysis: Robust Construction and Extended Range Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-renewal-methods-for-driver-replacement-and-update/"><u>Windows Renewal: Methods for Driver Replacement and Update</u></a></li>
 </ul></div>
 

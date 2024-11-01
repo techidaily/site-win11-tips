@@ -1,7 +1,7 @@
 ---
 title: "Ways to Scrub Windows' Safety Log Files: Easy Methods"
-date: 2024-10-21T16:48:24.694Z
-updated: 2024-10-26T18:19:29.872Z
+date: 2024-10-27T17:23:23.548Z
+updated: 2024-11-01T17:26:59.706Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  Now let's see four easy ways to clear Protection History in Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Clear the Microsoft Defender's Protection History Folder
 
  You can manually clear the Protection History by deleting the contents of the Service folder in the Windows Defender folder using File Explorer. Here's how:
@@ -47,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 3. You can also paste the **C:\\ProgramData\\Microsoft\\Windows Defender\\Scans\\History** path in the File Explorer navigation bar and then hit **enter**.  
 ![Defender History Folder Path in File Explorer Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/defender-history-folder-path-in-file-explorer.jpg)  
  Alternatively, you can navigate to the **Defender Protection History** folder using the above path in File Explorer. If you don't see the **ProgramData** folder when you open the Local Drive, select **View** and then tick the box next to **Hidden items**.  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Hidden Items under View to See ProgramData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Click-Hidden-Items-under-View-to-See-ProgramData-Folder.jpg)
 4. Open the **Service** folder and select all the files inside it. **Right-click** and select **Delete** to clear all the files. Then exit File Explorer.  
 ![Select Files in History Folder and Delete Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Select-Files-in-History-Folder-and-Delete-Them.jpg)
@@ -56,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 7. Finally, toggle the button to **Off** and then to **On** again, for **Real-Time protection** and **Cloud-delivered protection**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Clear the Microsoft Defender Protection History Using the Event Viewer
@@ -74,33 +89,19 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 ![Windows Defender selected in Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Navigate-to-Windows-Defender-in-Event-Viewer.jpg)
 6. Double-click on **Windows Defender**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Then right-click on **Operational** and select **Open** to view all the past logs.  
 ![Open Operational Option to View Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Operational-Option-to-View-Defender-Logs.jpg)
 8. Now you can right-click on **Operational** in the left pane and choose **Clear Log**. Or click on **Clear Log** on the right pane under **Actions**.  
 ![Options to Clear Log from Left Pane or Under Actions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Options-to-Clear-Log-Of-Windows-Defender.jpg)
 9. Select **Clear** to clear the protection history. If you wish to save the protection history logs for future reference before clearing them, select **Save and Clear**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Options to Clear Logs or Save and Clear Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Clear-and-Save-and-Clear-Options-for-Defender-Logs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Clear the Microsoft Defender Protection History via PowerShell
@@ -115,7 +116,27 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 ![Command to Clear Protection History in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-Command-to-Clear-Protection-History.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The number **7** at the end of the command is the number of days after which the protection history logs will be cleared. Just change that number to specify when you want the protection history to be cleared. And it will be cleared automatically.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Clear the Microsoft Defender Protection History Using the Group Policy Editor
 
@@ -128,23 +149,9 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 ![Navigate to Windows Defender Antivirus in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Navigate-to-Windows-Defender-Antivirus-in-Group-Policy-Editor.jpg)
 5. In the list of **Windows Defender** items, **double-click** on the **Scan** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. In the right pane, **double-click** on **Turn on removal of items from scan history folder**. Or click **Edit policy setting** in the middle pane. This policy setting defines the number of days items should be kept in the scan history folder before being permanently removed.  
 ![Turn on Removal of Items Policy in Defender Scan Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Edit-Removal-of-Items-Policy-in-Defender-Scan-Folder.jpg)
 7. Next, select **Edit policy setting** to open the policy window. It would be showing **Not Configured** by default. To set the number of days, toggle on the button next to **Enabled**. The default number of days, which is **30**, would then be set. If you set the number of days to zero, items will be kept forever and will not be automatically removed. So just change the days to whenever you want the items to be removed. Finally, click **Apply** and then **OK**.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Specify Number of Days to Remove Scan Items in Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Number-of-Days-to-Remove-Scan-Items.jpg)
 
@@ -156,23 +163,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-direct-transfer-techniques-camera-roll-images-to-snapchat-for-2024/"><u>[New] Direct Transfer Techniques Camera Roll Images to Snapchat for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>[Updated] Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-troubleshooting-obs-fullscreen-failure/"><u>2024 Approved Troubleshooting OBS Fullscreen Failure</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/action-to-archive-screencast-review-essentials/"><u>Action to Archive Screencast Review Essentials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-error-x80131500-in-windows-shop/"><u>Demystifying Error X80131500 in Windows Shop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-11-fixes-22h2-edition/"><u>Essential Windows 11 Fixes: 22H2 Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-luminous-transitions-crafting-dynamic-colors/"><u>In 2024, Luminous Transitions Crafting Dynamic Colors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>In 2024, Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-silenced-microphone-for-xbox-console/"><u>Reviving Silenced Microphone for Xbox Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-powershell-access-control/"><u>Steps to Enhance PowerShell Access Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-windows-11s-volume-mixer/"><u>Unlock the Full Potential of Windows 11'S Volume Mixer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix GT 10 Pro | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +170,19 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-search-performance-with-these-key-methods/"><u>Boosting Windows 11 Search Performance with These Key Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-void-spaces-in-windows-navigator/"><u>Bridging Void Spaces in Windows Navigator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-workspace-failures-fixing-office-errors-in-winos/"><u>Bypassing Workspace Failures: Fixing Office Errors in WinOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-i-tuoi-file-m4v-a-mp4-gratuitamente-online-con-convertitore-rapido-di-movie-converter/"><u>Cambia I Tuoi File .M4v a .mp4 Gratuitamente Online Con Convertitore Rapido Di Movie Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-windows-slideshow-execute-with-seven-simple-steps/"><u>Captivating Windows Slideshow - Execute with Seven Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-effective-real-time-file-transfer-software-google-and-windows-options/"><u>Choosing Effective Real-Time File Transfer Software: Google & Windows Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/grow-picture-dimensions-maintain-fidelity/"><u>Grow Picture Dimensions, Maintain Fidelity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>Master the Art of Attraction Secrets to Viral TikTok Unboxing Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-ai-enhanced-virtual-crime-sleuthing-interactive-murder-mysteries/"><u>Top 4 AI-Enhanced Virtual Crime Sleuthing: Interactive Murder Mysteries</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-technique-for-bypassing-drm-restrictions-in-pdf-documents/"><u>Ultimate Technique for Bypassing DRM Restrictions in PDF Documents</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-prime-content-top-8-facebook-tools-in-23-for-2024/"><u>Unlocking Prime Content Top 8 Facebook Tools in '23 for 2024</u></a></li>
+</ul></div>
+

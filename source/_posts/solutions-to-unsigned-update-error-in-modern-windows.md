@@ -1,7 +1,7 @@
 ---
 title: Solutions to Unsigned Update Error in Modern Windows
-date: 2024-10-20T00:32:19.501Z
-updated: 2024-10-27T00:18:03.043Z
+date: 2024-10-25T18:53:41.204Z
+updated: 2024-11-01T16:36:48.877Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run Deployment Imaging and System File Scans
 
  System file corruption is among the [most common reasons for Windows update errors](https://www.makeuseof.com/reasons-why-windows-updates-fail/). For that reason, running a System File Checker scan to address system file corruption is a recommended troubleshooting method for error 0x800b0109\.
@@ -57,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check the Windows Update and BITS Services Are Enabled
@@ -75,20 +62,20 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 5. Set the **Startup type** setting to the **Automatic** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
 6. Click **Start** (inside the properties windows) to run the Windows Update service.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Save the settings by pressing the **Apply** and **OK** buttons.
@@ -98,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 11. Then click on the **Apply** and **OK** options to set that service’s options.
 
  If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset Components for Windows Updates
 
@@ -112,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
  Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Erase the Windows Update Key
 
@@ -142,14 +143,20 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 ![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
 4. Note down the KB code for your recently failed Windows update.
 
- Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
 
 ## 8\. Apply an In-Place Windows Upgrade
 
@@ -159,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
 ![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Windows Updated Again
 
  There isn’t a surefire way to fix error 0x800b0109 since there are varied possible reasons for that Windows 11/10 issue occurring. However, it’s likely at least one of the eight potential resolutions in this guide will fix that update issue on your PC.
@@ -174,25 +174,6 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
  Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-10-best-online-learning-sites-like-udemy/"><u>[Updated] 2024 Approved 10 Best Online Learning Sites Like Udemy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-access-royalty-free-beats-for-your-vlog-and-more/"><u>[Updated] 2024 Approved Access Royalty-Free Beats for Your Vlog & More</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-flat-to-fierce-transformative-color-workflows/"><u>[Updated] From Flat to Fierce Transformative Color Workflows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-your-cameras-potential-with-top-rated-drones-gimbals/"><u>[Updated] Unleashing Your Camera's Potential with Top-Rated Drones Gimbals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>2024 Approved Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-file-organization-grouped-directories-at-a-glance-on-windows-11/"><u>Enhance File Organization - Grouped Directories at a Glance on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-a-tidy-desktop-unnecessary-windows-software-list/"><u>Get a Tidy Desktop: Unnecessary Windows Software List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-video-edits-easy-techniques-on-your-windows-pc/"><u>In 2024, The Art of Video Edits Easy Techniques on Your Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-challenges-a-guide-to-fixing-your-manager-tool-in-windows-11/"><u>Navigating Challenges: A Guide to Fixing Your Manager Tool in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-cooling-policies-in-microsofts-os-environment/"><u>Navigating Cooling Policies in Microsoft's OS Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-keyboard-functionality-embedding-commands-for-wordpad-into-context-bar/"><u>Optimizing Keyboard Functionality: Embedding Commands for Wordpad Into Context Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-sudden-security-hurdles/"><u>Overcoming Windows 11'S Sudden Security Hurdles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-subtle-art-of-windows-11s-user-information-extraction/"><u>The Subtle Art of Windows 11'S User Information Extraction</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,3 +181,25 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-bumper-bliss-kids-car-games-galore/"><u>[New] 2024 Approved Bumper Bliss Kids Car Games Galore</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-leading-macos-sierra-choices-for-file-conversion/"><u>[New] In 2024, Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>[New] Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-add-chapters-to-youtube-videos/"><u>[Updated] How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-examples-podcast-summaries/"><u>Crafting Compelling Examples Podcast Summaries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-to-enhance-windows-high-dpi-scaling/"><u>Effective Fixes to Enhance Windows High DPI Scaling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/line-livewindowspc/"><u>LINE LIVE動画のWindowsPC向け保存ガイド：ダウンロード＆録画方法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-tips-maintaining-high-quality-in-smaller-sizes/"><u>MP4 Video Compression Tips: Maintaining High-Quality in Smaller Sizes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-your-digital-footprint-windows-login-guide/"><u>Removing Your Digital Footprint: Windows Login Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-with-ntfs-compression-in-win11/"><u>Streamline Storage with NTFS Compression in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedy-dealing-with-roblox-error-code-262/"><u>Swift Remedy: Dealing with Roblox Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-insufficient-rights-error-during-windows-installation/"><u>Tackling Insufficient Rights Error During Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-drive-camouflage-in-w11w10/"><u>The Art of Drive Camouflage in W11/W10</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transform-your-images-and-videos-with-winxvideo-ai-tools-for-enhancing-quality-stabilizing-footage-converting-formats-and-editing/"><u>Transform Your Images and Videos with Winxvideo AI - Tools for Enhancing Quality, Stabilizing Footage, Converting Formats & Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-upgrade-error-xc004f050/"><u>Troubleshooting Windows Upgrade Error Xc004f050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-pinning-to-windows-11-bar/"><u>Unleash Potential: Pinning to Windows 11 Bar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-refresh-rate-fix/"><u>Windows 10 Refresh Rate Fix</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Required Parts Not Found Error in Win11
-date: 2024-09-11T01:20:43.363Z
-updated: 2024-09-12T01:20:43.363Z
+date: 2024-10-25T17:41:19.441Z
+updated: 2024-11-01T16:05:32.398Z
 tags:
   - windows10
   - windows11
@@ -20,26 +20,6 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
@@ -47,20 +27,6 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
  Check out [how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Repair Visual C++ Packages on Your PC
 
@@ -75,19 +41,12 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 4. Select the **Repair** option in the Visual C++ window that opens.  
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -99,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click **I agree** \> **Install** in the Microsoft Visual C++ 2015-2022 window.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
@@ -131,63 +77,42 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -197,43 +122,23 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Kick-Start Your Windows Games Again
 
@@ -243,11 +148,33 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-craft-engaging-titlescaptions-with-microsofts-photos-app-win-11-for-2024/"><u>[New] Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-deciphering-instagram-stories-what-youre-not-seeing-as-a-viewer/"><u>[New] Deciphering Instagram Stories What You're Not Seeing as a Viewer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-essential-update-on-whats-new-with-facebook-for-2024/"><u>[New] The Essential Update on What's New with Facebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-virtual-realms-of-meta-and-omni/"><u>[New] Unveiling the Virtual Realms of Meta and Omni</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tailoring-audience-for-your-youtube-videos/"><u>[Updated] Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>2024 Approved Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-make-the-windows-terminal-your-default-terminal-app/"><u>3 Ways to Make the Windows Terminal Your Default Terminal App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-10-step-guide-to-windows-health-reports/"><u>A 10-Step Guide to Windows Health Reports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-11-safe-mode-6-routes-covered/"><u>Accessing Windows 11 Safe Mode: 6 Routes Covered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-printer-frustration-in-the-latest-os-win11-guide/"><u>Avoid Printer Frustration in the Latest OS: Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-organization-in-windows-discover-5-key-folder-insights/"><u>Boost Organization in Windows - Discover 5 Key Folder Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-outlook-speed-quick-tricks-for-win/"><u>Boost Your Outlook Speed: Quick Tricks for WIN</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-conversion-guide-turn-your-camcorder-videos-into-mp4-for-seamless-playback/"><u>Effortless Conversion Guide: Turn Your Camcorder Videos Into MP4 for Seamless Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-eus-new-ai-legislation-shape-the-future-of-services-such-as-chatgpt/"><u>How Does the EU's New AI Legislation Shape the Future of Services Such as ChatGPT?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-tools-for-image-transformation-framecraft-pro/"><u>In 2024, Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-re200-ac750-by-tp-link-an-excellent-option-for-economical-wireless-coverage-enhancement-review/"><u>The RE200 AC750 by TP-Link: An Excellent Option for Economical Wireless Coverage Enhancement Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719241162172-update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance.</u></a></li>
+</ul></div>
+

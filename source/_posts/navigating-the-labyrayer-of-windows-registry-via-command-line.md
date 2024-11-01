@@ -1,7 +1,7 @@
 ---
 title: Navigating the Labyrayer of Windows Registry via Command Line
-date: 2024-10-21T23:43:56.227Z
-updated: 2024-10-26T16:44:42.833Z
+date: 2024-10-30T17:11:58.426Z
+updated: 2024-11-01T18:49:36.011Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add and Delete Keys in the Windows Registry
 
  To add a key to the registry using Command Prompt, you need to use the **reg add** command while specifying the path to the new key and whether you want to force the operation with the **/f** switch(this will bypass the need for the confirmation prompt).
@@ -72,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  Now the **MySubKey** key will disappear in the Registry Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
 ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
@@ -123,18 +123,24 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
 
 `reg import C:\Users\CHIFUNDO\Desktop\MyRegFile.reg`
 
  Once you run that command, the contents of the reg file will be merged with the registry.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Export Registry Entries
 
@@ -153,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
  The resulting registry file will only contain the key and the specific value you exported.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Save Registry Entries
@@ -169,16 +175,16 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Restore Registry Entries
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -194,29 +200,6 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  Although using it takes a little more know-how than the Registry Editor, our guide should be able to get you started.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-rise-on-youtube-initiating-your-chanel-and-earning-pathway/"><u>[New] 2024 Approved Rise on YouTube Initiating Your Chanel & Earning Pathway</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-sharex-analyses-and-options/"><u>[Updated] Unveiling ShareX Analyses & Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-dual-users-ms-error-on-windows-os/"><u>Addressing Dual Users' MS Error on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beat-the-time-barrier-and-learn-slovak-in-smart-10-minute-chunks/"><u>Beat the Time Barrier & Learn Slovak in Smart 10-Minute Chunks!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206298676-complete-guide-to-overcome-the-error-5-notification-in-windows-1178-systems-now-solved/"><u>Complete Guide to Overcome the Error 5 Notification in Windows 11/7/8 Systems – Now Solved!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-to-open-wordpad-in-windows/"><u>Essential Techniques to Open WordPad in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-transferring-your-imovie-edit-without-idvd-dvd-creation-steps/"><u>Guide: Transferring Your iMovie Edit Without iDVD - DVD Creation Steps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unpair-and-reconnect-devices-effortlessly-on-win-11/"><u>How to Unpair and Reconnect Devices Effortlessly on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-screen-quiet-disable-win11-folders/"><u>Mastering Screen Quiet: Disable Win11 Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-win-lsa-troubleshooting/"><u>Mastering the Art of Win LSA Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-troubled-waters-in-windows-mail-app-with-0x800713f/"><u>Navigating Through Troubled Waters in Windows Mail App with 0X800713F</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smartwatch-showdown-in-depth-comparison-between-googles-pixel-watch-and-apples-latest-apple-watch-series-n/"><u>Smartwatch Showdown: In-Depth Comparison Between Google's Pixel Watch and Apple's Latest Apple Watch Series N</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-first-5-things-you-should-do-with-your-new-computer/"><u>The First 5 Things You Should Do With Your New Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-advancing-your-career-path-toward-chief-information-officer-cio-success-insights-from-zdnet/"><u>Top 5 Strategies for Advancing Your Career Path Toward Chief Information Officer (CIO) Success: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-workflows-dive-into-8-customized-ai-models/"><u>Transform Workflows: Dive Into 8 Customized AI Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-power-for-photo-renewal-with-windows/"><u>Transformative Power for Photo Renewal with Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-access-decoding-password-demand/"><u>Winning Back Access: Decoding Password Demand</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -224,3 +207,21 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correction-of-err-87-incorrect-libraries-loaded-on-winos/"><u>Correction of Err 87: Incorrect Libraries Loaded on WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-stuck-operator-download-on-windows-heres-how/"><u>End Stuck Operator Download on Windows - Here's How</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-timeless-luxury-meets-functionality-with-the-new-michael-kors-access-gen-5e-mkgo-watch-review/"><u>Experience Timeless Luxury Meets Functionality with the New Michael Kors ACCESS Gen 5E MKGO Watch Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-stuck-gpsvc-hang-in-windows/"><u>Overcoming the Stuck GPSVC Hang in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-manufacturers-criticized-by-framework-the-excessive-use-of-ai-in-marketing/"><u>PC Manufacturers Criticized by Framework: The Excessive Use of 'AI' In Marketing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reparez-vos-photos-historiques-avec-des-outils-gratuits-et-alimentes-par-ai-decouvrez-les-meilleurs-8-solutions/"><u>Réparez Vos Photos Historiques Avec Des Outils Gratuits Et Alimentés Par AI - Découvrez Les Meilleurs 8 Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/simplified-guide-fb-video-to-mp3-audio-transformations/"><u>Simplified Guide FB Video to MP3 Audio Transformations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-the-transfer-tips-for-microsofts-marketplace/"><u>Speeding Up the Transfer: Tips for Microsoft’s Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-development-wsl-2s-most-effective-methods/"><u>Streamlining Development: WSL 2'S Most Effective Methods</u></a></li>
+<li><a href="https://solve-news.techidaily.com/top-3-no-cost-m2ts-video-players-effortless-streaming-of-m2ts-files/"><u>Top 3 No-Cost M2TS Video Players: Effortless Streaming of M2TS Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-experience-efficient-redoing-ahead/"><u>Transform Your Windows Experience: Efficient Redoing Ahead</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Reinstating Functional Lock Screen Wait Period in Windows
-date: 2024-09-15T17:34:15.067Z
-updated: 2024-09-16T17:17:27.524Z
+date: 2024-10-26T17:49:36.308Z
+updated: 2024-11-01T18:27:16.376Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
  After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Configure Screen Saver Settings
 
  Incorrectly configured screen saver settings on Windows can also be the cause of this issue. Here's how you can configure Windows to display the lock screen after you resume from a screensaver.
@@ -48,7 +55,21 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 5. Hit **Apply** followed by **OK**.  
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Screen Saver Settings in the Local Group Policy
 
@@ -68,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 8. Similarly, enable the **Password protect the screen saver** policy as well.  
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
- Restart your PC after applying the above changes and check if the issue is still there.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your PC after applying the above changes and check if the issue is still there.
 
 ## 4\. Other Generic Fixes to Try
 
@@ -86,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 * **Install Windows Updates:** It's possible that the lock screen timeout problem is occurring due to a bug within the Windows build your PC is running. If that's the case, [installing Windows updates](https://www.makeuseof.com/update-windows-manually/) should help.
 * **Try a Clean Boot:**[Performing a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) can help you determine whether a third-party program or service is causing issues with the lock screen timeout. Once you find the problematic program, consider removing it from your system to avoid such issues in the future.
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Lock Screen Timeout Working Again on Windows
 
@@ -114,5 +122,21 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/econstructing-the-legal-framework-of-youtube-and-cc-licenses/"><u>[New] Deconstructing the Legal Framework of Youtube & CC Licenses</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-prime-top-10-free-transcript-harvesters-for-videos/"><u>[New] In 2024, Prime Top 10 Free Transcript Harvesters for Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhancing-film-aesthetics-with-luts-technology-for-2024/"><u>[Updated] Enhancing Film Aesthetics with Luts Technology for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-free-ways-to-save-your-desktop-on-windows-8-for-2024/"><u>[Updated] Free Ways to Save Your Desktop on Windows 8 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-backup-configuration-error-on-windows-systems/"><u>Correcting “Backup Configuration Error” On Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-srt-enhanced-mp4-files-for-2024/"><u>Expert Tips for SRT-Enhanced MP4 Files for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-gpu-non-detection-problems/"><u>Fix: GPU Non-Detection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-clipboard-integration-within-microsofts-app-guard-on-windows-11/"><u>How to Initiate Clipboard Integration Within Microsoft's App Guard on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-advanced-equipment-guide-top-5-innovative-slow-motion-devices/"><u>In 2024, Advanced Equipment Guide Top 5 Innovative Slow Motion Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-make-sense-of-iphone-video-repetition-tech/"><u>In 2024, Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>In 2024, Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-failed-driver-installations-on-windows-11/"><u>Remedying Failed Driver Installations on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-power-management-on-pcs/"><u>The Ultimate Guide to Power Management on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-for-kali-on-windows-systems/"><u>The Ultimate Playbook for Kali on Windows Systems</u></a></li>
+</ul></div>
 

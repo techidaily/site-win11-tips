@@ -1,7 +1,7 @@
 ---
 title: "Creating Convenience: Microsoft Store Links for Windows 11 (UWP)"
-date: 2024-09-09T21:43:35.542Z
-updated: 2024-09-17T02:27:12.901Z
+date: 2024-10-29T16:17:31.953Z
+updated: 2024-11-01T17:12:17.434Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 ![The Link box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-link-box.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create Desktop Shortcuts for UWP Apps From the Applications Folder
 
  Windows 11 has an accessible Applications folder that includes your installed UWP apps. You can select to create shortcuts for MS Store apps from that folder as follows:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -81,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
@@ -106,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
@@ -129,5 +143,22 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-logitech-4k-pro-webcam-complete-specifications-and-features-for-2024/"><u>[New] Logitech 4K Pro Webcam Complete Specifications & Features for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>[Updated] 2024 Approved Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-fabulous-video-showcase/"><u>[Updated] Facebook's Fabulous Video Showcase</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-hdr-portraiture-an-ultimate-guide/"><u>[Updated] Mastering HDR Portraiture An Ultimate Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapping-smiles-adding-anime-filters-on-snapchat/"><u>2024 Approved Snapping Smiles Adding Anime Filters on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-content-formats-podcasts-versus-youtube/"><u>Comparing Content Formats Podcasts Versus YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compreptive-guide-virtualizing-win11-on-vmware-player-17/"><u>Compreptive Guide: Virtualizing Win11 on VMware Player 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-cpu-stewardship-managing-the-power-of-vanguards-sleep-service/"><u>Efficient CPU Stewardship: Managing the Power of Vanguard's Sleep Service</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-to-install-and-operate-handbrake-video-converter-for-windows-1011-users/"><u>Guide to Install and Operate HandBrake Video Converter for Windows 10/11 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-8-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 8 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-win-11s-mobility-hub/"><u>Silencing Win 11'S Mobility Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-for-incorporating-gpt-mention-techniques-into-interactive-chatbot-dialogues/"><u>Strategies for Incorporating GPT Mention Techniques Into Interactive Chatbot Dialogues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-your-gaming-experience-from-windows-error/"><u>Unblocking Your Gaming Experience From Windows Error</u></a></li>
+</ul></div>
 

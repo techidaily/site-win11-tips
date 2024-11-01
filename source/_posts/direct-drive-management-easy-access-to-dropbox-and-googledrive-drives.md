@@ -1,7 +1,7 @@
 ---
 title: "Direct Drive Management: Easy Access to Dropbox and GoogleDrive Drives"
-date: 2024-10-23T20:52:17.736Z
-updated: 2024-10-26T20:05:52.498Z
+date: 2024-10-28T17:49:46.136Z
+updated: 2024-11-01T17:10:19.326Z
 tags:
   - windows10
   - windows11
@@ -57,20 +57,13 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Windows Shared Folders
@@ -84,13 +77,28 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 2. Right-click on the folder and choose **Properties**.  
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
@@ -102,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 1. Type "**\\\\localhost**" in your file manager's location bar to see all the shared folders on your local PC. Among them should be your newly shared cloud storage folder.  
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
 2. Right-click on it and choose **Map network drive**.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
@@ -109,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What About Using Subst?
 
@@ -131,19 +140,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -154,29 +150,6 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>[New] 2024 Approved Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-recovering-lost-linkages-restore-facebook-video-suggestions/"><u>[New] Recovering Lost Linkages Restore Facebook Video Suggestions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-efficient-practices-logging-google-voice-dialogues/"><u>[Updated] 2024 Approved Efficient Practices Logging Google Voice Dialogues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-night-photography-step-by-step/"><u>2024 Approved IPhone Night Photography Step by Step</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719328086208-calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation.</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-reimagined-computing-with-style-the-ultimate-review-of-the-apple-imacs-striking-power-and-4k-visual-delight/"><u>Experience Reimagined Computing with Style: The Ultimate Review of the Apple iMac's Striking Power and 4K Visual Delight</u></a></li>
-<li><a href="https://common-error.techidaily.com/gadget-gone-wrong-now-right/"><u>Gadget Gone Wrong, Now Right</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-gaming-service-failures-on-pcs-and-laptops/"><u>How To Resolve Gaming Service Failures on PCs and Laptops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-box-by-strategy-market-success-blueprints/"><u>In 2024, Box by Strategy Market Success Blueprints</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-rtx-2080-driver-version-for-optimal-performance-on-windows-11-systems/"><u>Latest NVIDIA RTX 2080 Driver Version for Optimal Performance on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-application-a-comprehensive-guide-to-recover-vanished-apps/"><u>Lost iPhone Application: A Comprehensive Guide to Recover Vanished Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-hyper-v-installation-on-w11-home-systems/"><u>Master the Art of Hyper-V Installation on W11 Home Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-your-hard-drives-terrain-a-guide-to-diskusage-in-windows/"><u>Navigating Through Your Hard Drive's Terrain: A Guide to DiskUsage in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/refining-windows-11-for-superior-usability/"><u>Refining Windows 11 for Superior Usability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategy-to-eradicate-error-0x80300024-on-pcs/"><u>Strategy to Eradicate Error 0X80300024 on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-swordsmans-secrets-tackle-windows-lag-in-star-wars-battlefront-2/"><u>Swift Swordsman's Secrets: Tackle Windows Lag in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-operational-amd-radeon-ssp-on-windows/"><u>Troubleshooting Non-Operational AMD Radeon SSP on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-laptop-or-desktop-windows-era/"><u>Unveiling Laptop or Desktop Windows Era</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2003-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2003 File Error</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +157,17 @@ subst Z: "C:\Cloud Drives\Dropbox"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-leverage-ez-grabber-for-peak-performance/"><u>[Updated] How to Leverage EZ Grabber for Peak Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-radiate-on-reels-instagram-highlight-techniques-simplified-to-three/"><u>[Updated] Radiate on Reels Instagram Highlight Techniques, Simplified to Three</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-gratuitement-vos-fichiers-raf-en-images-jpeg-en-ligne-rapidement-seul-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers RAF en Images JPEG en Ligne Rapidement - Seul Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-customize-windows-11s-default-screensavers/"><u>How to Customize Windows 11'S Default Screensavers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-g2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo G2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-moves-fixed-tips-to-overcome-windows-lags-in-sw-battlefront-2/"><u>Master Your Moves: Fixed Tips to Overcome Windows Lags in SW Battlefront 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preparing-vbox-on-win-prioritize-deps-for-smooth-setup/"><u>Preparing VBox on Win: Prioritize Deps for Smooth Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-troubleshooting-ethernet-drivers-in-windows-20-proactively-improve-network-performance/"><u>Quick Solutions: Troubleshooting Ethernet Drivers in Windows # 20 Proactively Improve Network Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-personalize-window-11s-search-interface/"><u>Revamp and Personalize Window 11'S Search Interface</u></a></li>
+</ul></div>
+

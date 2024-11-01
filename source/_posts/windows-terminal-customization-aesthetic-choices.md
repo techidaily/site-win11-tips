@@ -1,7 +1,7 @@
 ---
 title: "Windows Terminal Customization: Aesthetic Choices"
-date: 2024-10-23T18:58:39.868Z
-updated: 2024-10-26T23:25:39.139Z
+date: 2024-10-26T17:43:01.618Z
+updated: 2024-11-01T19:33:07.262Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Create a Color Scheme in Windows Terminal?
 
  If you don’t want to mess with the default color schemes, why not create your own? Follow the steps below to do just that:
@@ -53,16 +60,23 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
 8. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Apply a Color Scheme in Windows Terminal
 
@@ -74,31 +88,17 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
@@ -120,18 +120,22 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-secure-your-linkedin-content-with-these-6-video-downloading-solutions/"><u>[New] Secure Your LinkedIn Content with These 6 Video Downloading Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invisible-insights-into-instagram-story-viewing/"><u>[Updated] In 2024, Invisible Insights Into Instagram Story Viewing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-guide-to-twitter-videos-meet-aspect-ratio-criteria/"><u>[Updated] Quick Guide to Twitter Videos Meet Aspect Ratio Criteria</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disable-default-settings-keep-your-usb-running-on-windows-11/"><u>Disable Default Settings - Keep Your USB Running on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dissecting-disadvantages-a-vr-analysis/"><u>Dissecting Disadvantages A VR Analysis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-motorola-moto-g34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G34 5G Unlock Without Password</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/kognitive-systeme-in-der-automatisierung-abbyys-losung-fur-das-verstehen-und-interpretieren-digitaler-inhalte/"><u>Kognitive Systeme in Der Automatisierung: ABBYYS Lösung Für Das Verstehen Und Interpretieren Digitaler Inhalte</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/king-marvels-how-to-create-comedic-videos/"><u>Mimicking Marvels How to Create Comedic Videos</u></a></li>
-<li><a href="https://win-forum.techidaily.com/power-users-handbook-navigating-and-erasing-files-with-windows-10s-command-line-interface/"><u>Power User's Handbook: Navigating and Erasing Files with Windows 10'S Command Line Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-languages-change-navigating-hotkeys-in-windows-11-and-11-pro/"><u>Quick Languages Change: Navigating Hotkeys in Windows 11 & 11 Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/syncing-up-with-microsoft-sql-on-malwarebytes-after-disconnect/"><u>Syncing Up with Microsoft SQL on Malwarebytes After Disconnect</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-policy-editor-in-windows-11/"><u>Unlock the Full Potential of Policy Editor in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>[Updated] 2024 Approved How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-step-by-step-approach-how-to-record-and-archive-online-radio-for-2024/"><u>[Updated] A Step-by-Step Approach How To Record & Archive Online Radio for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-deciphering-instagram-video-glitches-and-finding-silence-free-viewing-for-2024/"><u>[Updated] Deciphering Instagram Video Glitches and Finding Silence-Free Viewing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-offset-guide-affordable-channel-buys-to-monetize-for-2024/"><u>[Updated] First Offset Guide Affordable Channel Buys to Monetize for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-teacher-friendly-video-capture-options-reviewed/"><u>2024 Approved Teacher-Friendly Video Capture Options Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-and-replace-outdated-windows-drivers/"><u>How to Find and Replace Outdated Windows Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco F5 5G Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-speak-slide-and-convince-the-vo-powerpoint-pathway/"><u>In 2024, Speak, Slide & Convince - The VO Powerpoint Pathway</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-and-style-synergy-the-leading-windows-laptops-of-24/"><u>Power & Style Synergy: The Leading Windows Laptops of '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-connections-with-mb-services-in-windows-11/"><u>Re-Establishing Connections with MB Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-stuck-windows-update-problems-now/"><u>Resolving Stuck Windows Update Problems Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-authentication-disabling-questions-on-windows-11-local-account/"><u>Silent Authentication: Disabling Questions on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresolvable-value-errors-in-winos/"><u>Solutions for Unresolvable Value Errors in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-a-non-operational-printer-on-windows-11/"><u>Troubleshoot a Non-Operational Printer on Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/two-methods-to-transfer-a-cloned-copy-of-your-windows-11-partition-onto-an-ssd/"><u>Two Methods to Transfer a Cloned Copy of Your Windows 11 Partition Onto an SSD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-team-video-sharing-fixes/"><u>Windows Team Video Sharing Fixes</u></a></li>
 </ul></div>
 

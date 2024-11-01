@@ -1,7 +1,7 @@
 ---
 title: Undoing Windows 11'S Updated Search Bar Design
-date: 2024-09-11T01:20:54.871Z
-updated: 2024-09-12T01:20:54.871Z
+date: 2024-10-29T19:10:32.908Z
+updated: 2024-11-01T17:24:36.486Z
 tags:
   - windows10
   - windows11
@@ -20,45 +20,14 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  If so, read on. Here's how to revert the Windows 11 search bar to a search icon.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## What Happened to the Windows 11 Taskbar Search Icon?
 
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you're keeping Windows 11 updated, you would have had your taskbar search icon change over to a larger bar-shaped icon.
 
@@ -66,23 +35,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  Thankfully, there's a catch-all solution to many of these design changes.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Restoring Features with ViVeTool
 
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
 
@@ -90,37 +52,23 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Restore the Windows 11 Search Bar Icon
 
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
 
@@ -132,19 +80,18 @@ Next, input the following code into the terminal window:
 
  Then, all you have to do is restart. Your search icon should return to its original style.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Features Change, Even if You Don’t Want Them To
 
@@ -152,14 +99,11 @@ Next, input the following code into the terminal window:
 
  While that might be annoying, as long as there are people using Windows, there will be people making modifications such as ViVeTool to give control back to the user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,12 +112,23 @@ Next, input the following code into the terminal window:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>[New] Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-unalterable-tiktok-profile-url-integration-blueprint/"><u>[Updated] The Unalterable TikTok Profile URL Integration Blueprint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-productions-audit-studio-25-breakdown-2023/"><u>2024 Approved Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-fixes-for-unresponsive-windows-family-safety/"><u>5 Essential Fixes for Unresponsive Windows Family Safety</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-compelling-arguments-why-windows-11-eclipses-macos/"><u>6 Compelling Arguments Why Windows 11 Eclipses macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-microsoft-edge-fix-for-w10w11/"><u>Accelerate Your Microsoft Edge: Fix for W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-pre-ultimate-computers-to-seniors-needs/"><u>Adapting Pre-Ultimate Computers to Seniors' Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-playstation-services-hiccup-on-windows/"><u>Addressing PlayStation Services Hiccup on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-workflow-experts-choice-for-the-top-8-windows-pomodoros/"><u>Boost Workflow: Expert's Choice for the Top 8 Windows Pomodoros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719278644350-briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-top-titles-magix-video-pro-x-among-others-for-2024/"><u>Comparing Top Titles Magix Video Pro X Among Others for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-wonderfox-assistance-hub-comprehensive-user-handbook/"><u>Navigating the WonderFox Assistance Hub – Comprehensive User Handbook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/netgears-speedy-champion-an-in-depth-review-of-the-unmatched-performance-of-the-rax120-router/"><u>Netgear's Speedy Champion: An In-Depth Review of the Unmatched Performance of the RAX120 Router</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
+</ul></div>
 

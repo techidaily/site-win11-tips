@@ -1,7 +1,7 @@
 ---
 title: Timely Trim of Microsoft Edge Tabs, Win11 Edition
-date: 2024-09-15T22:20:48.687Z
-updated: 2024-09-16T18:40:43.390Z
+date: 2024-10-30T18:05:15.789Z
+updated: 2024-11-01T16:52:39.288Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 8. **Exit** the Group Policy Editor window.
 9. **Restart** your PC for the policy changes to take effect and disable the tab preloading feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Disable Edge Tab Preloading Using the Registry Editor
 
  If you use the Home version of Windows 11, it may be easier to take a different approach instead of going through the Group Policy Editor method. If you want, you can tweak the registry manually to disable the Edge tab preloading feature in Windows 11\. Repeat the following steps to do so:
@@ -58,6 +65,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 5. Right-click on the **AllowPrelaunch** value and select the **Modify** option from the context menu.
 6. Go to the **Value Data** field and type **0** in it. Set the **Base** to **Hexadecimal** and click on the **OK** button.  
 ![Disable Microsoft Edge Tab Preloading Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, you need to create a new subkey and add a new DWORD value:
 
@@ -84,10 +98,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 ![Disable Microsoft Edge Tab Preloading Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Disable Edge Tab Preloading Using the Ultimate Windows Tweaker App
@@ -102,10 +116,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 4. **Close** the Ultimate Windows Tweaker app and **restart** your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Edge Tab Preloading for Good on Windows 11
@@ -122,5 +136,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques/"><u>[New] From Simple to Sophisticated Mastering ZD Soft's Video Recording Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-crafting-compelling-video-narratives-using-captivate/"><u>[New] In 2024, Crafting Compelling Video Narratives Using Captivate</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-what-is-snapchat-spotlight-for-2024-how-to-use-it/"><u>[New] What Is Snapchat Spotlight for 2024 How to Use It?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-economical-pc-streaming-with-simple-obs-configurations/"><u>[Updated] 2024 Approved Economical PC Streaming with Simple OBS Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-error-code-windows-parsing-breakdown/"><u>Dissecting Error Code: Windows' Parsing Breakdown</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728496367017-response/"><u>Response]:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-privacy-stop-windows-11-snooping/"><u>Secure Privacy: Stop Windows 11 Snooping</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shield-your-windows-data-with-regular-saving-schedule/"><u>Shield Your Windows Data with Regular Saving Schedule</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-gesture-failures-in-windows/"><u>Understanding and Correcting Gesture Failures in Windows</u></a></li>
+</ul></div>
 

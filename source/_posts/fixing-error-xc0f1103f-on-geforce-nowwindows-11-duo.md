@@ -1,7 +1,7 @@
 ---
 title: Fixing Error Xc0f1103f on GeForce Now/Windows 11 Duo
-date: 2024-10-22T21:00:03.416Z
-updated: 2024-10-26T22:10:04.259Z
+date: 2024-10-31T16:24:25.554Z
+updated: 2024-11-01T17:06:22.984Z
 tags:
   - windows10
   - windows11
@@ -35,18 +35,24 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  You’ll need to upgrade your PC if it doesn’t match a system requirement. Desktop users can add new graphics adapters or even processors to their PCs if required. If your PC does indeed match all the GeForce Now requirements, proceed with the troubleshooting below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Double-Check if GeForce Now’s Servers Are Operational
 
  This error can occur because the GeForce Now server is down. For example, the server could be down for maintenance. You can check the service status for various regions on the[GeForce Now service status](https://status.geforcenow.com/) page. If a server for your region is down, wait until the service is operational again before opening the GeForce Now app again.
 
 ![The NVIDIA server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-server-status-page.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run GeForce Now With Administrator Rights
 
@@ -57,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select a Power Saving GPU for the GeForce Now App
@@ -79,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/power-saving-option.jpg)
 9. Click**Save** to apply the selected option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update Your Graphics Card’s Driver
 
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for[updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restart All NVIDIA-Related Services
@@ -106,13 +105,21 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 3. Then scroll to NVIDIA-related services.  
 ![NVIDIA-related-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-services-window.jpg)
 4. Right-click every NVIDIA-related service you can see and select**Restart** . If an NVIDIA service isn’t already running, select the**Start** option for it instead.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Proxy Servers
@@ -120,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
  Do you have a proxy server on your PC? If so, that could be causing the 0xc0f1103f error by generating a server issue. So, try disabling your proxy server on Windows via Settings or the Control Panel. Our article about[disabling your proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes instructions for how to do so.
 
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
 
@@ -137,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 3. Click the**VPN** navigation option or tab.  
 ![The VPN navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-navigation-option.jpg)
 4. Select a listed VPN connection added.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
 5. Then select the**Disconnect** option for the VPN.
@@ -162,7 +155,22 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 6. Click**Download** for the GeForce Now Windows software.  
 ![The GeForce Now download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-now-download-option.jpg)  
  Double-click the**GeForce-Now-release.exe** file to open the software’s setup wizard.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Then go through the setup wizard steps to reinstall GeForce Now.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Play GeForce Now Games on Windows Again
 
@@ -183,19 +191,17 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[New] 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-20-free-footage-sites-a-comprehensively-curated-list/"><u>[New] Top 20 Free Footage Sites A Comprehensively Curated List</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-transform-your-tech-experience-learn-how-to-screen-record-efficiently/"><u>[Updated] Transform Your Tech Experience Learn How to Screen Record Efficiently</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-bigger-captures-intact-detail-quality/"><u>2024 Approved Bigger Captures, Intact Detail Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-must-haves-alerts-windows-10-and-11-troubleshooting/"><u>Avoiding 'Must-Haves' Alerts: Windows 10 & 11 Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chocolatey-vs-wm-top-tools-for-windows-software-downloads/"><u>Chocolatey vs WM: Top Tools for Windows Software Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-improve-windows-taskmanager-through-cli-integration/"><u>How to Improve Windows TaskManager Through CLI Integration</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-6-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 6 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-filmoquery-your-guide-to-video-editing-insights/"><u>In 2024, FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece-for-2024/"><u>Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-badge-indicators-on-taskbars/"><u>Restoring Badge Indicators on Taskbars</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-windows-cameras-capability-to-record/"><u>Restoring Windows Camera's Capability to Record</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-do-not-have-access-errors/"><u>Strategies for Dealing with 'Do Not Have Access' Errors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[New] Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xplore-engaging-exchange-zones-for-2024/"><u>[New] Explore Engaging Exchange Zones for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-essential-steps-to-utilizing-azures-speech-to-text-service-effectively/"><u>[New] In 2024, Essential Steps to Utilizing Azure's Speech-to-Text Service Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-8-youtube-channels-with-rapid-expansion/"><u>[Updated] Leading 8 YouTube Channels with Rapid Expansion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-minecraft-recordings-handbook-for-2024/"><u>[Updated] Pro Minecraft Recordings Handbook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-starting-strong-in-screen-sharpness-your-first-tutorial-on-hd-video/"><u>[Updated] Starting Strong in Screen Sharpness Your First Tutorial on HD Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-halloween-thrills-and-chills-updated-list-of-top-10-spine-chilling-movies-available-on-physical-media/"><u>Best Halloween Thrills & Chills: Updated List of Top 10 Spine-Chilling Movies Available on Physical Media !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-lasting-trash-area-on-your-windows-desktop-space/"><u>Creating a Lasting Trash Area on Your Windows Desktop Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-essential-services-for-seamless-windows-11-launches/"><u>Enabling Essential Services for Seamless Windows 11 Launches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-balanced-sound-from-both-sides-of-win-headphones/"><u>Restoring Balanced Sound From Both Sides of WIN Headphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-microsoft-words-speech-functionality-on-pc/"><u>Reviving Microsoft Word's Speech Functionality on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-updates-made-simple-resolving-error-0xc1900101/"><u>Win11 Updates Made Simple: Resolving Error 0xC1900101</u></a></li>
 </ul></div>
 

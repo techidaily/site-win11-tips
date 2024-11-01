@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows Shared Folder Permission Errors
-date: 2024-10-22T16:22:31.139Z
-updated: 2024-10-26T20:23:54.177Z
+date: 2024-10-28T16:49:57.814Z
+updated: 2024-11-01T19:03:54.881Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Ask the Owner to Change the Permissions
@@ -57,15 +63,16 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
@@ -86,14 +93,14 @@ Follow this step-by-step guide to restart the networking services:
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
 
@@ -105,16 +112,17 @@ To turn on Network discovery, follow these steps:
 2. Click**View network status and tasks** .  
 ![Control Panel Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-overview.jpg)
 3. On the left-hand pane, click**Change advanced sharing settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
@@ -133,13 +141,6 @@ Here's how you can fix all the firewall issues on your computer:
 3. Click**Public network** .  
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
@@ -160,6 +161,19 @@ Here's how to reset the network settings on Windows:
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
 
@@ -182,20 +196,24 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-exclusive-moba-selection-for-android-gamers/"><u>[New] 2024 Approved Exclusive MOBA Selection for Android Gamers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>[New] 2024 Approved Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-cinematographic-capabilities-essential-iphone-gear/"><u>2024 Approved Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-memetic-artistry-codes/"><u>2024 Approved Top 10 Memetic Artistry Codes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-path-to-costless-image-archives/"><u>2024 Approved Unveiling the Path to Costless Image Archives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029110901-mp4/"><u>無料MP4コンパクト化ソフトウェア：使いやすさと機能性を求めて【おすすめラインナップ】</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-virtual-race-games-roundup-for-2024/"><u>Best Virtual Race Games Roundup for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-through-windows-11s-pin-blockade/"><u>Cut Through Windows 11'S PIN Blockade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-overcoming-call-failed-error-on-win1011/"><u>Guidelines for Overcoming 'Call Failed' Error on Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leveraging-android-for-immersive-virtual-and-360-videos/"><u>Leveraging Android for Immersive Virtual and 360 Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-multimonitor-setup-in-windows-11/"><u>Navigating The Complexities of Multimonitor Setup in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-directdraw-issues-on-windows-11-and-11-pros/"><u>Overcoming DirectDraw Issues on Windows 11 & 11 Pros</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-management-adding-this-pc-to-windows-desktop/"><u>Window Management: Adding 'This PC' To Windows Desktop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-immersive-image-tech-best-10-phone-cameras-for-stunning-4k-visuals/"><u>[New] Immersive Image Tech Best 10 Phone Cameras for Stunning 4K Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-user-friendly-tutorial-for-rectifying-audio-output-not-detected-in-windows-11/"><u>A User-Friendly Tutorial for Rectifying Audio Output Not Detected in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-your-ideal-windows-11-drawing-software-choices/"><u>Discover Your Ideal Windows 11 Drawing Software Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-your-inkpad-on-windows-a-step-by-step-tutorial/"><u>Fix Your Inkpad on Windows: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-hogwarts-legacy-on-windows/"><u>How to Fix the Out of Video Memory Error in Hogwarts Legacy on Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-oasis-viewer/"><u>In 2024, Online Oasis Viewer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u/"><u>In 2024, Unveiling Brilliance A Thorough Review of the Professional Quest with BL2711U</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-windows-voice-journaling-techniques/"><u>Mastery in Windows Voice Journaling Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-when-zooms-video-capture-feature-wont-work/"><u>Quick Fixes for When Zoom's Video Capture Feature Won't Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-over-windows-update-functions/"><u>Regain Control Over Windows Update Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-no-built-in-application-for-this-file-in-windows/"><u>Resolving No Built-In Application for This File in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-windows-11-remedies-for-laggy-performance/"><u>Speed Up Windows 11: Remedies for Laggy Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-utorrent-file-transfers-for-windows-users/"><u>Speedy uTorrent File Transfers for Windows Users</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-to-recording-sound-with-macos-el-capitan/"><u>Step-by-Step Guide to Recording Sound with macOS El Capitan</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-powering-down-iphone-models-15-propro-max/"><u>The Ultimate Walkthrough for Powering Down iPhone Models 15 Pro/Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-vpns-for-flawless-streaming-comprehensive-ratings-and-reviews-by-experts-zdnet/"><u>Top-Rated VPNs for Flawless Streaming: Comprehensive Ratings & Reviews by Experts - ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/transformative-trade-tactics-discovering-the-best-social-media/"><u>Transformative Trade Tactics: Discovering the Best Social Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-handling-service-delays-and-avoiding-error-1053/"><u>Troubleshooting Guide: Handling Service Delays and Avoiding Error 1053</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-top-6-must-have-usage-trackers-on-windows-machines/"><u>Uncover Top 6 Must-Have Usage Trackers on Windows Machines</u></a></li>
 </ul></div>
 

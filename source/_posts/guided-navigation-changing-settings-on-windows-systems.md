@@ -1,7 +1,7 @@
 ---
 title: "Guided Navigation: Changing Settings on Windows Systems"
-date: 2024-10-22T17:02:57.077Z
-updated: 2024-10-26T21:36:20.849Z
+date: 2024-10-29T19:16:32.180Z
+updated: 2024-11-01T16:11:10.157Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
  Like using keyboard shortcuts on Windows? Why not check our[ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 3. Under the**Interaction** section, click on**Keyboard** .
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
@@ -73,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
@@ -93,20 +94,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 2. Use the toggle next to**Filter keys** to enable or disable it.  
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enabling or Disabling Filter Keys on Windows Is Easy
@@ -130,16 +124,22 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-art-of-freezing-the-action-in-win-os/"><u>[New] 2024 Approved The Art of Freezing the Action in Win OS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/conomical-camera-options-best-deals-for-diy-vloggers/"><u>[New] Economical Camera Options Best Deals for DIY Vloggers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-play-7t-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-11f-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 11F 5G Phone?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/organize-windows-icons-harmoniously/"><u>Organize Windows Icons Harmoniously</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-corsair-void-microphone-malfunction-issues/"><u>Step-by-Step Repair Tips for Corsair Void Microphone Malfunction Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-unlocking-screen-pin-free-windows-projection/"><u>Stop Unlocking Screen: PIN-Free Windows Projection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-lcd-panels-simplified-guide/"><u>Switching LCD Panels Simplified Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-free-gaming-setup-dualshock-for-windows-users/"><u>Tech-Free Gaming Setup: DualShock for Windows Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-overview-of-youtube-standards-for-content-creators/"><u>[New] A Comprehensive Overview of YouTube Standards for Content Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-microphone-logging-software-on-mac-devices-compile-the-best-5/"><u>[New] Ideal Microphone Logging Software on Mac Devices Compile the Best 5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-techniques-for-optimal-voice-recording-on-set/"><u>[New] In 2024, Step-By-Step Techniques for Optimal Voice Recording on Set</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dynamic-duo-display-youtubes-way-of-creative-splitting-for-2024/"><u>[Updated] Dynamic Duo Display YouTube’s Way of Creative Splitting for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-to-dodge-content-advisory-strikes/"><u>2024 Approved Strategies to Dodge Content Advisory Strikes</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/3-effective-solutions-for-resolving-dell-boot-loop-on-windows-11-systems/"><u>3 Effective Solutions for Resolving Dell Boot Loop on Windows 11 Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-web-in-motion-a-compact-list-of-leading-recorders-for-2024/"><u>Capturing the Web in Motion A Compact List of Leading Recorders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-executable-and-linker-format-pe/"><u>Demystifying Windows Executable & Linker Format (PE)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-team-tools-without-the-burden/"><u>Efficient Team Tools Without the Burden</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-productivity-optimize-windows-tiling/"><u>Elevate Productivity: Optimize Windows Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-window-11s-camera-app-crash-afc-error-code/"><u>Eliminating Window 11'S Camera APP Crash: AFC Error Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-expertise-accessing-tabs-with-ease-windows-11/"><u>File Expertise: Accessing Tabs with Ease (Windows 11)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-s17t-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo S17t Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-inadvertent-windows-key-activation/"><u>How to Prevent Inadvertent Windows Key Activation</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-enhance-pointer-features-in-windows-11/"><u>Quick Fixes to Enhance Pointer Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-messenger-magic-on-windows-devices/"><u>Reigniting Messenger Magic on Windows Devices</u></a></li>
 </ul></div>
 

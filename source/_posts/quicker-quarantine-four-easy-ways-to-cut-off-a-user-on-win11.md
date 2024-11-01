@@ -1,7 +1,7 @@
 ---
 title: "Quicker Quarantine: Four Easy Ways to Cut Off a User on Win11"
-date: 2024-10-21T21:42:15.446Z
-updated: 2024-10-26T21:36:20.774Z
+date: 2024-10-28T17:02:13.832Z
+updated: 2024-11-01T19:21:17.352Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ To disable user accounts via Settings:
 
  Note that you must log in to your administrator account to make changes to user accounts. Also, you can only block sign-in for members of**Your family** in the Family groups from Settings. If you need to disable a local user account, you must use the PowerShell and Command Prompt methods below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Disable a User Account Using Windows PowerShell
 
  If you need to disable and enable user accounts frequently, PowerShell can help you do it efficiently. To do this, you can use the Disable-LocalUser cmdlet and specify the user account name you want to disable.
@@ -63,10 +56,16 @@ To disable a user account using PowerShell:
 4. Next, type the following command to find all the user accounts on your PC:  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Get-LocalUser`
@@ -83,6 +82,13 @@ To disable a user account using PowerShell:
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Disable a User Account Using the Command Prompt
 
  Another way to disable a local user account is via the Command Prompt. It is a command-line utility that you can use to disable Microsoft or local user accounts.
@@ -96,6 +102,14 @@ To disable a user account using Command Prompt:
 4. Locate the user account name in the return list.  
 ![command prompt net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user.jpg)
 5. Next, type the following command to disable the specified user account:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
@@ -118,19 +132,26 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
 2. To disable a user account, right-click on the**User Account Name** and select**Properties** .  
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
 3. In the**Properties** dialog, select the**Account is disabled** option.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
 
@@ -147,22 +168,15 @@ To disable a user account using Command Prompt:
 4. Next, open the**Account** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
 
@@ -185,15 +199,16 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-conquer-social-media-optimal-video-converters-for-twitters/"><u>[New] In 2024, Conquer Social Media Optimal Video Converters for Twitters</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-virtual-sound-devices-for-2024/"><u>[Updated] Ultimate Virtual Sound Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-steams-missing-dll-problems-expert-advice/"><u>Fixing Steam's Missing DLL Problems: Expert Advice</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-waves-to-words-navigating-the-world-of-audio-editing-in-garageband-for-2024/"><u>From Waves to Words Navigating the World of Audio Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-best-gaming-experience-steelseries-arctis-5-driver-installation-tutorial/"><u>Get the Best Gaming Experience: SteelSeries Arctis 5 Driver Installation Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-10-recording-tips-to-record-audio-in-high-quality/"><u>In 2024, 10 Recording Tips to Record Audio in High Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-level-windows-photos-shortcut-guide/"><u>Pro-Level Windows Photos Shortcut Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reverse-winerror-exit-point-failure/"><u>Steps to Reverse WinError Exit Point Failure</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-headset-havens-weighing-google-cardboard-against-samsung-gear/"><u>[New] Headset Havens Weighing Google Cardboard Against Samsung Gear</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-sparking-your-content-strategy-crafting-a-youtube-channel-from-scratch/"><u>[New] In 2024, Sparking Your Content Strategy Crafting a YouTube Channel From Scratch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-generic-volume-controller-malfunction/"><u>Fixing Windows Generic Volume Controller Malfunction</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-internet-connection/"><u>Quick Fixes for Lost Internet Connection</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolution-des-problemes-de-gravure-de-fichiers-suivez-ces-conseils-pour-sauvegarder-reussi-tous-vos-documents-sur-une-cle-usb/"><u>Résolution Des Problèmes De Gravure De Fichiers : Suivez Ces Conseils Pour Sauvegarder Réussi Tous Vos Documents Sur Une Clé USB !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-web-browsing-with-win-10s-safeguard/"><u>Securing Web Browsing with Win 10'S SafeGuard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-virtual-machines-physical-ram-shortage-issue/"><u>Tackling Virtual Machine's Physical RAM Shortage Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-guide-to-timed-photography-on-iphones-setting-a-countdown-before-every-snap/"><u>The Beginner’s Guide to Timed Photography on iPhones - Setting a Countdown Before Every Snap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-enhancing-usability-with-narrator/"><u>The Ultimate Guide to Enhancing Usability with Narrator</u></a></li>
 </ul></div>
 

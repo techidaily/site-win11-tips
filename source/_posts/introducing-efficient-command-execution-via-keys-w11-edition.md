@@ -1,7 +1,7 @@
 ---
 title: Introducing Efficient Command Execution via Keys, W11 Edition
-date: 2024-09-11T01:21:51.818Z
-updated: 2024-09-12T01:21:51.818Z
+date: 2024-10-25T16:49:16.580Z
+updated: 2024-11-01T17:06:27.663Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Download and Install WinHotKey
 
@@ -57,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
 ## How to Set Up Software Hotkeys
@@ -79,32 +49,42 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 1. Press the **New Hotkey** button at the top left of the WinHotKey Configuration window.  
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
  Thereafter, the WinHotKey Configuration window will include your custom hotkey.
@@ -124,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -131,26 +118,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  WinHotKey also enables you to set up hotkeys for six different window control actions. To set up such a keyboard shortcut, select the **Control the Current Window** option on the New Hotkey window. Then you can select minimize, maximize, restore, toggle, resize, and move window control options for the keyboard shortcut.
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
@@ -168,37 +135,18 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeyp-window.jpg)
 2. Press the **…** (ellipses) button for the **Command** box.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Select a program’s EXE (application) file for the hotkey to open.
 4. Then click inside the empty box beside those checkboxes and press a key on your keyboard to include it within the hotkey.
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
@@ -214,57 +162,11 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
  So, you won’t need Windows 11 desktop, Start menu, and taskbar shortcuts anymore when you’ve got WinHotKey or HotKey P. They're easy-to-utilize programs with which you can set up a wide variety of software, folders, and document keyboard shortcuts without cluttering the Windows desktop. Their only notable shortcoming is that you can’t set up website hotkeys with them, but they're still very handy apps nonetheless.
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
-
-
-
-
-
-
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -273,3 +175,24 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/3-quick-ways-to-look-up-definitions-in-windows-11/"><u>3 Quick Ways to Look Up Definitions in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-supported-devices-problem-when-updating-windows/"><u>Addressing 'No Supported Devices' Problem When Updating Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-deactivated-outlook-mail-signals/"><u>Addressing Deactivated Outlook Mail Signals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-blaze-2-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Blaze 2 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-auto-lock-on-windows-tips-and-tricks/"><u>Avoiding Auto-Lock on Windows: Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginning-your-quake-experience-via-terminal/"><u>Beginning Your Quake Experience via Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-photographing-windows-user-acknowledgments/"><u>Best Practices for Photographing Windows' User Acknowledgments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-print-output-in-seconds-fix-windows-printer/"><u>Boost Print Output in Seconds, Fix Windows Printer</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-controlling-windows-11-activity/"><u>Curtailing Game Bar: Controlling Windows 11 Activity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-microsofts-hololens-a-hologram-horizon-for-2024/"><u>Exploring Microsoft's HoloLens A Hologram Horizon for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-counterfeit-pedal-infused-with-virus-the-danger-of-overrun-byproduct-application/"><u>MSI Counterfeit Pedal Infused with Virus: The Danger of Overrun Byproduct Application</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-pop-8-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Pop 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-two-technological-milestones-prove-2023-as-the-pinnacle-of-innovation-a-detailed-analysis-by-zdnet/"><u>Top Two Technological Milestones Prove 2023 as the Pinnacle of Innovation: A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-intels-iris-plus-graphics-655-driver-compatible-with-win10-and-win11/"><u>Update Your System with Intel's Iris Plus Graphics 655 Driver Compatible with Win10 and Win11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-of-the-best-top-5-free-video-compression-apps-for-iphone-and-ipad-users/"><u>Updated 2024 Approved Best of the Best Top 5 Free Video Compression Apps for iPhone and iPad Users</u></a></li>
+</ul></div>
+

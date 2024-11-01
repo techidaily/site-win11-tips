@@ -1,7 +1,7 @@
 ---
 title: Making Legacy Tech More Elder-Safe for Families
-date: 2024-09-11T01:21:27.890Z
-updated: 2024-09-12T01:21:27.890Z
+date: 2024-10-29T17:23:04.388Z
+updated: 2024-11-01T19:28:27.046Z
 tags:
   - windows10
   - windows11
@@ -22,27 +22,10 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Make Sure the Basic Accessibility Features Are Set Up
 
@@ -56,45 +39,11 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  You can also [enable the Narrator function on Windows](https://www.makeuseof.com/windows-11-start-narrator/) so that your grandparents will receive an audio description of what is currently onscreen.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Create Desktop Shortcuts for Your Grandparents' Preferred Programs
 
  This is a simple but important step. To make your grandparents' computer accessible for their specific needs, it’s a good idea to make sure the programs they use are easy to find. Therefore, add shortcuts to the desktop for just the programs they will use.
 
  Removing any unwanted or unused desktop shortcuts will also reduce any confusion or your grandparents opening unwanted or unfamiliar programs by accident.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Rename Programs and Apps With an Accurate Description
 
@@ -123,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -131,25 +87,12 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 **Download:**[TeamViewer](https://www.teamviewer.com/en/download/windows/) (Free)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Write Basic Instructions in Word and Save the Files to Desktop
 
@@ -161,23 +104,22 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Bloatware](https://www.makeuseof.com/what-is-bloatware/)—or Potentially Unwanted Programs (PUP)— are programs that you don’t want, that take up hardware space, and often slow down your computer. When it comes to your grandparents' computer, their bloatware is likely to come as pre-installed software. It’s unlikely that your grandparents will want or benefit from any bloatware, so it’s best to remove it for them.
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8\. Disable Automatic Updates
 
@@ -187,25 +129,18 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Create Templates for Letters
 
  If your grandparents write letters or emails often, it can be useful for them to have a template with the correct formatting ready to use when needed. Being able to send correspondence—whether by post or electronically—can help preserve their sense of independence as they continue to handle their own affairs.
 
  Consider creating letter templates in Word (or their preferred word processor) and save the document to the desktop so that they can easily access it. You can also [create email templates in Outlook](https://www.makeuseof.com/how-to-make-and-use-email-template-outlook/) and Gmail so that your elderly relative can just focus on the content of their messages on their computer without worrying about any technicalities.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Making Your Grandparents' Computer More Accessible Can Preserve Their Sense of Independence
 
@@ -215,18 +150,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,3 +157,20 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-full-spectrum-review-v-tubers-industry-landscape/"><u>[New] 2024 Approved Full Spectrum Review V-Tubers' Industry Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-tips-for-memorable-youtube-names/"><u>[Updated] 2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-benefits-with-creative-commons-licenses-for-2024/"><u>[Updated] Harnessing the Benefits with Creative Commons Licenses for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-simplify-network-connection-configurations-in-winos/"><u>10 Ways to Simplify Network Connection Configurations in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreran-guide-to-windows-11-widget-toolbar-usage/"><u>A Compreran Guide to Windows 11 Widget Toolbar Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-global-scripts-windows-font-acquisition-guide/"><u>Accessing Global Scripts: Windows Font Acquisition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-high-savings-harness-the-power-of-w11-pro-discounts/"><u>Achieve High Savings: Harness the Power of W11 Pro Discounts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wow-lagging-issues/"><u>How To Fix Wow Lagging Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-create-stunning-glitches-the-best-free-online-generators-for-2024/"><u>New Create Stunning Glitches The Best Free Online Generators for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/redefining-efficiency-the-latest-in-windows-10-tech/"><u>Redefining Efficiency The Latest in Windows 10 Tech</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oneplus-11r-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to OnePlus 11R Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719305742826-windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts</u></a></li>
+</ul></div>
+

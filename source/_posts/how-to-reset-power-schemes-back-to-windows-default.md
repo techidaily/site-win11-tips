@@ -1,7 +1,7 @@
 ---
 title: How To Reset Power Schemes Back to Window's Default
-date: 2024-09-12T20:03:54.689Z
-updated: 2024-09-16T21:37:34.040Z
+date: 2024-10-29T18:31:15.143Z
+updated: 2024-11-01T19:18:24.978Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  If you are looking for a way to swiftly switch between power plans, don't miss our guide on the best [ways to change power plans on Windows](https://www.makeuseof.com/windows-11-change-power-plan/).
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reset Power Plans to Default With Command Prompt or Windows PowerShell
 
  While the Control Panel makes it simple to reset a power plan to its default settings, doing so for each power plan individually can be time-consuming. So, what if you want to reset all the power plans to their default settings at once?
@@ -61,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 `powercfg -restoredefaultschemes`  
 ![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that’s about it. Once you run the above command, Windows will reset all the power plans to their default settings. For more such useful commands, why not check our guide on the [most useful CMD commands for Windows](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resetting Windows Power Plans to Default Settings
 
@@ -79,12 +100,26 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-aspect-ratios-unveiled-your-guide-to-stellar-yt-images/"><u>[New] 2024 Approved Aspect Ratios Unveiled Your Guide to Stellar YT Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[New] 2024 Approved Flawless Soundscapes in the World of Social Media Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[New] Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-master-the-pinning-process-for-a-personal-touch-in-snapchat/"><u>[Updated] Master the Pinning Process for a Personal Touch in Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unleashing-viral-potential-on-igtv-with-strategic-hash-tagging/"><u>2024 Approved Unleashing Viral Potential on IGTV with Strategic Hash Tagging</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/conquering-the-marketplace-in-offworld-trading-company-essential-techniques-for-amassing-economic-power/"><u>Conquering the Marketplace in Offworld Trading Company - Essential Techniques for Amassing Economic Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-reactivating-file-explorer/"><u>Essential Tips: Reactivating File Explorer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-sfc-tool-for-windows-file-integrity/"><u>Initiating SFC Tool for Windows File Integrity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-windows-apps-for-the-switcher-from-mac-users-to-windows-warriors/"><u>Key Windows Apps for the Switcher: From Mac Users to Windows Warriors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintain-screen-integrity-against-unwanted-scrolls/"><u>Maintain Screen Integrity Against Unwanted Scrolls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-earning-potential-side-hustles-using-chatgpt-building-your-own-computer-and-nostalgic-handheld-consoles-revival/"><u>Maximizing Earning Potential: Side Hustles Using ChatGPT, Building Your Own Computer, and Nostalgic Handheld Consoles Revival</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sketching-simplicity-crafting-windows-11-desktop-designs/"><u>Sketching Simplicity: Crafting Windows 11 Desktop Designs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smooth-cuts-and-seamless-edits-top-6-mac-videos-editors/"><u>Smooth Cuts and Seamless Edits Top 6 Mac Videos Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-troubleshoot-anydesk-not-responding-in-windows-11/"><u>Tips to Troubleshoot AnyDesk Not Responding in WIndows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trouble-with-talking-solve-your-destiny-amid-voice-chat-glitches-easily/"><u>Trouble with Talking? Solve Your Destiny Amid Voice Chat Glitches Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-hidden-secrets-of-print-settings-in-win11-max-50-chars/"><u>Unlock the Hidden Secrets of Print Settings in Win11 (Max 50 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-net-windows-update-techniques/"><u>Zero-Net Windows Update Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Frozen Shift Key on PC
-date: 2024-09-09T16:31:02.479Z
-updated: 2024-09-16T20:22:15.239Z
+date: 2024-10-26T19:19:10.556Z
+updated: 2024-11-01T18:53:35.978Z
 tags:
   - windows10
   - windows11
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 5. On the next page, select the **Search automatically for drivers** option.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
 
  To reinstall the keyboard drivers, follow these steps:
@@ -78,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 2. Double-click on **Keyboards** and select **Uninstall device**.  
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click **Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now close the Device Manager window and restart your computer. Windows will now automatically install drivers on startup. After that, test the shift key again and see if the problem is solved.
 
@@ -100,7 +86,21 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** and follow the instructions displayed on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run the Keyboard Troubleshooter
 
@@ -117,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
  Wait until the troubleshooter finishes and restart your computer. After that, check if the shift key functions normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Scan for Malware
@@ -135,9 +135,24 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 4. On the right side of the page, click on **Scan options**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
 5. Next, check the **Full scan** box and click **Scan now**.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Try a Different Keyboard
 
@@ -148,20 +163,13 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 ![On-screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/on-screen-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Using the Shift Key Again on Windows
 
@@ -177,5 +185,18 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>[New] In 2024, Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-free-facebook-link-extractors-top-8-available-for-the-year-23-for-2024/"><u>[Updated] Free Facebook Link Extractors Top 8 Available for the Year '23 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correction-of-microsoft-app-update-mishaps/"><u>Correction of Microsoft App Update Mishaps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-upgrading-your-cinematic-story-with-video-edges/"><u>In 2024, Upgrading Your Cinematic Story with Video Edges</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-lg-k92-are-5g-speeds-worth-the-tradeoff/"><u>In-Depth Review of LG K92 - Are 5G Speeds Worth The Tradeoff?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-input-a-win-guide/"><u>Mastering Audio Input: A Win Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-date-and-time-on-windows-taskbar/"><u>Mastering Date & Time on Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-directx-update-errors/"><u>Steps for Fixing DirectX Update Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-itunes-guide-mastering-recordings-for-2024/"><u>The Ultimate iTunes Guide Mastering Recordings for 2024</u></a></li>
+</ul></div>
 

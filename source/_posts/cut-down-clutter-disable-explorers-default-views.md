@@ -1,7 +1,7 @@
 ---
 title: "Cut Down Clutter: Disable Explorer's Default Views"
-date: 2024-10-23T23:06:55.071Z
-updated: 2024-10-26T19:44:06.399Z
+date: 2024-10-28T18:21:23.557Z
+updated: 2024-11-01T16:11:27.391Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
 
  Since it is a command line tool, you can access it from a terminal window. Here’s how to do it:
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 vivetool /disable /id:37634385  
@@ -68,10 +61,10 @@ vivetool /disable /id:36354489
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
@@ -85,14 +78,21 @@ vivetool /disable /id:36354489
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable Any Windows 11 Feature Using ViVeTool
 
@@ -113,22 +113,18 @@ vivetool /disable /id:36354489
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-youtube-stream-the-wirecast-way/"><u>[New] 2024 Approved Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transform-your-footage-techniques-for-exceptional-instagram-videos/"><u>[Updated] In 2024, Transform Your Footage Techniques for Exceptional Instagram Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/chatgpt-launch-procedure-for-windows-users/"><u>ChatGPT Launch Procedure for Windows Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/effortlessly-merge-your-memories-photos-from-iphone-to-snapchat-for-2024/"><u>Effortlessly Merge Your Memories Photos From iPhone to Snapchat for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/experience-gaming-unbound-android-in-desktop-windows-with-google-play-service/"><u>Experience Gaming Unbound: Android in Desktop Windows with Google Play Service</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-combining-images-for-an-engaging-picture-panorama/"><u>In 2024, Combining Images for an Engaging Picture Panorama</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-movie-teasers-highlighted/"><u>In 2024, Leading Movie Teasers Highlighted</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>In 2024, Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-airpods-troubleshooting-essential-steps-for-a-successful-reset-and-timely-solutions-techadvisor/"><u>Mastering AirPods Troubleshooting: Essential Steps for a Successful Reset & Timely Solutions | TechAdvisor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-non-responsive-windows-services-management-tool/"><u>Navigating the Maze of Non-Responsive Windows Services Management Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-elusive-link-finding-missing-launcher/"><u>Re-Establishing Elusive Link: Finding Missing Launcher</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-cr2-conversion-to-jpg-in-windows-environment/"><u>Streamline CR2 Conversion to JPG in Windows Environment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-economic-blueprint-for-aspiring-podcasters/"><u>The Economic Blueprint for Aspiring Podcasters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-games-again-steams-achievement-reboot/"><u>Unlocking Games Again: Steam's Achievement Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-error-unsigned-update-files-fix-guide/"><u>Windows Error: Unsigned Update Files; Fix Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-affordable-cameras-for-effective-vloggers/"><u>[New] 2024 Approved Affordable Cameras for Effective Vloggers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gopro-hero-4-vs-sony-dslr-for-extreme-sports-which-rules-the-arena/"><u>2024 Approved GoPro Hero 4 Vs Sony DSLR for Extreme Sports Which Rules the Arena?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pc-sound-logging-simplified-install-x-recorder-app/"><u>2024 Approved Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-of-ai-named-generators-for-podcasters/"><u>2024 Approved The Ultimate List of AI Named Generators for Podcasters</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-luxury-evaluating-the-tcl-roku-tv-50-4k-uhd-smart-display-model-s425-from-2019-in-our-detailed-review/"><u>Affordable Luxury: Evaluating the TCL Roku TV - 50 4K UHD Smart Display Model S425 From 2019 in Our Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-with-startup-applications/"><u>Enhancing Taskbar with Startup Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/galaxy-power-shift-is-the-new-s23-ultra-better-than-its-predecessor-the-s21/"><u>Galaxy Power Shift: Is The New S23 Ultra Better Than Its Predecessor, the S21?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-z-fold-5-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy Z Fold 5 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-nightmare-windows-theme-lockdown-lifted/"><u>Overcoming The Nightmare: Windows Theme Lockdown Lifted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-reliable-way-to-convert-mkv-to-mp4-on-pcs/"><u>Quick and Reliable Way to Convert MKV to MP4 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-code-22-re-enable-your-windows-11-device/"><u>Resolving Code 22: Re-Enable Your Windows 11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-enabling-windows-powershell-policy/"><u>Step-By-Step Guide to Enabling Windows PowerShell Policy</u></a></li>
 </ul></div>
 

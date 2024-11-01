@@ -1,7 +1,7 @@
 ---
 title: Unblocking Windows Update Failure X80190001
-date: 2024-10-22T19:30:10.914Z
-updated: 2024-10-26T22:27:44.698Z
+date: 2024-10-27T17:26:01.218Z
+updated: 2024-11-01T16:21:15.042Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 Here are a few things you can try if you encounter this error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  A corrupted system file is often the cause of the Windows Update Error. To fix the issue and get your system running again, restarting your computer is always a good start.
@@ -47,13 +40,6 @@ Here are a few things you can try if you encounter this error.
  It’s important to note that simply clicking “Restart” in Windows will not reset all the memory caches and processes. Instead, you may need to perform a hard reboot. For this, you will need to hold down the power button on your device for 3-4 seconds until it completely shuts off.
 
  After that, you should wait for 30 seconds and then hit the power button again to turn on the computer. Upon restarting, check to see if Windows Update has now started working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Run Windows Update Troubleshooter
 
@@ -67,6 +53,13 @@ To try it, follow these steps:
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Run-Windows-Update-Troubleshooter.jpg)
 4. Click the**Run** option next to Windows Update.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take some time for troubleshooting to be completed, so don't worry if it takes longer than expected. After completing the above steps, try installing updates on Windows.
 
 ## 3\. Check Your Date & Time
@@ -79,6 +72,13 @@ To try it, follow these steps:
 4. Turn on the toggle next to "Set the time automatically".
 
  You should also double-check your time zone so that Windows knows when the updates should be installed - otherwise, it may ignore them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run an SFC and DISM Scan
 
@@ -94,6 +94,13 @@ To try it, follow these steps:
 4. Then press**Enter** on your keyboard.  
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The process will take a few minutes to complete. If you wish, you can do other things while the system scans the data. Once the process is completed, try updating Windows again.
 
  If the problem persists, you should run the Deployment Image Servicing and Management command line tool to restore system files and repair any corrupted system images. Here are the steps to follow:
@@ -103,13 +110,6 @@ To try it, follow these steps:
 DISM /Online /Cleanup-Image /ScanHealthDism.exe /online /cleanup-image /restorehealth
 
  You may have to wait for a while for the process to complete. After you run the DISM command, restart your computer to see if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clear the SoftwareDistribution Folder
 
@@ -159,10 +159,10 @@ net start msiserver`
  Once you have finished the steps above, restart your computer and try updating Windows again. If you find this method helpful, it means the problem lies with one of the services you disabled. As such, enable each service one by one and identify the one causing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Windows Update Error 0x80190001
@@ -184,20 +184,24 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-visual-experience-on-youtube-with-professional-techniques/"><u>[New] In 2024, Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>[New] Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend-for-2024/"><u>[New] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-innovative-approaches-to-customize-your-igtv-content-size-for-2024/"><u>[Updated] Innovative Approaches to Customize Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sleep-inducing-screenplays-video-evaluation/"><u>[Updated] Sleep-Inducing Screenplays Video Evaluation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-vocalvault-critique-of-live-sounds/"><u>2024 Approved VocalVault Critique of Live Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-an-efficient-windows-menu-for-software-alerts/"><u>Crafting an Efficient Windows Menu for Software Alerts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-logitech-driving-force-pro-complete-download-tutorial-for-windows-users-versions-7-10/"><u>How to Install Logitech Driving Force Pro: Complete Download Tutorial for Windows Users (Versions 7-10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-sizing-down-software-on-windows-11/"><u>Mastering the Art of Sizing Down Software on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-issue-error-code-0x80073712/"><u>Resolving Windows Update Issue: Error Code 0X80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/standardizing-your-windows-system-backups/"><u>Standardizing Your Windows System Backups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-error-0x0000011b-on-operations/"><u>Tackling Windows 11'S Error 0X0000011B on Operations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-x5-pro-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco X5 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-game-launch-freezes-steps-to-mend-windows-11-steam/"><u>Troubleshooting Game Launch Freezes: Steps to Mend Windows 11 Steam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users-for-2024/"><u>[New] 8 Compelling No-Cost Video Calls Applications for PC and MAC Users for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-google-photos-full-potential/"><u>[New] Leveraging Google Photos' Full Potential</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essential-checklist-purging-backdrops-with-affinity-photo-for-2024/"><u>[New] The Essential Checklist Purging Backdrops with Affinity Photo for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-the-top-10-historically-rich-youtube-tutorials/"><u>[Updated] 2024 Approved Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-peak-performance-photography-the-ultimate-10-4k-mobile-camera-lineup/"><u>[Updated] Peak Performance Photography The Ultimate 10 4K Mobile Camera Lineup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-101-tips-for-a-distraction-free-video-backdrop/"><u>[Updated] YouTube 101 Tips for a Distraction-Free Video Backdrop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-image-thumbnail-size-in-windows-11/"><u>How to Change the Image Thumbnail Size in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-pro-max-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 Pro Max without itunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-update-the-dynamic-theme-on-windows-regularly/"><u>How to Update the Dynamic Theme on Windows Regularly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimize-your-screen-sessions-with-obs-and-skype/"><u>In 2024, Optimize Your Screen Sessions with OBS & Skype</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-oculus-rift-into-a-windows-pc-virtual-reality-setup/"><u>Integrating Oculus Rift Into a Windows PC Virtual Reality Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-pens-tablet-apps-on-the-windows-os/"><u>Perfect Pens' Tablet Apps on the Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-guide-for-heic-to-jpeg-transformation-in-w11/"><u>Precision Guide for Heic to JPEG Transformation in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-limited-administrator-power-from-security-issue/"><u>Removing 'Limited Administrator Power' From Security Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-error-how-to-retrieve-lost-geforce-x-configurations/"><u>Reversing Error: How to Retrieve Lost GeForce X Configurations</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/strategie-per-il-ripristino-dei-dati-perduti-accidentalmente-da-una-periferica-di-archiviazione-esterna/"><u>Strategie per Il Ripristino Dei Dati Perduti Accidentalmente Da Una Periferica Di Archiviazione Esterna</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-eliminate-sluggishness-effectively/"><u>Turbocharge Windows 11: Eliminate Sluggishness Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-managing-facebooks-hidden-history/"><u>Understanding & Managing Facebook's Hidden History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-code-top-strategies-for-wsl-2-users/"><u>Winning at Code: Top Strategies for WSL 2 Users</u></a></li>
 </ul></div>
 

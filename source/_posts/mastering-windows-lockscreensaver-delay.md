@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Lock/Screensaver Delay
-date: 2024-09-16T00:16:59.080Z
-updated: 2024-09-17T08:11:42.223Z
+date: 2024-10-28T16:04:50.520Z
+updated: 2024-11-01T18:43:13.404Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the Windows System Settings
 
  The Windows system settings always come in handy in various situations. Let’s check out how you can use them to change the Windows 10 screen lock timeout settings:
@@ -63,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 6. Finally, click the **Save changes** button.
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the Advanced Power Options (via the Control Panel)
 
@@ -120,6 +134,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From there, follow these steps to configure the screen saver timeout settings:
 
 1. Navigate to the **Wait** option on the Screen Saver Settings window.
@@ -127,20 +148,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, press **Apply** and then press **OK** to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Local Group Policy Editor
@@ -155,16 +169,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
@@ -182,13 +190,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ### Use the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
@@ -208,20 +209,14 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
 
- Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
 
@@ -242,5 +237,24 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-measure-the-performance-of-igtv-videos-in-2024/"><u>[New] How to Measure the Performance of IGTV Videos, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] 2024 Approved Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-strategies-in-post-processing-colors/"><u>[Updated] 2024 Approved Expert Strategies in Post-Processing Colors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971614062-continuous-monitoring-and-adjustment-of-environmental-conditions-are-crucial-for-effective-concrete-curing/"><u>Continuous Monitoring and Adjustment of Environmental Conditions Are Crucial for Effective Concrete Curing.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsairs-h80i-v2-cpu-water-block-driver-download-step-by-step-tutorial/"><u>Corsair's H80i V2 CPU Water Block Driver Download – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-process-of-clearing-restrictions-in-pcs/"><u>Demystifying the Process of Clearing Restrictions in PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-plus-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-tech-selection-the-15-finest-cameras/"><u>Elite Tech Selection – The 15 Finest Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-alternative-av-solutions-despite-microsoft-defender-blockade/"><u>Enabling Alternative AV Solutions Despite Microsoft Defender Blockade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-lele-playable-again-fix-windows-wol-issues/"><u>Getting LeLë Playable Again: Fix Windows WoL Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-p55-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel P55</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>In 2024, Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-wsl-android-resource-allocation/"><u>Optimizing WSL Android Resource Allocation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-fix-non-transferring-data-from-windows-usb-devices/"><u>Strategies to Fix Non-Transferring Data From Windows USB Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-the-essential-password-addition-technique/"><u>Windows 10/11: The Essential Password Addition Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-pin-woes-heres-what-to-do/"><u>Windows PIN Woes? Here's What to Do</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-completing-windows-endless-countdowns/"><u>Winning Strategies for Completing Windows' Endless Countdowns</u></a></li>
+</ul></div>
 

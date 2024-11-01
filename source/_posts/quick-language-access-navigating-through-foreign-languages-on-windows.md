@@ -1,7 +1,7 @@
 ---
 title: "Quick Language Access: Navigating Through Foreign Languages on Windows"
-date: 2024-09-11T01:20:44.553Z
-updated: 2024-09-12T01:20:44.553Z
+date: 2024-10-29T17:45:04.255Z
+updated: 2024-11-01T16:59:17.176Z
 tags:
   - windows10
   - windows11
@@ -33,47 +33,8 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
@@ -83,51 +44,18 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
@@ -136,20 +64,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -164,7 +78,21 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Translate Files With DeepL
 
@@ -172,19 +100,12 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
@@ -206,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +134,23 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-all-inclusive-list-best-downloader-software-for-vimeo/"><u>[New] All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-precision-recording-perfecting-video-captures-on-your-android-phone-for-2024/"><u>[New] Precision Recording Perfecting Video Captures on Your Android Phone for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-unveiled-successful-podcast-on-apple-store/"><u>[New] Secrets Unveiled Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sliceshot-synopsis/"><u>[New] SliceShot Synopsis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-alternatives-when-bitlocker-isnt-available-on-windows/"><u>5 Alternatives When Bitlocker Isn't Available on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-strategies-to-extend-your-hard-drives-lifespan/"><u>6 Strategies to Extend Your Hard Drive's Lifespan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-visual-journey-customizing-your-windows-11-monitor-walls/"><u>A Visual Journey: Customizing Your Windows 11 Monitor Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-dpi-settings-for-optimal-display-performance/"><u>Adjust DPI Settings for Optimal Display Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-with-top-fixes-for-file-explorer-glitches-on-win11/"><u>Avoid Disruptions with Top Fixes for File Explorer Glitches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-a-step-by-step-guide-to-the-taskbars-search-bar-in-windows-11/"><u>Boost Efficiency: A Step-By-Step Guide to the Taskbar’s Search Bar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-integrating-new-folders-into-windows-11-menu/"><u>Boosting Efficiency: Integrating New Folders Into Windows 11 Menu</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/building-unique-instagram-profile-thumbnails-for-2024/"><u>Building Unique Instagram Profile Thumbnails for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-next-gen-gaming-with-xbox-one-x-a-comprehensive-review-for-console-enthusiasts/"><u>Experience Next-Gen Gaming with Xbox One X - A Comprehensive Review for Console Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-m14-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy M14 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mac-users-learn-how-to-install-kinemaster-with-ease-for-2024/"><u>Mac Users Learn How to Install KineMaster with Ease for 2024</u></a></li>
+</ul></div>
 

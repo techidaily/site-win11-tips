@@ -1,7 +1,7 @@
 ---
 title: Master Your Windows 11 Efficiency with Shortcuts & NirCmd
-date: 2024-10-20T19:27:10.149Z
-updated: 2024-10-26T19:25:56.325Z
+date: 2024-10-27T16:21:12.007Z
+updated: 2024-11-01T16:11:09.168Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -64,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
@@ -80,31 +95,11 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 `nircmd.exe emptybin`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Center Align All Windows
 
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
 
@@ -132,18 +127,18 @@ keywords: Win11 Optimize Shortcuts,NirCmd Power Tools,Boost Windows Efficiency,S
 thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686720a91de941d4b85521ee34.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Close All Open File Explorer Windows
 
@@ -157,42 +152,24 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[Updated] 2024 Approved Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-step-by-step-strategies-for-successful-youtube-srt-downloads/"><u>[Updated] 2024 Approved Step-by-Step Strategies for Successful YouTube SRT Downloads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-posts-instagram-video-edits-with-borders/"><u>[Updated] Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-complete-rundown-top-10-digital-drawing-software-on-chrome-for-2024/"><u>A Complete Rundown Top 10 Digital Drawing Software on Chrome for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-impact-when-to-start-your-podcast/"><u>In 2024, Maximizing Impact When to Start Your Podcast</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-active-directory-related-printer-crashes-on-w11/"><u>Strategies for Resolving Active Directory-Related Printer Crashes on W11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-process-for-deleting-your-presence-from-tiktok/"><u>The Complete Process for Deleting Your Presence From TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unable-to-open-geforce-experience-error/"><u>Troubleshooting Unable to Open GeForce Experience Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-recurring-anydesk-windows-anomalies/"><u>Unraveling Recurring AnyDesk Windows Anomalies</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -201,3 +178,17 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-comprehensive-guide-to-fisheye-panoramas-for-2024/"><u>[New] Comprehensive Guide to Fisheye Panoramas for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-the-art-of-cross-posting-with-twitter-on-instagram/"><u>[Updated] In 2024, Mastering the Art of Cross-Posting with Twitter on Instagram</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-safety-with-new-passwords-in-win-11/"><u>Enhancing System Safety with New Passwords in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-the-admin-restriction-error-message-on-pcs/"><u>How to Bypass the Admin Restriction Error Message on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-full-privilege-access-to-terminal-a-snap-shot/"><u>Make Full-Privilege Access to Terminal A Snap Shot</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-exporting-your-music-from-ableton-live-as-mp3s/"><u>Step-by-Step Guide: Exporting Your Music From Ableton Live as MP3s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-a-study-on-their-contrasting-traits/"><u>Terminal & PowerShell: A Study on Their Contrasting Traits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-gamesnapper-strategies-for-captures-for-2024/"><u>Ultimate GameSnapper Strategies for Captures for 2024</u></a></li>
+</ul></div>
+

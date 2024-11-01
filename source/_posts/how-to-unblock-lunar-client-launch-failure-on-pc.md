@@ -1,7 +1,7 @@
 ---
 title: How to Unblock Lunar Client Launch Failure on PC
-date: 2024-10-22T20:10:13.152Z
-updated: 2024-10-26T21:34:13.166Z
+date: 2024-10-26T19:37:15.049Z
+updated: 2024-11-01T16:29:44.926Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ Follow these steps to run Lunar Client as an administrator:
 3. Right-click on Lunar Client's EXE file and select**Run as administrator** from the context menu.  
 ![Run Lunar Client as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-run-lunar-client-as-an-administrator-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ## 3\. Delete Lunar Client's Cache Folders
@@ -61,21 +68,7 @@ C:\Users\<username>\AppData\Roaming
 4. Select the folders, right-click on them, and hit**Delete** .  
 ![Delete Lunar Client's Cache Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-delete-lunar-client-s-cache-folders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Lunar Client again after deleting the cache folders. If you encounter the same error again, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change the Allocated Memory in Lunar Client's Settings
 
@@ -90,7 +83,21 @@ To change Lunar Client's memory allocation, follow these steps:
 3. To change the memory allocation, drag the slider under**Allocated Memory** .  
 ![Change the Allocated Memory in the Lunar Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-allocated-memory-in-the-lunar-client-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How much memory you should allocate depends entirely on the amount of memory you have on your computer. If you have 16GB of RAM installed, allocating 5GB would be a better decision. If the overall memory is less than that, you can allocate it accordingly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Old Renderer Log File
 
@@ -105,17 +112,10 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
@@ -138,16 +138,16 @@ To change Lunar Client's memory allocation, follow these steps:
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you encounter any problems during installation, uninstall the existing installation. To do that, open the**Settings** app and go to the**Apps** tab on the left. Then, find the**Java**  package from the list of installed programs, click on the**three horizontal dots** next to it, and click**Uninstall** .
 
 ![Uninstall the Existing Java Package From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-uninstall-the-existing-java-package-from-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the installation window automatically detects an old Java version, uninstall it by clicking**Uninstall** .
 
@@ -172,21 +172,24 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-solid-foundation-youtube-video-script-basics/"><u>[New] 2024 Approved Building a Solid Foundation YouTube Video Script Basics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-content-top-rated-cameras-for-youtubers/"><u>[Updated] In 2024, Elevate Your Content Top-Rated Cameras for YouTubers</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-guide-to-compressing-dvd-9-into-compact-dvd-5-formats/"><u>Easy Guide to Compressing DVD-9 Into Compact DVD-5 Formats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-sound-failure-in-audacity-windows-11-and-11/"><u>Eliminating Sound Failure in Audacity, Windows 11 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-poco-f5-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Poco F5 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8 Plus?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-for-faded-bios-boot-options/"><u>Remedy for Faded BIOS Boot Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-printer-settings-in-windows-environment/"><u>Seamless Integration of Printer Settings in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-windows-chrome-blackouts/"><u>Taming Windows Chrome Blackouts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-effectiveness-of-an-agent-depends-on-its-ability-to-cool-smother-chemically-inhibit-combustion-or-displace-oxygen/"><u>The Effectiveness of an Agent Depends on Its Ability to Cool, Smother, Chemically Inhibit Combustion, or Displace Oxygen.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-reality-check-why-ai-fails-in-coin-market-analysis/"><u>The Reality Check: Why AI Fails in Coin Market Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-guide-combatting-a-non-active-wsresetexe/"><u>The Ultimate Fix Guide: Combatting a Non-Active WSReset.exe</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-xr21-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia XR21 Location | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-how-to-reinstall-java-correctly/"><u>Unlocking Windows: How to Reinstall Java Correctly</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlocking-full-potential-with-powerdirector-a-comprehensive-review/"><u>[New] In 2024, Unlocking Full Potential with PowerDirector - A Comprehensive Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cinematic-clarity-choices-best-4k-monitors-for-filmmakers-for-2024/"><u>[Updated] Cinematic Clarity Choices Best 4K Monitors for Filmmakers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-tiktok-to-twitter-a-step-by-step-guide/"><u>[Updated] From TikTok to Twitter A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-money-on-youtube-without-ads/"><u>[Updated] How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>2024 Approved Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-chat-convergence-insights-on-gpt-and-bings-bot-differences/"><u>Comparative Chat Convergence: Insights on GPT & Bing's Bot Differences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-superuser-in-terminal-a-step-by-step-guide/"><u>Enabling Superuser in Terminal: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-outlook-preview-in-windows-11/"><u>Essential Tips for Using Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-absence-of-files-notification-on-win-11/"><u>Fixing Absence of Files Notification on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-responsive-volume-control-on-win-1011-pc/"><u>Fixing Responsive Volume Control on Win 10/11 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-get-the-latest-linksys-wrt54g-drivers-downloaded-speed-up-your-network/"><u>How to Easily Get the Latest Linksys WRT54G Drivers Downloaded - Speed up Your Network!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-generate-a-group-policy-report-with-the-gpresult-command/"><u>How to Generate a Group Policy Report With the GPResult Command</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mute-functionality-disabling-windows-11-tasks/"><u>Mute Functionality: Disabling Windows 11 Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-teams-screen-failures/"><u>Overcoming Teams Screen Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-saving-perplexities-the-tale-of-windows-standby/"><u>Power Saving Perplexities: The Tale of Windows' Standby</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-and-fix-crashed-epic-games-launcher-window/"><u>Stop & Fix Crashed Epic Games Launcher Window</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-wot-blitz-from-crashing-ultimate-troubleshooting-techniques-revealed/"><u>Stop WoT Blitz From Crashing: Ultimate Troubleshooting Techniques Revealed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
 

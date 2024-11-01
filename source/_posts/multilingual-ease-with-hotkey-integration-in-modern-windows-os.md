@@ -1,7 +1,7 @@
 ---
 title: Multilingual Ease with Hotkey Integration in Modern Windows OS
-date: 2024-10-23T17:59:56.590Z
-updated: 2024-10-26T16:10:09.011Z
+date: 2024-10-27T18:38:37.805Z
+updated: 2024-11-01T19:09:41.840Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
@@ -98,28 +98,28 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
  DeepL has a hotkey for a text-capturing translation feature that isn’t enabled by default. Click the**Capture text on screen** option in the settings to enable that feature. Pressing**Ctrl** +**F8** will activate a tool with which you can select text for translation by dragging a grey box over it.
 
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
 
@@ -140,21 +140,22 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-academic-engagement-lecture-capture-via-mac-computers/"><u>[New] Academic Engagement Lecture Capture via Mac Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>[New] Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-captivating-gamer-content-through-obs-streaming/"><u>[Updated] Captivating Gamer Content Through OBS Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-dynamic-range-enhancement-a-compreeved-tutorial-guide/"><u>[Updated] In 2024, Dynamic Range Enhancement A Compreeved Tutorial Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-msresourceappname-text-glitch-win11-fix/"><u>Addressing 'MsResource/AppName Text' Glitch, Win11 Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-defenders-0x80004004-issue/"><u>Breaking Down Windows Defender's 0X80004004 Issue</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-economic-riches-of-mr-beast-for-2024/"><u>Decoding the Economic Riches of Mr. Beast for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-free-graphic-websites-for-quality-vectors-for-2024/"><u>Leading Free Graphic Websites for Quality Vectors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/metaverse-inspiration-enhanced-by-ar-and-vr-for-2024/"><u>Metaverse Inspiration Enhanced by AR & VR for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-solution-for-fixing-error-code-0x80073d26/"><u>The Ultimate Solution for Fixing Error Code: 0X80073D26</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-verdict-on-vllo-performance-for-2024/"><u>The Verdict on VLLO Performance for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transition-to-new-life-for-your-outdated-computer/"><u>Transition to New Life for Your Outdated Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-comprehensive-guide-to-asus-rog-z790-formulas-advanced-cooling-and-elite-hardware/"><u>Unveiling the Performance: A Comprehensive Guide to Asus ROG Z790 Formula's Advanced Cooling and Elite Hardware</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cost-outline-for-composing-sounds-to-screen-titles/"><u>[New] 2024 Approved Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-the-past-best-educational-historical-content-on-yt/"><u>[New] Unlocking the Past Best Educational Historical Content on YT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-tutorial-inverting-video-playback-in-vlc-media-player/"><u>[Updated] Quick Tutorial Inverting Video Playback in VLC Media Player</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essentials-of-sims-4-gameplay-recording-for-2024/"><u>[Updated] The Essentials of Sims 4 Gameplay Recording for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combatting-iphones-difficulty-in-autofocusing/"><u>2024 Approved Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wma-m4a-movavi/"><u>免費線上 WMA 到 M4A 改造工具 - Movavi 音樂文件自動更新技術</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-chains-of-stuck-downloads-on-windows-11-pcs/"><u>Breaking the Chains of Stuck Downloads on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-down-your-pc-with-grace/"><u>Bringing Down Your PC with Grace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/budgeting-without-breaking-the-bank-on-windows-11/"><u>Budgeting Without Breaking the Bank on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restricted-access-on-your-winsec-pc/"><u>Bypassing 'Restricted Access' On Your WinSec PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-controlled-windows-settings-by-administrators/"><u>Bypassing Controlled Windows Settings by Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-set-an-account-as-administrator-on-windows-heres-the-fix/"><u>Can't Set an Account as Administrator on Windows? Here's the Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-chromes-automatic-new-tab-generations-on-windows/"><u>Cease Chrome's Automatic New Tab Generations on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-restful-states-on-your-windows-pc/"><u>Choosing Restful States on Your Windows PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-note-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi Note 12 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-repair-easy-steps-to-revive-and-operate-non-responsive-optical-media-drives-successfully/"><u>Master the Repair: Easy Steps to Revive and Operate Non-Responsive Optical Media Drives Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-on-a-dime-your-guide-to-vr-selection/"><u>Quality on a Dime: Your Guide to VR Selection</u></a></li>
 </ul></div>
 

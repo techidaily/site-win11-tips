@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Screencast Feedback in PowerPoint
-date: 2024-09-16T05:23:55.999Z
-updated: 2024-09-16T16:19:24.128Z
+date: 2024-10-30T16:51:50.919Z
+updated: 2024-11-01T19:25:09.411Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. Under the **Input** tab, select your preferred audio device.  
 ![Select Default Microphone in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-default-microphone-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Is your microphone not showing up in the Settings app? Apply the necessary [fixes to get Windows to detect your microphone](https://www.makeuseof.com/windows-not-detecting-microphone/).
 
 ## 4\. Disable Hardware Graphics Acceleration in PowerPoint
@@ -87,21 +94,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. Click the **Run** button next to **Recording Audio**.  
 ![Recording Audio Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/recording-audio-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Allow the troubleshooter to find and fix any issues, and then check if PowerPoint can record the audio.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Services
 
@@ -117,7 +110,21 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 4. Similarly, restart the **Windows Audio Endpoint Builder** service as well.  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-audio-service.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Using the Services app isn't the only way to manage services on Windows. You can also use Task Manager, Command Prompt and PowerShell to [start, stop or restart services on Windows](https://www.makeuseof.com/how-to-start-stop-service-windows/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Start PowerPoint in Safe Mode
 
@@ -133,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 6. Clear the checkboxes to disable add-ins and then click **OK**.  
 ![Disable Add-ins in PowerPoint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-add-ins-in-powerpoint.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart PowerPoint after this, and then enable your add-ins one at a time until the issue occurs again. Once you find the faulty add-in, consider removing it.
 
 ## 8\. Update Microsoft PowerPoint
@@ -141,20 +155,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![Update PowerPoint on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-powerpoint-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Microsoft Office to update PowerPoint, and the issue should not occur after that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Run the Office Repair Tool
@@ -168,14 +175,14 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 5. Select the **Quick Repair** option and hit the **Repair** button.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the problem persists even after this, you can run the Office repair tool again to perform an **Online Repair**. Note that this process may take a little longer to complete, as the tool will attempt a more thorough repair.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get PowerPoint to Record Your Audio Again on Windows
 
@@ -191,5 +198,19 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-analyzing-livestream-giants-twitch-vs-youtube-breakdown-for-2024/"><u>[New] Analyzing Livestream Giants Twitch Vs YouTube Breakdown for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-choosing-gopro-wisely-a-comparative-examination/"><u>[New] Choosing GoPro Wisely A Comparative Examination</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>[Updated] Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-x100-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo X100 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-dissecting-the-ispring-screencap-magic/"><u>In 2024, Dissecting the iSpring Screencap Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-locate-and-execute-hidden-registry-tools/"><u>Methods to Locate and Execute Hidden Registry Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-appname-msresource-issue-w11-edition/"><u>Resolving AppName MsResource Issue, W11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-frozen-shift-key-on-pc/"><u>Revive Your Frozen Shift Key on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-browsing-in-win-11-implement-microsoft-defender-application-guard/"><u>Secure Browsing in Win 11: Implement Microsoft Defender Application Guard</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-successfully-installing-ds4-driver-for-windows-users/"><u>Step-by-Step Guide: Successfully Installing DS4 Driver for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-non-hdcp-compatible-displays/"><u>Troubleshooting: Fixing Non-HDCP Compatible Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-steam-on-windows-end-black-pixels/"><u>Unblocking Steam on Windows: End Black Pixels</u></a></li>
+</ul></div>
 

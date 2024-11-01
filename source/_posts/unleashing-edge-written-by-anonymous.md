@@ -1,7 +1,7 @@
 ---
 title: Unleashing Edge' Written by Anonymous
-date: 2024-09-11T01:22:26.645Z
-updated: 2024-09-12T01:22:26.645Z
+date: 2024-10-30T19:12:12.134Z
+updated: 2024-11-01T17:09:41.424Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 
  In this guide, we will show you different methods to install Microsoft Defender Application Guard for Edge on your Windows 11 PC.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. How to Install Microsoft Defender Application Guard Using Windows Settings
 
@@ -39,25 +36,6 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 ![How to Install Microsoft Defender Application Guard Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/how-to-install-microsoft-defender-application-guard-using-windows-security.jpg)
 5. If you see the UAC prompt on your computer screen, click Yes to confirm your action.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Next, check the box next to**Microsoft Defender Application Guard** and click**OK** .  
 ![Add Microsoft Defender Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-microsoft-defender-application-guard-for-edge.jpg)
 
@@ -67,21 +45,14 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 
 ![Uninstall Microsoft Defender Application Guard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-defender-application-guard.jpg)
 
-
-
-
+ Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
 ## 2\. How to Install Microsoft Defender Application Guard Using the Control Panel
 
@@ -94,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 5. Then restart your computer for the changes to take effect.
 
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
 
@@ -111,52 +89,18 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 ![Microsoft Defender Application Guard Using Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-defender-application-guard-using-local-group-policy-editor.jpg)
 5. This will open a new window, select the**Enabled** checkbox.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. You can now go to**Options** and change it to**2** or**3** .  
 ![Turn on Microsoft Defender Application Guard in Managed Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-microsoft-defender-application-guard-in-managed-mode.jpg)
 7. Once done, click**Apply** and then**OK** to save all the changes you have made.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
@@ -195,32 +139,22 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Get Microsoft Defender Application Guard and Stay Safe
 
  Microsoft Defender Application Guard uses isolated secure containers to protect your device from malicious files and threats. In the above-described methods, you can follow the installation steps and remain safe while browsing the web.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,12 +163,24 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>[New] 2024 Approved Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[New] In 2024, From Vlogs to Virality Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-quick-ways-to-retain-live-chat-transcripts/"><u>[New] In 2024, Quick Ways to Retain Live Chat Transcripts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-strategic-insights-into-procuring-a-mountain-of-videos-from-tiktok/"><u>[New] Strategic Insights Into Procuring a Mountain of Videos From TikTok</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-engage-audiences-with-substance-mastering-the-art-of-tiktok-captions-top-5/"><u>[Updated] In 2024, Engage Audiences with Substance Mastering the Art of TikTok Captions (Top 5)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-blaze-curve-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Blaze Curve 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-fix-update-cod-modern-warfare-3-the-solution-to-overcome-the-unexpected-app-halt/"><u>Bug Fix Update: Cod Modern Warfare #3 - The Solution to Overcome the Unexpected App Halt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluating-windows-devices-essential-decisions-before-purchasing/"><u>Evaluating WIndows Devices: Essential Decisions Before Purchasing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-address-sniptool-shortcut-problems/"><u>How to Swiftly Address SnipTool Shortcut Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X90S Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-diverse-backdrops-for-tiktok-videos/"><u>In 2024, Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-latency-strategies-to-fasten-windows-discord/"><u>Lowering Latency: Strategies to Fasten Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-task-tracking-in-project-management/"><u>Master the Art of Task Tracking in Project Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-permission-errors-a-step-by-step-guide-on-windows/"><u>Resolving Permission Errors: A Step-by-Step Guide on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotting-large-files-and-drives-in-windows-storage-soup/"><u>Spotting Large Files & Drives in Windows Storage Soup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-path-upgrading-your-vm-software-from-virtualbox-v6-to-v7-in-win11/"><u>Step-by-Step Path: Upgrading Your VM Software From VirtualBox v6 to v7 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-setup-a-closer-look/"><u>Windows 11 Setup: A Closer Look</u></a></li>
+</ul></div>
 

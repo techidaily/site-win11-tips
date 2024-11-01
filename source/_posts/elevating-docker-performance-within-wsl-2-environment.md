@@ -1,7 +1,7 @@
 ---
 title: Elevating Docker Performance Within WSL 2 Environment
-date: 2024-10-22T20:08:08.070Z
-updated: 2024-10-27T00:40:51.023Z
+date: 2024-10-25T19:32:45.551Z
+updated: 2024-11-01T18:44:31.960Z
 tags:
   - windows10
   - windows11
@@ -53,52 +53,39 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  You must become familiar with the best practices for utilizing Docker with Windows Subsystem for Linux 2, just like you would with any other platform or tool. As a developer, I can say from personal experience that you'll become much more productive and efficient once you integrate the following tips into your workflow.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Integrate VS Code with WSL 2
 
  Visual Studio Code is a popular IDE that’s loved due to its incredible features, community, and extensions. As a developer, the ability to use Visual Studio Code for app development on a Windows platform while also running those apps on a Linux kernel is an incredibly advantageous and almost unbelievable feature.
 
 ![wsl extension in VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you integrate VS Code into the Windows Subsystem for Linux, you can take advantage of its specialized Linux kernel to enhance cross-platform compatibility. You can further streamline your workflow by utilizing the integrated terminal within VS Code with WSL 2.
 
  To[set up VS Code with WSL 2 on Windows](https://www.makeuseof.com/how-to-set-up-vs-code-with-wsl-2-windows-10-11/) , you can configure the**WSL** extension from the VS Code Marketplace and get things going.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the WSL 2 File System
 
  To properly run your Docker containers, it's vital that you rely on the file system of your WSL 2 distro and not heavily depend on the native Windows file system. Throughout my experience of working with Docker containers on WSL 2, I’ve discovered it’s better to store your project files within WSL.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Native Linux Scripts
 
  Many containerized projects that you’ll work on will probably come with scripts for automation on Linux. Typically, these scripts are first developed for Linux, and Windows developers aren’t a priority.
 
  With WSL 2, your entire team can use the same Linux automation scripts, and you don’t have to worry about maintaining Windows-compatible automation scripts for your team.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Configure BuildKit for Improved Security and Performance
 
@@ -110,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 `export DOCKER_BUILDKIT=1.`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Set Up Resource Limits
 
  When you integrate the WSL 2 backend with Docker Desktop, you give Docker access to all your CPU resources. Doing so helps improve performance for containers that are resource heavy.
@@ -118,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  Fortunately, you can configure Docker containers to limit the system memory and CPU usage. You should always be careful while configuring the system memory, even a minor mistake can have significant consequences. You can refer to the[official Docker documentation](https://docs.docker.com/config/containers/resource%5Fconstraints/) for a more detailed guide on limiting the memory and CPU resources consumed by a Docker container.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Recover Cached Memory
 
  If you’re running a Docker container in WSL 2, its memory should be freed once the container terminates. Unfortunately, the operating system kernel tends to maintain data in the cache; this means that the effective memory reclaimed by the WSL 2 won’t be sufficient.
@@ -125,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  You can recover all of the memory that is unnecessarily being utilized as a cache by running the following command via root in WSL 2:
 
 `echo 1 > /proc/sys/vm/drop_caches`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Smarter With WSL 2
 
@@ -152,20 +146,16 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-use-zoom-in-gmail/"><u>[Updated] 2024 Approved How to Use Zoom in Gmail</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-crafting-dreams-on-screen-the-best-motivational-movies/"><u>2024 Approved Crafting Dreams on Screen The Best Motivational Movies</u></a></li>
-<li><a href="https://win-web.techidaily.com/ensuring-safety-with-every-save-how-to-efficiently-backup-windows-11-folders-to-an-external-hard-drive-unveiling-three-techniques/"><u>Ensuring Safety with Every Save: How to Efficiently Backup Windows 11 Folders to an External Hard Drive – Unveiling Three Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-windows-remedy-guide-eight-tactics/"><u>Essential Windows Remedy Guide - Eight Tactics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-cyberpunk-2077-doesnt-utilize-graphics-card-in-windows-11/"><u>Fixing: Cyberpunk 2077 Doesn't Utilize Graphics Card in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/group-free-enhance-windows-11-taskbar-ease/"><u>Group-Free: Enhance Windows 11 Taskbar Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-steam-disk-write-error-on-windows/"><u>How to Fix the Steam Disk Write Error on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zoom-calls-with-flair-filters-application-101/"><u>In 2024, Zoom Calls with Flair Filters Application 101</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-fingerprint-recognition-in-windows-11/"><u>Integrating Fingerprint Recognition in Windows 11</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/quick-and-easy-guide-top-apps-for-instantly-sharpening-blurry-photos-on-iphone/"><u>Quick & Easy Guide: Top Apps for Instantly Sharpening Blurry Photos on iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-jump-to-notes-starting-windows-with-immediate-access/"><u>Quick Jump to Notes: Starting Windows with Immediate Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-windows-store-mishaps-cure-0x80072f30-glitches/"><u>Tackling Windows Store Mishaps: Cure 0X80072F30 Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-step-by-step-approach-to-professional-ps4-gaming-recordings/"><u>[New] A Step-by-Step Approach to Professional PS4 Gaming Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-list-makeup-tutorials-who-to-watch-in-2024/"><u>[New] A-List Makeup Tutorials Who to Watch , In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-the-craft-of-online-title-perfection/"><u>[New] In 2024, Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-path-to-polished-photo-borders-in-instagram/"><u>[New] In 2024, The Path to Polished Photo Borders in Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x80246007-in-updater-for-windows-1011/"><u>Eliminating Error 0X80246007 in Updater for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/freeing-up-windows-file-access-disable-read-lock/"><u>Freeing Up Windows File Access: Disable Read-Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminating-insights-a-visual-notetaking-journey-with-obsidian/"><u>Illuminating Insights: A Visual Notetaking Journey with Obsidian</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-13-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 13 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-sudden-screen-darkening-in-windows-gaming/"><u>Mitigating Sudden Screen Darkening in Windows Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unwanted-snipping-tool-startup-with-print-screen-on-win-11-pcs/"><u>Stop Unwanted Snipping Tool Startup with Print Screen on Win 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-gaming-accessories/"><u>Unveiling the Best Gaming Accessories</u></a></li>
 </ul></div>
 

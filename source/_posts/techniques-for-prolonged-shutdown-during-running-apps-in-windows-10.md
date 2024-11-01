@@ -1,7 +1,7 @@
 ---
 title: Techniques for Prolonged Shutdown During Running Apps in Windows 10
-date: 2024-10-21T21:08:27.554Z
-updated: 2024-10-26T16:13:41.018Z
+date: 2024-10-28T17:30:15.085Z
+updated: 2024-11-01T19:30:40.232Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Should You Try First?
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1B. How to Change WaitToKillAppTimeout for All Users
@@ -77,13 +77,6 @@ This will apply altered log-off rules to all users on the PC.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
 
@@ -98,10 +91,10 @@ This will apply altered log-off rules to all users on the PC.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
@@ -112,6 +105,13 @@ This will allow you to change the default value for all users.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
 
@@ -132,21 +132,19 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] 2024 Approved Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-youtube-manages-content-post-upload/"><u>[Updated] How YouTube Manages Content Post-Upload</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unveiling-impressive-hdr-photography-for-portraits-for-2024/"><u>[Updated] Unveiling Impressive HDR Photography for Portraits for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-analysis-of-windows-lav-filter-usage-and-outputs/"><u>A Comprehensive Analysis of Windows LAV Filter Usage and Outputs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/asus-vivobook-s-15-a-comprehensive-compromise-of-design/"><u>ASUS Vivobook S 15 - A Comprehensive Compromise of Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-top-visibility-of-your-notebooks-on-win/"><u>Ensuring Top-Visibility of Your Notebooks on Win</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign a Excel document online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-audio-selections-google-podcast-collection-for-2024/"><u>Prime Audio Selections - Google Podcast Collection for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivate-your-windows-11-explore-with-ease/"><u>Reactivate Your Windows 11 Explore with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-tips-for-sticky-note-backup/"><u>The Essential Tips for Sticky Note Backup</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-youtube-channel-removal-pcphone/"><u>The Ultimate Guide to Youtube Channel Removal (PC/Phone)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-10-best-gif-speed-changers-for-2024/"><u>Top 10 Best GIF Speed Changers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-quick-guide-to-quashing-facebooks-flashy-feed/"><u>[New] In 2024, The Quick Guide to Quashing Facebook's Flashy Feed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-12-flip-screen-cams-for-dynamic-videography-for-2024/"><u>[New] Top 12 Flip-Screen Cams for Dynamic Videography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-slow-motion-capture-with-phantom-lens/"><u>[Updated] Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-guide-to-leveraging-obs-in-android/"><u>2024 Approved Expert Guide to Leveraging OBS in Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-step-by-step-process-to-upgrade-and-update-video-covers-on-social-media-for-2024/"><u>A Step-by-Step Process to Upgrade and Update Video Covers on Social Media for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-make-money-with-a-beauty-channel/"><u>How to Make Money with a Beauty Channel?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/rescue-your-work-in-adobe-indesign-steps-for-recovering-saved-or-erased-files-on-windows-and-mac/"><u>Rescue Your Work in Adobe InDesign: Steps for Recovering Saved or Erased Files on Windows & Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-wlanapidll-missing-error-a-step-by-step-guide/"><u>Solving the wlanapi.dll Missing Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Altering Windows 11 Default Actions
-date: 2024-09-11T00:59:19.510Z
-updated: 2024-09-17T00:58:29.233Z
+date: 2024-10-25T18:19:25.968Z
+updated: 2024-11-01T19:31:20.803Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ Here is how you can do that:
 4. Click on**Always use this app to open files** and click**OK** . This should set the selected app as the default preference.  
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use the Settings App
 
  The next thing that you can do is access the Default Apps option and choose the preferred app from there.
@@ -64,6 +71,13 @@ Follow these steps to proceed:
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -76,13 +90,6 @@ To proceed, follow these steps:
 
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
@@ -109,6 +116,13 @@ Here is how you can do that:
 
  Once this is done, follow one of the steps above to change the default app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Reset the Targeted App
 
  If the problem is within the app that you are trying to change, you can reset the program to solve the problem.
@@ -126,10 +140,10 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 6. Once the command is executed, check if you can change the default app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall the App
@@ -144,24 +158,30 @@ Here is how you can proceed:
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -182,5 +202,21 @@ Here is how you can proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-broadview-networks-navigating-mcn-choices/"><u>[New] 2024 Approved Broadview Networks Navigating MCN Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[New] In 2024, Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-asus-rog-phone-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Asus ROG Phone 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/google-chrome-7/"><u>最高のGoogle Chromeビデオキャプチャツール: 使いやすさと機能性で評価した7つの推奨品</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-heic-images-to-jpeg-in-windows-oses/"><u>Convert HEIC Images to JPEG in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-firmware-modernization-techniques-on-surfaces/"><u>Efficient Firmware Modernization Techniques on Surfaces</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-controlling-installer-service-in-windows/"><u>Guide to Controlling Installer Service in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-fixing-missing-windows-1011-search-data/"><u>Guiding Users Through Fixing Missing Window's 10/11 Search Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g04-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G04 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>In 2024, Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0xc10100bf-with-windows-video/"><u>Overcoming Error 0XC10100BF with Windows VIDEO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prepare-for-the-offline-install-of-win11/"><u>Prepare For the Offline Install of Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-insight-into-tvs-with-internet-access-what-you-need-to-know/"><u>The Ultimate Insight Into TVs with Internet Access: What You Need to Know</u></a></li>
+</ul></div>
 

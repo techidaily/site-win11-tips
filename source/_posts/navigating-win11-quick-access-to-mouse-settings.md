@@ -1,7 +1,7 @@
 ---
 title: "Navigating Win11: Quick Access to Mouse Settings"
-date: 2024-09-12T19:59:41.491Z
-updated: 2024-09-17T05:43:20.446Z
+date: 2024-10-27T16:53:31.662Z
+updated: 2024-11-01T17:57:07.713Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 2. Type **control /name Microsoft.Mouse** in the text box and press the **Enter** key to launch the Mouse Properties applet.  
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Using File Explorer
 
  You can access the Mouse Properties tool using the **System32** folder in the C drive. Despite being a **.cpl** file, you can launch it directly. Repeat the following steps:
@@ -75,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 4. Go to the search bar, type **main.cpl**, and press the **Enter** key.  
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
 
@@ -88,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 4. Close the Task Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Using Command Prompt
@@ -103,26 +124,13 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
 3. Mouse Properties will open in a new window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type **exit** and press Enter to close the Command Prompt.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Using PowerShell
@@ -135,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 3. Mouse Properties tool will open in a new window.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Using a Desktop Shortcut
@@ -154,10 +162,16 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 6. Now, type the name of the shortcut. We named it **Mouse Settings**. Click on the **Finish** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You can double-click on the shortcut and adjust mouse settings.
@@ -189,5 +203,24 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/effortless-package-management-in-w11-your-wingetuser-guidebook/"><u>Effortless Package Management in W11 - Your WingetUser Guidebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-performance-tweaks-overcoming-pc-lag-challenges-in-the-latest-yakuza-3-version/"><u>Enhanced Performance Tweaks: Overcoming PC Lag Challenges in the Latest Yakuza 3 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-net-installation-required-app-problems-in-windows/"><u>Fixing .NET Installation Required App Problems in Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-zero-to-hero-on-twitter-live/"><u>From Zero to Hero on Twitter Live</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>Full Guide to Unlock Your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/full-review-of-logitechs-ultimate-4k-professional-cam/"><u>Full Review of Logitech's Ultimate 4K Professional Cam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rejuvenate-silent-computer-sounds-effectively/"><u>How to Rejuvenate Silent Computer Sounds Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a78-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo A78 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-c210-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia C210 Without PUK Codes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-notch-mac-visual-archiver/"><u>In 2024, Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/light-up-the-room-cursor-enhancement-tips-in-win1011/"><u>Light Up the Room: Cursor Enhancement Tips in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-resolve-incompatible-system-warning-post-upgrade/"><u>Methods to Resolve 'Incompatible System' Warning Post-Upgrade</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-f23-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo F23 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlook-opening-just-in-safe-mode/"><u>Troubleshooting Outlook Opening Just in Safe Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-troubleshooting-overcoming-zero-fault-error/"><u>Win11 Troubleshooting: Overcoming Zero Fault Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winhidedrives-guide-for-windows-enthusiasts/"><u>WinHideDrives Guide for Windows Enthusiasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exposing the Latest File Usage on Windows Systems
-date: 2024-09-11T01:21:29.201Z
-updated: 2024-09-12T01:21:29.201Z
+date: 2024-10-29T19:11:56.692Z
+updated: 2024-11-01T19:41:16.074Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,10 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
  In this article, we'll discuss how to see the recently opened files on Windows, when they were modified the last time, and how to recover them if they have been deleted.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to See Recently Opened Files on Windows
 
@@ -57,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
  In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
 
@@ -81,36 +71,16 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -121,20 +91,6 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
  To see more recently opened items than what appears in the search results, open the app and navigate to its recent files section.
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to See Recently Opened Files Removed From Quick Access
 
@@ -150,41 +106,21 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Access Recently Opened Files With Ease
 
@@ -192,14 +128,11 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
  If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,12 +141,24 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-increase-video-playback-speed-on-instagram/"><u>[Updated] 2024 Approved Increase Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhance-dark-photos-with-iphone-skills-for-2024/"><u>[Updated] Enhance Dark Photos with iPhone Skills for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-frame-your-shot-ultimate-software-guide-image-editors/"><u>2024 Approved Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-winter-wonderland-adjustments-in-windows-11/"><u>7 Winter Wonderland Adjustments in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-dism-on-win11/"><u>A Step-by-Step Guide to Using Dism on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11s-fast-assist-procedure/"><u>Activating Windows 11’S Fast Assist Procedure</u></a></li>
+<li><a href="https://driver-error.techidaily.com/address-bluetooth-driver-malfunction-on-xps-2-in-1/"><u>Address Bluetooth Driver Malfunction on XPS 2-In-1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-uninstallation-block-in-win-11-edition/"><u>Addressing Uninstallation Block in Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adobe-validation-skip-pop-ups-on-pc/"><u>Adobe Validation: Skip Pop-Ups on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alternative-techniques-to-initiate-software-on-a-windows-machine/"><u>Alternative Techniques to Initiate Software on a Windows Machine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophile-writers-premier-talk-shows-from-googloud/"><u>Audiophile' Writers Premier Talk Shows From GooGloud</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-resource-allocation-for-ntoskrnlexe/"><u>Balancing Resource Allocation for Ntoskrnl.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bargain-hunters-rejoice-key-lovers-snag-best-prices-for-lifetime-windows-11/"><u>Bargain Hunters Rejoice: Key Lovers Snag Best Prices for Lifetime Windows 11!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-user-experience-modify-your-windows-10-taskbar-appearance-with-colored-themes/"><u>Enhancing User Experience: Modify Your Windows 10 Taskbar Appearance with Colored Themes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M34 5G Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-paid-android-video-editing-apps-compared-top-10/"><u>New 2024 Approved Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-note-12-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi Note 12 5G Location | Dr.fone</u></a></li>
+</ul></div>
 

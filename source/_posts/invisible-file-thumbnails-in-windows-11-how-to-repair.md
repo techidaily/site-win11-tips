@@ -1,7 +1,7 @@
 ---
 title: Invisible File Thumbnails in Windows 11 – How to Repair
-date: 2024-10-20T21:43:05.336Z
-updated: 2024-10-26T18:16:53.903Z
+date: 2024-10-29T17:32:32.641Z
+updated: 2024-11-01T18:10:36.220Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  Because of that, if thumbnails fail to load in a folder containing many files or if you've opened files in the middle of the thumbnail loading process, which could have affected thumbnails for some files, you should close that folder and reopen it. This time, wait until the thumbnails load successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ensure Thumbnails Are Enabled
 
  Windows lets users permanently disable thumbnails and replace them with icons. This is sometimes the default setting in some Windows devices. If you have recently reset the File Explorer settings to default or suspect the thumbnails might be disabled, follow these steps to enable them:
@@ -50,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change Icon Size and View Style
@@ -71,9 +57,29 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
 
@@ -82,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
  If you are unable to see thumbnails of files in a specific format, check whether Windows can display thumbnail previews for files in that format or not. You can explore that on the official website of the software you use to create these files. If the website says that Windows OS cannot display thumbnail previews for this software's files, there isn't much you can do.
 
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Close Interfering Apps
 
@@ -101,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Rebuild the Thumbnail Cache
@@ -119,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
  Visual effects help you customize the appearance of your device's display and optimize it to get the best performance. You can also choose to have Windows adjust the visual effects based on your preference.
@@ -132,16 +138,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
@@ -171,18 +171,17 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-videos-not-pricey-twitter-video-to-gif-conversion-for-2024/"><u>[New] Viral Videos, Not Pricey Twitter Video to GIF Conversion for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[Updated] 2024 Approved The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>[Updated] In 2024, The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-advanced-taskbar-features-in-windows-11/"><u>Activating Advanced Taskbar Features in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-11s-code-0x0000004e-hurdle/"><u>Addressing Windows 11'S Code 0X0000004E Hurdle</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1726030401410-avisynth/"><u>AviSynthプラグインを使った動画の向き変え手順</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-curve-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze Curve 5G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-open-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus Open Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone XR</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-at-a-glance-digital-home-for-quality-videos/"><u>In 2024, Vimeo at a Glance Digital Home for Quality Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-problem-solving-in-windows-1011-with-shortcuts/"><u>Personalizing Problem-Solving in Windows 10/11 with Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/title-streamlining-display-with-adjusted-desk-icons/"><u>Title: Streamlining Display with Adjusted Desk Icons</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-streaming-success-easily-convert-srt-formats/"><u>[New] Streaming Success Easily Convert SRT Formats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>[Updated] Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-selection-of-screen-capture-software-for-gaming/"><u>[Updated] In 2024, Prime Selection of Screen Capture Software for Gaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity/"><u>[Updated] Strategic Marketing Insights for Maximizing YouTube Shorts Popularity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-corrupted-windows-11-trash-issue/"><u>Correcting the Corrupted Windows 11 Trash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-faster-epic-game-installs/"><u>Cutting-Edge Methods for Faster Epic Game Installs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-color-crisis-8-ways-to-retool-your-pink-desktop/"><u>Epic Color Crisis: 8 Ways to Retool Your Pink Desktop</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-art-of-lights-for-youtube-vlogging/"><u>In 2024, The Art of Lights for YouTube Vlogging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimal-audio-configuration-tips-for-handbrake-on-various-formats-dvds-blu-rays-and-streaming-platforms/"><u>Optimal Audio Configuration Tips for Handbrake on Various Formats: DVDs, Blu-Rays & Streaming Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergizing-macos-and-windows-software/"><u>Synergizing macOS and Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-saving-windows-keyboard-tricks-for-swift-tasks/"><u>Time-Saving Windows: Keyboard Tricks for Swift Tasks</u></a></li>
 </ul></div>
 

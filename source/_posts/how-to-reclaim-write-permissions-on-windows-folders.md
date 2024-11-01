@@ -1,7 +1,7 @@
 ---
 title: How to Reclaim Write Permissions on Windows Folders
-date: 2024-09-10T03:47:06.185Z
-updated: 2024-09-17T09:09:12.859Z
+date: 2024-10-29T19:19:27.722Z
+updated: 2024-11-01T18:11:40.174Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  If you don't use any folder lock software or turning off the protection doesn't help, move on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rule Out a Folder-Specific Issue
 
  Is only one folder reverting to read-only mode? If so, follow the below steps to remove the read-only attribute manually for that folder:
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 3. In the **General** tab, uncheck the box for **Read-only**.
 4. Click **Apply** and hit **OK**.  
 ![Unchecking the Box for Read-Only Option in the General Tab of Properties Window of the File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Unchecking-the-Box-for-Read-Only-Option-in-the-General-Tab-of-Properties-Window-of-the-File-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If removing the attribute this way does not solve the problem, or if the problem involves multiple files, keep applying the remaining fixes.
 
@@ -62,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
@@ -90,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
  To combat ransomware threats and safeguard users' data, Microsoft has introduced a ransomware protection feature. By using this feature, users can prevent third-party apps from changing their files and folders without their permission.
@@ -102,16 +117,23 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Opening Manage Ransomware Protection Option under Virus and Threat Protection in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Opening-Manage-Ransomware-Protection-Option-under-Virus-and-Threat-Protection-in-Windows-Security-App-on-Windows.jpg)
 4. Turn off the toggle under **Controlled folder access**.  
 
-![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
+
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
 
@@ -123,28 +145,16 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 4. In the left sidebar, click **Restore defaults**.  
 ![Opening Restore Defaults Option in Windows Defender Firewall Tab in System and Security Settings in Control Panel App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-7-Opening-Restore-Defaults-Option-in-Windows-Defender-Firewall-Tab-in-System-and-Security-Settings-in-Control-Panel-App-on-Windows.jpg)
 5. Click **Restore defaults** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -163,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 `attrib -s -h -r "Drive:\path_to_folder\*.*" /s /d`
 3. Hit **Enter**.  
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run the SFC and CHKDSK Scans
 
@@ -207,5 +210,26 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>[New] Canva's Magic How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-simplifying-cinematography-best-film-cameras-for-newbies/"><u>[New] In 2024, Simplifying Cinematography Best Film Cameras for Newbies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-the-third-party-inf-does-not-contain-digital-signature-information/"><u>[SOLVED] The Third-Party INF Does Not Contain Digital Signature Information</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-dynamics-of-hd-content-on-modern-social-networks-for-2024/"><u>[Updated] Download Dynamics of HD Content on Modern Social Networks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-earnings-via-sponsored-youtube-videos/"><u>[Updated] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodge-upload-issue-windows-error-code-0x80242016/"><u>Dodge Upload Issue: Windows Error Code 0X80242016</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-drivers-for-your-logitech-m310-mouse/"><u>How To Install The Latest Drivers For Your Logitech M310 Mouse</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-vertical-raytracing-interruptions-and-achieve-seamless-performance-on-your-pc/"><u>How to Overcome Vertical Raytracing Interruptions and Achieve Seamless Performance on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g14-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G14 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch/"><u>In 2024, Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-startup-and-homescreen-adjustments-in-w11/"><u>Navigating Startup and Homescreen Adjustments in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preserve-originality-safeguarding-windows-screensaver-settings/"><u>Preserve Originality: Safeguarding Windows Screensaver Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-non-terminatable-process-on-windows/"><u>Quick Fixes for Non-Terminatable Process on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-operation-failed-win-1011-crashes/"><u>Remedy for 'Operation Failed': Win 10/11 Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-acquiring-adobe-reader-on-ms-store/"><u>Step-by-Step: Acquiring Adobe Reader on MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-revive-your-inactive-windows-11-wi-fi-hotspot/"><u>Steps to Revive Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-steps-to-tackle-windows-error-1132-in-zoom/"><u>Swift Action Steps to Tackle Window's Error 1132 in Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracking-data-used-by-each-windows-app/"><u>Tracking Data Used by Each Window's App</u></a></li>
+</ul></div>
 

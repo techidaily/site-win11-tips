@@ -1,7 +1,7 @@
 ---
 title: Eradicating Discord Installer Faults on PC & Laptop
-date: 2024-09-13T04:43:25.951Z
-updated: 2024-09-17T00:33:14.347Z
+date: 2024-10-26T18:44:24.937Z
+updated: 2024-11-01T19:33:05.877Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
  The Microsoft Program Install and Uninstall troubleshooter resolves issues blocking software installation by examining the registry. So, running the troubleshooter could feasibly be a solution for the “Installation has failed” error. You can download and open the Program Install and Uninstall troubleshooter in the following steps:
@@ -59,13 +66,27 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 4. Right-click any Discord process you find and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option.jpg)
 5. Repeat the fourth step for all Discord-related processes.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Try installing Discord after disabling related background processes.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete Any Leftover Discord Data Folders
@@ -79,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
@@ -89,17 +117,10 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
@@ -121,19 +142,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
 ## 8\. Try Installing Discord in Safe Mode
@@ -143,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Chatting Again in Discord for Windows
 
@@ -161,5 +176,22 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-raspberry-router-image-maker/"><u>[New] 2024 Approved Raspberry Router Image Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-discovering-new-ways-to-use-bandicam-a-deep-dive/"><u>[New] Discovering New Ways to Use Bandicam – A Deep Dive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-viewing-tackling-instagram-video-issues/"><u>[Updated] 2024 Approved Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-complete-guide-to-structuring-effective-audio-xml-for-2024/"><u>[Updated] The Complete Guide to Structuring Effective Audio XML for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-typing-issues-on-malfunctioning-keyboards/"><u>Diagnosing and Fixing Typing Issues on Malfunctioning Keyboards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-to-overcome-windows-11s-dll-faults/"><u>Essential Strategies to Overcome Windows 11'S DLL Faults</u></a></li>
+<li><a href="https://extra-information.techidaily.com/films-best-shot-techniques-top-5-essentials/"><u>Film's Best Shot Techniques Top 5 Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-failed-write-operations-in-windows/"><u>Handling Failed Write Operations in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-control-of-biometrics-in-windows-11-for-domains/"><u>Mastering the Control of Biometrics in Windows 11 for Domains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-the-taskbar-essential-changes-for-windows-11-enhancement/"><u>Reimagining the Taskbar: Essential Changes for Windows 11 Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-unknown-hardware-on-windows-oses/"><u>Resolving 'Error Code: Unknown Hardware' On Windows OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-videos-seamlessly-from-flv-to-wmv-at-no-cost-using-movavi-converter-tool/"><u>Transform Videos Seamlessly From FLV to WMV at No Cost Using Movavi Converter Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trustworthy-guide-for-converting-high-efficiency-video-coding-hevc-to-mp4-with-hitfilm-express-software/"><u>Trustworthy Guide for Converting High-Efficiency Video Coding (HEVC) to MP4 with Hitfilm Express Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-xp-how-to-resolve-exe-opener-woes/"><u>Windows XP: How to Resolve EXE Opener Woes</u></a></li>
+</ul></div>
 

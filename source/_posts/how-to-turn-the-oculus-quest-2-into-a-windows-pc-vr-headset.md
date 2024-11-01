@@ -1,7 +1,7 @@
 ---
 title: How to Turn the Oculus Quest 2 Into a Windows PC VR Headset
-date: 2024-09-12T23:09:56.275Z
-updated: 2024-09-16T18:07:41.384Z
+date: 2024-10-28T17:45:29.545Z
+updated: 2024-11-01T17:18:07.591Z
 tags:
   - windows10
   - windows11
@@ -59,11 +59,31 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Add-Headset-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-headset-option.jpg)
 4. Click the Oculus Quest 2 option and press the**Continue** button.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Link (Cable)** and click**Continue** .
 
 1. Then you’ll be asked to connect a headset to your PC. Plug your Oculus Link cable into a USB 2.0/3.0 slot to connect the PC to the Oculus Quest 2, and then turn on the VR headset.  
 ![Connect your Headset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/connect-your-headset.jpg)
 2. Press**Continue** after connecting the headset.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Click the**Test** button to check the connection and select**Continue** . Note that a USB 3.0 connection is recommended because of its faster data transfer rate.
 4. Select**Close** at the setup complete message.
@@ -71,20 +91,28 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 6. Select the**Allow** option to allow your PC to access the data on the Oculus Quest 2\. Then you can[transfer files from the Oculus Quest 2 to your PC](https://www.makeuseof.com/transfer-files-oculus-quest-2-windows/) .  
 ![The Allow option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-connected-device-to-access-files.jpg)
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
-![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
 
  When you’ve enabled Quest Link in your headset, you’ll enter a new Oculus Dash home environment. That’s essentially a new user interface in which you can browse the Oculus Rift store from which to download/install apps for your Quest 2\. Press the**Store** button to bring up the Oculus Rift storefront.
 
 ![The Oculus Rift Store in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/oculus-rift-storefront.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ll have the Oculus Rift store at your fingertips on your Oculus Quest 2\. There you can download and install VR apps that will be stored on your PC’s hard drive. Download a freely available entertainment app from there to get started.
 
@@ -104,16 +132,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![The Library button in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/library-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Oculus Dash also has a Home VR feature. That’s a customizable virtual living room you can have some fun in. There you can pick up objects and rearrange the living room as you see fit.
@@ -124,37 +146,24 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
 
  When you want to go back to the default Quest 2 home environment, select the**Disable Quest Link** option on the Dash taskbar. You can return to the Dash environment anytime from the Settings dashboard. Select the clock with your controller to enable Quest Link from there.
 
 ![The Disable Quest Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-quest-link-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Manage Your PC VR App Library from Windows
 
  You can also use the Oculus software on your Windows PC to manage your Quest 2’s Rift app library. Select the**Store** tab in the Oculus window to browse the storefront on your PC. Then you can select to download new apps from there.
 
 ![The Store tab in the Oculus Windows software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/store-tab-in-quest2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To remove apps, click**Library** in the Oculus Windows software; select the**Apps** tab to view your library. Click the menu button for an app to select**Uninstall** .
 
@@ -163,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  The Oculus software also includes library location options, with which you can set the default path for installing Rift Store apps. To access those options, click**Settings** \>**General** . Then press the**Edit** button for the**Library Location** .
 
 ![The Edit library location options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-library-locations.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can add a new default installation folder for the apps by pressing the**Add** location button. Choose a new directory in the window, and click the**Select Folder** button. Press the three-dot button for the new location by selecting**Make Default** .
 
@@ -187,5 +203,20 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos/"><u>[New] 2024 Approved Mastering ScreenFlow A Guide to Enhanced Creativity on macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-free-speech-to-text-apps-for-mac-you-need-to-try-for-2024/"><u>[New] Top Free Speech to Text Apps for Mac You Need to Try for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[Updated] In 2024, The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhomes-role-in-crafting-the-future-of-w11-interface/"><u>DevHome's Role in Crafting the Future of W11 Interface</u></a></li>
+<li><a href="https://article-posts.techidaily.com/digital-subtitling-simplified-best-online-tools-of-the-decade-for-2024/"><u>Digital Subtitling Simplified Best Online Tools of the Decade for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>In 2024, A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>In 2024, Advanced Editing Tips Remove the Unnecessary Picture Border</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-software-on-macos-platform/"><u>Leveraging Windows Software on macOS Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-silencing-explore-tab-clamor/"><u>Mastering Windows 11: Silencing Explore Tab Clamor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-insufficient-permissions-in-win-setup-procedures/"><u>Mitigating Insufficient Permissions in Win Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrayer-of-windows-registry-via-command-line/"><u>Navigating the Labyrayer of Windows Registry via Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-enhanced-alerts-full-charge-on-winos/"><u>Strategies for Enhanced Alerts: Full Charge on WINOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-wonders-of-phantoms-chrono-inversion/"><u>Unveiling the Wonders of Phantom’s Chrono Inversion</u></a></li>
+</ul></div>
 

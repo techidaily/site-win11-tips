@@ -1,7 +1,7 @@
 ---
 title: "Integrate Keyboard Indicators: NumLock, CapsLock in Taskbar"
-date: 2024-09-11T01:23:45.614Z
-updated: 2024-09-12T01:23:45.614Z
+date: 2024-10-31T16:46:40.061Z
+updated: 2024-11-01T18:04:36.163Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With TrayStatus
 
@@ -49,37 +46,9 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
 ![Caps and Num Lock system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/traystatus-indicator.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  To add a Scroll Lock indicator and others, right-click the TrayStatus Caps Lock icon in the system tray and select **Settings**. Click the **Status Indicators** tab and select **Show Scroll Lock Status**. You can also choose to show Ctrl, Alt, Win, Shift, RAM, CPU, and hard drive indicators on the system tray from there. The RAM and CPU indicators are handy for [checking system resource usage in Windows 11](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
 
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
@@ -98,19 +67,18 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
@@ -119,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
@@ -133,73 +108,31 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 ![The Keyboard LED Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-setup.jpg)
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
 
 ![The Keyboard LEDs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-window.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
 
@@ -209,18 +142,6 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -228,3 +149,25 @@ thumbnail: https://thmb.techidaily.com/a0246cc894d7a615224c9cfafbf735d7ae91af748
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-sliding-the-timer-on-snapchat-videos/"><u>[New] Sliding the Timer on Snapchat Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-11-video-recorders-that-save-money-without-sacrificing-performance/"><u>[New] Top 11 Video Recorders That Save Money Without Sacrificing Performance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[Updated] In 2024, Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-to-mastering-instagram-chat-videos/"><u>A Step-by-Step to Mastering Instagram Chat Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-audio-disruption-caused-by-another-application/"><u>Eliminating Audio Disruption Caused by Another Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-perfect-copy-paste-between-chromeedgefirefox/"><u>Enabling Perfect Copy-Paste Between Chrome/Edge/Firefox</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-xr21-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia XR21 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-reasons-why-a-pc-beats-a-mac-9-point-to-note/"><u>Mastering Reasons Why a PC Beats a Mac, #9 Point to Note</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ogg-gif/"><u>OGG 파일을 GIF로 원할 수 있는 웹 편리한 무료 변환 도구</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-apples-caldav-on-your-windows-11-desktop/"><u>Optimizing Apple's CalDav on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://facebook.techidaily.com/preeminent-locations-aiming-at-freelancer-careers/"><u>Preeminent Locations Aiming at Freelancer Careers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-unavailable-pin-after-software-crash-on-windows-11/"><u>Recovering Unavailable PIN After Software Crash on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-filesystems-problematic-onedrive-tag-error/"><u>Solving Windows Filesystem's Problematic OneDrive Tag Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-wwe-2k23-glitches-on-windows-11-pcs/"><u>Swift Fixes for WWE 2K23 Glitches on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-convenient-way-to-load-apk-files-on-windows-11/"><u>The Convenient Way to Load APK Files on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015357643-world-of-warcraft-audio-glitch-fixed-enjoy-your-quests-again/"><u>World of Warcraft Audio Glitch Fixed - Enjoy Your Quests Again</u></a></li>
+</ul></div>
+

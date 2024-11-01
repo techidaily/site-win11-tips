@@ -1,7 +1,7 @@
 ---
 title: Tailored Keyboard Shortcuts for Sound Level Adjustment (Win11)
-date: 2024-09-14T05:56:58.200Z
-updated: 2024-09-17T09:18:16.492Z
+date: 2024-10-25T18:48:03.238Z
+updated: 2024-11-01T17:09:19.404Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 4. Click **Shortcut** on the submenu.  
 ![The Shortcut context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-option.png)
 5. Press the **Ctrl + V** keyboard shortcut to paste the copied NirCmd path into the location box.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then press **Space** key once after the NirCmd path, and enter **mutesysvolume 2** in the location box as shown directly below. The location box should then include: **“NirCmd folder path\\nircmd.exe” mutesysvolume 2**.  
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
@@ -72,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up a Hotkey for Maximizing Volume
 
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
@@ -81,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
@@ -96,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  Decrease volume by 5,000 units: **“NirCmd folder path\\nircmd.exe” changesysvolume -5000**
 
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
@@ -125,24 +133,31 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![The Hotkeys tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeys-tab.jpg)
 5. Select the **Volume** **up** checkbox and repeat the previous step to set a hotkey for raising the volume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Then select **Toggle Mute** and repeat step nine to set a keyboard shortcut for muting the volume.
 2. Now open a program to assign the hotkeys to. A web browser or media player from which you can play music and videos would be ideal.
 3. Click the **Mixer** tab to view a list of open apps.  
 ![The Mixer tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-mixer-tab.jpg)
 4. Press the **Select** button beside the software to which you want to assign the custom hotkeys.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the **Lock** checkbox to ensure the volume control hotkeys always remain assigned to the selected software.
 
  Try out the custom volume hotkeys you’ve set for the software. Play a video within your software if you can. Press the keyboard shortcuts you’ve assigned to the app to raise, lower, and mute its volume. Those hotkeys will only affect the app’s volume level and won’t change the general system sound beyond it. The Volume bar within the **Mixer** tab shows you the audio level for the software.
 
 ![A YouTube video in the Opera browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-youtube-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also create new volume control hotkeys from scratch with Volume Control. To do so, select the **Advanced Hotkeys** checkbox on the **Settings** tab. Then you’ll see a **Create New Hotkey** button on the **Hotkeys** tab you can press to set up new keyboard shortcuts. You can select options on an **Action** drop-down menu with advanced hotkeys enabled.
 
@@ -162,5 +177,26 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[New] In 2024, Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficiently-generating-clear-and-concise-images-thumbnails/"><u>[Updated] 2024 Approved Efficiently Generating Clear and Concise Images Thumbnails</u></a></li>
+<li><a href="https://fox-search.techidaily.com/3-wege-zum-sicherstellen-von-fotoubertragungen-von-android-zu-ipad/"><u>3 Wege Zum Sicherstellen Von Fotoübertragungen Von Android Zu iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acoustic-alerts-on-whatsapp-status-for-2024/"><u>Acoustic Alerts on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>Best Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-superiority-9-reasons-why-choosing-a-pc-beats-a-mac/"><u>Deciphering Superiority: 9 Reasons Why Choosing a PC Beats A Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dormant-devices-alive-keyboard-plus-mouse-wake-windows-1011/"><u>Dormant Devices Alive! Keyboard + Mouse Wake Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embracing-simplicity-with-windows-photos-generate-delete/"><u>Embracing Simplicity with Windows Photos Generate Delete</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2016-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2016 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-application-start-due-to-qt-platform-absence/"><u>Fixing Failed Application Start Due to Qt Platform Absence</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c110-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C110 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-an-eye-on-edge-control-in-win11-systems/"><u>Keeping an Eye on Edge: Control in Win11 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mask-mandates-and-hygiene-guidelines/"><u>Mask Mandates and Hygiene Guidelines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-onedrive-errors-in-windows-1011-systems/"><u>Overcoming OneDrive Errors in Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-absence-of-powershell-from-windows-cli/"><u>Overcoming the Absence of PowerShell From Windows CLI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-perfect-full-screen-snipping-with-windows-toolkit/"><u>Secrets to Perfect Full-Screen Snipping with Windows' Toolkit.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016897886-sound-blaster-mic-wont-work-here-are-the-top-fixes-you-need-to-try/"><u>Sound Blaster Mic Won't Work? Here Are the Top Fixes You Need to Try!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-org-based-configurations-issues-on-windows-11-devices/"><u>Tackling Org-Based Configurations Issues on Windows 11 Devices</u></a></li>
+</ul></div>
 

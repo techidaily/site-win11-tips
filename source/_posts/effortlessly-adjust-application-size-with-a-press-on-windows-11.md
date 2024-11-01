@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Adjust Application Size with a Press on Windows 11
-date: 2024-09-15T05:48:44.211Z
-updated: 2024-09-16T23:49:08.577Z
+date: 2024-10-29T17:13:46.933Z
+updated: 2024-11-01T17:00:52.592Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -74,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
@@ -87,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
@@ -95,14 +117,14 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -123,5 +145,19 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-prime-windows-10-photoviewing-suite/"><u>[New] Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-x-photography-leveraging-latest-features/"><u>2024 Approved IPhone X Photography Leveraging Latest Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-stunning-visuals-8-prompt-ideas-using-dall-e-3/"><u>Create Stunning Visuals: 8 Prompt Ideas Using DALL-E 3</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-corsair-void-microphone-quickly-and-effectively/"><u>How to Fix a Non-Functional Corsair Void Microphone Quickly & Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-error-0x0000004e-in-win11/"><u>Mastering Fix for Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-vector-graphics-our-top-10-pics-stores/"><u>Mastering Vector Graphics Our Top 10 Pics Stores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-windows-memory-impact-from-edges-view2/"><u>Minimizing Windows Memory Impact From Edge's View2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-nookles-lol-initial-load-woes/"><u>Navigating Nookles' (LOL) Initial Load Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-windows-note-tips-and-tricks/"><u>Quick and Effective Windows Note Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicker-quarantine-four-easy-ways-to-cut-off-a-user-on-win11/"><u>Quicker Quarantine: Four Easy Ways to Cut Off a User on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-user-experience-adopting-themes-from-the-microsoft-store/"><u>Revolutionize User Experience: Adopting Themes From The Microsoft Store</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Management Console: Fixing Failed Snap Creations"
-date: 2024-09-11T01:24:07.066Z
-updated: 2024-09-12T01:24:07.066Z
+date: 2024-10-30T17:52:35.147Z
+updated: 2024-11-01T19:01:20.390Z
 tags:
   - windows10
   - windows11
@@ -20,45 +20,14 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Fix the Broken Registry Configuration for the Snap-In
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
@@ -81,19 +50,18 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -117,23 +85,23 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -150,20 +118,6 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
 3. Click **Finish** to complete uninstallation. Repeat the process for all the Visual C++ Redistributable packages.
@@ -172,19 +126,12 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
@@ -194,18 +141,6 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-
-
-
-
-
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -213,3 +148,21 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-from-passive-to-profitable-youtube-success-on-the-worlds-biggest-social-network/"><u>[New] From Passive to Profitable YouTube Success on the World's Biggest Social Network</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-igtv-with-translation-captions-for-2024/"><u>[Updated] Enhancing IGTV with Translation Captions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-perfecting-sound-levels-in-recordings-step-by-step-guide-for-2024/"><u>[Updated] Perfecting Sound Levels in Recordings Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bestow-photographic-frames-with-outer-radial-smearing-for-2024/"><u>Bestow Photographic Frames with Outer Radial Smearing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-alternative-av-solutions-despite-microsoft-defender-blockade/"><u>Enabling Alternative AV Solutions Despite Microsoft Defender Blockade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-transfer-capabilities-chrome-downloads-in-windows/"><u>Enhancing File Transfer Capabilities: Chrome Downloads in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flushing-steam-dns-in-windows-a-step-by-step-guide/"><u>Flushing Steam DNS in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/google-worker-advocates-macbook-over-windows-with-a-tinge-of-discontent/"><u>Google Worker Advocates MacBook over Windows with a Tinge of Discontent</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-blossoms-high-latency-issues-a-guide-for-pc-gamers/"><u>Resolving Blossom's High Latency Issues: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-computers-with-a-non-windows-approach/"><u>Reviving Computers with a Non-Windows Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-nvidias-visual-boost-on-your-system/"><u>Stop NVIDIA's Visual Boost on Your System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-issues-with-idt-hd-audio-codec-in-the-latest-windows-operating-system/"><u>Troubleshoot and Resolve Issues with IDT HD Audio Codec in the Latest Windows Operating System</u></a></li>
+</ul></div>
+

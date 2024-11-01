@@ -1,7 +1,7 @@
 ---
 title: "Resetting Windows Firewall: Essential Tips"
-date: 2024-09-11T01:21:36.680Z
-updated: 2024-09-12T01:21:36.680Z
+date: 2024-10-30T17:38:01.490Z
+updated: 2024-11-01T18:38:44.971Z
 tags:
   - windows10
   - windows11
@@ -22,33 +22,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  Let’s dive in and explore all the solutions.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Use the Control Panel
 
@@ -61,33 +38,12 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Use the Command Prompt
 
@@ -121,6 +77,13 @@ netsh advfirewall reset
 
  Wait for the process to complete, and then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use the Windows Security App
 
  The Windows Security app is a tool that helps you scan and fix system bugs. Interestingly, you can also use this tool to reset the firewall settings.
@@ -135,19 +98,12 @@ netsh advfirewall reset
 
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
 
@@ -164,19 +120,12 @@ netsh advfirewall reset
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
 
@@ -188,40 +137,17 @@ netsh advfirewall reset
 
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Restoring the Firewall Settings to Their Default Settings
 
  It’s quite frustrating when the firewall settings prevent you from accessing the apps on your PC. But the good news is that you can simply resolve such issues by resetting these settings.
 
  To reset the firewall settings with ease, check out any of the tips we’ve covered. And if you want to reset the Settings app instead, there are solutions for that too!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -230,12 +156,24 @@ netsh advfirewall reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-beyond-the-screen-insightful-metaverse-models-summarized/"><u>[New] Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-amplifying-impact-youtube-visibility-techniques/"><u>[Updated] 2024 Approved Amplifying Impact YouTube Visibility Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-novices-guide-to-photo-enhancements-with-photoshop/"><u>[Updated] 2024 Approved Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] In 2024, Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-new-features-the-moment-4-update-added-to-windows-11/"><u>7 New Features the Moment 4 Update Added to Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4dvd/"><u>容量の小さいMP4へ変換する：DVDデータの最適手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-dimension-in-windows-11-understanding-the-role-of-copilot-key/"><u>A New Dimension in Windows 11: Understanding the Role of Copilot Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-preparing-your-pc-before-win-upgrade/"><u>A Step-by-Step Guide to Preparing Your PC Before Win Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-network-configurations-in-win11/"><u>Accessing Network Configurations in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-system-file-checker-a-quick-tutorial/"><u>Activating System File Checker: A Quick Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-user-permissions-issues-with-organizational-settings-in-windows-11/"><u>Addressing User Permissions Issues with Organizational Settings in Windows 11</u></a></li>
+<li><a href="https://solve-info.techidaily.com/backup-delle-e-mail-di-microsoft-outlook-su-disco-esterno-due-metodi-per-garantire-la-sicurezza-dei-tuoi-dati/"><u>Backup Delle E-Mail Di Microsoft Outlook Su Disco Esterno: Due Metodi per Garantire La Sicurezza Dei Tuoi Dati</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719327449344-bargain-hunters-rejoice-key-lovers-snag-best-prices-for-lifetime-windows-11/"><u>Bargain Hunters Rejoice: Key Lovers Snag Best Prices for Lifetime Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-performance-with-advanced-virtual-memory-management-techniques/"><u>Boosting System Performance with Advanced Virtual Memory Management Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-lineup-elite-webcam-holders-for-2024/"><u>Superior Lineup Elite Webcam Holders for 2024</u></a></li>
+</ul></div>
 

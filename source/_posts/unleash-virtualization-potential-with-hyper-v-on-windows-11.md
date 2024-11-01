@@ -1,7 +1,7 @@
 ---
 title: Unleash Virtualization Potential with Hyper-V on Windows 11
-date: 2024-09-11T03:49:16.427Z
-updated: 2024-09-17T01:15:54.433Z
+date: 2024-10-25T19:17:33.981Z
+updated: 2024-11-01T18:14:13.096Z
 tags:
   - windows10
   - windows11
@@ -62,25 +62,39 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 ![Startup menu hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Startup-menu-hp-laptop.jpg)
 4. In the BIOS Setup Utility, use the arrow key and open the **Configuration** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop.jpg)
 6. Hit **Enter** and then select **Enabled** from the options.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Press **F10** to save the changes and exit **BIOS**.
 8. Your PC will restart and apply the changes. This may take a while, so wait till your system is fully restarted.
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
 
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -93,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 7. Once completed, click on **Restart Now** to restart, and apply the changes.
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Add Hyper-V to Windows 11 Using Command Prompt
 
@@ -114,19 +135,6 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 
 ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
  However, unlike Command Prompt, PowerShell uses the enable-WindowsOptional features cmdlet to enable optional features in a Windows image.
@@ -140,16 +148,10 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 4. Type **Y** to confirm, and your PC will restart to apply the changes and enable a new feature.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable Hyper-V in Windows 11
@@ -164,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Configure Hyper-V Settings
 
 ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
@@ -175,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 * **Integration services:** You can choose from and enable/disable a host of integration services, including Heartbeat, Key-Value pair exchange, Time synchronization, and Volume shadow copy requestor (VSS) to enhance the performance and functionality of your virtual machine.
 
 ![Windows admin center console home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-admin-center-console-home.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the MMC-based Hyper-V manager is functional and built into the OS, consider using the relatively new Windows Admin Center. It is a browser-based management app that lets you manage your servers, virtual machines, local users and groups, and more.
 
@@ -203,5 +205,24 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-live-demos-to-recordings-harness-ezvide-power/"><u>[Updated] From Live Demos to Recordings Harness EZvide Power</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-reverse-video-on-instagram/"><u>[Updated] How to Reverse Video on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglesome-footage-downloader/"><u>2024 Approved Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-recorder-showdown-apowersoft-vs-others/"><u>2024 Approved Screen Recorder Showdown Apowersoft vs Others</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/devhomes-role-in-crafting-the-future-of-w11-interface/"><u>DevHome's Role in Crafting the Future of W11 Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-play-8t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Play 8T Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 9A to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Huawei Phone Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-software-on-macos-platform/"><u>Leveraging Windows Software on macOS Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-insufficient-permissions-in-win-setup-procedures/"><u>Mitigating Insufficient Permissions in Win Setup Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-disk-space-with-windows-compression/"><u>Optimize Disk Space with Windows Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-enhanced-alerts-full-charge-on-winos/"><u>Strategies for Enhanced Alerts: Full Charge on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-handbook-for-windows-startup-tweaks/"><u>The Ultimate Handbook for Windows Startup Tweaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-audible-audiobooks-seamlessly-discover-the-most-effective-epub-converters-available-today/"><u>Transform Audible Audiobooks Seamlessly – Discover the Most Effective EPUB Converters Available Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-to-banish-windows-pink-screens/"><u>Unveiling Secrets to Banish Windows Pink Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-8-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 8 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 
